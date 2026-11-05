@@ -7,6 +7,10 @@ tags:
 
 # VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)
 
+Nobody at the Saltgate Cod Fair had ever seen a line like it, because the bookies had never been asked to price a coin toss with fists. Sissel and Gunnild Scarbrow were twin sisters out of the Tar Street Bellows, a fire school with yellow-and-black colors and a song about its own bad manners, and they stood at the seventh of the sixteen Stages (the rungs of the soul's refinement), both of them. The Guild's Measurewright (an assayer of souls and workings) had read them that morning in front of a paying crowd and called out two sheets that matched to the last figure. Even money, then, on the strangest card of the summer. Sissel went first, because Sissel always went first: she planted her boots, filled her chest and threw a fire the color of a ripe persimmon, a great roaring sheaf of it, *WHOOMPH*, that came with a fistful of sparks and a stink of scorched hair and set the Chandlers' Guild's bunting alight twenty paces off. The crowd howled with joy. Gunnild answered from the hip with a thread of white flame no wider than a bootlace, *tsss*, which crossed the ring without lighting anything at all until it reached the oak post behind her sister's shoulder, and the post fell over in two pieces.
+
+It took three exchanges. Sissel finished flat on her back in a smoking yellow shirt, short one tooth and the ends of both braids, laughing so hard the surgeon could not get a hand on her, while the Tar Street end sang the whole of the bad-manners song at her sister and everyone with money on her went looking for whoever had read those sheets. The sheets had been right. They gave what each sister could put forward. A third of what Sissel put forward had gone into bunting and noise on its way out of her, and Gunnild had lost about one part in twelve. On the Saltgate quays they call a clean delivery a clear throat and a leaking one a wet throat, and they will tell you which you have for the price of a drink. The Guild's word is Aether Class, and it opens this Part.
+
 ## Part Seventeen — The Aether Class System
 
 *"Power is not what you hold, but how cleanly you pass the infinite through the finite."*
@@ -19,31 +23,31 @@ Two characters at identical stat values and Temperance Stage can have wildly dif
 
 Every Shell radiates an Aetheric Signature described by three constants.
 
-**Lattice Conductivity** (Equilibrium and Vitae aligned) — how easily Essence moves through the Shell without resistance. Low means blockage and backlash; high means smooth passage. Governed by Vitality (Constitution, Fortitude) and Tempering Clarity.
+**Lattice Conductivity** (Equilibrium and Vitae aligned): how easily Essence moves through the Shell without resistance. Low means blockage and backlash; high means smooth passage. Governed by Vitality (Constitution, Fortitude) and Tempering Clarity.
 
-**Resonant Purity** (Intent aligned) — how closely the Shell's output matches the Core's intention. Low means static and misfires; high means near-instant Formation (the moment a working takes shape). Governed by Gnosis Fluency and Ardency (Compression, Density).
+**Resonant Purity** (Intent aligned): how closely the Shell's output matches the Core's intention. Low means static and misfires; high means near-instant Formation (the moment a working takes shape). Governed by Gnosis Fluency and Ardency (Compression, Density).
 
-**Continuum Retention** (Resonance aligned) — how long coherence endures after strain. Low means brief flares; high means sustained resonance. Governed by Harmonics (Stability, Attunement) and Resilience (Integrity, Continuity).
+**Continuum Retention** (Resonance aligned): how long coherence endures after strain. Low means brief flares; high means sustained resonance. Governed by Harmonics (Stability, Attunement) and Resilience (Integrity, Continuity).
 
 **The Aether Index:** Conductivity multiplied by Purity, plus a Retention bonus. A clarity score, not a power level. The Continuum Coherence Ladder measures how much force moves through the Shell. The Aether Index measures how little gets lost on the way through.
 
 ### The Seven Aether Classes
 
-**Class Ø — The Dormant.** The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely. Corresponds to the Dormant Crystal. No stat output above Hollow Grade (the lowest output rank, below F) is possible.
+**Class Ø, The Dormant.** The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely. Corresponds to the Dormant Crystal. No stat output above Hollow Grade (the lowest output rank, below F) is possible.
 
-**Class I — The Muridic.** The awakening Shell, flickering with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably. The bearer may appear unstable when their lattice is simply learning to speak. Glory, Stage VI, Harmonic Crystal, where Aether Class first emerges; **Stages I through V are unclassed, and the coil (the instrument that assays a soul) reads no Class.** **Roughly thirty to forty percent efficiency loss** to Shell interference.
+**Class I, The Muridic.** The awakening Shell, flickering with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably. The bearer may appear unstable when their lattice is simply learning to speak. Glory, Stage VI, Harmonic Crystal, where Aether Class first emerges; **Stages I through V are unclassed, and the coil (the instrument that assays a soul) reads no Class.** **Roughly thirty to forty percent efficiency loss** to Shell interference.
 
-**Class II — The Harmonic.** The attuned Shell begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring (a natural source of magical current) whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Refraction, Resonant Crystal. **Fifteen to twenty-five percent loss.**
+**Class II, The Harmonic.** The attuned Shell begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring (one of the sixty types of Aether, each working on the Soul Crystal in its own way and carrying its own law) whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Refraction, Resonant Crystal. **Fifteen to twenty-five percent loss.**
 
-**Class III — The Resonant.** The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia (power born when several souls or forces resonate together) and complex techniques awaken naturally. Presence becomes as important as any incantation. Late Refraction, Resonant Crystal. **Five to ten percent loss.** The first Class at which stat values translate into combat output at near-full fidelity.
+**Class III, The Resonant.** The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia (power born when several souls or forces resonate together) and complex techniques awaken naturally. Presence becomes as important as any incantation. Late Refraction, Resonant Crystal. **Five to ten percent loss.** The first Class at which stat values translate into combat output at near-full fidelity.
 
-**Class IV — The Luminous.** The lucid Shell thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behavior mirrors the bearer's emotional and moral alignment with unnerving precision. **No single corresponding Crystal Tier**; a Shell-specific peak, most often in Intent-aligned Spirit Path souls whose Shell clarified faster than their Core or Layer. A Luminous soul may test as Resonant or even Radiant Crystal overall while their Shell has simply gotten there first. Efficiency loss negligible; output precision exceeds baseline stat values by a factor depending on Sub-Stat architecture.
+**Class IV, The Luminous.** The lucid Shell thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behavior mirrors the bearer's emotional and moral alignment with unnerving precision. **No single corresponding Crystal Tier**; a Shell-specific peak, most often in Intent-aligned Spirit Path souls whose Shell clarified faster than their Core or Layer. A Luminous soul may test as Resonant or even Radiant Crystal overall while their Shell has simply gotten there first. Efficiency loss negligible; output precision exceeds baseline stat values by a factor depending on Sub-Stat architecture.
 
-**Class V — The Radiant.** The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains (a space where a soul's inner law becomes local reality) against collapse and speak Parun (the tongue law is written in) motifs into matter. The line between intention and environment blurs; the Shell's clarity exerts topological pressure on its surroundings. Early Master, Radiant Crystal, where the first true Domain forms. Stat output begins **exceeding** what the raw numbers suggest, because the Shell is amplifying rather than merely conducting.
+**Class V, The Radiant.** The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains (a space where a soul's inner law becomes local reality) against collapse and speak Parun (the tongue law is written in) motifs into matter. The line between intention and environment blurs; the Shell's clarity exerts topological pressure on its surroundings. Early Master, Radiant Crystal, where the first true Domain forms. Stat output begins **exceeding** what the raw numbers suggest, because the Shell is amplifying rather than merely conducting.
 
-**Class VI — The Voidic.** The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers and reflects. Voidic conductors channel absence, silence and negation without erasing themselves, and interface most directly with Limina Wellsprings and Titanic depths. **Lateral rather than sequential**; it can appear alongside Resonant, Luminous or Radiant Shells rather than strictly after them. Most often in Split-Shell Entities and souls with deep Limina harmonization. Their Ardency does not deal damage in the conventional sense. It removes things.
+**Class VI, The Voidic.** The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers and reflects. Voidic conductors channel absence, silence and negation without erasing themselves, and interface most directly with Limina Wellsprings and Titanic depths. **Lateral rather than sequential**; it can appear alongside Resonant, Luminous or Radiant Shells rather than strictly after them. Most often in Split-Shell Entities and souls with deep Limina harmonization. Their Ardency does not deal damage in the conventional sense. It removes things.
 
-**Class Ω — The Absolute.** The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons (the world's fourteen great powers), Titans and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. Stat output is no longer meaningful as a separate measurement, because the practitioner and their output are the same event.
+**Class Ω, The Absolute.** The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons (the world's fourteen great powers), Titans and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. Stat output is no longer meaningful as a separate measurement, because the practitioner and their output are the same event.
 
 **The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
 
@@ -51,13 +55,13 @@ Every Shell radiates an Aetheric Signature described by three constants.
 
 Aether Class ascends through refinement, not conquest. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives.
 
-**Temperance Refinement** — gradual clarity through discipline and self-confrontation. The most common and safest path. The Core refines and the Shell learns to match.
+**Temperance Refinement:** gradual clarity through discipline and self-confrontation. The most common and safest path. The Core refines and the Shell learns to match.
 
-**Wellspring Baptism** — deep immersion into a Wellspring current, forcibly realigning the Shell's resonance. Potent, perilous, often irreversible.
+**Wellspring Baptism:** deep immersion in a Wellspring's Aether where it pools, forcibly realigning the Shell's resonance. Potent, perilous, often irreversible.
 
-**Aether Forge Rites** — Mechanica (engineered magitech) and ritual that widen conductivity or restructure the Shell directly, sometimes at the cost of memory, autonomy or Essence stability.
+**Aether Forge Rites:** Mechanica (forbidden working that takes power without lawful consent) and ritual that widen conductivity or restructure the Shell directly, sometimes at the cost of memory, autonomy or Essence stability.
 
-**Higher Resonance Infusion** — alignment with Archonic principle, Titanic depth, or world-bearing law that rewrites the Shell from above.
+**Higher Resonance Infusion:** alignment with Archonic principle, Titanic depth, or world-bearing law that rewrites the Shell from above.
 
 ### Variants and Anomalies
 
@@ -79,23 +83,23 @@ The interaction is not linear. **II to III** produces the largest single improve
 
 *"The element does not choose you. It remembers you."*
 
-Essence Typology is a Soul Crystal's natural bias toward one of the eight Families. Not an element controlled, but a disposition expressed. Typology determines which Wellspring currents harmonize without tearing the lattice, how Traits (a belief hardened into a personal law of the soul) form and behave, what Aether Class trajectory the Shell tends toward, and the qualitative character of every stat expression the character produces. Most souls carry one dominant Family bias with a secondary undertone.
+Essence Typology is a Soul Crystal's natural bias toward one of the eight Families. Not an element controlled, but a disposition expressed. Typology determines which Wellsprings harmonize without tearing the lattice, how Traits (a belief hardened into a personal law of the soul) form and behave, what Aether Class trajectory the Shell tends toward, and the qualitative character of every stat expression the character produces. Most souls carry one dominant Family bias with a secondary undertone.
 
-**Caloria** — Conviction, rupture, transformation. The burn that clears ground for something new. *Catalyst:* the moment anger becomes purpose rather than destruction.
+**Caloria:** Conviction, rupture, transformation. The burn that clears ground for something new. *Catalyst:* the moment anger becomes purpose rather than destruction.
 
-**Fulguria** — Perception, revelation, precision. Reads a room, a wound or a lie before it finishes forming. *Catalyst:* seeing a truth no one else could see, and being right.
+**Fulguria:** Perception, revelation, precision. Reads a room, a wound or a lie before it finishes forming. *Catalyst:* seeing a truth no one else could see, and being right.
 
-**Vectoria** — Momentum, the breaking point, the long climb. Pressure that either shatters or refines. *Catalyst:* the moment catastrophe becomes clarity.
+**Vectoria:** Momentum, the breaking point, the long climb. Pressure that either shatters or refines. *Catalyst:* the moment catastrophe becomes clarity.
 
-**Spatium** — Distance, absence, the space between. Always already somewhere else. *Catalyst:* discovering that where you are is a choice, not a fact.
+**Spatium:** Distance, absence, the space between. Always already somewhere else. *Catalyst:* discovering that where you are is a choice, not a fact.
 
-**Materia** — Endurance, structure, grounding. The slowest Typology to awaken and the most resistant to Catalytic Collapse once it does. *Catalyst:* choosing to remain when every instinct demands flight.
+**Materia:** Endurance, structure, grounding. The slowest Typology to awaken and the most resistant to Catalytic Collapse once it does. *Catalyst:* choosing to remain when every instinct demands flight.
 
-**Vitalia** — Growth, generosity, rhythm. Discovers itself through accumulation rather than rupture. *Catalyst:* giving without counting, and finding the count was always in your favor.
+**Vitalia:** Growth, generosity, rhythm. Discovers itself through accumulation rather than rupture. *Catalyst:* giving without counting, and finding the count was always in your favor.
 
-**Fluxia** — Empathy, reflection, adaptation. Most prone to Synergia and Echo Bonds. *Catalyst:* discovering that surrender and strength are the same posture.
+**Fluxia:** Empathy, reflection, adaptation. Most prone to Synergia and Echo Bonds. *Catalyst:* discovering that surrender and strength are the same posture.
 
-**Limina** — Endings, dissolution, the truth found in what is missing. Surfaces when denial costs more than acceptance. *Catalyst:* accepting that something is over, and meaning it.
+**Limina:** Endings, dissolution, the truth found in what is missing. Surfaces when denial costs more than acceptance. *Catalyst:* accepting that something is over, and meaning it.
 
 ### Typology and the Stat System
 
@@ -109,19 +113,19 @@ Typology also determines Wellspring compatibility, which determines which Sub-St
 
 ### The Resource System
 
-**EU (Essence Units)** — the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Scales with Temperance Stage, governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.
+**EU (Essence Units):** the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Scales with Temperance Stage, governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.
 
-**Flux Density (EU/g)** — the compression ratio, how much Essence is packed per unit of Crystal mass. Higher means greater output from the same reserve. Governed by **Tempering Clarity** and **Ardency Compression**. This separates a practitioner who burns through their reserve in three techniques from one who fights for an hour on the same pool.
+**Flux Density (EU/g):** the compression ratio, how much Essence is packed per unit of Crystal mass. Higher means greater output from the same reserve. Governed by **Tempering Clarity** and **Ardency Compression**. This separates a practitioner who burns through their reserve in three techniques from one who fights for an hour on the same pool.
 
-**AU/s (Aether Units per second)** — the output rate, how much Essence converts into active expression per second of sustained operation. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**.
+**AU/s (Aether Units per second):** the output rate, how much Essence converts into active expression per second of sustained operation. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**.
 
-**Eta (η), Efficiency** — the ratio of Essence spent to Essence that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because it determines how long the reserve lasts under continuous output. Governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
+**Eta (η), Efficiency:** the ratio of Essence spent to Essence that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because it determines how long the reserve lasts under continuous output. Governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
 
 ### The Turn, and What a Unit Is Worth
 
 **One combat turn is 6 seconds.** Every duration the system states in combat turns is read through that figure: a working held three turns is held 18 seconds, a field that stands eight turns stands 48. The calendar turn of fourteen days is another thing that shares the name.
 
-**One EU is one megajoule.** One AU is one EU, so **1 AU/s is 1 MW**. Power drawn is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as heat, sound and structural bleed. A reserve of *E* EU spent at *R* AU/s empties in *E* ÷ *R* seconds, and that figure does not depend on the conversion at all.
+**One EU is one megajoule.** One AU is one EU, so **1 AU/s is 1 MW**. Power spent is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as heat, sound and structural bleed. A reserve of *E* EU spent at *R* AU/s empties in *E* ÷ *R* seconds, and that figure does not depend on the conversion at all.
 
 ### The EU Band by Temperance Stage
 
@@ -191,8 +195,8 @@ The nine Tiers of Standing replace the former lettered Coherence Bands. The η f
 
 ### Essence Recovery
 
-**Passive Recovery** — baseline absorption of ambient Essence without active effort. Governed by **Tempering Yield** and **Harmonics Synergy**. Faster near active Wellspring veins, slower in depleted or hostile environments, negligible in Silence Realms (places where the Aether is dead).
+**Passive Recovery:** the baseline pull of ambient Aether, refined in the Crystal into Essence, without active effort. Governed by **Tempering Yield** and **Harmonics Synergy**. Faster near active Wellspring veins, slower in depleted or hostile environments, negligible in Silence Realms (places where the Aether is dead). Rich ground fills a Crystal faster and thin ground starves it, which is why the scholar's Aetheric Density (how thickly a place is charged with Aether) is the first thing a veteran asks about a new town, usually in rougher words.
 
-**Active Recovery** — deliberate absorption through meditation, Wellspring communion or alchemical treatment. Significantly faster, but requires the character to stop fighting and concentrate. An alchemical treatment quickens the draw from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows. Governed by **Harmonics Attunement** and **Tempering Yield**.
+**Active Recovery:** deliberate absorption through meditation, Wellspring communion or alchemical treatment. Significantly faster, but requires the character to stop fighting and concentrate. An alchemical treatment quickens the pull from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows. Governed by **Harmonics Attunement** and **Tempering Yield**.
 
-**Crisis Recovery** — surges triggered by soul-cost events, Threshold completions or genuine emotional breakthroughs during combat. Not reliable and cannot be manufactured. The Crystal's reward for genuine contact with consequence, the same principle underlying the XP system.
+**Crisis Recovery:** surges triggered by soul-cost events, Threshold completions or genuine emotional breakthroughs during combat. Not reliable and cannot be manufactured. The Crystal's reward for genuine contact with consequence, the same principle underlying the XP system.

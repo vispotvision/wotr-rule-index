@@ -7,15 +7,21 @@ tags:
 
 # The Magical Categories: Unified Taxonomy
 
+Big Maud Skerritt sold herring on the Skerry quay, and she threw them, *fwip-THAP*, flat and hard, at sixty paces, at customers who were slow with the coin. A herring from Maud would crack a tankard in a man's hand and leave a silver bruise that smelled for a week. When a Guild assessor came to ask what license she held, she knocked his hat into the harbor, and the Accord convened a public hearing to establish what, in law, she was doing. Eight Measurewrights (the Guild's sworn measurers) sat on it. The bookies of Skerry opened the book before the benches were full: Vectra at two to one, Arts at three, Manifestus at twelve for the romantics, and forty to one on Mechanica, the forbidden one, which the fish-merchants' guild was paying somebody to argue for. Four days, three fistfights among the bench, one Measurewright in tears, and a demonstration that took the presiding examiner's coif off on the fifth herring.
+
+They entered her under Arts, with a dissent. Vectra's backers rioted in a small way. Maud paid forty silver in fees, in herring, and raised her prices.
+
+I have told that story to every apprentice I have ever had, because this table looks like a law of nature and it was written by people like those eight. There are twenty-six headings below. Most of them are sound. All of them have been fought over by someone with money riding on the answer.
+
 ---
 
 ## How to read this taxonomy
 
-Every category carries an alignment tag — **Body**, **Spirit**, **Attraction**, **Triadic**, or a combination. These map onto the three Planes and three expressive Disciplines, restated as *practice* rather than *structure*:
+Every category carries an alignment tag: **Body**, **Spirit**, **Attraction**, **Triadic**, or a combination. These map onto the three Planes and three expressive Disciplines, restated as *practice* rather than *structure*:
 - **Body-Aligned** leans on the **Physical Plane** and **Vitae**. Essence as impact, motion, form.
 - **Spirit-Aligned** leans on the **Soul Plane** and **Intent**. Essence as precision, memory, shaped will.
 - **Attraction-Aligned** leans on the **Plane of Fate** (the plane that records bonds, oaths and consequence) and **Resonance**. Essence as reach, recognition, binding.
-- **Triadic** categories don't lean. They're what happens when all three Disciplines, anchored by **Equilibrium**, operate as one movement — the practice-form of **Formation**.
+- **Triadic** categories don't lean. They're what happens when all three Disciplines, anchored by **Equilibrium**, operate as one movement, the practice-form of **Formation**.
 - **Combination** tags mark categories operating at the seam between two Planes, neither fully arrived nor fully departed.
 A practitioner's primary Path (which of four Planes a soul's growth leans toward) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
 
@@ -25,7 +31,7 @@ A practitioner's primary Path (which of four Planes a soul's growth leans toward
 
 **Body-Aligned**
 
-Structured, discipline-based styles blending movement, form, and Essence flow — controlled Flux (the flow of Essence through the body), martial shaping, embodied Aether expression. **Vitae** given technique. Arts are often a practitioner's *first* structured magic regardless of eventual Path, since the truth held in the Essence Core (the Crystal's inner layer) and the expression of the Aether Shell (its outer layer, which turns power into force) already speak the same language here.
+Structured, discipline-based styles blending movement, form, and Essence flow: controlled Flux (the flow of Essence through the body), martial shaping, embodied Aether expression. **Vitae** given technique. Arts are often a practitioner's *first* structured magic regardless of eventual Path, since the truth held in the Essence Core (the Crystal's inner layer) and the expression of the Aether Shell (its outer layer, which turns power into force) already speak the same language here.
 
 **Examples:** Spirit Forge Arts · Invocation Arts · Binding Arts · Resonant Forms
 
@@ -35,7 +41,7 @@ Structured, discipline-based styles blending movement, form, and Essence flow �
 
 **Spirit-Aligned**
 
-Alchemical procedures channelling Wellspring (standing currents of natural law) processes through Parun Glyphs (signs in the root script of law). Drafts are formulaic: **Aether + Essence + Vessel + Glyphica = Reaction** — the Alchemy codex's central equation as its own category.
+Alchemical procedures channeling Wellspring (one of the sixty types of Aether, each working on the Soul Crystal its own way and each carrying its own law) processes through Parun Glyphs (signs in the root script of law). Drafts are formulaic: **Aether + Essence + Vessel + Glyphica = Reaction**, the Alchemy codex's central equation as its own category.
 
 Though Drafts touch all three Soul Crystal (the soul's organ that stores Essence and channels it outward) layers, they're classed Spirit-aligned because the decisive variable is how cleanly the Essence Core's intention survives the journey into the crucible.
 
@@ -47,9 +53,9 @@ Though Drafts touch all three Soul Crystal (the soul's organ that stores Essence
 
 **Attraction-Aligned**
 
-Fusion workings merging Essences, Traits (standing laws a soul carries), Domains (spaces where one's own law outranks physics), or Wellspring processes into hybrids. Operates on **Attraction Force** (the law of recognition that lets bonds and claims hold) and requires strict compatibility — the Conjunction operation from Alchemy and the Codex of Absolute Magical Law, here as its own category. Not the Method Conjunctia, which names a practitioner who holds two Families at once.
+Fusion workings merging Essences, Traits (standing laws a soul carries), Domains (spaces where one's own law outranks physics), or Wellspring processes into hybrids. Operates on **Attraction Force** (the law of recognition that lets bonds and claims hold) and requires strict compatibility: the Conjunction operation from Alchemy and the Codex of Absolute Magical Law, here as its own category. Not the Method Conjunctia, which names a practitioner who holds two Families at once.
 
-Attraction-aligned because compatibility is fundamentally about *recognition*: two Houses (the older, feeling-sorted groupings of Wellsprings), Traits, or Domains either recognise each other as connectable, or they don't, and no Vitae or Intent substitutes. Opposed Houses require mediation glyphs because the Plane of Fate is being asked to hold a connection it didn't offer freely.
+Attraction-aligned because compatibility is fundamentally about *recognition*: two Houses (the older, feeling-sorted groupings of Wellsprings), Traits, or Domains either recognize each other as connectable, or they don't, and no Vitae or Intent substitutes. Opposed Houses require mediation glyphs because the Plane of Fate is being asked to hold a connection it didn't offer freely.
 
 **Examples:** Apotheosis Fusions · Absolution Weaves · Echofold Constructs
 
@@ -71,7 +77,7 @@ Triadic because no single Discipline governs it. A Synergia field is several Sou
 
 **Spirit ↔ Attraction**
 
-Magic of tone, vibration, and resonant frequency. Psions, choirs, and empathic casters use Harmonia to tune or destabilise Wellsprings, Traits, and Domains — the practice-form of **Resonance Integrity**.
+Magic of tone, vibration, and resonant frequency. Psions, choirs, and empathic casters use Harmonia to tune or destabilize Wellsprings, Traits, and Domains: the practice-form of **Resonance Integrity**.
 
 Sits between Spirit and Attraction because tone originates in the Essence Core (Spirit, what the soul *means*) but only becomes Harmonia once it travels outward to affect other Crystals (Attraction, what the soul *reaches*). Mismatched Resonant Tone produces Echo Fracture (the failure state of tone-work).
 
@@ -83,11 +89,11 @@ Sits between Spirit and Attraction because tone originates in the Essence Core (
 
 **Spirit-Aligned**
 
-Formal rituals built on Wellspring harmonics, Realm laws, and Parunic syntax. A typical sequence: **Intention → Space → Circle → Offering → Invocation → Catalyst → Seal** — a granular unfolding of Ritual Integration's four phases.
+Formal rituals built on Wellspring harmonics, Realm laws, and Parunic syntax. A typical sequence: **Intention → Space → Circle → Offering → Invocation → Catalyst → Seal**, a granular unfolding of Ritual Integration's four phases.
 
 Spirit-aligned because, unlike Drafts, its anchors are temporary and ceremonial. A Ritus is performed, not built. The Essence Core's posture during the rite matters more than any glyph's placement.
 
-Ritus is also **the ancestor of every field-capable discipline** that later internalised what the circle used to externalise.
+Ritus is also **the ancestor of every field-capable discipline** that later internalized what the circle used to externalize.
 
 **Examples:** Rite of Hollow Union · Pale Root Binding · Choir of Severance
 
@@ -97,7 +103,7 @@ Ritus is also **the ancestor of every field-capable discipline** that later inte
 
 **Attraction-Dominant**
 
-Large-scale anomalies where Aether law bends under Resonance overload. Semi-autonomous, self-sustaining events marking major law stress — the **Singularity** of Statute XIV.
+Large-scale anomalies where Aether law bends under Resonance overload. Semi-autonomous, self-sustaining events marking major law stress: the **Singularity** of Statute XIV.
 
 Attraction-dominant because once triggered, Phenomena are no longer *cast*; they're lattice-position events on the Plane of Fate that have outrun any Attraction Layer. This is why Counter-Phenomena are so dangerous: the trigger has an author, but the Phenomenon itself does not.
 
@@ -109,9 +115,9 @@ Attraction-dominant because once triggered, Phenomena are no longer *cast*; they
 
 **Spirit-Aligned**
 
-The Parun-based language of law — the syntax by which the Continuum (the whole lawful order of reality) recognises and authorises transformation. Explicit (sigils, scripts) or implicit (internalised chains). Governs the **Four Glyph Roles**: Authorization, Boundary, Direction, Sealing.
+The Parun-based language of law, the syntax by which the Continuum (the whole lawful order of reality) recognizes and authorizes transformation. Explicit (sigils, scripts) or implicit (internalized chains). Governs the **Four Glyph Roles**: Authorization, Boundary, Direction, Sealing.
 
-Spirit-aligned because it's the Essence Core's intention made *legible*. A practitioner with sloppy internalised chains doesn't fail to cast; they cast something slightly different from intended — a quiet, accumulating error.
+Spirit-aligned because it's the Essence Core's intention made *legible*. A practitioner with sloppy internalized chains still casts, and what comes out is slightly different from what was intended: a quiet, accumulating error.
 
 **Examples:** Wordform Chains · Sigilcraft (Runecraft, the cut sentence) · Parunic Script Weaving
 
@@ -121,7 +127,7 @@ Spirit-aligned because it's the Essence Core's intention made *legible*. A pract
 
 **Body ↔ Spirit**
 
-Short-lived Wellspring emissions and flares triggered by high emotional density or sudden pressure, reflecting current Temperance and Essence posture. An involuntary Trait preview — **Overtone Bloom** given external form.
+Short-lived Wellspring emissions and flares triggered by high emotional density or sudden pressure, reflecting current Temperance and Essence posture. An involuntary Trait preview: **Overtone Bloom** given external form.
 
 Sits between Body and Spirit because the trigger is always Spirit (emotional/Essence spike) but the expression is always Body (a flare that briefly exists physically). Early-Temperance souls experience this far more; it's what Trait Awakening *looks like from outside*.
 
@@ -133,9 +139,9 @@ Sits between Body and Spirit because the trigger is always Spirit (emotional/Ess
 
 **Triadic Axis**
 
-The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance — the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
+The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance, the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
 
-Not a technique cast, but the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognised by what a soul refuses to let end.
+Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognized by what a soul refuses to let end.
 
 **Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Anima (Attraction) · Via Fati (Fate)
 
@@ -159,9 +165,9 @@ Classed Body-aligned because a Trait's most legible expression is almost always 
 
 **Attraction-Corrupted**
 
-Forbidden constructs bypassing Soul Crystals, Wellsprings, or Glyphic Syntax. Mechanica coerces transformation without lawful Wellspring participation, consuming Resonance and damaging the Continuum — the practice this entire taxonomy exists in *opposition* to.
+Forbidden constructs bypassing Soul Crystals, Wellsprings, or Glyphic Syntax. Mechanica coerces transformation without lawful Wellspring participation, consuming Resonance and damaging the Continuum: the practice this entire taxonomy exists in *opposition* to.
 
-Tagged Attraction-**corrupted** deliberately. Every other category involves recognition — of Wellsprings, Domains, other souls. Mechanica is what remains when recognition is removed and replaced with extraction: Conjunction's compatibility deleted, Glyphica's authorization skipped, Drafts performed without consent. Statute XXVI, **Mechanica Irreversibility**, exists because this is the one category that leaves scars the Continuum doesn't forget.
+Tagged Attraction-**corrupted** deliberately. Every other category involves recognition: of Wellsprings, Domains, other souls. Mechanica is what remains when recognition is removed and replaced with extraction: Conjunction's compatibility deleted, Glyphica's authorization skipped, Drafts performed without consent. Statute XXVI, **Mechanica Irreversibility**, exists because this is the one category that leaves scars the Continuum doesn't forget.
 
 **Examples:** Soul Splicing · Aether Inversion · Trait Collapse Engines
 
@@ -171,9 +177,9 @@ Tagged Attraction-**corrupted** deliberately. Every other category involves reco
 
 **Body ↔ Spirit**
 
-The engineering, forging, and refinement of Soul Crystals and related lattices, underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment, and the Coherence Ladder. The practiced discipline behind the **Crystalia Constraint**: harmonisation with three relevant Wellsprings, certified understanding of the subject's Essence Typology (a Crystal's natural bias toward one phenomenon), sufficient Temperance to survive exposure to another soul's Essence Core.
+The engineering, forging, and refinement of Soul Crystals and related lattices, underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment, and the Coherence Ladder. The practiced discipline behind the **Crystalia Constraint**: harmonization with three relevant Wellsprings, certified understanding of the subject's Essence Typology (a Crystal's natural bias toward one phenomenon), sufficient Temperance to survive exposure to another soul's Essence Core.
 
-Sits between Body and Spirit because its *object* is the Essence Core but its *method* is physical — forging and tempering done with hands and instruments on a lattice that happens to also be a soul.
+Sits between Body and Spirit because its *object* is the Essence Core but its *method* is physical: forging and tempering done with hands and instruments on a lattice that happens to also be a soul.
 
 The discipline's hard limit is that **nucleation cannot be manufactured.** A Crystalia practitioner can widen conductivity, repair a fracture, and prepare a lattice to receive a melt cleanly. They cannot supply a seed, because a seed is a law the subject survived into existence and no instrument makes one. Everything the trade sells past that point is a **Draft under another name**, and the Accord's certification distinguishes the two on paper and nowhere else.
 
@@ -185,11 +191,11 @@ The discipline's hard limit is that **nucleation cannot be manufactured.** A Cry
 
 **Triadic System**
 
-The Sixty Wellsprings, cosmic dialects of transformation sorted into the **eight Families** by Physics Domain: Caloria, Fulguria, Vectoria, Spatium, Materia, Vitalia, Fluxia, Limina. Temperance governs how much of each process a soul can bear; Wellsprings define what law and emotional grammar are available.
+The Sixty Wellsprings: the types of Aether a practitioner pulls from the world, each affecting the Soul Crystal differently, each a source of power that also stands for an alchemical principle and a spiritual transformation. Cosmic dialects of transformation, sorted into the **eight Families** by Physics Domain: Caloria, Fulguria, Vectoria, Spatium, Materia, Vitalia, Fluxia, Limina. Temperance governs how much of each process a soul can bear; Wellsprings define what law and emotional grammar are available. A Wellspring also has sites where its Aether pools, and common speech calls such a site a Core.
 
 *The seven Houses of the older registers, Coagulation, Ascent, the Forge, the Green Pulse, the Black Gate, the Veil and the Hollow, sorted by feeling rather than by law and do not map onto the Families. They remain in the Wellspring codices and the Veil literature and are read as historical.*
 
-Triadic not because any single Wellspring touches all three Planes equally, but because the *system as a whole* is the shared vocabulary every other category draws from. Arts invoke them through Vitae, Drafts through Glyphica, Vocatia through recognition. **The Sixty are the nouns; everything else is a way of using them as verbs.**
+Triadic because the *system as a whole* is the shared vocabulary every other category speaks, whatever any single Wellspring does with the three Planes. Arts invoke them through Vitae, Drafts through Glyphica, Vocatia through recognition. **The Sixty are the nouns; everything else is a way of using them as verbs.**
 
 **Examples:** Benediction · Fixatio · Ascensio · Oneirion · Abython · Verdantia · Nihiloth
 
@@ -199,9 +205,9 @@ Triadic not because any single Wellspring touches all three Planes equally, but 
 
 **Spirit-Aligned**
 
-Psionic shaping and projection of consciousness into constructs, fields, or avatars — turning thought and identity into structured presence. **Intent** given enough Resonance to operate at a distance from the body that generated it.
+Psionic shaping and projection of consciousness into constructs, fields, or avatars, turning thought and identity into structured presence. **Intent** given enough Resonance to operate at a distance from the body that generated it.
 
-Spirit-aligned because an Animatria construct is a small detached fragment of the caster's Essence Core given temporary independent operation, closer to a deliberately-shaped Essence Shard than a Domain. This is why Animatria fails completely in Silence Realms (regions where no lawful working can be authorised): the construct's continuity depends on a connection back to its source, which Harmonic Silence severs.
+Spirit-aligned because an Animatria construct is a small detached fragment of the caster's Essence Core given temporary independent operation, closer to a deliberately-shaped Essence Shard than a Domain. This is why Animatria fails completely in Silence Realms (regions where no lawful working can be authorized): the construct's continuity depends on a connection back to its source, which Harmonic Silence severs.
 
 **Examples:** Eidolon Crafting · Spiritchain · Animatria Reflex
 
@@ -211,7 +217,7 @@ Spirit-aligned because an Animatria construct is a small detached fragment of th
 
 **Attraction-Aligned**
 
-Invocation by recognition and correspondence: Titans, Archons (the fourteen great powers that embody cosmic law), World Spirits, lesser entities, Realms. Vocatia is not domination — it's the negotiation of shared resonance, the practice-form of **Invocation and Consent**.
+Invocation by recognition and correspondence: Titans, Archons (the fourteen great powers that embody cosmic law), World Spirits, lesser entities, Realms. Vocatia never dominates: it negotiates shared resonance, the practice-form of **Invocation and Consent**.
 
 The category most directly governed by the Plane of Fate's lawful currents. A Vocatia working addressed to an unwilling higher being is, at the level the Continuum reads intention, an attempted Usurpation, regardless of correct surface syntax. Successful Vocatia is always an act of the **Current of Recognition**, never Refusal.
 
@@ -223,7 +229,7 @@ The category most directly governed by the Plane of Fate's lawful currents. A Vo
 
 **Body ↔ Attraction**
 
-Magic of motion, direction, velocity, and spatial gravitation. Essential to Ascensio, kinetic combat, and high-speed Domain work — **Vitae's** impact given **Resonance's** reach.
+Magic of motion, direction, velocity, and spatial gravitation. Essential to Ascensio, kinetic combat, and high-speed Domain work: **Vitae's** impact given **Resonance's** reach.
 
 Sits between Body and Attraction because it's fundamentally about *where force goes*: a Body question answered using Attraction tools (the Plane of Fate's connections between non-adjacent points). Gravity Folding and Spatial Collapse are small, controlled Spirit Axes claimed and released within a single motion.
 
@@ -247,11 +253,11 @@ Sits between Spirit and Attraction because memory itself is Soul Plane, but its 
 
 **Triadic Convergence**
 
-The quantitative study of Aether behavior: Flux, Aether Units, Efficiency, Density, Coherence. Aetherica links Crystalia, the Coherence Ladder, and the Scale System into one analytic frame — the *measurement* discipline underlying nearly every numeric value in this Continuum.
+The quantitative study of Aether behavior: Flux, Aether Units, Efficiency, Density, Coherence. Aetherica links Crystalia, the Coherence Ladder, and the Scale System into one analytic frame, the *measurement* discipline underlying nearly every numeric value in this Continuum.
 
 Triadic Convergence because it's least concerned with *doing* magic and most with *describing* it. A practitioner of Aetherica might never cast in their life, instead ensuring everyone else's workings are measured against the same Ladder.
 
-**Examples:** Flux Stabilisation · Aether Mapping · Continuum Gaugework
+**Examples:** Flux Stabilization · Aether Mapping · Continuum Gaugework
 
 ---
 
@@ -259,7 +265,7 @@ Triadic Convergence because it's least concerned with *doing* magic and most wit
 
 **Spirit ↔ Attraction Apex**
 
-The apex harmonic art of aligning multiple Aether bodies, Wellsprings, and Domains into a single coherent field. Underlies Wellspring restoration, large-scale Realm works, and high-order summoning — Synergia and Harmonia scaled up and made *durable* rather than momentary.
+The apex harmonic art of aligning multiple Aether bodies, Wellsprings, and Domains into a single coherent field. Underlies Wellspring restoration, large-scale Realm works, and high-order summoning: Synergia and Harmonia scaled up and made *durable* rather than momentary.
 
 The Spirit-Attraction Apex because it requires both: Spirit-side precision to align many Essence Cores without flattening any, and Attraction-side reach to hold that alignment as a lasting Domain rather than a passing chord. A successful Concordia working is functionally a Major Shared Realm (a Domain that has outlived its founders and become a place)'s founding moment, performed deliberately, and the category most often invoked to heal a damaged Wellspring vein or begin closing a Hollowing (a region's slow loss of the capacity for lawful working).
 
@@ -273,7 +279,7 @@ The Spirit-Attraction Apex because it requires both: Spirit-side precision to al
 
 Deliberate reshaping of local Continuum behavior so that a chosen law becomes easier to sustain within a defined space. The practitioner does not enforce the law directly; they alter what the region is willing to do cheaply.
 
-Attraction-aligned because a Domain is a standing negotiation with the Plane of Fate rather than an application of force. It persists exactly as long as the Attraction Layer keeps recognising the claim, which is why a Domain fails all at once rather than fraying.
+Attraction-aligned because a Domain is a standing negotiation with the Plane of Fate rather than an application of force. It persists exactly as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying.
 
 Distinct from **Concordia**, which aligns many existing fields into one; Domain Weaving builds a single field from a single soul's claim.
 
@@ -285,11 +291,11 @@ Distinct from **Concordia**, which aligns many existing fields into one; Domain 
 
 **Spirit ↔ Attraction** 
 
-The binding, sealing, and lawful imprisonment of a thing against its own nature — souls, entities, Wellspring processes, Phenomena mid-event, and other practitioners' workings. Where Glyphica supplies the Sealing role as one of four, Claustra is the discipline of making that role carry the whole weight of a working indefinitely.
+The binding, sealing, and lawful imprisonment of a thing against its own nature: souls, entities, Wellspring processes, Phenomena mid-event, and other practitioners' workings. Where Glyphica supplies the Sealing role as one of four, Claustra is the discipline of making that role carry the whole weight of a working indefinitely.
 
-Sits between Spirit and Attraction because the seal's *syntax* is Soul Plane precision while its *duration* is a Fate-side claim that must be renewed by something. A Claustra working that loses its anchor does not weaken. It opens.
+Sits between Spirit and Attraction because the seal's *syntax* is Soul Plane precision while its *duration* is a Fate-side claim that must be renewed by something. A Claustra working that loses its anchor opens, all of it, at once.
 
-The category the Binding Arts have been practising without a name, and the home of the **Vow Clause**. A vow is a seal a practitioner sets on themselves, and it is the only Claustra working whose anchor is the bearer's own continued behavior.
+The category the Binding Arts have been practicing without a name, and the home of the **Vow Clause**. A vow is a seal a practitioner sets on themselves, and it is the only Claustra working whose anchor is the bearer's own continued behavior.
 
 **Examples:** Dragon Binding · Null-Anchors · The Veil's standing closures · Oath-Seals
 
@@ -299,7 +305,7 @@ The category the Binding Arts have been practising without a name, and the home 
 
 **Attraction-Negative** 
 
-The removal of magical possibility from a region, a body, or a working. Not counterspelling and not shielding — the deliberate production of an absence in which lawful transformation cannot be authorised at all.
+The removal of magical possibility from a region, a body, or a working. Counterspelling and shielding are other trades. This is the deliberate production of an absence in which lawful transformation cannot be authorized at all.
 
 Tagged **Attraction-negative** on the same logic that makes Mechanica *Attraction-corrupted*. Mechanica removes recognition and substitutes extraction. Silentia removes recognition and substitutes nothing, which is why Silence Realms sever Animatria constructs from their source and why a soul held inside one reports the sensation as loneliness rather than weakness.
 
@@ -313,7 +319,7 @@ This is the counterplay category. Every other entry in the taxonomy describes so
 
 **Attraction ↔ Spirit** 
 
-The reading of outcome weight, causal load, and probability distribution — what is leaning, not what will happen. Mnemata reads backward into what a thing was; Auguria reads sideways into what a thing is being pulled toward.
+The reading of outcome weight, causal load, and probability distribution: what is leaning, with what will happen left to happen. Mnemata reads backward into what a thing was; Auguria reads sideways into what a thing is being pulled toward.
 
 Attraction-forward because outcome weight is a Fate-side property and the practitioner is asking the Plane of Fate a question rather than the Soul Plane. Spirit-side only insofar as the answer must be received by a Core capable of holding it without resolving it into narrative, which is the failure mode: an Auguria reading that arrives already interpreted has been interpreted by the reader.
 
@@ -331,7 +337,7 @@ Triadic because a crossing requires all three at once and fails if any is missin
 
 The category that has been doing silent work under the Veil, the Crevice, the Gates, and every unplanned arrival in the Plane of Fate.
 
-**Examples:** Transference Crossing · Gate-Work · Veil-Thinning · involuntary Fate-draw
+**Examples:** Transference Crossing · Gate-Work · Veil-Thinning · involuntary Fate-pull
 
 ---
 

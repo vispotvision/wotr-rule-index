@@ -15,7 +15,13 @@ tags:
 >
 > *"The Descent taught you fourteen ways to write it. This teaches you why almost nobody says it."*
 >
-> — opening line of the Vaulted Ring recitation primer, unattributed
+> Opening line of the Vaulted Ring recitation primer, unattributed.
+
+When the east wall came down at Dunmere Gate, Sergeant Ebba Thorn was in the gatehouse with a spear butt coming at her mouth and the whole room full of burning thatch. She took the butt, spat two teeth across the floor and bellowed the field sentence, **AT PEN MA RA**, in the voice she used for mules: eight and twenty-one and thirteen and twenty-three, sixty-five, sealed.
+
+*DOOOOONG.*
+
+The air of that room ran inward toward her, every lick of flame and rag of smoke hauled back off the door like a dog on a chain, and it stayed that way till first light while the garrison in their yellow coats came up the stair past her, cheering. Beside her stood a licensed Cant speaker in a very clean tabard, who needed something nobody had composed for him in advance, composed it, and came out three short of the sum. Nothing sealed it. It ran down the gatehouse stair and it is, the locals will tell you, still a bad stair. The sum is why Thorn's name got a song and his got a footnote, and this volume is the sum.
 
 ---
 
@@ -35,7 +41,7 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 ## The Twenty-Five
 
 **Five vowels and twenty consonants, one to each cell, keyed to the cell's value and not to its position.**
-> Every sound in the inventory is one **a Dawi throat, an Eressean throat and a goblinoid throat can all produce** — *which was a design constraint before it was an observation.*
+> Every sound in the inventory is one **a Dawi throat, an Eressean throat and a goblinoid throat can all produce**, *which was a design constraint before it was an observation.*
 
 | Value | Sound | Written | Articulation |
 |---|---|---|---|
@@ -51,7 +57,7 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 | 10 | d | d | voiced dental stop |
 | 11 | g | g | voiced velar stop |
 | 12 | m | m | labial nasal |
-| **13** | **n** | **n** | **dental nasal — the still cell** |
+| **13** | **n** | **n** | **dental nasal, the still cell** |
 | 14 | ŋ | ng | velar nasal |
 | 15 | s | s | voiceless sibilant |
 | 16 | ʃ | sh | voiceless post-alveolar sibilant |
@@ -97,11 +103,11 @@ A traced path cannot revisit a cell it has already occupied. **This caps a word 
 **II · The first sound declares the slot.**
 
 Values **1–5** open a Warrant. **6–11** a Ground. **12–17** a Vector. **18–25** a Seal.
-> *A listener therefore knows a slot has been skipped before the speaker has finished the word — which in a discipline where a skipped slot is an injury is the single most useful thing the language does.*
+> *A listener therefore knows a slot has been skipped before the speaker has finished the word, which in a discipline where a skipped slot is an injury is the single most useful thing the language does.*
 **III · The sentence must total sixty-five.**
 
 Add the values of every sound in all four words. **A lawful sentence comes to sixty-five, or to a whole multiple of it. Nothing else seals.**
-> **This is the entire difficulty and the entire reason the world writes Parun rather than speaking it** — because a speaker composing live is **performing mental arithmetic while making a legal claim under pressure, and the arithmetic is not forgiving.**
+> **This is the entire difficulty and the entire reason the world writes Parun rather than speaking it**, because a speaker composing live is **performing mental arithmetic while making a legal claim under pressure, and the arithmetic is not forgiving.**
 >
 > *The practical consequence: Parun is grotesquely rich in near-synonyms of differing value. A speaker does not choose a word because it is the right word. He chooses it because it is the right word that makes the sum close.*
 
@@ -116,7 +122,7 @@ Add the values of every sound in all four words. **A lawful sentence comes to si
 | **Vector** | nasals and sibilants, 12–17 | which way the working runs |
 | **Seal** | 18–25 | the condition on which it ends |
 
-> **A Warrant that overstates standing does not fail loudly. It seals** — and **the difference between the standing claimed and the standing held is deducted from the speaker at the moment the Seal closes.**
+> **A Warrant that overstates standing does not fail loudly. It seals**, and **the difference between the standing claimed and the standing held is deducted from the speaker at the moment the Seal closes.**
 >
 > *Practitioners who habitually over-warrant are identifiable across a room by their hands.*
 That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition and keeps its own law: a summoner who claims a standing he lacks gets nothing.
@@ -154,10 +160,10 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **Under the sum** | **Nothing sealed it. The working runs and does not stop.** *This is the fault that kills bystanders* |
 | **Over the sum** | It seals early. **The difference is taken out of the speaker, in the body, at the moment of closing** |
 | **Slot skipped** | No seal, no working, no cost. **The commonest fault and the only harmless one** |
-| **Slot misordered** | Seals inverted. **The Vector runs from the Ground into the Warrant — which means into the speaker** |
+| **Slot misordered** | Seals inverted. **The Vector runs from the Ground into the Warrant, which means into the speaker** |
 | **Sound repeated** | The path crosses itself. The word is simply not a word |
 
-> **A practitioner who has been over the sum is legible afterward.** Depending on where the count went wrong the deduction comes out of **the hands, the hearing, the teeth or the years** — *and the Vaulted Ring keeps a register of which faults take which, compiled from people who survived them.*
+> **A practitioner who has been over the sum is legible afterward.** Depending on where the count went wrong the deduction comes out of **the hands, the hearing, the teeth or the years**, *and the Vaulted Ring keeps a register of which faults take which, compiled from people who survived them.*
 
 ---
 
@@ -258,12 +264,12 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | Variety | Character |
 |---|---|
 | **Root Parun** *the Counted Speech* | The reference variety. All twenty-five held distinct, **the count carried silently, the sentence composed live.** Taught at the Vaulted Ring and in three other places. *A Root speaker can compose a Doubled Seal in the time it takes to draw breath, and this is the specific skill the Accord licenses* Understood by every trained Parunist. Composed live by almost none of them |
-| **The Vaulted Cant** *Guild Accord · the memorised hand* | What most licensed practitioners actually speak. **Lawful sentences learned whole, by rote, in blocks of eleven, deployed without any count being performed at the time.** *It works, it is fast, and it fails absolutely the moment a situation requires a sentence nobody has pre-composed.* Cant speakers are visibly the same people as Root speakers until the moment they are not — *distinguishable only by asking for something new* |
-| **Cold Parun** *Echo Elf · the counted-aloud hand* | **The Echo Elves externalise the arithmetic.** One sound to one beat, metronomic, **the count audible in the rhythm rather than held in the head** — exhausting to listen to and **effectively immune to error.** *Their treaties sum correctly in the mouth and on the page and have never once needed renegotiation. They regard the second fact as sufficient answer to the first* Corrected mid-sentence by any listener who is also counting |
-| **Inverted Parun** *Drow · the spoken cipher* | Every sound replaced by its complement, **twenty-six minus the value.** An outsider follows easily, confidently, at speed, **and understands wrongly.** The arithmetic constrains it savagely: **a complemented sentence only seals when its total sound-count is divisible by five**, so a Drow speaker **composes to a length before composing to a meaning.** *None of the three Single Seals is invertible — all three run to nine sounds. There is therefore no such thing as a small Drow working, which is a fact about their reputation usually attributed to temperament* |
-| **Mirror-Speech** *Deepkin · the hand that is not said* | **They say every cell the word does not touch and leave the word itself unsaid**, so the meaning is **the silence in the middle of a great deal of noise.** The sums hold always, **because the complement of four words against the full square comes to nineteen sixty-fives without fail.** *The cost is length. A Deepkin sentence is nineteen times the sentence it means — which is why they correspond in Mirror-Sign and speak it only where a working must not be detected.* **Nothing was inscribed and nothing was said, so there is nothing for a ward to find** |
+| **The Vaulted Cant** *Guild Accord · the memorized hand* | What most licensed practitioners actually speak. **Lawful sentences learned whole, by rote, in blocks of eleven, deployed without any count being performed at the time.** *It works, it is fast, and it fails absolutely the moment a situation requires a sentence nobody has pre-composed.* Cant speakers are visibly the same people as Root speakers until the moment they are not, *distinguishable only by asking for something new* |
+| **Cold Parun** *Echo Elf · the counted-aloud hand* | **The Echo Elves externalize the arithmetic.** One sound to one beat, metronomic, **the count audible in the rhythm rather than held in the head**, exhausting to listen to and **effectively immune to error.** *Their treaties sum correctly in the mouth and on the page and have never once needed renegotiation. They regard the second fact as sufficient answer to the first* Corrected mid-sentence by any listener who is also counting |
+| **Inverted Parun** *Drow · the spoken cipher* | Every sound replaced by its complement, **twenty-six minus the value.** An outsider follows easily, confidently, at speed, **and understands wrongly.** The arithmetic constrains it savagely: **a complemented sentence only seals when its total sound-count is divisible by five**, so a Drow speaker **composes to a length before composing to a meaning.** *None of the three Single Seals is invertible: all three run to nine sounds. There is therefore no such thing as a small Drow working, which is a fact about their reputation usually attributed to temperament* |
+| **Mirror-Speech** *Deepkin · the hand that is not said* | **They say every cell the word does not touch and leave the word itself unsaid**, so the meaning is **the silence in the middle of a great deal of noise.** The sums hold always, **because the complement of four words against the full square comes to nineteen sixty-fives without fail.** *The cost is length. A Deepkin sentence is nineteen times the sentence it means, which is why they correspond in Mirror-Sign and speak it only where a working must not be detected.* **Nothing was inscribed and nothing was said, so there is nothing for a ward to find** |
 | **Swamp Parun** *Verdant Orc · the unbroken hand* | **The reed never lifts and neither does the breath.** Four slots on one exhalation, no pause admitted anywhere, **which makes lung capacity the hard limit on how large a working a Verdant speaker can attempt.** *A Third Seal spoken on one breath is a physical feat before it is anything else, and Verdant practitioners are built accordingly* |
-| **Gravetongue** *Ironblood · the hand that abandoned the count* | **The exception, and the reason it is the exception.** Its meaning is not carried in the sounds and therefore not in the sums — *which is why a transcription is inert.* **Whatever Gravetongue is doing, it is not walking the square, and the Ironblood have never claimed otherwise.** *The Vaulted Ring's position is that Gravetongue is not Parun. The Ironblood position is that Parun is a way of counting and Gravetongue is a way of being made of something, and that the Accord's confusion is its own affair* |
+| **Gravetongue** *Ironblood · the hand that abandoned the count* | **The exception, and the reason it is the exception.** Its meaning is not carried in the sounds and therefore not in the sums, *which is why a transcription is inert.* **Whatever Gravetongue is doing, it is not walking the square, and the Ironblood have never claimed otherwise.** *The Vaulted Ring's position is that Gravetongue is not Parun. The Ironblood position is that Parun is a way of counting and Gravetongue is a way of being made of something, and that the Accord's confusion is its own affair* |
 
 ---
 
@@ -271,8 +277,8 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 
 | Sentence | Level | Reading |
 |---|---|---|
-| **ip tam ma ra** | 65 | Standing on his own warrant, over the stone beneath him, drawing inward, until dawn |
-| **ithun dul ma vashe** | 130 | Under an oath sworn elsewhere and still standing, over held water, drawing inward, ending when the water is destroyed |
+| **ip tam ma ra** | 65 | Standing on his own warrant, over the stone beneath him, running inward, until dawn |
+| **ithun dul ma vashe** | 130 | Under an oath sworn elsewhere and still standing, over held water, running inward, ending when the water is destroyed |
 | **ame bes sekar hus** | 130 | By the house that trained her, over her own body, divided evenly among all named, ending when she sleeps |
 | **at kelo ngat hoyem** | 130 | In haste and under duress, over a boundary walked, through and out the far side, ending when she is touched by the one it covers |
 | **eshi tam nashor wolyeth** | 195 | By an office and not a person, over this ground, outward in every direction at once, **ending when the last of the lineage here is dead** |
@@ -296,7 +302,7 @@ That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition
 | **Verdant Orcs** | Swamp Parun, limited by breath |
 | **Ironblood** | Gravetongue, **which is not this** |
 | **High Dawi** | Almost none. **They cut instead, and consider speech a hurried medium** |
-| **Eresseans** | Read universally, spoken under license only — *and a private letter in Songscript is still the greater threat* |
+| **Eresseans** | Read universally, spoken under license only, *and a private letter in Songscript is still the greater threat* |
 | **Concord humans** | The Cant, by rote, badly, **and the death rate reflects it** |
 | **The Moto** | **Neither Root nor Cant.** The Kōkan Line administered the Loom under delegated sight, and a delegated warrant is not *by my own standing* and is not *by an office* either. **The lexicon has no Warrant word for what they hold**, and Moto speakers open on a sound the Vaulted Ring records and does not assign a value to. *The Ring's working position is that the word exists and the value is unknown. The Moto have never been asked, and would not be answered if they were* |
 

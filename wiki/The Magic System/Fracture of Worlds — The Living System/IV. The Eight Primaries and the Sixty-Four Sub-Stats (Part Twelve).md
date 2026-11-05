@@ -9,6 +9,8 @@ tags:
 
 *The Crystal does not measure what you believe you are. It measures where the pressure went.*
 
+On Loaf Day at Ostler's Cross the Guild read two wrestlers as the same Vitality to the point, and the fight hall, which believes the Guild when it suits the gate, billed it as the fairest match of the year. Bran Anvilchops had put his points into Fortitude and Absorption (two of the Sub-Stats, the finer measures beneath a Primary), and you could break a bench across him, as several had. Moll Thrice-Hanged had put the same total into Hemostasis, Regeneration and Filtration, and had earned her name in three different towns, the last of which still owes her a rope. In a ring of trampled clover under green and yellow bunting, with every carter on the East Road hollering, Bran caught her arm in the first minute and snapped it across his knee, *krik*, and half the crowd paid out on the spot. Moll looked at the bone standing out of her sleeve, the color of a peeled almond, pushed it back with her other hand, and spat a mouthful of the wolfsbane somebody had put in her ale. By the time the ale-wives had made change the arm was knitting. Two hours in she had been broken nine times and he had not been broken at all, and he was slipping in his own blood from a split over the eye that would not close, gone pale under the sunburn, while she grinned at him with two teeth that had not been there when the bell rang. He dropped at sundown, undefeated in every particular but the last. Their registers still read the same. Ostler's Cross now pays a clerk to copy Sub-Stats onto the door of the fight hall, and the Guild charges double for the reading.
+
 **A Primary Stat is the combined total of its eight Sub-Stats.** Points are spent on Sub-Stats only; a Primary is never purchased and holds no value of its own. The Temperance ceiling and the Path gates bind the Sub-Stat. The Primary is the arithmetic afterward, and its Tier Grade is read off the mean of its eight, or of Dominion's seven counted entries, which is the value a character sheet has always carried on the Primary line.
 
 Primary Stats are the broad categories. Sub-Stats are the grain. Two characters at identical Primary totals can be radically different practitioners because their distributions tell different stories. One may have Vitality concentrated in Fortitude and Absorption, producing a frame that refuses to break but bleeds badly and heals slowly. Another may have the same total across Hemostasis, Regeneration and Filtration, producing a body that breaks readily, reconstructs itself and shrugs off poison. The Primary says they are equally durable. The Sub-Stats say they are durable in completely different ways.
@@ -32,7 +34,7 @@ Vitality governs how the body resists, absorbs and persists against destructive 
 
 **Regeneration** — Rate of physical restoration outside active combat, and the degree to which healed wounds come back structurally reinforced rather than weakened. Not a healing working; the body's own reconstruction speed, and whether it learns. *Absorbs Scarring.*
 
-**Filtration** — Resistance to toxins, venoms, alchemical corrosives, corrupted Essence bleed and Aetheric contamination. The body's capacity to recognise hostile intrusion at the cellular and Essence-lattice level and reject it before systemic degradation. *Absorbs Contuition.*
+**Filtration** — Resistance to toxins, venoms, alchemical corrosives, corrupted Essence bleed and Aetheric contamination. The body's capacity to recognize hostile intrusion at the cellular and Essence-lattice level and reject it before systemic degradation. *Absorbs Contuition.*
 
 **Tolerance** — Resistance to environmental vectors the body must simply refuse: extreme temperature, gravity distortion, spatial compression, Essence-induced weight amplification, and the absence of Aether in Wellspring-dead zones. A character with high Tolerance does not feel comfortable in a furnace. Their tissues refuse to denature at the rate physics demands. *Absorbs Gravitas and Nullity.*
 
@@ -42,13 +44,13 @@ Vitality governs how the body resists, absorbs and persists against destructive 
 
 *The measured output potential of Aether expressed through spellwork, Essence-driven techniques and channeled destructive force.*
 
-Ardency governs not what the body can do, but what Essence can do when the body serves as its delivery system. A practitioner with low Ardency and high Vitality is a wall. High Ardency and low Vitality is a cannon. What separates a weapon from a practitioner is having both.
+Ardency governs not what the body can do, but what Essence can do when the body serves as its delivery system. A practitioner with low Ardency and high Vitality is a wall. High Ardency and low Vitality is a trebuchet. What separates a weapon from a practitioner is having both.
 
 **Flux** — Raw destructive and constructive output of active expressions. The damage ceiling. How much force the working carries when it arrives.
 
 **Alacrity** — Casting speed, cooldown compression and reflexive casting window availability. The tempo axis.
 
-**Depth** — How deeply the caster synchronises with an active Wellspring, how unmistakably the working carries that Wellspring's qualitative character, and whether two Wellspring qualities can be held in one expression without resonance conflict. Whether you are borrowing from a Wellspring or speaking its language. *Absorbs Saturation and Duality.*
+**Depth** — How deeply the caster synchronizes with an active Wellspring, how unmistakably the working carries that Wellspring's qualitative character, and whether two Wellspring qualities can be held in one expression without resonance conflict. Whether you are borrowing from a Wellspring or speaking its language. *Absorbs Saturation and Duality.*
 
 **Penetration** — Capacity to pierce defensive fields, Soul Crystal wards and metaphysical barriers. High Flux with low Penetration hits like a padded wall.
 
@@ -56,7 +58,7 @@ Ardency governs not what the body can do, but what Essence can do when the body 
 
 **Cascade** — Reach. How wide a working spreads when spread is intended, and how far it travels before attenuation degrades its structure. High Cascade covers battlefields. Low Cascade covers opponents. *Absorbs Spectral.*
 
-**Overchannel** — Maximum temporary output achievable by drawing beyond sustainable thresholds, the minimum investment required for a significant destructive release, and how much of a failed or interrupted working's rebound comes back as usable output rather than damage. How far past safe before the engine eats itself. *Absorbs Detonation and Conversion.*
+**Overchannel** — Maximum temporary output achievable by pulling beyond sustainable thresholds, the minimum investment required for a significant destructive release, and how much of a failed or interrupted working's rebound comes back as usable output rather than damage. How far past safe before the engine eats itself. *Absorbs Detonation and Conversion.*
 
 **Density** — Structural weight and coherence of anything a working leaves standing: inscriptions, active glyph-chains, summoned constructs, bound spirits. Whether your ward outlasts the siege and whether your summon is a suggestion or a participant. *Absorbs Inscription.*
 
@@ -68,7 +70,9 @@ Gnosis is the stat of understanding. Not wisdom, which is a product of experienc
 
 **Perception** — Sensory acuity and Aetheric threat detection. Awareness of displacement, Veil distortion, concealed entities and incoming force vectors before they resolve, and accurate modeling of the surrounding geometry including distorted architecture and Domain interiors. *Absorbs Cartography.*
 
-**Acuity** — Tactical cognition and real-time processing of multi-vector combat environments. Positioning, sequence recognition, adaptive strategy, and the speed at which an unfamiliar pattern is internalised mid-fight. *Absorbs Adaptation.*
+An aside, since this entry and Empathy and Sense are between them the famous art of sensing, known in every tavern and named differently in each. A Guild examiner splits it across the three. A Kharven soldier asks whether you can smell a man's stack, by which he means how much the man is carrying. The Moto speak of *kehai*, the sign of someone there, and think it rude to read a guest before the tea. The Mahuo say *nunchi*, and the lineage halls *shénshí*, spirit-sense, with diagrams. Each school will prove to you that its way is the true one, and each has lost someone to a Feint.
+
+**Acuity** — Tactical cognition and real-time processing of multi-vector combat environments. Positioning, sequence recognition, adaptive strategy, and the speed at which an unfamiliar pattern is internalized mid-fight. *Absorbs Adaptation.*
 
 **Forecast** — Combat sequence forecasting from kinetic, spatial and Aetheric pattern recognition. Tells you what is about to happen. Whether you can do anything about it is a Dexterity problem.
 
@@ -80,7 +84,7 @@ Gnosis is the stat of understanding. Not wisdom, which is a product of experienc
 
 **Cognition** — Capacity to engage law-level phenomena, Archonic expressions and higher-dimensional constructs without perceptual fragmentation, and resistance to glamours, false spatial constructs and psychic misdirection. Whether a Principle-level truth enlightens you or shatters you. *Absorbs Warding.*
 
-**Vigilance** — Passive detection of approaching Temperance ceilings, Essence overdraw proximity and the warnings that precede Dissonance (the eleventh Stage, where power and identity clash) events. The stat that reads your own architecture rather than the room.
+**Vigilance** — Passive detection of approaching Temperance ceilings, Essence overspend proximity and the warnings that precede Dissonance (the eleventh Stage, where power and identity clash) events. The stat that reads your own architecture rather than the room.
 
 ## IV. Dexterity
 
@@ -110,21 +114,21 @@ Not how strong the body is; how correctly it uses the space it occupies. A high-
 
 Not charisma in the human sense, but the raw degree to which a soul's frequency is legible to, compatible with and influential upon the frequencies around it. A character with high Harmonics does not necessarily speak well. They resonate well. The Continuum hears them more clearly than it hears others.
 
-**Attunement** — Affinity and synchronisation strength with bound Wellsprings, retention of previously encountered frequencies for re-attunement without re-contact, and the clarity with which expressed Aether reflects the internal Essence state. Reduces draw cost, increases maximum invocation depth. The difference between borrowing power and being trusted with it. *Absorbs Memory and Fidelity.*
+**Attunement** — Affinity and synchronization strength with bound Wellsprings, retention of previously encountered frequencies for re-attunement without re-contact, and the clarity with which expressed Aether reflects the internal Essence state. Reduces pull cost, increases maximum invocation depth. The difference between borrowing power and being trusted with it. *Absorbs Memory and Fidelity.*
 
 **Projection** — Weight, suppressive reach and range of the passive resonance field. How far the soul's voice carries when it is not trying to speak. Your Aura arrives in the room before you do. *Absorbs Harmonics Density.*
 
-**Breadth** — Total number of Wellsprings maintainable in active harmonisation simultaneously, and the capacity to hold several of them inside a single working as layered effect profiles. The difference between a note and a symphony. *Absorbs Chord.*
+**Breadth** — Total number of Wellsprings maintainable in active harmonization simultaneously, and the capacity to hold several of them inside a single working as layered effect profiles. The difference between a note and a symphony. *Absorbs Chord.*
 
-**Stability** — Consistency of resonance output under environmental pressure, emotional volatility, hostile interference or Wellspring-absent ground, and the speed of re-establishing it after a break. Prevents Harmonic Drift. How long you are deaf to the Wellsprings after someone jams your signal. *Absorbs Recovery and Voidance.*
+**Stability** — Consistency of resonance output under environmental pressure, emotional volatility, hostile interference or Wellspring-absent ground, and the speed of re-establishing it after a break. Prevents Harmonic Drift. How long you are deaf to the Wellsprings after someone drowns out your note. *Absorbs Recovery and Voidance.*
 
 **Empathy** — Passive sensitivity to emotional and Essence states within Aura range. You feel the room change before anyone has spoken.
 
-**Synergy** — The degree to which ambient Wellspring activity feeds the character's Harmonic state and the Harmonic field synchronises with and amplifies allied resonances. You fight stronger near active veins and allies hit harder standing near you. *Absorbs Confluence.*
+**Synergy** — The degree to which ambient Wellspring activity feeds the character's Harmonic state and the Harmonic field synchronizes with and amplifies allied resonances. You fight stronger on rich ground and allies hit harder standing near you. *Absorbs Confluence.*
 
 **Axis** — Structural integrity of established Spirit Axes; how much Essence flows across bonded relational connections. Bonds carrying metaphysical weight, not just emotional weight.
 
-**Suppression** — Consciously compressing or masking the resonance field to reduce detectability and conceal Temperance tier. The volume knob on the soul, and a skill that tires the user for as long as it is held.
+**Suppression** — Consciously compressing or masking the resonance field to reduce detectability and conceal Temperance tier. The muffle on the soul's bell, and a skill that tires the user for as long as it is held.
 
 ## VI. Resilience
 
@@ -132,7 +136,7 @@ Not charisma in the human sense, but the raw degree to which a soul's frequency 
 
 Where Vitality protects the body, Resilience protects the soul. At low Grades the distinction barely matters, because most threats are physical. At high Grades it is the only thing that matters, because the threats that kill S-Grade practitioners are conceptual intrusions, reality-overwriting effects, Domain inversions and forces that target the right of a thing to continue existing.
 
-**Integrity** — The Crystal's resistance to fracture, Dissonance collapse and catastrophic resonance failure under overdraw or hostile pressure, and the degree to which prior fractures have been processed into structural reinforcement. The foundation every other Sub-Stat rests on. Wounds that become walls. *Absorbs Scarring.*
+**Integrity** — The Crystal's resistance to fracture, Dissonance collapse and catastrophic resonance failure under overspending or hostile pressure, and the degree to which prior fractures have been processed into structural reinforcement. The foundation every other Sub-Stat rests on. Wounds that become walls. *Absorbs Scarring.*
 
 **Ward** — Defense against law-breaking, reality-overwriting and Domain-erasure forces, including techniques aimed at collapsing, inverting or redirecting the character's own Domain. What stands between a character and an effect that says they do not exist. *Absorbs Severance.*
 
@@ -140,13 +144,13 @@ Where Vitality protects the body, Resilience protects the soul. At low Grades th
 
 **Anchoring** — Resistance to dissolution, corruption, possession and the Mirage Identity threshold, and to memory erasure, false implantation and Anamnesis-hostile intrusion. Whether identity holds its shape and its continuity under pressure. *Absorbs Coherence.*
 
-**Fortification** — Compressing incoming hostile Essence and redirecting it through internal structure rather than absorbing it as damage, and resistance to self-generated blowback from Overchannel rebound and interrupted high-tier workings. Converting a wound, or a mistake, into something the Crystal can metabolise. *Absorbs Insulation.*
+**Fortification** — Compressing incoming hostile Essence and redirecting it through internal structure rather than absorbing it as damage, and resistance to self-generated blowback from Overchannel rebound and interrupted high-tier workings. Converting a wound, or a mistake, into something the Crystal can metabolize. *Absorbs Insulation.*
 
 **Hardening** — Resistance to hostile resonance imposition and forced re-attunement, and passive rejection of Erebus-class contamination, possession vectors and gradual metaphysical degradation. The Crystal's refusal to vibrate at someone else's frequency. *Absorbs Immunity.*
 
-**Oath** — Structural durability of active vows, contracts and Fate-anchor oaths under attempts to sever, invert or weaponise them.
+**Oath** — Structural durability of active vows, contracts and Fate-anchor oaths under attempts to sever, invert or weaponize them.
 
-**Continuity** — Resistance to spatial displacement, forced dimensional transit and Domain-class intrusion, and to sequence disruption, localised timeline alteration and temporal dislocation targeting causal continuity. *Absorbs Dimensional.*
+**Continuity** — Resistance to spatial displacement, forced dimensional transit and Domain-class intrusion, and to sequence disruption, localized timeline alteration and temporal dislocation targeting causal continuity. *Absorbs Dimensional.*
 
 ## VII. Tempering
 
@@ -158,15 +162,15 @@ Every other Primary measures what a character is right now. Tempering measures t
 
 **Overflow** — Maximum sustainable output before Backlash, Dissonance or Essence-burn triggers. The red line. Everything past it costs structural integrity.
 
-**Maturity** — Integration of prior stage trauma, resolution of internal contradictions, the speed at which fractures and failed transitions are metabolised into architecture rather than persistent damage, the rate at which transition conditions are recognised, and the efficiency with which bloodline traits and ancestral Geasa activate cleanly rather than ambush. **The primary Sub-Stat consulted when evaluating Threshold readiness.** *Absorbs Acceleration, Processing and Inheritance.*
+**Maturity** — Integration of prior stage trauma, resolution of internal contradictions, the speed at which fractures and failed transitions are metabolized into architecture rather than persistent damage, the rate at which transition conditions are recognized, and the efficiency with which bloodline traits and ancestral Geasa activate cleanly rather than ambush. **The primary Sub-Stat consulted when evaluating Threshold readiness.** *Absorbs Acceleration, Processing and Inheritance.*
 
-**Coherence** — Alignment between chosen Path and lived metaphysical behavior. Dissonance between stated Path and actual expression degrades Tempering efficiency. **The structural prerequisite for Threshold eligibility.** The Crystal's internal honesty meter.
+**Coherence** — Alignment between chosen Path and lived metaphysical behavior. Dissonance between stated Path and actual expression degrades Tempering efficiency. **The structural prerequisite for Threshold eligibility.** The Crystal's internal honesty assay.
 
 **Yield** — Raw volume of Essence produced per Temperance Stage relative to universal baseline, the efficiency of converting ambient Wellspring activity into usable internal Essence, and the gap between generation and availability. Reload speed for the soul. *Absorbs Conversion and Latency.*
 
 **Ceiling** — Theoretical maximum Stage achievable given bloodline, Crystal architecture and Wellspring compatibility. Structural potential rather than current attainment.
 
-**Capacity** — Maximum number of Wellspring harmonisations the Crystal can hold without resonance conflict. The Crystal's bandwidth for metaphysical languages.
+**Capacity** — Maximum number of Wellspring harmonizations the Crystal can hold without resonance conflict. The Crystal's bandwidth for metaphysical languages.
 
 **Longevity** — Resistance to accelerated metaphysical aging and erosion from high-tier operation, dimensional pressure and extended exposure to absolute-scale forces. How long the soul remains structurally viable at the ceiling it has reached.
 
@@ -186,7 +190,7 @@ At low Grades, Dominion is mild ambient influence, the instinctive way a strong 
 
 **Pressure** — Oppressive environmental weight generated by concentrated will. Passive suppression of weaker Aetheric expressions, resolving within Dominion range. The weight of your presence when you stop being polite about it.
 
-**Command** — The degree to which spoken intent carries metaphysical authority, causing ambient Aether to reorganise, oaths to register with the Continuum, and subordinate spiritual entities to respond. The voice of sovereignty made audible.
+**Command** — The degree to which spoken intent carries metaphysical authority, causing ambient Aether to reorganize, oaths to register with the Continuum, and subordinate spiritual entities to respond. The voice of sovereignty made audible.
 
 **Fate** — Integration with the Plane of Fate. Governs reach and stability of the Attraction Layer, covenant-binding capacity, and the mechanical weight of sworn oaths. How loudly the Continuum hears you when you make a promise.
 

@@ -4,6 +4,8 @@ title: First Steps
 
 ![[Assets/Paintings/first-steps.webp]]
 
+At the Lammas fair in Harrow Cross a goose-plucker named Tib Oakshott climbed onto a cider barrel and bet a fairground brawler his whole year's feathers that he could name every part of the man's art out loud, blow by blow, while it was being thrown at him. He lost a tooth and most of one ear and won four sacks of silver, and the Guild has been writing to him ever since. I cannot promise you the silver. I can promise you the names.
+
 *The newcomer's road. Read these four first and everything after them will make sense.*
 
 - [[The Magic System/First Steps/How Magic Works|How Magic Works]]: The whole system in brief, for a newcomer.

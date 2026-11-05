@@ -10,9 +10,21 @@ tags:
 
 # The Magic System
 
-> The Continuum does not grant power. It measures a soul, records what the measurement found, and permits exactly as much as the architecture will bear. Everything in this section is an account of that measurement: what it reads, what it refuses to read, and what it costs to move the needle.
+At the midsummer fair of Hallingsgate, in front of four thousand people and the entire fish guild, Gudrun Halfdane stepped into the Accord's brass coil to prove what the minstrels had been singing about her for three years. They called her Gudrun Infinite. She stood six and a half feet in a coat of red and gold, she had a move called INFINITE FIST and a purse with every coin she owned on it riding at the bookies' tables, and she had told the whole of the Fishgate that the coil would read Grade S. The clerk, a small man with a clear voice, read out Stage III and a Flux of D.
+
+*WAAAAAAAAGH*, said the fair. Bookies ran for the boats. Gudrun looked at the coil for a while, and said something the clerk declined to enter, and hit it.
+
+*DOOOOOOOONG.*
+
+It rang for two days. Dogs left town. Her hand broke in three places, and the clerk, when he had climbed out from under his table, read her again, because procedure requires it, and the reading was the same.
+
+She went north to the wars. Eleven years later she came back with one arm and no red coat, stood in the same coil at the same fair in front of a crowd who had come specifically to laugh, and it read Stage VII. She said nothing to anyone. She walked out along the Hallingsgate breakwater, set her feet, turned her one fist on the gray-green sea and called the name, the same stupid name, in a voice you could have stood a spoon in. There is a gap in the breakwater sixty feet wide. The harbor still charges her heirs for it, and no child in Hallingsgate has ever laughed at the word Infinite, though they have all tried it on each other.
+
+Everything in this section is in that story. She could not argue with the number, and it went up when she had survived something, and it cost her an arm. The Measurewrights will tell you it was the Stage that made the name true. Her family says the name came first, and I have stopped having this conversation at weddings.
+
+> The Continuum grants no power. It measures a soul, records what the measurement found, and permits exactly as much as the architecture will bear. Everything in this section is an account of that measurement: what it reads, what it refuses to read, and what it costs to move the reading.
 >
-> *"Temperance is not a buff. It is a confession of how much you have survived."*
+> *"You call Temperance a buff. It is a confession of how much you have survived."*
 >
 > **Where the numbers live.** Everything on this page is the account. The arithmetic underneath it is **Fracture of Worlds — The Living System**, filed at the foot of this section in twenty-two Parts across eight pages. Bands and Temperance Gates, the Tier Grade thresholds, the Sub-Stat ceiling per Stage, all sixty-four Path gates, Threshold Catalysts, Resonant Pairs, Strike Force and Durability benchmarks, Aether Class efficiency, the η table, Domain costs.
 >
@@ -27,17 +39,17 @@ Everything after these is detail.
 | Number | The rule |
 |---|---|
 | **One** | Reality has three planes. Matter, soul, and fate. Every act of magic crosses all three at once. Remove one and the working fails, without exception and without appeal. |
-| **Two** | Aether is the ocean. Essence is your water. Aether is infinite and belongs to no one. Essence is Aether you have drawn in, circulated, and stamped with your identity, and there is only ever as much of it as you have earned. |
-| **Three** | You cast through a Soul Crystal, not through a wand, a word, or a will. The Crystal has three layers, one per plane, and its architecture decides what you are capable of long before your ambition gets a vote. |
-| **Four** | Power is refined, not accumulated. Temperance is subtraction. Sixteen Stages, each one a structural reorganization of the Crystal under pressure you did not ask for. You do not climb them by training. You climb them by surviving something that changes you. |
-| **Five** | Everything costs. Essence is spent, not summoned. Domains bleed. Traits fatigue. Overchannel scars. A practitioner who tells you a technique is free is either lying or has not yet paid the invoice. |
+| **Two** | Aether is the ocean. Essence is your water. Aether is infinite and belongs to no one. You pull it from the world around you, refine it in your Crystal into Essence, stamp it with your identity, and drive it out through your Shell, and there is only ever as much of it as you have earned. Rich ground fills you faster; thin ground starves you. Aether comes in sixty types that act on the Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations. |
+| **Three** | You cast through a Soul Crystal. A wand, a word and a will are decoration. The Crystal has three layers, one per plane, and its architecture decides what you are capable of long before your ambition gets a vote. |
+| **Four** | Power is refined. Nothing accumulates, because Temperance is subtraction. Sixteen Stages, each one a structural reorganization of the Crystal under pressure you did not ask for. Training gets you to the door, and surviving something that changes you is the only thing that opens it. |
+| **Five** | Everything costs. Essence is spent, and nobody has ever summoned any. Domains bleed. Traits fatigue. Overchannel scars. A practitioner who tells you a technique is free is either lying or has not yet paid the invoice. |
 | **Six** | The system does not lie and it does not forgive. Your numbers are the Continuum's honest assessment of the soul carrying them. They can be improved. They cannot be argued with. |
 
 ---
 
 ## The Four Axes
 
-A practitioner is not described by one number. Four independent measurements run alongside each other, and the gaps between them are as diagnostic as the values themselves.
+One number has never described a practitioner. Four independent measurements run alongside each other, and the gaps between them are as diagnostic as the values themselves.
 ![[Assets/Diagrams/four-axes.svg]]
 > Temperance sets the **ceiling**. Tier Grade reports the **magnitude**. Aether Class decides how much of the magnitude actually **arrives**. Wellspring harmonization changes what the magnitude **means** without changing the number by a single point.
 >
@@ -47,11 +59,11 @@ A practitioner is not described by one number. Four independent measurements run
 
 ## The Grammar of a Working
 
-Newcomers ask how to learn a spell. The question is malformed. Workings are not learned as items; they are built through a five-part grammar, and every named discipline in the Continuum decomposes into it.
+Newcomers ask how to learn a spell. The question is malformed. Workings are built, through a five-part grammar, and every named discipline in the Continuum decomposes into it.
 
 | Element | What it is |
 |---|---|
-| **Family** | Which of the eight domains of phenomena the working draws on. Never invented. Only worked within. |
+| **Family** | Which of the eight domains of phenomena the working belongs to. Never invented. Only worked within. |
 | **Affinity** | The specific phenomenon inside that Family. Fire within Caloria. Gravity within Vectoria. |
 | **Method** | How you relate to the phenomenon. Encoded directly in the suffix of every discipline name. |
 | **Ability** | The internalized governing system your Crystal has developed. Pyrokinesis, for instance. It does nothing visible on its own. It is the platform. |
@@ -90,13 +102,13 @@ Eight Primary Stats, eight Sub-Stats beneath each, sixty-four values in total. *
 | **Tempering** | Refinement itself. Coherence, maturity, ceiling, capacity, longevity. The stat that governs whether you advance at all. | Soul |
 | **Dominion** | Command over local metaphysical law. Radius, sovereignty, gravity, pressure, throne. The stat of sovereignty. | Fate |
 
-> Two Sub-Stats gate everything else. **Tempering Coherence** is the structural prerequisite for Threshold eligibility, the Crystal's internal honesty meter. **Tempering Maturity** is the Sub-Stat the Crystal consults first when evaluating whether you are ready.
+> Two Sub-Stats gate everything else. **Tempering Coherence** is the structural prerequisite for Threshold eligibility, the Crystal's internal plumb line. **Tempering Maturity** is the Sub-Stat the Crystal consults first when evaluating whether you are ready.
 >
-> A practitioner obsessed with Ardency and negligent of Tempering builds a very impressive engine into a chassis that will not survive the first corner.
+> A practitioner obsessed with Ardency and negligent of Tempering mounts a very impressive trebuchet on a hay cart, and the first shot settles which of them was the better idea.
 
 ### The Paths
 
-Sub-Stats are gated behind Path commitment. A Path is not a class selected at registration. It is the direction advancement actually took, assessed retroactively and recorded whether the practitioner agrees or not.
+Sub-Stats are gated behind Path commitment. A Path is the direction advancement actually took, assessed retroactively and recorded whether the practitioner agrees or not. Nobody picks one at registration.
 
 **Body Path** · the shortest road and the most reliable. Direct multiplicative bonus to Strike Force, Durability, and Lifting Strength, from roughly five percent early to twenty percent at Stage XII and above. The trade is reduced Range and Aura Pressure. Body Path practitioners must close distance to spend their advantage.
 
@@ -107,9 +119,9 @@ Sub-Stats are gated behind Path commitment. A Path is not a class selected at re
 **Fate Path** · the high gates. Persistence, Continuity, Ceiling, Fate, Throne. Almost nothing on Fate Path unlocks below Stage V, and its terminal Sub-Stats do not open below Stage XIII.
 > ***The three-and-four question, settled.*** *The Physical Force chapter names three Paths and the gate tables name four, and both are correct.* **Fate carries no force**, so it takes no line in a table of force modifiers, and its absence there is a fact about force rather than a fact about Paths.
 >
-> The deeper difference is how commitment is recognised. **Body, Spirit and Attraction are demonstrated by routing Essence.** Fate gates Persistence, Continuity, Ceiling, Stability, Fate and Throne, none of which concern output at all, **so Fate commitment is recognised by what a soul refuses to let end.** No drill produces it and no instructor assigns it.
+> The deeper difference is how commitment is recognized. **Body, Spirit and Attraction are demonstrated by routing Essence.** Fate gates Persistence, Continuity, Ceiling, Stability, Fate and Throne, none of which concern output at all, **so Fate commitment is recognized by what a soul refuses to let end.** No drill produces it and no instructor assigns it.
 >
-> *Which is why the Measurewrights read it as a late-tier extension. It is not late. It is simply not visible until somebody has held something long enough for the holding to count.* **Full treatment in The Four Paths.**
+> *Which is why the Measurewrights read it as a late-tier extension. It arrives on time, and it stays invisible until somebody has held something long enough for the holding to count.* **Full treatment in The Four Paths.**
 
 ---
 
@@ -157,7 +169,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 *What a soul carries, what advancement does to it, and how it reads from outside.*
 
 - [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System: Law, Function and the Forge]]: What a soul carries before any of the above touches it.
-- [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths: Routing, Recognition and the Gate]]: The route a working takes out of a soul, how the Crystal recognises it, and what it gates.
+- [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths: Routing, Recognition and the Gate]]: The route a working takes out of a soul, how the Crystal recognizes it, and what it gates.
 - [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]]: What advancement does to a person, told four ways per Stage.
 - [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft — Temperance, Advancement and Essence Drafts]]: How the climb joins the rest of the system, and what alchemy can and cannot buy.
 - [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]]: The numbers, and who wins.
@@ -171,7 +183,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 - [[The Magic System/Power in Use/Reinforcement|Reinforcement]]: The coat of one's own aura over the body's base, what it costs, and when it fails.
 - [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]: How boosts stack to the cap, how the reserve runs down, and how the body tells on it.
 - [[The Magic System/Power in Use/Runes and Tags|Runes and Tags]]: Workings cut into objects ahead of time: who fuels them, who fires them, who cuts them.
-- [[The Magic System/Power in Use/The Four Crafts|The Four Crafts]]: The five media a working can be written into, and the class system that follows.
+- [[The Magic System/Power in Use/The Four Crafts|The Four Crafts]]: Magicraft, the examined umbrella, and the four media under it that a working can be written into, with the class system that follows.
 - [[The Magic System/Power in Use/Counterplay What Beats a Practitioner|Counterplay: What Beats a Practitioner]]: What beats a practitioner, and in what order the decision is made.
 
 ### V · [[The Magic System/Practice and Institution/Practice and Institution|Practice and Institution]]
@@ -182,7 +194,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 - [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]: Where a practitioner's capacity came from, and why the institutions cannot agree.
 - [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title — The Three Names]]: The three names, and why only the third one is real.
 - [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]]: Schools, disciple ranks, seclusion and the tournament ladder.
-- [[The Magic System/Practice and Institution/The Imperial Age Aether Infrastructure|The Imperial Age: Aether Infrastructure]]: The pipes, the meter, the seal, and who is billed for the working.
+- [[The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts|Who Pays for the Lamp: The Living Crafts]]: How a city's magic really gets done: lamp-wardens, ward-cutters, hedge-workers and Guild craftsmen, paid by the job, who can strike, overcharge or refuse.
 - [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current — Wellspring Encounter and Recovery]]: What happens to a body that meets a Wellspring without meaning to.
 - [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica: Extraction Without Recognition]]: The practice everything above defines itself against.
 
@@ -190,14 +202,14 @@ The section is filed in six shelves and a workbook. Each shelf has its own page;
 
 *Consulted rather than read. The Field Manual is author-facing: how magic is written, not what magic is.*
 
-- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories — Unified Taxonom]]: Reference. Consulted, not read.
-- [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]: Every term, defined. Consulted, not read.
-- [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]: The trade words of fitters, assayers and glasshouses, carried over into the metaphysical case.
+- [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom|The Magical Categories — Unified Taxonom]]: Reference. Consulted rather than read.
+- [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]: Every term, defined. Consulted rather than read.
+- [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]: The trade words of lamp-wardens, assayers and glasshouses, carried over into the metaphysical case.
 - [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]: Author-facing. How magic is written rather than what it is.
 
 ### The Workbook · [[The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System|Fracture of Worlds — The Living System]]
 
-*The stat framework itself. Not an essay. A reference you open with a specific question already in hand.*
+*The stat framework itself: a reference you open with a specific question already in hand.*
 
 > **How to use it.** *Statting a character*: open **I** for the point economy, then **II** for the ceiling their Stage permits and the Path gates on their Sub-Stats. *Writing a fight*: **II** for the Grade differential, **III** for what the strike actually does to masonry and bone. *Writing a working*: **V** for the Wellspring's stat effect, **VII** for how much of it survives the Shell. *Writing advancement*: **VI** for the Catalyst the Crystal is waiting on. *Writing a Domain*: **VIII**.
 

@@ -4,9 +4,13 @@ title: Training and Sects
 
 *How a woken practitioner grows, who teaches them, how they are ranked, and what fame and contest do to them. For the whole system in brief, see How Magic Works.*
 
+The Copper Kites and the Iron Aunts of Hollin Ford have hated each other for fourteen generations, and on ranking day the whole town shuts to watch. In the year everyone still talks about, the Kites sent out an inner disciple named Perrin Dace, nineteen, in the school's burnt orange, against the Aunts' core disciple Sunniva Holm, who outweighed him by two sacks of flour and had never lost on that ground. For a quarter of the water clock she walked him down, Aunts' song going up from the east bank, and his left collarbone was already broken when he stepped inside her swing on a strange slanting half-pace, planted, and put his palm through her guard into her breastbone, *DOOM*, and Sunniva Holm sat down in the river. The Kites went mad. And in the Aunts' box the school's grandmother, who was ninety and had not spoken in public for a decade, stood up on two sticks and asked in a voice that carried over the whole ford who had taught that boy their third step. By nightfall it was out: one winter, a kitchen boy, four silver, a copy of the Aunts' inner manual. The Kites' elders struck his name to save their own necks. The Aunts' bounty went up on every door along the river before morning. The song says twelve hunters came after him; the Aunts' accounts pay two, and record a right hand, taken at a ferry. Children on both banks still play at that half-pace in the street, and the Aunts still beat them for it.
+
+Training is where all of it is decided: what you can do, who owns it, and who comes for you if you carry it off. What follows is how the thing runs.
+
 ## What it is
 
-A practitioner (a person whose Soul Crystal, the soul's organ of power, is awake) grows by cultivation: breath and drawing, hard fighting, and seclusion before each Threshold (the remaking of the Crystal one Stage, one step of sixteen, higher). Schools, houses and sects teach them, rank them, guard their secrets and hunt their deserters, while the guilds sneer at fighters and the world cheers the great ones.
+A practitioner (a person whose Soul Crystal, the soul's organ of power, is awake) grows by cultivation: breath and pulling, hard fighting, and seclusion before each Threshold (the remaking of the Crystal one Stage, one step of sixteen, higher). Practitioners are common, and their ranks are common knowledge. Schools, houses and sects teach them, rank them, guard their secrets and hunt their deserters, while the guilds sneer at fighters and the world cheers the great ones.
 
 ## How it looks
 
@@ -14,14 +18,18 @@ A practitioner (a person whose Soul Crystal, the soul's organ of power, is awake
 
 | Practice | What it does | Where |
 |---|---|---|
-| **Breath and drawing** | Long, slow breathing that pulls Aether (the world's medium of power) into the Crystal and turns it to Essence (the practitioner's own power). Trains the draw, the metering and the speed of recovery | At a Wellspring (a site where one of the world's great laws runs strong), or anywhere the Aether is dense: a guild yard over a main, a shrine, a mountain spring |
+| **Breath and pulling** | Long, slow breathing that pulls Aether (the world's medium of power) from the ground and air around the practitioner into the Crystal and refines it to Essence (the practitioner's own power). Trains the pull, the measuring-out and the speed of recovery | At a Wellspring site (a place where one of the sixty kinds of Aether pools, a Core in common speech), or anywhere the Aether is dense: a guild yard on rich ground, a shrine, a mountain spring. Rich ground fills you faster and thin ground starves you, and schools fight over the difference |
 | **Sparring** | Drills, forms and practice bouts. Builds technique, timing and the read | The school's yard, every day |
 | **Real fights** | Hunts, duels, wars. The only thing that raises Level (the count of how often the Crystal has densified), because only real consequence does | Wherever the danger is |
 | **Seclusion** | Months alone before a Threshold, working the self toward the Catalyst (the particular experience a Stage demands), under guard | A sealed room, a cave, a cell under a school |
 
 A seclusion is guarded because a practitioner deep in one is helpless, and because a Crystal near its melt is a prize to an enemy. It ends in a breakthrough, the full transformation the hall can see, or in **slag** (a remaking that set wrong and cost the soul ground), or it does not end at all.
 
-**Each school its own basics.** There is no common curriculum. The Accord's Apprentice's Primer teaches the glyph grammar to the registered, but how to breathe, stand, draw, reinforce and strike is each school's own, and a fighter's first form tells a trained eye who taught them. A school's methods and forms are secrets worth stealing and worth killing over.
+**Each school its own basics.** There is no common curriculum. The Accord's Apprentice's Primer teaches the glyph grammar to the registered, but how to breathe, stand, pull, reinforce and strike is each school's own, and a fighter's first form tells a trained eye who taught them. A school's methods and forms are secrets worth stealing and worth killing over.
+
+**Schools are clubs.** A school has colors, songs, grudges, a style you can spot at fifty paces and a following that has never thrown a punch and will fight you about it anyway. Tavern walls are chalked with who beat whom. A boy will tell you his family has been Kite since his grandmother's day, and a Kite marrying an Aunt is a matter for both priests and both elders.
+
+**The three shared arts.** Aura coat, Pressure and sensing are taught in every yard and belong to nobody, and each culture has its own name for each and its own argument about them. In a bout-ring of the western quarters the coat is *the shine*, Pressure is *the weight* and sensing is *the nose*, and a fighter is priced by all three. A Moto house says *matoi*, the wearing, and considers it coarse to show color at table; it says *atsu* for Pressure and *kehai*, the sign of someone there, for sensing, and holds that a person who must look has already lost. The lineage halls say *hùtǐ*, *wēiyā* and *shénshí*, and have spent four centuries of commentary on which must be learned first. On a Guild roll they are reinforcement, Pressure and Gnosis Perception, and the Measurewrights who write those words will gladly explain why every other school has the order wrong.
 
 **The ranks.**
 
@@ -32,15 +40,15 @@ A seclusion is guarded because a practitioner deep in one is helpless, and becau
 | **Academies** | Scholar, Licentiate, Master, Doctor, Chair |
 | **The Accord's public ladder** | The nine Tiers of Standing, Initiate to Paragon, read off Stage |
 
-Disciples rise by **ranking contests**, set bouts held on a school's calendar, and by **the elders' word**, which can lift a disciple who lost or hold back one who won. A rank opens secrets (the next forms, the inner manuals), resources (Drafts, the bottled workings that feed growth; hours at the school's Wellspring; a better room) and standing. It also demands duty: missions, teaching the ranks below, fighting when the school is challenged, marrying where the house says. **A defector is hunted** for what they carry out in their head and their hands.
+Disciples rise by **ranking contests**, set bouts held on a school's calendar, and by **the elders' word**, which can lift a disciple who lost or hold back one who won. A rank opens secrets (the next forms, the inner manuals), resources (Drafts, the bottled workings that feed growth; hours at the school's Wellspring site; a better room) and standing. It also demands duty: missions, teaching the ranks below, fighting when the school is challenged, marrying where the house says. **A defector is hunted** for what they carry out in their head and their hands.
 
 **Guilds sneer, the world cheers.** To a guild examiner a fighter who works by voice and body is a mouth, someone who could not afford to learn to cut. Everyone else disagrees. Crowds pack the bout-rings, armies follow named fighters, sects court them, and children play at their techniques in the street.
 
-**Renown, by audience.** A name is known differently to the street, the guild halls, the schools and sects, the crowns and the Accord, and the underworld, and each keeps its own account. Renown opens doors and draws challengers in equal measure: every young fighter with a point to prove wants to beat the person everyone has heard of. **Epithets** are given by others, never chosen, and a fighter who names himself is laughed at.
+**Renown, by audience.** A name is known differently to the street, the guild halls, the schools and sects, the crowns and the Accord, and the underworld, and each keeps its own account. Heralds cry the results, minstrels spread songs that get the details wrong, and bookies keep the only figures anyone trusts. Renown opens doors and draws challengers in equal measure: every young fighter with a point to prove wants to beat the person everyone has heard of. **Epithets** are mostly given by others, some of them wrong and some unkind, and they travel ahead of a fighter down the road. A fighter who names himself is laughed at until it works, and then the name is his.
 
-**Warrants and bounties.** The Accord posts warrants: lawful, public, payable for an unlicensed high worker or a corrupted practitioner, brought in alive where the warrant says so. Sects, houses and guilds post bounties: private, for what someone stole, knew or did, with terms nobody prints.
+**Warrants and bounties.** The Accord posts warrants: lawful, public, payable for an unlicensed high worker or a corrupted practitioner, brought in alive where the warrant says so. Sects, houses, guilds and lords post bounties: private, for what someone stole, knew or did, with terms nobody writes down.
 
-**Tournaments.** Contests are fought in brackets by Stage, and a fighter may enter above their own Stage but never below. A fighter may **yield** at any time, by word or a hand flat on the ground. **Killing is forbidden**, and the killer forfeits and owes blood-price; it still happens, most often in the high brackets, where a full blow cannot be pulled in time. A fighter's **own power** is allowed: Traits (the soul's standing laws), techniques, releases (a Trait let loose in a learned form), vows (conditions sworn for power) and a bonded weapon. **Bought power** is banned: fight Drafts, purchased tags (prepared runed strips), hired arrays (standing runed workings). Prizes are resources (Drafts, a season at a Wellspring, rights to draw at a Core, a worked Wellspring site), places (an inner-disciple seat, an academy letter, a house commission) and fame.
+**Tournaments.** Contests are fought in brackets by Stage, and a fighter may enter above their own Stage but never below. A fighter may **yield** at any time, by word or a hand flat on the ground. **Killing is forbidden**, and the killer forfeits and owes blood-price; it still happens, most often in the high brackets, where a full blow cannot be pulled in time. A fighter's **own power** is allowed: Traits (the soul's standing laws), techniques, releases (a Trait let loose in a learned form), vows (conditions sworn for power) and a bonded weapon. **Bought power** is banned: fight Drafts, purchased tags (prepared runed strips), hired arrays (standing runed workings). Prizes are resources (Drafts, a season at a Wellspring site, rights to pull at a Core, a worked Wellspring site), places (an inner-disciple seat, an academy letter, a house commission) and fame.
 
 ## What it costs
 
@@ -54,7 +62,7 @@ Disciples rise by **ranking contests**, set bouts held on a school's calendar, a
 
 - **Study the school.** A taught form is a documented form. A fighter who learned a rival school's basics can read its disciples before they finish their first step.
 - **Find the secluded.** A practitioner in seclusion cannot fight. Get past the guard, or bribe him.
-- **Steal the manual.** A school's power is its secrets; take them and the school is ordinary.
+- **Steal the manual.** A school's power is its secrets; take them and the school is ordinary. Ask Perrin Dace, if you can find him, and shake his left hand.
 - **Make them choose.** A disciple bound by duty can be pressed through it: challenge the school in public and someone must answer.
 - **Use the yield.** In a bout, a fighter losing badly may live to fight the next season. In a feud there is no yield, and a disciple raised on bouts sometimes forgets that.
 

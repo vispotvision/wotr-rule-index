@@ -7,6 +7,12 @@ tags:
 
 # II. Grades, Gates and Thresholds (Parts Four–Ten)
 
+Gudmund Never-Hit worked the ice fairs of Kharven for nine winters with one act. He stood on a square of swept ice in a blue cloak and a hat with a bell on it, and for a copper a bolt anyone with a crossbow could try him at twenty paces. His Reflex read D-Grade on a Guild roll, which is the very letter for the trick, and his Vitality read F, because nobody had ever hit him. He watched the finger, he watched the tiller kick, he leaned, the bolt went *fssst* past his ear into a wall of straw bales, the hat went *ting*, and the crowd bawled for more. At the Sunmeet Fair he slipped nineteen in a row from a line of grinning sergeants, with the odds on a hit drifting out to forty to one. The twentieth came from behind him. A chandler's widow to whom he owed nine silver marks had paid her copper, climbed into the hayloft over the mead tent and rested the stock on a beam.
+
+*TCHUK.*
+
+It went in under the hat and out through his teeth, and the bell went on ringing a good while after he had stopped moving. His coat (the aura a practitioner wears as armor) did nothing for him, since a coat is a thing a man holds and a man taken by surprise is holding nothing. The widow had put one silver mark on a hit before she climbed the ladder, which at forty to one covered the debt four times over and bought a mourning band for the hat. Every line of that afternoon is a matter of letters, and the letters are on this page.
+
 ## Part Four — The Tier Grade System
 
 Tier Grade is the qualitative bracket that determines what scale of force, phenomenon, or entity a practitioner can meaningfully engage, resist, or overcome. It is derived from a Sub-Stat's raw numeric value and confirmed by Temperance Stage. A stat cannot hold its Tier Grade if the Soul Crystal has not undergone the Threshold required to sustain that density.
@@ -19,7 +25,7 @@ Grades use real-world energy equivalents drawn from physical TNT yield benchmark
 
 The table below measures a **Sub-Stat's** raw value, and the Temperance ceiling in Part Five binds the Sub-Stat. Every Grade letter in this document, in the Path gates of Part Seven and the Resonant Pairs of Part Nine, means what it has always meant: a threshold on that Sub-Stat's own number.
 
-A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totalling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads, and a contested exchange is decided by the Grade of the Sub-Stat actually in use. See I. Levels, Experience and Stat Points for the point economy.
+A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totaling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads, and a contested exchange is decided by the Grade of the Sub-Stat actually in use. See I. Levels, Experience and Stat Points for the point economy.
 
 Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets.
 
@@ -126,7 +132,7 @@ These values are the natural ceiling achievable at each Tier Grade through pure 
 | EX | 149,896,229–299,792,458 m/s | — | approaching c |
 | EX+ | c and upward, toward Massively FTL+ | — | FTL parameters |
 
-At D-Grade the practitioner can react to gunfire but cannot outrun it. At B-Grade they can engage opponents relying on firearms or conventional projectiles without significant reactive disadvantage. At A-Grade movement generates significant environmental effects, heat buildup from air friction, pressure waves, surface disruption, without deliberate technique activation. At S-Grade the air itself becomes a weapon; characters without S-Grade Resilience or higher sustain structural damage simply from proximity to a moving S-Grade practitioner at full speed. At SS-Grade biological neural processes are insufficient and Essence-mediated sensory routing becomes the primary perceptual mechanism, and the practitioner's passage through space at full speed is perceived as instantaneous by anyone below S-Grade. Dodging a full-speed SSS attack requires SSS Reaction Speed at minimum to even register the attack as having occurred. Below SSS-Grade nobody can perceive, let alone react to, X-Grade full speed. EX movement generates relativistic effects that interact with the surrounding Aether field and can cause localized temporal distortion as a byproduct rather than an intention. EX+ movement is not faster travel between two points; it is Essence-mediated spatial restructuring where distance is subject to Domain authority.
+At D-Grade the practitioner can read a crossbow bolt loosed across a room and slip it, if they see the loose. At B-Grade they can stand in a volley of bolts and arrows without significant reactive disadvantage. A bolt is read by Speed Grade like any projectile, and it stays the cheap thing that can kill a high-Stage fighter in a room, which is why veterans sit with their backs to walls. At A-Grade movement generates significant environmental effects, heat buildup from air friction, pressure waves, surface disruption, without deliberate technique activation. At S-Grade the air itself becomes a weapon; characters without S-Grade Resilience or higher sustain structural damage simply from proximity to a moving S-Grade practitioner at full speed. At SS-Grade biological neural processes are insufficient and Essence-mediated sensory routing becomes the primary perceptual mechanism, and the practitioner's passage through space at full speed is perceived as instantaneous by anyone below S-Grade. Dodging a full-speed SSS attack requires SSS Reaction Speed at minimum to even register the attack as having occurred. Below SSS-Grade nobody can perceive, let alone react to, X-Grade full speed. EX movement generates relativistic effects that interact with the surrounding Aether field and can cause localized temporal distortion as a byproduct rather than an intention. EX+ movement is not faster travel between two points; it is Essence-mediated spatial restructuring where distance is subject to Domain authority.
 
 **Zenith, Stage XIV:** Immeasurable Speed classification applies at full expression. The practitioner does not move through space. In the limit case, they exist in all relevant positions simultaneously until they choose otherwise.
 
@@ -178,7 +184,7 @@ A character can be quantitatively eligible for months of in-world time and never
 
 Stage I counts as a Threshold worth 100 points. Every practitioner starts with it. The events below are the transitions, and each grants the Stage number multiplied by 100 on the terms of Part Three.
 
-**I to II, Welling.** First genuine contact with a Wellspring current under personal pressure, not observed, not instructed, but touched and survived.
+**I to II, Welling.** First genuine contact with a Wellspring's Aether under personal pressure, not observed, not instructed, but touched and survived.
 
 **II to III, Ascension.** First technique developed independently from instruction, built from the character's own understanding of their Essence rather than received doctrine.
 
@@ -216,7 +222,7 @@ When specific Sub-Stats from different Primary Stats reach the same Tier Grade s
 |---|---|---|
 | Fortitude + Integrity | A | Passive 15% reduction to Soul Crystal fracture risk from physical trauma |
 | Alacrity + Celerity | B | Reactive Cast: techniques trigger in response to incoming force without a declared action window |
-| Attunement + Depth | A | Wellspring draw cost reduced 20% across all active attunements |
+| Attunement + Depth | A | Wellspring pull cost reduced 20% across all active attunements |
 | Compression + Clarity | S | Essence output quality elevated; all noise and structural waste removed from active workings |
 | Sovereignty + Command | SSS | Sovereign Frequency: spoken commands carry Continuum-recognized authority within Domain radius |
 | Throne + Persistence | EX | Apotheosis Proximity: passive Hollow Throne resonance, eligibility for direct Principle contact |

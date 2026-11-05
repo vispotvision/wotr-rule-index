@@ -10,13 +10,21 @@ tags:
 
 *The Continuum does not distinguish between the fist and the meteor. It measures the pressure that arrives, and it measures what survives.*
 
+Two women took the Hwangsan Gate in one afternoon, and the Southern houses are still fighting about which of them did it. The Seo women, an aunt and her niece, hired out as a pair, Hye-rin with a sword and Bo-ra with her fists, in matching persimmon coats, the same letter against both their names on the Guild roll: A-Grade in the strike. Bo-ra went first. She set her heel in a cart rut, her aura flared the orange of her coat from the shoulder down, and she punched the curtain wall.
+
+*KRRRAAAKOOOM.*
+
+Forty paces of masonry came down in a wave of yellow dust with the garrison still standing on it, and a Measurewright watching from the siege line got a mouthful of it. Hye-rin strolled through the dust, told her niece she had missed a bit, and drew one line through the iron portcullis and the oak doors behind it, *shhk*, so clean that the halves stood a moment longer and the gate captain was still shouting orders when the top half slid. The minstrels gave the day to the sword. The sutlers in the camp paid on the fist. Bo-ra's arm had come back with the wall's answer in it, the wrist and both bones of the forearm, a month in splints, because every push is pushed back and Essence only pays part of that bill. And the Measurewright, spitting grit, worked the whole thing out in charcoal on a wagon board and announced that the two blows had carried the same energy within a rounding error, whereupon both women tried to hit him.
+
+That wagon board is this page.
+
 ## What Physical Force Is
 
 Physical Force is the umbrella measurement for every form of mechanically expressed destructive, resistive, or manipulative output a character can produce through bodily action, Essence-reinforced technique, or Aetheric projection converted into kinetic effect. Five facets: **Strike Force**, destructive energy delivered per attack; **Durability**, capacity to absorb, deflect or endure incoming energy without structural failure; **Lifting Strength**, sustained force applied against gravitational or structural resistance; **Range**, the spatial envelope across which force remains coherent; and **Aura Pressure**, the passive force a character's presence exerts on their environment.
 
 Physical Force is not separate from Aetheric power. It is its most immediate translation. Every soul operates under the **Aether-Physics Fusion Rule**: magical combat must obey physical law and Aetheric law simultaneously. When a practitioner punches through a castle wall, the wall breaks because kinetic energy concentrated in the fist exceeded the tensile and compressive strength of the masonry. That the energy came from Essence compression rather than muscle contraction does not change the physics of the impact. The Continuum measures the energy that arrived. It does not ask where the energy came from.
 
-What *does* differentiate is delivery mechanism. A punch delivers force through physical contact across a finite impact area. A Sage Art (a working drawn from the Wellspring running through the ground) technique delivers force through Aetheric projection across a volumetric zone. A Domain-grade expression delivers force as a localized alteration to the laws governing material coherence. The energy equivalence may be identical. The tactical application is not.
+What *does* differentiate is delivery mechanism. A punch delivers force through physical contact across a finite impact area. A Sage Art (a working fed by the Wellspring Aether pooled in the ground underfoot) technique delivers force through Aetheric projection across a volumetric zone. A Domain-grade expression delivers force as a localized alteration to the laws governing material coherence. The energy equivalence may be identical. The tactical application is not.
 
 ### The Dual-Law Requirement
 
@@ -37,9 +45,9 @@ One ton of TNT is equivalent to 4.184 × 10⁹ Joules. TNT equivalence describes
 | Tier Grade | Stat Range | Peak Force (N) | Energy Yield (J) | TNT Equiv. | Real-World Comparison |
 |---|---|---|---|---|---|
 | Hollow | 1–10 | 200–800 N | below 60 J | — | Untrained to athletic human punch |
-| F | 11–25 | 800 N – 2 MN | 60–300 J | — | Trained athlete to industrial press |
-| E | 26–50 | 2–20 MN | 300 J – 15 kJ | — | Compact car impact concentrated into a limb |
-| D | 51–100 | 20–100 MN | 15 kJ – 20.92 MJ | — | Heavy industrial press to demolition charge |
+| F | 11–25 | 800 N – 2 MN | 60–300 J | — | Trained athlete to forge drop hammer |
+| E | 26–50 | 2–20 MN | 300 J – 15 kJ | — | Charging warhorse's impact concentrated into a limb |
+| D | 51–100 | 20–100 MN | 15 kJ – 20.92 MJ | — | Great forge hammer to wall-breaking trebuchet volley |
 | C | 101–175 | 0.1–1 GN | 20.92 MJ – 1.046 GJ | 0.005–0.25 t | Small Building to low Building |
 | B | 176–275 | 1–5 GN | 1.046–46 GJ | 0.25–11 t | Building to Large Building |
 | A | 276–400 | 5–100 GN | 46 GJ – 4.184 TJ | 11–1,000 t | City Block to Multi-City Block |
@@ -53,7 +61,7 @@ One ton of TNT is equivalent to 4.184 × 10⁹ Joules. TNT equivalence describes
 
 **Reading the table.** These are ceilings at the *upper* boundary of each Grade. A character at stat value 176 does not produce 5 GN. They produce roughly 1 GN. The range within each Grade follows a non-linear curve that steepens as the value approaches the Grade ceiling, reflecting the densification of Essence architecture near the next Temperance threshold.
 
-**The Somatic-Aetheric Split.** At Hollow and F, Strike Force is predominantly somatic. By E-Grade the ratio is roughly sixty percent Aetheric, forty percent somatic. At C-Grade and above the somatic contribution is structurally negligible: the body is the delivery chassis, the Essence is the engine. By S-Grade the body has been so thoroughly rebuilt by Essence saturation that the distinction between muscle and Aether ceases to be anatomically meaningful. The practitioner's bicep does not contract harder. Their Soul Crystal compresses Essence into the limb's contact zone at densities that produce giganewton-scale force as a byproduct of Aetheric physics.
+**The Somatic-Aetheric Split.** At Hollow and F, Strike Force is predominantly somatic. By E-Grade the ratio is roughly sixty percent Aetheric, forty percent somatic. At C-Grade and above the somatic contribution is structurally negligible: the body is the delivery frame, the Essence is the engine. By S-Grade the body has been so thoroughly rebuilt by Essence saturation that the distinction between muscle and Aether ceases to be anatomically meaningful. The practitioner's bicep does not contract harder. Their Soul Crystal compresses Essence into the limb's contact zone at densities that produce giganewton-scale force as a byproduct of Aetheric physics.
 
 **The Focused-Yield Principle.** Strike Force measures the yield as delivered, not the theoretical yield of the Essence expended. An A-Grade practitioner with Ardency Compression at S-Grade can focus their yield into a contact area smaller than a coin, producing local pressures orders of magnitude above their overall energy tier. This is why an A-Grade swordsman bisects materials an A-Grade blunt strike only cracks. The energy is identical. The pressure distribution is not.
 
@@ -66,11 +74,11 @@ Governed primarily by **Vitality**, particularly Fortitude and Constitution, wit
 | Tier Grade | Sustained Lift Ceiling | Real-World Comparison |
 |---|---|---|
 | Hollow | 50–120 kg | Untrained to athletic human |
-| F | 120 kg – 200 tonnes | Crane-class; can shift loaded freight cars |
-| E | 200–2,000 tonnes | Industrial excavator to small ship displacement |
+| F | 120 kg – 200 tonnes | Treadwheel-crane class; can shift loaded ore wagons |
+| E | 200–2,000 tonnes | A quarry's season of cut stone to small ship displacement |
 | D | 2,000–10,000 tonnes | Heavy cargo vessel; can arrest a collapsing building wing |
 | C | 10,000–100,000 tonnes | Large naval vessel; can uproot terrain features |
-| B | 100,000–500,000 tonnes | Aircraft carrier class; can reposition geological formations |
+| B | 100,000–500,000 tonnes | Harbor breakwater class; can reposition geological formations |
 | A | 0.5–10 million tonnes | Small mountain mass; terrain reshaping through brute application |
 | S | 10 million – 1 billion tonnes | Large mountain; can arrest tectonic motion across fault lines |
 | SS | 1–100 billion tonnes | Continental shelf mass; gravitational field competes with local geology |
@@ -96,12 +104,14 @@ Durability is the total destructive energy a character can absorb, deflect, dist
 
 **Layer Four: Domain Resistance.** At A-Grade and above, practitioners with active Domains gain a layer derived from Domain coherence. Within their own Domain, local law favors their survival. Not quantified in Joules, because it does not absorb energy. It degrades the coherence of incoming attacks, reducing effective yield before it reaches the Shell.
 
+An aside on Layer Two, because it is the most famous art in the world and the most quarreled over. Every culture learned it, and none will use another's word. On a Guild roll it is Aether Shell Shielding, and in most mouths it is the coat. The Moto say *matoi*, the wearing, and hold that a coat anyone can see is badly worn. A Kharven rider calls it the hide, and thinks the Moto are showing off by hiding it. The Mahuo say *gabot*, armor, and teach it before they let a student touch a sword. The lineage halls say *hùtǐ*, guarding the body, and keep a commentary older than any living elder on how thick is vulgar. The figures below apply to all of them, which no school has ever been pleased to hear.
+
 | Tier Grade | Total Durability Ceiling (J) | TNT Equiv. | Survival Threshold |
 |---|---|---|---|
 | Hollow | below 48 J | — | Survives unarmed human combat |
-| F | 42–240 J | — | Survives small arms fire and bladed weapons |
-| E | 210 J – 12 kJ | — | Survives vehicular impact and explosive fragmentation |
-| D | 10.5 kJ – 16.7 MJ | — | Survives direct artillery and structural collapse |
+| F | 42–240 J | — | Survives arrows, sling stones and bladed weapons |
+| E | 210 J – 12 kJ | — | Survives a lance charge and flying stone splinters |
+| D | 10.5 kJ – 16.7 MJ | — | Survives a direct trebuchet stone and structural collapse |
 | C | 13.6 MJ – 0.785 GJ | 0.003–0.19 t | Survives localized demolition-scale events |
 | B | 0.680–34.5 GJ | 0.16–8.2 t | Survives building-scale destruction |
 | A | 27.6 GJ – 2.93 TJ | 6.6–700 t | Survives city-block-scale destruction |
@@ -123,7 +133,7 @@ Every expression of force has a coherence envelope: the maximum distance from th
 
 **Contact Force** has zero range beyond the point of contact. A punch delivers its full yield at the knuckle surface and nowhere else. Shockwave propagation can extend the effective damage radius, but shockwave energy degrades by the inverse square law, losing roughly seventy-five percent of yield per doubling of distance from impact.
 
-**Projected Force** degrades according to the practitioner's Ardency Compression Sub-Stat and the Wellspring used. A tightly compressed Coagulatio-based (drawn from Coagulatio, a Wellspring that gathers and densifies) force lance retains ninety percent of its yield across its full effective range. A broadly dispersed Pyreveil-based (drawn from Pyreveil, a fire Wellspring) detonation wave retains only forty percent of peak yield at the edge of its blast radius. Range benchmarks below are the maximum distance at which at least fifty percent of peak Strike Force is delivered.
+**Projected Force** degrades according to the practitioner's Ardency Compression Sub-Stat and the Wellspring used. A tightly compressed Coagulatio-based (pulled from Coagulatio, a Wellspring that gathers and densifies) force lance retains ninety percent of its yield across its full effective range. A broadly dispersed Pyreveil-based (pulled from Pyreveil, a fire Wellspring) detonation wave retains only forty percent of peak yield at the edge of its blast radius. Range benchmarks below are the maximum distance at which at least fifty percent of peak Strike Force is delivered.
 
 | Tier Grade | Contact Range | Projected Force Range (50% Yield) | Passive Pressure Field |
 |---|---|---|---|
@@ -167,7 +177,7 @@ The three are one field read at three thresholds, and the thresholds differ by a
 
 **Reading the table.** Hollow has no passive field and therefore no reach past contact. Continental and planetary presence are read as a continent's span and a planet's diameter. Above EX the figures stop here, as they stop above. Every entry is stated for ordinary Ambient ground and for a target that is not working.
 
-**Ground changes all three together.** Each falls as the **square root** of the local Aetheric Density, against the reference of ordinary Ambient ground. That is about ten times further on Aether-thin ground, an eighteenth at Active Concentration (ground near a Wellspring, thick with Aether), a thousandth at a Veil-Thin Nexus, and about a five-millionth inside a Wellspring Core. Residue still ringing counts in the same sum, which is why fought-over ground is short ground for hours afterwards. **The ground a practitioner would choose for output is the worst ground he could choose for reach**, and every veteran knows one of those two facts.
+**Ground changes all three together.** Each falls as the **square root** of the local Aetheric Density, against the reference of ordinary Ambient ground. That is about ten times further on Aether-thin ground, an eighteenth at Active Concentration (ground near a Wellspring site, thick with Aether), a thousandth at a Veil-Thin Nexus, and about a five-millionth inside a Wellspring Core (a site where a Wellspring's Aether pools, in common speech). Residue still ringing counts in the same sum, which is why fought-over ground is short ground for hours afterwards. **The ground a practitioner would choose for output is the worst ground he could choose for reach**, and every veteran knows one of those two facts.
 
 **A working target is ten times easier to name.** Anything standing a hundredfold above the background is addressed at ten times the range, and anything performing a working at all stands there. Suppression is the same fact run backwards, and it is paid for continuously rather than once.
 
@@ -189,6 +199,8 @@ At **A-Grade and above** it becomes a genuine combat factor. An A-Grade characte
 
 Governed primarily by **Harmonics**, particularly Attunement and Projection, with secondary contribution from **Dominion's Pressure**. Body Path Aura is physically heavier but spatially compact. Attraction Path Aura is lighter per square meter but extends across far larger volumes. Spirit Path Aura is perceptually intense, targeting cognition and emotional stability rather than physical structure, and exerts less raw gravitational-analogue force.
 
+Everyone knows this art and nobody agrees on its manners. A Guild examiner writes Pressure. A southern tavern says a man is leaning on the room, and a Kharven soldier calls it the low sky and thinks hiding it is a kind of lie. The Moto say *atsu* and consider leaking it indoors an insult to the host. Mahuo halls say *nureum*, the pressing-down, and the lineage halls *wēiyā*, which they will tell you is a matter of virtue and which feels the same on the knees. The Dawi enter it in the Tally as a load, and argue about who should pay for it.
+
 ## Path Modifiers to Physical Force
 
 Path modifiers apply *after* Temperance and Tier are calculated. The magnitude widens with distance from the Physical Plane.
@@ -205,7 +217,7 @@ Path modifiers apply *after* Temperance and Tier are calculated. The magnitude w
 
 **Within-Tier Resolution.** At the same Grade, exchanges resolve by technique quality, tactical intelligence, positioning and Sub-Stat architecture. A character at 275 produces roughly **five times** the Strike Force of a character at 176. Both are B-Grade. The five-fold differential is real and significant but not automatically decisive, because technique architecture, Wellspring affinity and Path bonuses can compress or invert the raw stat advantage.
 
-**The Sharp-Blunt Asymmetry.** An F-Grade swordsman delivering 0.2 MN through an edge contacting roughly one square millimetre produces local pressure of **200 GPa**, exceeding the compressive strength of virtually all natural and most Essence-reinforced materials at that Tier. The same 0.2 MN through a fist contacting one hundred square centimetres produces **20 MPa**, enough to crack stone but not bisect steel. The Continuum tracks total energy for Tier comparison and local pressure for material interaction. The ratio is ten thousand to one at any force, which is why a B-Grade swordsman cuts what a B-Grade brawler can only dent, and why the brawler shatters structures the swordsman can only slice.
+**The Sharp-Blunt Asymmetry.** An F-Grade swordsman delivering 0.2 MN through an edge contacting roughly one square millimeter produces local pressure of **200 GPa**, exceeding the compressive strength of virtually all natural and most Essence-reinforced materials at that Tier. The same 0.2 MN through a fist contacting one hundred square centimeters produces **20 MPa**, enough to crack stone but not bisect steel. The Continuum tracks total energy for Tier comparison and local pressure for material interaction. The ratio is ten thousand to one at any force, which is why a B-Grade swordsman cuts what a B-Grade brawler can only dent, and why the brawler shatters structures the swordsman can only slice.
 
 **Essence-Typed Damage.** Force delivered through Wellspring-attuned technique carries that Wellspring's signature. Pyreveil adds thermal energy. Fractura adds structural destabilization. Vohrin adds thermal extraction. These are not counted in the Strike Force benchmark because they are Wellspring-dependent, but they represent real additional damage that can push effective yield above the raw Joule rating. A Fractura-enhanced strike targeting a pre-identified fault line in the target's Aether Shell can produce Shell failure at yields **thirty to fifty percent below** the Shell's rated ceiling, because the strike is applying force at the exact frequency and vector that maximizes structural degradation.
 

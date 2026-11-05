@@ -7,7 +7,13 @@ tags:
 
 # The Ladder and the Draft — Temperance, Advancement and Essence Drafts
 
-> **The Stage-by-Stage account lives in The Sixteen Stages** — each Stage given four ways: the Codex (the Accord's master register of laws and figures) ledger line, what it is from inside the person it is happening to, what it looks like from outside, and what the folk call it. **This page does not repeat it.**
+The most expensive goose in the history of alchemy belonged to a chandler at Marrow Fair. Corvin Hathersage, nineteen years old and heir to the Hathersage wool money, had been told by three instructors that he had the floor for Splintering and none of the rest of it, so he hired the great stage at the autumn brackets, sold the seats at a silver mark a head, put on a gold sash and drank eleven hundred marks' worth of breakthrough Draft in front of six thousand people, with a herald crying the price of every swallow. It worked, the way they work. His aura went from charcoal to a cracking web of arc-blue, *krrk-krrk-KRRRK*, every hair in the front four rows stood up, and the whole fairground watched his Crystal go to the melt. At exactly that moment Nob Pye, a stable-hand retained by his rival and possessed of a sense of occasion, let the goose out.
+
+*HNNNK.*
+
+Whatever is in a Crystal at the moment of reorganization is built into what comes out. Hathersage arrived at Stage V before six thousand witnesses, a genuine Expert, with a lattice organized around the purest terror of his young life. He went on to kill nine men in formal duels, and he killed them superbly. He could not cross a farmyard. Geese knew, somehow, and followed him from county to county in long honking lines, and the family spent a fair part of the wool money on crossbowmen. The instructors tell it as a joke. The apothecaries sold out of that batch before the fair closed.
+
+> **The Stage-by-Stage account lives in The Sixteen Stages**, with each Stage given four ways: the Codex (the Accord's master register of laws and figures) ledger line, what it is from inside the person it is happening to, what it looks like from outside, and what the folk call it. **This page does not repeat it.**
 >
 > What this page does is join the ladder to the rest of the system: what changes in each Crystal layer (the three layers of the Soul Crystal, the organ that works magic) as a soul climbs, what an Essence Draft is, what a Draft can and cannot do to advancement, and why the Accord's most profitable illegal trade exists.
 >
@@ -17,11 +23,11 @@ tags:
 
 ## I · The two keys
 
-Temperance (the climb of a soul from Stage to Stage) is subtraction. Each Stage is a structural reorganisation the Crystal undergoes when accumulated pressure exceeds its current architecture, never a reward for banked experience. A Threshold opens only when both keys turn.
+Temperance (the climb of a soul from Stage to Stage) is subtraction. Each Stage is a structural reorganization the Crystal undergoes when accumulated pressure exceeds its current architecture, and no Stage has ever been paid out as a reward for banked experience. A Threshold opens only when both keys turn.
 
 **The quantitative floor.** Sufficient pressure inside the current Stage. Measurable, purchasable at the margins, and the half of the equation the Accord's certification apparatus is built to read.
 
-**The Catalyst Condition.** A specific quality of experience the Crystal requires before it will authorise the transition. **A practitioner can sit quantitatively eligible for months of in-world time and never pass a Threshold, because the Catalyst has not occurred.** The System does not advance a soul that has not genuinely changed. This is accuracy, not punishment.
+**The Catalyst Condition.** A specific quality of experience the Crystal requires before it will authorize the transition. **A practitioner can sit quantitatively eligible for months of in-world time and never pass a Threshold, because the Catalyst has not occurred.** The System does not advance a soul that has not genuinely changed. This is accuracy, and punishment has no part in it.
 > **A soul is assembled out of what happened to it and what it could afford, in that order.**
 The second key is why the ladder cannot be bought, and the first key is why people keep trying.
 
@@ -31,15 +37,15 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 
 *Summary only. The full treatment is in The Sixteen Stages.*
 
-**Inner Refinement · Band I · Stages I to IV.** Murmuring, Welling, Ascension, Flourishing. **Better than nine souls in ten will live and die inside this Band,** and everything the world thinks it knows about magic it knows from watching people who never left it. The Crystal opens, spills, finds direction, and stabilises into an identity.
+**Inner Refinement · Band I · Stages I to IV.** Murmuring, Welling, Ascension, Flourishing. **Better than nine souls in ten will live and die inside this Band,** and everything the world thinks it knows about magic it knows from watching people who never left it. The Crystal opens, spills, finds direction, and stabilizes into an identity.
 
-**The first crisis · Stage V.** Splintering. The Crystal fractures along emotional lines after surviving contact with something more than two full Tiers above its ceiling. Not defeating it. Surviving it.
+**The first crisis · Stage V.** Splintering. The Crystal fractures along emotional lines after surviving contact with something more than two full Tiers above its ceiling. Survival is the whole requirement, and defeating the thing adds nothing.
 
 **Consolidation · Stages VI to VII.** Glory and Refraction. The fractures become features, the aura starts generating environmental effects, and then the soul turns and looks at itself from outside. **Refraction is where a practitioner first reads their own fracture record as an object of study.**
 
 **Outer Influence · Stages VIII to X.** Transcendence, Invocation, Realization. The first true Domain (a region where the world runs on the practitioner's terms) forms from a wound consciously made load-bearing. Then the practitioner stops working alone. Then the Continuum (the lawful fabric of reality) stops resisting and starts accommodating, and **the direction of that accommodation never reverses back.**
 
-**Mythic and Absolute · Stages XI to XIV.** Dissonance, Emanation, Principality, Zenith. The chosen approach to annihilation, what radiates from a soul that came back, formal registration of a law, and finally recognition by a Hollow Throne. **Zenith is not a breakthrough. It is conferred.**
+**Mythic and Absolute · Stages XI to XIV.** Dissonance, Emanation, Principality, Zenith. The chosen approach to annihilation, what radiates from a soul that came back, formal registration of a law, and finally recognition by a Hollow Throne. **Zenith is conferred, and no breakthrough reaches it.**
 
 **Beyond the canon · Stages XV to XVI.** Revelation and Apex. Archon-participant territory and then a perpetual state with no ceiling beneath Apotheosis.
 
@@ -49,21 +55,21 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 
 *The ladder is usually read as one number going up. It is three architectures changing at different rates, and they do not change together.*
 
-| Tier of Standing | Essence Core (inner layer: identity, memory, Traits) (inner layer: identity, memory, Traits) | Aether Shell | Attraction Layer (outer layer: bonds, Domains, Wellspring ties) (outer layer: bonds, Domains, Wellspring ties) |
+| Tier of Standing | Essence Core (inner layer: identity, memory, Traits) | Aether Shell | Attraction Layer (outer layer: bonds, Domains, Wellspring ties) |
 |---|---|---|---|
-| **1–4 · I–IV** | Identity assembling. Traits present but volatile, with real risk of misfire and self-harm. | Forming and porous. Output arrives before control does. | First harmonisation. First Spirit Axis at Flourishing. |
+| **1–4 · I–IV** | Identity assembling. Traits present but volatile, with real risk of misfire and self-harm. | Forming and porous. Output arrives before control does. | First harmonization. First Spirit Axis at Flourishing. |
 | **5 · V–VI** | Fractured along emotional lines, then processing those fractures into features. | Self-conducting. Signature becomes permanent. | Aura begins generating environmental effect. |
-| **5–6 · VII–VIII** | Visible to itself. The fracture record becomes readable. | Traits externalise and interface cleanly with Wellspring (a natural source of magic carrying one physical law) dialect. | Domain seed, then first true Domain. |
+| **5–6 · VII–VIII** | Visible to itself. The fracture record becomes readable. | Traits externalize and interface cleanly with Wellspring dialect (a Wellspring being one of the sixty types of Aether, each working on the Crystal in its own way and carrying its own physical law). | Domain seed, then first true Domain. |
 | **6–7 · IX–XII** | Denser after Dissonance than clean advancement can produce. | Traits reach field-state and stop needing maintenance. | Domain to Realm to ambient consequence. Passive miracles leak. |
 | **8 · XIII–XIV** | The Crystal self-writes. | Trait and Domain Law fuse. The Trait stops being an ability. | A law with standing independent of the practitioner. |
 
-> **The architectural note on Dissonance.** Souls that pass *through* Stage XI rather than around it arrive at Emanation fractured and denser than the clean path produces. **Overflow, Overchannel and Persistence reach their true ceiling in no other way.** The fractures are not damage. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
+> **The architectural note on Dissonance.** Souls that pass *through* Stage XI rather than around it arrive at Emanation fractured and denser than the clean path produces. **Overflow, Overchannel and Persistence reach their true ceiling in no other way.** Those fractures count as structure. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
 
 ---
 
 ## IV · Essence Drafts
 
-*Aether + Essence + Vessel + Glyphica (the glyph-writing that shapes a working) = Reaction. A Draft is a working stabilised into a substance, and the substance came from somewhere.*
+*Aether + Essence + Vessel + Glyphica (the glyph-writing that shapes a working) = Reaction. A Draft is a working stabilized into a substance, and the substance came from somewhere.*
 
 | Type | Source | Potency | Risk |
 |---|---|---|---|
@@ -72,9 +78,11 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 | **Environmental** | Affinity-saturated immersion | Low per unit time | Near zero |
 | **Synthetic** | Alchemically blended | Variable and unique | **Highest. Internal reaction.** |
 
-**Where the material comes from.** Every substance in the ledger carries a Resonance, a Family (one of the eight houses of magic, sorted by physics) and a Physics Domain (the branch of real physics its Wellspring governs) alongside its Bearing and Holding grades. A dragon's scale is not a generic reagent. It carries a specific Wellspring resonance, it renders at a specific grade, and **that grade begins falling from the moment the animal stops.** The whole beast trade is an argument with decomposition, which is why the northern runners are the profitable ones and why some rendering houses are sited beside a glacier for no other reason.
+**Where the material comes from.** Every substance in the ledger carries a Resonance, a Family (one of the eight houses of magic, sorted by physics) and a Physics Domain (the branch of real physics its Wellspring governs) alongside its Bearing and Holding grades. A dragon's scale is no generic reagent: it carries a specific Wellspring resonance, it renders at a specific grade, and **that grade begins falling from the moment the animal stops.** The whole beast trade is an argument with decomposition, which is why the northern runners are the profitable ones and why some rendering houses are sited beside a glacier for no other reason.
 
-**Identity Contamination** is the risk that makes Creature-Sourced Drafts both the most potent and the least used by anyone with a career to protect. The Essence taken carries the identity it came from, and a Core that absorbs enough of it stops being able to say cleanly which convictions are its own. **The failure mode is not death. It is a practitioner whose Attunement (how the soul tunes itself to what it works) has quietly stopped matching their Coherence (how closely its chosen Path matches how it lives), and who is the last to notice.**
+**Identity Contamination** is the risk that makes Creature-Sourced Drafts both the most potent and the least used by anyone with a career to protect. The Essence taken carries the identity it came from, and an Essence Core that absorbs enough of it stops being able to say cleanly which convictions are its own. **The failure mode leaves the practitioner alive, with an Attunement (how the soul tunes itself to what it works) that has quietly stopped matching their Coherence (how closely its chosen Path matches how it lives), and they are the last to notice.**
+
+**Fight Drafts.** Everything above works on the ladder. The Drafts a fighter carries on the belt work on the reserve: a fight Draft takes a beat to get down, refills reserve, and leaves a crash that pays for it. Drafts are graded by the Stage they serve and priced about threefold a Stage, and counterfeits are common enough that bracket crowds keep a chant for the man who has just swallowed a mouthful of chalk at the worst moment of his life.
 
 ---
 
@@ -85,15 +93,15 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 > This is canon and it is the load-bearing sentence in the whole relationship between alchemy and advancement. Stats pushed above their sustainable grade by alchemical augmentation, bloodline exploitation or external metaphysical imposition **generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed through crisis.**
 So, in the matter of advancement, a Draft does exactly one honest thing, one dishonest one, and one that the Registers have only recently been willing to write down.
 
-**The honest use.** A practitioner who has met their Catalyst but sits below the floor can be brought to the floor. This is legitimate, licensed, expensive, and the backbone of the Accord's entire pharmaceutical arm. It shortens the wait. It does not skip anything.
+**The honest use.** A practitioner who has met their Catalyst but sits below the floor can be brought to the floor. This is legitimate, licensed, expensive, and the backbone of the Accord's entire apothecary arm. It shortens the wait. It does not skip anything.
 
-**The dishonest use.** A practitioner who has *not* met their Catalyst can be pushed above their sustainable grade anyway. The Crystal will hold the numbers for a while. Then it begins fracturing, and the fracture rate compounds, and it ends one of two ways: the stat collapses, or the Threshold is forced through crisis and the practitioner arrives at the next Stage having been reorganised around whatever was in the Crystal at that moment. **Whatever is in the Crystal at the moment of reorganisation is built into what comes out.** Somebody who forced Splintering while afraid is a permanently different practitioner from somebody who met it having decided something.
+**The dishonest use.** A practitioner who has *not* met their Catalyst can be pushed above their sustainable grade anyway. The Crystal will hold the numbers for a while. Then it begins fracturing, and the fracture rate compounds, and it ends one of two ways: the stat collapses, or the Threshold is forced through crisis and the practitioner arrives at the next Stage having been reorganized around whatever was in the Crystal at that moment. **Whatever is in the Crystal at the moment of reorganization is built into what comes out.** Somebody who forced Splintering while afraid is a permanently different practitioner from somebody who met it having decided something.
 
-**What this means for the world.** The gray trade in advancement compounds is enormous, entirely predictable, and structurally unfixable, because the thing it sells is real. It works. It just does not do the half people are buying it for, and by the time that is apparent the buyer has already been reorganised.
+**What this means for the world.** The gray trade in advancement compounds is enormous, entirely predictable, and structurally unfixable, because the thing it sells is real. It works. It just does not do the half people are buying it for, and by the time that is apparent the buyer has already been reorganized.
 
 ---
 
-## V-a · Why the moment of reorganisation decides everything
+## V-a · Why the moment of reorganization decides everything
 
 *The mechanism under the sentence above, stated in the vocabulary of the forge rather than the vocabulary of doctrine.*
 
@@ -116,11 +124,11 @@ The consequences follow without further argument.
 
 ## VI · Tempering, and what a Draft actually touches
 
-*Tempering is the stat of becoming. A high-Tempering practitioner does not necessarily hold more power — they hold a cleaner, deeper, structurally sounder container for whatever they accumulate.*
+*Tempering is the stat of becoming. A high-Tempering practitioner may hold no more power than the next person, and holds it in a cleaner, deeper, structurally sounder container.*
 
 The Sub-Stats a Draft plausibly reaches: **Clarity** (refinement of Essence already held) and **Yield** (volume produced per Stage, ambient Aether absorbed rather than passed through, and the gap between generation and availability).
 
 The Sub-Stats no Draft has ever reached: **Coherence**, the alignment between a practitioner's chosen Path and their lived behavior, which is the structural prerequisite for Threshold eligibility, and **Maturity**, the degree to which prior trauma has been genuinely integrated, which is the primary Sub-Stat the Crystal consults when evaluating readiness.
-> **Coherence is the Crystal's internal honesty meter, and it cannot be drunk.** That is the entire mechanical reason the second key exists, stated in the vocabulary of the stat framework rather than in the vocabulary of doctrine.
+> **Coherence is the Crystal's internal honest scale, and it cannot be drunk.** That is the entire mechanical reason the second key exists, stated in the vocabulary of the stat framework rather than in the vocabulary of doctrine.
 
 ---

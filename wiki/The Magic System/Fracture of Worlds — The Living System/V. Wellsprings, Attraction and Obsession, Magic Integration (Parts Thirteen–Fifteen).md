@@ -7,10 +7,20 @@ tags:
 
 # V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)
 
+The Cooper's Row Reds of Altherion (a fighting school with a song, a color and a grudge, like all of them) had been refused the Ember Stair three years running. The Ember Stair is a Pyreveil site high on the inner wall of the Ring, a Core in common speech, where Aether of that one type pools so thick that the rock sweats orange and snowmelt leaves it as steam. Its Dawi keepers close it to anyone in arrears, and the Reds were in arrears. In the spring of a bracket year their captain, Jennet Marl, walked up anyway, singing, with four hundred supporters in red scarves on the road behind her and a keeper on every landing reading her the sum. On the top step she planted her feet, opened her Soul Crystal to the ground and pulled.
+
+*FWOOOOOM.*
+
+Every scarf on the road lifted. Her aura, a respectable brick red for sixteen years, went to the gold-white of a crucible pour, and for the length of one long breath she stood with her hair gone and her face shining and the whole cliff behind her the color of a peach. She came down with Pyreveil harmonized in her Crystal for good and the keepers' invoice in her belt. A Measurewright who had climbed the hill for exactly this set his fork to her at the bottom and read every number the same, to the point, then told the crowd nothing had happened. She put a fist into a boulder beside him and it ran like tallow. The Reds still lost the bracket. She never felt cold again, and she could no longer hold a hand near a fire and know when to take it out, which cost her two fingers by the following winter and made her a great many songs, most of them wrong about the fingers.
+
 ## Part Thirteen — The Sixty Wellsprings and Stat Interaction
 
 *"To pass through a Wellspring is to be unmade just enough to keep going."*
 > **Updated to the sixty-four Sub-Stat architecture.** Every Sub-Stat cited below is a current entry. Where an older reading named a retired Sub-Stat, the effect now sits on the entry that absorbed it, and the effect itself is unchanged. The merge ledger is on *IV. The Eight Primaries and the Sixty-Four Sub-Stats*.
+
+### What a Wellspring Is
+
+Aether is the raw power in the world around us, and it comes in different types that affect the Soul Crystal differently. Those types are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations. There are sixty, fixed. Every few years some Measurewright announces a sixty-first, and he has generally retracted it by the next fair. A practitioner pulls Aether from the environment, refines it in the Soul Crystal into Essence and drives it out through the Shell, so where you stand matters: rich ground fills you faster and thin ground starves you, and the scholar's term for that richness is Aetheric Density. A Wellspring also has sites where its Aether pools, which common speech calls Cores (nothing to do with the Essence Core named below, a layer of the Crystal, as the Guild has been told). A worked site recharges and has keepers, and its keepers can close it, as Captain Marl could tell you.
 
 ### What Wellsprings Do to Stats
 
@@ -220,7 +230,7 @@ Attraction Force is the third fundamental force in the framework, equal in struc
 
 **Tempering.** Improves Coherence, since alignment between stated Path and lived behavior is easier to maintain when the soul is honestly witnessed, and Maturity, since bloodline traits and inherited Geasa activate more cleanly when the ancestral recognition chain is intact.
 
-**Combat applications.** Maintaining coherent technique across long distances from bonded allies. Inheriting and transmitting combat forms through covenant rather than instruction. Recognizing an opponent's true Essence beneath disguise or glamour. Stabilizing allies whose Essence is fraying by lending them legibility. Composing Domains centerd on covenant and sanctuary. Carrying bonds past death in forms that remain clean and reciprocal. Its strength is durable mutuality. Its weakness is the weight of being honestly seen.
+**Combat applications.** Maintaining coherent technique across long distances from bonded allies. Inheriting and transmitting combat forms through covenant rather than instruction. Recognizing an opponent's true Essence beneath disguise or glamour. Stabilizing allies whose Essence is fraying by lending them legibility. Composing Domains centered on covenant and sanctuary. Carrying bonds past death in forms that remain clean and reciprocal. Its strength is durable mutuality. Its weakness is the weight of being honestly seen.
 
 **Costs.** Essence becomes more legible to those who can read it, including those who would harm it. The Crystal carries the imprint of every covenant honored, and grief is the lawful tax on every covenant ended. Memory becomes weighted. Identity becomes accountable, defined in part by who has been allowed to witness it.
 
@@ -236,7 +246,7 @@ The parasitic inversion. Where Attraction recognizes, Obsession imprisons. Where
 
 **Tempering degradation.** Degrades Coherence catastrophically; stated Path and lived behavior diverge around the axis of fixation. Maturity stalls because the soul is no longer integrating new experience. It is recycling one experience endlessly.
 
-**Combat applications.** Locking onto one target with impossible persistence. Tethering souls or techniques to a chosen fixation. Ignoring pain through compulsive singularity. Forcing resonance overlap between self and enemy. Domains centerd on possession and recursion. Bonds preserved past death in broken, predatory form. Its strength is terrifying focus. Its weakness is total collapse of perspective outside the fixation.
+**Combat applications.** Locking onto one target with impossible persistence. Tethering souls or techniques to a chosen fixation. Ignoring pain through compulsive singularity. Forcing resonance overlap between self and enemy. Domains centered on possession and recursion. Bonds preserved past death in broken, predatory form. Its strength is terrifying focus. Its weakness is total collapse of perspective outside the fixation.
 
 **Risks.** Essence coherence erodes. The Crystal narrows around one governing hunger. Other bonds weaken. Identity becomes recursive. At worst the user becomes an echo-organism of wanting, a living Essence Shard that never fully separated, still orbiting a source that is already gone. Where a World Spirit expands until others can live inside it, a soul claimed by Obsession Force contracts until nothing else can.
 
@@ -252,13 +262,13 @@ Terrain-anchored Wellspring communion. A Sage does not cast spells in the conven
 
 **Primary:** Harmonics (Attunement, Synergy, Breadth) for synchronization; Gnosis (Perception, Analysis) for terrain reading; Dominion (Radius, Sense) for spatial extension.
 
-**Secondary:** Ardency Depth governs draw depth. Tempering Capacity governs simultaneous harmonizations. Resilience Integrity governs how much ambient pressure can be absorbed without destabilization.
+**Secondary:** Ardency Depth governs pull depth. Tempering Capacity governs simultaneous harmonizations. Resilience Integrity governs how much ambient pressure can be absorbed without destabilization.
 
 **Corruption vectors.** Verdantia Sages risk *Endless Spring*, inability to let anything end. Anima Spirare Sages risk *Radiant Fever*, life-force overdriven until the soul burns hollow. Tenebra Sages risk *Shadow Saturation*, inability to exist comfortably outside shadow. Manganthra Sages risk *Eruption Dependence*, inability to function without extreme environmental pressure. All manifest as degradation of Harmonics Stability, Tempering Coherence and Resilience Anchoring.
 
 ### Spirit Summoning Arts
 
-Five-step pipeline: Intent, Pattern, Essence Donation, Aether Formation, Attraction Anchoring.
+Five-step sequence: Intent, Pattern, Essence Donation, Aether Formation, Attraction Anchoring.
 
 **Primary:** Ardency (Flux, Density) governs the construct's output, structural weight and duration. Harmonics (Attunement, Breadth) governs inherited Wellspring alignment. Dominion (Radius, Gravity) governs operational independence and range.
 
@@ -278,22 +288,22 @@ Aetheric effects encoded into Parunic inscription structures that persist indepe
 
 Not spells. The labor reality performs through practitioners who have become structurally aligned with specific principles of cosmic maintenance.
 
-**Zentai-sei (Totality)** — Dominion (Sovereignty, Throne), Tempering (Ceiling, Maturity), Resilience (Persistence, Continuity). Wholeness and cosmic maintenance. Doctrine that encompasses rather than excludes.
+**Zentai-sei (Totality)**: Dominion (Sovereignty, Throne), Tempering (Ceiling, Maturity), Resilience (Persistence, Continuity). Wholeness and cosmic maintenance. Doctrine that encompasses rather than excludes.
 
-**Hametsu no Gō (Ruins)** — Ardency (Flux, Overchannel, Cascade), Resilience (Ward, Persistence), Dominion (Pressure, Command). Necessary collapse. Doctrine that dismantles what can no longer sustain itself.
+**Hametsu no Gō (Ruins)**: Ardency (Flux, Overchannel, Cascade), Resilience (Ward, Persistence), Dominion (Pressure, Command). Necessary collapse. Doctrine that dismantles what can no longer sustain itself.
 
-**Unmei no Ori (Fate's Cage)** — Dominion (Fate, Command, Sovereignty), Harmonics (Attunement, Axis), Resilience (Oath, Continuity). Binding and consequence. Doctrine that enforces the debts reality owes itself.
+**Unmei no Ori (Fate's Cage)**: Dominion (Fate, Command, Sovereignty), Harmonics (Attunement, Axis), Resilience (Oath, Continuity). Binding and consequence. Doctrine that enforces the debts reality owes itself.
 
-**Shinsei Naru Hikari (Sacred Light)** — Harmonics (Attunement, Projection, Synergy), Gnosis (Perception, Analysis), Tempering (Clarity, Maturity). Illumination and purification. Doctrine that reveals truth as a structural force.
+**Shinsei Naru Hikari (Sacred Light)**: Harmonics (Attunement, Projection, Synergy), Gnosis (Perception, Analysis), Tempering (Clarity, Maturity). Illumination and purification. Doctrine that reveals truth as a structural force.
 
-**Eien no Yami (Eternal Dark)** — Resilience (Persistence, Ward), Harmonics (Stability, Suppression), Dominion (Sovereignty, Sense). Negation and sovereign silence. Doctrine that erases rather than creates.
+**Eien no Yami (Eternal Dark)**: Resilience (Persistence, Ward), Harmonics (Stability, Suppression), Dominion (Sovereignty, Sense). Negation and sovereign silence. Doctrine that erases rather than creates.
 
-**Saisei no Wa (Cycle of Rebirth)** — Vitality (Regeneration, Constitution, Hemostasis), Tempering (Maturity, Yield), Harmonics (Synergy, Stability). Renewal. Doctrine that treats ending as the first motion of beginning.
+**Saisei no Wa (Cycle of Rebirth)**: Vitality (Regeneration, Constitution, Hemostasis), Tempering (Maturity, Yield), Harmonics (Synergy, Stability). Renewal. Doctrine that treats ending as the first motion of beginning.
 
-**Chowa no Koe (Voice of Harmony)** — Harmonics (Breadth, Synergy, Empathy, Attunement), Dominion (Command, Sovereignty, Radius), Gnosis (Fluency, Cognition). Concordance. Doctrine that synchronizes rather than commands.
+**Chowa no Koe (Voice of Harmony)**: Harmonics (Breadth, Synergy, Empathy, Attunement), Dominion (Command, Sovereignty, Radius), Gnosis (Fluency, Cognition). Concordance. Doctrine that synchronizes rather than commands.
 
 ### Attraction and Obsession in Technique
 
-Every technique is sustained at the deepest level by one or the other. **Clean techniques are sustained by recognition:** the Crystal recognizes the Wellspring's law, the Continuum recognizes the intent, and the working persists because all parties agree it should. **Corrupted techniques are sustained by refusal:** the Crystal clutches the current rather than harmonizing with it, the Continuum registers the working as unauthorized, and Obsession Force sustains it through sheer fixation. Such workings are structurally unstable, emotionally recursive, and produce escalating soul-cost with each use.
+Every technique is sustained at the deepest level by one or the other. **Clean techniques are sustained by recognition:** the Crystal recognizes the Wellspring's law, the Continuum recognizes the intent, and the working persists because all parties agree it should. **Corrupted techniques are sustained by refusal:** the Crystal clutches the Aether rather than harmonizing with it, the Continuum registers the working as unauthorized, and Obsession Force sustains it through sheer fixation. Such workings are structurally unstable, emotionally recursive, and produce escalating soul-cost with each use.
 
 The system tracks the distinction through **Harmonics Attunement** against **Tempering Coherence**. High in both means the character is operating through Attraction Force. Attunement degrading while raw output stays high means Obsession Force, and the system will extract the cost.

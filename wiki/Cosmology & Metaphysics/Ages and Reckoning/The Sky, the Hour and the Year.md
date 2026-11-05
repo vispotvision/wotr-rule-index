@@ -9,9 +9,17 @@ tags:
 
 > *The Accord asks what hour it is. The Sohai asks whose hour it is. Only one of those questions has ever had an answer everybody accepted.*
 
+In the dark before the first morning of Year 671, two men climbed Stonecrop Fell above the east road to watch for the first rising of the Sower, the star that starts the year. Hoshino Tadaie had been sent by a Moto household, in a coat of persimmon wool over an aura of the same color, the constant skin of light any trained fighter wears. Perkin Dunmow had been sent by the Accord chancery, with a lapis-blue aura and a very good lunch. Each of them was paid to be the one who saw it first, each of them had a bookie's man waiting at the foot of the fell, and somewhere around the fifth notch of the night Dunmow remarked that the Moto had been eleven days wrong for as long as anyone could remember, and Hoshino hit him.
+
+*Don.*
+
+It was a good clean palm under the collarbone and the bone went with a sound like a stepped-on pear. Dunmow came up swinging a brass sighting-staff, *klaaang*, and for most of an hour the top of Stonecrop Fell burned orange and blue in great rolling sheets as two grown officials with a lot of training tried to kill one another over a calendar. Shepherds three valleys over came out to look. When the fighters finally stopped to breathe, the east was already gray-pink, and neither of them had the faintest idea whether the Sower had come and gone, because two coats that bright will wash a low faint star clean out of any sky. Year 671 still has no attested first morning. Both bookies paid out on the grounds that both sides had lost, the matter went before the Accord's Bench and never came out again, and the moral of Stonecrop Fell, according to the shepherds, is that the year starts when the fighting stops.
+
+Everything that fight was about is laid out below.
+
 ## I. The Sky
 
-One sun. One moon. Five wanderers. A fixed field with one star that does not move.
+The sky holds one sun, one moon, five wanderers, and a fixed field with one star that does not move.
 
 ### Shiro, the moon
 
@@ -20,6 +28,8 @@ Moto **Shiro**, the White. Concord **the Lamp**. Dawi call it the Bright and do 
 Its full cycle from dark to dark runs **twenty-eight days**, and this is the single most convenient fact in the sky, because it means the month and the moon agree exactly and always have. Nowhere in the four quarters has anyone ever needed to argue about when a month begins. A month begins at the dark.
 
 This is the opposite of the situation on a world where the lunation and the month refuse to reconcile, and it is why the calendar disputes in WOTR are about the **year** and the **hour**, never about the month.
+
+Now and then Shiro crosses the sun at noon. The famous crossing is the Black Noon of Year 690, over the Ironlink brackets, which an almanac missed by an hour and which gave the Dark Ages their name, and every clerk with an era-name to change changed it before the light came back. See [[Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages|The Concordance of Ages]].
 
 ### The five wanderers
 
@@ -43,7 +53,7 @@ Who that somebody is has been a political question for six centuries.
 
 ### Fourteen, and why
 
-The day divides by fourteen everywhere in the four quarters, and the reason is doctrinal rather than practical. In the Okuchi each of the Fourteen was given its own station, its own hour and its own resident house, and the full observance occupied a working day. The division outlived the Okuchi, outlived the houses, and outlived most people's ability to name what it was counting.
+The day divides by fourteen everywhere in the four quarters, and the reason is doctrinal rather than practical. In the Okuchi, the deep old country of the Moto reading, each of the Fourteen was given its own station, its own hour and its own resident house, and the full observance occupied a working day. The division outlived the stations, outlived the houses, and outlived most people's ability to name what it was counting.
 
 A Kharven household performs the Bow in a cold room in under two minutes against **fourteen scratches cut into a doorpost**, and everyone who cuts them believes they are counting something.
 
@@ -51,13 +61,13 @@ A Kharven household performs the Bow in a cold room in under two minutes against
 
 The traditional division is **seven stations of daylight and seven of dark**, counted from sunrise and from sunset. Moto **kizami**, a notch.
 
-Because daylight and dark are not the same length except twice a year, **the stations are not the same length either.** A summer daylight notch in the north is nearly twice a winter one. This is not a defect and nobody has ever experienced it as one, because a station is a portion of the working light rather than a quantity of time. The first notch is when you can see to work. The seventh ends when you cannot.
+Because daylight and dark are not the same length except twice a year, **the stations are not the same length either.** A summer daylight notch in the north is nearly twice a winter one. Nobody has ever experienced this as a defect, because a station is a portion of the working light rather than a quantity of time. The first notch is when you can see to work. The seventh ends when you cannot.
 
 **The hinge** is the boundary between the seventh and the eighth: local noon by day-count, and the moment the Bow is performed. Moto ***kaname***, the pivot. There is a second hinge at midnight that nobody outside the Sohai observes.
 
 ### The Guild hour, which is equal
 
-A signal net cannot run on notches that change length with the season, so the Guild pushes a single hour down the wire from Stannvaard and every gauge-house sets to it: **fourteen equal hours, of sixty counts each, identical in every quarter and every month of the year.**
+A relay net cannot run on notches that change length with the season, so the Guild keeps a single hour on the great water clock at Stannvaard, sends it outward by relay rider and sealed sand-glass and a line of beacons lit at the hinge, and every guild hall sets its own water clock to it: **fourteen equal hours, of sixty counts each, identical in every quarter and every month of the year.**
 
 This is the same collision that happened on Earth when the mechanical clock displaced the temporal hour, and it lands the same way. The equal hour is correct, portable, and useless for telling a man when to start work. The unequal station is imprecise, unportable, and describes the actual day.
 
@@ -65,13 +75,13 @@ This is the same collision that happened on Earth when the mechanical clock disp
 
 |  | Station | Guild hour |
 |---|---|---|
-| Anchored to | sunrise and sunset | the wire from Stannvaard |
+| Anchored to | sunrise and sunset | the great water clock at Stannvaard |
 | Length | varies with season and latitude | fixed |
-| Kept by | the sun, a shadow-line, a bell | a gauge-house dial |
-| Used for | labor, rite, the Bow, the working day | schedules, contracts, the wire, the lines |
-| Who insists on it | Sohai households, Eresse, Kharven, most farmers | the Guild, the Accord, the chancery, the papers |
+| Kept by | the sun, a shadow-line, a bell | a guild hall's water clock |
+| Used for | labor, rite, the Bow, the working day | schedules, contracts, the relays, the caravans |
+| Who insists on it | Sohai households, Eresse, Kharven, most farmers | the Guild, the Accord, the chancery, the bills posted on doors |
 
-**Ordinary people run both and do not find this strange.** A man works to the notch and catches the coach on the hour, and if the two disagree he is late for one of them and not the other, and which one he chooses to be late for is a statement about who he is.
+**Ordinary people run both and do not find this strange.** A man works to the notch and catches the carrier's wagon on the hour, and if the two disagree he is late for one of them and not the other, and which one he chooses to be late for is a statement about who he is.
 
 ## III. The Turn and the Month
 
@@ -109,10 +119,12 @@ The true year is a little over that, by rather more than half a day, and the cor
 **Eight times in every thirteen years**, a single day is inserted at the year's end that belongs to no Archon. Moto ***Munahi***, the empty day. Concord **the Nameless**. Dawi call it the unentered day and do not like it.
 
 Because it has no Archon it has no Labor, and because it has no Labor it has no character, and the consequences run right through every institution already built.
+
 - **No Work falls due.** The Sohai holds that the Bow is not performed on Munahi, because there is no station to perform it at. The house's own position is that this is the one day a year the religion is silent, and it is defended vigorously against the obvious objection.
 - **Nothing can be entered.** The Tally takes no entry dated to a day that is not in the count. Dawi clerks stop work entirely, and a hold on Munahi is a hold where nothing legally happened.
 - **No window opens.** Every Eressean rite is timely or untimely by its appointed window, and no window is appointed on a day outside the calendar, so an Eressean can perform nothing correctly and cannot be found to have performed anything incorrectly either.
 - **No instrument binds.** The chancery formulary has no date-form for Munahi. An Accord contract dated to it is void, and this has been tested, twice, and upheld both times.
+
 **So one day in roughly two, the law is asleep.** Debts do not fall due. Oaths sworn are not oaths. Nobody can be summoned, entered, sealed or held to anything. Every quarter has developed its own tradition around this and none of them are pious ones. In Stannvaard it is a holiday with an unusually high number of injuries. In the holds it is spent indoors and sober, because a Dawi cannot swear on it and a Dawi who cannot swear does not much see the point of the day. In Kharven it is the day scores are settled, and the death-house takes what it takes, and the Waiting begins on the first named morning after.
 
 Whoever wants a scene in which a character does the thing they could never otherwise do has been handed the date.
@@ -124,9 +136,11 @@ Running alongside all of the above, and never resetting: **the sixty Wellsprings
 Sixty does not divide three hundred and sixty-four. The count therefore **drifts against the calendar**, four days a year, and comes back into phase with itself only over a long cycle. A given calendar date falls on a different Wellspring-day each year, and the coincidences are read.
 
 What it is actually used for is identity and record.
+
 - **Birth.** A person is a *Fixatio child* or a *Tarturon child*, and this is stated before their age is. It is the first thing an examiner asks and the last thing a matchmaker checks.
 - **Oaths.** A Cask-Oath's term is counted in the sixty rather than in months, because the sixty never has a nameless day in it.
 - **Diagnosis.** An assay is dated by the sixty. Practitioners hold, without any Accord theory supporting them, that a Crystal reads differently on its own day, and every examiner has heard this and none will put it in writing.
+
 **The coincidences.** When a Wellspring-day falls on the Archon-day of matching character, the day is marked. Tarturon on Uurgath's is the ugliest of these and comes round rarely, and the Sohai has a name for it that the house does not use in front of guests.
 
 ## VI. Counting the Years
@@ -137,13 +151,13 @@ Four systems, all current, all in use, none reconcilable without a table.
 
 **The Moto nengo.** An era name declared on accession, and declared again on an omen, a disaster, a great work, or a reading. Years are counted within the era. This means **the Moto date carries an interpretation of the period it names**, and a change of nengo mid-reign is a public statement that something has ended. Concord clerks find this maddening and Moto clerks find the Accord count spiritually illiterate, and both are correct.
 
-**The hold Tally.** Not a year-count at all. The holds date by entry number, continuously, since the Tally began. A Dawi asked what year it is will tell you the last entry made, which is not an evasion.
+**The hold Tally.** The holds keep no year-count, and date by entry number, continuously, since the Tally began. A Dawi asked what year it is will tell you the last entry made, which is not an evasion.
 
 **The Eressean calendar.** A cycle of appointed windows rather than a count of years, kept by the rite calendars and recopied without variation. The Eressean position is that a year is a shape, not a number, and asking which one it is reveals that you do not understand what a year is for.
 
 ## VII. The Drift
 
-The Accord's calendar is arithmetic. **The Sower's rising is an observation.** They were fixed against each other at the Concordance, and they have been coming apart ever since, because eight days in thirteen years is close to the truth and is not the truth.
+The Accord's calendar is arithmetic. **The Sower's rising is an observation.** They were fixed against each other at the Concordance, and they have been coming apart ever since, because eight days in thirteen years is close to the truth and falls short of it.
 
 The rising has slipped **eleven days** against the Accord date since the seal. The Accord's position is that eleven days is within tolerance and the calendar is the calendar. The Moto position is that the Accord's year no longer begins when the year begins, and that a people who will not correct their count against the sky have said something about themselves.
 
@@ -154,11 +168,11 @@ The Sohai, being a religion of the Reading, holds that this is not a scheduling 
 | People | Day | Year | Notes |
 |---|---|---|---|
 | **Moto and Sohai households** | stations, the hinge, the Bow | nengo, corrected to the Sower | The only tradition that still checks the sky |
-| **The Accord and the Guild** | equal hours from the wire | continuous Accord count | Will not correct the drift |
-| **The holds** | hold hour for entries, Guild hour for the wire, in parallel columns | the Tally | Two-column ledgers; a term can fall either side |
+| **The Accord and the Guild** | equal hours from the Stannvaard clock | continuous Accord count | Will not correct the drift |
+| **The holds** | hold hour for entries, Guild hour for the relays, in parallel columns | the Tally | Two-column ledgers; a term can fall either side |
 | **Eresse** | windows, appointed by calendar | the rite cycle | Has never formally accepted Guild hour and keeps both |
 | **The Mandate** | Guild hour, adopted instantly and completely | Accord count | A decree read at the same moment everywhere is a better decree |
-| **Kharven** | a fire's length, a broth, the Thin Weeks | the return of the grass | No wire has ever reached the seat |
+| **Kharven** | a fire's length, a broth, the Thin Weeks | the return of the grass | No Guild clock has ever reached the seat |
 
 ## IX. Hooks
 
@@ -174,7 +188,7 @@ The Sohai, being a religion of the Reading, holds that this is not a scheduling 
 
 ## Author Notes
 
-**Unequal hours.** Real and standard across the ancient and medieval world: daylight and night each divided into a fixed count of parts, so that hour length varied with season and latitude, counted from sunrise and from sunset, with midday falling at the boundary of the count. These were called temporal, seasonal or unequal hours, and they were displaced in everyday use by equal hours as mechanical clocks spread. The WOTR substitution is the count, fourteen for twelve, and the displacing technology, the Guild wire for the clock. The telegraph's real role in distributing a standard national time, which the railways required, is the direct model for the Guild hour.
+**Unequal hours.** Real and standard across the ancient and medieval world: daylight and night each divided into a fixed count of parts, so that hour length varied with season and latitude, counted from sunrise and from sunset, with midday falling at the boundary of the count. These were called temporal, seasonal or unequal hours, and they were displaced in everyday use by equal hours as mechanical clocks spread. The WOTR substitution is the count, fourteen for twelve, and the displacing technology, the Guild's water clocks and relays for the mechanical clock. The way town clocks and monastic bells carried one standard hour across a region is the direct model for the Guild hour.
 
 **Lunisolar reconciliation.** Real lunisolar calendars insert an intercalary month to keep lunar months in step with the solar year, most famously on the nineteen-year Metonic cycle of seven long years in nineteen. WOTR deliberately **removes** that problem by making the lunation and the month agree exactly, and moves the difficulty to the year instead, where a single intercalary day is inserted on a rational cycle. The reason is craft rather than realism: a nameless day is a far better story object than a nameless month.
 

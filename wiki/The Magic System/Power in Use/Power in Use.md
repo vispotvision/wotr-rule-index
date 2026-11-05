@@ -4,7 +4,7 @@ title: Power in Use
 
 ![[Assets/Paintings/power-in-use.webp]]
 
-*How power is put into the body, stacked, spent, carried in tags and beaten.*
+*At Sallow Bridge, Dunstan Pike spent his whole reserve on the first swing, in glorious orange, in front of the betting crowd, and was then beaten by a man eating a pear. These pages are how power is put into the body, stacked, spent, carried in tags and beaten, so that it need not be you.*
 
 - [[The Magic System/Power in Use/Reinforcement|Reinforcement]]: The coat of one's own aura over the body's base, what it costs, and when it fails.
 - [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]: How boosts stack to the cap, how the reserve runs down, and how the body tells on it.

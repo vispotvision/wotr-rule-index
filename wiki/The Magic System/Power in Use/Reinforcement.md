@@ -4,9 +4,19 @@ title: Reinforcement
 
 *How a practitioner's body holds its power, and how they push it further. For the whole system in brief, see How Magic Works.*
 
+> *"Gather it where the blow is. Then pray there was only the one."* Copybook line, set for novices in most lineage halls and ignored by all of them.
+
+The minstrels call it *The Bell and the Fork*, it runs to forty verses, and about nine of them happened. At the Bell Feast in Ninefold Market, Gao Baoshan of the Nine-Ladle Hall, a cook by trade and a Stage VI (sixth on the soul's sixteen-step ladder) by every account, bet his master's broth recipe against a rival hall that he could take the Evening Bell of the Temple of Clear Water on his forehead, dropped from its own tower. The whole of Ninefold Market came, and the roofs sold out. He gathered everything. Every scrap of the ochre aura on his body ran up his neck and heaped on his brow, until he wore a lump of amber light the size of a goose egg and the rest of him stood bare as a plucked bird, and the riggers knocked out the pin.
+
+**DOOOOOOOONNNNG.**
+
+The bell cracked down the lip. Baoshan stood under it with his eyes crossed and his sandals driven a thumb's depth into the flagstones, the lanterns on the temple steps all swung one way, and the crowd lost its collective mind. Then Sister Ran of the Copper Steamer, who had money on the other side, stepped up behind him and put a coated toasting fork into his left buttock up to the handle, *tsk*, on the sound legal ground that the wager had specified a bell. He bled through three aprons. The Nine-Ladle Hall lost the recipe, its broth has been worse ever since, and Baoshan ate his dinners standing for a season.
+
+Every fighting school I have visited tells this story on the first day, and they are right to. What he did to the bell is a focused coat. What she did to him is the price of one. A colleague of mine in the Measurewrights (the Guild's sworn measurers) holds that the bell was already cracked, and he has written thirty pages on the subject, and he has never stood under anything.
+
 ## What it is
 
-A practitioner's stats (the measured strengths of body and soul, read off the Soul Crystal, the organ that stores and sends out their power) live in the body all the time as a **passive base**: always on, costing nothing. **Reinforcement** is the active layer on top, Essence (a practitioner's own power, drawn from the world's Aether) driven through flesh, bone and whatever they hold, to push the body further for a price in reserve (the Essence they carry).
+A practitioner's stats (the measured strengths of body and soul, read off the Soul Crystal, the organ that stores and sends out their power) live in the body all the time as a **passive base**: always on, costing nothing. **Reinforcement** is the active layer on top, Essence (a practitioner's own power, pulled from the Aether around them and refined in the Crystal) driven through flesh, bone and whatever they hold, to push the body further for a price in reserve (the Essence they carry).
 
 | Layer | What it does | What it costs | When it is lost |
 |---|---|---|---|
@@ -22,9 +32,11 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 
 **Focus leaves gaps.** Gathered into one place, the coat blazes there and goes pale everywhere else. A fist burns; the far flank fades to bare skin. Reading where it went is half the fight, and a good fighter moves the focus faster than an enemy can read it.
 
+**Everyone has a word for it, and an argument.** The coat is the most famous art in the world, and each people names it to suit their opinion of it. A Moto calls it *matoi*, the wearing, and holds that a person of breeding does not show it in company, which is why Moto courts are so full of calm people who may or may not be about to kill you. The Mahuo call it *gabot*, armor, drill it like armor in ranks at dawn, and say a coat you cannot see is a coat you have not paid for. The lineage halls call it *hùtǐ*, guarding the body, and have been fighting for six hundred years over which hall thought of it first. A Dawi is *on shift* when it is up, and enters the minutes. A Kharven soldier calls it the hide and compares prices. In the bracket crowds of the Accord towns it is your shine, as in *he's lost his shine, get your money down*. All of them mean the table above, and any of them will explain at length why the others do it wrong.
+
 **Held gear, never other people.** The coat runs into what the hand is holding: a blade, a shield, a staff, the hilt of a hammer. Let go and it leaves the steel within a breath. It cannot be laid over another person, however close or however loved.
 
-**Masters can hide it.** Most practitioners must choose: hold their Pressure (the weight their presence puts on a room) in, which is tiring work, or coat up and show their color. A master can reinforce with no color showing at all, and that calm is a warning in itself. Few manage it below Master standing.
+**Masters can hide it.** Most practitioners must choose: hold their Pressure (the weight their presence puts on a room) in, which is tiring work, or coat up and show their color. A master can reinforce with no color showing at all, and that calm is a warning in itself. Few manage it below Master standing, and the bookies shorten their odds the moment one walks in unlit.
 
 ## What it costs
 
@@ -40,7 +52,7 @@ A practitioner's stats (the measured strengths of body and soul, read off the So
 - **Outlast it.** Every second costs reserve. Make them chase, make them hold the coat through a long approach, and fight them when the coat fails and the base sags.
 - **Disarm.** Knock the weapon loose and the coat leaves it. A coated blade is a different object from the same blade on the floor.
 - **Go after the ward.** Reinforcement protects the reinforced body only. The child, the client or the wounded friend beside them stands in plain skin.
-- **Cut the ground.** In thin Aether, or a district whose main (the city's Aether supply line) has been shut, everything costs more and the coat runs down sooner.
+- **Cut the ground.** On thin, salted or bled ground (Aether-poor by nature, worked against pooling, or pulled empty), or beside a Core (a Wellspring site, in common speech) whose keepers have closed it, nothing fills the reserve back up, everything costs more and the coat runs down sooner.
 
 ## Example
 

@@ -7,9 +7,15 @@ tags:
 
 # The Lexicon of Magic — Master Terminology
 
+People have died of this page. In the spring of a bad year at Altherion, a surgeon's bill for a dead wool merchant named a Rupture, and two Measurewrights (the Guild's sworn measurers) fell out over which one: Dame Ysolde Crane held that the bill meant a Rupture of the Shell, Magister Lowell Tench that it meant a Rupture Event, and the widow, who only wanted to know whether she owed the surgeon nine gold or nothing, made the error of asking them in the Guild's reading room. It began with citations. It went on to brass assay forks, *ting, ting-TANG*, then to lecterns, with Crane's aura up in arterial red and Tench's in ochre and the whole gallery paying two copper a head to lean over the rail, and it ended when a hurled lectern met the oak table and brought the Statutes shelf down on both of them.
+
+***WHUMP.***
+
+They are still called the Duel of the Two Ruptures, and the dent is still in the table. Both of them lived, each with one collarbone fewer than they had started with, and the treaty they signed from adjoining beds is the entry you will find below under **Clouding · Rupture**. I would ask you to read the rest of this page with that in mind. Nobody here is being fussy.
+
 > **The central terminology hub for the Continuum.** Every magical term in WOTR is listed here or on a page linked from here.
 >
-> Sections I–V — the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output — live on [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]] and are not repeated here. **This page continues from Section VI.**
+> Sections I–V, the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output, live on [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]] and are not repeated here. **This page continues from Section VI.**
 >
 > **Section XV is the one to read before writing prose.** It sorts every term above into what may appear on the page and what is workbook only.
 
@@ -43,11 +49,11 @@ tags:
 
 ## VII · Glyphica and the Parunic syntax
 
-**Parun** · The language of law. Older than any surviving kingdom and not fully catalogd by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.
+**Parun** · The language of law. Older than any surviving kingdom and not fully cataloged by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.
 
 **What a glyph does** · A glyph creates nothing and carries no power. The Wellspring's law was already running and continues after the working ends. **A glyph is a boundary condition imposed on that law**, and the working is what the law does once the boundary has moved. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench considered.
 
-**Glyph** · A single unit of Parunic syntax. Explicit (carved, drawn, spoken) or implicit (internalised as a chain the practitioner no longer consciously assembles).
+**Glyph** · A single unit of Parunic syntax. Explicit (carved, drawn, spoken) or implicit (internalized as a chain the practitioner no longer consciously assembles).
 
 **Wordform Chain** · A sequence of glyphs assembled into a complete sentence the Continuum can read.
 
@@ -58,7 +64,7 @@ tags:
 | **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. | Mechanica by definition. The Continuum treats it as debt. |
 | **Boundary** | Where and how long the effect is permitted to operate. | A Boundary failure: a transformation that spreads until it runs out of things to consume, while the operator is still there to see it. |
 | **Direction** | Vector and focus. The editorial layer of the sentence. | Draft Corruption. |
-| **Sealing** | That the sentence is finished and closed against contamination. Draws on Fixatio chains. | An open wound in the local Aether field, which the Continuum will try to close on its own terms. |
+| **Sealing** | That the sentence is finished and closed against contamination. Relies on Fixatio chains. | An open wound in the local Aether field, which the Continuum will try to close on its own terms. |
 
 **Fixatio chain** · The glyph sequence that fixes and closes a working. The workhorse of every seal, ward and permanent inscription in the Continuum.
 
@@ -66,14 +72,14 @@ tags:
 
 **Draft Corruption** · Law-fragments left when the Continuum partially executes a sentence with a structural error before the error propagates. It is the Direction role's own failure mode, and an error in any role can produce it: Wellspring processes started and never completed, which keep trying to finish themselves in whatever they contact. Unlike a Boundary failure, which spreads, or a Sealing failure, which never ends, the working itself stops; the fragment it left does not.
 
-**Internalised chain** · Glyphica compressed below the threshold of conscious assembly at high Temperance. A practitioner with sloppy internalised chains does not fail to cast. They cast something slightly different from what they intended, every time, and the error accumulates.
+**Internalized chain** · Glyphica compressed below the threshold of conscious assembly at high Temperance. A practitioner with sloppy internalized chains still casts, and what comes out is something slightly different from what they intended, every time, and the error accumulates.
 
 ---
 
 ## VIII · Alchemia, Drafts and the Work
 
 > **Aether + Essence + Vessel + Glyphica = Reaction**
-**Essence Draft** · A working stabilised into a substance. The product of Alchemia.
+**Essence Draft** · A working stabilized into a substance. The product of Alchemia.
 
 **Vessel** · The container in which a Draft is bound. Its material sets what the Draft can survive and how long it keeps.
 
@@ -87,7 +93,7 @@ tags:
 
 ## IX · Domains, fields and realms
 
-**Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognising the claim, which is why a Domain fails all at once rather than fraying.
+**Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognizing the claim, which is why a Domain fails all at once rather than fraying.
 
 **Aspect Sovereignty** · A Domain built on a single governing principle held by one soul.
 
@@ -95,7 +101,7 @@ tags:
 
 **Major Shared Realm** · A Domain that has outlived the practitioners who founded it and become a place.
 
-**Silence Realm** · A region in which lawful transformation cannot be authorised at all. Animatria constructs fail completely inside one, since their continuity depends on a connection back to source that Harmonic Silence severs.
+**Silence Realm** · A region in which lawful transformation cannot be authorized at all. Animatria constructs fail completely inside one, since their continuity depends on a connection back to source that Harmonic Silence severs.
 
 **Harmonic Silence** · The severing condition itself, as distinct from the region it produces.
 
@@ -103,13 +109,17 @@ tags:
 
 **Realm Rot** · The trade's name for a region's ruin under Mechanica: unsealed boundaries summed across the ground. Unlike a Hollowing, by Statute XXVI nothing closes it.
 
-**Aetheric Density** · The concentration of Aether in a given volume, which sets the local output ceiling. **This is why ground is fought over and not only people.**
+**Aetheric Density** · The concentration of Aether in a given volume, the scholar's term for what a fighter calls rich ground and thin ground. It sets the local output ceiling, and because a practitioner pulls Aether from the environment around them, rich ground fills them faster and thin ground starves them. **This is why ground is fought over and not only people.**
+
+**Core** (common speech) · A worked site where a Wellspring's Aether pools. A Core recharges, it has keepers, and its keepers can close it. Scholars write *Wellspring site* to keep it apart from the Essence Core, the inner layer of the Soul Crystal, and the rest of the world says Core and trusts you to work out which from what the speaker is pointing at.
+
+**Salted ground · bled ground** · Two ways of making ground thin on purpose. Salted ground has been worked, usually by hired hedge-workers (the paid hands of the petty arts), so that Aether will not pool on it. Bled ground has been pulled empty by a long fight or a greedy crew and fills back slowly.
 
 ---
 
 ## X · Summoning and the Called
 
-**Vocatia** · Invocation by recognition. Never domination. The entity answers because it recognises the caller as lawfully compatible. It exists before and after the call; a presence built from the caster's own Core is Animatria.
+**Vocatia** · Invocation by recognition. Never domination. The entity answers because it recognizes the caller as lawfully compatible. It exists before and after the call; a presence built from the caster's own Core is Animatria.
 
 **Compact** · A standing agreement between practitioner and called entity, with terms both sides can state.
 
@@ -125,7 +135,7 @@ tags:
 
 ## XI · Failure, damage and pathology
 
-> The most-used vocabulary in the project, and the least standardised. Everything here describes a way a working, a Crystal or a region goes wrong.
+> The most-used vocabulary in the project, and the least standardized. Everything here describes a way a working, a Crystal or a region goes wrong.
 **Crystal Fracture Event** · A Soul Crystal splitting under trauma or overload. Produces erratic casting and identity leak.
 
 **Dead Set** · A Threshold melt that cools with no adequate Trait seed to nucleate around. The Stage does not advance, Clarity and Compression fall, and a Trait is commonly lost outright. In the halls, a seat that never took. **Slag** in every other register. Three names, one failure, and Dead Set is the name on the record; said of a district rather than a man, slag means Residue.
@@ -162,9 +172,13 @@ tags:
 
 ## XII · Pressure and the read
 
-*Field vocabulary. What practitioners use on each other before anyone has cast anything.*
+*Field vocabulary. What practitioners use on each other before anyone has cast anything. Aura coat, Pressure and sensing are the three most famous arts in the world: children play at them, every culture has its own name for each, and every culture is sure the others do them badly.*
 
-**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own color, burning brighter as they push.
+**Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own color, burning brighter as they push. The trade says **the weight** everywhere, and each people has its own word besides: the Moto *atsu*, the press, which they use of a lord's dignity as well, so that his weight and his worth are one argument; the Mahuo *nureum*, a pressing down; the lineage halls *wēiyā*, majesty that presses; a Dawi calls it **the load** and a Kharven **the low sky**.
+
+**Sensing** · The trained art of feeling another's Essence, Stage and intent before they move. Moto *kehai*, the sign of someone there. Mahuo *nunchi*, the same word they use for reading a room, and they will tell you that is the point. The halls' *shénshí*, the spirit's knowing. A Dawi **sounds** you, as he sounds a rock face for a bad seam. In the street, **having the nose**. Measurewrights hold it is one art and have been unable to get any two peoples to agree on how to teach it.
+
+**Aura coat** · The visible skin of a practitioner's own color over reinforcement. Moto *matoi*, Mahuo *gabot*, the halls' *hùtǐ*, and the rest; see [[The Magic System/Power in Use/Reinforcement|Reinforcement]].
 
 **Suppression** · The skill of holding Pressure in. Tiring to maintain. **Dropping it deliberately is a threat and is understood as one.**
 
@@ -184,7 +198,7 @@ tags:
 
 **Unnamed** · A practice with no register entry at all. Worse than Forbidden, because there is no procedure, and the absence of one has to be improvised by whoever finds you.
 
-**Standing** · A practitioner's recognised position within the Accord's hierarchy, which is not the same as their Stage and is frequently mistaken for it by people who should know better.
+**Standing** · A practitioner's recognized position within the Accord's hierarchy, which is not the same as their Stage and is frequently mistaken for it by people who should know better.
 
 **Statute** · A numbered article of the Codex of Absolute Magical Law. Cited by number in argument and by name only when someone is being theatrical.
 
@@ -196,10 +210,14 @@ tags:
 |---|---|---|
 | Practitioner | **a worker** · **one of the gifted** · **a burner** (contemptuous) | Everyone · the devout · soldiers |
 | Essence Starvation | **run dry** · **gone to the bottom** | Anyone who has watched it happen |
-| Pressure | **the weight** · **standing in it** | Universal. The one piece of field vocabulary every culture has independently. |
+| Pressure | **the weight** · **standing in it** | Universal. The one piece of field vocabulary every culture has independently, under its own name besides (Section XII). |
+| Reinforcement, the aura coat | **the shine** · **the hide** · **on shift** | Bracket crowds · Kharven soldiers · Dawi |
+| Sensing | **the nose** | Street fighters, thieves and anyone's mother |
+| Aetheric Density | **rich** and **thin** · **fat ground** and **lean ground** | Everyone who has had to fight on it |
+| Pulling Aether | **the pull** · **hauling** | Everyone. Refining it in the Crystal is Guild talk, and nobody else troubles to say it |
 | Aetheric Residue | **the smell of it** · **leavings** | Trackers, investigators, the superstitious |
 | Crystal Fracture Event | **broke** · **came apart** | Said flatly. Nobody elaborates. |
-| Signature Technique | **his own** · **the one that's his** | Soldiers, duellists |
+| Signature Technique | **his own** · **the one that's his** | Soldiers, duelists |
 | Mechanica | **stolen work** · **theft-craft** | Universal, and always an accusation |
 | Silence Realm | **a quiet place** · **dead ground** | Said with the tone reserved for graves |
 | Hollowing | **thinning** · **the land going** | Farmers before scholars |
@@ -211,13 +229,13 @@ tags:
 
 ## XV · What goes on the page
 
-*The section to read before writing anything. It sorts everything above into two channels.*
+*The section to read before writing anything. It sorts everything above into its channels.*
 
-**Mechanism belongs on the page.** How a working works, why it costs what it costs, what law it conditions and what fault falls out of that law. A fully explained technique that costs nothing is worse than an unexplained one, and an unexplained one that costs everything is worse than both.
+**Mechanism belongs on the page.** How a working works, why it costs what it costs, what law it conditions and what fault falls out of that law, spectacle first and the full account right after, so that nobody is ever left guessing. A fully explained technique that costs nothing is worse than an unexplained one, and an unexplained one that costs everything is worse than both.
 
 **Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.
 
-**Effects always appear as behavior and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap is not stated. It is the man who cannot lift his arm.
+**Effects always appear as behavior and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap goes unstated, and shows as the man who cannot lift his arm.
 
 | Channel | What it carries |
 |---|---|
@@ -225,6 +243,6 @@ tags:
 | **A mouth, an instrument, a document, a private count** | Stage, Band, Grade, Class, η, EU, AU/s, Sub-Stat names, Category and alignment tags, Derivation Index, Wellspring assignments |
 | **Workbook only** | The Design Chain as a form, the Codex assignment line, stat ledgers, the author's own arithmetic |
 
-> **The four explaining voices.** The point-of-view character's own read, capped at their competence and frequently wrong. The knowledgeable second. The opponent, using contempt as instruction. The document at a scene's threshold. **No more than two per engagement**, and never the narrator speaking on its own authority.
+> **The explaining voices.** The point-of-view character's own read, capped at their competence and frequently wrong, with a confident wrong answer set right on the page before the scene moves on. The knowledgeable second. The opponent, using contempt as instruction. The wielder, bragging. The document at a scene's threshold. **Any of them may explain in any engagement, and narration explains the rest** in the POV's own words, a trained POV in the terms of the art and an untrained one in plainer, more wondering ones.
 
 ---

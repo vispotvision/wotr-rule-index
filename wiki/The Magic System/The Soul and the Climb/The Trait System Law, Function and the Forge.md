@@ -9,9 +9,21 @@ tags:
 
 > Belief, once survived, becomes law. What survives the melt is what was always real.
 
+On the Stannvaard rim the neighbors paid Ibbet Lowe double for her washing, year on year for half a century, and never asked why. Wine came out. Blood came out. A bride's shame came out of a sheet the morning after, for a fee and no questions. Nobody had ever screened her and nobody had reason to, so when Lord Hask's champion rode down Tub Lane to collect the street's back rent, in a surcoat of snow-white wool with a lance at his knee and the whole lane hanging out of its windows in yellow and rust-red shirts, what Ser Gervase Breck saw was a broad old woman with bleached hands and a wet sheet. He put the lance through her son. The shock of it opened her Crystal, which happens to about one soul in a generation and kills most of them, and she took him by the surcoat with both hands, twisted, and screamed the only thing she had ever promised a customer.
+
+**"IT COMES OUT IN THE WASH!"**
+
+*FSSSHLP.*
+
+The blood came out of Ser Gervase Breck. It came through his skin and through his mail, all of it, in one fine red sheet, and it ran away down Tub Lane to the gutter while the surcoat stayed perfectly white. The man inside had time to look surprised. The street's odds-man, who had been giving eight to one against the rent being late again, paid out on the spot and retired.
+
+She lived twenty-two more years and it charged her in its own coin. Nothing stayed on her. A bruise went in an hour and ink in a day, and in her last winters the faces of the people she loved went the same way, until she was calling her daughter "miss" and thanking her for the custom. The Measurewrights have spent eighty years arguing which Family owns that law, Fluxia's solvents or Materia's surfaces, and the laundresses of the rim, who consider the matter closed, light a candle to her every wash day.
+
+Forty-one years of clean linen and one afternoon on Tub Lane were the same law at two amplitudes, which is the whole subject of this page.
+
 ## I. The Standing Principle
 
-Nothing in a soul improves without strain. There is no route to power in the world that does not run through the near-loss of the thing being improved. A Soul Crystal (the organ in the soul that holds and works magic) that is comfortable does not densify. A Soul Crystal that is comfortable does not reorganise. Growth requires the Crystal be driven to the edge of its structural tolerance and held there, by breath drawn at a Wellspring or in dense Aether until the body shakes, by sparring and real fights, or by the long hunger of seclusion before a Threshold, and at that edge it means exhaustion past the point of usefulness, injury past the point of safety, or genuine proximity to death.
+Nothing in a soul improves without strain. There is no route to power in the world that does not run through the near-loss of the thing being improved. A Soul Crystal (the organ in the soul that holds and works magic) that is comfortable does not densify. A Soul Crystal that is comfortable does not reorganize. Growth requires the Crystal be driven to the edge of its structural tolerance and held there, by breath pulled in at a Core (a site where a Wellspring's Aether pools) or on any ground rich in Aether until the body shakes, by sparring and real fights, or by the long hunger of seclusion before a Threshold, and at that edge it means exhaustion past the point of usefulness, injury past the point of safety, or genuine proximity to death.
 
 This is the whole reason Temperance (the climb of a soul from Stage to Stage) exists as a discipline rather than a curriculum. Instruction can tell a practitioner what to do. It cannot supply the strain. Only consequence supplies the strain, and consequence is not something anyone can be given.
 
@@ -25,6 +37,8 @@ A Trait is a standing law held in the Essence Core (the soul's inner layer, hold
 
 A Trait is survived into existence, never taught. The four harmonics that must fall into coherence for one to form are the Essence Core holding the emotional truth, the Attraction Layer bending recognition toward it, the Aether Shell expressing force born from it, and the Temperance Field keeping the whole arrangement from collapsing under its own weight.
 
+**One idea, three sizes.** A Trait is the idea. A Release is that idea worn on a transformed body, and a Domain is the world obeying it, so that a practitioner's whole ladder can be said in one breath, and a card that cannot say it that way is badly written. Any concept will serve, a door, a stain, a bad mood, a last order, if the person pushes it to a terrifying place. The concept comes first. The Wellspring and glyph that account for it come after, because an archivist has to file it under one of the Sixty, which stay fixed, and the filing is usually where the argument starts. See [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]] for the second and third sizes.
+
 ## III. Where Traits Live
 
 **A Trait belongs to the soul. The Soul Crystal only arms it.**
@@ -33,23 +47,25 @@ The Crystal makes a Trait legible, dangerous and expensive. The material of the 
 
 This has three consequences worth stating plainly.
 
-First, the overwhelming majority of people in the world carry Traits. A woman whose bread rises when the same flour fails in her neighbor's hands, a smith whose welds hold past what the iron should permit, a man who has never in sixty years taken a fever: these are Traits, running at an amplitude too low to register as anything but character. Every quarter has a folk vocabulary for them and every one of those vocabularies is describing something real.
+First, the overwhelming majority of people in the world carry Traits. A woman whose bread rises when the same flour fails in her neighbor's hands, a smith whose welds hold past what the iron should permit, a man who has never in sixty years taken a fever: these are Traits, running at an amplitude too low to register as anything but character. Every quarter has a folk vocabulary for them, a knack in the Common tongue and half a dozen ruder words elsewhere, and every one of those vocabularies is describing something real.
+
+Give the same small law a woken Crystal at the lowest Stages and it becomes a trade. Lamp-wardens keeping a street lit by hand and by the job, ward-cutters, hedge-workers, the cobbler whose heels never wear: petty powers, worked with the hands and paid for in coin, and every one of these people can overcharge you, go on strike or shut the door in your face.
 
 Second, a Trait is not evidence of a Crystal. Testing for one by looking for the other produces false negatives constantly, which is a live institutional problem for any body that screens for practitioners.
 
-Third, awakening does not grant a person new Traits. It reveals and arms the ones already in the material. A practitioner's Primary Trait was there before the Crystal opened, doing quiet work nobody attributed to anything.
+Third, awakening grants a person no new Traits: it reveals and arms the ones already in the material. A practitioner's Primary Trait was there before the Crystal opened, doing quiet work nobody attributed to anything.
 
 ## IV. The Weathering
 
 Class Ø souls also refine under strain. The process is real, it is lifelong, and it is not Temperance.
 
-Temperance is a melt and a recasting. The Crystal loses its shape entirely and reforms around whatever held true through the heat. **The Weathering** is the same pressure applied without the melt. The soul does not liquefy. It hardens in place, along the direction it was already being used, the way a beam takes a permanent set under load or a hand takes a callus exactly where the tool sits. The trade word is borrowed from the joiners, the same word the halls use for a Crystal's seat, and the borrowing is deliberate.
+Temperance is a melt and a recasting. The Crystal loses its shape entirely and reforms around whatever held true through the heat. **The Weathering** is the same pressure applied without the melt. The soul stays solid and hardens in place, along the direction it was already being used, the way a beam takes a permanent set under load or a hand takes a callus exactly where the tool sits. The trade word is borrowed from the joiners, the same word the halls use for a Crystal's seat, and the borrowing is deliberate.
 
 What this produces: a real and measurable strengthening of whatever the person already was, and no capacity whatsoever to become something else. A fisherman weathered by forty years of cold water acquires a cold tolerance that will outperform a practitioner three Stages above him who never spent a point on the cold. He cannot convert one hour of it into anything but cold tolerance. The grain runs one way and it will never run another.
 
 The common word for it in most working registers is **grain**. A weathered man is said to have grain, or to be *set*. In Kharven the compliment is that a man has taken his set clean, and the insult is that he set crooked, which means the hardship shaped him and shaped him wrong.
 
-The political weight here is the important part. The elite are not superior in soul material. They are superior in access to the melt. A commoner's soul can only ever harden in the direction his life already pushed it. A house son can be melted and recast toward whatever the house needs. That is the actual mechanism of hereditary advantage in the Draw Age, and the houses know it, and their scholars have written a great deal to say it is something else.
+The political weight here is the important part. The elite hold no advantage in soul material. Their advantage is access to the melt. A commoner's soul can only ever harden in the direction his life already pushed it. A house son can be melted and recast toward whatever the house needs. That is the actual mechanism of hereditary advantage in the Dark Ages, and the houses know it, and their scholars have written a great deal to say it is something else.
 
 ## V. What a Trait Does to the Body
 
@@ -61,7 +77,7 @@ What this looks like at autopsy and under a physician's hand:
 - **Density Traits** deposit mineral into the periosteum and thicken cortical bone past what mechanical load explains. Borin Ironheart's frame is the reference case. The bone is heavier than the man's diet or labor can account for.
 - **Speed Traits** show as tendon elasticity outside normal range, unusually heavy myelination on motor tracts, and a lactate handling curve that does not match the muscle mass.
 - **Endurance and thermal Traits** rebuild the vasculature: shunt architecture in the extremities, altered brown-fat distribution, a resting core temperature offset from the population mean.
-- **Perception Traits** thicken the relevant sensory apparatus and, more tellingly, reorganise the tissue behind it. The eye is ordinary. The tract is not.
+- **Perception Traits** thicken the relevant sensory apparatus and, more tellingly, reorganize the tissue behind it. The eye is ordinary. The tract is not.
 - **Attraction and Fate-seeded Traits** are the hardest to read on a table and never absent. They show as vascular and neural asymmetry with no traumatic cause, laid down along the lines the bond ran.
 Trait tissue does not heal on the ordinary schedule. It is being maintained against a standing law rather than a healing plan, so it either restores itself faster than it has any right to or refuses to restore at all. Both are diagnostic.
 
@@ -73,15 +89,15 @@ Canon per Fracture of Worlds, Part Twenty, with function and bodily signature ad
 
 **Primary, the Innate Reflection.** Formed from soul Typology, origin, and the first Temperance imprint. Always running, never removable, modest and constant. Function: it sets the direction of least resistance for everything the soul will ever do. Bodily signature: constitutional, present from childhood, indistinguishable from temperament until someone measures it.
 
-**Secondary, the Tempered Reflection.** Forged by trauma, revelation, sustained Wellspring (a natural source of magic carrying one physical law) exposure, or a decisive choice. Conditional and triggered. Function: it is the soul's scar turned into an instrument. Bodily signature: acute. Activation is a physiological event, with vascular and thermal signs, a catecholamine-shaped surge, and a debt afterward that must be paid in fatigue whether or not the bearer is willing to stop.
+**Secondary, the Tempered Reflection.** Forged by trauma, revelation, sustained Wellspring exposure (a Wellspring being one of the sixty types of Aether, each working on the Soul Crystal in its own way and carrying its own physical law), or a decisive choice. Conditional and triggered. Function: it is the soul's scar turned into an instrument. Bodily signature: acute. Activation is a physiological event, with vascular and thermal signs, a catecholamine-shaped surge, and a debt afterward that must be paid in fatigue whether or not the bearer is willing to stop.
 
 **Inherited, the Lineage Reflection.** Carried by bloodline, ancestral resonance, reincarnational echo, or a pact maintained across generations. Function: it runs whether or not the bearer consents to it, because it was written into the Core before the Core had a self to consent with. Governed by Tempering Maturity (how fully a soul has integrated its past hurts), which decides whether the bloodline cooperates or ambushes. Bodily signature: frequently visible from birth as a mark, a pigmentation, a malformation, a structural oddity that runs in the family and that nobody has previously connected to the law it encodes.
 
-**Passive, the Resonant Reflection.** Stabilised by long emotional pattern, continuous Essence exposure, or deep habit etched into the Crystal. Always active, low cost, no conscious control. Function: it is the atmosphere a person carries. Bodily signature: posture, gait, thermoregulation, scent, and the ambient behavior of a room the bearer has been sitting in for an hour. The cheapest Trait class and the most identifying, which is why counter-intelligence work cares about Passive Traits far more than about Secondary ones.
+**Passive, the Resonant Reflection.** Stabilized by long emotional pattern, continuous Essence exposure, or deep habit etched into the Crystal. Always active, low cost, no conscious control. Function: it is the atmosphere a person carries. Bodily signature: posture, gait, thermoregulation, scent, and the ambient behavior of a room the bearer has been sitting in for an hour. The cheapest Trait class and the most identifying, which is why counter-intelligence work cares about Passive Traits far more than about Secondary ones.
 
 **Compound Traits.** Two or more Reflections fused into a single law. Fewer, stronger principles. Catalytic, and catastrophic if the fused law contradicts the self.
 
-**Higher-Imprint Traits.** Marked by Archons, Titans, or World Spirit Realms. These behave as miniaturised Principles rather than personal talents and do not obey the ordinary scaling table.
+**Higher-Imprint Traits.** Marked by Archons, Titans, or World Spirit Realms. These behave as miniaturized Principles rather than personal talents and do not obey the ordinary scaling table.
 
 ## VII. The Four Offices of a Trait
 
@@ -89,18 +105,18 @@ Why Traits decide a life, stated as function.
 
 **One. Bias.** A Trait permanently tilts the expression of the stats it touches. This is the smallest of the four offices and the only one commonly discussed.
 
-**Two. Permission.** Certain Abilities and Techniques cannot exist without a matching Trait, at any Stage, with any instruction, for any expenditure. The Trait is a structural prerequisite rather than an advantage. A Signature Technique is by definition a working that only one person's Trait architecture permits.
+**Two. Permission.** Certain Abilities and Techniques cannot exist without a matching Trait, at any Stage, with any instruction, for any expenditure. The Trait is a structural prerequisite rather than an advantage. A Signature Technique is by definition a working that only one person's Trait architecture permits. This is why a kit reads as one concept with a growing list of named moves: every move has to be something that concept can lawfully do.
 
 **Three. Nucleation.**
 
 When a Threshold triggers and the Crystal melts, something must survive the heat for the new lattice to grow around. Traits are those seeds. They are the only structures in the Crystal that hold shape through the melt, because a law that the Continuum has accepted as reliable does not stop being reliable at temperature.
 
-A melt with strong, coherent, well-aligned Trait seeds cools into a dense, deliberate, high-Clarity (refinement of the Essence held) lattice. A melt with few seeds, or with seeds that contradict one another, cools without organisation. This is why two practitioners with identical training, identical Wellspring access and identical strain histories come out of the same Threshold at wildly different quality. The strain got them to the melt. The Traits decided what the melt produced.
-> **Nucleation is not an analogy. It is a Wellspring law, and it has been in the register the whole time.**
+A melt with strong, coherent, well-aligned Trait seeds cools into a dense, deliberate, high-Clarity (refinement of the Essence held) lattice. A melt with few seeds, or with seeds that contradict one another, cools without organization. This is why two practitioners with identical training, identical Wellspring access and identical strain histories come out of the same Threshold at wildly different quality. The strain got them to the melt. The Traits decided what the melt produced.
+> **Nucleation is a Wellspring law, no analogy about it, and it has been in the register the whole time.**
 >
-> **Coagulatio**, the Returning Stone, is Materia's crystallisation from supersaturated solution: ordered solid deposited out of apparent nothing the instant a site appears, with **uncontrolled nucleation** as its stated failure, producing a fine disordered mass rather than a sound crystal. That is a Threshold described in the vocabulary of a different discipline by people who were not thinking about souls.
+> **Coagulatio**, the Returning Stone, is Materia's crystallization from supersaturated solution: ordered solid deposited out of apparent nothing the instant a site appears, with **uncontrolled nucleation** as its stated failure, producing a fine disordered mass rather than a sound crystal. That is a Threshold described in the vocabulary of a different discipline by people who were not thinking about souls.
 >
-> *Which gives Coagulatio harmonisation a mechanical relationship to its bearer's own advancement that no other Wellspring has, and gives the Crystalia trade its oldest unresolved argument: whether a practitioner who works the law of nucleation can work it on themselves.* **Nobody has published a result. Several have stopped answering letters.**
+> *Which gives Coagulatio harmonization a mechanical relationship to its bearer's own advancement that no other Wellspring has, and gives the Crystalia trade its oldest unresolved argument: whether a practitioner who works the law of nucleation can work it on themselves.* **Nobody has published a result. Several have stopped answering letters.**
 **Four. Ceiling.** Tempering Ceiling is largely an expression of Trait architecture. How far a soul can go is a question about how much structure it has that can survive being unmade repeatedly.
 
 ## VIII. Why the Stages Matter
@@ -109,7 +125,7 @@ Level and Stage are frequently confused, including by people who ought to know b
 
 **Level counts pressure.** It is the sediment of genuine contact with consequence, densification counted and expressed as a number. It accumulates.
 
-**Stage counts reorganisation.** It is a structural event, triggered by a quantitative floor plus a Catalyst Condition, a specific quality of experience the Crystal requires before it will authorise the transition. It does not accumulate. It happens or it does not.
+**Stage counts reorganization.** It is a structural event, triggered by a quantitative floor plus a Catalyst Condition, a specific quality of experience the Crystal requires before it will authorize the transition. It does not accumulate. It happens or it does not.
 
 The two are gated against each other. Levels divide into Bands of one hundred, and no Band ceiling can be breached without the Temperance Threshold that Band demands.
 - Band I, Levels 1 to 100. Gate: Stage IV before Level 100 can be surpassed.
@@ -117,11 +133,11 @@ The two are gated against each other. Levels divide into Bands of one hundred, a
 - Band III, Levels 201 to 300. Gate: Stage X.
 - Band IV, Levels 301 to 400. Gate: Stage XII.
 - Band V, Levels 401 to 500. No further gate.
-When a character reaches a Band ceiling without the Threshold, the level counter halts and the pressure has nowhere to go. It accrues as **Residual Strain**, which degrades XP gain and raises Overchannel (drawing more than the Crystal can carry) and Backlash (a working's force turning on its maker) risk continuously, and it does not stop building. The soul either passes the Threshold or fractures under the weight.
+When a character reaches a Band ceiling without the Threshold, the level counter halts and the pressure has nowhere to go. It accrues as **Residual Strain**, which degrades XP gain and raises Overchannel (forcing more through the Crystal than it can carry) and Backlash (a working's force turning on its maker) risk continuously, and it does not stop building. The soul either passes the Threshold or fractures under the weight.
 
-**This is the whole explanation of the Level 200 wall.** The world is not short of people who can grind pressure. It is short of people who can produce the Catalyst for Stage VII, Refraction, the Threshold at which Traits externalise and dual sight opens. Most practitioners spend the back half of their careers stalled in the high hundred-and-nineties, accumulating Residual Strain, becoming slowly more dangerous to themselves, and dying of something unrelated before the Threshold ever arrives. That population, stalled and straining and bitter about it, is the ordinary composition of every veteran corps in every army on the continent.
+**This is the whole explanation of the Level 200 wall.** The world has plenty of people who can grind pressure and very few who can produce the Catalyst for Stage VII, Refraction, the Threshold at which Traits externalize and dual sight opens. Most practitioners spend the back half of their careers stalled in the high hundred-and-nineties, accumulating Residual Strain, becoming slowly more dangerous to themselves, and dying of something unrelated before the Threshold ever arrives. That population, stalled and straining and loudly bitter about it, buying rounds and naming names, is the ordinary composition of every veteran corps in every army on the continent.
 
-Aptitude decides whether a Threshold happens cleanly, catastrophically, or at all. Tempering Maturity smooths the ascent. Tempering Coherence is the structural prerequisite for eligibility, the Crystal's honesty meter, and a practitioner whose stated Path (the route, body, spirit, bond or fate, their Crystal works through) and lived behavior have drifted apart will be quantitatively ready for years and never authorised. Maturity is also what the Crystal actually consults.
+Aptitude decides whether a Threshold happens cleanly, catastrophically, or at all. Tempering Maturity smooths the ascent. Tempering Coherence is the structural prerequisite for eligibility, the Crystal's honest scale, and a practitioner whose stated Path (the route, body, spirit, bond or fate, their Crystal works through) and lived behavior have drifted apart will be quantitatively ready for years and never authorized. Maturity is also what the Crystal actually consults.
 
 A soul advances when it has genuinely changed. Effort alone gets it to the door and holds it there.
 
@@ -133,7 +149,7 @@ Function, stated against the nucleation model: **a Draft is an artificial seed.*
 
 This is why Drafts work and why they are dangerous in the same sentence. A borrowed seed yields a genuine gain in Stage quality, and it yields a region of lattice that does not answer to the bearer's own account of himself. Where the Draft is Creature-Sourced this is the mechanism underneath **Identity Contamination**: the seed carries the identity it was rendered from, the lattice grows to that law, and the bearer's Attunement (how the soul tunes itself to what it works) quietly stops matching their Coherence. The bearer acquires a rigidity he did not earn and cannot argue with, because the Rigidity Effect scales with how absolute a law is and has nothing at all to do with whether the bearer agrees with it.
 
-The hard limit stands unchanged. **A Draft can supply the quantitative floor and it can supply a seed. No Draft has ever supplied a Catalyst.** Seeding a melt that the Crystal never authorised produces a forced Threshold and a practitioner reorganised around whatever was in the vial.
+The hard limit stands unchanged. **A Draft can supply the quantitative floor and it can supply a seed. No Draft has ever supplied a Catalyst.** Seeding a melt that the Crystal never authorized produces a forced Threshold and a practitioner reorganized around whatever was in the vial.
 
 Old families are strange for structural reasons. Six generations of purchased seeds produce a lineage running on laws none of its living members ever survived into being true.
 

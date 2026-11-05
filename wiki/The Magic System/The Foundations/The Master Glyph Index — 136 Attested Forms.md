@@ -9,13 +9,15 @@ tags:
 
 *All one hundred and thirty-six attested Parun (root script of law) forms, ordered by Archon (one of the fourteen great powers of cosmic law)*
 
+Every midwinter the Third Counter Society sits down to eel pie and too much brandy, and every midwinter someone climbs on the bench, roars that they have found a third form written to obstruct another form, and traces it on the table in spilled wine with the whole room howling. Then a sober apprentice runs the path across the lattice, *klik*, and it comes out as Knot or Lock in a borrowed hat, and the claimant buys the brandy. Master Simeon Blackwell bought the brandy nine years running and stayed solvent only by marrying a vintner. The index below is what they are all failing to get round.
+
 ---
 
 ## What a Glyph Physically Does
 
 *The index is a filing system. This section is what the filed thing is.*
 
-A glyph creates nothing and carries no power. The Wellspring (a standing current of natural law in the Aether)'s law was already running before anyone wrote anything, and it continues running afterward. **A glyph is a boundary condition imposed on that law.** It moves a limit, and the law does what it has always done on the far side of the new limit.
+A glyph creates nothing and carries no power. The law of the Wellspring (one of the sixty types of Aether, each carrying a fixed law) was already running before anyone wrote anything, and it continues running afterward. **A glyph is a boundary condition imposed on that law.** It moves a limit, and the law does what it has always done on the far side of the new limit.
 
 This is why practitioners are burned, crushed and drowned by their own workings with such regularity. The glyph ends. The law does not. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench thought about, and the correct instinct at any threshold is to ask what the law will keep doing after the intent stops.
 > **The two-part reading of any entry.** The **Family and Physics Domain** say which law is being conditioned. The **Meaning and Use** say what kind of boundary is being imposed on it. A technique is those two decisions and nothing else, and everything downstream is the law's own behavior.
@@ -24,7 +26,7 @@ This is why practitioners are burned, crushed and drowned by their own workings 
 
 **Knot** and **Lock** are the only two forms in the index written to obstruct another form, and under the boundary reading the scarcity stops being a curiosity.
 
-A glyph cannot attack a law. Laws are not the sort of thing that can be opposed; the practitioner who tries is arguing with thermodynamics and will lose on schedule. What a counter does instead is impose a boundary that **prevents another boundary from being established** — a condition on the conditioning rather than on the phenomenon.
+A glyph cannot attack a law. Laws are not the sort of thing that can be opposed; the practitioner who tries is arguing with thermodynamics and will lose on schedule. What a counter does instead is impose a boundary that **prevents another boundary from being established**, a condition on the conditioning rather than on the phenomenon.
 
 There are two of them because there are two ways to do it. **Knot** entangles a path so it cannot be traced cleanly. **Lock** occupies a limit so no other limit can be set there. Every counter-working ever recorded is one of those two moves, and the four centuries of effort spent looking for a third have produced synonyms.
 
@@ -42,10 +44,10 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 | Class | Count | What it is |
 |---|---|---|
 | **Root** | 56 | A form with no ancestor in the index. The path is traced directly from the name |
-| **Derivative — Extension** | 35 | A root path carried further along the lattice (the fixed grid every glyph is traced on) |
-| **Derivative — Compound** | 32 | Two paths laid across one another |
-| **Derivative — Synonym** | 11 | A second attested form for a meaning already held |
-| **Derivative — Counter** | 2 | **Only two exist in the entire index: Knot and Lock.** *A counter is a form written to obstruct another form* |
+| **Derivative · Extension** | 35 | A root path carried further along the lattice (the fixed grid every glyph is traced on) |
+| **Derivative · Compound** | 32 | Two paths laid across one another |
+| **Derivative · Synonym** | 11 | A second attested form for a meaning already held |
+| **Derivative · Counter** | 2 | **Only two exist in the entire index: Knot and Lock.** *A counter is a form written to obstruct another form* |
 
 **Total: 136.**
 
@@ -73,7 +75,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 
 > **Thirty of the 136 carry no Family and no Physics Domain.**
 >
-> They render **without a tally**, which reads in-world as **a glyph the Continuum cannot classify** — *and the standing recommendation is to keep that as a feature rather than fill it.*
+> They render **without a tally**, which reads in-world as **a glyph the Continuum cannot classify**, *and the standing recommendation is to keep that as a feature rather than fill it.*
 >
 > **The Long Reading holds that the Moto ancestral seat's own name is written in one of these.** It is the oldest proper noun in the record **and it is deliberately blank.**
 
@@ -110,7 +112,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 | `[Knt]` | Knot | **Counter** · Maelor |
 | `[Lk]` | Lock | **Counter** · Thalen |
 
-> **Worth noticing.** Every one of the fifteen unclassified **Roots** is a first-order concept — Flame, Light, Passage, Boundary, Ruin, Vastness, Command, Dominion.
+> **Worth noticing.** Every one of the fifteen unclassified **Roots** is a first-order concept: Flame, Light, Passage, Boundary, Ruin, Vastness, Command, Dominion.
 >
 > *The Codex can classify a derivative of a thing and cannot classify the thing. Whether that is an archival gap or a property of the Continuum is not stated anywhere, and the index does not offer an opinion.*
 
@@ -121,7 +123,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 Each of the 136 entries carries eleven fields: **Glyph, Name, Class, Primary Archon, Secondary Archon, Meaning & Use, Primary Wellspring, Family, Physics Domain, All Attested Wellsprings, All Attested Families.**
 
 **Worked example.** `[Ur]` **Balance** · Root · Urion · *Stabilizes Essence gradients; equalizes opposing forces.* · Primary Wellspring **Judicium** · Family **Fulguria** · Physics Domain **Electromagnetism.**
-> Its attested spread runs to **seven Wellsprings across six Families** — Exuroth, Fixatio, Ignivale, Judicium, Mirithane, Petralon and Thaloré. *A root that broad is not a specialist's glyph. It is a load-bearing member, and the number of Families that reach for it is the measure of that.*
+> Its attested spread runs to **seven Wellsprings across six Families**: Exuroth, Fixatio, Ignivale, Judicium, Mirithane, Petralon and Thaloré. *A root that broad is a load-bearing member and no specialist's glyph, and the number of Families that reach for it is the measure of that.*
 Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings and one Family.** *Narrow, deep, and the whole of it belongs to Limina.*
 > **The Secondary Archon column is sparsely populated.** Where it is filled, the glyph is read from two stations at once, **and the path is the intersection rather than either reading alone.**
 
@@ -131,7 +133,7 @@ Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings a
 
 > **Every technique entry in the wiki closes on a Codex assignment line.** That line points here.
 >
-> **Assignment is decided after the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and pitch a new Codex entry in the same pass — not to bend the phenomenon until it files.*
+> **Assignment is decided after the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and pitch a new Codex entry in the same pass, not to bend the phenomenon until it files.*
 
 ---
 

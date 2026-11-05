@@ -551,9 +551,9 @@
 - [[The Magic System/Practice and Institution/Practice and Institution|Practice and Institution]]
 - [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]
 - [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]
-- [[The Magic System/Practice and Institution/The Imperial Age Aether Infrastructure|The Imperial Age: Aether Infrastructure]]
 - [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title — The Three Names]]
 - [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]]
+- [[The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts|Who Pays for the Lamp: The Living Crafts]]
 
 ### Reference and Craft
 

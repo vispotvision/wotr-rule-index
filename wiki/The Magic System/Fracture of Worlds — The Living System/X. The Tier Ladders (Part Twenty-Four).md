@@ -4,7 +4,13 @@ title: X. The Tier Ladders (Part Twenty-Four)
 
 # X. The Tier Ladders (Part Twenty-Four)
 
-> Every ladder in the Continuum (the whole fabric of reality) hangs on one spine: peak output in joules, read to a Grade (a letter rank of output, Hollow up to EX+), read to a rung from one to nine. The Essence Ledger sets the spine. This Part names the rungs for each kind of thing that can be measured on it (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armor) and says what each ladder adds that a joule figure does not show. A rung is a fact anyone can look up. What it means in the room is for whoever is standing in it to work out.
+The Wyvern of Anner Moss had killed forty carters and a magistrate's mule before anyone troubled to read its row. The Reeve posted three hundred silver marks in hand-copied bills on every door in the hundred, the heralds cried it as far as the coast, and the Accord's Commission (its licensed hunting contract, rated by danger) stamped the job T6 under a Gold Sigil, which the taverns of the hundred took as their cue to lay twenty to one against the Merry Gallows: fourteen hedge-hunters, one borrowed Sigil, and a cook named Bettris Two-Spoons, who had read nothing in her life but recipes and the Bestiary ladder. On that ladder a Wyvern throws a bolt worth about a gigajoule, which is a fine way to lose a barn. It stands two rungs above that, on its reach and on the storm that feeds it, and the row says plainly that cold and water break a storm's hold. So Bettris left the Moss alone. She drove a red brewer's wagon full of screaming goats out onto the ice of Hob's Tarn, four leagues from the crag where the thing kept its weather, with a stewpot strapped on her head, and she sat up there singing until it came.
+
+*KRRAKKOOM*
+
+The first bolt went violet through the wagon and took her left ear, four goats and a Gallows boy called Little Perkin. Then the crew on the far bank hauled on the ropes they had sawn through the ice all night, the floe tipped, and the whole Wyvern went shoulder-deep into black water with its sky unraveling above it, the violet running out of the clouds like dye out of a cheap shirt. It still killed five of them before the boar spears went in under the wing. The minstrels say she finished it with a ladle, and the ladle has its own song now and a shrine at Anner Moss that charges admission. The spear was hers, and the ladle was for afterward, and the whole plan cost a penny, which is what a copied row goes for at any Guild Hall door.
+
+> Every ladder in the Continuum (the whole fabric of reality) hangs on one spine: peak output in joules, read to a Grade (a letter rank of output, Hollow up to EX+), read to a rung from one to nine. The Essence Ledger sets the spine. This Part names the rungs for each kind of thing that can be measured on it (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (one of the sixty types of Aether, each working on the Soul Crystal in its own way and carrying its own law) sites, weapons and armor) and says what each ladder adds that a joule figure does not show. A rung is a fact anyone can look up. What it means in the room is for whoever is standing in it to work out.
 
 ## The Bestiary ladder
 
@@ -52,7 +58,7 @@ One EU is one megajoule, so the EU column is the joule ceiling divided by a mill
 
 The spine gives every ladder its own modifiers. The Bestiary's are three, and each lifts the rung by **one**. A creature's **standing** is its output rung plus the modifiers it holds: never more than three above its output, never past nine.
 
-**Reach.** Its harm lands beyond the ground a party can hold. Lightning at three kilometres, a song across open water, a hunt that runs across realms on an Essence signature, harm that outlasts the creature's presence: a storm curse on a valley, ground frozen meters deep after the Titan has gone, currents altered for a season. A creature with reach cannot be answered by standing still and holding a line, because the line is inside its range.
+**Reach.** Its harm lands beyond the ground a party can hold. Lightning at three kilometers, a song across open water, a hunt that runs across realms on an Essence signature, harm that outlasts the creature's presence: a storm curse on a valley, ground frozen meters deep after the Titan has gone, currents altered for a season. A creature with reach cannot be answered by standing still and holding a line, because the line is inside its range.
 
 **Persistence.** It is hard to kill. It regenerates, returns, stores its life somewhere other than its body, or keeps fighting through wounds that end a body: the hydra's heads, the phoenix's ashes, the lich's phylactery, the Goliath's stoneform. **Hard to hit does not lift the rung.** A thing that phases, teleports, flies or vanishes into snow lengthens the fight and does not raise its ceiling; the first blow that lands on it lands on its rung. The Ledger prices what lands, not what misses.
 
@@ -146,10 +152,10 @@ Output is the creature's hardest recorded working, by order of magnitude. **R** 
 | **Droval, Titan (high)** | T8 | Town-bane (~10¹² J) | R, P, W | **World-bane** | Rivers frozen and armies scattered |
 | **Droval, Titan (apex)** | T9 | March-bane (~10¹⁴ J) | R, P, W | **Sky-eater** | The Deep Winter Pulse |
 | **Tōga, Winter Fang** | T8 | Field-bane (~10⁶ J) | P, W | **Hamlet-bane** | The Ledger reads only what has been seen: a fifteen-ton pounce, a hold burned through in seconds, and the Winter tie. The Commission's T8 is the figure for a high Titan |
-| **Raga, the Divine Thunder Bear** | T7 | Hamlet-bane (~10¹⁰ J) | R, P, W | **Realm-bane** | Strikes at three kilometres, Silence does not remove him, and a live storm cell anchors him |
+| **Raga, the Divine Thunder Bear** | T7 | Hamlet-bane (~10¹⁰ J) | R, P, W | **Realm-bane** | Strikes at three kilometers, Silence does not remove him, and a live storm cell anchors him |
 | **Vaelmorn, the Standing Grave** | T6 | Hearth-pest | R, P, W | **Hamlet-bane** | The Commission rates him T6 for what he does to a place; his output alone is a Hearth-pest and he has never used it. A radius that holds eleven days after he leaves, tines that take the wound, and ground that holds him |
 | **Obrenkael, the Mule** | T7 named, T4 unnamed | Hearth-pest (~10³ J) | P, W | **Road-bane** | The Commission rates it T7 named; its Deadweight is a few kilojoules put inside a body, rising with every skull on the cord. It cannot be turned aside and it walks the Oblation vein |
-| **Haelvorn, Housecat** | T8 | Road-bane (~10⁸ J) | R | **Hamlet-bane** | The Commission rates it T8 for what it does loose; its hardest working is the heat its Intake draws. Loose, the exhaust runs into the nearest Soul Crystal and then the next, and that is its reach |
+| **Haelvorn, Housecat** | T8 | Road-bane (~10⁸ J) | R | **Hamlet-bane** | The Commission rates it T8 for what it does loose; its hardest working is the heat its Intake pulls. Loose, the exhaust runs into the nearest Soul Crystal and then the next, and that is its reach |
 
 **The Lich is read as a person first.** Its output is the Grade the necromancer held, placed on the spine like any practitioner's, and the three modifiers stand on top of it. The Commission enters every lich at T9. The Ledger enters a lich at nine only when the necromancer stood at Master before the phylactery; a lesser one who made the same bargain stands lower, and the Commission's tier is the tier of the worst of them.
 
@@ -163,7 +169,7 @@ The output rung is what you must be able to survive: armor, ward and Grade are c
 
 ## The Drafts ladder
 
-**Alchemical works and Drafts, on the spine.** Every Draft, salt, oil, powder and charge the trade produces is a working stabilised into a substance, and a substance holds a definite quantity of Essence. The ladder reads that quantity. **A work is placed by the EU one dose holds, converted at one megajoule to the unit, and read on the spine like any other peak output.** Two modifiers, Carry and Fidelity, then move it.
+**Alchemical works and Drafts, on the spine.** Every Draft, salt, oil, powder and charge the trade produces is a working stabilized into a substance, and a substance holds a definite quantity of Essence. The ladder reads that quantity. **A work is placed by the EU one dose holds, converted at one megajoule to the unit, and read on the spine like any other peak output.** Two modifiers, Carry and Fidelity, then move it.
 
 **What is read is what the dose holds, not what arrives.** The spine is read on the held figure at the constant, before anybody's η (efficiency: the share of spent Essence that arrives as effect) touches it. What reaches the drinker is the held figure times the drinker's own η, and it is spent where the formula sends it: on the body, on the Shell (the soul's outer layer, which passes power out into the world), or on the pressure a Crystal builds toward its next Threshold (the breakthrough that opens the next Stage). **Only a fight Draft refills a reserve.** Otherwise a practitioner is refilled by rest, the ground and the Wellsprings, and an ordinary Draft drunk on an empty reserve mends the body and steadies the Shell and leaves the reserve as empty as it found it. A fight Draft, poured for the purpose, gives the reserve back at once and takes its price in the crash after.
 
@@ -189,9 +195,9 @@ The output rung is what you must be able to survive: armor, ward and Grade are c
 
 **Philter.** A dose that holds a Journeyman's whole working range in one vessel. **This is the rung at which a Draft can carry a practitioner to a quantitative floor in one issue**, and the rung at which it is sold against a term of service rather than a price.
 
-**Elixir.** Threshold work in earnest. An Elixir holds as much as an Expert's reserve spends in a long engagement and supports a Crystal through a reorganisation. **An Elixir can supply the floor and it can supply a seed. It does not supply a Catalyst (the event that sets off a Stage breakthrough), and nothing on any higher rung does either.**
+**Elixir.** Threshold work in earnest. An Elixir holds as much as an Expert's reserve spends in a long engagement and supports a Crystal through a reorganization. **An Elixir can supply the floor and it can supply a seed. It does not supply a Catalyst (the event that sets off a Stage breakthrough), and nothing on any higher rung does either.**
 
-**Quintessence.** A dose at the scale of a Master's Domain. Works on this rung anchor, stabilise and hold at the size of a live, law-bearing field, and **the question of what the dose was rendered from stops being hypothetical**.
+**Quintessence.** A dose at the scale of a Master's Domain. Works on this rung anchor, stabilize and hold at the size of a live, law-bearing field, and **the question of what the dose was rendered from stops being hypothetical**.
 
 **Magisterium.** A work that enforces. It holds energy on the scale of a regional event, and what it does to a blade, a wound or a Domain behaves as a ruling rather than a reaction.
 
@@ -244,14 +250,14 @@ The two agree most often through the middle of the trade, where a Threshold rati
 | **Thundercrack Grenade** | T5 | II / — / — | about 1 EU, 10⁶ J: eardrums ruptured within four meters, mortar failed in tension | Tonic | none | **Tonic** |
 | **Deadlight Phial** | T3 | II / B / 7 | about 2 EU: a few watts of cold light for two hundred hours | Tonic | none | **Tonic** |
 | **Hillcarry Salts** | T3 | II / A / 12 | 100 – 600 EU per ration dose | Draught | none | **Draught** |
-| **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty millilitres, spent cycling a Stage V Core toward a second Wellspring bond | Draught | none | **Draught** |
+| **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty milliliters, spent cycling a Stage V Core toward a second Wellspring bond | Draught | none | **Draught** |
 | **Ascension Ration, Accord Standard** | T4 | III / A / 25 | 2,000 – 10,000 EU: a Journeyman carried to the Flourishing floor | Philter | none | **Philter** |
 | **Splinter Ration** | T5 | III / A / 35 | 5 × 10⁴ – 2 × 10⁵ EU: a Crystal supported through Splintering | Elixir | none | **Elixir** |
 | **Refraction Draught** | T6 | IV / A / 50 | 10⁵ – 10⁶ EU: the dual-sight transition at Stage VII | Elixir | Carry Marked: the donor's way of seeing recorded, no move | **Elixir** |
 | **Titan-Marrow Salts** | T6 | V / B / 78 | about 10⁷ EU per lot: a Domain held against displacement | Quintessence | **Carry Heavy: up one** | **Magisterium** |
 | **Sovereign Quench, Recovered** | T7 | V / B / 90 | 10⁷ – 10⁸ EU per quench | Quintessence | **Carry Heavy: up one** | **Magisterium** |
 | **Principality Mortar** | T8 | V / — / — | about 10¹⁶ EU per mixing: a Domain anchored at Realm scale | Panacea | none | **Panacea** |
-| **Worldspirit Quench** | T9 | V / A / 98 | above 10¹⁶ EU: a confirmed World Spirit's draw | Panacea | **Sovereign-carry: up one** | **Stone** |
+| **Worldspirit Quench** | T9 | V / A / 98 | above 10¹⁶ EU: a confirmed World Spirit's pull | Panacea | **Sovereign-carry: up one** | **Stone** |
 | **Archon-Touch Residue, Lifted** | T8 | VI | none countable: it does not deplete | — | — | **no rung** |
 | **Apex Residue** | T9 | VI | none known: never worked | — | — | **no rung** |
 
@@ -267,7 +273,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 **Artifacts, on the spine.** An artifact is a working given a body that outlasts the working. Some hold a store of their own, charge laid down against a later need. Most hold nothing and pass what their bearer spends through a glyph (a sigil written into a working) chain that shapes it. The ladder reads both the same way. **An artifact is placed by the EU it stores or the EU one act of it discharges, whichever is greater, converted at one megajoule to the unit and read on the spine like any other peak output.** One modifier, how bound the thing is to its bearer, then decides whose rung it is.
 
-**Stored and discharged are read differently.** A store is read at the constant: what the thing holds, times one megajoule. A discharge is read as delivered, the EU spent times the η of whoever spends it; where a record gives only the draw on the bearer, the draw is read at the constant and the rung is a ceiling. **A draw given as a share of the bearer's reserve is as large as the reserve makes it.** The share decides how long the bearer lasts; the absolute size of the reserve decides how large each act is, and an artifact that asks a Master for five percent of a Master's reserve is discharging on a Master's scale.
+**Stored and discharged are read differently.** A store is read at the constant: what the thing holds, times one megajoule. A discharge is read as delivered, the EU spent times the η of whoever spends it; where a record gives only the drain on the bearer, the drain is read at the constant and the rung is a ceiling. **A drain given as a share of the bearer's reserve is as large as the reserve makes it.** The share decides how long the bearer lasts; the absolute size of the reserve decides how large each act is, and an artifact that asks a Master for five percent of a Master's reserve is discharging on a Master's scale.
 
 ## The nine rungs
 
@@ -289,11 +295,11 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 **Talisman.** Journeyman scale. A Talisman's act matters against a wall, a door, a body in the open: a cage of ice, a sealed pulse through a Shell, a hand sent sixty paces. **This is the rung most field artifacts stand on, whatever their makers called them.**
 
-**Implement.** A single act at the scale of a building. An Implement that stores its own charge is an Implement in any hand that can open it; one that only passes its bearer's draw is an Implement because its bearer is.
+**Implement.** A single act at the scale of a building. An Implement that stores its own charge is an Implement in any hand that can open it; one that only passes its bearer's drain is an Implement because its bearer is.
 
 **Relic.** Expert scale, city-block output in one act or a store that can answer it. **A Relic is the first rung at which taking the thing off its bearer is a war aim rather than a theft.**
 
-**Heirloom.** Master scale. An Heirloom's act is a natural disaster at the level of a town, and it is almost always bound to one soul, **because nothing else could carry the draw**.
+**Heirloom.** Master scale. An Heirloom's act is a natural disaster at the level of a town, and it is almost always bound to one soul, **because nothing else could carry the drain**.
 
 **Regalia.** Grandmaster scale, a regional event in one act. Regalia are instruments of standing as much as of force: what they discharge is enforced by the Continuum rather than merely delivered.
 
@@ -308,7 +314,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 | Binding | What it means | Effect on the rung |
 |---|---|---|
 | **Free** | Answers any hand, or whoever last fed it | **The rung is the object's own and travels with it.** Whoever holds it holds the rung |
-| **Keyed** | Answers a standing, a rite, a vow or a harmonisation rather than one soul | **The rung is the object's own in a keyed hand, and one rung lower in any other** where it answers at all |
+| **Keyed** | Answers a standing, a rite, a vow or a harmonization rather than one soul | **The rung is the object's own in a keyed hand, and one rung lower in any other** where it answers at all |
 | **Soulbound** | Answers one soul and refuses the rest | **Never above the bearer's Tier of Standing**, because every act crosses the bearer's Shell. In any other hand it has no rung |
 | **Grown-in** | Bound into the bearer's body, Core or Domain; severed, it dies | **As Soulbound, and it cannot be taken.** The rung is the bearer's to lose, not the object's |
 
@@ -318,11 +324,11 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 | Artifact | stored or discharged | figure, EU | joules or Grade | binding | **rung** | what decides it |
 |---|---|---|---|---|---|---|
-| **The Ledger of Forgotten Faces** | discharged: a pulse search | well under 1 EU | below 10⁶ J | Keyed: Anamnesis harmonisation | **Charm** | the pulse; its danger is Gnosis strain, not energy |
-| **The Lantern of Echoed Veils** | discharged: a communion read or a guardian projection | single figures to about 20 EU | up to 2 × 10⁷ J | Keyed: its keeper's mark, or Anamnesis or Mortalis harmonisation | **Charm** | the projection; one rung lower in an unmarked hand |
+| **The Ledger of Forgotten Faces** | discharged: a pulse search | well under 1 EU | below 10⁶ J | Keyed: Anamnesis harmonization | **Charm** | the pulse; its danger is Gnosis strain, not energy |
+| **The Lantern of Echoed Veils** | discharged: a communion read or a guardian projection | single figures to about 20 EU | up to 2 × 10⁷ J | Keyed: its keeper's mark, or Anamnesis or Mortalis harmonization | **Charm** | the projection; one rung lower in an unmarked hand |
 | **Amaranth Severance** | discharged: one Severance Pulse | 40 – 60 | 4 – 6 × 10⁷ J | Keyed: the signed vow | **Talisman** | the pulse; the wielder's own A-to-S cut is the wielder's, not the blade's |
-| **Band of Frozen Brambles** | discharged: Briar Gaol, its heaviest draw | 40 – 110: a cage of a few hundred kilograms of ice frozen out of the ground's heat | 4 × 10⁷ – 1.1 × 10⁸ J | Keyed: a day's attunement | **Talisman** | the Gaol |
-| **Horizon's Reach** | discharged: Vector Anchor, its heaviest draw | 50 – 100 | 5 × 10⁷ – 10⁸ J | Soulbound | **Talisman** | the Anchor; the bearer's Tier caps it and does not bind at this rung |
+| **Band of Frozen Brambles** | discharged: Briar Gaol, its heaviest drain | 40 – 110: a cage of a few hundred kilograms of ice frozen out of the ground's heat | 4 × 10⁷ – 1.1 × 10⁸ J | Keyed: a day's attunement | **Talisman** | the Gaol |
+| **Horizon's Reach** | discharged: Vector Anchor, its heaviest drain | 50 – 100 | 5 × 10⁷ – 10⁸ J | Soulbound | **Talisman** | the Anchor; the bearer's Tier caps it and does not bind at this rung |
 | **Kibanda cha Mwanga wa Miti** | discharged: Grove-bloom | 40 – 60; Sanctuary Light 15 – 25 an hour | 4 – 6 × 10⁷ J | Keyed: the Rite of the First Light | **Talisman** | Grove-bloom, the larger single pull |
 | **Lurien's Hearthvine** | discharged: Hearthcall's Domain seed | 10 – 100; a Seedshaft 1 – 20 | up to 10⁸ J | Free | **Talisman** | Hearthcall; the rung travels with the bow |
 | **Mirrorwell Prism** | stored: one Echo's mirrored configuration | 40 – 120: half an Echo's field cost from a 1,600 EU reserve | 4 × 10⁷ – 1.2 × 10⁸ J | Soulbound, Expert bearer | **Talisman** | the mirrored re-summon it stores |
@@ -344,7 +350,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 ## Counterplay
 
-**The rung says the most one act of the thing can deliver, and the binding says where the answer lives.** A Free artifact's rung goes wherever the object goes, so taking it, burying it or starving what it feeds on removes the rung whole. A Keyed artifact stands one rung lower the moment its key is contested: challenge the Writ, break the vow's terms, deny the harmonisation, and the thing works in its crudest form or not at all. A Soulbound artifact can never outrun its bearer's Tier, and stolen it is inert, so there is nothing to gain by taking it and everything to gain by making the bearer pay; every act crosses the bearer's Shell and is spent out of the bearer's reserve toward the bearer's floor. A Grown-in artifact cannot be separated from its bearer at all, and the fight is with the ground or the conditions it depends on. **A store empties.** An artifact placed by what it holds steps down the ladder with every discharge, and a patient opponent can count the rings.
+**The rung says the most one act of the thing can deliver, and the binding says where the answer lives.** A Free artifact's rung goes wherever the object goes, so taking it, burying it or starving what it feeds on removes the rung whole. A Keyed artifact stands one rung lower the moment its key is contested: challenge the Writ, break the vow's terms, deny the harmonization, and the thing works in its crudest form or not at all. A Soulbound artifact can never outrun its bearer's Tier, and stolen it is inert, so there is nothing to gain by taking it and everything to gain by making the bearer pay; every act crosses the bearer's Shell and is spent out of the bearer's reserve toward the bearer's floor. A Grown-in artifact cannot be separated from its bearer at all, and the fight is with the ground or the conditions it depends on. **A store empties.** An artifact placed by what it holds steps down the ladder with every discharge, and a patient opponent can count the rings.
 
 ## The Summons ladder
 
@@ -374,7 +380,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Shieldmate.** A called thing worth one more fighter on the field. It guards a flank, intercepts a bolt, answers a practitioner blow for blow at Journeyman scale. **This is the lowest rung at which a summoner fights with the summon rather than behind it.**
 
-**Gatebreaker.** A called force at the scale of a building. It opens a fortified house, breaks a gatehouse, overturns a battery. What stands here changes the shape of a siege by arriving.
+**Gatebreaker.** A called force at the scale of a building. It opens a fortified house, breaks a gatehouse, overturns a line of trebuchets. What stands here changes the shape of a siege by arriving.
 
 **Ravager.** A called thing at the scale of a city block. A Ravager lays waste to a district in the time a garrison takes to form, and **it is the first rung at which the call alone is a share of the summoner's reserve that the summoner will feel for the rest of the day.**
 
@@ -390,7 +396,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **None of the modifiers moves the rung.** The rung is the call, and the call is paid once. The modifiers are what the call bought.
 
-**Sustain: the clock.** A summon held past its arrival draws a sustain, and the sustain is read as a clock against the summoner's reserve: reserve ÷ sustain is how long the summoner can hold it at full, and nine tenths of that is how long before Essence Starvation. **A summon whose sustain empties its summoner inside a minute is placed at its call and fought at its clock.**
+**Sustain: the clock.** A summon held past its arrival costs a sustain, and the sustain is read as a clock against the summoner's reserve: reserve ÷ sustain is how long the summoner can hold it at full, and nine tenths of that is how long before Essence Starvation. **A summon whose sustain empties its summoner inside a minute is placed at its call and fought at its clock.**
 
 **Cost off the Ledger.** Several entries record a sustain of nil and a cost paid in something other than Essence: a name taken per summoning, sensation that runs late for hours, heat carried in the summoner's own body. **A cost of this kind is recorded beside the rung and never converted into it.** It does not make the summon cheaper. It makes the summoner the place where the summon can be reached.
 
@@ -400,7 +406,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 |---|---|---|
 | **Donated** | a fragment of the summoner's own Core on a live tether | **ends with the summoner**, and ends inside any Silence Realm (a place where the Aether is dead) |
 | **Analog** | a synthetic three-layer architecture inside the summoner's Concordia field (a field aligning several souls and forces into one) | degrades with the field; a coherent one may resist dissolution |
-| **Native** | its own Crystal | **stands.** The rung was the price of being recognised, and killing the summoner does not unpay it |
+| **Native** | its own Crystal | **stands.** The rung was the price of being recognized, and killing the summoner does not unpay it |
 | **Anchored** | Crystal function borrowed from a vein, a bloodline or a Domain | **stands as long as the node does**, and outlives the summoner |
 
 **Bond Class: what it will refuse.** Directed, Interpretive, Consenting, Sovereign. A Consenting or Sovereign summon at any rung carries refusal conditions, and **a refusal is the one event that takes a called thing's whole rung off the field without a blow being struck.**
@@ -432,7 +438,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Domains, on the spine.** A Domain is inner law made local reality, and it is held, not thrown. What the spine reads is what the Domain holds: **the energy standing in its territory at one time.** Two figures fix that, and the ladder reads them together: **the radius the law is held over, and the joules held across it.** The joules find the row and the row is the rung. The radius says how far those joules are spread, and the two multiplied back together are the size and density that Part Twenty-Two makes the measure of a Domain's collapse.
 
-**How the joules held are read.** A Domain is paid for as a rate, and the Ledger turns a rate into a quantity over its own unit of time, the six-second turn. **The joules held are the maintenance draw across one turn, delivered through the holder's η: draw in EU/s × 6 × η × one megajoule.** A Domain expression paid per activation rather than per second is read at its activation cost through the same η. A Domain spent whole, detonated or collapsed on purpose, is read at what the spending cost, and stands on its own row beside the held one.
+**How the joules held are read.** A Domain is paid for as a rate, and the Ledger turns a rate into a quantity over its own unit of time, the six-second turn. **The joules held are the maintenance drain across one turn, delivered through the holder's η: drain in EU/s × 6 × η × one megajoule.** A Domain expression paid per activation rather than per second is read at its activation cost through the same η. A Domain spent whole, detonated or collapsed on purpose, is read at what the spending cost, and stands on its own row beside the held one.
 
 **Density is the tell.** Joules held ÷ the area of the disc the radius draws, π r², gives the charge on each square meter of held ground, in J/m². It does not move the rung. It is what an opponent standing at the edge can estimate, and it is the figure a collapse is felt in.
 
@@ -456,7 +462,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Yard.** A courtyard's worth of law at Journeyman scale. What stands inside a Yard fights on the holder's terms for as long as the holder's attention holds.
 
-**Holdfast.** A territory at the scale of a building, held at Building to Large Building force. **Nearly every Domain on record whose draw is written down stands here**, from Refraction to Transcendence, which is the rung's own statement of what a live Domain costs to keep.
+**Holdfast.** A territory at the scale of a building, held at Building to Large Building force. **Nearly every Domain on record whose drain is written down stands here**, from Refraction to Transcendence, which is the rung's own statement of what a live Domain costs to keep.
 
 **Precinct.** A district-scale charge: City Block to Multi-City Block held standing. The Domain is law-bearing in the sense Grade A gives it, and a Precinct spent whole is a disaster at that scale.
 
@@ -479,11 +485,11 @@ The rung says what was paid to put the thing on the field. It does not say what 
 | **Seed** | VII Refraction | held by active concentration; **the rung stands only while attention does** |
 | **True Domain** | VIII Transcendence | held for hours; the rung survives minor disruption |
 | **Realm** | IX–X | holds other Domains; pacts, artifacts and law imprint on terrain |
-| **Ambient** | XI–XII | leaks without maintenance; **no draw to read, so the rung is read at what a collapse or a spending releases** |
+| **Ambient** | XI–XII | leaks without maintenance; **no drain to read, so the rung is read at what a collapse or a spending releases** |
 | **Registered** | XIII | the Continuum registers the law; biomes carry the doctrine |
 | **Indistinct** | XIV | Domain and holder are one figure; read the holder |
 
-**Ground.** Maintaining a Domain inside someone else's costs significantly more, and terrain works on η through the Family's physics. **Hostile ground does not lower the rung. It raises the draw the same rung costs**, and shortens the clock on the holder's reserve.
+**Ground.** Maintaining a Domain inside someone else's costs significantly more, and terrain works on η through the Family's physics. **Hostile ground does not lower the rung. It raises the drain the same rung costs**, and shortens the clock on the holder's reserve.
 
 **Persistence.** Some Domains stand after the holder leaves them. A Domain that persists after exit holds its rung for that long without a holder to strike.
 
@@ -503,7 +509,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **The four held Domains stand on the third and fourth rungs, and the one spent whole stands a rung above them.** A Holdfast detonated is a Precinct for one instant, and that is the whole difference between keeping a Domain and using it.
 
-**Recorded by reach, not placed.** These Domains carry a radius and no draw the ladder can read: the Open Crucible, 40 m and past active maintenance; the Adamant Forge, anchored to the Forge complex; the Sounding, fifty kilometres at η 0.89; the Forge of Endurance, 3.2 km and 8 km in Overdrive; the Verdict Domain, a fifty-kilometre law field; the Ember Sanctum, thirty kilometres of pressure radius around a smaller Realm; an influence of one to two kilometres under full Emanation; a Domain-Precursor at up to three kilometres; two Domains of sixty and fifty meters; the Settled Domain of ten; the Waiting Room of about twenty; a seed extended to 120 meters through the Crook of Turned Seasons; the Garden of Still Snow at twelve, the Cinder Court at thirty-five, the Origin Court at eight; the Null, whose radius is environmental; and the Hall of Shattered Mirrors, the Quiet Hour and the Kōkan Totality Domain, which carry no figure at all. **Each has a rung, and the rung waits on its draw.**
+**Recorded by reach, not placed.** These Domains carry a radius and no drain the ladder can read: the Open Crucible, 40 m and past active maintenance; the Adamant Forge, anchored to the Forge complex; the Sounding, fifty kilometers at η 0.89; the Forge of Endurance, 3.2 km and 8 km in Overdrive; the Verdict Domain, a fifty-kilometer law field; the Ember Sanctum, thirty kilometers of pressure radius around a smaller Realm; an influence of one to two kilometers under full Emanation; a Domain-Precursor at up to three kilometers; two Domains of sixty and fifty meters; the Settled Domain of ten; the Waiting Room of about twenty; a seed extended to 120 meters through the Crook of Turned Seasons; the Garden of Still Snow at twelve, the Cinder Court at thirty-five, the Origin Court at eight; the Null, whose radius is environmental; and the Hall of Shattered Mirrors, the Quiet Hour and the Kōkan Totality Domain, which carry no figure at all. **Each has a rung, and the rung waits on its drain.**
 
 ## Counterplay
 
@@ -511,9 +517,9 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 ## The Wellspring and vein sites ladder
 
-**Sites, on the spine.** A Wellspring is not a place, but it pools: a current concentrates where the substrate conducts, where no competing current draws on it, and where time has let it saturate the field until the ground expresses the law on its own. A site is that pool, and a vein is the channel that feeds it. **A site is placed by hazard: the output a practitioner must be able to command to keep their own law inside the site at its worst ground.** That figure is read in joules like every other peak, the row it lands in is the rung, and the rung says how strong you must be to stand there and remain yourself.
+**Sites, on the spine.** A Wellspring is one of the sixty types of Aether, a source of power that also stands for an alchemical principle and a spiritual transformation, and it pools: its Aether concentrates where the substrate conducts, where no competing Aether crowds it, and where time has let it saturate the field until the ground expresses the law on its own. A site is that pool, and a vein is the channel that feeds it. Common speech calls any such site a Core, and a worked one recharges and has keepers, who can close it. The survey keeps the words Wellspring Core for the seventh rung alone and has stopped correcting people at the door. **A site is placed by hazard: the output a practitioner must be able to command to keep their own law inside the site at its worst ground.** That figure is read in joules like every other peak, the row it lands in is the rung, and the rung says how strong you must be to stand there and remain yourself.
 
-**Why hazard is read this way.** A site does not strike. It retunes. Harmonization is phase-locking, and a current strong enough to phase-lock a Shell against its bearer's will is a current the bearer's own output has failed to hold off. So the ladder asks the question the survey asks, from the other side: what Grade of output holds a Crystal's own architecture against this current. The density scale answers it in words, and the spine answers it in joules. **The two meet at one fixed point: Domain law at SSS can override the local behavior of a Wellspring, and a Wellspring Core is the ground where the Wellspring's law is the only law operating. A Core therefore stands on SSS, the seventh rung, and the density scale is laid down the spine from there.**
+**Why hazard is read this way.** A site does not strike. It retunes. Harmonization is phase-locking, and Aether strong enough to phase-lock a Shell against its bearer's will is Aether the bearer's own output has failed to hold off. So the ladder asks the question the survey asks, from the other side: what Grade of output holds a Crystal's own architecture against this Aether. The density scale answers it in words, and the spine answers it in joules. **The two meet at one fixed point: Domain law at SSS can override the local behavior of a Wellspring, and a Wellspring Core is the ground where the Wellspring's law is the only law operating. A Core therefore stands on SSS, the seventh rung, and the density scale is laid down the spine from there.**
 
 ## The nine rungs
 
@@ -527,25 +533,25 @@ The rung says what was paid to put the thing on the field. It does not say what 
 | **Whirlpool** | S, SS | 4.184 × 10¹² – 4.184 × 10¹⁴ | Veil-Thin Nexus | Master |
 | **Fountainhead** | SSS | 4.184 × 10¹⁴ – 4.184 × 10²¹ | Wellspring Core | Grandmaster |
 | **Gyre** | X, EX | 4.184 × 10²¹ – 6.906 × 10³⁷ | past the Core: ground whose law no survey has named | Archmaster |
-| **Chasm** | EX+ | 6.906 × 10³⁷ and above | the current and its material indistinguishable, at the extreme | Paragon |
+| **Chasm** | EX+ | 6.906 × 10³⁷ and above | the Aether and its material indistinguishable, at the extreme | Paragon |
 
-**Trickle.** Ground where the current barely wets the field. A Sage can tune to it and an ordinary person feels vaguely uneasy or vaguely at peace. **Arrays run here at a loss**, and a practitioner recovers here slower than anywhere with a vein.
+**Trickle.** Ground where the Aether barely wets the field. A Sage can tune to it and an ordinary person feels vaguely uneasy or vaguely at peace. **Arrays run here at a loss**, and a practitioner recovers here slower than anywhere with a vein.
 
-**Rill.** High, steady ambient saturation, felt within a day of arriving as a low pressure behind the eyes. It is the ground arrays pay for themselves on, and **it harms nobody**. Its danger is that it teaches a population to live beside a current.
+**Rill.** High, steady ambient saturation, felt within a day of arriving as a low pressure behind the eyes. It is the ground arrays pay for themselves on, and **it harms nobody**. Its danger is that it teaches a population to live beside a Wellspring.
 
 **Freshet.** The edge of a concentration, where the field is altered persistently and the alteration stays after the flow that made it. Streets read wrong on every instrument and wrong to the people in them. **Children awaken early here, and Traits appear in families that were never screened.**
 
-**Millrace.** A true Active Concentration. Wild ground shows altered terrain, Spirit ground produces physiological or psychological change the visitor did not choose, Medium ground produces both at once. **A practitioner who stays too long receives Wellspring Baptism (a current's forced realignment of the soul) whether they wanted it or not**, and sustained residence here or above leaves a Trait by Wellspring Convergence in anyone, Crystal or no Crystal.
+**Millrace.** A true Active Concentration. Wild ground shows altered terrain, Spirit ground produces physiological or psychological change the visitor did not choose, Medium ground produces both at once. **A practitioner who stays too long receives Wellspring Baptism (a Wellspring's forced realignment of the soul) whether they wanted it or not**, and sustained residence here or above leaves a Trait by Wellspring Convergence in anyone, Crystal or no Crystal.
 
-**Riptide.** A concentration at its densest, where the current pulls the visitor toward the core and the comfort points the wrong way. **At this rung the window between Spirit-type onset and commitment is measured in seconds**, and the Veil has begun to give.
+**Riptide.** A concentration at its densest, where the Aether pulls the visitor toward the core and the comfort points the wrong way. **At this rung the window between Spirit-type onset and commitment is measured in seconds**, and the Veil has begun to give.
 
 **Whirlpool.** A Veil-Thin Nexus. The planes turn together: spiritual entities visible, causal threads perceptible, time wrong. Bifold Perception arrives untrained, the soul drifts from the body's position, and Echo Beasts take form out of what the visitors brought in with them. **At Veil-Thin density the window of a Spirit-type onset is functionally zero.**
 
-**Fountainhead.** A Wellspring Core, the current's origin point. The physical and the metaphysical environment are indistinguishable and the law the Wellspring carries is the only law operating, **including on the visitor.** Recovery is re-anchoring by a specialist standing outside the radius, and it works, and it is not fast.
+**Fountainhead.** A Wellspring Core, the point its Aether wells up from. The physical and the metaphysical environment are indistinguishable and the law the Wellspring carries is the only law operating, **including on the visitor.** Recovery is re-anchoring by a specialist standing outside the radius, and it works, and it is not fast.
 
 **Gyre.** Ground past anything the density scale was written for: a site that does not kill in any way the Measurewrights have language for, whose edge is fixed by the Accord and revised outward. **At this rung the survey measures the perimeter because nothing inside it has been measured and come back.**
 
-**Chasm.** The rung with no ceiling. A current and its material so far indistinguishable that the law is written about the rock rather than about the place, and the ladder keeps the rung for the one site that already stands on it.
+**Chasm.** The rung with no ceiling. Aether and its material so far indistinguishable that the law is written about the rock rather than about the place, and the ladder keeps the rung for the one site that already stands on it.
 
 ## The modifiers
 
@@ -557,26 +563,26 @@ The rung says what was paid to put the thing on the field. It does not say what 
 | **Spirit** | the Crystal, and not to the conscious mind | **seconds** at Millrace and Riptide; **none** at Whirlpool and above |
 | **Medium** | both at once, and neither is trustworthy | **the worst of the three**; the visitor has lost the reference frame and needs an observer outside the radius |
 
-**Force: whether the site recognises or takes.** A site under clean Attraction Force reads the Crystal and either permits harmonisation or ignores the visitor. **A site under Obsession Force takes, compatible or not, and stands one rung higher than its density**, because the output that held against a current that asks does not hold against one that pulls.
+**Force: whether the site recognizes or takes.** A site under clean Attraction Force reads the Crystal and either permits harmonization or ignores the visitor. **A site under Obsession Force takes, compatible or not, and stands one rung higher than its density**, because the output that held against Aether that asks does not hold against Aether that pulls.
 
 **Stability: whether the reading drifts.** A site whose saturation never drifts is read at its rung and stays there. A site violently irregular is read at its worst ground, never its average.
 
-**Draw: what working the site does.** A site drawn on steadily falls as it is drawn: the old districts of a worked quarter read a rung or more below the ground beside them. **A site worked past what it can give does not fall a rung. It gives out**, and the ground that is left reads as ordinary depleted earth.
+**Pull: what working the site does.** A site pulled on steadily falls as it is pulled: the old districts of a worked quarter read a rung or more below the ground beside them. Left to rest it recharges, and its keepers can close it to anyone for exactly that reason. **A site worked past what it can give does not fall a rung. It gives out**, and the ground that is left reads as ordinary depleted earth.
 
-**The unawakened.** A Class Ø soul's Shell is sealed and cannot phase-lock, and no harmonisation occurs, and the rung reads the same for a porter as for a practitioner. What differs is the exit. **A practitioner in a Spirit-type onset vents the load through the Shell; an unawakened soul keeps it**, and no recovery protocol has been written for one returned from a Fountainhead.
+**The unawakened.** A Class Ø soul's Shell is sealed and cannot phase-lock, and no harmonization occurs, and the rung reads the same for a porter as for a practitioner. What differs is the exit. **A practitioner in a Spirit-type onset vents the load through the Shell; an unawakened soul keeps it**, and no recovery protocol has been written for one returned from a Fountainhead.
 
-**Objects.** A current bound inside a vessel is an Object Wellspring, and it is read on this ladder by the material that holds it: **material tier n stands on rung n.** An object has no perimeter and no gradient to give warning. It is held or it is not, and its internal law meets the Shell at zero distance.
+**Objects.** A Wellspring's Aether bound inside a vessel is an Object Wellspring, and it is read on this ladder by the material that holds it: **material tier n stands on rung n.** An object has no perimeter and no gradient to give warning. It is held or it is not, and its internal law meets the Shell at zero distance.
 
 ## Placement
 
 | Site | what is recorded | type | **rung** |
 |---|---|---|---|
 | **The old districts of the Old World** | ambient saturation low to moderate, locally depleted around the old districts | by Family | **Trickle** |
-| **The interior of the Southern Pan** | ambient saturation low; Aether-exhausted ground; no array industry | by Family | **Trickle** |
+| **The interior of the Southern Pan** | ambient saturation low; Aether-exhausted ground; no array trade | by Family | **Trickle** |
 | **The Northern Shield** | ambient saturation high and steady; the arrays run off it; felt behind the eyes within a day | by Family | **Rill** |
 | **Yasoshima** | moderate, and the most stable saturation recorded anywhere; nothing drifts | by Family | **Rill**, stable |
-| **The residue streets of a slow main** | residue accumulating where flow is slow; a persistent alteration to the field; Crystal awakening at abnormal ages and Trait incidence in long-settled families | Spirit, by symptom | **Freshet** |
-| **The interior of a charged draw main** | densities that would be recorded as an Active Concentration in open country; worked for careers by unscreened main-men | by the vein's Family | **Millrace** |
+| **The residue streets of a slow vein** | residue accumulating where flow is slow; a persistent alteration to the field; Crystal awakening at abnormal ages and Trait incidence in long-settled families | Spirit, by symptom | **Freshet** |
+| **The deep galleries of a worked vein** | densities that would be recorded as an Active Concentration in open country; worked for careers by unscreened vein-men | by the vein's Family | **Millrace** |
 | **The Heart Vault**, the Concord Citadel | a Wellspring Core | by Family | **Fountainhead** |
 | **The Crevice margin**, inside the four-league line | saturation violently irregular; the rock stops obeying the ordinary rules; Grimbarite crews work it and their mortality is not published | not classified | **Gyre** |
 | **The Crevice**, Crevice Shale | a T9 material and the most extreme Object Wellspring in the register; forbidden to move, hold or trade | object | **Chasm** |
@@ -591,7 +597,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Weapons and armor, on the spine.** Plain arms in the four quarters are Bearing-grade material with no Essence in them, and they perform as their physics; cheap runed pieces are nearly as common, and the great pieces are old and rare. The ladder reads the ones that carry a working, and it reads them the way the spine reads everything: in joules. **A weapon is placed by the hit it delivers: the attack output of the working in it, at the Grade of whoever put the Essence there. A piece of armor, a ward or a shield is placed by what it stops: the attack output band of the strongest strike it holds against.** The joules find the row, and the row is the rung.
 
-**Whose Grade.** An enhanced weapon performs no higher than the Grade of whoever put the Essence into it. Channelled through the weapon in the moment, that is the wielder's Grade; enchanted, glyphed or worked beforehand, it is the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand. **A weapon's rung travels with its maker's work and not with its current owner, except where the working is channelled, and then it travels with the hand.**
+**Whose Grade.** An enhanced weapon performs no higher than the Grade of whoever put the Essence into it. Channeled through the weapon in the moment, that is the wielder's Grade; enchanted, glyphed or worked beforehand, it is the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand. **A weapon's rung travels with its maker's work and not with its current owner, except where the working is channeled, and then it travels with the hand.**
 
 ## Beside the Bearing and the Holding
 
@@ -615,7 +621,7 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 | Numinous | X–EX | **Moonsplitter** |
 | Proscribed | EX+ | **Unmaker** |
 
-**Bearing is never on the ladder.** Plain steel stops plain shot by its Bearing and no rung is involved. The ladder begins where a working is added to the steel, and where a working meets the steel, the rung decides.
+**Bearing is never on the ladder.** Plain steel stops a plain bolt by its Bearing and no rung is involved. The ladder begins where a working is added to the steel, and where a working meets the steel, the rung decides.
 
 ## The nine rungs
 
@@ -631,7 +637,7 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 | **Moonsplitter** | X, EX | 4.184 × 10²¹ – 6.906 × 10³⁷ | 6.906 × 10³¹ EU | Archmaster |
 | **Unmaker** | EX+ | 6.906 × 10³⁷ and above | no ceiling | Paragon |
 
-**Sidearm.** Arms at the scale of one person: a marked knife, a charm-wound cudgel, a jack that turns a blade. **Any rung kills a man, and this one is where most killing is done.** A common revolver's ball, about 440 J, sits low on this rung, and a working that adds to it by the hit rather than the speed usually keeps it here.
+**Sidearm.** Arms at the scale of one person: a marked knife, a charm-wound cudgel, a jack that turns a blade. **Any rung kills a man, and this one is where most killing is done.** A steel-bowed windlass arbalest's bolt, about 440 J, sits low on this rung, read by Speed Grade like any projectile and still the cheap thing that can kill a high-Stage fighter in a room, and a working that adds to it by the hit rather than the speed usually keeps it here.
 
 **Linepiece.** The arms of the battle line: Proofed plate, a D-Grade smith's enchanted blade. A Linepiece stops or delivers a Wall-level blow, and **every piece of it costs a practitioner's reserve**, but a maker's reserve comes back by the hour, so the workshops turn it out cheap and a whole line can be kitted to it.
 
@@ -651,11 +657,11 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 
 ## The modifiers
 
-**Proof: the armor's rung is a promise.** Armor at rung n stops a strike at rung n and below. **A strike one rung above the proof breaks it; a strike two rungs above passes as if it were not there.** The proof-mark names the house, the test and the charge, and a proof is a promise about a specific charge made by a workshop that may no longer exist.
+**Proof: the armor's rung is a promise.** Armor at rung n stops a strike at rung n and below. **A strike one rung above the proof breaks it; a strike two rungs above passes as if it were not there.** The proof-mark names the house, the test and the bow, and a proof is a promise about a specific bow and bolt made by a workshop that may no longer exist.
 
-**Two dials: speed and the hit.** A working on a projectile moves its speed, its hit, or both. Speed tops out at the enhancer's Attack Speed and the hit at the enhancer's Attack output band; the rung reads the hit. **An enhanced round is dodged at its actual velocity, not at its rung.**
+**Two dials: speed and the hit.** A working on a projectile moves its speed, its hit, or both. Speed tops out at the enhancer's Attack Speed and the hit at the enhancer's Attack output band; the rung reads the hit. **An enhanced bolt is dodged at its actual velocity, not at its rung.**
 
-**Standing or spent.** A standing working on a blade lasts until it is broken, read or unmade and costs its maker a tenth of their reserve once; proofed armor a quarter, and it lasts until struck two rungs above its proof; an enhanced round or arrow a hundredth, and it is consumed when fired. **The rung is what one piece does; the price says how many pieces a maker can put in the field.** A lone practitioner can equip themselves; it takes a workshop of them to arm a host with cheap runed pieces, and no workshop now living makes the great ones.
+**Standing or spent.** A standing working on a blade lasts until it is broken, read or unmade and costs its maker a tenth of their reserve once; proofed armor a quarter, and it lasts until struck two rungs above its proof; an enhanced bolt or arrow a hundredth, and it is consumed when loosed. **The rung is what one piece does; the price says how many pieces a maker can put in the field.** A lone practitioner can equip themselves; it takes a workshop of them to arm a host with cheap runed pieces, and no workshop now living makes the great ones.
 
 **Material ceiling.** The material tier caps the rung for a standing working. **A piece whose recorded hit or discharge reads above its material's tier is placed at the hit, and its material is where it fails.**
 
@@ -666,10 +672,10 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 | Piece | kind | figure read | joules or Grade | material or stamp | **rung** |
 |---|---|---|---|---|---|
 | **Slyvine's Scarf** | relic, a rope or a weak shield | Proofed, Grade D | 1.5 × 10⁴ – 2.1 × 10⁷ J | T2 or above | **Linepiece**, as armor |
-| **Mkono wa Miti** | grown-in bracer, light natural armor | stops shot, blunt strikes and edges to the E-to-D band; fails against proofed shot | up to D | living bark | **Linepiece**, as armor |
+| **Mkono wa Miti** | grown-in bracer, light natural armor | stops bolts, blunt strikes and edges to the E-to-D band; fails against proofed bolts | up to D | living bark | **Linepiece**, as armor |
 | **Upanga wa Misimu Minne** | blade | cuts at its bearer's Ardency, 190, B; beats proofed plate through C | 1.046 – 46 GJ | greensteel | **Siegepiece** |
 | **Verdiction Gauntlet** | gauntlet, stored discharge | Ardency 268, B; 1 to 5 GN | 1.046 – 46 GJ | — | **Siegepiece** |
-| **Kogane Kei** | blade, channelled | its bearer's Ardency, 395, A; fails against S-Grade defenses | 46 GJ – 4.2 TJ | — | **Fieldwinner** |
+| **Kogane Kei** | blade, channeled | its bearer's Ardency, 395, A; fails against S-Grade defenses | 46 GJ – 4.2 TJ | — | **Fieldwinner** |
 | **Kurosetsu Reforged** | longsword | A-Grade Strike Force at full delivery | 46 GJ – 4.2 TJ | Aethersteel, effective T5 | **Fieldwinner**; material and hit agree |
 | **The Monochrome Helm** | helm, combat relic | Tier A | 46 GJ – 4.2 TJ | — | **Fieldwinner**, as armor |
 | **Amaranth Severance** | estoc, soulbound | a bonded wielder's output, A to S; beats proofed plate through A, fails against SS | A to S | blood-glass steel | **Fieldwinner** in an A-Grade hand, **Kingsarm** in an S-Grade one |
@@ -683,4 +689,4 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 
 ## Counterplay
 
-**The rung tells an opponent what the piece can do and, just as plainly, what it cannot.** A weapon's rung is its maker's ceiling or its wielder's, and the piece says which: a channelled blade is answered by the hand, a made one by its proof, and a relic in a stranger's grip still hits at its maker's Grade. Armor tells its own limit on its mark: **one rung above the proof breaks it, and two go through it as if it were not there.** Every enhancement radiates its working's signature, and a Harmonist reads the rung without touching the piece. The seam, the joint and the material's failure are where the answer lives; which one is the fight's business.
+**The rung tells an opponent what the piece can do and, just as plainly, what it cannot.** A weapon's rung is its maker's ceiling or its wielder's, and the piece says which: a channeled blade is answered by the hand, a made one by its proof, and a relic in a stranger's grip still hits at its maker's Grade. Armor tells its own limit on its mark: **one rung above the proof breaks it, and two go through it as if it were not there.** Every enhancement radiates its working's signature, and a Harmonist reads the rung without touching the piece. The seam, the joint and the material's failure are where the answer lives; which one is the fight's business.

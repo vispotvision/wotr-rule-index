@@ -7,7 +7,13 @@ tags:
 
 # VI. The Sixteen Temperance Stages (Part Sixteen)
 
-*"Temperance is not a buff. It is a confession of how much you've survived."*
+*"You call Temperance a buff. It is a confession of how much you've survived."*
+
+The Ruan Hall keeps its festival gongs for Lantern Night, and they have rung out of season exactly once. Ruan Ziyan, a physician of the hall, fifty-one years old and at Stage IV, known for a foul temper and good stitches, was lighting the third row of lanterns on the quay when a Well-spawn (a creature born where a Wellspring's Aether pools) the height of the granary came up out of the canal, its mask the green of old bronze, and every outer disciple in sight remembered an errand. She went at it with a lamp pole. She held it for as long as it took the bridge to clear, and then it took her left arm off at the elbow with something like a shrug, and she went down on her knees among the broken paper and the burning oil with nine rows of ancestral tablets watching through the hall doors. Those nearest heard her Crystal go, *kshh*, *kshh*, along every grudge she had ever kept. Her aura, a modest apple green all her life, split into three colors at once and roared up past the eaves, and every gong in the hall went off by itself.
+
+*GOOOOOOOOM.*
+
+She stood up laughing and sobbing, called the thing the son of a dead turnip in full archaic grammar, and broke its mask with the pole. The arm stayed gone, and for most of a year she wept at the sight of soup and could not be trusted with a needle, and the hall entered the night in its book under a title nine words long. A Guild roll writes all of that as Stage V, Splintering. Below are all sixteen under the tidy headings the Guild gives them, and a physician of the Ruan Hall has some notes on the word tidy.
 
 Each Stage is a qualitative transformation in the architecture of the Crystal (the Soul Crystal, the soul's organ of power). The Stages are not sequential achievements to be collected. They are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity. That pressure is brought to the break by three roads, crisis, seclusion before the Threshold, or tribulation, and most practitioners walk some of each; the Catalyst named under each Stage is the moment the break is met, whichever road led there. Each Stage alters how every stat behaves, not by adding numerical bonuses but by changing what the numbers are structurally permitted to mean.
 
@@ -21,7 +27,7 @@ The Crystal has opened. Essence (the soul's own power) stirs but cannot be direc
 
 ### Stage II — Welling (Tier 2 · Apprentice)
 
-Essence rises and spills before it can be contained. The practitioner feels the direction of their power but cannot control its volume. Techniques misfire regularly. The Aether Shell (the soul's outer layer, which passes power out into the world) is forming but porous. **Max Grade D. Ceiling 100.** *Catalyst* (the event that sets off the breakthrough)*:* first genuine contact with a Wellspring (a natural source of magical current) current under personal pressure.
+Essence rises and spills before it can be contained. The practitioner feels the direction of their power but cannot control its volume. Techniques misfire regularly. The Aether Shell (the soul's outer layer, which passes power out into the world) is forming but porous. **Max Grade D. Ceiling 100.** *Catalyst* (the event that sets off the breakthrough)*:* first genuine contact with the Aether of a Wellspring (one of the sixty types of Aether, each a source of power that also represents an alchemical principle and a spiritual transformation) under personal pressure.
 
 ### Stage III — Ascension (Tier 3 · Journeyman)
 
@@ -47,7 +53,7 @@ Dual sight. The soul sees itself from outside. The practitioner begins perceivin
 
 ### Stage VIII — Transcendence (Tier 6 · Master)
 
-The world is read as symbol. The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, a wound carried as structural damage and consciously processed into architecture. **The first true Domain forms**, a piece of the lattice that accepts the soul's signature. Techniques begin channeling forces larger than the individual. Ardency (the stat for raw power output) and Harmonics (the stat for drawing on outside Aether) undergo a qualitative shift as external power sources become structurally integrated. **Max Grade S. Ceiling 550.**
+The world is read as symbol. The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, a wound carried as structural damage and consciously processed into architecture. **The first true Domain forms**, a piece of the lattice that accepts the soul's signature. Techniques begin channeling forces larger than the individual. Ardency (the stat for raw power output) and Harmonics (the stat for pulling on outside Aether) undergo a qualitative shift as external power sources become structurally integrated. **Max Grade S. Ceiling 550.**
 
 ### Stage IX — Invocation (Tier 6 · Master)
 

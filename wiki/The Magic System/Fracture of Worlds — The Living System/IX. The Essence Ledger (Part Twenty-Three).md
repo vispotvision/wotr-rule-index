@@ -4,6 +4,16 @@ title: IX. The Essence Ledger (Part Twenty-Three)
 
 # IX. The Essence Ledger (Part Twenty-Three)
 
+The fire at Gull Strand took nine seconds, and a clerk had it on her slate before it started. Wu Jinbao of the Vermilion Lamp Hall, Stage III, twenty-two years old, in a gold sash and with teeth like a lord's plate, stood up on a beached fishing smack at the Strand brackets and announced to the whole beach that he would hold his full output for one whole minute and let any comer try him while he did it. The heralds cried it, the odds went up on a board, and Marget Pinch, who kept tallies for the Strand's net-menders and had never thrown a punch, asked the Measurewright (an assayer of souls and workings) in the judges' box for two figures off Wu's assay sheet, forty-two thousand and four thousand two hundred. She did a short sum and put her sister's dowry on nine seconds.
+
+He opened on the noon bell.
+
+*FWOOOOOM*
+
+His aura went up scarlet and gold, a column of it, the prettiest thing anyone on that strand had ever seen, and three parts in five of what he spent came off him as raw heat. Every stick of timber within a hundred and twenty-seven meters took light together: booths, bunting, the judges' box, the bookies' board with the odds still chalked on it. People on the sea wall three hundred meters off were slapping at their own faces. Seventeen died of it, and for the rest of their lives some hundreds carried marks across the nose and cheeks that the Strand still calls Wu's freckles. At nine seconds by the water clock the column stuttered and his color went thin as weak tea, and a net-mender called Big Ned, who had been standing in the shallows with an oar, waded up the burning beach and knocked him off the boat. The Hall paid for the fair, and Wu paid the Hall for thirty years. Marget Pinch bought four boats, and when anyone asked how she had known she told them she could divide.
+
+Her sum is the first line of this Part. A reserve divided by a rate is the time to empty, nine tenths of that is the time to Starvation (the floor at a tenth of the reserve, where the Traits begin to flicker), and the heat is everything η (the share of spent Essence that arrives as effect) lets go of. Every one of those figures can be had from a sheet, and any one of them can be used by whoever is standing across from the person it describes.
+
 > Four quantities run through every practitioner in the Continuum (the whole fabric of reality): a reserve in EU, a compression in EU/g, an output rate in AU/s, an efficiency η. The Grade ladder measures destruction in joules. This Part is the join. **One Essence Unit is one megajoule.** What follows is what that buys on the ladder, what a reserve costs to spend, how long it lasts at full output, how fast it comes back, and what can be done about all of it from the other side of a fight.
 
 ### The four quantities, and the fifth
@@ -53,7 +63,7 @@ Run the chain forwards from the cost, never backwards from a description. The EU
 
 ### The spine: joules → Grade → a tier from one to nine
 
-Every ladder in the Continuum (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armor) hangs on one spine, and the spine is already present twice over. Part Four gives each Grade a joule band. Part Five gives each Stage a Max Grade and a Tier of Standing (one of nine broad ranks grouping the sixteen Stages). Read the Max Grade column backwards and the thirteen Grades fall into the nine Tiers.
+Every ladder in the Continuum (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (one of the sixty types of Aether, each working on the Soul Crystal in its own way and carrying its own law) sites, weapons and armor) hangs on one spine, and the spine is already present twice over. Part Four gives each Grade a joule band. Part Five gives each Stage a Max Grade and a Tier of Standing (one of nine broad ranks grouping the sixteen Stages). Read the Max Grade column backwards and the thirteen Grades fall into the nine Tiers.
 
 **The nine rungs.** A Grade sits at the lowest Tier of Standing whose Stages can reach it.
 
@@ -86,7 +96,7 @@ The law runs through three fixed reference points: a Stage VIII Master at Level 
 **log₁₀ EU = 3.4202 + 0.012812 × Level.** A reserve multiplies by ten every 78.1 Levels, and by about 19 across each hundred-Level Band.
 
 A Stage X Realization practitioner at Level 355, Band IV, holds 90,000,000 EU, within four percent of the 93,000,000 this law gives at that Level.
-> **The Pythagorean reading, in-world.** The Measurewrights' (the assayers who measure souls and workings) old Harmonic faculty never accepted the Level axis and reads the same regularity as a ratio: each Band multiplies the reserve by a fixed interval, so the five Bands are five octaves of one string and the Crystal is a monochord being stopped shorter. They tune reserve gauges to intervals rather than to numbers and they are, in practice, no worse at it. **A school, not a mechanic.** The gauge reads what the arithmetic above says it reads, and the Harmonic faculty's error is in what they think it proves.
+> **The Pythagorean reading, in-world.** The Measurewrights' (the assayers who measure souls and workings) old Harmonic faculty never accepted the Level axis and reads the same regularity as a ratio: each Band multiplies the reserve by a fixed interval, so the five Bands are five octaves of one string and the Crystal is a monochord being stopped shorter. They tune their assay forks to intervals rather than to numbers and they are, in practice, no worse at it. **A school, not a mechanic.** The fork reads what the arithmetic above says it reads, and the Harmonic faculty's error is in what they think it proves.
 
 ### The bands
 
@@ -168,7 +178,7 @@ AU/s is a *rate*: how much Essence converts into active expression per second of
 |---|---|---|
 | Time to empty | EU reserve ÷ (AU/s) | seconds |
 | Time to Starvation | 0.9 × EU reserve ÷ (AU/s) | seconds, to the ten-percent floor |
-| Power drawn | AU/s × 1 MW | watts |
+| Power spent | AU/s × 1 MW | watts |
 | Power delivered | AU/s × η × 1 MW | watts |
 | Waste | (1 − η) × AU/s × 1 MW | watts, shed as heat, sound and light |
 
@@ -183,7 +193,7 @@ The drain times are a property of the two figures a practitioner carries, reserv
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 3,100 EU × 1 MJ | 3.10 GJ potential, 2.76 GJ deliverable |
-| Full output | 258.1 AU/s × 1 MW | 258.1 MW drawn, 229.7 MW delivered |
+| Full output | 258.1 AU/s × 1 MW | 258.1 MW spent, 229.7 MW delivered |
 | Time to empty | 3,100 ÷ 258.1 | 12.01 s |
 | Time to Starvation | 0.9 × 12.01 | 10.81 s, nearly two turns |
 | Waste | 0.11 × 258.1 MW | 28.4 MW |
@@ -203,7 +213,7 @@ Seven full broadcast suppressions and the practitioner is in Starvation (0.9 × 
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 92,000 EU × 1 MJ | 92.0 GJ potential, 91.1 GJ deliverable |
-| Full output | 3,900 AU/s × 1 MW | 3.90 GW drawn, 3.86 GW delivered |
+| Full output | 3,900 AU/s × 1 MW | 3.90 GW spent, 3.86 GW delivered |
 | Time to empty | 92,000 ÷ 3,900 | 23.6 s |
 | Time to Starvation | 0.9 × 23.6 | 21.2 s, three and a half turns |
 | Waste | 0.01 × 3.90 GW | 39.0 MW |
@@ -217,7 +227,7 @@ Seven full broadcast suppressions and the practitioner is in Starvation (0.9 × 
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 8.5 × 10⁸ EU × 1 MJ | 850 TJ potential, 740 TJ deliverable |
-| Full output | 1,566,000 AU/s × 1 MW | 1.57 TW drawn, 1.36 TW delivered |
+| Full output | 1,566,000 AU/s × 1 MW | 1.57 TW spent, 1.36 TW delivered |
 | Time to empty | 8.5 × 10⁸ ÷ 1,566,000 | 542.8 s (9 min 2 s) |
 | Time to Starvation | 0.9 × 542.8 | 488.5 s (8 min 8 s, eighty-one turns) |
 | Waste | 0.13 × 1.57 TW | 204 GW |
@@ -229,7 +239,7 @@ The large practitioner is a summoner, and each construct costs 5 to 15 percent o
 
 ### The clock across the ladder
 
-Illustrative reserves and AU/s, sorted by how long the reserve holds at full draw. Times to Starvation are at 90% of reserve spent; turns are six seconds.
+Illustrative reserves and AU/s, sorted by how long the reserve holds at full drain. Times to Starvation are at 90% of reserve spent; turns are six seconds.
 
 | t to empty | to Starvation | turns to Starvation | practitioner | EU | AU/s | η | waste |
 |---|---|---|---|---|---|---|---|
@@ -245,7 +255,7 @@ Illustrative reserves and AU/s, sorted by how long the reserve holds at full dra
 
 Every η here is the practitioner's own. The Tier ranges of Part Nineteen are typical, and a practitioner whose η stands outside their Tier's range stands as recorded.
 
-**The whole column is a clock.** Most reserves empty in under two minutes at full draw. The exceptions are the very largest reserves and the low-output ones built for long work: a Stage XII reserve of 180,000,000 EU drawn at about 10,010 AU/s is built for multi-hour forge work, and its two numbers say so.
+**The whole column is a clock.** Most reserves empty in under two minutes at full drain. The exceptions are the very largest reserves and the low-output ones built for long work: a Stage XII reserve of 180,000,000 EU spent at about 10,010 AU/s is built for multi-hour forge work, and its two numbers say so.
 
 ### What AU/s is not
 
@@ -253,7 +263,7 @@ AU/s is a **ceiling on the rate**, not a duty cycle. No practitioner runs at the
 
 ### Costs are a share of the reserve
 
-A working is priced as a share of the reserve it draws on, and the shares are large enough that a real fight reaches the ten-percent floor. The small practitioner's workings run 4.5 to 12.6 percent of the reserve apiece. The middle practitioner's branches run 3.0 to 9.7 percent, and the apex strike 8.0. The large practitioner's constructs run 5 to 15 percent. **A practitioner who commits to a fight spends in whole percents per exchange, and ten to twenty committed exchanges bring anyone to Starvation.** The absolute size of the reserve decides how large each working is; the share decides how long the practitioner lasts, and the share is what a scene tracks.
+A working is priced as a share of the reserve it spends from, and the shares are large enough that a real fight reaches the ten-percent floor. The small practitioner's workings run 4.5 to 12.6 percent of the reserve apiece. The middle practitioner's branches run 3.0 to 9.7 percent, and the apex strike 8.0. The large practitioner's constructs run 5 to 15 percent. **A practitioner who commits to a fight spends in whole percents per exchange, and ten to twenty committed exchanges bring anyone to Starvation.** The absolute size of the reserve decides how large each working is; the share decides how long the practitioner lasts, and the share is what a scene tracks.
 
 The cost can be permanent. A working may forfeit a permanent portion of the practitioner's own maximum reserve each time it is performed. Performed seven times, it takes seven portions that do not grow back, and the maximum reserve was higher before the first.
 
@@ -263,7 +273,7 @@ The cost can be permanent. A working may forfeit a permanent portion of the prac
 
 **AU/s = Flux Density × η.** The equation governs: a practitioner's output rate is their Flux Density multiplied by their efficiency.
 
-AU/s is Essence per *second* and Flux Density is Essence per *gram*, so the equation is read **per working gram per second**: the gram of Crystal engaged at the working aperture in each second of output. The gram goes unwritten because it is always one. It is not the whole Crystal. A Crystal of nine kilograms of Crystal and slag that reads as one structure, at a Flux Density of 670 million EU/g and η 0.61, outputs 408,700,000 AU/s, drawn through one gram of it at a time.
+AU/s is Essence per *second* and Flux Density is Essence per *gram*, so the equation is read **per working gram per second**: the gram of Crystal engaged at the working aperture in each second of output. The gram goes unwritten because it is always one. It is not the whole Crystal. A Crystal of nine kilograms of Crystal and slag that reads as one structure, at a Flux Density of 670 million EU/g and η 0.61, outputs 408,700,000 AU/s, passed through one gram of it at a time.
 
 ### Where the waste goes, and why it cannot go through the body
 
@@ -273,9 +283,9 @@ The missing fraction of every expenditure is wasted as **heat, noise and structu
 
 **ΔT = qL/k = 1.58 × 10⁷ × 0.003 / 0.4 = 1.2 × 10⁵ K.**
 
-across three millimetres, and that is the small practitioner. At the middle practitioner's 39.0 MW it is 1.63 × 10⁵ K; at the large practitioner's 204 GW it is 8.5 × 10⁸ K. Skin chars at about 200 °C.
+across three millimeters, and that is the small practitioner. At the middle practitioner's 39.0 MW it is 1.63 × 10⁵ K; at the large practitioner's 204 GW it is 8.5 × 10⁸ K. Skin chars at about 200 °C.
 
-**So the Soul Crystal is not a battery in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no waste heat, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does. Their aura still shows in its own color, and their strength can still be felt; it simply sheds nothing.
+**So the Soul Crystal is not a furnace in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no waste heat, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does. Their aura still shows in its own color, and their strength can still be felt; it simply sheds nothing.
 
 ### The tell, priced
 
@@ -289,19 +299,19 @@ The waste leaves the Shell as radiance, and Stefan–Boltzmann prices what it lo
 | Stage VIII, η 0.70 | 17.9 GW | 20,550 K | 843 m | 337 m |
 | the large practitioner, η 0.87 | 204 GW | 37,770 K | 2,846 m | 1,138 m |
 
-*Radius r = √(P / 4π · threshold).* At full output even the middle practitioner at η 0.99, wasting one percent, sets timber alight at fifteen meters. The large practitioner at full output burns at six and a half times the Sun's surface temperature, as hot as a blue O-type star, and an ignition radius of 1.14 kilometres reaches their own army and the ground they stand on; they can be seen working from the next valley.
+*Radius r = √(P / 4π · threshold).* At full output even the middle practitioner at η 0.99, wasting one percent, sets timber alight at fifteen meters. The large practitioner at full output burns at six and a half times the Sun's surface temperature, as hot as a blue O-type star, and an ignition radius of 1.14 kilometers reaches their own army and the ground they stand on; they can be seen working from the next valley.
 
-At the draw a working actually runs at, the tell is smaller and still there. The broadcast suppression at 48.75 AU/s and η 0.89 sheds 5.36 MW: a surface near 2,700 K, pain on bare skin to 14.6 m, timber catching at 5.8 m.
+At the drain a working actually runs at, the tell is smaller and still there. The broadcast suppression at 48.75 AU/s and η 0.89 sheds 5.36 MW: a surface near 2,700 K, pain on bare skin to 14.6 m, timber catching at 5.8 m.
 
 **This is the tell, and it is also the cost.** A practitioner at full output is a lamp, a furnace and a hazard to everyone within a stated radius, and the radius is on this table. A low-η practitioner throws more heat and glare for the same work. A high-η one sheds almost none: their aura still burns in its own color and brightens as they push, but it gives off no heat, which is why a cool, quiet aura is remarked on, and why one working in silence and in the cold should frighten an onlooker more, not less. The ladder of who is brighter than whom depends on *(1 − η) × output* and on nothing else. The tell does not end when the working does: scorched ground, a burned ring and a room still warm are the aftermath, and the aftermath is read like the working was.
 
 ### η above one
 
-Above 1.0 the Continuum recognizes the expression as law and **supplements it with ambient flow**; the environment becomes a co-author. **η above one is real.** It breaks no law, because the practitioner is not a closed system: the surplus comes from outside, the way a heat pump delivers three to five times its input by moving energy it did not make.
+Above 1.0 the Continuum recognizes the expression as law and **supplements it with ambient flow**; the environment becomes a co-author. **η above one is real.** It breaks no law, because the practitioner is not a closed system: the surplus comes from outside, the way a heat pump, a device the Measurewrights can reckon on a slate and nobody has ever built, delivers three to five times its input by moving energy it did not make.
 
-**The surplus is drawn from the Aether stratum, the room, not from the Crystal.** Of every 1.05 delivered at η 1.05, 0.05 is drawn in. At 9,870 AU/s and η 1.05 that is 4.76% of the 10.36 GW delivered, **494 MW taken from the stratum around the practitioner**, every second of full output, while their own Crystal pays only the 9,870 EU/s it would pay at η 1.00. Their reserve drains at the same rate as anyone's with the same AU/s; what the high η buys is delivered effect and a working that sheds nothing.
+**The surplus is pulled from the Aether stratum, the room, not from the Crystal.** Of every 1.05 delivered at η 1.05, 0.05 is pulled in. At 9,870 AU/s and η 1.05 that is 4.76% of the 10.36 GW delivered, **494 MW taken from the stratum around the practitioner**, every second of full output, while their own Crystal pays only the 9,870 EU/s it would pay at η 1.00. Their reserve drains at the same rate as anyone's with the same AU/s; what the high η buys is delivered effect and a working that sheds nothing.
 
-**The room pays, and the room shows it.** The stratum a practitioner above one draws on is measurably depleted, and it stays thinner after the working ends; passive recovery in that ground runs slower (see “How fast it comes back, and on what it depends”), for them and for anyone else who stands in it. That is the tell and it is also the counter: *starve the reservoir.* Aether-dead ground, a depleted site or a Silence Realm (a place where the Aether is dead) leaves nothing to supplement the expression with, and η falls back below one by definition.
+**The room pays, and the room shows it.** The stratum a practitioner above one pulls on is measurably depleted, and it stays thinner after the working ends; passive recovery in that ground runs slower (see “How fast it comes back, and on what it depends”), for them and for anyone else who stands in it. That is the tell and it is also the counter: *starve the reservoir.* Aether-dead ground, a depleted site or a Silence Realm (a place where the Aether is dead) leaves nothing to supplement the expression with, and η falls back below one by definition.
 
 ## Essence Starvation and recovery
 
@@ -330,7 +340,7 @@ The floor is ten percent of the practitioner's own maximum, not of the Tier's ce
 
 Traits come and go without pattern under Essence Starvation. A Trait is a standing bias maintained across the Shell, and **a Shell below its working reserve cannot maintain a bias**, so the law drops out and returns as the reserve moves. That is the Flicker.
 
-**Starvation has a direction, not only a line.** A store doing the same work through a falling density loses efficiency: a discharging cell's internal resistance rises, a draining capacitor's drive falls. So η falls as the reserve falls, and the waste fraction (1 − η) **rises at exactly the moment the practitioner can least afford it.** The Starved practitioner is brighter for the same work, sheds more, delivers less. Starvation does not begin at ten percent; it *becomes visible* there.
+**Starvation has a direction, not only a line.** A store doing the same work through a falling density loses efficiency: a millpond sinking behind its dam turns the wheel weaker, and a slackening bowstring throws the bolt shorter. So η falls as the reserve falls, and the waste fraction (1 − η) **rises at exactly the moment the practitioner can least afford it.** The Starved practitioner is brighter for the same work, sheds more, delivers less. Starvation does not begin at ten percent; it *becomes visible* there.
 
 **The reserve clock is the clock a fight runs on.** Because the waste is shed at the Shell and not carried by the body, a practitioner can spend down to the floor and past it, and a real fight does: at the shares of “Costs are a share of the reserve”, ten to twenty committed exchanges bring a practitioner to Starvation, and at full output the table in “The clock across the ladder” does it in turns.
 
@@ -338,9 +348,9 @@ Traits come and go without pattern under Essence Starvation. A Trait is a standi
 
 Recovery runs by three routes.
 
-**Passive Recovery** is the baseline absorption of ambient Essence without active effort, governed by **Tempering Yield** and **Harmonics Synergy**. It is faster near active Wellspring veins, slower in depleted or hostile environments, and negligible in Silence Realms.
+**Passive Recovery** is the the baseline pull of ambient Aether, refined in the Crystal into Essence, without active effort, governed by **Tempering Yield** and **Harmonics Synergy**. It is faster near active Wellspring veins, slower in depleted or hostile environments, and negligible in Silence Realms. Rich ground fills a Crystal faster and thin ground starves it.
 
-**Active Recovery** is deliberate absorption through meditation, Wellspring communion or alchemical treatment. It is significantly faster, but **requires the character to stop fighting and concentrate.** An alchemical treatment quickens the draw from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows.
+**Active Recovery** is deliberate absorption through meditation, Wellspring communion or alchemical treatment. It is significantly faster, but **requires the character to stop fighting and concentrate.** An alchemical treatment quickens the pull from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows.
 
 **Crisis Recovery** is a surge triggered by a soul-cost event, a Threshold completion or a genuine emotional breakthrough during combat. **It is not reliable and cannot be manufactured.**
 
@@ -376,9 +386,9 @@ Every figure in this Part is a figure someone can use against the person it desc
 **It has stated limits.** The Stage caps the reserve (see “The bands”). Reserve ÷ AU/s caps the duration (see “The drain”). The Stage's Max Grade caps the output (see “The spine: joules → Grade → a tier from one to nine”). The AU/s a practitioner carries is a burst ceiling, not a duty cycle (see “What AU/s is not”).
 
 **Something beats it, and it is one of the four routes.** *Deny the field. Break the boundary. Break the body. Break the man.* The Ledger arms the first and the third:
-- **Deny the field** (see “η above one”). A practitioner above η 1.0 is drawing on the room. Aether-dead ground, a depleted site or a Silence Realm takes the supplement away and η falls below one by definition. The same ground slows or stops the refill (see “How fast it comes back, and on what it depends”).
-- **Break the body** (see “The clock across the ladder”). Most reserves empty in under two minutes at full draw. **The whole column is a clock, and making an enemy spend is making the clock run.** Starvation lowers every stat a Grade and makes the Traits flicker; the practitioner who has spent is the practitioner who can be broken.
-**It has a tell.** Surface temperature, burn radius and the aftermath of scorched ground mark a practitioner shedding waste (see “The tell, priced”). A thinned stratum marks one drawing above one (see “η above one”). The Flicker is visible before the practitioner admits to it (see “What it costs”), and a Starved practitioner burns brighter for the same work.
+- **Deny the field** (see “η above one”). A practitioner above η 1.0 is pulling on the room. Aether-dead ground, a depleted site or a Silence Realm takes the supplement away and η falls below one by definition. The same ground slows or stops the refill (see “How fast it comes back, and on what it depends”).
+- **Break the body** (see “The clock across the ladder”). Most reserves empty in under two minutes at full drain. **The whole column is a clock, and making an enemy spend is making the clock run.** Starvation lowers every stat a Grade and makes the Traits flicker; the practitioner who has spent is the practitioner who can be broken.
+**It has a tell.** Surface temperature, burn radius and the aftermath of scorched ground mark a practitioner shedding waste (see “The tell, priced”). A thinned stratum marks one pulling above one (see “η above one”). The Flicker is visible before the practitioner admits to it (see “What it costs”), and a Starved practitioner burns brighter for the same work.
 
 **Its numbers stay in band.** Every reserve stands against its Stage's band (see “Where a reserve sits against its band”), including those that sit under it and those that stand past the gate.
 

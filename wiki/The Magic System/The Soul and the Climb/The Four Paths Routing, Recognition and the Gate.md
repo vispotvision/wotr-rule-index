@@ -8,21 +8,27 @@ tags:
 
 > Nobody chooses a Path. A Path is the name for what somebody has already been doing, said back to them by their own Crystal (the Soul Crystal, the organ that works magic), some years after it stopped being reversible.
 
+The Door Wager of Kell Harbor has been lost and won again in every bracket tavern in the four quarters. Lord Ormund Rusk, drunk on his own birthday, staked four thousand silver marks that no Stage VI fighter alive could get through his four new sea-gates, nine inches of banded bronze apiece with his arms on them in blue and gold, and the harbor turned out in its thousands to watch four people try.
+
+Big Una Ostrick of the Red Anvils walked up to the first gate and hit it, *DOOONG*, and hit it again, *DOOONG*, and on the ninth blow the bronze bowed in like a kicked pail and the hand she did it with came apart in five places, and she held the hand up to the crowd and roared. Master Bai Lüxian of the Nine Inkstones stood sixty paces off the second gate in a green robe and wrote on it from there, a line of characters burning across the metal until the hinges forgot what they were for. Sweet Robin Bellamy spoke to the keeper of the third gate for the length of a cup of wine, and the man opened up, wept, and later named a daughter after him. The fourth was Hyeon Do-sun, a thin porter from the Mahuo country whom nobody had bet on, who had sworn at nineteen that he would walk through that harbor's gate on the day his brother's ship came home. He sat down in front of the gate and did nothing at all. The crowd laughed until dusk and then went to bed. On the third morning the watch hauled that gate open for a battered cog with a man at the rail that everyone had believed drowned for seven years, and Hyeon got up and walked through. He had let his mother die without him to keep that vow. One-Ear Pask, who held the book, paid out on three and refused the fourth, and was still refusing it in front of a magistrate twenty years later.
+
+One door, four routes. The bracket crowds call them hitters, throwers, talkers and stayers, and the Crystal's words are Body, Spirit, Attraction and Fate.
+
 ## I. What a Path Is
 
 A working has to get from a soul to the world, and there are four routes. **A Path is the route a Crystal has habitually taken**, hardened by repetition into the route it takes best and, eventually, into the only one it takes well.
 
 Body Path routes through the Physical Plane (the material world, one of the three planes a soul spans) first, where gravitational interaction is native rather than translated. Spirit Path routes through projection and inscription. Attraction Path routes through bond and recognition. **Fate Path does not route force at all**, which is why the force tables name only three Paths and why the fourth is the one nobody teaches.
 
-This is not temperament and it is not a school. Two practitioners with identical Wellsprings (the natural sources of magic each has tuned to), identical training and identical Stage will produce different results on the same problem, and the difference is which plane's logic their Essence (the soul's own stuff of power) passed through on the way out.
+Temperament has nothing to do with it and neither does a school. Two practitioners with identical Wellsprings (the types of Aether each has tuned to), identical training and identical Stage will produce different results on the same problem, and the difference is which plane's logic their Essence (the soul's own stuff of power) passed through on the way out.
 
 ## II. Recognition, Not Declaration
 
-**Path commitment is not declared. It is recognised.**
+**A Crystal recognizes Path commitment, and nobody gets to declare it.**
 
 The Crystal reads behavioral pattern: the consistent routing of Essence through one plane's logic over time. A practitioner who has fought exclusively through Body Path mechanics for three full Bands (blocks of a hundred Levels) has genuine Body Path alignment regardless of what they claim, what they were trained as, or what their house registered them under.
 
-And the reverse holds, which is where careers stall. A practitioner who has occasionally used Spirit techniques while routing primarily through physical expression **will find Spirit-aligned Sub-Stats (the finer stats beneath each main stat) quietly resisting advancement beyond C-Grade (a middling rank on the E to EX scale)** until the actual pattern of use reflects commitment. Nothing announces this. There is no refusal, no failure, no diagnosis. There is simply a ceiling that arrives earlier than it should and does not move.
+And the reverse holds, which is where careers stall. A practitioner who has occasionally used Spirit techniques while routing primarily through physical expression **will find Spirit-aligned Sub-Stats (the finer stats beneath each main stat) quietly resisting advancement beyond C-Grade (a middling rank on the F to EX+ scale)** until the actual pattern of use reflects commitment. Nothing announces this. There is no refusal, no failure, no diagnosis. There is simply a ceiling that arrives earlier than it should and does not move.
 > **This is the single most misdiagnosed condition in the trade.** A practitioner stalled at C-Grade on a Sub-Stat they use constantly assumes insufficient training, insufficient Essence, insufficient talent, and buys accordingly.
 >
 > *What they have is a Crystal that has been watching them for a decade and does not agree with their account of themselves.* **The instructors who can identify this on sight charge what they charge for exactly one reason.**
@@ -33,9 +39,9 @@ And the reverse holds, which is where careers stall. A practitioner who has occa
 
 **Spirit Path.** A moderate bonus to Strike Force delivered through Aetheric projection, five to twenty-five per cent, and no bonus at all to force delivered by hand. Some configurations take a slight penalty there. **They hit hardest at range and their force holds coherence across distance where Body Path force does not.** Durability bonus is negligible and replaced by precision in defensive deployment, which means they survive through correct response rather than absorption. A Spirit Path practitioner who is caught out of position is in more trouble than any other Path in the same situation.
 
-**Attraction Path.** The smallest direct bonus to Strike Force and Durability and the largest to Range, Aura Pressure, and the interaction between force and Domain (a region where the world runs on the practitioner's terms) authority. Their projected force degrades least over distance and their presence extends across the largest volume. **Inside a formed Domain, Attraction Path amplification can exceed the Body Path's raw advantage outright.** Outside it, Body Path remains king, and every Attraction Path practitioner alive has organised their entire life around that sentence.
+**Attraction Path.** The smallest direct bonus to Strike Force and Durability and the largest to Range, Aura Pressure, and the interaction between force and Domain (a region where the world runs on the practitioner's terms) authority. Their projected force degrades least over distance and their presence extends across the largest volume. **Inside a formed Domain, Attraction Path amplification can exceed the Body Path's raw advantage outright.** Outside it, Body Path remains king, and every Attraction Path practitioner alive has organized their entire life around that sentence.
 
-**Fate Path.** No force modifier. What Fate gates is not output but permission: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Gravity, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
+**Fate Path.** No force modifier. What Fate gates is permission, and output never enters into it: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Gravity, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
 
 | Path | Routes through | Buys | Costs |
 |---|---|---|---|
@@ -55,17 +61,17 @@ Fortitude needs Body at Stage III to pass C. Alacrity needs Spirit at Stage III 
 
 This is the part the teaching literature has never joined up, and everything below follows from it.
 
-**A Trait forms when lived experience hardens into a statement the Continuum (the lawful fabric of reality) accepts as reliable.** It is survived into existence rather than chosen, and the Crystal recognises it rather than being told.
+**A Trait forms when lived experience hardens into a statement the Continuum (the lawful fabric of reality) accepts as reliable.** It is survived into existence rather than chosen, and the Crystal recognizes it rather than being told.
 
-**A Path is recognised the same way, off the same evidence.** Consistent routing over time, read as pattern, accepted as commitment.
-> **So a Path is not a fifth thing beside a soul's Traits. A Path is what a soul's Traits have in common.**
+**A Path is recognized the same way, off the same evidence.** Consistent routing over time, read as pattern, accepted as commitment.
+> **So a Path is what a soul's Traits have in common, and no fifth thing standing beside them.**
 >
 > Traits form one at a time, each out of its own survived experience. **The Path is the direction they turn out to be pointing when there are enough of them to have a direction.** Nobody notices it happening. It is noticed afterward, in the shape of a gate that opens easily or a gate that will not open at all.
 >
 > *Which is why Path commitment cannot be faked and cannot be bought. A Draft can seed a lattice. It cannot supply ten years of having been the sort of person who does that.*
 The consequences are immediate and they explain several things the registers record without explaining.
 
-**A practitioner's Path is legible from their Traits before it is legible from their record.** A physician reading Trait tissue is reading Path alignment a decade before the Crystal has finished recognising it, which is why house physicians are paid what they are paid and why their assessments are not shown to the subject.
+**A practitioner's Path is legible from their Traits before it is legible from their record.** A physician reading Trait tissue is reading Path alignment a decade before the Crystal has finished recognizing it, which is why house physicians are paid what they are paid and why their assessments are not shown to the subject.
 
 **Traits that point one way produce a specialist.** Traits that point three ways produce someone genuinely capable at everything and gated out of the high grades on all of it. **This is the mechanism of Tempering Ceiling**, stated in the vocabulary of behavior rather than of stats.
 
@@ -76,32 +82,32 @@ A Threshold is a melt, and a melt cools into order only around Traits, because a
 **Seeds that share a Path cool clean.** They agree about which plane's logic the new lattice should favor, and the lattice sets one way throughout. That is the clean seat, and it is why thaumaturgic (acting by instinct, before conscious thought) architecture is narrow and deep.
 
 **Seeds that pull across Paths cool rough.** The lattice records the disagreement permanently and the practitioner comes out with genuine capability on two routes and full commitment on neither.
-> **A rough seat is cross-Path Trait architecture, and this is why rough-seated practitioners are unpredictable rather than weak.** They are not damaged. They are two arguments held in one lattice, and an opponent reading them for a Body Path pattern is reading a man who is also, honestly and simultaneously, something else.
+> **A rough seat is cross-Path Trait architecture, and this is why rough-seated practitioners are unpredictable rather than weak.** Nothing in them is damaged: they are two arguments held in one lattice, and an opponent reading them for a Body Path pattern is reading a man who is also, honestly and simultaneously, something else.
 >
 > *The halls cap a rough seat at Tier Four on certification. The halls are protecting the certificate rather than the practitioner, and several of the most feared individuals in the four quarters are catastrophically rough-seated.*
 And the failure case follows. **A melt with no adequate seed cools amorphous**, which is a Dead Set. A soul that has never committed to a route has nothing for the new lattice to grow around, which is why the practitioners most likely to come out slag are the ones who spent their whole careers keeping their options open.
 
-## VII. Fate Is Recognised Differently
+## VII. Fate Is Recognized Differently
 
-The other three Paths are demonstrated by routing Essence. Body Path is proved by hitting things and being hit. Spirit Path by projecting and inscribing. Attraction Path by binding and being recognised.
+The other three Paths are demonstrated by routing Essence. Body Path is proved by hitting things and being hit. Spirit Path by projecting and inscribing. Attraction Path by binding and being recognized.
 
 **Nothing a practitioner does in a fight demonstrates Fate.**
 
-Read what Fate actually gates and the pattern is not about force at all: **Persistence. Continuity. Maturity. Anchoring. Ward. Sovereignty. Throne.** Every one of them concerns what goes on being true after the moment that made it true has passed.
-> **Fate commitment is recognised by what a soul refuses to let end.** A vow kept past the point where keeping it costs everything. A bond maintained across a death. A claim held for a century by somebody who could have put it down. **The Crystal reads continuity under pressure, and there is no drill that produces it and no instructor who can assign it.**
+Read what Fate actually gates and force drops out of the pattern altogether: **Persistence. Continuity. Maturity. Anchoring. Ward. Sovereignty. Throne.** Every one of them concerns what goes on being true after the moment that made it true has passed.
+> **Fate commitment is recognized by what a soul refuses to let end.** A vow kept past the point where keeping it costs everything. A bond maintained across a death. A claim held for a century by somebody who could have put it down. **The Crystal reads continuity under pressure, and there is no drill that produces it and no instructor who can assign it.**
 >
 > *This is why Fate Path practitioners are rare in armies and common in orders, why the great houses cannot manufacture one however much they spend, and why the Vow Clause is the only instrument in the world that reliably produces Fate alignment: a vow kept is continuity, performed daily, for years, in front of a Crystal that is counting.*
-It is also why **no Choir of the Celestial Host carries Fate Path at any weight.** A Celestial's Crystal is externally anchored, drawing its current from another's Throne rather than growing its own, and a being wired that way has never once had to hold anything by itself. The Grand Angel threshold and the Fate gate are the same gate, and Faisal spent eleven thousand years walking through it.
+It is also why **no Choir of the Celestial Host carries Fate Path at any weight.** A Celestial's Crystal is externally anchored, pulling its power from another's Throne rather than growing its own, and a being wired that way has never once had to hold anything by itself. The Grand Angel threshold and the Fate gate are the same gate, and Faisal spent eleven thousand years walking through it.
 
 ## VIII. The Unawakened Have Paths Too
 
-A Class Ø (never-woken) soul has Traits, refines by the Weathering (the slow hardening hard living gives a soul, without magic), and hardens along the direction it was already being used. **Grain is single-axis by definition**, which makes a weathered soul functionally single-Path with no waking Crystal to recognise it and no gate for the recognition to open.
+A Class Ø (never-woken) soul has Traits, refines by the Weathering (the slow hardening hard living gives a soul, without magic), and hardens along the direction it was already being used. **Grain is single-axis by definition**, which makes a weathered soul functionally single-Path with no waking Crystal to recognize it and no gate for the recognition to open.
 > *A forty-year mason is Body Path. A forty-year midwife is Attraction Path. Neither will ever be told, neither would know what the words meant, and the alignment is as real as any registered practitioner's and considerably more consistent.*
 The screening apparatus reads Crystals. **The Derivation Index, the coil (the assay instrument that reads a Crystal), the Refinement Spectrum and the Tiered Path all measure a Path by measuring output**, and a soul with no output returns nothing on any of them. This is the same blind spot four separate registers carry, and it is one blind spot rather than four.
 
 ## IX. Drift
 
-**Tempering Coherence is the alignment between a practitioner's Path and their lived behavior**, and it is the structural prerequisite for Threshold eligibility. A soul whose routing has drifted from its recognised Path is not punished. It is simply not authorised.
+**Tempering Coherence is the alignment between a practitioner's Path and their lived behavior**, and it is the structural prerequisite for Threshold eligibility. A soul whose routing has drifted from its recognized Path receives no punishment and no authorization.
 
 The presentation is slow and unmistakable to anyone who has seen it before. Output falls with no injury behind it. Gated Sub-Stats stop moving. A Threshold that should have come does not come, and the practitioner is quantitatively ready for years. **Traits begin to argue with their bearer**, because a Trait is a standing law and the bearer has started living against it.
 > **Nothing corrects this except changing what the person actually does.** Instruction does not touch it. Expenditure does not touch it. A Draft seeds a lattice and cannot seed a decade of conduct.
@@ -110,7 +116,7 @@ The presentation is slow and unmistakable to anyone who has seen it before. Outp
 
 ## X. How It Reads
 
-**On the page, a Path is a habit of body before it is anything else.** The Body Path practitioner closes without deciding to. The Spirit Path practitioner backs off half a step and is already reading. The Attraction Path practitioner speaks first and the room reorganises. **The Fate Path practitioner does not move at all, and whatever they said last week is still true.**
+**On the page, a Path is a habit of body before it is anything else.** The Body Path practitioner closes without deciding to. The Spirit Path practitioner backs off half a step and is already reading. The Attraction Path practitioner speaks first and the room reorganizes. **The Fate Path practitioner does not move at all, and whatever they said last week is still true.**
 
 The names may stand anywhere, in a mouth, an instrument, a document or the plain telling. **The effects come first, always, as behavior and physics**, and a telling that can only say which Path somebody is has not shown it.
 > *An opponent who has correctly identified a Path knows what the other man cannot do. That is the whole of the read, and it is worth more than knowing any technique he has.*

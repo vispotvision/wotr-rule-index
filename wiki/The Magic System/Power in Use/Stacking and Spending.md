@@ -4,6 +4,18 @@ title: Stacking and Spending
 
 *How power-ups add together, and how a practitioner's reserve shows as it runs down. For the whole system in brief, see How Magic Works.*
 
+> *"Two layers is a gamble veterans take. Four is a story told about the dead."* The Guild's own rule of thumb, and Cullen Fair's favorite thing to shout at it.
+
+Sigrun Ox-Hand told the whole of Cullen Fair that she would lift the miller's ox with the cart still hitched to it and the miller still in the cart, and the fair gave forty to one against. She was Stage V (fifth on the soul's sixteen-step ladder), a drover's daughter with Caloria (heat) Essence, and half the county had come to see her lose. She gathered her coat (her own aura, laid over the body) into her shoulders until they glowed ember-orange through her shirt. She swore aloud, with the priest as witness, that she would not set that ox down until the sun went behind the church, and she had picked her moment, since the sun was already sitting on the roof ridge and a sun takes about four minutes to get behind a roof. She drank a lifting Draft (a bottled working that pushes a stat) with her teeth and spat the cork at the bookie. Then she got under the axle and bawled **HEARTH-BACK** at the sky, a surge within the band for one beat's cost, and up it all came, ox, cart, miller and the miller's opinions, *hrrrrrnk*, with half the county howling and the bookie sitting down in a puddle.
+
+That was four layers. For the first minute the crowd cheered the steam coming off her. In the second the blood started, from the nose, from the corners of the eyes, and with the last red sliver of the sun still showing the orange began to go, *tik, tik-tik*, bright lines running through it like the crazing on an old glaze, and everyone in the crowd with a day's training had stopped cheering and started shouting at the sun. She held it to the minute, because a vow is a vow.
+
+***KRRRSSHK.***
+
+They heard the aura go at the far end of the horse lines. The ox, I am pleased to report, landed well. She lived, she collected six hundred gold at her bedside from a very quiet man, and for the rest of her days she could not light a pipe without her hand jumping. Asked whether it had been worth it, she bought the fair.
+
+Everything she did is on this page, in order.
+
 ## What it is
 
 ![[Assets/Diagrams/stacking.svg]]
@@ -20,7 +32,7 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 | **An overchannel** (forcing the Crystal past its safe ceiling, unshaped) | Two to five times sustainable force for a moment | Yes, and always damages |
 | **Help from outside**: an ally's working, a standing array, a Domain (a space where one soul's law outranks the world's) someone else holds | Whatever the helper can give | **No.** It stacks freely and adds no risk to the one receiving it |
 
-**The stack line.** Every registered card carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way a gunner reads a range table.
+**The stack line.** Every registered card carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way an engine-master reads the marks on a trebuchet's arm.
 
 ## How it looks
 
@@ -32,7 +44,7 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 |---|---|
 | **Half** | The breath shortens and stays short between exchanges. The aura dims, as if a hand had cupped the lamp. |
 | **A quarter** | A tremor in the hands and the knees. The color thins: the hue washes toward gray and the edges of the aura fray. |
-| **A tenth** | The aura flickers on and off like a lamp on a failing main (a city's Aether supply line). Traits (the soul's standing laws) stutter: a working comes out late, or half, or not at all. Below this is Starvation, where stats sag and the Crystal's outer layer degrades. |
+| **A tenth** | The aura flickers on and off like a lamp on its last spoonful of oil. Traits (the soul's standing laws) stutter: a working comes out late, or half, or not at all. Below this is Starvation, where stats sag and the Crystal's outer layer degrades. |
 
 **Maxing out.** A Crystal pushed to its ceiling and past it shows heat first, a fever-flush and steam off wet clothes, then blood: from the nose, the corners of the eyes, the gums. Last, the aura cracks. Bright fault-lines run through the color like crazed glass, and every trained eye in the room knows what they are.
 

@@ -4,6 +4,14 @@ title: Runes and Tags
 
 *Runecraft in the hand and on the field: runed gear, prepared tags, bonded weapons, and runes cut into living bodies. For the whole system in brief, see How Magic Works.*
 
+> *"Check the seal, check the date, check who sold it to you, and then stand well back."* Painted over the door of the tag-sellers' row at Skelby, since the events described below.
+
+Nobody in Skelby calls it anything but the Long Noon. A back-alley tag seller known as Cheap Perrin sold a drover named Dob Lumley an unstamped flash tag for one silver, and Dob slapped it on the door of his brother-in-law's privy for a laugh. It went *pssshh* and lit up white, as advertised, and then, because the seal had been cut by somebody's nephew, it did not stop.
+
+It burned for thirteen days and thirteen nights. There was noon over Tanner's Row at midnight, hard and white and throwing shadows the wrong way down the street. The cocks crowed until they lost their voices, the bees came out at the second bell and worked till they dropped, the burglars of the quarter had a ruinous season, and pilgrims walked in from three valleys to pray at a privy. The lamp-wardens (the living craftsmen who keep a town's runed lamps cut, paid by the street) demanded triple to walk the round, on the grounds that nobody could prove they had done anything. It took that long because the first Engraver refused, the second wanted the Guild's fee in advance, and the third, Mistress Alys Thorne of the chartered cutters, finally went up to it with a chisel and a smoked glass and cut across the line. It cost her the sight of the left eye. Cheap Perrin sold the rest of his book the following week at double the price, as the man whose tags really work.
+
+The door is in the Guild's strongroom at Altherion and is still warm, and for a copper the porter will let you hold your hand near it. Every word below is what Dob Lumley ought to have known.
+
 ## What it is
 
 Runecraft (the cutting: a working written in Parun, the glyph grammar of all magic, into a substance so that it holds without its maker) is the craft the guilds rank highest and the one a fighter carries most. It reaches the field in four forms, from the common to the very rare.
@@ -17,15 +25,15 @@ Runecraft (the cutting: a working written in Parun, the glyph grammar of all mag
 
 ## How it looks
 
-**Runed gear.** Lamps that burn without oil, stove plates, door wards in a clerk's house, a knife that holds its edge, a coat that sheds rain, a lock that knows its key. The cuts are fine and shallow, stamped with a cutter's mark and an excise seal, and often repaired, worse each time. The great pieces are another matter: a gate-array, a sword that has killed in nine wars, a ward under a fortress. They are all old, several can no longer be fully read, and nobody living can make another, because what was lost was the condition the old cutters worked in, not their skill.
+**Runed gear.** Lamps that burn without oil, stove plates, door wards in a clerk's house, a knife that holds its edge, a coat that sheds rain, a lock that knows its key. The cuts are fine and shallow, stamped with a cutter's mark and an excise seal, and often repaired, worse each time. All of it was cut by a living hand and is kept up by one: lamp-wardens walk their paid rounds re-cutting worn lamps, ward-cutters charge by the doorframe, and when either of them goes on strike or decides your street owes them money, your street finds out what the dark looks like. The great pieces are another matter: a gate-array, a sword that has killed in nine wars, a ward under a fortress. They are all old, relics of the Great Spirit War and the days of the Physical Epochs that people still kill for, several can no longer be fully read, and nobody living can make another, because what was lost was the condition the old cutters worked in, and no amount of skill brings that back.
 
-**Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a fuse. The user presses it to a surface or slaps it onto a body and pushes Essence (their own power) into it with the thumb; it flares in the user's color, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
+**Prepared tags.** A strip a finger long, cut with a short sentence and its seal: a flash, a smoke, a binding, a ward on a doorway, a spark to light a torch. The user presses it to a surface or slaps it onto a body and pushes Essence (their own power) into it with the thumb; it flares in the user's color, makes its own small sound, and works. Fighters carry them in belt-books, sleeve-cuffs and hat-bands. Every tag runs on one of three fuels, and the fuel is written on the strip for anyone who can read it:
 
 | Fuel | How it works | Its weakness |
 |---|---|---|
-| **Ambient** | Drinks the Aether (the world's medium of power) of the place it is set. Cheap and quiet to carry | Dies in thin ground, behind a cut main (a district's Aether supply line), or in Silence (a region where magic cannot be worked) |
-| **The user's reserve** | Draws its force from the one who sets it off. The stronger the user, the stronger the tag | Costs the user, mid-fight |
-| **The maker's charge** | Carries Essence the maker stored in it. Works anywhere, at the maker's strength | Dear, and goes stale, as enhanced shot does |
+| **Ambient** | Drinks the Aether (the world's medium of power) of the place it is set. Cheap and quiet to carry | Dies on thin, salted or bled ground (Aether-poor by nature, worked against pooling, or pulled empty), beside a Core (a Wellspring site, in common speech) whose keepers have closed it, or in Silence (a region where magic cannot be worked) |
+| **The user's reserve** | Takes its force from the one who sets it off. The stronger the user, the stronger the tag | Costs the user, mid-fight |
+| **The maker's charge** | Carries Essence the maker stored in it. Works anywhere, at the maker's strength | Dear, and goes stale, as an enhanced bolt does |
 
 Only practitioners can use a tag. The working waits for a woken Crystal (the soul's organ of power) to close it, and a sealed Crystal cannot. That is why the commoner's magic is the bottle and not the strip. Licensed cutters, Engravers under the Accord's mark, make them, and a black market sells unstamped ones beside every hall.
 
@@ -53,8 +61,8 @@ Only practitioners can use a tag. The working waits for a woken Crystal (the sou
 
 ## How it is beaten
 
-- **Damage the substrate.** A tag is paper or foil: tear it, wet it, burn it, smear the ink. A ward is beaten by chiselling it, or by bringing down the wall it sits on.
-- **Starve the ambient tag.** Fight on thin ground, behind a cut main, or in a Silence, and every ambient tag on the belt is a strip of paper.
+- **Damage the substrate.** A tag is paper or foil: tear it, wet it, burn it, smear the ink. A ward is beaten by chiseling it, or by bringing down the wall it sits on.
+- **Starve the ambient tag.** Fight on thin, salted or bled ground, beside a closed Core, or in a Silence, and every ambient tag on the belt is a strip of paper.
 - **Make them pay.** A reserve tag costs its user Essence. A fighter who sets off three of them has spent what he needed for his coat.
 - **Strike the beat.** Pressing a tag takes a hand and a moment. Pin the hand.
 - **Check the date.** Charged tags go stale. A raider with an old book is carrying blanks and does not know which.
@@ -65,4 +73,4 @@ Only practitioners can use a tag. The working waits for a woken Crystal (the sou
 
 **Elsie Marrow**, a Stage II hired hunter, goes into a flooded mill after a Well-spawn (a creature born out of a Well) with a belt-book of six tags. Two are ambient flash tags at 2 silver each; two are reserve binding tags at 5 silver; two are charged ward tags, 1 gold apiece, cut by a Journeyman she trusts.
 
-The mill's main was cut a decade ago and the Aether in the wet stone is thin: her first flash tag sputters and dies on the wall. She knew it might. She slaps a reserve binding on the spawn's foreleg, it takes a long breath of her own Essence and flares a dull char-dark with warmth under it, and the leg locks. The second binding she cannot afford; her reserve is near half and she still needs her coat. She sets the two charged wards on the doorway behind her instead, and they run at her Journeyman's strength, not hers, which is the whole reason she paid a gold mark for each. The spawn hits the ward and stops.
+The mill's ground was bled a decade ago, when a sect ran its novices there for a season, and the Aether in the wet stone is thin: her first flash tag sputters and dies on the wall. She knew it might. She slaps a reserve binding on the spawn's foreleg, it takes a long breath of her own Essence and flares a dull char-dark with warmth under it, and the leg locks. The second binding she cannot afford; her reserve is near half and she still needs her coat. She sets the two charged wards on the doorway behind her instead, and they run at her Journeyman's strength, not hers, which is the whole reason she paid a gold mark for each. The spawn hits the ward and stops.

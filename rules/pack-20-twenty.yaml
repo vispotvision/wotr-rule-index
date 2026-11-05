@@ -832,7 +832,7 @@ rules:
     pack_number: 20
     section: "R20C-41"
     title: "Chantcraft is the fifth craft, Ars Cantus its medium-home"
-    status: live
+    status: superseded
     kind: definition
     summary: "Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded."
     verbatim: "Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded."
@@ -889,7 +889,7 @@ rules:
     pack_number: 20
     section: "R20C-44"
     title: "Runecraft versus Spellcraft varies by culture"
-    status: live
+    status: superseded
     kind: definition
     summary: "Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have."
     verbatim: "Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard."

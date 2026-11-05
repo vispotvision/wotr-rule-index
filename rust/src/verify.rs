@@ -583,10 +583,8 @@ pub fn run(text: &str, o: &Opts) -> Result<Res, String> {
 
     // --- readouts and stale devices
     let ro = readouts(&body);
-    if ro > 0 && o.combat {
-        warns.push(format!("readouts: {ro} in a fight; no readouts inside a fight, only at a breakthrough, a re-assay or an arc's end (R79-6-FIGHTS_ON_THE_PAGE)"));
-    } else if ro > 0 {
-        info.push(format!("readouts: {ro} (R70-86-MANY_READOUTS_SCENE_CARRIES, R79-6-FIGHTS_ON_THE_PAGE)"));
+    if ro > 0 {
+        info.push(format!("windows: {ro} (R84-1-WINDOWS, R84-2-WINDOW_NUMBERS)"));
     }
     for (name, r) in stale() {
         let hits: Vec<(&String, Match)> = narr_sents.iter().filter_map(|x| first(r, x).map(|m| (x, m))).collect();

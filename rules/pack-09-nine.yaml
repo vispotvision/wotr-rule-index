@@ -12,7 +12,7 @@ rules:
     pack_number: 9
     section: "PART ONE"
     title: The four-media Craft structure is confirmed canon
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as
@@ -137,7 +137,7 @@ rules:
     pack_number: 9
     section: "PART TWO"
     title: Which craft word a mouth reaches for is class-marking
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Which word a character uses for a craft is characterisation: an

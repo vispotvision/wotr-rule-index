@@ -1,0 +1,7 @@
+{
+  "context": "Isaac, 2026-11-05: a bigger questionnaire on the wider magic system, after tonight's rulings: Wellsprings as lenses, Fate as probability and blessings, monster cores and Essence Drafts, Traits growing with Level, the Catalyst rule dropped, titles as trust, Grade and Rarity on items. Samples are invented for the questionnaire and are not canon.",
+  "sections": ["the climb", "wellsprings and typology", "fate and blessings", "traits and skills", "monsters and cores", "the sheet and the numbers", "crafts", "the world's response"],
+  "batches": {
+    "batch1": ["what_keeps_stages_earned", "how_you_get_a_wellspring", "typology_doubling", "who_can_use_fate"]
+  }
+}

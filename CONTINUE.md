@@ -6,6 +6,28 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-05 (R84 and the Inner World redo)
+
+Isaac's magic system questionnaire is law: R84-1 to R84-24 in `rules/doc-directions-2026-11-05-sheet.yaml`, answers in `imports/drafts/magic-system-questionnaire/answers.json`, Natalie's section THE SHEET AND THE CLIMB. Windows on the page, Stages for sale, Aether Classes, Trait levels, skills, Grade and Rarity on items, dungeons, monster cores, blessings that can lie, named crafts removed. Other rulings the same night in RULINGS.md: the Guild Accord as a coalition of guilds with titles as trust; Fate as the control of Attraction and Obsession and of probability; Wellsprings as lenses.
+
+The Inner World is redone in `imports/drafts/inner-world-redo/KINGDOMS.md` (law for the map, 25 realms, his art in `art/`, not yet in `wiki/`): the Northern Empire of Whitemere, a Center around the Scourge of Hell, a South left by Sum-gol's fall. Dawi replaced by the Marrowkin; Nalūn, Ketsuen, Stannvaard and Anguz gone as states. Staged pages are in `imports/drafts/wiki-rewrite/inner/` and not committed. Update pass running; after it: check, install with art as banners and credits, retire the old state pages, resolve the sweep's list in `imports/drafts/wiki-rewrite/inner_reports.json`.
+
+Installed and live: section one, section two (material culture), the rest of the public wiki except Inner World and Dawi pages. Staged, not installed: `imports/drafts/wiki-rewrite/library/` (Disciplines with grand names, awaiting his word; Saba no Rosa keeps its name).
+
+Owed next: the combined rewrite of the magic pages, Accord, items, Drafts and Fate to R84; docs still saying no readouts (wotr-write, wotr-stat-line, scene-pipeline, Combat Craft Guide); restart MCP services for the verify change; card conversion with the R82 rollout; draw language in scenes (Chapter Eighteen undecided).
+
+Open with Isaac: does the Fall still stand; is Dawi the old name of the Marrowkin or a clean break; library names; Marrowkin look.
+
+## State on 2026-11-05 (wiki rewrite, section one done)
+
+R83-13's rewrite runs section by section through a Workflow: agents edit copies under `imports/drafts/wiki-rewrite/`, never `wiki/`, because `wotr-sync.timer` commits and publishes wiki/ every 15 minutes. The brief is `imports/drafts/wiki-rewrite/BRIEF.md`; reuse it for later sections. After a run, compare against the originals (lost numbers, retired terms, links), install, then run `wotr-mcp validate`.
+
+Done: The Magic System (59 pages) and Ages and Reckoning (5 pages), 162k words to 197k. The Imperial Age: Aether Infrastructure became Who Pays for the Lamp: The Living Crafts. Calls logged as agent rulings in RULINGS.md, reports in `imports/drafts/wiki-rewrite/magic_reports.json`. Isaac ruled the same night that wiki documents carry no onomatopoeia; 111 sound words came out of these pages and the brief now forbids them. Documents only: scenes, fights and RP keep NATALIE's Onomatopoeia section and R81-10.
+
+Owed next: material culture (What Things Cost, Apparatus of the Age, Works and Days, Shot and the Enhanced Weapon, News, Rumour and the Speed of Information, Alchemetrica, The Real Alchemy, the Alchemical Index); C-164's pages (The Long Reading, The Moto Bloodline, The Moto Origin, the Kharven page, Sohai); "year of the Imperial Age" stamps on the Alftian and Farrant pages; The Powers of the Imperial Age, Factions at a Glance, A Reader's Codex, Start Here; New World, Old World and Voyager Era against the Grand World (Geography). Outside the wiki and feeding every scene: `desktop/inventories/accord.md` and `stannvaard.md` still carry mains and the wire, and `desktop/style-bank/wellspring-signatures.md` says gunmetal and powder smoke.
+
+Open and unruled: Domain seed duration (seconds vs minutes); Family pages' Stat Effect lines vs Fracture Part Thirteen; Altherion Collegium vs Aetherion Academy; whether the book's forty-year war is the Great Spirit War.
+
 ## State on 2026-11-05 (the Dark Ages; R83-1 to R83-15)
 
 Isaac moved WOTR to a medieval setting: the storyline is the Dark Ages in three arcs (Malphas and the Sins, ending as Malakar splits the continents, which Muken survives; Cozbi; Kujo), the Imperial Age becomes a Renaissance turn of the century, there are no guns in any era, and the draw is gone in favor of Aether pulled from the environment, its types being the Wellsprings. Answers are in `imports/drafts/medieval-setting-questionnaire/`, the rows in `rules/doc-directions-2026-11-05.yaml`, and 27 old rows are superseded. `desktop/NATALIE.md` carries it. 41 of the 42 site paintings were replaced on Higgsfield (6c22ab41); the Zettari banner stays, since that people is another player's.

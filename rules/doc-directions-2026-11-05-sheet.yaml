@@ -1,0 +1,566 @@
+# Isaac's magic system questionnaire, 2026-11-05, recorded in RULINGS.md and indexed the same day. Each verbatim is one numbered clause of that entry.
+pack: Directions 2026-11-05 (the sheet and the climb)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-1-WINDOWS
+  section: magic-system-questionnaire
+  title: Windows
+  kind: definition
+  summary: 'Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers
+    to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in
+    detail, fights included, for damage, skill gains and reserve.'
+  verbatim: '(1) Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its
+    numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often
+    and in detail, fights included, for damage, skill gains and reserve.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - prose-law
+  notes: Clause (1) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-2-WINDOW_NUMBERS
+  section: magic-system-questionnaire
+  title: Window numbers
+  kind: definition
+  summary: 'Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration
+    stays body first.'
+  verbatim: '(2) Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration
+    stays body first.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - prose-law
+  - combat
+  notes: Clause (2) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-3-OLD_SCENES
+  section: magic-system-questionnaire
+  title: Old scenes
+  kind: definition
+  summary: 'Old scenes: archived scenes stay as written; windows are for new writing.'
+  verbatim: '(3) Old scenes: archived scenes stay as written; windows are for new writing.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - session-protocol
+  notes: Clause (3) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-4-EXPERIENCE
+  section: magic-system-questionnaire
+  title: Experience
+  kind: definition
+  summary: 'Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills,
+    and crews argue over who got the kill.'
+  verbatim: '(4) Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak
+    kills, and crews argue over who got the kill.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - adjudication
+  notes: Clause (4) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-5-BUYING_THE_CLIMB
+  section: magic-system-questionnaire
+  title: Buying the climb
+  kind: definition
+  summary: 'Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy
+    are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage
+    and blessings.'
+  verbatim: '(5) Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy
+    are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage
+    and blessings.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - worldbuilding
+  notes: Clause (5) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-6-WHAT_MONEY_CANNOT_BUY
+  section: magic-system-questionnaire
+  title: What money cannot buy
+  kind: definition
+  summary: 'A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach
+    what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.'
+  verbatim: '(6) A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects
+    teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-design
+  - worldbuilding
+  notes: Clause (6) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-7-TRAIT_AND_TECHNIQUE_GROWTH
+  section: magic-system-questionnaire
+  title: Trait and technique growth
+  kind: definition
+  summary: Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level
+    and take a bigger name when they jump.
+  verbatim: (7) Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no
+    level and take a bigger name when they jump.
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - magic-design
+  notes: Clause (7) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-8-SKILLS
+  section: magic-system-questionnaire
+  title: Skills
+  kind: definition
+  summary: 'Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named
+    things done with them.'
+  verbatim: '(8) Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are
+    named things done with them.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - character-sheet
+  notes: Clause (8) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-9-THE_SHEET
+  section: magic-system-questionnaire
+  title: The sheet
+  kind: definition
+  summary: 'Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the
+    full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage.
+    Race and lineage show on the sheet and shape base stats and what comes easily.'
+  verbatim: '(9) Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves;
+    the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each
+    Stage. Race and lineage show on the sheet and shape base stats and what comes easily.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - character-sheet
+  notes: Clause (9) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-10-AETHER_CLASSES
+  section: magic-system-questionnaire
+  title: Aether classes
+  kind: definition
+  summary: 'Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities
+    and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept
+    stays the person''s own.'
+  verbatim: '(10) Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives
+    abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one
+    wild concept stays the person''s own.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - magic-design
+  - character-sheet
+  notes: Clause (10) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-11-GETTING_A_WELLSPRING
+  section: magic-system-questionnaire
+  title: Getting a wellspring
+  kind: definition
+  summary: 'Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect
+    on a person''s natural Essence Typology starts small and reaches double only with years of mastery.'
+  verbatim: '(11) Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
+    The effect on a person''s natural Essence Typology starts small and reaches double only with years of mastery.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - codex
+  - magic-mechanism
+  notes: Clause (11) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-12-WHO_USES_FATE
+  section: magic-system-questionnaire
+  title: Who uses fate
+  kind: definition
+  summary: 'Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate
+    Path, and otherwise touched through a blessing or a Master Work Draft.'
+  verbatim: '(12) Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the
+    Fate Path, and otherwise touched through a blessing or a Master Work Draft.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  notes: Clause (12) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-13-BLESSINGS_AND_CURSES
+  section: magic-system-questionnaire
+  title: Blessings and curses
+  kind: definition
+  summary: 'Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie.
+    A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons
+    act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.'
+  verbatim: '(13) Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can
+    lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons
+    act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  notes: Clause (13) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-14-MONSTERS
+  section: magic-system-questionnaire
+  title: Monsters
+  kind: definition
+  summary: 'Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters
+    gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read
+    by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a
+    name, an epithet and a bounty. Monster parts make gear.'
+  verbatim: '(14) Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong.
+    Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people,
+    read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns
+    a name, an epithet and a bounty. Monster parts make gear.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  - adjudication
+  notes: Clause (14) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-15-CRYSTALS_OF_THE_DEAD
+  section: magic-system-questionnaire
+  title: Crystals of the dead
+  kind: definition
+  summary: 'Dead practitioners: a Crystal can be cut from the dead and rendered into the strongest Drafts of all, the worst
+    crime in every realm and the most profitable.'
+  verbatim: '(15) Dead practitioners: a Crystal can be cut from the dead and rendered into the strongest Drafts of all, the
+    worst crime in every realm and the most profitable.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (15) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-16-DUNGEONS
+  section: magic-system-questionnaire
+  title: Dungeons
+  kind: definition
+  summary: 'Dungeons grow down in floors around a Core with something guarding the heart; kill it and clear the place, or
+    leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars
+    argue whether it thinks.'
+  verbatim: '(16) Dungeons grow down in floors around a Core with something guarding the heart; kill it and clear the place,
+    or leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars
+    argue whether it thinks.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (16) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-17-DOMAINS_AND_RELEASES
+  section: magic-system-questionnaire
+  title: Domains and releases
+  kind: definition
+  summary: 'Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window
+    with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.'
+  verbatim: '(17) Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window
+    with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - combat
+  notes: Clause (17) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-18-CRAFTS_REMOVED
+  section: magic-system-questionnaire
+  title: Crafts removed
+  kind: definition
+  summary: 'Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes,
+    tags and chants stay as skills and trades anyone can level.'
+  verbatim: '(18) Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts,
+    runes, tags and chants stay as skills and trades anyone can level.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-design
+  - worldbuilding
+  notes: Clause (18) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-19-MASTER_WORKS
+  section: magic-system-questionnaire
+  title: Master works
+  kind: definition
+  summary: 'Master Works: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime,
+    always Unique or Mythic, and named. Each area has its own.'
+  verbatim: '(19) Master Works: a piece that does what its Grade and material should not be able to, made once at the end
+    of a lifetime, always Unique or Mythic, and named. Each area has its own.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - items
+  notes: Clause (19) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-20-ITEMS_AND_APPRAISAL
+  section: magic-system-questionnaire
+  title: Items and appraisal
+  kind: definition
+  summary: Items are rated by Grade and Rarity; bonded gear grows with its owner, and everyone else's stays what it is. An
+    Appraisal skill and an assay instrument read an item, and a good forger can beat a weak appraiser.
+  verbatim: (20) Items are rated by Grade and Rarity; bonded gear grows with its owner, and everyone else's stays what it
+    is. An Appraisal skill and an assay instrument read an item, and a good forger can beat a weak appraiser.
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - items
+  notes: Clause (20) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-21-AURA_AND_PRESSURE
+  section: magic-system-questionnaire
+  title: Aura and pressure
+  kind: definition
+  summary: 'Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape.
+    Pressure is felt in the room first, and then the window reports it.'
+  verbatim: '(21) Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape.
+    Pressure is felt in the room first, and then the window reports it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - prose-law
+  notes: Clause (21) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-22-READING_PEOPLE
+  section: magic-system-questionnaire
+  title: Reading people
+  kind: definition
+  summary: 'Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said
+    aloud, and people can hide or fake it.'
+  verbatim: '(22) Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate
+    said aloud, and people can hide or fake it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - adjudication
+  - stats
+  notes: Clause (22) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-23-WINDOWS_AT_THE_TABLE
+  section: magic-system-questionnaire
+  title: Windows at the table
+  kind: definition
+  summary: 'Roleplay and Discord: windows appear as plain text blocks; his PC''s gains are offered as window lines he keeps
+    or changes.'
+  verbatim: '(23) Roleplay and Discord: windows appear as plain text blocks; his PC''s gains are offered as window lines he
+    keeps or changes.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - session-protocol
+  notes: Clause (23) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-24-CARDS_CONVERT
+  section: magic-system-questionnaire
+  title: Cards convert
+  kind: definition
+  summary: 'Cards convert with the R82 rollout: each gets concept, moves, class, Trait levels and skills in one pass; other
+    creators'' cards stay untouched.'
+  verbatim: '(24) Cards convert with the R82 rollout: each gets concept, moves, class, Trait levels and skills in one pass;
+    other creators'' cards stay untouched.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - character-sheet
+  notes: Clause (24) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.

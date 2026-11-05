@@ -3803,3 +3803,9 @@ Context: Answers Natalie's question on withdrawing a blessing. Bears on the Hata
 Isaac, 2026-11-05: chose option 3, drop the rule entirely. Drafts and blessings can supply a Catalyst and simply work, with the price paid in money and rarity. "A Draft can supply the quantitative floor... No Draft has ever supplied a Catalyst" is retired as law on The Ladder and the Draft, The Trait System, The Sixteen Stages, The Common Drafts, How Magic Works, X. The Tier Ladders and A Reader's Codex, and the row in rules/doc-directions-2026-10-14.yaml is superseded. He has opened a wider questionnaire on the magic system.
 
 Context: Reverses a sentence the Ladder page calls load-bearing. What keeps Stages earned now is the first thing the questionnaire asks.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "aether class are supposed to be classed like in unbound mb i had to fix that". Aether Classes are meant to work as classes the way they do in Unbound by Nicoli Gonnella. This replaces his questionnaire answer that the Paths are the classes, pending what exactly he means. The ladder on file (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute) stands until he says how it changes.
+
+Context: Natalie could not confirm how Unbound's classes work from two web searches and has asked him to describe it. Reference for ideas only; nothing carried across.

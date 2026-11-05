@@ -3989,3 +3989,9 @@ Context: Grounds: R85-18, and the Hataraki page, which already calls the Plane o
 pull from malta for body you just need to understand the epochs as the 3 "Realities" however fate cannot even be considered a reality if you know what I mean cause its everything that flows every possibility every idea every concept anything and everything that can happen in the lower realities.
 
 Context: Isaac, 2026-11-05, in chat. Indexed as R85-20. "Malta" is read as Matla, the Named Art, whose own page heads a section "The Practices of Malta".
+
+## 2026-11-05 — new
+
+Agent ruling. The three Epochs stand over the three Paths. Aegor is Physical Reality and the Body Path. Ashura is Spiritual Reality and the Spirit Path. Those two are the lower realities. Bara stands over Fate, which is not a reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities, and the name Plane of Fate is a courtesy. Matla is the model of the Body Path as Hataraki is of Fate. Body climbs by its ladder: the novice commands matter as an object, the adept through contact, the master through recognition, the sovereign through law, and the rare Totality Architect as a complete system. So a Body fighter closes and hits low down, and high up their reach grows as far as there is matter to read, while still needing existing substance and paying in recoil through the body and Crystal. Matla stays a learned art with its own branches and limits; a Body fighter need not study it to climb the ladder.
+
+Context: Grounds: R85-20, the Matla page's Manifestus Harmonization, and The Three Epochs, which already seats Bairos on the Plane of Fate, Aegor on the Physical Plane and Ashura on the Soul Plane. Indexed as R85-21. Isaac may overturn.

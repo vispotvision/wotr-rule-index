@@ -3725,3 +3725,9 @@ Context: Guild Accord pages under wiki/Factions, Bloodlines & Institutions/Power
 Isaac, 2026-11-05, choosing option 2: each guild ranks by its own trade. The nine titles, Initiate through Paragon, are the same across the Accord, and a Grandmaster merchant may not be able to throw a punch. This changes the Tier of Standing from a name laid over the Stages. AGENT RULING (Natalie, overturnable): fighting guilds, adventurers' guilds included, keep the old Stage table as their yardstick, so a fighter's title still reads as it did and cards do not change. Item Tiers keep working, because a maker's Tier of Standing is now plainly a craft rank (R46-1). A title on a token says how good you are at your trade, and only in a fighting guild does it also say how dangerous you are.
 
 Context: Guild Accord rewrite. Pages that state the old law: The Standing and the Title, The Measures at a Glance, The Core Vocabulary, Tier Grade Bands and the Aether Shell, the Tiered Path.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "a grandmaster merchant just means he can sell very high-valued items and be trusted with them". A guild title is a grade of trust in that trade. AGENT RULING (Natalie, overturnable): the nine titles line up with the existing Tier ladders. A merchant may deal in items up to the Tier of his title. A craftsman may make work up to it (R46-1). An adventurer may take commissions up to the same Threat Tier (T1 to T9). A forged token or a title lost is a scandal in any trade, because the title is what lets a stranger hand you the goods.
+
+Context: Refines the same night's ruling that each guild ranks by its own trade. To be carried into the Guild Accord rewrite.

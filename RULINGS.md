@@ -3893,3 +3893,9 @@ Context: Indexed as R85-3. Grounds: NATALIE's "Aether Class sets eta" and R84-10
 Agent ruling (Natalie): AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.
 
 Context: Indexed as R85-4. Grounds: R44-2 is Isaac's formula and the Ledger's tables were recomputed clean on it, so this reading keeps every published figure and explains the double η instead of changing the numbers. NATALIE's bare "Flux" was a slip for Flux Density.
+
+## 2026-11-05 — C-169
+
+Agent ruling (Natalie): The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+Context: Indexed as R85-5. Grounds: R78-10 says the sustainable level and NATALIE says the Grade on the card, which are the same figure on the head of a card; R81-12 allows outside help past the cap.

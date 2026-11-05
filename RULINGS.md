@@ -3749,3 +3749,9 @@ Context: Answers "Traiting" from his previous message. Bears on The Ladder and t
 Isaac, 2026-11-05: "but traits can be body soul fate" and "Fate = Attraction" and "Fate is both Attracdtion and Osession". Traits come in three kinds, Body, Soul and Fate, and Fate covers both Attraction and Obsession. AGENT RULING (Natalie, overturnable): the three kinds follow the three planes a soul spans, and tempering can gain Traits in any of them. Body and Soul Traits can be fed with Essence Drafts. A Fate Trait is earned only through real bonds, oaths and grudges, because the Plane of Fate records what actually happened between things, so it cannot be bought.
 
 Context: Replaces Natalie's suggestion of a separate class of bought body Traits. Bears on The Trait System and on Fracture of Worlds Parts Thirteen to Fifteen and Twenty.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "yeah traits ARE exactly how they are on file. but they can be leveled and refined in the same way skills and techinques are traits actually grow with your overal level and skill". Traits stay as the wiki has them. They can be leveled and refined the same way skills and techniques are, and they grow with a practitioner's overall Level and skill. Any agent ruling from tonight that reshaped Traits beyond this yields to what is on file.
+
+Context: Governs the coming rewrite of The Trait System, The Ladder and the Draft and The Common Drafts. Essence Drafts and tempering feed this growth.

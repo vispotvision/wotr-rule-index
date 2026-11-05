@@ -3863,3 +3863,9 @@ Context: Indexed as R84-40 to R84-46. Answers in imports/drafts/magic-system-que
 Isaac, 2026-11-05, on The Uncounted, Chapter Eighteen, whose plot had Guild draw-masters cutting the draw to Kharven-Seat: "just get rid of that mention of that stuff". The draw and its machinery are removed from the chapter under R83-14. No Aether vein or wardens replace them.
 
 Context: Answers Natalie's question; her Aether vein pitch is declined. The chapter's events otherwise stand.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito f wapon and items that is a flex". Gear is a flex: characters' armor, outfits, gear and swords get described, and the rarity of weapons and items is part of the show.
+
+Context: Indexed as R85-1. His word is the direction; how far it runs is Natalie's reading and overturnable: the whole kit at a major person's first sight, the look of every piece on the card, Rarity and Grade said aloud or shown on a window, and a flex that brings its own trouble. It lifts R70-48's "Tier and price stay off unless asked". R71-89 stands: in a fight the full item card still waits for the aftermath.

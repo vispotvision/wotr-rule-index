@@ -3557,3 +3557,9 @@ Context: imports/drafts/ability-feel-questionnaire/answers.json. His words: abil
 Agent ruling (Natalie), applying Isaac's 2026-11-04 abilities and the world questionnaire to the index. Grounds: canon hierarchy rung 1, newest wins. His answers are indexed as R82-1 to R82-47 in rules/doc-directions-2026-11-04.yaml. Superseded: R81-16-ENTRY_LAYOUT_NO_APPLICATIONS and R76-4-PARAGRAPH_IS_PAGE by R82-20 (entry shape), R81-2-WORKING_CARD_ON_REPEAT by R82-24 (explanation scaled). Where R78-5 (called in English), R81-7, R80-22 and the jargon paragraph overlap, the newer rule governs. Isaac may overturn any of this.
 
 Context: Natalie, 2026-11-04, rules pass after the questionnaire.
+
+## 2026-11-05 — C-164
+
+Isaac, 2026-11-05: Muken lives before the great split of the continents and survives through it. Malakar is the one who splits the continents.
+
+Context: Said while discussing why the world reads as medieval. Matches The Uncounted, Book One ("the age of the Grand World... before the great split of the continents"). The Long Reading places the split before Muken; see CONFLICTS.md C-164.

@@ -3707,3 +3707,9 @@ Context: Inner World redo. He called them continents here; whether North, Center
 Isaac, 2026-11-05: "Monsters move beast and animals liker beast are more wide spread well springs cores are mostly found in dungeons but are also said to be in vast territories but monsters are across all the continent its just that one area is extremely dangerous and is known for dangerous monsters". Monsters move and are found across the whole continent, and beasts and beast-like animals are more widespread still. Wellspring Cores are mostly found in dungeons and are also said to lie in vast territories. The Scourge of Hell is the one area known for extremely dangerous monsters, not the only place they live. AGENT RULING (Natalie, overturnable): a dungeon is what a Core makes around itself or what grows up around one, and a worked Core with keepers is a dungeon someone cleared and now holds.
 
 Context: Refines the same night's Scourge rulings and reads R83's "A Wellspring site is a Core in common speech; worked sites recharge". The magic pages' Core keepers stand under the agent reading.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "This is only the Inner World btw we only covering one continent". The North, Center and South are regions of one continent, the Inner World, and tonight's map and monster rulings cover it alone. "The South North and Central Continents" in his earlier message reads as those three regions. AGENT RULING (Natalie, overturnable): Malakar's split is what parts the Inner World from the other quarters, and it does not divide North, Center and South into continents of their own.
+
+Context: Answers the question Natalie put to him. The Old World, New World and Outer World are not part of this redo.

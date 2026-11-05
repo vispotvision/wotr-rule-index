@@ -258,15 +258,15 @@ The woman who had spoken had come up the Kessen road that afternoon in a closed 
 
 "Ilse Hallenfeld," said Godfrey quietly, for the king's ear. "Mistress of the Hallenfeld counting-house. The junction. Every courier and quartermaster and road-toll between the Seat and the southern marches answers to her." He was quiet a moment. "She doesn't leave the junction. Ever."
 
-"I've left it," said Ilse Hallenfeld, without looking up from her ledger. "I'll want that noted." She turned a page. "The Seat has twelve hundred house-guard, give or take, and what's left of the Haldorsson Keld, who came in off the Skeldmere with Karogane's carriage because their clan had already taken Tenrai silver and had nowhere else to go. Perhaps six hundred. And it has the Tenrai lords and their practitioners, which is the problem." She looked up at last, with eyes like gray ice. "The Seat's wards are drawn. The gate-wards, the wall-wards, the wards on the Hall. All of them. They draw off the Seat's main, the Guild main that comes up from the southern Wellsprings through the conduit under the river. Brass and slate and Guild seals, the whole length of it. Without the draw, those wards are stone with some gold paint on it." She tapped the ledger with one gloved finger. "The draw-masters who keep that main are Guild. Guild draw-masters are paid by the Seat's treasury, quarterly, through the Hallenfeld counting-house, because the Seat's treasury has been running on Hallenfeld credit for eleven years and it hasn't paid us back a copper of it."
+"I've left it," said Ilse Hallenfeld, without looking up from her ledger. "I'll want that noted." She turned a page. "The Seat has twelve hundred house-guard, give or take, and what's left of the Haldorsson Keld, who came in off the Skeldmere with Karogane's carriage because their clan had already taken Tenrai silver and had nowhere else to go. Perhaps six hundred. And it has the Tenrai lords and their practitioners, which is the problem." She looked up at last, with eyes like gray ice. "The Seat's wards are kept. The gate-wards, the wall-wards, the wards on the Hall, and every lamp on the rock. All of them, by hand, every hour of every day, by Guild ward-keepers and lamp-wardens. Without the keepers, those wards are stone with some gold paint on it." She tapped the ledger with one gloved finger. "The keepers are Guild. They are paid by the Seat's treasury, quarterly, through the Hallenfeld counting-house, because the Seat's treasury has been running on Hallenfeld credit for eleven years and it hasn't paid us back a copper of it."
 
 Hayato Amagiri began, very slowly, to smile.
 
-"I've written to the draw-masters," said Ilse Hallenfeld. "I've told them the Seat's credit is closed. As of tonight. And that the Hallenfeld counting-house will pay their next quarter in full, in gold, at the junction, on one condition." She looked down the table at the boy in the red harness. "That on the morning of the third day, at the first bell, they find a fault in the main."
+"I've written to the wardmasters," said Ilse Hallenfeld. "I've told them the Seat's credit is closed. As of tonight. And that the Hallenfeld counting-house will pay their next quarter in full, in gold, at the junction, on one condition." She looked down the table at the boy in the red harness. "That on the morning of the third day, at the first bell, every one of them puts down his work and walks."
 
 The long room was very quiet.
 
-"The Seat will go silent," said Ilse Hallenfeld. "The draw-hum will stop. Every ward on the rock will go dead at the same moment. And the Tenrai will stand on their walls with their gold paint and their practitioners and find out what a Tenrai is worth without a Guild main under him." She closed the ledger. "Hallenfeld's never once in three hundred years lent money to the Kōkan, Your Grace. It's not personal. The Kōkan never asked." A thin smile. "I'm offering. The north can pay me back when it has something to pay with."
+"The Seat will go silent," said Ilse Hallenfeld. "The hum will stop. Every ward on the rock will go dead at the same moment. And the Tenrai will stand on their walls with their gold paint and their practitioners and find out what a Tenrai is worth with nobody paid to hold up his walls." She closed the ledger. "Hallenfeld's never once in three hundred years lent money to the Kōkan, Your Grace. It's not personal. The Kōkan never asked." A thin smile. "I'm offering. The north can pay me back when it has something to pay with."
 
 Muken looked at her a long moment.
 
@@ -286,7 +286,7 @@ They looked at him.
 
 He had not spoken since the council began. He leaned forward now, in the red harness, and put one finger on the map, on the frozen line of the Marrow where it ran under the cliff below the Seat and round the foot of the rock to the ford.
 
-"Every Tenrai lord in the Seat will run when the wards go dead," he said quietly. "Not all of them. But most. I've seen them." The gold in his eye held steady as a lamp-flame behind glass. "They're humming fear. Every one of them. Fear of Kagenori, and fear of the silver chair, and fear of us. When the draw stops, the fear will win. And there's one way off that rock that isn't the main gate or a four-hundred-foot cliff." His finger moved. "The river postern. Under the Tenrai keep. Down a stair cut in the rock to the ice." He looked at Edric Ashmore. "Hold the river. Let them come down onto the ice. And then don't let them leave it."
+"Every Tenrai lord in the Seat will run when the wards go dead," he said quietly. "Not all of them. But most. I've seen them." The gold in his eye held steady as a lamp-flame behind glass. "They're humming fear. Every one of them. Fear of Kagenori, and fear of the silver chair, and fear of us. When the hum stops, the fear will win. And there's one way off that rock that isn't the main gate or a four-hundred-foot cliff." His finger moved. "The river postern. Under the Tenrai keep. Down a stair cut in the rock to the ice." He looked at Edric Ashmore. "Hold the river. Let them come down onto the ice. And then don't let them leave it."
 
 Ashmore looked at him for a long moment. Then he nodded slowly.
 
@@ -310,7 +310,7 @@ Muken stood on the ice at the head of the Stark vanguard at the foot of the sout
 
 He could see the ward-stone.
 
-The one he had seen in the place where the threads run. Set into the foundation of the gatehouse, low, on the left, a block of gray granite with Tenrai gold worked into its face in a pattern of angular glyphs, humming with the draw. And under the hum of the draw, under the gold, the other note. The sour one. The note of an oath laid by a man who had not meant it. He could hear it from here, half a mile off, on the ice. He had been hearing it for three days.
+The one he had seen in the place where the threads run. Set into the foundation of the gatehouse, low, on the left, a block of gray granite with Tenrai gold worked into its face in a pattern of angular glyphs, humming with its keepers' work. And under the hum, under the gold, the other note. The sour one. The note of an oath laid by a man who had not meant it. He could hear it from here, half a mile off, on the ice. He had been hearing it for three days.
 
 He waited.
 
@@ -320,7 +320,7 @@ Far off to the east, on the hills, where the Thornwood stood dark against the wh
 
 The first bell rang in the Hall of Verdicts.
 
-It came down off the rock in the still cold air, deep and slow, one stroke. And as it rang, under the ice of the Marrow, under the rock, under the Seat, the draw-hum faltered.
+It came down off the rock in the still cold air, deep and slow, one stroke. And as it rang, under the ice of the Marrow, under the rock, under the Seat, the hum of the wards faltered.
 
 It did not stop at once. It stuttered. It went up in pitch, high and thin and wavering, like a man's voice cracking, and then down again, lower than it had ever gone, and then, all at once, between one breath and the next, it was gone.
 
@@ -478,7 +478,7 @@ They were already coming down the stair. They had not stayed at the top. He had 
 
 The silver house was open.
 
-Nobody had shut the doors. There was nobody left in it to shut them. The servants in gray had fled when the draw stopped, down the river stair with the Tenrai lords, or up into the Hall square to throw themselves on Kiyome's mercy, and the long silver receiving room on the cliff side stood open to the cold, with its lamps out and its silver cages dark and the gray light coming in through the tall windows off the frozen river four hundred feet below.
+Nobody had shut the doors. There was nobody left in it to shut them. The servants in gray had fled when the hum stopped, down the river stair with the Tenrai lords, or up into the Hall square to throw themselves on Kiyome's mercy, and the long silver receiving room on the cliff side stood open to the cold, with its lamps out and its silver cages dark and the gray light coming in through the tall windows off the frozen river four hundred feet below.
 
 Muken walked down the length of it alone.
 
@@ -547,4 +547,4 @@ Behind him, in the silver chair, Shizuha Shirogane sat very upright with her han
 *Author notes for Chapters Sixteen to Nineteen are at the end of Chapter Nineteen.*
 
 
-**Revision 2026-10-24.** Brought Kharven-Seat to light as the city it is (worked lamps in brass cages up the whole rock, the silver house's blue-white windows, the heated Hall roof, the lift-cage, the lower town's oil-lights, the aurora) and made the draw-cut visible as the lamps die terrace by terrace. Added the Seat's cost: Rob Stark dies in the Hall square stepping across the boy with the red ears ("Tell her I didn't scream this time"), and ninety-one others are recorded by Ilse Hallenfeld. Tics trimmed. All of Isaac's beats and lines kept.
+**Revision 2026-10-24.** Brought Kharven-Seat to light as the city it is (worked lamps in brass cages up the whole rock, the silver house's blue-white windows, the heated Hall roof, the lift-cage, the lower town's oil-lights, the aurora) and made the wardens' walkout visible as the lamps die terrace by terrace. Added the Seat's cost: Rob Stark dies in the Hall square stepping across the boy with the red ears ("Tell her I didn't scream this time"), and ninety-one others are recorded by Ilse Hallenfeld. Tics trimmed. All of Isaac's beats and lines kept.

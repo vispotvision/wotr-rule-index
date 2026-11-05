@@ -24,13 +24,13 @@ Only two houses stayed. **The Yan and the Ryu still answer to the name of Sum-go
 
 | House | Realm | Seat |
 |---|---|---|
-| **Yukari** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Silver Cedars of Yukari|The Silver Cedars of Yukari]] | The Cedar Enclave |
-| **Mahuo** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Vermilion Dynasty of Sum-gol|The Vermilion Dynasty of Sum-gol]] | Sum-gol |
-| **Lambert** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Holy Sea of Alabaster|The Holy Sea of Alabaster]], held from Sallowgate | Sallowgate; the Sea's capital is Alabaster |
-| **The Yan Hall** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Jade Plains of Qingyuan|The Jade Plains of Qingyuan]], in the Dynasty | Qingyuan |
-| **Ryu** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Copper Coast of Haeseong|The Copper Coast of Haeseong]], in the Dynasty | Haeseong |
-| **Corwen** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sapphire Wells of Brightwater|The Sapphire Wells of Brightwater]] | Brightwater |
-| **Marrick** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Ochre Fields of Hammerford|The Ochre Fields of Hammerford]] | Hammerford |
+| **Yukari** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Silver Cedars of Yukari\|The Silver Cedars of Yukari]] | The Cedar Enclave |
+| **Mahuo** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Vermilion Dynasty of Sum-gol\|The Vermilion Dynasty of Sum-gol]] | Sum-gol |
+| **Lambert** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Holy Sea of Alabaster\|The Holy Sea of Alabaster]], held from Sallowgate | Sallowgate; the Sea's capital is Alabaster |
+| **The Yan Hall** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Jade Plains of Qingyuan\|The Jade Plains of Qingyuan]], in the Dynasty | Qingyuan |
+| **Ryu** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Copper Coast of Haeseong\|The Copper Coast of Haeseong]], in the Dynasty | Haeseong |
+| **Corwen** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Sapphire Wells of Brightwater\|The Sapphire Wells of Brightwater]] | Brightwater |
+| **Marrick** | [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Ochre Fields of Hammerford\|The Ochre Fields of Hammerford]] | Hammerford |
 
 > **The southern rule.** A Banner House of the north serves for exactly as long as the Crown serves. **A Southern Warlord serves nobody, and has a price for everything, and the price is never only silver.** *The Yukari's price is a promise put on the record. The Lamberts' is a true count. The Yan sell a horse and keep its name.*
 

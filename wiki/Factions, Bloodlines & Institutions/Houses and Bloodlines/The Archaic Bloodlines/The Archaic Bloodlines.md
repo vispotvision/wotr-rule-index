@@ -37,7 +37,7 @@ flowchart TD
 |---|---|---|---|
 | **The Moto** | The Shingan and Hataraki. **Lawful perception and lawful function** | **Chosen.** Bairos selected them, marked them, and delegated authority within the same cosmic period | Every Work carries a corruption vector, and the house's own founder warned that **nothing becomes more monstrous, more quickly, than a righteous fool with correct metaphysics** |
 | **The Zettari** | The Everlasting Eyes and Physical Plane authority. **The body as the first throne** | **Forged.** The Epoch shaped their bodies and their mandate from his own substance | Their bodies reach combat maturity faster than their emotional architecture. **Their greatest risk is not weakness. It is becoming powerful before they become wise** |
-| **The Yukari** | The Ketsumyōgan, Ashura's own sight in a mortal body. **Thread-sight across all three planes** | **Born.** Ashura walked the waking world as Ashura Yukari, kept a house and bore children; the family is exactly as old as the Third Epoch | The Threadburn, because a mortal Crystal was never built to carry an Epoch's sight; and the [[Artifacts/The Immortal Cross|Immortal Cross]], a test the family keeps and no Yukari born can pass |
+| **The Yukari** | The Ketsumyōgan, Ashura's own sight in a mortal body. **Thread-sight across all three planes** | **Born.** Ashura walked the waking world as Ashura Yukari, kept a house and bore children; the family is exactly as old as the Third Epoch | The Threadburn, because a mortal Crystal was never built to carry an Epoch's sight; and the [[Artifacts/The Immortal Cross\|Immortal Cross]], a test the family keeps and no Yukari born can pass |
 
 ---
 

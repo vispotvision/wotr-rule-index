@@ -49,7 +49,7 @@ The stories themselves live in **[[In-World Documents & the Narrative Archive/Th
 | Sodoku Moto | Kharven, the frozen kingdom of the north | The True King of the North, Part 1 |
 | Kwon Mu-jin | Hon-guk, the Soul Kingdom | The Name of Your Killer |
 | Ilthára Korvaeth | The New World, the far eastern arc of the continent | The Vacancy |
-| Aetherion Academy | The Academy and its arena | [[The Scene Archive/The Turtle's Boy|The Turtle's Boy]] |
+| Aetherion Academy | The Academy and its arena | [[The Scene Archive/The Turtle's Boy\|The Turtle's Boy]] |
 | Rovhen Talvasciel | Aetherion Academy, the same week of term | Rovhen — The Sort |
 
 Scenes are not written in story order. If one seems to start in the middle, it probably does; the reading order on the Scene Archive page puts them straight.

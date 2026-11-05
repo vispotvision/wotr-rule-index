@@ -4049,3 +4049,9 @@ Context: Isaac, 2026-11-05, in chat, with two documents: Valorin Family and Zett
 Agent ruling. This corrects R85-21 on Matla. Matla is the Instrument of the Paths, written by Aegor, with nine Practices, and only the Zettari can carry it. What the schools teach as Material Force, with its six branches, is the learned and incomplete reading of it. The Body Path's ladder of object, contact, recognition, law and whole system stays open to everyone, and Matla is its highest form. The Paths with a capital, the Zettari's plane of sands, are a place and not the three roads. A Valorin's Scripted Soul Lattice is a soul that never crystallized, so it has the same three faces as a Crystal, and the Paths and class ladders read on it the same way; ηₗ, like the Zettari's Matla conversion, is a lineage measure beside η. Valorin lean Spirit first and Fate second. Writing on Fate stays Fate: their understanding gets no purchase on it, so they cannot read it and can only write a sentence and wait to see whether it is recognized, which takes generations and is the lineage's great humility. A royal Zettari who truly walks Body and Fate pays the two-Path price.
 
 Context: Grounds: R85-29 and R85-22. The wording on Material Force, the three faces and how Valorin write on Fate is invented to make the documents fit today's law. Indexed as R85-30. Isaac may overturn.
+
+## 2026-11-05 — new
+
+also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source.
+
+Context: Isaac, 2026-11-05, in chat and by questionnaire. Indexed as R85-31. Takes the Families out of the fixed list in R79-11; the Master Codex's Family column stays as an untouched source.

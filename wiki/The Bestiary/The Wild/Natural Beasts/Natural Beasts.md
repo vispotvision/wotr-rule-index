@@ -8,23 +8,29 @@ title: Natural Beasts
 
 *Eight entries · creatures that were born rather than made, however large they got*
 
+The Worshipful Farriers of Highmere held that a hippogrif's hind hooves were horse and therefore theirs. The Falconers' Mews held that a beast with an eagle's head was a hawk and therefore theirs. The Saddlers wanted a fee off both, and the quarrel was four generations old when it came to blows in the cathedral square on the morning of the great muster, with the guild banners up, the gilded war-birds in their line and half the county cracking walnuts on the steps. Master Farrier Joss Anvilhand, in a coat the color of a horseshoe coming out of the fire, had hold of the near hind leg of a charger called Bright Sibyl. Mistress Falconer Ede Rushlight had hold of the other end, with a hood. Sibyl had been standing six hours in the sun with nothing to eat. She took Master Anvilhand's right arm off at the elbow with one sweep of the talon, went up over the cathedral with a falconer's banner in her beak and two saddlers hanging from her girth, dropped the saddlers on the bishop's roof, and did not come back. She founded a wild line on the crags above Highmere that the muster has been trying to buy back ever since. The guilds still argue over which of them she belonged to, with staves, on muster day.
+
+A natural beast may be the size of a longhouse and glow like a saint, and it was still born of a mother, it still eats, and it has its own view of your arrangements. Wellspring Aether has soaked into these lines over the generations and made them larger, stranger and harder to kill, which is the only reason a working person would know their names.
+
 ---
 
 ## Goliath
 
 > *Tharvak*, Mountain's Fury, in Old Parunic. *Brakkar*, Stonebreaker, in the Innerworld dialect.
+
 **Natural Beast, Giantkin · T5, Extreme Threat · Earth-elemental Wellsprings with strong harmonic resonance tied to ancestral lineage · the Innerworld's high ranges**
 
-A rare race of colossal humanoids born from the primal forces of Gaia's mountains. **Their ancestors were sculpted by elemental titans to guard ancient mountain passes and Wellspring sources**, and over millennia they developed the size and endurance to live where nothing else could.
+A rare race of colossal humanoids born from the primal forces of Gaia's mountains. **Their ancestors were sculpted by elemental titans to guard ancient mountain passes and Wellspring sites**, and over millennia they developed the size and endurance to live where nothing else could.
 
 Towering, **often exceeding three and a half meters**, with stone-gray or earthen skin textured like granite. Coarse dark hair streaked with mineral glints. **Eyes glowing faintly amber or moss green.** Rugged angular features marked with ancient tribal tattoos in natural pigment or Essence ink.
 
-**Stoic and territorial, wary of outsiders and not inherently hostile.** They live in small close-knit clans **where strength and endurance dictate status**, and maintain ancient traditions bound to the mountains and Wellsprings they protect.
+**Stoic and territorial, wary of outsiders and not inherently hostile.** They live in small close-knit clans **where strength and endurance dictate status**, and maintain ancient traditions bound to the mountains and Wellspring sites they protect.
 
-**Stoneform** hardens the skin to near-rock toughness. **Mountain's Endurance** grants resistance to cold, altitude and fatigue. **Earthquake Stomp** creates localised tremors. **Wellspring Channeling** enhances physical strikes and raises simple stone constructs.
+**Stoneform** hardens the skin to near-rock toughness. **Mountain's Endurance** grants resistance to cold, altitude and fatigue. **Earthquake Stomp** creates localized tremors. **Wellspring Channeling** enhances physical strikes and raises simple stone constructs.
 
 *Less effective in dense forest or swamp. Slow to recover from magical or elemental exhaustion. Vulnerable to attacks targeting joints or unprotected limbs.*
-> During the Mountain Wars **goliath clans sided variably** — some joining Concord forces to defend Wellsprings, others rebelling in defense of ancestral land. At the **Siege of Vellsorea Peak** a goliath chieftain held a mountain pass against overwhelming numbers for weeks.
+
+> During the Mountain Wars **goliath clans sided variably**, some joining Concord forces to defend Wellspring sites, others rebelling in defense of ancestral land. At the **Siege of Vellsorea Peak** a goliath chieftain held a mountain pass against overwhelming numbers for weeks.
 >
 > *Among mountainfolk and Dawi clans they are respected as primal guardians and ancestral kin.*
 
@@ -33,23 +39,27 @@ Towering, **often exceeding three and a half meters**, with stone-gray or earthe
 ## Cyclops
 
 > *Gorath*, One-Eyed Terror, in Old Parunic. **Stonebreaker** among mountain tribes.
+
 **Natural Beast, Giantkin · T5, Extreme Threat · Earth and Ancestral Wellsprings · rugged ranges, deep caves, and Wellspring caverns**
 
-Colossal humanoids born from primal Wellspring forces and ancient elemental titans. **Legend says they were crafted as the first guardians of mountain Wellsprings, forged from stone and spirit** to withstand the ravages of the ages.
+Colossal humanoids born from primal Wellspring forces and ancient elemental titans. **Legend says they were crafted as the first guardians of mountain Wellspring sites, forged from stone and spirit** to withstand the ravages of the ages.
 
-Towering, with **a single large eye centerd in the forehead.** Skin resembling rough stone, cracked and mottled with ancient runes. Thick powerful limbs wielding massive clubs or boulders.
+Towering, with **a single large eye centered in the forehead.** Skin resembling rough stone, cracked and mottled with ancient runes. Thick powerful limbs wielding massive clubs or boulders.
 
 Solitary and territorial. **Often slow-witted, and their cunning in combat and mastery of stone weapons make them deadly regardless.** They occasionally serve as mercenaries or guardians for powerful sorcerers.
 
 **Stone Crushing Strength** shatters shields and walls. **Piercing Gaze** focuses Essence to blind or intimidate. **Mountain Stomp.** **Regenerative Resilience**, sustained by Wellspring essence.
+
 > **Limited peripheral vision due to the single eye. Vulnerable to ranged attacks exploiting the blind spot.** Slow movement and reaction beside smaller foes.
-*The Siege of Grimestone Peak recounts a cyclops battling Concord forces for weeks to hold a pass crucial to Wellspring control. Tribal legend speaks of the Stone-Eye, who guarded sacred Wellsprings until a hero killed him.*
+
+*The Siege of Grimestone Peak recounts a cyclops battling Concord forces for weeks to hold a pass crucial to Wellspring control. Tribal legend speaks of the Stone-Eye, who guarded sacred Wellspring sites until a hero killed him.*
 
 ---
 
 ## Minotaur
 
 > *Tharnok*, Horned Fury, in Old Parunic. **The Mazebreaker** among frontier clans.
+
 **Natural Beast, Labyrinth Guardian · T5, Extreme Threat · Earth and Ancestral Wellsprings · underground labyrinthine domains and ancient ruins**
 
 **Descendants of mortal beastkin and ancient Wellspring-infused lineages, born to guard sacred labyrinths and Wellspring sanctuaries.** Their origin is tied to the convergence of Earth and Ancestral Wellsprings deep within the Material World's underground realms.
@@ -67,9 +77,10 @@ Vulnerable to magic disrupting Earth Essence flow. **Less agile in open or flat 
 ## Sea Serpent
 
 > *Tethyrath*, Ocean's Coil, in Old Mariner's Cant. *Myr'galar*, Wave Devourer, in Abyssal Tongue.
+
 **Natural Beast, Aquatic Colossus · T6, Domain Threat · Water-elemental Wellsprings, some variants Harmonic or Corrupted · the deep seas and coastal waters of the Material World**
 
-Ancient leviathanic creatures born from the confluence of Water-elemental Wellsprings and the deep ocean's primal forces. **Many scholars hold them among the first true giants to emerge in the Material World's oceans**, apex predators and keepers of the deep's mysteries. **Their presence is linked to the health of Wellsprings near oceanic ley lines.**
+Ancient leviathanic creatures born from the confluence of Water-elemental Wellsprings and the deep ocean's primal forces. **Many scholars hold them among the first true giants to emerge in the Material World's oceans**, apex predators and keepers of the deep's mysteries. **Their presence is linked to the health of Wellspring sites near oceanic ley lines.**
 
 Enormous serpentine bodies in smooth overlapping scales from deep blue to sea green and slate gray. **Eyes glowing faintly with watery light.** Elongated heads with rows of sharp backward-curving teeth; long fins and frilled gills line their sides.
 
@@ -77,7 +88,7 @@ Predatory and territorial. They patrol vast stretches of ocean, **generally avoi
 
 **Tidal Surge** capsizes vessels. **Waterform** liquefies parts of the body temporarily to slip through tight spaces or escape bindings. **Sonar Roar** stuns and communicates across leagues. **Regenerative Scales** heal rapidly and resist corrosion.
 
-**Vulnerable to fire-based attacks and explosives. Less agile in shallow, narrow water. Sensitive to sudden Essence disruptions that disturb water Wellspring flow.**
+**Vulnerable to fire-based attacks and to a Guild craftsman's bursting fire-pots, when they burst at the right end of the ship. Less agile in shallow, narrow water. Sensitive to sudden Essence disruptions that disturb the Aether of a water Wellspring site.**
 
 *The Storming of Crestport details a sea serpent wrecking a fleet attempting to blockade a Crevice port. Coastal legend speaks of the Coil of the Forgotten Depths, which guided lost sailors to watery graves.*
 
@@ -86,6 +97,7 @@ Predatory and territorial. They patrol vast stretches of ocean, **generally avoi
 ## Greater Wolf
 
 > *Vael'kar*, Shadow Howl, in Old Sylvaar. **The Silver Fang** among frontier hunters.
+
 **Natural Beast, Apex Predator · T3, Moderate Threat · Harmonic Wellsprings with minor Ancestral resonance tied to pack lineage · the dense forests and mountain borderlands of the Innerworld**
 
 Evolved from mortal wolf stock **and heavily influenced by Harmonic Wellsprings, which granted heightened intelligence, endurance and pack coordination.**
@@ -94,26 +106,29 @@ Larger and more muscular than typical wolves, dense fur from silver-gray to deep
 
 Highly social and cooperative. **Packs are tightly-knit under alpha pairs**, and communicate through **howl patterns, body language, and Essence signals.** They defend territory and young fiercely.
 
-**Coordinated Hunt** flanks, traps and exhausts prey. **Essence Howl** disorients and summons pack members across great distance. **Enhanced Senses** amplified by Wellspring resonance. **Pack Bond** — a shared Essence link permitting rapid information transfer between members.
+**Coordinated Hunt** flanks, traps and exhausts prey. **Essence Howl** disorients and summons pack members across great distance. **Enhanced Senses** amplified by Wellspring resonance. **Pack Bond:** a shared Essence link permitting rapid information transfer between members.
+
 > Vulnerable when separated from pack, **and during full moon shifts when their Essence flux fluctuates.** Reluctant to engage heavily armored foes without support. Sensitive to Essence-disrupting magic and scent-blocking wards.
-*The Silverfang Hunts recount fierce battles between Greater Wolf packs and Imperial scouts. Packs have allied with sylvan rangers and druidic circles to defend sacred groves.* Forest tribes respect and sometimes worship them as symbols of unity and the wild's relentless spirit.
+
+*The Silverfang Hunts recount fierce battles between Greater Wolf packs and Concord scouts. Packs have allied with sylvan rangers and druidic circles to defend sacred groves.* Forest tribes respect and sometimes worship them as symbols of unity and the wild's relentless spirit.
 
 ---
 
 ## Neiman Lion
 
 > *Rael'thor*, King of the Savannah, in Old Parunic. **Sunmaw** among desert tribes.
+
 **Natural Beast, Apex Predator · T4, High Threat · Harmonic Wellsprings with minor Solar Essence influence · the desert savannahs and grasslands of the Old and Outer Worlds**
 
 Evolved from mortal lion stock, uniquely adapted to harsh desert and savannah, **and infused with Harmonic Wellspring Essence granting enhanced strength, endurance, and a mystical aura that commands respect and fear.**
 
 Golden tawny fur shimmering faintly under sunlight. **Manes glow subtly with Wellspring energy, sometimes appearing as haloes of light.** Eyes blaze amber or fiery gold. *Scars and battle marks are common among pride leaders.*
 
-Regal and fiercely territorial — **noble hunters and protectors of their prides**, with complex social structures under dominant males who guard territory and lead hunts.
+Regal and fiercely territorial: **noble hunters and protectors of their prides**, with complex social structures under dominant males who guard territory and lead hunts.
 
 **Solar Roar** stuns prey and rallies allies. **Essence Prowess.** **Sunlit Aura** bolsters allies and intimidates foes. **Savannah Stalk** grants exceptional stealth and tracking in harsh environments.
 
-**Vulnerable to Essence disruptions interfering with their solar resonance. Less effective in dense forest or mountain. Dependent on pride cooperation — lone lions are markedly more vulnerable.**
+**Vulnerable to Essence disruptions interfering with their solar resonance. Less effective in dense forest or mountain. Dependent on pride cooperation: lone lions are markedly more vulnerable.**
 
 *The Battle of Searing Dunes recounts Neiman pride leaders defending Wellspring oases from poachers and Crevice-spawn. Tribal elders tell of the Sunmaw's Blessing, a rare cub believed to bring prosperity. Their manes are prized in ceremonial garb.*
 
@@ -122,6 +137,7 @@ Regal and fiercely territorial — **noble hunters and protectors of their pride
 ## Sasquatch
 
 > *Grav'thar*, the Hidden Giant, in Old Parunic. **Wildershadow** among frontier tribes.
+
 **Natural Beast, Forest Colossus · T3, Moderate Threat · Ancestral and Harmonic Wellsprings with deep ties to primal forest Essence · the dense woodlands of the Material World**
 
 Enormous elusive humanoids, **mortal-born but heavily influenced by Ancestral and Harmonic Wellsprings.** They have roamed ancient forests since the First Eon, **serving as protectors of sacred groves and ancient Wellspring sites**, blending with nature through subtle Essence manipulation.
@@ -141,6 +157,7 @@ Reclusive and wary. Mostly solitary or in small family groups. **Herbivorous, an
 ## Hippogrif
 
 > *Aelthar*, Sky Charger, in Old Parunic. **The Stormwing** among frontier riders.
+
 **Hybrid Beast, Aerial Mount · T4, High Threat · Harmonic and Air-elemental Wellsprings with a trace of Ancestral Essence · high peaks, open skies and enchanted forests**
 
 Noble hybrids born of majestic equine stock and fierce avian predators, **forged through Harmonic Wellspring energies that bless their lineage.** They have served as mounts to knights, sorcerers and warriors **since the Harmonial Age.**
@@ -151,9 +168,10 @@ Proud, intelligent, **fiercely loyal to chosen riders**, territorial and protect
 
 **Aerial Supremacy.** **Talons of the Storm** rend armor and flesh alike. **Windborne Roar** disorients enemies and bolsters allies. **Essence Bond** shares Wellspring Essence with the rider, enhancing coordination and resilience.
 
-**Vulnerable when grounded or separated from riders. Sensitive to Essence-disrupting magic targeting the bond or the flight. And they require vast territories and Wellspring-rich nesting sites to thrive** — which is why the elite cavalry units are as small as they are.
+**Vulnerable when grounded or separated from riders. Sensitive to Essence-disrupting magic targeting the bond or the flight. And they require vast territories and Wellspring-rich nesting sites to thrive**, which is why the elite wings of cavalry are as small as they are.
 
-*The Skyward Charge chronicles legendary hippogrif riders breaking enemy sieges. Several Concord orders maintain elite hippogrif cavalry renowned for rapid deployment.*
+*The Skyward Charge chronicles legendary hippogrif riders breaking enemy sieges. Several Concord orders maintain elite hippogrif cavalry, renowned for getting anywhere first.*
+
 - [[The Bestiary/The Wild/Natural Beasts/Droval — The Frost-Howler]]
 - [[The Bestiary/The Wild/Natural Beasts/Neiman Lion]]
 - [[The Bestiary/The Wild/Natural Beasts/Greater Wolf]]

@@ -5,6 +5,9 @@ title: Summon Entry · Blank Template
 # Summon Entry · Blank Template
 
 *Duplicate this page for every new entry in the register. Fill every field or write not yet decided in it. Do not delete a field to make an entry look finished.*
+
+*The Bench still keeps, framed, the entry a Concord clerk filed from the Siege of the Black Maw with every field reading "large" and the Cost field reading "ask the men on the left." Do better than that clerk. He was at least honest about the left.*
+
 > **Three fields are load-bearing and the rest arrange themselves around them:** Crystal Provenance, Bond Class, and Cost. Settle those first and the entry writes itself. Settle them last and the entry will contradict itself somewhere around the third ability.
 
 ---
@@ -45,7 +48,7 @@ title: Summon Entry · Blank Template
 | **Primary Wellspring** | *From the canonical sixty. Must be one the summoner has actually harmonized* |
 |---|---|
 | **Secondary Wellspring** | *Optional. Note the House it belongs to* |
-| **House Resonance** | *What that House does to the form: anchored and slow to dissolve, elevated and judgemental, vital and restorative, and so on* |
+| **House Resonance** | *What that House does to the form: anchored and slow to dissolve, elevated and judgmental, vital and restorative, and so on* |
 | **Essence Family** | *Caloria · Fulguria · Vectoria · Spatium · Materia · Vitalia · Fluxia · Limina* |
 | **Physics Domain** | *Per the Master Codex. This is what every Mechanism field in section VIII must trace back to* |
 | **Essence Typology** | *What the donation visibly burns, flows or weighs as* |
@@ -59,9 +62,9 @@ title: Summon Entry · Blank Template
 | **Boundary Glyph** | *Parunic letter and its meaning* |
 | **Direction Glyph** | *Parunic letter and its meaning* |
 | **Sealing Glyph** | *Parunic letter and its meaning* |
-| **Invocation** | *Grammatically correct Latin, italicised, with the plain sense given underneath rather than inside the line* |
+| **Invocation** | *Grammatically correct Latin, italicized, with the plain sense given underneath rather than inside the line* |
 | **Material Anchor** | *Relic, prepared focus, inscribed substrate, blood on a sigil, or none. Note what happens when the anchor is taken* |
-| **Circle Requirement** | *Open Draft-circle, full ceremonial infrastructure, or internalised shorthand* |
+| **Circle Requirement** | *Open Draft-circle, full ceremonial infrastructure, or internalized shorthand* |
 | **Readiness** | *Seconds from invocation to full form* |
 | **Duration** | *Honest persistence window, and what thins first when it ends* |
 | **Call Cost** | *EU figure and percentage of reserve* |

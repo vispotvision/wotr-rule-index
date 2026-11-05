@@ -11,6 +11,10 @@ title: The Called · Summon Register
 >
 > **An entry that records what a called thing can do without recording what is paying for it has recorded a rumor.**
 
+Dame Isaude Tarn died in her bed at Heronsey at eighty-one with her boots off, the only Stage XI practitioner of that river anyone can remember doing so, and the whole town turned out to bury her in her own kingfisher blue, seven hundred mourners and two rival schools weeping loudly at each other across the nave. They had reached the second hymn when the west doors came open and a heron the height of the rood screen walked up the aisle, wading on dry flagstones, with river water running off legs that had no business being wet. Nobody had called her. She was the thing Isaude had called for fifty years, anchored in the old woman's youth to the Wellspring site under Heronsey Ford, three streets away, and she stepped up onto the bier, turned one yellow eye on the heirs, and asked in a clerk's flat voice who now held the debt, there being forty-one crossings still owing. The nephew fainted. The Accord's man, who had come for the free funeral meats, spent three weeks trying to enter her and found his ledger had no column for what she was, and within the month the Bench had before it a suit for Wellspring parasitism against a corpse.
+
+The form below is what grew out of that funeral and a dozen like it. A called thing has to be written from the inside out: what holds it together, who pays, what happens when the person who spoke it stops speaking. Get those down first, and the teeth can wait for the end of the page.
+
 ---
 
 ## The Entry Skeleton
@@ -18,7 +22,7 @@ title: The Called · Summon Register
 | **Names** | The High or Old Parunic form, plus whatever the summoner actually calls it on the field. **Roster names are frequently insults** and the insult is usually the truer entry |
 |---|---|
 | **Summoner · Lineage** | Who holds the pattern, which branch or school it descends from, and **whether it can lawfully be lent** |
-| **Category** | Vocatia · Animatria · Arts · Concordia, in whatever combination is actually active. Most entries run two |
+| **Category** | Vocatia (contacting something that already exists) · Animatria (shaping a construct from a fragment of the summoner's own Essence Core) · Arts (holding the circle and the form in being) · Concordia (holding a form open inside a shared field), in whatever combination is actually active. Most entries run two |
 | **Summon Tier** | I Ephemeral through V World-Tethered. Sets the Temperance Gate and the honest ceiling on duration |
 | **Crystal Provenance** | Donated · Analog · Native · Anchored. **This is the operative field.** Everything the thing can refuse, survive, or become follows from it |
 | **Soul Architecture** | The three layers as they exist in this construct: Essence Core, Aether Shell, Attraction Layer. **Record which are genuine and which are analog** |
@@ -26,7 +30,7 @@ title: The Called · Summon Register
 | **Aether Class** | Ø through Ω. Governs how much of the donated Essence survives the crossing into form |
 | **Wellspring Inheritance** | Primary and secondary, per the Master Codex. **A summon is a Wellspring spoken as a verb** and cannot inherit what the summoner has not harmonized |
 | **Family · Physics Domain** | Codex assignment. The Physics Domain is what makes every Mechanism field below write itself |
-| **Glyph Chain** | All four roles addressed: **Authorization · Boundary · Direction · Sealing.** A chain missing a role is Mechanica by definition, whatever the practitioner calls it |
+| **Glyph Chain** | All four roles addressed: **Authorization · Boundary · Direction · Sealing.** A chain missing a role is Mechanica (forbidden working that takes power without lawful consent) by definition, whatever the practitioner calls it |
 | **Invocation** | The spoken line in Guild Accord liturgical Latin, with the Parunic chain sitting underneath it |
 | **Readiness · Duration** | Seconds to full form, and the honest persistence window before the tether or the anchor thins |
 | **Essence Cost** | Call cost and sustain, in EU and as a percentage of reserve. **Sustain is the field people forge** |
@@ -34,7 +38,7 @@ title: The Called · Summon Register
 | **Danger Tier** | T1 through T9, **on the same scale as the Commission threat tiers and the Bestiary.** What it would be rated as if it were loose |
 | **Abilities** | One full technique block per ability. **Counterplay is mandatory on every one of them** |
 | **Dissolution** | What a clean sealing looks like, what a severed tether does to the summoner, and what the thing leaves behind either way |
-| **Corruption Vector** | What the Obsession Force inversion of this summon looks like. Recorded for every entry without exception |
+| **Corruption Vector** | What the Obsession Force inversion of this summon looks like. Attraction Force answers by recognition; Obsession Force takes the same shape and compels. Recorded for every entry without exception |
 | **Physical Description** | What witnesses report, what the air does around it, what it smells of. **Called things are confessions** and the description should read as one |
 | **Temperament · Voice** | Whether it speaks, in what register, and what it will not say. Blank only for Tier I and Tier II forms |
 | **Attested Encounters** | Named engagements with dates where the Archives hold them, **and field accounts where they do not** |
@@ -56,7 +60,7 @@ title: The Called · Summon Register
 
 ## Crystal Provenance
 
-> **The single question that decides how an entry is written.** A called thing either owns a Soul Crystal, borrows the function of one, wears a synthetic copy, or has none at all and is running on a live wire back to whoever called it.
+> **The single question that decides how an entry is written.** A called thing either owns a Soul Crystal, borrows the function of one, wears a synthetic copy, or has none at all and is running on a live tether back to whoever called it.
 >
 > **Only two of the four can refuse an order, and only one of them can outlive the person who spoke it.**
 
@@ -65,9 +69,9 @@ title: The Called · Summon Register
 | **Donated** | Animatria | A shaped fragment of the summoner's own Essence Core on a live tether | No Crystal of its own. Record the summoner's. **Dies instantly in Harmonic Silence.** Cannot refuse anything |
 | **Analog** | Concordia | A synthetic three-layer architecture held open inside the summoner's Concordia field | Owns Core, Shell and Layer analogs. **Sufficient coherence lets it resist dissolution**, which is the failure state the Accord actually fears |
 | **Native** | Vocatia | Its own Crystal, which it possessed before anyone called it and will possess after | Graded exactly as a person is. **Answers by recognition, never by compulsion**, and refuses orders contrary to its nature |
-| **Anchored** | World-Tethered | Crystal function borrowed from the node: a Wellspring vein, a bloodline lattice, a Domain | Persists because the Continuum recognises the node. **Outlives its summoner.** Unlawful anchoring is prosecuted as Wellspring parasitism |
+| **Anchored** | World-Tethered | Crystal function borrowed from the node: a worked Wellspring site, a bloodline lattice, a Domain | Persists because the Continuum recognizes the node. **Outlives its summoner.** Unlawful anchoring is prosecuted as Wellspring parasitism |
 
-> **Originated, flagged.** The four-way Provenance split is inferred from the Summoning Arts entry rather than lifted from it. Canon states that Animatria constructs are Core fragments, that Concordia forms carry analogs of all three layers, that Vocatia contacts something that already exists, and that World-Tethered forms draw from the node. **Naming those four as a single graded axis is new.** Isaac's ruling needed before it locks.
+> **Originated, flagged.** The four-way Provenance split is inferred from the Summoning Arts entry rather than lifted from it. Canon states that Animatria constructs are Core fragments, that Concordia forms carry analogs of all three layers, that Vocatia contacts something that already exists, and that World-Tethered forms pull from the node. **Naming those four as a single graded axis is new.** Isaac's ruling needed before it locks.
 
 ---
 
@@ -119,11 +123,11 @@ title: The Called · Summon Register
 
 **Inheritance is not a choice.** A summon carries its creator's Essence Typology and Wellspring harmonization whether or not the creator wants it read. Materia produces anchored, slow-dissolving forms. Limina produces absence and negation. *A summoner who does not want to be legible should not be summoning.*
 
-**Signature is the standing counterplay.** Every construct broadcasts its authorizing glyph and its summoner's resonance to anyone with comparable Perception. **This is true of every entry in the register and should not be re-argued per summon.**
+**Signature is the standing counterplay.** Every construct broadcasts its authorizing glyph and its summoner's resonance to anyone with comparable Perception (the nose, at the brackets; *kehai* to a Moto; being sounded, to a Dawi, as a rock face is sounded for a bad seam). **This is true of every entry in the register and should not be re-argued per summon.**
 
 **Cost outlasts the fight or it is not a cost.** Essence spent is a limitation. Memory lost, breath ruined, a name that no longer answers: those are costs. **Record the second kind.**
 
 **Silence severs.** Anything Donated dies inside a Silence Realm. Anything Analog degrades. Native and Anchored forms are the only two that hold, and holding is not the same as functioning.
 
-**The Bench and the Divisions are watching.** Summoning without lawful Glyphica is Mechanica. Unauthorized World-Tethering is prosecuted under Statute XXVI. **An entry should record what the Accord would say about it**, including the entries where the Accord has said nothing yet.
+**The Bench and the Divisions are watching.** Summoning without lawful Glyphica (licensed glyph-work) is Mechanica. Unauthorized World-Tethering is prosecuted under Statute XXVI. **An entry should record what the Accord would say about it**, including the entries where the Accord has said nothing yet.
 - [[The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template]]

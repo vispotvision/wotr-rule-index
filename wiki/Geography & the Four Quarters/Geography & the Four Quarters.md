@@ -15,6 +15,10 @@ tags:
 >
 > *Any surveyor who reads this ledger politically has read it wrong.*
 
+The fourth revision of the surveyors' ledger began with a woman eating a page. Sanna Thirlwell, a surveyor of the northern shield, was hauled before a crown notary at the Midwinter Fair in Altherion for entering a copper seam under the wrong king's name, and she climbed onto the notary's table among the sugar crowns and roast geese, held the entry up so that half the fair could read it, and ate it, wax and all. The seam, she told him with her mouth full, had not changed hands that morning. Only the kings had. The fine took six years of her wages, both crowns billed her separately for the insult, and within the decade the Measurewrights had struck every kingdom's name from the deposit entries, which they will tell you had nothing to do with her.
+
+Everything in this section is written in her spirit, from the ground up. The four quarters are quarters of one body of land, with isles off its shores, and a carter can take salt from the northern basins to the warm southern marches without once paying a ferryman, though he will pay nearly everyone else. (The later hand in the Concordance of Ages calls it the Grand World. Nobody standing on it has yet needed the name.)
+
 ---
 
 ## The World Atlas
@@ -28,18 +32,20 @@ tags:
 ## The Four Quarters
 
 ![[Assets/Diagrams/four-quarters.svg]]
-All four were emplaced in the **First Eon**, which under the Concordance closes at Year −900, and nothing has been added to any of them since. The Measurewrights have been asked whether the corrected count makes the deposits younger, and answer that it does not. **It makes them nearer.** A seam emplaced fourteen hundred years ago and half drawn down in the last six hundred is a different object, politically, from a seam emplaced before memory, and every chartered company in the western quarter is presently discovering the difference.
+All four were emplaced in the **First Eon**, which under the Concordance closes at Year −900, and nothing has been added to any of them since. The Measurewrights have been asked whether the corrected count makes the deposits younger, and answer that it does not. **It makes them nearer.** A seam emplaced fourteen hundred years ago and half dug out in the last six hundred is a different object, politically, from a seam emplaced before memory, and every chartered company in the western quarter is presently discovering the difference.
 
-| Quarter | Substrate | Condition | The bind it lives under |
-|---|---|---|---|
-| **North** · Inner World | Old cold shield, glaciated, one impact ring, one salt basin | Superb bearing stock, high ambient Essence, no infrastructure | Cheap array heat, expensive everything else |
-| **West** · Old World | Worn collisional belt, granite cupolas, coal foreland, karst | Deepest workings, most complete infrastructure, exhausted ground and depleted Essence | **Total array dependency for survival, not production** |
-| **East** · New World | Live volcanic arc, young, wet, mobile — the chartered arc; the elven old-ground beside it lies outside this ledger | Richest surface ore, self-supplying cement, mobile Wellsprings | Almost no array dependency outside the eastern arc |
-| **South** · Outer World | Old dry craton, flood basalt, ophiolite, pans, bone-beds, Crevice | No array industry possible; materials requiring no processing | Extraction by hand at scale, value added elsewhere |
+| Quarter | In one breath | Substrate | Condition | The bind it lives under |
+|---|---|---|---|---|
+| **North** · Inner World | The oldest rock in the world, soaked in Essence, worth a fortune and trying to kill you on the way to market | Old cold shield, glaciated, one impact ring, one salt basin | Superb bearing stock, high ambient Essence, hardly a finished road | Cheap array heat, expensive everything else |
+| **West** · Old World | The first land to see the bottom of its own ground, and still the land with the most skilled hands | Worn collisional belt, granite cupolas, coal foreland, karst | Deepest workings, most complete works, exhausted ground and depleted Essence | **Total array dependency for survival, not production** |
+| **East** · New World | Young fire-mountains, ore lying on the surface, and Wellsprings that move house | Live volcanic arc, young, wet, mobile: the chartered arc; the elven old-ground beside it lies outside this ledger | Richest surface ore, self-supplying cement, mobile Wellsprings | Almost no array dependency outside the eastern arc |
+| **South** · Outer World | Dry pans and bone-beds where the ore needs no furnace and the buyers live a long way off | Old dry craton, flood basalt, ophiolite, pans, bone-beds, Crevice | No array trade possible; materials requiring no processing | Extraction by hand at scale, value added elsewhere |
 
-> **The pattern worth stating plainly.** The quarter with the most Essence has the least industry. The quarter with the most industry has the least Essence. And the two quarters in between have each solved the problem by refusing to build anything that would create the dependency in the first place.
+An array, since the table leans on the word, is a bank of glyphs cut by hand into stone and metal to hold a working steady, and it is the largest thing an Engraver ever makes. Ambient Essence is what the ground carries for a practitioner to pull: Aetheric Density to a scholar, rich or thin ground in polite company, fat or lean in the street. A chartered company here is a body of people holding a charter to dig, and they are about as lovable as that sounds.
+
+> **The pattern worth stating plainly.** The quarter with the most Essence has the fewest great works. The quarter with the most works has the least Essence. And the two quarters in between have each solved the problem by refusing to build anything that would create the dependency in the first place.
 >
-> The Accord's standing assumption that industrial capability follows from magical capability **is not supported anywhere in the ledger.**
+> The Accord's standing assumption that great works follow from great magic **is not supported anywhere in the ledger.**
 
 ---
 
@@ -54,10 +60,10 @@ A material has two independent worths, and the persistent error of the trade is 
 >
 > Measured on the coil.
 **The two do not track each other.** Forge-Iron out of Altherion bears magnificently and holds almost nothing, which is exactly why it arms the line infantry of six kingdoms and appears in no ward-network anywhere. Gloomhide is spiritually inert and physically superb. Mireclay holds a summoning totem for one night and cannot be trusted to hold a roof for one hour.
-> A material that scores high on both is not called good. **It is called strategic**, and the Accord keeps a register of who owns the seams.
-Trade speech has drifted into shorthand. **Bearing-grade** means a material bought for its physical work: foundations, hulls, gun-carriages, rail. **Holding-grade** means a material bought for its Essence work: substrate stock, conduit, gasket, lens, inscription medium. *A Measurewright will not sell you a single stone until you tell him which of the two you came for.*
+> A material that scores high on both gets a better word than good. **It is called strategic**, and the Accord keeps a register of who owns the seams.
+Trade speech has drifted into shorthand. **Bearing-grade** means a material bought for its physical work: foundations, hulls, siege frames, bridges. **Holding-grade** means a material bought for its Essence work: substrate stock, glyph-line, gasket, lens, inscription medium. *A Measurewright will not sell you a single stone until you tell him which of the two you came for.*
 
-Two further readings appear where the assay houses have agreed them. **Resonance**, the Wellspring or Wellsprings a substrate is naturally sympathetic to — basalt takes Coagula and Fixatio, quartz amplifies Fractura and Luminalis, iron conducts Manganthra and Aurevane, gold carries Benediction and Sublimatio, obsidian holds Tenebra and Oblivara. *An Engraver who fights his substrate pays for it in the lifespan of the inscription.* And **Family and Domain**, recorded so that a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.
+Two further readings appear where the assay houses have agreed them. **Resonance**, the Wellspring or Wellsprings a substrate is naturally sympathetic to: basalt takes Coagula and Fixatio, quartz amplifies Fractura and Luminalis, iron conducts Manganthra and Aurevane, gold carries Benediction and Sublimatio, obsidian holds Tenebra and Oblivara. *An Engraver who fights his substrate pays for it in the lifespan of the inscription.* And **Family and Domain**, recorded so that a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.
 
 The tier notation used throughout, **T0 through T9**, is the standing Accord materials scale.
 
@@ -83,6 +89,6 @@ Read **The Bearing and the Holding** for what the ground is and what may be made
 - [[Geography & the Four Quarters/News, Rumour and the Speed of Information]]
 > **Distance measured in days.** **News, Rumor and the Speed of Information** sits under this section because what it actually documents is how far away anything is.
 >
-> Three channels. **The wire** is near-instant, priced by the word, read by the Guild, and follows the sealed conduit, which means it reaches exactly as far as the draw does and no further. A cut district is deaf, and a Withering-era quarter loses its signal net at the same rate it loses pressure. **The post** is cheap, prepaid, and the only channel still serving a cut district. **The mouth** is free, faster over short distances, and wrong.
+> Three channels. **The beacon line** is near-instant, priced by the word, read by the Guild, and runs from hilltop to hilltop, which means it reaches exactly as far as somebody will pay a warden to stand on a hill and no further. A district past the last tower is deaf, and a Withering-era quarter loses its towers at the same rate it loses density. **The post** is cheap, prepaid, and the only channel still serving a deaf district. **The mouth** (heralds, minstrels, bounty bills, bookies' boards and the tap-room) is free, faster over short distances, and wrong.
 >
-> Carries a distance-and-channel table for answering on the spot when a Front's news reaches a given place, plus the standing rule that follows from all of it: **ask whether the destination is on the main before asking how far it is.**
+> Carries a distance-and-channel table for answering on the spot when a Front's news reaches a given place, plus the standing rule that follows from all of it: **ask whether the destination is on the line before asking how far it is.**

@@ -38,7 +38,7 @@ flowchart TD
 
 A hollow column of refracted light where the Concord Council convenes. **The chamber's floor is an unbroken mirror of living Aether; its surface ripples whenever truth is spoken.**
 
-The High Concordant presides from the **Throne of Resonance**, surrounded by **seven empty chairs — one for each Division, and one for the silence of the Black Concord.**
+The High Concordant presides from the **Throne of Resonance**, surrounded by **seven empty chairs, one for each Division, and one for the silence of the Black Concord.**
 > Every decree issued here **becomes law the moment it is spoken.** The Lattice records the words before the speaker finishes them, binding them into metaphysical permanence.
 >
 > *It is said that even gods tremble when their names echo in this hall.*
@@ -47,7 +47,7 @@ The High Concordant presides from the **Throne of Resonance**, surrounded by **s
 
 ## The Archives Eternal
 
-A labyrinth of crystalline corridors containing the sum of all Accord knowledge. **Each document is alive** — runic paper that breathes, scrolls that whisper their own memories. The walls hum with a low tone known as the **Librarian's Chord**, believed to be the voice of Urion, Archon of Memory.
+A labyrinth of crystalline corridors containing the sum of all Accord knowledge. **Each document is alive**, runic paper that breathes, scrolls that whisper their own memories. The walls hum with a low tone known as the **Librarian's Chord**, believed to be the voice of Urion, Archon of Memory.
 > The most sacred texts are stored within the **Vault of Parun**, accessible only through ritual bloodline resonance or divine authorization. Inside rests **the original Concord Codex**, a tome of translucent glass pages **that rewrites itself according to the world's balance.**
 >
 > **When the Codex's pages still, it means the world's rhythm is dying.**
@@ -58,8 +58,8 @@ A labyrinth of crystalline corridors containing the sum of all Accord knowledge.
 
 At the Citadel's core lies the **Choir of the Fallen**, a cathedral housing the souls of those who died in service. Their echoes drift through luminous air, **singing endlessly in harmonic frequencies that stabilize the Lattice across realms.**
 
-Every Accord member can feel their hum in moments of silence — *a comforting vibration at the edge of hearing.* **The song grows louder during Wellspring crises**, guiding Sealwrights and field agents toward equilibrium.
-> *"In service, the soul is not lost — it becomes the sound that keeps the world awake."*
+Every Accord member can feel their hum in moments of silence, *a comforting vibration at the edge of hearing.* **The song grows louder during Wellspring crises**, guiding Sealwrights and field agents toward equilibrium.
+> *"In service, the soul is not lost; it becomes the sound that keeps the world awake."*
 
 ---
 
@@ -68,7 +68,7 @@ Every Accord member can feel their hum in moments of silence — *a comforting v
 Beneath the Sanctum, deeper than even the Archives, **the High Concordant communes directly with the Lattice.** This chamber holds the **Wellspring of Law**, the first metaphysical convergence ever stabilized by mortal and divine cooperation. *It glows with a blinding white that casts no shadow.*
 
 Every Concord Seal, Commission, and Merit flows first through this light before reaching the rest of creation.
-> The Vault hums in rhythms that mirror the High Concordant's pulse. **If they die, the Vault stills — and the Guild Accord collapses.**
+> The Vault hums in rhythms that mirror the High Concordant's pulse. **If they die, the Vault stills, and the Guild Accord collapses.**
 >
 > **Only three beings have ever entered the Vault and returned alive. None spoke of what they saw.**
 
@@ -76,16 +76,16 @@ Every Concord Seal, Commission, and Merit flows first through this light before 
 
 ## The City Below
 
-A sprawling complex of halls, guild quarters, training sanctums, and Gate plazas. Here agents from every realm converge: soldiers, mages, Sealwrights, and scholars walking side by side. **The air is perpetually filled with light rain — the condensation of Aether in its purest form.**
+A sprawling complex of halls, guild quarters, training sanctums, and Gate plazas. Here agents from every realm converge: soldiers, mages, Sealwrights, and scholars walking side by side. **The air is perpetually filled with light rain, the condensation of Aether in its purest form.**
 
 At its center stands the **Forum of Balance**, where citizens bring disputes before minor Arbiters. Every verdict echoes upward to the Council Spire, imprinting itself in the Codex as precedent.
-> **Justice in the Accord is circular — born below, judged above, recorded forever.**
+> **Justice in the Accord is circular, born below, judged above, recorded forever.**
 
 ---
 
 ## The Outer Defenses
 
-Encircling the Citadel are the **Ring Walls**, colossal shields of prismatic stone **that orbit rather than stand.** They refract incoming attacks — magical, divine, or otherwise — **turning them into auroral storms that feed the Wellspring Core.** The system, called the **Halo Array**, was designed by the Titans Atla'zon and Maelor themselves.
+Encircling the Citadel are the **Ring Walls**, colossal shields of prismatic stone **that orbit rather than stand.** They refract incoming attacks, magical, divine, or otherwise, **turning them into auroral storms that feed the Wellspring Core.** The system, called the **Halo Array**, was designed by the Titans Atla'zon and Maelor themselves.
 > Only twice in history have the Ring Walls fallen: **once during the Eclipse Wars, and once during the Silent Rebellion of the Black Concord.**
 >
 > Each collapse left scars in the sky **still visible to this day.**
@@ -104,11 +104,11 @@ Hidden at the apex of the Spire, behind eleven seals, rests the High Concordant'
 ## The Citadel's Living Law
 
 **The Citadel is not static. It rearranges its halls to reflect the Accord's state.** When peace reigns, the city glows golden and wide. When corruption festers, the corridors narrow and darken, the glass thickens, and whispers grow faint.
-> The Citadel's architecture is both reflection and prophecy — **a mirror of the world's soul.**
+> The Citadel's architecture is both reflection and prophecy, **a mirror of the world's soul.**
 Sealwrights claim to navigate by tone rather than sight. **If the city sings in minor key, danger is near. If it falls silent, the end of an era approaches.**
 
 ---
 
-> *"Here the world is written, erased, and written again. Here every breath is weighed against eternity. We are the keepers of order, the stewards of Wells, and the witnesses of our own decay. Let the Citadel endure — for while it stands, so too does the Law."*
+> *"Here the world is written, erased, and written again. Here every breath is weighed against eternity. We are the keepers of order, the stewards of Wells, and the witnesses of our own decay. Let the Citadel endure, for while it stands, so too does the Law."*
 >
-> — Final engraving of the Heart Vault's inner seal, Year 013 IC, Voyager Era
+> Final engraving of the Heart Vault's inner seal, Year 013 IC, Voyager Era

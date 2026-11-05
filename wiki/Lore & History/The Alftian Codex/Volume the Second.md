@@ -14,7 +14,7 @@ title: Volume the Second
 
 ## Chapter the Sixth · The Lower Room
 
-Castlefall met me with lime and frost at the turn of the cold season. The carriage came off the main at the foot of the valley with its hum sinking out of my back teeth, and the cedar of the platform, six winters old, was still weeping sap onto the carters' boots. One of them asked another who kept his posts. I had been at Urbis since the king's hall, and I walked up through the craft-streets with my pack cutting into one shoulder, past the dye-works and the leat running gray with lime. Three streets short of the tanner's I felt a seal I did not know. It pressed as a held breath presses on a room, and it was holding.
+Castlefall met me with lime and frost at the turn of the cold season. The carrier's cart came off the kept road at the foot of the valley with its hum sinking out of my back teeth, and the cedar of the platform, six winters old, was still weeping sap onto the carters' boots. One of them asked another who kept his posts. I had been at Urbis since the king's hall, and I walked up through the craft-streets with my pack cutting into one shoulder, past the dye-works and the leat running gray with lime. Three streets short of the tanner's I felt a seal I did not know. It pressed as a held breath presses on a room, and it was holding.
 
 The flat was as I had left it. The stove, the table, Malphas's jar of Uplands herbs working on its shelf, Neros's charts weighted flat under our four cups. A room keeps a decision after the people who made it have gone downstairs, the way a crucible keeps its heat after the fire is drawn, and this one had been decided in without me.
 
@@ -44,7 +44,7 @@ Furveus looked up from the bench with the face of a man who has been expecting a
 
 "Mu-jin," he said, in the voice he keeps for a conversation already under way.
 
-I took the lens off before I answered him. I apologise for the explaining that follows.
+I took the lens off before I answered him. I apologize for the explaining that follows.
 
 Rill, the ground under a tannery, high and steady and sour with lime. My reserve read about seven hundred thousand units, my η 0.68. The vessel on the bench was a graded Draft, and I read its marks as a clerk would enter them: Class II, Field Substrate; fidelity Sound; Carry Marked. It carried somewhere other than Castlefall. The circle was a Boundary, drawn in a Mortalis ink I could not name.
 
@@ -56,7 +56,7 @@ Furveus passed me a cloth for the nose without a word.
 
 "You haven't heard what I'm..."
 
-"Neros told me. At the table." I held the cloth at my lip. "Two winters ago. The café. You did not get up."
+"Neros told me. At the table." I held the cloth at my lip. "Two winters ago. The coffee-house. You did not get up."
 
 He was quiet. He sat back from the bench and looked at his hands, front and back, a habit I had noticed long before and never mentioned. As far as I can tell he examines them after work he is not sure of, as though checking for residue. The right one shook. It had shaken at the Wedding. Now it shook holding nothing.
 
@@ -78,19 +78,19 @@ He looked at my hands and not at me.
 
 Strom spoke to the circle. "The ground up in the passes would keep a thing like this a hundred years."
 
-Nobody answered him. I went out by the yard and up the outside stair, and on the third step it came to me that I had not apologised to Furveus for any of it. I stood on the step a moment with that.
+Nobody answered him. I went out by the yard and up the outside stair, and on the third step it came to me that I had not apologized to Furveus for any of it. I stood on the step a moment with that.
 
 I told myself I went down to the street to think. I went because the flat was too near the lower room, and the street was cold. By the tannery leat I set my journal against a post and wrote, with the amulet cold at my sternum through the shirt.
 
 Mortalis is Auren's Still Gate. It governs passage, the way a living body stops holding itself together, and it keeps nobody in storage. At a death the Crystal goes nowhere. Essence withdraws from it slowly as its lattice comes apart and each part goes to its own law: the Echo to the Soul Plane within hours, the Temperance residue back through the body into its Wellspring over nine days, the Name-record filed in the Archive of Names and never released. By the ninth day there is nothing of the person left in the body to call. What remains is in the places they lived, in the people they loved, in the ground: a trace, and on the post I wrote that the trace is not the soul. I underlined it, and under it I wrote that the gate does not open backward. I record that as what I believed on that street.
 
-Under both I copied, from memory, the last lines of a paper I had written at Urbis the winter before and had shown to nobody. It was my gloss of the Aphorism: whoever draws on Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. The Aphorism is a warning. My paper on correspondence had gone about the country from hand to hand. This one lay in the bottom of my case, and the first volume's notes do not mention it. I left it out. On that street, for the first time, I asked myself why, and I wrote the question down, and I did not answer it.
+Under both I copied, from memory, the last lines of a paper I had written at Urbis the winter before and had shown to nobody. It was my gloss of the Aphorism: whoever pulls from Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. The Aphorism is a warning. My paper on correspondence had gone about the country from hand to hand. This one lay in the bottom of my case, and the first volume's notes do not mention it. I left it out. On that street, for the first time, I asked myself why, and I wrote the question down, and I did not answer it.
 
 Then I climbed the outside stair past the lower room's door, where lamplight lay along the sill, and at my own table I opened the texts I had copied at Genesio to their first page.
 
 ## Chapter the Seventh · What Malphas Wrote
 
-The next afternoon I went to the café on the square, because Draycott would be there. Neros said he had kept the good table by the window every afternoon for a turn, with Strom and a pot of coffee, and he had. I sat down at it without being asked. I had watched him do as much to Furveus two winters before, and I found I had kept the manner.
+The next afternoon I went to the coffee-house on the square, because Draycott would be there. Neros said he had kept the good table by the window every afternoon for a turn, with Strom and a pot of coffee, and he had. I sat down at it without being asked. I had watched him do as much to Furveus two winters before, and I found I had kept the manner.
 
 "Kwon." He looked pleased. The dead front tooth showed, gray among the white. "You'll take coffee."
 
@@ -98,13 +98,13 @@ The next afternoon I went to the café on the square, because Draycott would be 
 
 "Then I'm listening."
 
-"You are selling a man his wife's likeness, poured into a Draft and walked by a working, and he will call it his wife because it will answer to her name. Whoever draws on Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. That is what your nobleman has bought."
+"You are selling a man his wife's likeness, poured into a Draft and walked by a working, and he will call it his wife because it will answer to her name. Whoever pulls from Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. That is what your nobleman has bought."
 
 Draycott leaned back and turned the signet on his smallest finger. "Say it again," he said. "Slowly. The middle."
 
 I said it again, slowly. His lips moved on arranged in their image, and his eyes stayed on my face the whole while. I have thought since that he was taking down my manner a second time, with the matter already in his notebook. I kept the lens on at that table.
 
-Strom said nothing. He turned his cup, and turned it again, and I kept my eyes on his hands, because the ink under his nails was the circle's and it took the café lamp as it had taken Furveus's, drinking at the edge of the flame. He caught me at it. He turned the cup once more and looked at the door.
+Strom said nothing. He turned his cup, and turned it again, and I kept my eyes on his hands, because the ink under his nails was the circle's and it took the coffee-house lamp as it had taken Furveus's, drinking at the edge of the flame. He caught me at it. He turned the cup once more and looked at the door.
 
 "He has bought nothing he didn't ask for," Draycott said. "He asked for close. Close is what the art gives."
 
@@ -148,7 +148,7 @@ I took it for the argument of a man who has already lost it with himself and is 
 
 Malphas looked at the stove. He looked at it a long while with his good hand over the other, and then he took the manuscript back under his arm and went to bed.
 
-The turns went. Furveus prepared, and I said nothing more to him about it, having said it once. That winter he dictated the Tria Prima to me at the bench, the separating and the Whitening and the Wedding, step by step. His hand would no longer write a formula small enough to read. He laughed about it first, then told me. One evening Strom climbed our stair on his straight knee to ask Malphas about the older hands in the Genesio stacks, and the two of them sat at the stove until the lamp wanted oil. At the turn of the year the vessel went out on the line in a crate packed with straw, with Furveus on one side of it and Strom on the other.
+The turns went. Furveus prepared, and I said nothing more to him about it, having said it once. That winter he dictated the Tria Prima to me at the bench, the separating and the Whitening and the Wedding, step by step. His hand would no longer write a formula small enough to read. He laughed about it first, then told me. One evening Strom climbed our stair on his straight knee to ask Malphas about the older hands in the Genesio stacks, and the two of them sat at the stove until the lamp wanted oil. At the turn of the year the vessel went out on the kept road in a crate packed with straw, with Furveus on one side of it and Strom on the other.
 
 I will not describe what the nobleman received in the eastern lowlands. I was not there.
 
@@ -186,17 +186,17 @@ In the first volume I promised the Seven Cacodaemonic Corruptions to the second.
 
 The Great Work moves through seven stages: Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation. They are older than the Heralds and older than Year Zero. The primer Malphas set on a kitchen table taught them as disciplines laid on the matter in the vessel and on the maker standing over it. I hold with the primer. What burns in the crucible burns in the man who tends it. The Work is a method and a judgment at once.
 
-I use cacodaemon in its first sense, the harmful spirit, set against the daimon that guides. A cacodaemonic corruption is a stage become a method without a judgment, in which the maker stops asking what a process shows him and asks what it will let him do. Each stage but Conjunction draws on a current of its own. Cut from what feeds it, a stage goes to work alone.
+I use cacodaemon in its first sense, the harmful spirit, set against the daimon that guides. A cacodaemonic corruption is a stage become a method without a judgment, in which the maker stops asking what a process shows him and asks what it will let him do. Each stage but Conjunction pulls from a current of its own. Cut from what feeds it, a stage goes to work alone.
 
 Calcination Perverted, the Corruption of Conviction. Its root is Cinerion. Lawful calcination burns away vanity, inherited falsehood, and the crust a man grows over what he thinks he knows. It leaves him poorer in illusion and easier to correct. Perverted, it burns away his doubt. He comes out of that fire sealed. I met it in the king's hall, where with the lens off a man's resonance read dry and angular and did not move when I spoke of his wife.
 
-The Aphorism is seeded in this corruption. A man who first draws on Mortalis out of grief is not yet corrupted. The man who goes on because he has become certain the result is real has passed into Calcination Perverted, and he will tell himself with perfect conviction that the likeness is the woman. Every practitioner of Mortalis who insists an impression is the whole person belongs here. So, I think, may the grief that pays him.
+The Aphorism is seeded in this corruption. A man who first pulls from Mortalis out of grief is not yet corrupted. The man who goes on because he has become certain the result is real has passed into Calcination Perverted, and he will tell himself with perfect conviction that the likeness is the woman. Every practitioner of Mortalis who insists an impression is the whole person belongs here. So, I think, may the grief that pays him.
 
 Dissolution Perverted, the Corruption of Submission. Its root is Dissolution. Lawful dissolution softens the self that Calcination has cleared into relation with a greater law; the maker stops performing and begins to listen, and he keeps himself while he does it. Perverted, he dissolves into another will: a patron's, a master's, a house's, an order's. He is offered access, or belonging, or relief. He pays with his judgment. The signs reach his mouth before they reach his work: "I had no choice," "it was necessary," "someone would have done it anyway."
 
 The third of those was said at my own table that winter, with written in place of done.
 
-Malphas is my example, and I name him because an example is useless unnamed. He wanted the sealed stacks at Genesio. I believe he wanted them for his verses, which had outgrown what the open floors could feed and which journals across the Alftian country had begun to print under his own name; he has never told me so, and I may be wrong. Two visitors held the stacks. I have met one of them. Between them they held his left hand as well, and the mark on it is all I have to show for that half of the bargain. The title was theirs; he told me so. I take it the key on a cord and the gate standing open behind him on the stair were theirs as well. I did not ask. He wrote what was wanted in his own clean hand, and it carries his name.
+Malphas is my example, and I name him because an example is useless unnamed. He wanted the sealed stacks at Genesio. I believe he wanted them for his verses, which had outgrown what the open floors could feed and which stationers across the Alftian country had begun to copy and sell under his own name; he has never told me so, and I may be wrong. Two visitors held the stacks. I have met one of them. Between them they held his left hand as well, and the mark on it is all I have to show for that half of the bargain. The title was theirs; he told me so. I take it the key on a cord and the gate standing open behind him on the stair were theirs as well. I did not ask. He wrote what was wanted in his own clean hand, and it carries his name.
 
 I do not condemn him. He knew what he had done, and the footnote is my proof. It is the most honest page in the manuscript. It is also the one thing that stands between that text and its worst form.
 
@@ -217,13 +217,13 @@ It came to the flat in the spring after the commission, folded twice and sealed 
 > 
 > I give it only in outline, being uncertain of the proper channels for more. It belongs to none of the three. I call it intentional, provisionally, knowing the word will agitate you. In certain cases the impression keeps an intent. What it keeps is narrower than memory or name, and more purposive than the warmth the Sympathetic Bond Trace carries.
 > 
-> I am aware that this challenges the foundation of the gloss you gave me at the café. I write to you because I believe you are the only scholar now able to address the challenge rigorously, and because Furveus has declined to discuss it further.
+> I am aware that this challenges the foundation of the gloss you gave me at the coffee-house. I write to you because I believe you are the only scholar now able to address the challenge rigorously, and because Furveus has declined to discuss it further.
 > 
 > I would welcome a meeting at your convenience.
 > 
 > G. Draycott
 > 
-> P.S. Ivor Strom wishes me to say that he bears no grievance regarding what was said at the café. He has, however, noticed that you were watching.
+> P.S. Ivor Strom wishes me to say that he bears no grievance regarding what was said at the coffee-house. He has, however, noticed that you were watching.
 The letter was received. I have copied it into this manuscript for the record. I have not answered it.
 
 Kwon Mu-jin
@@ -232,25 +232,25 @@ Kwon Mu-jin
 
 I left Castlefall in the spring with Neros. Malphas stayed.
 
-"The journals want verses," he said, "and this table has never once argued with me."
+"The stationers want verses," he said, "and this table has never once argued with me."
 
 He did not say, and I did not press, that Draycott still had a copy of the manuscript and that the man who wrote it might want to stay within a day's walk of whatever Draycott did with it. That last is my inference. I wrote it in my journal on the platform and have not crossed it out.
 
-The line ran toward the heartland all day on its hum, and the carriage smelled of damp wool and warm brass. Neros sat with his charts rolled under the seat. There was a quiet on him I had not known before, kept with attention, as a man keeps a beam propped. Between two stations he told me the Weight was not where it should be.
+The kept road ran toward the heartland all day on its hum, and the cart smelled of damp wool and warm brass. Neros sat with his charts rolled under the seat. There was a quiet on him I had not known before, kept with attention, as a man keeps a beam propped. Between two waystations he told me the Weight was not where it should be.
 
 He had set it nightly against the old tables and against my three boyhood years, which he had copied at Genesio and kept, and he gave me the nights in the order he had measured them. Through the turns of the commission it kept its place. Some turns after the vessel was poured it began to stand a little out of it, always to the same side and on more than one night, by a margin no eye would catch and the old tables' allowance for error would not cover.
 
 "What do you think caused it?"
 
-He took longer over the question than it deserved. The carriage passed a gauge-housing on a post with a Guild seal on its door, and the hum dropped a note and settled.
+He took longer over the question than it deserved. The cart passed an assay post with a Guild seal on its case, and the hum dropped a note and settled.
 
 "Correspondence," he said at last. "But I cannot identify the source."
 
 That which courseth above is as that which courseth below. I had it on the flyleaf of the first volume in my own wording, and from Venur's attic before that, and the amulet he gave me lay cold against my sternum while I turned it over. My reading, which I set down as a guess, is this. The commission bent something below, in a lowland house, and the Weight showed it above, as still water holds the face that bends over it. It is the first time I have been able to set correspondence against an instrument. The Weight moved after the vessel was poured, some turns after, and I have no account of the lateness. I record the lateness because Neros measured it.
 
-Somewhere past the last of the Uplands the footnote came back to me whole, the way a dose table comes back to a man who has copied it enough times. It asked what the impression is, if it is not real, and said the question had never been asked properly. It has been asked properly now. Whether it was asked by the right man, in the right document, is another question, and I did not answer it on that carriage.
+Somewhere past the last of the Uplands the footnote came back to me whole, the way a dose table comes back to a man who has copied it enough times. It asked what the impression is, if it is not real, and said the question had never been asked properly. It has been asked properly now. Whether it was asked by the right man, in the right document, is another question, and I did not answer it on that cart.
 
-Urbis had its trams by then. They ran on the rails I had watched them set into the high street, drawn along the conduit on a hum lower than the line's, and people rode the back plates reading broadsheets and paid a copper to a boy with a leather pouch. The Monastery still said the Thrice-Great. It said it in corridors and on the bridge. I answered to my name.
+Urbis had its new paving by then, the stone I had watched them set into the high street, and the carriers' carts ran along it on a hum lower than the kept road's, and people rode the tailboards reading hand-copied bills and paid a copper to a boy with a leather pouch. The Monastery still said the Thrice-Great. It said it in corridors and on the bridge. I answered to my name.
 
 Penn found me at the refectory door before the first frost. I told him about the commission, with no names in it. His father left no body, he said. The claw came back, and nothing else did. I asked whether he would want him back from what the places and the bonds still held, if a man could be found to pour it. He rubbed the drake's claw in his amulet with his thumb and looked at the floor for some time.
 
@@ -264,17 +264,17 @@ At fourteen I walked out of a court on the day it named me, and I did not want t
 
 He heard me out, and did not argue.
 
-I crossed the Heralds' bridge in the evening with my case. It is an inscribed array laid over the district main, and years of crossings have left their Residue in its field, worn smooth as a stair-tread. Halfway over, my eyes went first. The rail under my hand was a rail and the edge of a threshold, the planks were planks and a passage, and both facts bore weight at once. Then the field from the king's hall came again.
+I crossed the Heralds' bridge in the evening with my case. It is an inscribed array laid over the rich ground of the district, and years of crossings have left their Residue in its field, worn smooth as a stair-tread. Halfway over, my eyes went first. The rail under my hand was a rail and the edge of a threshold, the planks were planks and a passage, and both facts bore weight at once. Then the field from the king's hall came again.
 
 In the hall it had set round my voice and gone when I stopped speaking. On the bridge it set round nothing I was doing, and it stayed. A solution seeded with grains below a critical size takes them back into itself as fast as it makes them. Past that size each grain grows, because growing costs it less than dissolving, and it goes on growing after the hand that seeded it is gone. Coagulatio is that law. I had got past the size. Heat came off my Shell into the evening air, arc-blue stood off my knuckles in broken shards, and the hair rose on my forearms under the sleeves.
 
-I took the lens off in the middle of the bridge. η 0.71. A little under a million units. The array held steady over the main beneath me, and my own field held inside it, a standing region with a clear edge that moved when I moved. The primers call that a Domain. Mine has no name yet.
+I took the lens off in the middle of the bridge. η 0.71. A little under a million units. The array held steady over the rich ground beneath me, and my own field held inside it, a standing region with a clear edge that moved when I moved. The primers call that a Domain. Mine has no name yet.
 
-The migraine met me on the station platform. I rode home with it, the lens in my fist, until the Uplands came up gray in the window.
+The migraine met me on the waystation platform. I rode home with it, the lens in my fist, until the Uplands came up gray past the tailboard.
 
 ## Chapter the Eleventh · The Room at Sum-gol
 
-I came up the valley at the start of the winter, on foot from the last station, past ward-posts white on their windward faces. A carter coming down asked who kept my posts. I told him the school's carver kept them, and he looked at my lens and touched his hat. The ground pressed at my temples from the first bend of the river, and it went on pressing for a month, as it always has.
+I came up the valley at the start of the winter, on foot from the last waystation, past ward-posts white on their windward faces. A carter coming down asked who kept my posts. I told him the school's carver kept them, and he looked at my lens and touched his hat. The ground pressed at my temples from the first bend of the river, and it went on pressing for a month, as it always has.
 
 Sixty roofs, the terraces brown under the first snow, the school with more benches than pupils. The school's cedar beams were cold and dry, and by summer they would weep sap again, which the old men still said was the wards drinking. Behind the school the orchard stood bare. I counted it on the second morning: thirty-one trees. Across the river the Kept Vigil stood where it has always stood, the one ground in the valley nobody measures and nobody goes near, and I did not measure it either.
 
@@ -282,7 +282,7 @@ The schoolmaster's hands came first. Her knuckles had swollen with the joint-ach
 
 "A summoner cannot compel," she said on my first morning, as if I were six.
 
-"He is recognised or he is not."
+"He is recognized or he is not."
 
 "You remember the words." She set the straight edge down. "The work is the credential. Nothing else survives the examination."
 
@@ -328,7 +328,7 @@ I told him. Separation Perverted, the Corruption of Non-Commitment. Its root is 
 
 Draycott does not suffer from it. He commits to everything he sees, with the whole force of Conviction. Strom, I think, dissolved early into whatever current ran strongest past him, and has been carried since. I did not give Doyun the nearest example. I give it here.
 
-I recognised it in the mirror. I told Furveus plainly, and Draycott plainly at his own table, and I would do both again. The corruption is in what I kept. I had watched the cat drink at the barrel all summer and written it down, which is what I do with a thing I see. I said nothing to the boy, because it was his cat. It is in a letter that challenged my own gloss and asked me to answer. The letter is still in this manuscript, unanswered through two midwinters with the third coming on, in a valley that settles its quarrels and pays its debts in the last turns before the Thread-Reading, because the Crow reads each of us then. It is in the paper at the bottom of my case, and in the question I wrote on a post in Castlefall and have never answered. It is in a coffin at Genesio. What I met there, the ground closed round a weight of its own like a hand round a stone and a pull toward it at the floor of my Crystal, answers to what Draycott describes: a residue that keeps an intent. I read his letter and knew that it answered. I filed the coffin again, knowingly, in the drawer where I first put it on the walk back up the passage.
+I recognized it in the mirror. I told Furveus plainly, and Draycott plainly at his own table, and I would do both again. The corruption is in what I kept. I had watched the cat drink at the barrel all summer and written it down, which is what I do with a thing I see. I said nothing to the boy, because it was his cat. It is in a letter that challenged my own gloss and asked me to answer. The letter is still in this manuscript, unanswered through two midwinters with the third coming on, in a valley that settles its quarrels and pays its debts in the last turns before the Thread-Reading, because the Crow reads each of us then. It is in the paper at the bottom of my case, and in the question I wrote on a post in Castlefall and have never answered. It is in a coffin at Genesio. What I met there, the ground closed round a weight of its own like a hand round a stone and a pull toward it at the floor of my Crystal, answers to what Draycott describes: a residue that keeps an intent. I read his letter and knew that it answered. I filed the coffin again, knowingly, in the drawer where I first put it on the walk back up the passage.
 
 I was clear about what I saw. I had simply decided not to be responsible for it.
 
@@ -362,7 +362,7 @@ Affixed by the hand of Kwon Mu-jin, for the use of whoever continues this work. 
 
 **The drift of the Weight.** Neros writes that it has stopped. It has stood at its new place since the summer after the commission. Whether the commission's mark has come to rest there, or something we have not found is moving it now, he cannot say from what he has. He is building a better instrument, an object-glass cut in two halves, one sliding against the other, which lays the image of one star onto the image of another and reads the angle between them off the slide. He means to take his readings to the Measurewrights at Nalūn to be checked.
 
-**Separation Perverted.** Recognised in myself. The stage asks that what has been separated out be acted on, and clarity that stops short of commitment inverts it.
+**Separation Perverted.** Recognized in myself. The stage asks that what has been separated out be acted on, and clarity that stops short of commitment inverts it.
 
 **Doyun.** A second cat, black. It is called Nabi. A talent for the Draft trade; nothing he brews refills anyone, and he knows it. Questions about Anamnesis that I do not yet know how to answer. I have given him Malphas's address.
 
@@ -377,7 +377,7 @@ Affixed by the hand of Kwon Mu-jin, for the use of whoever continues this work. 
 **A coffin at Genesio.** I have still not asked.
 
 **Draycott's letter.** I will answer it, though not soon. It is still in this manuscript, folded on its own creases.
-> Deposited by the author for common use at the Archivum of the Heralds, Urbis, in the Monastery's lower floors. Year 700 IC, the Withering Era; the tenth year of the Imperial Age.
+> Deposited by the author for common use at the Archivum of the Heralds, Urbis, in the Monastery's lower floors. Year 700 IC, the Withering Era; the tenth year of the Dark Ages.
 > 
 > Transcribed by the Silent Archivists of Vaultmere, Nalūn.
 > 

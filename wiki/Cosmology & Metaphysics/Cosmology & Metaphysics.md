@@ -12,7 +12,13 @@ tags:
 
 > Three planes, nested rather than stacked. Fourteen crowned ideas administering the principles that make the planes legible to each other. One threshold where the laws of all three become negotiable. And, running underneath the whole architecture, a count that was wrong by a factor near forty until somebody checked the ash.
 >
-> *"Reality is the shape that possibility chooses to wear for a little while. The Plane of Fate is the wardrobe."* — Fragment of the Lattice of Names
+> *"Reality is the shape that possibility chooses to wear for a little while. The Plane of Fate is the wardrobe."*
+>
+> *Fragment of the Lattice of Names*
+
+Every midsummer the Dyers of Wenlock Cross play the Making of the World off a wagon in the cloth market, and for two centuries they played it one way. The whole guild holds up a single bolt of undyed linen forty ells long, which is Omnara. Three men in masks tear it lengthwise before the crowd, and the apprentices run the strips through open vats of saffron, madder and woad and come pelting back through the front rows dripping gold for Bairos, red for Aegor and blue for Ashura. In the year before the Concordance was sealed, the pageant-master climbed up in his robe of fourteen colors to give the closing line, "Thirty thousand years of the kings of the Realms," and a Guild surveyor named Lambin Scrope, three cups into the free barrel and still carrying a pail of ash from his morning's work, stood up on a bench and bawled that the man had counted the ash wrong. The madder apprentices got to him first. He went through the woad vat next, and then the pail went over the Provost's wife, and the fight took out the wagon, nine stalls and a good part of Saint's Row. Scrope attended the hearing blue to the ears. The Dyers won the price of the linen and the Guild paid it without complaint, then sealed his figure into the count that autumn. The Dyers still say thirty thousand, louder than ever, and the Guild has ruled that they may, because a pageant is a myth, and this section is about keeping a myth and a measurement on separate shelves.
+
+Everything below is the loudest and oldest argument in the library, and I am very fond of it. Read it knowing that scholars have an account of everything, the gods included, that some of those accounts are wrong, and that a Measurewright will happily fight you about which.
 
 ---
 
@@ -20,16 +26,16 @@ tags:
 
 Everything in this section descends from a single event that no surviving record explains. Before it there was **Omnara**, the state of totality before totality required compartments. After it there were three currents, and from the three currents three planes, and from the three planes three sovereign intelligences, and from the tension between those three the **Fourteen Archons** condensed into conceptual sovereignty.
 
-The planes are nested, not stacked. The **Plane of Fate** lies deepest, the lattice upon which all possibility rests. The **Soul Plane** lies between, the stratum through which abstract law becomes a soul's felt truth. The **Physical Plane** sits at the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a transition zone must exist, and that transition zone is the **Veil**.
+The planes nest inside one another, and any diagram that stacks them is wrong. The **Plane of Fate** lies deepest, the lattice upon which all possibility rests. The **Soul Plane** lies between, the stratum through which abstract law becomes a soul's felt truth. The **Physical Plane** sits at the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a transition zone must exist, and that transition zone is the **Veil**.
 ```mermaid
 flowchart TD
-    O["OMNARA — The Apeiron<br>totality before partition"]
+    O["OMNARA: The Apeiron<br>totality before partition"]
     O -->|"First Current"| C1["Sequence · causality<br>Attraction Force in raw form"]
     O -->|"Second Current"| C2["Substance · mass<br>the debt of consequence"]
     O -->|"Third Current"| C3["Awareness · empathy<br>the recursive spark"]
-    C1 --> PF["THE PLANE OF FATE<br>deepest — the lattice"]
-    C2 --> PP["THE PHYSICAL PLANE<br>surface — event and body"]
-    C3 --> SP["THE SOUL PLANE<br>between — felt truth"]
+    C1 --> PF["THE PLANE OF FATE<br>deepest, the lattice"]
+    C2 --> PP["THE PHYSICAL PLANE<br>surface, event and body"]
+    C3 --> SP["THE SOUL PLANE<br>between, felt truth"]
     PF --> B["BAIROS<br>the Weaver Eternal"]
     PP --> A["AEGOR<br>the Stone-Father"]
     SP --> AS["ASHURA<br>the Breath Between Worlds"]
@@ -41,7 +47,7 @@ flowchart TD
     PP -.-> V
     SP -.-> V
 ```
-> **The hierarchy of law.** Titanic Law governs the geologic and cosmic architecture of the Realms. **Archonic Law** governs the conceptual forces that give physical and energetic phenomena their meaning. **Wellspring Law** governs the behavior of Essence currents and Aether. All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must draw from one of these three strata. No magic exists outside the lattice Omnara's Division created.
+> **The hierarchy of law.** Titanic Law governs the geologic and cosmic architecture of the Realms. **Archonic Law** governs the conceptual forces that give physical and energetic phenomena their meaning. **Wellspring Law** governs the behavior of Essence currents and Aether: Aether comes in types that affect the Soul Crystal differently, those types are the sixty Wellsprings, and each is a source of power that also stands for an alchemical principle and a spiritual transformation. All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must rest on one of these three strata. No magic exists outside the lattice Omnara's Division created.
 
 ---
 
@@ -49,10 +55,10 @@ flowchart TD
 
 The cosmological record and the historical record are two different conversations, and the Guild of Measurewrights has ruled formally that they are not to be reconciled with one another.
 
-The **Epochs** are cosmological. Their durations survive in figures running to the tens and hundreds of thousands, and the Guild has examined every one of those figures and found that not one derives from a count. No calendar existed. No observer stood outside an Epoch to mark its passage. The **Ages** are historical, counted and attested by physical evidence, and the whole of them runs from Year −1,400 to the present.
+The **Epochs** are cosmological. Their durations survive in figures running to the tens and hundreds of thousands, and the Guild has examined every one of those figures and found that not one derives from a count. No calendar existed. No observer stood outside an Epoch to mark its passage. The **Ages** are historical, counted and attested by physical evidence, and the whole of them runs from Year −1,400 to the present. The present, on every page of these shelves, is Year 715 In Concordance, the twenty-fifth year of the Dark Ages, with one unbroken land under everybody's boots.
 
 A document giving both is giving a myth and a measurement, and expects the reader to know which is which.
-> Every claim resting on antiquity is worth less than it was before the Concordance was sealed. A house that held title by right of thirty thousand years now holds it by right of six hundred. The title is not weaker in law. It is weaker in the only currency such claims actually trade in.
+> Every claim resting on antiquity is worth less than it was before the Concordance was sealed. A house that held title by right of thirty thousand years now holds it by right of six hundred. In law the title has lost nothing. It has lost a great deal in the only currency such claims actually trade in.
 
 ---
 
@@ -70,25 +76,25 @@ Three institutional voices produce the material in this section, and they do not
 
 ## Entries
 
-> **The reading order.** Ten documents. The path runs inward from the totality that broke, out to the beings that came of it, and then to the two corrections the Guild made to the record everyone had been reading.
+> **The reading order.** Nine documents. The path runs inward from the totality that broke, out to the beings that came of it, and then to the two corrections the Guild made to the record everyone had been reading.
 >
-> **1 · Omnara and the Division** — the totality before partition, and the event no surviving record explains.
+> **1 · Omnara and the Division:** the totality before partition, and the event no surviving record explains.
 >
-> **2 · The Three Epochs** — the cosmological account. Myth, and known to be.
+> **2 · The Three Epochs:** the cosmological account. Myth, and known to be.
 >
-> **3 · The Fourteen Titans** — the geologic and cosmic architecture. Titanic Law, and the ground the Wellsprings pool in.
+> **3 · The Fourteen Titans:** the geologic and cosmic architecture. Titanic Law, and the ground the Wellsprings pool in.
 >
-> **4 · The Fourteen Archons** — the crowned ideas administering the principles that make the planes legible to one another.
+> **4 · The Fourteen Archons:** the crowned ideas administering the principles that make the planes legible to one another.
 >
-> **5 · The Veil** — the threshold running between all of it. **The single most cross-referenced page in the wiki.**
+> **5 · The Veil:** the threshold running between all of it. **The single most cross-referenced page in the wiki.**
 >
-> **6 · The Celestial Host** — the beings Law folded in order to witness itself.
+> **6 · The Celestial Host:** the beings Law folded in order to witness itself.
 >
-> **7 · The Concordance of Ages** — the count, corrected. Read this before trusting any date anywhere in the wiki.
+> **7 · The Concordance of Ages:** the count, corrected. Read this before trusting any date anywhere in the wiki.
 >
-> **8 · Errata to the Received Registers** — what the correction cost, entry by entry.
+> **8 · Errata to the Received Registers:** what the correction cost, entry by entry.
 >
-> **9 · The Four Ceilings** — why the world's technology sits where it sits, and what removed the limits.
+> **9 · The Four Ceilings:** why the world's making sits where it sits, and what removed the limits.
 >
 > **The two conversations.** The **Epochs** are cosmological: their durations run to the hundreds of thousands and not one of them derives from a count. The **Ages** are historical, attested by physical evidence, and run from Year −1,400 to the present. *A document giving both is giving a myth and a measurement, and expects the reader to know which is which.*
 *The groupings below are the filing. The order above is the path.*
@@ -113,6 +119,6 @@ The cosmological spine, in the order it was made: the totality before partition,
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Faiths of the Four Quarters]]
 > **Time, and what people do about the owners.** Two additions sit under this section.
 >
-> **The Sky, the Hour and the Year** builds the setting's own sky and its own calendar. One sun, one moon whose cycle is exactly twenty-eight days so the month is never in dispute, five wanderers and a pole star, and a year of thirteen months and three hundred and sixty-four days. The day divides by **fourteen**, for the doctrinal reason the Sohai already gives. Seven unequal stations of light against seven of dark, with the Bow at the hinge, set against fourteen equal Guild hours pushed down the wire from Stannvaard. Eight times in thirteen years a nameless day is inserted that belongs to no Archon, and on it no Work falls due, nothing can be entered, no window opens and no instrument binds.
+> **The Sky, the Hour and the Year** builds the setting's own sky and its own calendar. One sun, one moon whose cycle is exactly twenty-eight days so the month is never in dispute, five wanderers and a pole star, and a year of thirteen months and three hundred and sixty-four days. The day divides by **fourteen**, for the doctrinal reason the Sohai already gives. Seven unequal stations of light against seven of dark, with the Bow at the hinge, set against fourteen equal Guild hours, kept on the great water clock at Stannvaard and carried outward by relay rider, sealed sand-glass and the beacon line. Eight times in thirteen years a nameless day is inserted that belongs to no Archon, and on it no Work falls due, nothing can be entered, no window opens and no instrument binds.
 >
 > **The Faiths of the Four Quarters** places Sohai and Sancta Lux against three others, two of which were already written without being called religions: the Dawi **Tally**, the Kharven **Sky**, and the originated **Current**, the folk Wellspring practice that is the largest faith by headcount and has no name for itself. Every entry answers the same six questions, and the last of them is what the faith is wrong about. Cults are handled separately, by how they recruit and how they eat.

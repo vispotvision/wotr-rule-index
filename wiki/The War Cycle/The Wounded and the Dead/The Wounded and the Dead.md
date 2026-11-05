@@ -4,6 +4,8 @@ title: The Wounded and the Dead
 
 ![[Assets/Paintings/wounded-dead.webp]]
 
+On the morning after any battle worth a song the surgeons' awnings are the brightest thing on the field, and the rendering-house carts are already lined up at its edge in their owners' colors, waiting for the order that releases it.
+
 *Reading a body, the sickness that follows an army, the Crystal when the body stops, the rites, and the runners who turn a kill into a reagent.*
 
 - [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]]: What happens to a Soul Crystal when the body stops

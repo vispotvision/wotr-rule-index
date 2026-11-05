@@ -4,6 +4,8 @@ title: The Scene Archive
 
 # The Scene Archive
 
+Nothing goes on this shelf until somebody in it has bled, married, lied, won a bet or lost a kingdom. The under-archivist who proposed filing it in story order was handed the ballads as a place to start and has not been the same since, so the scenes stand here as they came in, and the reading order keeps a page of its own.
+
 - [[The Scene Archive/The Table — Running Pieces]]
 - [[The Scene Archive/The Left of the Door — Renard Greymane at the Altar-Room Door]]
 - [[The Scene Archive/Scenes/Cozbi Sealed Retreat|Cozbi Sealed Retreat]]

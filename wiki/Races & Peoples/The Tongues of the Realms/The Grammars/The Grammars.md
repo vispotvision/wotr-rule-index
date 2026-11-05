@@ -4,6 +4,8 @@ title: The Grammars
 
 ![[Assets/Paintings/tongues.webp]]
 
+One of the better grammars on this shelf was paid for by a Stannvaard salt merchant who had just learned, in open court and in front of his wife, that he had sworn himself to a Dawi brewery for life.
+
 *The constructed languages of the Realms, each with its own grammar.*
 
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions|Common — The Tongue With No Distinctions]]: The tongue the story is told in. The Tongues of the Realms governs, with one exception noted below.

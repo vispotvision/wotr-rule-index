@@ -66,7 +66,7 @@ Oak and black spruce drowned when the ice dammed the northern drainage, buried i
 > It also happens to preserve food. **The northern oath-bound trade houses have never needed to lie about the value of what they sell.**
 >
 > Bearing poor, Holding deliberately nil. Resonance: Fixatio. Family Materia, Domain Material Science. Fails in standing water, which is why the chain-cities are obsessive about their drainage in a way outsiders find comic until the first collapse.
-**Blackcap Sulphide** · *T3 · Metal ore · Melt sheet beneath the Ring*
+**Blackcap Sulfide** · *T3 · Metal ore · Melt sheet beneath the Ring*
 
 Massive nickel and copper sulphide with a platinoid fraction, concentrated where the impact melt cooled and settled. Alloyed into iron it produces a metal that **keeps its temper inside a forge-array's working field**, where ordinary steel goes soft and stupid. Every crucible tong, array clamp, and furnace door hinge worth owning is Blackcap alloy. Bearing very good, Holding moderate. Resonance: Manganthra. Family Materia, Domain Material Science. Roasting it releases a sulfur fume that has killed the vegetation for six leagues downwind of the Ring smelters and shows no sign of stopping.
 

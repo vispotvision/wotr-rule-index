@@ -4,7 +4,7 @@ title: The Black Concord
 
 # The Black Concord
 
-*Filed under Restricted Article XII — "On Necessary Concealment." Access Level: Parun Lock Authority, Eyes of the High Concordant only.*
+*Filed under Restricted Article XII, "On Necessary Concealment." Access Level: Parun Lock Authority, Eyes of the High Concordant only.*
 > There exists a Division that the public Codex does not name. A record that does not echo in the Lattice. A shadow that moves where the law cannot tread.
 >
 > The Black Concord is **not evil, nor good.** It is the void between truths, **where the Lattice stores the acts that must never resonate.**
@@ -13,7 +13,7 @@ title: The Black Concord
 
 ## Purpose
 
-The Black Concord exists to safeguard the Concord Codex from internal collapse and metaphysical exposure. When truths too great to exist threaten the order — **divine uprisings, Titan awakenings, collapsed Wellsprings, or human ascensions gone wrong** — the Black Concord acts before the world can learn.
+The Black Concord exists to safeguard the Concord Codex from internal collapse and metaphysical exposure. When truths too great to exist threaten the order (**divine uprisings, Titan awakenings, collapsed Wellspring sites, or human ascensions gone wrong**), the Black Concord acts before the world can learn.
 
 Unlike other Divisions, it answers only to the High Concordant. **Its operations are invisible to the Concord Council**, and its members' names are expunged from both mortal and divine record.
 > *"In silence, the law endures."*
@@ -30,9 +30,9 @@ Hierarchy is simple and absolute. **Each rank is an echo of absence.**
 | **The Wraiths** | Elite agents drawn from the Severed, Reborn, or Paragon operatives. Each holds a false identity in public life |
 | **The Shades** | Field operatives with erased lineage and rewritten memories. Infiltrators, assassins, containment specialists |
 | **The Scribes of Ash** | Archivists who record erased history on fading vellum, **then burn the pages to seal events from time** |
-| **The Null Priests** | Ritualists responsible for metaphysical redactions. **They silence Wellsprings or kill gods through temporal sealing** |
+| **The Null Priests** | Ritualists responsible for metaphysical redactions. **They silence Wellspring sites or kill gods through temporal sealing** |
 
-Every mission, name, and record is burned after execution. Only the Overseer retains fragmented knowledge, stored in a sealed chamber called the **Echo Vault** — *a temporal construct that forgets itself every cycle.*
+Every mission, name, and record is burned after execution. Only the Overseer retains fragmented knowledge, stored in a sealed chamber called the **Echo Vault**, *a temporal construct that forgets itself every cycle.*
 
 ---
 
@@ -46,7 +46,7 @@ Every mission, name, and record is burned after execution. Only the Overseer ret
 | **Four · Null Operations** | **Complete deletion of a location, cult, or entity from metaphysical existence** |
 | **Five · Codex Revisions** | **Rewriting of the Concord Codex itself.** Only by direct command of the High Concordant |
 
-> The Black Concord **does not kill in the traditional sense.** It removes resonance — severing the subject's connection to history, leaving no echo, memory, or shadow behind.
+> The Black Concord **does not kill in the traditional sense.** It removes resonance, severing the subject's connection to history, leaving no echo, memory, or shadow behind.
 >
 > This process is known as **Aether Nullification.** To the Lattice, **it is as if they never lived.**
 
@@ -54,9 +54,9 @@ Every mission, name, and record is burned after execution. Only the Overseer ret
 
 ## Recruitment
 
-**No one joins the Black Concord by choice. They are taken** — chosen from the ranks of the condemned, the Forsworn, or the dead. Through the **Rite of Absence**, their Soul Crystal is hollowed and re-tuned to the Null Frequency. Their memories are rewritten to serve the Accord's unseen necessities.
+**No one joins the Black Concord by choice. They are taken**, chosen from the ranks of the condemned, the Forsworn, or the dead. Through the **Rite of Absence**, their Soul Crystal is hollowed and re-tuned to the Null Frequency. Their memories are rewritten to serve the Accord's unseen necessities.
 
-To outsiders, these agents appear as ordinary operatives, scholars, or travelers. But the Black Concord can recognize one another by their **Resonance Silence** — *the faint emptiness that follows in their wake, a lack of Essence hum in the world around them.*
+To outsiders, these agents appear as ordinary operatives, scholars, or travelers. But the Black Concord can recognize one another by their **Resonance Silence**, *the faint emptiness that follows in their wake, a lack of Essence hum in the world around them.*
 
 ---
 
@@ -68,16 +68,16 @@ To outsiders, these agents appear as ordinary operatives, scholars, or travelers
 
 **The Mirror of Amnesia** · An artifact that transfers memory from victim to user, **then self-destructs.**
 
-**The Oathknife** · A blade forged from the heart of a dead Wellspring. **Its cut severs both body and record.**
+**The Oathknife** · A blade forged from the heart of a dead Wellspring site. **Its cut severs both body and record.**
 
-**The Codex Fragment** · The Overseer's most sacred relic — a lost page said to contain **the Lattice's erasure command.**
+**The Codex Fragment** · The Overseer's most sacred relic, a lost page said to contain **the Lattice's erasure command.**
 
 ---
 
 ## Sanction and Oversight
 
 Though answerable to no one but the High Concordant, the Black Concord is monitored **indirectly** by the Prime Arbiter and Grand Curator through **Parun Counterseals hidden in the Codex of Law.**
-> If the Overseer ever defies the High Concordant's will, those seals activate the **Reverse Lattice Protocol** — erasing the Black Concord entirely, including all its records and members.
+> If the Overseer ever defies the High Concordant's will, those seals activate the **Reverse Lattice Protocol**, erasing the Black Concord entirely, including all its records and members.
 >
 > **It has been triggered only once.** The result was **the Night of Unremembering**, when half the Accord's archives vanished and **three Divisions forgot an entire century of their own history.**
 
@@ -87,12 +87,12 @@ Though answerable to no one but the High Concordant, the Black Concord is monito
 
 **Operation Ecliptica** · Erasure of the Divinity known as **Sire Ophen**, who attempted to overwrite the Harmonial Law.
 
-**Operation Pale Gate** · Sealing of the Rift in the Southern Wellspring during the Withering Age.
+**Operation Pale Gate** · Sealing of the Rift at the Southern Wellspring site during the Withering.
 
 **Operation Emberveil** · Assassination of **ten Archmagisters** who attempted to create a synthetic Titan.
 
 **Operation White Silence** · **Deletion of an entire city from the Mortal Plane** after its citizens achieved collective Ascension without sanction.
-> These fragments remain partially remembered **only because the Black Concord allowed them to be remembered** — a warning to those who believe the law cannot bleed.
+> These fragments remain partially remembered **only because the Black Concord allowed them to be remembered**, a warning to those who believe the law cannot bleed.
 
 ---
 
@@ -104,8 +104,8 @@ The Black Concord operates under one sacred paradox.
 >
 > For every hero the Lattice celebrates, **a hundred silent shadows die to make the story believable.** When the Accord proclaims peace, it is the Black Concord who kills the memory of war. When the Accord restores balance, it is the Black Concord who buries what must never be known.
 >
-> Their existence is both crime and salvation — **the sin that keeps the law pure.**
+> Their existence is both crime and salvation, **the sin that keeps the law pure.**
 >
 > *"If this record is read, you were meant to. If it is remembered, then silence has failed. May the shadows remain loyal where light cannot."*
 >
-> — Excerpt from the High Concordant's personal Lattice writ, Year 027 IC, Voyager Era
+> Excerpt from the High Concordant's personal Lattice writ, Year 027 IC, Voyager Era

@@ -4,6 +4,10 @@ title: The Long March
 
 # The Long March
 
+Marshal Odo Hartshorn of Wend is remembered for one idea. In the spring of his last campaign he proposed to carry his practitioners' refills along with them, the way he carried their biscuit, and he sent three hundred sealed casks of Class I stock (raw Aether out of a vein) up the Wend road on sixty ox-wagons painted red and gold, with a band in front. Sealed stock leaks, and it leaks faster when jolted and faster beside other stock. By the ninth day the column shone. The oxen's breath came out rose-colored, the carters' hands glowed to the wrist, the ruts behind the wagons held a pale light till morning, and a shepherd boy thirty miles off was able to tell the enemy's scouts exactly where to ride, adding that it was very pretty. At the far end, four days past his last vein, Hartshorn ordered a cask broached for Dame Alienor Crane, the best practitioner he had, in front of the staff. She drank a pint on his word. She was sick for nineteen days, with her aura the color of a week-old bruise, and the rest of the casks went into one excellent ward around a market town nobody needed. The ranks called him Old Moonshine until they ran out of food, and then they called him something else.
+
+Hartshorn's mistake is the subject of this document. Two kinds of supply feed an army, one of them will go in a wagon and the other will not, and the people who wrote the following had been counting the difference for four hundred years.
+
 *Supply, Distance, and the Refilling of Magazines*
 > Issued jointly by the Logistics and Supply Division and the Strategic Division. **The vein schedules appended to the original are not reproduced.**
 > 
@@ -19,7 +23,7 @@ title: The Long March
 
 An army requires two things it cannot manufacture in the field, **and they behave in opposite ways.**
 
-The first is food, fodder, powder, iron and cloth. Heavy, dull, **and perfectly transportable.** They can be stockpiled, requisitioned, seized, spoiled and counted. **Their arithmetic is unforgiving and entirely soluble by anyone willing to do it.**
+The first is food, fodder, bolts, iron and cloth. Heavy, dull, **and perfectly transportable.** They can be stockpiled, requisitioned, seized, spoiled and counted. **Their arithmetic is unforgiving and entirely soluble by anyone willing to do it.**
 
 **The second is Essence, and it cannot be supplied at all in the sense a quartermaster means.**
 
@@ -28,10 +32,12 @@ The first is food, fodder, powder, iron and cloth. Heavy, dull, **and perfectly 
 | Property | Consequence |
 |---|---|
 | **It leaks** | Sealed stock loses measurably in transit and loses faster under motion, heat and proximity to other stock. **A cask that left the depot full arrives at a figure the assay houses can predict and the quartermaster cannot prevent** |
-| **It cannot be assayed in the field** | Class, Fidelity and Carry require a coil, a reference salt and a Measurewright. **None of these travels.** A commander in the field holds stock **whose actual contents are a matter of faith in the seal on it** |
-| **It does not survive its owner** | Essence organised by a Soul Crystal **dies with the Crystal.** A practitioner cannot be topped up from a barrel **any more than a man can be topped up from another man's blood without consequence.** Class I vein draw can fuel an array. **It cannot refill a practitioner** |
+| **It cannot be assayed in the field** | Class (where the stock came from), Fidelity (how close it runs to the reference figure) and Carry (how much of its origin came with it) require a coil (the assay house's great brass instrument), a reference salt and a Measurewright. **None of these travels.** A commander in the field holds stock **whose actual contents are a matter of faith in the seal on it** |
+| **It does not survive its owner** | Essence organized by a Soul Crystal **dies with the Crystal.** A practitioner cannot be topped up from a barrel **any more than a man can be topped up from another man's blood without consequence.** Class I stock pulled from a vein can fuel an array (a standing runed working). **It cannot refill a practitioner** |
 
-> The conclusion has governed Accord strategy for four centuries and is stated in the Division's manuals in one line. **A practitioner is refilled by a Wellspring, or not at all.**
+> The conclusion has governed Accord strategy for four centuries and is stated in the Division's manuals in one line. **A practitioner is refilled by the ground they stand on, or not at all.**
+
+A practitioner pulls Aether out of the world around them, refines it in the Soul Crystal into Essence, and holds that Essence as reserve, so where they stand decides how fast they fill. A Wellspring is one of the sixty types of Aether, and a site where one type pools is called a Core in common speech, fed by a channel the surveys call a vein. Rich ground fills a fighter in hours and thin ground starves them for days. The ranks say fat ground and lean ground, and any sergeant can tell you which he is standing on by how his practitioner's temper is holding. A fight Draft (a bottled working) is the one exception anybody has found, and it is a loan: one fighter, one bad minute, and a crash that collects with interest. No quartermaster has ever supplied a march on them, though several have died trying.
 
 ---
 
@@ -39,13 +45,13 @@ The first is food, fodder, powder, iron and cloth. Heavy, dull, **and perfectly 
 
 *Show a competent Crown marshal the saturation survey and he can draw you the campaign without being told the objective.*
 
-Because practitioners replenish from veins and from nothing else, an army carrying practitioners is **chained to Wellspring geography in a way an ordinary army is not chained to anything.**
+Because a practitioner refills at any useful rate only on rich ground, and rich ground lies along the veins, an army carrying practitioners is **chained to Wellspring geography in a way an ordinary army is not chained to anything.**
 
-Campaign routes run vein to vein. **The distance between usable veins sets the maximum operational reach of any force that intends to fight with practitioners at the far end of it.** A commander who marches four days past his last vein is marching an increasingly ordinary army, and **every day beyond that point he is closer to fielding twelve thousand people and no artillery.**
+Campaign routes run vein to vein. **The distance between usable veins sets the maximum operational reach of any force that intends to fight with practitioners at the far end of it.** A commander who marches four days past his last vein is marching an increasingly ordinary army, and **every day beyond that point he is closer to fielding twelve thousand people and no siege engines.**
 > **Veins are objectives whether or not anyone wants them.** Half the sieges in the record are of places nobody valued, sited where they are because a vein is under them. **The town grew around the vein, the fort was built to hold the town, and four centuries later two armies are killing each other over a market square because of geology.**
-**Denial is cheaper than capture** · A vein does not have to be taken. **It has to be made unusable**, and a Sealwright team can foul a vein's usable output for a fortnight at a fraction of the cost of holding it. *The Accord's own law restricts this severely. The Accord's own forces have done it eleven times under Writ.*
+**Denial is cheaper than capture** · A vein never has to be taken. **It only has to be made useless.** A Sealwright team can foul its usable output for a fortnight at a fraction of the cost of holding it, a pair of hired hedge-workers (country practitioners, paid by the job) can salt the ground above it so that Aether will not pool there, and a keeper with a grudge or a purse in his hand can simply close the Core. The old soldier's rule is to take the fight off rich ground and onto salted, bled or thin ground, and let the other side discover what they had been standing on. *The Accord's own law restricts this severely. The Accord's own forces have done it eleven times under Writ.*
 
-**Replenishment is slow and public** · Drawing from a vein takes hours, cannot be hurried, **and produces a signature the War-Priests of the opposing side can read at distance.** An army that is refilling **has announced where it is and that it is currently unable to fight.** *Interdiction of replenishment is the single most productive operation available to a competent staff and the least glamorous.*
+**Replenishment is slow and public** · Pulling from a vein takes hours, cannot be hurried, **and produces a signature the War-Priests of the opposing side can read at distance.** An army that is refilling **has announced where it is and that it is currently unable to fight.** *Interdiction of replenishment is the single most productive operation available to a competent staff and the least glamorous.*
 
 **Poor ground breaks coalitions** · Contingents that have marched past their last vein begin to argue about who gets the next one. **The Division's field manuals include a procedure for allocating vein access between allied contingents. The procedure has never worked.**
 
@@ -59,7 +65,7 @@ Campaign routes run vein to vein. **The distance between usable veins sets the m
 > **A horse** · Roughly ten times a man's weight in fodder, **and this single figure governs everything.**
 >
 > Fodder is bulk, bulk is wagons, wagons need horses, and horses need fodder. **An army's transport eats its own cargo, and past a certain distance from the depot the wagons are carrying nothing but the food of the animals pulling them.**
-**March rate** · Twelve miles a day on road for a formed column. **Ten for the baggage**, which is why the baggage is always behind and **why an army that outruns its train is an army that will halt.** Off road, in weather, or through country that has been stripped — less, and sometimes nothing.
+**March rate** · Twelve miles a day on road for a formed column. **Ten for the baggage**, which is why the baggage is always behind and **why an army that outruns its train is an army that will halt.** Off road, in weather, or through country that has been stripped, less, and sometimes nothing.
 
 **Water** · **Considered last and kills first.** An army standing still fouls its own water within days.
 
@@ -75,7 +81,7 @@ An army that stops eats out its surroundings in about a week **and then must mov
 Campaigns run **from the first grass to the end of harvest and stop**, because horses cannot eat what is not growing and transported dry fodder consumes the transport that carries it.
 > **The tightest weeks are those before harvest**, when last year's stores are gone and this year's is standing green in the field.
 >
-> Armies moving in that window **take the crop before it ripens, which feeds them badly and starves the district completely** — and the second-order deaths from that decision **exceed the battle's by an order the Division does not publish.**
+> Armies moving in that window **take the crop before it ripens, which feeds them badly and starves the district completely**, and the second-order deaths from that decision **exceed the battle's by an order the Division does not publish.**
 Winter quarters are billeted on the countryside. **The army stops being an army and becomes forty thousand unwelcome guests.**
 
 ### Why the Accord campaigns in winter anyway
@@ -90,10 +96,10 @@ Winter quarters are billeted on the countryside. **The army stops being an army 
 
 *What can and cannot be produced on campaign, and why the answer is less than commanders assume.*
 
-The Long Furnace does not move. Neither does a certified circle, a sealed workshop, a coil, **or a Measurewright's reference salt.** The consequence is that **a campaign column can produce nothing above the third tier and can assay nothing at all.**
+The Long Furnace does not move. Neither does a certified circle, a sealed workshop, a coil (the assay instrument), **or a Measurewright's reference salt.** The consequence is that **a campaign column can produce nothing above the third tier and can assay nothing at all.**
 > **WHAT TRAVELS**
 >
-> Wick-Salt · Cutwater Tincture · Bone-Grey Compress · Deadlight Phials · Grey Standing Chalk.
+> Wick-Salt · Cutwater Tincture · Bone-Gray Compress · Deadlight Phials · Gray Standing Chalk.
 >
 > *Household and field stock, made elsewhere, carried sealed, used and discarded*
 >

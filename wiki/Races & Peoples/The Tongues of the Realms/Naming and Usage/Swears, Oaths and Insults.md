@@ -7,6 +7,8 @@ title: Swears, Oaths and Insults
 *Six peoples and how they curse · the Kharven, the Moto, the Dawi, the Accord, the elves and the Zettari · and the words every people shares*
 > Every people swears in its own words first, and in the common tongue's plain body-swears as well. **What a people swears by is what it holds sacred, and what it insults with is what it fears to be.** The Sky, the Fourteen, the named Archons, the Veil, the Realmsong, Varūn and the ancestors carry the weight, and nobody in the four quarters swears by anything else.
 
+The oldest layer of this page reached the Guild on a strip of ship's sail. When the wine cog *Long Hester* opened her belly on the Sowmarsh bar, thirty-eight people spent nine days on a spit of yellow sand with two casks of water and no shared opinion about anything: Kharven sealers, Dawi coopers, a pair of Eressean sisters, a Moto retainer in lacquered harness who corrected everyone, and a chancery clerk named Drogo Fulke. By the third day they had stopped fighting over the water and started fighting over whose insults were worse. By the sixth it was a contest with judges, and a Dawi cooper was winning it by saying one word three times, very quietly. Fulke took it all down on red sailcloth in fish blood, and lost the top of an ear for asking a sealer to repeat *Kiilut*. The boats that came for them found thirty-eight people hoarse, sunburned and on excellent terms. The strip is in the Stannvaard rolls, and these tables are its great-grandchildren.
+
 ## How to Read the Tables
 
 **Strength**, four grades:
@@ -55,7 +57,7 @@ A house that holds the offense is inaccuracy, so its heaviest words are verdicts
 | Clogged. | A house that will not let its dead leave. | hard | Said of a house that keeps its dead in portraits, relics and rehearsed grief |
 | Let him go unread. | May nobody read his name at Ice-out. | grave | A curse wishing a man's death to go unentered and unfaced; spoken by the old, rarely, and never over a body |
 | Written in the wrong hand. | A document in the wrong Archon's hand, void rather than incorrect. | hard | Said of a bastard, a false claim, a forged order, or a man who holds an office he was never read into |
-| Poet. | A swordsman who fights decoratively. | firm | Weapons masters to students; "against plate, do not behave like a poet" |
+| Poet. | A swordsman who fights decoratively. | firm | Weapons masters to students; "against harness, do not behave like a poet" |
 | A snake dressed up as a Moto. | What it says. | hard | Said of a false claimant to the name |
 | Bureimono. | Rude person; insolent wretch: a person of discourtesy. | hard | A lord to an inferior who has forgotten his place; the classic feudal rebuke |
 | Kisama. | You: once honorific, long since contemptuous. | hard | A superior to an enemy or a disgraced inferior; used as a form of address, which is the insult |
@@ -90,7 +92,7 @@ Dawi have no light oath. "Kurme" is the swearing itself, so a Dawi who says "I s
 
 ## The Accord and the Concord
 
-Chartered, metered and entered people swear by paperwork and the Archons' days, and insult by weights and measures. The chancery Latin turns up in any educated mouth, and in a temper most of all. The Accord's calendar gives the Archon days: Auren's for the dead, Veyra's for markets, Irath's for musters, and Uurgath's, which nobody chooses on purpose.
+Chartered, tolled and entered people swear by paperwork and the Archons' days, and insult by weights and measures. The chancery Latin turns up in any educated mouth, and in a temper most of all. The Accord's calendar gives the Archon days: Auren's for the dead, Veyra's for markets, Irath's for musters, and Uurgath's, which nobody chooses on purpose.
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
@@ -101,11 +103,11 @@ Chartered, metered and entered people swear by paperwork and the Archons' days, 
 | Urion te ponderet. | May Urion weigh you. | hard | A curse that wishes judgment on a man; Sancta Lux-leaning speakers, Measurewrights |
 | Nullum et irritum. | Null and void. | firm | Said of a man, a plan or a promise that is worth nothing; clerks and anyone who has spent time around them |
 | Salvo iure tertii. | Saving the right of a third party. | mild | Said drily of a promise with a hole in it, "yes, salvo iure tertii"; advocates, merchants |
-| Pondus falsum. | False weight. | hard | A cheat; market inspectors, merchants, the Assize courts |
+| Pondus falsum. | False weight. | hard | A cheat; market searchers, merchants, the Assize courts |
 | Sine sigillo. | Without seal. | hard | Unregistered, unlawful: said of a bastard, a smuggler, an unlicensed speaker |
 | Short loaf. | A loaf under its assize weight, the commonest charge on any market roll. | firm | A small cheat; street and market speech |
 | Cased. | Looks solid, rings dull when struck. | hard | Said of a fraud; anyone who has heard the small hammer |
-| Cut his plate. | Cut off his supply for arrears. | hard | A threat or curse in main districts: may he freeze in the dark |
+| Pass his door. | Let the warden walk past his lamp for arrears. | hard | A threat or curse on any kept street (one with a lamp-warden's round): may he freeze in the dark |
 | May your Echo stay in the house. | May your dead self linger after the layer-out is gone. | grave | A curse among the poor; not said in a death-house, and not said twice |
 | Blank. | No craft at all. | firm | Craftsmen of the untrained; also a snob's word for most people |
 | Bloody bastard. | What it says. | firm | Any Concord mouth; the educated say "sine sigillo" instead and think it cleaner |
@@ -162,7 +164,7 @@ The Zettari swear in their own tongue. Their oaths need something older than the
 
 ## Across the Realms
 
-Some words belong to no one people. They come from the faiths, from the Gate, from Stage and Path, from the halls, the draw and the dead, and any mouth in the four quarters may use them in its own accent. **Pathless and undeclared are one fact in two mouths:** an Inquisitor means a soul that walks under no Archon, a practitioner means a Crystal that never named its Path, and the Inquisition holds that the two are the same failing.
+Some words belong to no one people. They come from the faiths, from the Gate, from Stage and Path, from the halls, the round and the dead, and any mouth in the four quarters may use them in its own accent. **Pathless and undeclared are one fact in two mouths:** an Inquisitor means a soul that walks under no Archon, a practitioner means a Crystal that never named its Path, and the Inquisition holds that the two are the same failing.
 
 ### The Faiths
 
@@ -177,7 +179,7 @@ The Ordo files in Latin and speaks in its Tenets. Its insults are classification
 | The patient. | Rot that waits. | grave | Inquisitors of the unrepentant, from Tenet II ("Ignorance Is Corruption Made Patient"); it carries the surgeon's other meaning on purpose, the body on the table |
 | Kindling. | What burns was never meant to stand. | grave | A person or a settlement marked for the fire (Tenet V). Commoners turned it round: "a mask's kindling" is anyone who will be next |
 | Fomes. | Latin: tinder, kindling. | grave | The filing form of "kindling," on the entry for a place |
-| Second desk. | Where the authorisation was still sitting when the settlement died. | hard | Inquisitors of Sancta Lux men, and of any official who hides behind procedure |
+| Second desk. | Where the authorization was still sitting when the settlement died. | hard | Inquisitors of Sancta Lux men, and of any official who hides behind procedure |
 | Ladder-man. | One who files and waits. | hard | Inquisition contempt for the Ladder of Standing and everyone on it |
 | Unmasked. | Not yet chosen the mask over the pyre. | hard | Said by Inquisitors of a survivor still deciding; also, inside the Ordo, of a member who is weakening |
 
@@ -191,7 +193,7 @@ The order does not worship, and it says so in its catechism's first line. Its in
 | Adorer. | One who kneels to a measure. | firm from a Lector, hard from a Measurewright | Of shrine-worshippers who pray to Urion, and of the Inquisition, which the order holds has turned a reference into an idol |
 | Apostate. | One who left the order and kept its name. | grave | Sancta Lux of the Inquisition, formally and always |
 | Unscoped. | A sentence that names no limit. | hard | Measurewrights of Inquisitors, and of any officer who enforces past his warrant |
-| False positive. | A reading that convicted the wrong man. | firm | Attestants and Measurewrights to each other: you were a mistake, entered and published |
+| False positive. | A reading that convicted the wrong man. | firm | Attestants and Measurewrights to each other: you were a mistake, entered and posted |
 | Off the reference. | Out of true. | mild | Everyday in the order and around it; a crooked plan, a bent wall, a bad argument |
 | The Judger's number on you. | May your reading come back, and may you have to accept it. | hard | The street's curse, never the order's; the order strikes "the Judger" from every filing and every Attestant says it anyway |
 
@@ -215,14 +217,14 @@ Shrine cultures and the Concord street curse by the Archon whose work fits the o
 
 ### The Gate
 
-Nearly everyone carries a Crystal and almost nobody is taught to wake it. The line between porter and practitioner was drawn by somebody, and both sides of it swear about it.
+Nearly everyone carries a Crystal, about one in ten wakes it, and very few of those climb far. The line between porter and practitioner was drawn by somebody, and both sides of it swear about it.
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
 | Nought. | Class Ø: a Crystal never woken. | hard to a face | Academy and hall slang for the unwoken; "noughts" for the commons at large |
 | Sleeper. | A Crystal nobody attended to. | firm | The politer form; a ranked man's word for a porter, said without looking at him |
 | Birth-gate. | Came through on his father's fee. | hard | Ability-gate practitioners of the house-bred; a stirring child from a poor quarter says it for life |
-| Capped. | Crystal-sealed, as a Board man seals a main. | grave | Of a sealed practitioner; said of an unsealed one it means powerless, and a man will fight over it |
+| Capped. | Crystal-sealed, as a snuffer (the officer who puts out an unpaid lamp) caps a lamp. | grave | Of a sealed practitioner; said of an unsealed one it means powerless, and a man will fight over it |
 | Off-roll. | Unregistered. | hard | Of an Unregistered Natural, a criminal practitioner, and by extension anyone whose papers will not bear looking at |
 | Back-room. | Taught in a back room for a fee. | firm | Of a black-market practitioner; licensed men to unlicensed |
 | Copied. | Learned off a copied Primer. | firm | Of a fraud, or of a man whose skill is somebody else's |
@@ -261,16 +263,16 @@ Practitioners talk exact numbers, so they insult in them. Commons round, and mos
 
 ---
 
-### The Draw
+### The Round
 
-Draw is guild license only and the commons burn oil. The Accord's "cut his plate" belongs with these.
+Lamps, warm stones and warded doors come from hired people on their rounds, past the last round the commons burn oil, and the whole arrangement is a fine thing to swear about. The Accord's "pass his door" belongs with these.
 
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
-| Oil-burner. | A household with no draw. | firm | Main-district speech of the poor quarters |
-| Bad-main. | Raised on a bad main in a crowded quarter. | firm | Of someone twitchy, strange or woken at an odd age; poor quarters say it of their own with pity, everyone else without |
-| Leaker. | One who taps a main he has no license for. | hard | Board men, and householders whose pressure dropped |
-| Hum-deaf. | Cannot hear the draw-hum. | mild | Of the obtuse; Board men of everyone |
+| Oil-burner. | A household no warden calls at. | firm | Kept-street speech of the poor quarters |
+| Bad-ground. | Raised on thin or bled ground in a crowded quarter. | firm | Of someone twitchy, strange or woken at an odd age; poor quarters say it of their own with pity, everyone else without |
+| Leaker. | One who pulls Aether at a Core (a worked Wellspring site) without buying the hour. | hard | Core keepers, and the wardens and householders whose ground went lean for it |
+| Hum-deaf. | Cannot hear the hum of a kept street. | mild | Of the obtuse; wardens of everyone |
 
 ---
 

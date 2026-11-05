@@ -7,15 +7,19 @@ title: The Holy Inquisition
 *The Burning Mandate · Purifiers of the Scale · The Mask-Bearers*
 > *"The procedure is a leash. The Scale does not ask to be interpreted. It asks to be obeyed."*
 >
-> — Cassian Tiberius Cruor, Founding Declaration of the Ordo
+> *Cassian Tiberius Cruor, Founding Declaration of the Ordo*
+
+The dyers' town of Velmouth had a river that ran three colors below the vats, red from the madder yards, blue from the woad sheds and a loud yellow from the weld, and for forty-eight hours after a Circuit Justiciar read the Burning Mandate's declaration in its square, it also had Gervase Reedfoot. The doctrine offers a town two choices, the mask or the pyre. Reedfoot, who ran untaxed pepper on a flat barge called the *Second Wife* and had never in his life paid a toll he could smell his way around, sold a third at a fair rate per head. He took them out by night under wet bolts of cloth, nine trips in two days past the masked pickets on the towpath, and two hundred and twelve people of Velmouth came ashore in the Marches stained to the elbows in whatever they had hidden under; you can still pick out their grandchildren at a fair by the jokes. On the third morning the Inquisition went through the town in order, street by street, gold filigree and red half-capes in the smoke, burning what resisted and collapsing what did not. The vats boiled over. The river ran purple for nine days and the fish came down it cooked. Then a masked clerk walked the ashes with a ledger, entering what had survived, and that ledger, which the Accord later took off a dead Justiciar, lists the *Second Wife*, her draught, her nine trips and the two hundred and twelve, by count, with the hours. They had watched every trip. Reedfoot was found seven months on, tied to his own mooring post, with the page nailed to his chest and his fares counted out beside him to the copper.
+
+This is the fourth of the six incidents the Accord has confirmed. Heralds cry the writ against the Inquisition every quarter day, the bounty on the head of its leader has doubled twice, and no bookie in the four quarters will quote it. The page below gives them their ranks and their names.
 
 ---
 
 ## What the Inquisition Is
 
-The Holy Inquisition — **Ordo Sanctae Inquisitionis** in its own filings, stamped with the root glyph of Sancta Lux that the mother order no longer recognizes as authorized — is a splinter body that broke from Sancta Lux eleven years after Darius completed the post-Bastion architectural reforms. Its members call themselves the true inheritors of Sadara Izayoi's mandate. Sancta Lux calls them apostates. The Guild Accord calls them a rogue militant organization. The civilizations they have burned through call them nothing at all, because the civilizations they have burned through no longer exist.
+The Holy Inquisition, **Ordo Sanctae Inquisitionis** in its own filings, stamped with the root glyph of Sancta Lux that the mother order no longer recognizes as authorized, is a splinter body that broke from Sancta Lux eleven years after Darius completed the post-Bastion architectural reforms. Its members call themselves the true inheritors of Sadara Izayoi's mandate. Sancta Lux calls them apostates. The Guild Accord calls them a rogue militant organization. The civilizations they have burned through call them nothing at all, because the civilizations they have burned through no longer exist.
 
-They number between two hundred eighty and four hundred at any given count, depending on whether the Accord is counting membership or bodies in the field. The roster is deliberately fluid. Recruitment follows purification campaigns — the survivors who choose the mask over the pyre join, and those who refuse both options are not offered a third.
+They number between two hundred eighty and four hundred at any given count, depending on whether the Accord is counting membership or bodies in the field. The roster is deliberately fluid. Recruitment follows purification campaigns: the survivors who choose the mask over the pyre join, and those who refuse both options are not offered a third.
 
 The Accord has classified the Inquisition as an unlawful body and authorized enforcement action. That authorization has been standing for six years. The enforcement has not arrived, because the man who leads the Inquisition is a Stage XIII practitioner at Level 440, and the Accord does not possess enough Stage XIII practitioners to spend one on a fight that would cost them. That writ runs where the Accord's circles have signed. Where the crowns and churches that back the Inquisition rule, it holds legal standing, and in that territory it enforces the Gate on who may learn magic.
 
@@ -23,7 +27,7 @@ The Accord has classified the Inquisition as an unlawful body and authorized enf
 
 ## The Doctrinal Split
 
-The break was not sudden. It was a conclusion.
+The break came slowly, as a conclusion comes.
 
 Sancta Lux under Darius holds that no one person may take a reading, interpret it, and act on it. The Ladder of Standing exists to distribute that authority across multiple hands, multiple grades, multiple examinations. Four hundred men burned at the Eclipse Bastion because Darius did all three alone and was correct. The lesson he drew from that was that correctness is not sufficient authorization.
 
@@ -31,11 +35,11 @@ Sancta Lux under Darius holds that no one person may take a reading, interpret i
 
 Cassian Tiberius Cruor was not at the Eclipse Bastion. He was twenty years old when it happened and had never heard of it. He learned the story as doctrine, in the Attestant's hall, from a Lector who taught it as a triumph of institutional discipline. Something in the telling did not land.
 
-The split happened in the field. Cruor was a Measurewright, stationed at the Eresse chapter, and the reading he took — the one that broke him from the order — concerned a settlement that was being systematically emptied by a practitioner operating two Stages above anyone in Cruor's detachment. The Ladder demanded he file the reading, wait for a Lector, wait for the finding, wait for an Arbiter, wait for authorization. The settlement would have been gone by the time the authorization cleared the second desk.
+The split happened in the field. Cruor was a Measurewright, stationed at the Eresse chapter, and the reading he took, the one that broke him from the order, concerned a settlement that was being systematically emptied by a practitioner operating two Stages above anyone in Cruor's detachment. The Ladder demanded he file the reading, wait for a Lector, wait for the finding, wait for an Arbiter, wait for authorization. The settlement would have been gone by the time the authorization cleared the second desk.
 
 He did not wait. He killed the practitioner. He was correct. The settlement survived. Sancta Lux stripped his standing the following week.
 
-The doctrine he wrote afterward — in a cell, before the tribunal that would exile him — runs to a single page, and every member of the Inquisition carries it on their person.
+The doctrine he wrote afterward, in a cell, before the tribunal that would exile him, runs to a single page, and every member of the Inquisition carries it on their person.
 
 ---
 
@@ -50,23 +54,23 @@ The doctrine he wrote afterward — in a cell, before the tribunal that would ex
 > **IV. Non-Belief Is a Structural Collapse.** A civilization that rejects the reference has removed its own foundation. It will fall, and in falling it will strike everything adjacent. The correction is not punishment. It is architecture.
 >
 > **V. Purification Is Mercy Delivered Early.** What burns was never meant to stand. The alternative is slow collapse, which kills more and kills worse. The fire is the kindness. The delay is the cruelty.
-*That fifth tenet is the one that funds the genocide. They believe it. Not as rhetoric, not as justification after the fact. They believe it the way a surgeon believes the amputation saves the patient. The sincerity is the weapon.*
+*That fifth tenet is the one that funds the genocide. They believe it, with no rhetoric in it and no justification after the fact, the way a surgeon believes the amputation saves the patient. The sincerity is the weapon.*
 
 ---
 
-## Cassian Tiberius Cruor — Pontifex Veritatis
+## Cassian Tiberius Cruor, Pontifex Veritatis
 
 *The Face That Survived · The Burning Mandate · Stage XIII Principality · Level 440*
 
 ### The Man
 
-Cassian Tiberius Cruor was born in the Concordance, third son of a family with no military tradition and no particular attachment to any chartered body. He entered Sancta Lux at sixteen as an Attestant, advanced to Measurewright by twenty-three — unremarkably, by the order's own records — and served without distinction until the incident that produced his exile.
+Cassian Tiberius Cruor was born in the Concordance, third son of a family with no military tradition and no particular attachment to any chartered body. He entered Sancta Lux at sixteen as an Attestant, advanced to Measurewright by twenty-three, unremarkably by the order's own records, and served without distinction until the incident that produced his exile.
 
 What happened after the exile is the part that matters. Power came to him the way it comes to men who have stopped asking whether they deserve it: steadily, without plateau, and with no visible upper boundary. Between exile and founding he gained over three hundred Levels. Sancta Lux's analysts have no model that accounts for the rate. The Accord's analysts have a model, and it involves a Catalyst Event they cannot identify and a Wellspring interaction they do not want to file publicly.
 
 ### The Scarring
 
-The lower half of Cruor's face no longer exists in any functional sense. The mandible is exposed from condyle to condyle — bare bone, partially discolored to a deep amber by the heat that destroyed the tissue surrounding it. The maxilla is partially intact beneath what remains of the nasal bridge. The teeth are visible, locked in a permanent rictus that is neither smile nor grimace but something the body settled into when the nerves stopped reporting. The flesh above the jaw line is a ridged terrain of hypertrophic scarring, drawn tight over the zygomatic arches, the color of old tallow.
+The lower half of Cruor's face no longer exists in any functional sense. The mandible is exposed from condyle to condyle: bare bone, partially discolored to a deep amber by the heat that destroyed the tissue surrounding it. The maxilla is partially intact beneath what remains of the nasal bridge. The teeth are visible, locked in a permanent rictus that is neither smile nor grimace but something the body settled into when the nerves stopped reporting. The flesh above the jaw line is a ridged terrain of hypertrophic scarring, drawn tight over the zygomatic arches, the color of old tallow.
 
 The eyes survived. Deep-set under a brow ridge that the scarring has thickened, amber-irised, and entirely lucid.
 
@@ -74,30 +78,30 @@ The eyes survived. Deep-set under a brow ridge that the scarring has thickened, 
 
 ### Physical Description
 
-Cruor stands just above six feet, broad through the chest and shoulders from thirty years of martial practice that has not softened in exile. His armor is segmented dark plate, articulated at every major joint, the surface carrying golden filigree in patterns that trace the root glyphs of Sancta Lux — [Ur], [Sel], [Va], [Hael] — recut in a grammar the mother order does not authorize. A half-cape of arterial red hangs from the left pauldron, the hem torn in a way that has become deliberate.
+Cruor stands just above six feet, broad through the chest and shoulders from thirty years of martial practice that has not softened in exile. His harness is segmented dark steel, articulated at every major joint, the surface carrying golden filigree in patterns that trace the root glyphs of Sancta Lux, [Ur], [Sel], [Va], [Hael], recut in a grammar the mother order does not authorize. A half-cape of arterial red hangs from the left pauldron, the hem torn in a way that has become deliberate.
 
-His gauntlets are fully articulated golden plate, each finger joint sculpted to move independently, the knuckle-guards carrying Judica rites etched directly into the metal. The rites hold a faint luminescence in dim light. These are the gauntlets of an Inquisitor — the lateral office of Sancta Lux authorized to pronounce sentence in the field without an Arbiter present. Cruor was never invested as one. He took them from the body of the last Inquisitor Sancta Lux sent to bring him in.
+His gauntlets are fully articulated golden steel, each finger joint sculpted to move independently, the knuckle-guards carrying Judica rites etched directly into the metal. The rites hold a faint luminescence in dim light. These are the gauntlets of an Inquisitor, the lateral office of Sancta Lux authorized to pronounce sentence in the field without an Arbiter present. Cruor was never invested as one. He took them from the body of the last Inquisitor Sancta Lux sent to bring him in.
 
 ---
 
-## Seraphiel Aurentius — Justiciar of the Quill
+## Seraphiel Aurentius, Justiciar of the Quill
 
 *The Quiet Architect · The Second Mask · Eressean Elf*
 
 Seraphiel Aurentius is an elven practitioner of the Eressean kindred who departed the order's Eresse chapter hold eighteen months after Cruor's exile. He did not surface again until the Inquisition's first major purification action, at which point he was standing at Cruor's right hand, carrying the doctrine in finished form, and wearing a mask he had made from consecrated ivory.
 
-His birth name in the elven register is not used within the Inquisition and has not been spoken in the Accord's hearing. **Seraphiel Aurentius** is the ordination name he took upon co-founding the Ordo — Seraphiel for the burning ones, Aurentius for the gold.
+His birth name in the elven register is not used within the Inquisition and has not been spoken in the Accord's hearing. **Seraphiel Aurentius** is the ordination name he took upon co-founding the Ordo: Seraphiel for the burning ones, Aurentius for the gold.
 
 ### Physical Description
 
-Tall in the Eressean manner, narrow through the shoulders and long through the limb. His skin carries the warm bronze undertone characteristic of the old Eressean lines — a golden cast that in certain light reads as something closer to metal than flesh. His hair is pale, near-white, falling in loose curls cropped just above the collar. His ears are long and swept backward, the points clearing the crown. His mask is porcelain-smooth ivory, covering the lower face from the bridge of the nose downward, sculpted into an expression of serene neutrality that has not changed in the years anyone has been looking at it. The eyes above are dark, steady, and give nothing.
+Tall in the Eressean manner, narrow through the shoulders and long through the limb. His skin carries the warm bronze undertone characteristic of the old Eressean lines, a golden cast that in certain light reads as something closer to metal than flesh. His hair is pale, near-white, falling in loose curls cropped just above the collar. His ears are long and swept backward, the points clearing the crown. His mask is porcelain-smooth ivory, covering the lower face from the bridge of the nose downward, sculpted into an expression of serene neutrality that has not changed in the years anyone has been looking at it. The eyes above are dark, steady, and give nothing.
 
-He wears white vestments beneath a half-cloak of red — the inverse of Cruor's palette — and carries no visible weapon.
+He wears white vestments beneath a half-cloak of red, the inverse of Cruor's palette, and carries no visible weapon.
 
 ### Role
 
 If Cruor is the fist, Seraphiel is the architecture. He codified the Five Tenets from Cruor's single-page declaration into a functional doctrine, designed the rank structure, wrote the liturgical framework the Inquisition uses for its declarations, and maintains the body's internal discipline. He is the reason two hundred and eighty zealots operate as an organization rather than a mob.
-> He is also, by every account that has reached the Accord's filing desks, the more dangerous of the two. Cruor's power is legible. Seraphiel's is not. He has never taken the field personally. He has never been observed using a working. His Temperance Stage is unconfirmed, and the Accord's intelligence division lists it as a priority gap — because an elf who has lived long enough to navigate Eressean courtly politics and then abandoned them for a genocidal splinter faction is either very weak or very strong, and the distinction determines whether the Inquisition is a body that loses its leader and collapses, or a body that loses its leader and continues.
+> He is also, by every account that has reached the Accord's filing desks, the more dangerous of the two. Cruor's power is legible. Seraphiel's is not. He has never taken the field personally. He has never been observed using a working. His Temperance Stage is unconfirmed, and the Accord's intelligencers list it as a priority gap, because an elf who has lived long enough to navigate Eressean courtly politics and then abandoned them for a genocidal splinter faction is either very weak or very strong, and the distinction determines whether the Inquisition is a body that loses its leader and collapses, or a body that loses its leader and continues.
 
 ---
 
@@ -107,33 +111,33 @@ Every member of the Holy Inquisition wears a mask. The leader does not.
 
 The doctrine holds that the face of the Scale's servant is irrelevant. A reading does not care who takes it. A finding does not care who renders it. A sentence does not care who carries it. The mask removes the individual from the act, leaving only the office.
 
-Cruor does not wear a mask because his face is already gone. What remains is the finding. The jawbone exposed, the flesh burned away, the identity stripped by violence rather than by choice — and what survived was the function. The masks are aspirational. The face beneath Cruor's hood is the thing the masks are trying to become.
+Cruor does not wear a mask because his face is already gone. What remains is the finding. The jawbone exposed, the flesh burned away, the identity stripped by violence rather than by choice, and what survived was the function. The masks are aspirational. The face beneath Cruor's hood is the thing the masks are trying to become.
 
-Masks are crafted by the member who will wear them, from materials that carry weight in that member's own tradition. The only universal requirement is that the mask covers the jaw.
+Masks are crafted by the member who will wear them, from materials that carry weight in that member's own tradition, so that a column on the march is a whole gallery of them: lacquer and bone, beaten copper, painted limewood, walrus ivory. The only universal requirement is that the mask covers the jaw.
 
 ---
 
 ## Methods
 
-The Inquisition operates on a campaign model. A target civilization or settlement is identified by Cruor or by one of three Circuit Justiciars — field officers who move independently through territories, taking readings without authorization and rendering findings without appeal.
+The Inquisition operates on a campaign model. A target civilization or settlement is identified by Cruor or by one of three Circuit Justiciars, field officers who move independently through territories, taking readings without authorization and rendering findings without appeal.
 
 The Accord has documented the pattern across six confirmed incidents:
 
-**Phase One — The Reading.** A Circuit Justiciar enters the target territory and takes a reading of the local population's relationship to the Scale.
+**Phase One: The Reading.** A Circuit Justiciar enters the target territory and takes a reading of the local population's relationship to the Scale.
 
-**Phase Two — The Declaration.** The Inquisition announces itself. A declaration is posted, read aloud in the central square, and followed by a forty-eight-hour period during which any individual may approach, accept the tenets, and take the mask. Those who accept are inducted. Those who refuse are marked.
+**Phase Two: The Declaration.** The Inquisition announces itself. A declaration is posted, read aloud in the central square, and followed by a forty-eight-hour period during which any individual may approach, accept the tenets, and take the mask. Those who accept are inducted. Those who refuse are marked.
 
-**Phase Three — The Purification.** What remains after the declaration period is treated as structural corruption. The Inquisition moves through the territory systematically, burning what resists and collapsing what does not. They catalog what survives. The cataloguing is the detail that disturbs the Accord's intelligence analysts most, because it suggests the Inquisition is not merely destroying. It is collecting.
+**Phase Three: The Purification.** What remains after the declaration period is treated as structural corruption. The Inquisition moves through the territory systematically, burning what resists and collapsing what does not. They catalog what survives. The cataloging is the detail that disturbs the Accord's intelligencers most, because it suggests the Inquisition destroys and is also collecting.
 
-**Phase Four — The Planting.** A small garrison is left behind. A chapter marker is placed. The territory is declared corrected. The Inquisition does not govern what it has taken. It leaves a marker and moves to the next reading.
+**Phase Four: The Planting.** A small garrison is left behind. A chapter marker is placed. The territory is declared corrected. The Inquisition does not govern what it has taken. It leaves a marker and moves to the next reading.
 
 ---
 
 ## Relations and Reputation
 
-Sancta Lux regards the Holy Inquisition as its single greatest institutional failure. Darius has not spoken publicly about Cruor since the exile. Three internal memoranda indicate that Darius considers the Inquisition his personal fault — not because he created it, but because the exile that produced it was, by his own assessment, procedurally correct and substantively wrong.
+Sancta Lux regards the Holy Inquisition as its single greatest institutional failure. Darius has not spoken publicly about Cruor since the exile. Three internal memoranda indicate that Darius considers the Inquisition his personal fault, though he did not create it, because the exile that produced it was, by his own assessment, procedurally correct and substantively wrong.
 
-The Guild Accord has standing enforcement authorization and has not acted on it. The tactical calculus is not secret: a Stage XIII practitioner backed by three hundred practitioners of mixed Stage, operating from no fixed position, engaging only on terms of their choosing.
+The Guild Accord has standing enforcement authorization and has not acted on it. The tactical calculus is no secret: a Stage XIII practitioner backed by three hundred practitioners of mixed Stage, operating from no fixed position, engaging only on terms of their choosing.
 > In the mouths of the faithful, the common. **The Burning Mandate.** In the mouths of the Accord: Rogue Body 7-C, unlawful, enforcement authorized, engagement not recommended. In the mouths of the dead: nothing at all.
 
 ---

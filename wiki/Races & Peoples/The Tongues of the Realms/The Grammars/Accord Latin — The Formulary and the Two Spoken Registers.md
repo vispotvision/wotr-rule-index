@@ -13,15 +13,19 @@ tags:
 >
 > No one is measured in his own tongue.
 >
-> — cut above the door of the Accord's chancery at Stannvaard
+> Cut above the door of the Accord's chancery at Stannvaard
+
+Anyone on Marrow Lane in Stannvaard will show you the doorstep for a copper. Noll Quillet, a hedge-speaker (one who speaks workings for hire, with no guild and no schooling), was paid to stop a chandler's fire at the threshold, and he had the words from his aunt and the endings from nobody. *Ignis. Intra limine. Consiste.* came out of him with the wrong case and a clipped vowel, and the fire stopped and sat down. It stayed nine days in the doorway, knee high, the color of a kingfisher's back, burning nothing and warming everybody, with children toasting bread on it and the chandler unable to reach his own front door. On the tenth morning it left by way of the roof, and took the roof. The chandler went to law. The chancery sat in full black silk and found for nobody, on the settled ground that an ungrammatical invocation was never an invocation, that nothing had therefore occurred, and that the roof had been lost to no cause. His heirs bring the suit again every seven years. I have read all the filings, and I have also held my hands over that doorstep, which is still warm.
+
+The language that ruling was written in is the strangest instrument on these shelves, and I say so fondly.
 
 ## I. What Accord Latin Is
 
-It is not descended from anything. It was **assembled**, deliberately, by committee, as a neutral instrument for contracts between parties who could not read each other and would not agree to be measured in a rival's language. It is nobody's mother tongue, nobody dreams in it, and no child has ever been raised speaking it.
+It descends from nothing. It was **assembled**, deliberately, by committee, as a neutral instrument for contracts between parties who could not read each other and would not agree to be measured in a rival's language. It is nobody's mother tongue, nobody dreams in it, and no child has ever been raised speaking it.
 
 That is the point, and it is the Accord's actual foundation. Every polity in the four quarters has agreed to be bound in a language that gives none of them an advantage, and that agreement is more load-bearing than any treaty it has ever recorded. A gate-toll in Kharven, a proof-mark on a Dawi barrel, a marriage settlement in Eresse and a Mandate decree's external copy are all written in the same fixed formulae, and none of the four peoples involved likes it.
 
-Because it was assembled rather than grown, **it does not need a grammar in this archive.** Its grammar is fixed, published, and taught the same way in every chancery school in the four quarters. What it needs, and what follows, is the formula set: the fixed wordings that do legal and Aetheric work, the registers those wordings sit in, and what happens when one of them is spoken wrong.
+Because it was assembled rather than grown, **it does not need a grammar in this archive.** Its grammar is fixed, copied out under seal, and taught the same way in every chancery school in the four quarters. What it needs, and what follows, is the formula set: the fixed wordings that do legal and Aetheric work, the registers those wordings sit in, and what happens when one of them is spoken wrong.
 
 ## II. Attestation
 
@@ -55,7 +59,7 @@ Every craft carries an Accord name in liturgical Latin and a plain name in the c
 
 An Accord examiner says *Ars Scripti*. The woman who paid him to cut a ward into her doorframe says the cutting. A Kharven soldier says he wants a man who can do the writing, and everyone in the room knows exactly what he means and exactly what he could not afford.
 
-**The doublet governs every craft term, not only the five.** Where a Latin word and a common one both exist, the choice is characterisation.
+**The doublet governs every craft term, not only the five.** Where a Latin word and a common one both exist, the choice is characterization.
 
 **Four registers of the language itself.**
 
@@ -77,7 +81,7 @@ These are the fixed wordings. They are not translated in use, they are not parap
 | *Coram testibus.* | Before witnesses. | Any clause requiring attestation |
 | *Quod dictum est, dictum stat.* | What has been said stands said. | Binding clause; the Accord's oldest formula |
 | *Ita spondeo.* | Thus I pledge. | The speaker's own oath, first person, and the only place the chancery permits it |
-| *Probatum est.* | It has been tested and it holds. | Proof-marks on metal, glass, powder, casks |
+| *Probatum est.* | It has been tested and it holds. | Proof-marks on metal, glass, harness, casks |
 | *Solutum et transitum.* | Paid and passed. | Gate registers |
 | *In registro relatum.* | Entered in the register. | Registration of a working, a Draft, a birth, a death |
 | *Salvo iure tertii.* | Saving the right of a third party. | The escape clause, and the most litigated six syllables in the four quarters |
@@ -110,7 +114,7 @@ This is the real reason the guilds hold Spellcraft in contempt and the real reas
 
 ## VII. *Ars Cantus*, the Sung Register
 
-**Pitched, not asserted. Quantitative, not stressed.** The chant runs in metrical feet built from vowel length, and the length is the mechanism. A short vowel held long or a long vowel clipped is not an accent. It is a different line, and the chant stops.
+**Pitched, not asserted. Quantitative, not stressed.** The chant runs in metrical feet built from vowel length, and the length is the mechanism. A short vowel held long or a long vowel clipped makes a different line, whatever accent excused it, and the chant stops.
 
 **It scales with throats, and it cannot be practiced alone.** Anything above trivial requires more than one voice, and the requirement is not ceremonial. The sustained vowel has to be carried continuously while the line advances, which one set of lungs cannot do, so the voices overlap and hand the vowel between them. Three is the working minimum. Serious work runs to nine and to more.
 > *Teneat murus. Teneat. Teneat.*
@@ -125,15 +129,15 @@ Chantcraft is not an Accord examination category and never has been, which is wh
 ## VIII. What a Mistake Does
 
 **In the chancery register, an error is a defect of the instrument.** A misquoted formula does not misfire. It fails to bind, and the failure is discovered later, in a room with an advocate in it.
-<strong>In</strong> <strong><em>Vox</em></strong><strong>, a solecism does nothing at all.</strong> The Accord's published position is that an ungrammatical invocation was never an invocation, so nothing happened and nothing could have. This is taught in every chancery school as settled.
+<strong>In</strong> <strong><em>Vox</em></strong><strong>, a solecism does nothing at all.</strong> The Accord's stated position is that an ungrammatical invocation was never an invocation, so nothing happened and nothing could have. This is taught in every chancery school as settled.
 **Hedge-speakers dispute it.** They report, consistently, across four quarters and six centuries, that badly formed workings sometimes land, and that when they land they land differently. The Accord has never investigated. The reason the Accord gives is that there is nothing to investigate. The reason offered by everyone who has ever asked a hedge-speaker is that an investigation would have to begin by admitting the question is open.
-<strong>In</strong> <strong><em>Cantus</em></strong><strong>, a false quantity breaks the chant</strong>, and breaking a chant that is holding something is the specific disaster the orders are organised around. There is no partial failure in the sung register. The line either scans or it stops.
+<strong>In</strong> <strong><em>Cantus</em></strong><strong>, a false quantity breaks the chant</strong>, and breaking a chant that is holding something is the specific disaster the orders are organized around. There is no partial failure in the sung register. The line either scans or it stops.
 
 ## IX. Script
 
 **The chancery hand.** Upright, separated letters, no ligatures, no abbreviation except a closed list of eleven, and every one of the eleven is in the formulary. Legibility is the whole design brief, since a document must be readable by a Dawi clerk, an Eressean jurist and a Mandate garrison officer with equal ease.
 
-**Accord Latin is not written in any of the Fourteen Hands and this is deliberate.** The Hands write boundaries onto laws. Latin writes agreements between people. The chancery has resisted every proposal to render the formulary in a Parunic hand, on the stated ground that an instrument which does Aetheric work of its own is not a contract but a working, and the parties would then be signing something none of them can read.
+**Accord Latin is not written in any of the Fourteen Hands and this is deliberate.** The Hands write boundaries onto laws. Latin writes agreements between people. The chancery has resisted every proposal to render the formulary in a Parunic hand, on the stated ground that an instrument which does Aetheric work of its own has stopped being a contract and become a working, and the parties would then be signing something none of them can read.
 
 **Seals do the authenticating**, not the script. Wax over ribbon, the Accord's own device countersunk, and a proof-mark struck rather than written.
 

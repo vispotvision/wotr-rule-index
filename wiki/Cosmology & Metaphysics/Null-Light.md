@@ -1,14 +1,16 @@
 # Null-Light
 
+Tobiah Quillon, who toured the fairs with a mule, a gilt wagon and a claim to have out-shone the sun at Ambrel Bridge, once sold four hundred tickets to watch him make the shadowless stones of the Cedar Enclave cast a shadow. House Yukari, to the lasting astonishment of everybody, let him in and gave him tea. He set forty mirrored lamps around the court, burning white, rose and a hard sea-green, and he lit them at noon on a clear day, with the sun helping. Every pebble in that court threw forty shadows, and so did the tea tray, the mule and the steward's sleeves, a spray of colored shade that the paying customers talked about for the rest of their lives. The three stones stood in the middle of it, each one lit from every side, with clean raked gravel at their feet. Quillon stayed until his oil ran out. He sold the lamps in the next town to pay back the tickets, and he never afterward said a word against the Yukari, though he did take to checking the ground behind him.
+
 Null-Light is recognition with no light in it: a thing known completely by a light that never touches it. It was Ashura's own way of seeing, it is the root of every Yukari teaching, and it is the head of [[Artifacts/The Immortal Cross|the Immortal Cross]].
 
-On the Soul Plane, light is the archive recognising something as significant, from inside. Null-Light is that recognition carried into the waking world with nothing arriving at the thing recognised: no photon, no Essence, no pressure on its boundary. A stone under Null-Light is known to the last grain and lit by nothing, and so it casts no shadow. The three standing stones in the court of the Cedar Enclave were set by the first household under it, and they have thrown no shadow at any hour since.
+On the Soul Plane, light is the archive recognizing something as significant, from inside. Null-Light is that recognition carried into the waking world with nothing arriving at the thing recognized: no photon, no Essence, no pressure on its boundary. A stone under Null-Light is known to the last grain and lit by nothing, and so it casts no shadow. The three standing stones in the court of the Cedar Enclave were set by the first household under it, and they have thrown no shadow at any hour since.
 
 ---
 
 ## The law, as a Measurewright says it
 
-Two things are true of looking, and every trained eye in the Draw Age knows at least the first.
+Two things are true of looking, and every trained eye in the Dark Ages knows at least the first.
 
 **The null reading.** A thing can be found by the light that does not come back from it. Send light down two roads at once, put an object on one, and the pattern of what arrives tells you the object is there even when no light ever struck it. That is knowing without touching.
 

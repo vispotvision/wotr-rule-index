@@ -9,7 +9,13 @@ tags:
 
 # The Fourteen Titans
 
-> *"An Archon is a crowned principle. A Titan is a load-bearing law. Neither wants anything, and prayer presumes wanting."* — Catechism of Equal Breath, opening clauses, as cited by the Lectors of Sancta Lux
+> *"An Archon is a crowned principle. A Titan is a load-bearing law. Neither wants anything, and prayer presumes wanting."*
+>
+> *Catechism of Equal Breath, opening clauses, as cited by the Lectors of Sancta Lux*
+
+The weir at Sallow Reach gave way in the spring of Year 588 and took Gib Harrowgill's mill with it, three hundred sacks of barley, two mules and the wheel he had cut himself, and Harrowgill, a big red man with a big red grievance, walked forty miles to the Bench at Carrowmark and laid suit against Atla'zon the World-Binder for the weight of the water. He had a case, as he explained to everyone on the road. Water falls because a Titan holds which way is down, the Titan had gone on holding it, and his mill was in pieces. The clerks could find no rule against hearing him, so the Bench heard him. It ran nine days in the hot end of May with the court doors open, half the county came in holiday ribbons with cold chicken, and the Stone Choir (the masons' order that listens to rock before anyone is allowed to cut it) sent six chanters in slate blue to sit on the defendant's bench, uninvited, and hum at the floor. A Scale lector argued for the plaintiff for the sheer joy of it. The sergeants broke up two fistfights among the junior lectors and one among their mothers.
+
+On the ninth day the Bench ruled against Harrowgill in the one sentence the Accord keeps for such occasions, which you will find below, adding that the defendant had no seat, no court and no herald on whom a writ could be served, and could no more be sued for falling water than the floor could be sued for holding up the judge. Harrowgill threw his hat at the bench and walked home. He found the six chanters already in the river up to their chests, listening to what was left of his weir, because nobody had ever asked them anything so interesting. What they built him has stood for a hundred and twenty-seven years. He never paid them and they never asked, and his grandchildren still set out a lamp for the Titan on the anniversary of the judgment, out of spite.
 
 ---
 
@@ -17,17 +23,23 @@ tags:
 
 The Accord's working definition is one sentence long and it has survived every attempt to improve it. An Archon is a principle enthroned. A Titan is a principle bearing weight.
 
-The distinction is administrative before it is theological. An Archon can be consulted, argued with in the abstract, and cited in a filing. It has a seat, a court, a lineage of heralds and a body of doctrine written by people who were not present. A Titan has none of that and needs none of it, because a Titan is not doing anything so voluntary as governing. Atla'zon is not in charge of gravity. Atla'zon is the posture gravity is holding. Remove him and the question of who governs falling does not pass to a successor. There is simply nothing left for the word *down* to mean.
+The distinction is administrative before it is theological. An Archon can be consulted, argued with in the abstract, and cited in a filing. It has a seat, a court, a lineage of heralds and a body of doctrine written by people who were not present. A Titan has none of that and needs none of it, because a Titan is not doing anything so voluntary as governing. Ask who is in charge of gravity and you have asked the wrong question, because gravity is the posture Atla'zon is holding. Remove him and the question of who governs falling does not pass to a successor. There is simply nothing left for the word *down* to mean.
 
-This is why the Titans have no theology worth the name and an enormous quantity of engineering. The Stone Choir listens to rock harmonics before cutting. The Undercrypt Keepers whisper equations at buried buttresses. The Ledger Monks refuse to let a ruler erase a predecessor's failure from a Dynasty Hall. Not one of those orders is praying. They are all maintaining.
+This is why the Titans have no theology worth the name and an enormous quantity of engineering. The Stone Choir listens to rock harmonics before cutting. The Undercrypt Keepers whisper equations at buried buttresses. The Ledger Monks refuse to let a ruler erase a predecessor's failure from a Dynasty Hall. Every one of those orders is doing maintenance, and would be insulted to hear it called prayer.
+
 > Fourteen Titans are seated against fourteen Archons, and the symmetry is close enough that most mortal registers assume a one-to-one correspondence. **It does not hold.** Dazkar grounds Urion cleanly and Chronaeus grounds Valen cleanly, and after that the pairs go ragged. Kaldrion answers to nothing in the Archonic roster at all. The Measurewrights hold, without enthusiasm, that this is what an honest count looks like and that the neat version is the one that would need explaining.
-Above the Titans stand the **Epochs**. Aegor, Bairos and Ashura appear throughout the entries as the forging and binding parties, and they are not Titans and are never to be filed as such. Where a Titan's Bonds field names them, the field is recording provenance rather than alliance.
+
+Above the Titans stand the **Epochs**. Aegor, Bairos and Ashura appear throughout the entries as the forging and binding parties, and they are not Titans and are never to be filed as such. Where a Titan's Bonds field names them, the field is recording provenance rather than alliance. In the days of the Physical Epochs, Bara (whom the Archonic registers record as Bairos), Ashura and Aegor walked in human form. What those days left lying about, and what the Great Spirit War left after them, are the dead and dangerous battlefields, the relics people kill for and the old beings who remember, and every entry below keeps running into them.
+
+A warning on figures, from the Guild's own [[Cosmology & Metaphysics/Ages and Reckoning/Errata to the Received Registers|Errata]]. A heart that beats once in a thousand years, a life measured in eons: these are Epoch figures, accurate as statements about magnitude and meaningless as statements about years, and none of them goes on the [[Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages|Concordance]]'s count. Where an entry uses a received name for an Age (the Pyrrhean Epidemic, the Fractured Era), I have said what the Errata makes of it.
 
 ---
 
 ## The Seating
 
 The orders describe what layer of the world the Titan is holding rather than any rank between them. Nothing in the register establishes a hierarchy and the Guild has repeatedly declined to invent one.
+
+A word on the **Ground** field in each entry. It names what the old registers call that Titan's Wellspring. The sixty Wellsprings proper are kinds of Aether, each acting on a Soul Crystal in its own way and each standing for a principle and a transformation, and each has sites where its Aether pools (a Core, in common speech). The Titans' Grounds are written in the same words at a much larger scale, as a law and a place at once, and the Measurewrights argue over whether they should be counted among the Sixty at all. The Codex line closing each entry seats the working on one of the Sixty by name, which is the part a practitioner can use.
 
 | Titan | Epithet | Order | What it holds |
 |---|---|---|---|
@@ -46,7 +58,7 @@ The orders describe what layer of the world the Titan is holding rather than any
 | **ZAR'THUUN** | *The Titan of Abythron* | Abyssal Depths | The boundary between something and nothing |
 | **VOHRIN** | *The Titan of Niflheim* | Abyssal Depths | Entropy's peace, the settling of endings |
 
-> The Abyssal Depths are not the enemy quarter of the pantheon. They are the back of the house, and the order in which the three operate is fixed. **Prometheus burns what is false. Zar'thuun unmakes what is excess. Vohrin stills what is left so it can be built upon.**
+> Call the Abyssal Depths the back of the house, whatever the shrine schools say about an enemy quarter of the pantheon. The order in which the three operate is fixed. **Prometheus burns what is false. Zar'thuun unmakes what is excess. Vohrin stills what is left so it can be built upon.**
 
 ---
 
@@ -68,7 +80,7 @@ Three things separate a Titan-Keyed working from every other entry in the regist
 
 ## The Ledger of Costs
 
-Read down this column and the register's actual argument becomes visible. A Titan-Keyed working is not a large spell. It is a bill presented in a currency the caster did not choose.
+Read down this column and the register's actual argument becomes visible. Stop thinking of a Titan-Keyed working as a large spell, and think of a bill presented in a currency the caster did not choose.
 
 | Titan | The Art | What the casting takes |
 |---|---|---|

@@ -9,7 +9,7 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 *Issued under the Concord Lattice · Research & Archives Division*
 > *"You were not given this book because you are ready. You were given it because you have already begun, and nobody told you what you had begun."*
 >
-> — opening line, every printing since the Withering
+> Opening line, every fair copy since the Withering
 
 ---
 
@@ -18,13 +18,13 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 *Read this page even if you read nothing else. Six things carry the entire system. Everything after them is detail.*
 > **One.** Reality has three planes. Matter, soul, and fate. **Every act of magic crosses all three at once. Remove one and the working fails, without exception and without appeal.**
 >
-> **Two.** Aether is the ocean. Essence is your water. *Aether is infinite and belongs to no one. Essence is Aether you have drawn in, circulated, and stamped with your identity — and there is only ever as much of it as you have earned.*
+> **Two.** Aether is the ocean. Essence is your water. *Aether is infinite and belongs to no one. Essence is Aether you have pulled in from the world around you, refined in your Crystal, circulated, and stamped with your identity, and there is only ever as much of it as you have earned.*
 >
 > **Three.** You cast through a Soul Crystal, not through a wand, a word, or a will. **Its architecture decides what you are capable of long before your ambition gets a vote.**
 >
 > **Four.** Power is refined, not accumulated. **Temperance is subtraction.** *You do not climb the Stages by training. You climb them by surviving something that changes you.*
 >
-> **Five.** Everything costs. Essence is spent, not summoned. Domains bleed. Traits fatigue. Overchannel scars. ***A practitioner who tells you a technique is free is either lying or has not yet paid the invoice.***
+> **Five.** Everything costs. Essence is spent, not summoned. Domains bleed. Traits fatigue. Overchannel scars. ***A practitioner who tells you a technique is free is either lying or has not yet paid the bill.***
 >
 > **Six.** The system does not lie and it does not forgive. **Your numbers are the Continuum's honest assessment of the soul carrying them. They can be improved. They cannot be argued with.**
 >
@@ -59,8 +59,8 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 
 ## Aether, Essence, and the Crystal
 
-> *Two practitioners standing in the same room draw from the same ocean and produce entirely different water.*
-**Aetheric Density** · How much medium is present. **It sets the ceiling on the output rate you can achieve in that location** — *which is why battles are fought over ground and not only over people.*
+> *Two practitioners standing in the same room pull from the same ocean and produce entirely different water.*
+**Aetheric Density** · How much medium is present. Rich ground fills you faster and thin ground starves you. **It sets the ceiling on the output rate you can achieve in that location,** *which is why battles are fought over ground and not only over people.*
 
 **Aetheric Residue** · The trace a working leaves. **Permanent, often subtle, always readable by someone patient enough.** *It thins on a schedule the ground sets, toward a floor it never passes.*
 
@@ -72,27 +72,27 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 |---|---|---|
 | **Essence Core** | Identity, memory, Traits | Fracture into Shards |
 | **Aether Shell** | Turns inner truth into outward force | Clouding, then Rupture |
-| **Attraction Layer** | Bonds, Domains, harmonisation | **Capture by Obsession Force** |
+| **Attraction Layer** | Bonds, Domains, harmonization | **Capture by Obsession Force** |
 
 > Learning which failure you are looking at is the difference between treating a wound and finishing a corpse.
-**Crystal States** · **Fractured** — split by trauma or overload; erratic casting and identity leak. *Not always fatal. Frequently permanent.* Refined **— the healthy baseline,** ***and rarer among veterans than recruitment posters suggest.*** Overgrown **— power exceeding architecture;** this is what forced advancement produces. Crystallized **— the self has become law. *Very few reach this.** Fewer remain recognisable afterward.*
+**Crystal States** · **Fractured:** split by trauma or overload; erratic casting and identity leak. *Not always fatal. Frequently permanent.* **Refined:** the healthy baseline, ***and rarer among veterans than recruiting sergeants suggest.*** **Overgrown:** power exceeding architecture; this is what forced advancement produces. **Crystallized:** the self has become law. *Very few reach this. Fewer remain recognizable afterward.*
 
 ---
 
 ## Temperance · The Sixteen Stages
 
 > *"Temperance is not a buff. It is a confession of how much you've survived."*
-**A Stage is not an achievement.** It is a structural reorganisation the Crystal undergoes when accumulated pressure exceeds its current architecture. *Each Stage changes what your numbers are permitted to mean, not what they add up to.*
+**A Stage is not an achievement.** It is a structural reorganization the Crystal undergoes when accumulated pressure exceeds its current architecture. *Each Stage changes what your numbers are permitted to mean, not what they add up to.*
 
 | Stage | Name | Grade cap | Ceiling | Character |
 |---|---|---|---|---|
 | I | Murmuring | E | 50 | Essence as noise. Mood-driven, undirectable |
-| II | Welling | D | 100 | Output stabilises. First affinities surface |
+| II | Welling | D | 100 | Output stabilizes. First affinities surface |
 | III | Ascension | C | 175 | Path becomes visible. Technique turns deliberate |
 | IV | Flourishing | B | 275 | Identity stable. First Spirit Axis bonds form |
 | V | **Splintering** | B* | 350 | **CRISIS. Fractures open along emotional lines** |
 | VI | Glory | A | 400 | Aura begins generating environmental effect |
-| VII | Refraction | A→S | 475 | Dual sight. Traits externalise. **Domain seed** |
+| VII | Refraction | A→S | 475 | Dual sight. Traits externalize. **Domain seed** |
 | VIII | Transcendence | S | 550 | First true Domain. **Sovereign threshold** |
 | IX | Invocation | S→SS | 625 | Law begins imprinting on terrain |
 | X | Realization | SS | 725 | Domain consolidates into a holding Realm |
@@ -105,12 +105,12 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 
 ### Thresholds · why you are stuck
 
-**Two conditions must both be satisfied**: a quantitative floor, **and a Catalyst Condition** — a specific quality of experience the Crystal requires before it will authorise transition.
+**Two conditions must both be satisfied**: a quantitative floor, **and a Catalyst Condition** — a specific quality of experience the Crystal requires before it will authorize transition.
 > A practitioner can sit quantitatively eligible for months and never advance because the Catalyst has not occurred.
 >
 > ***This is not a punishment. It is accuracy. The System does not advance a soul that has not genuinely changed.***
 >
-> **I → II** · First genuine contact with a Wellspring current under personal pressure. *Not observed. Not instructed. Touched, and survived.*
+> **I → II** · First genuine contact with a Wellspring's Aether under personal pressure. *Not observed. Not instructed. Touched, and survived.*
 >
 > **II → III** · First technique developed independently, **from your own understanding rather than received doctrine.**
 >
@@ -172,11 +172,11 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 | VII | ~0.60 | Dual sight permits **correcting your own waste live** |
 | VIII | ~0.70 | Domain forms and **recycles ambient bleed** |
 | IX–X | 0.75–0.80 | Law imprints on terrain. **Familiar ground pays dividends** |
-| XI–XII | 0.85–0.90 | Presence optimises Aether flow in the vicinity |
+| XI–XII | 0.85–0.90 | Presence optimizes Aether flow in the vicinity |
 | XIII | ~0.95 | Biomes carry the practitioner's doctrine |
 | XIV | 1.0–1.2 | **Output exceeds expenditure. The environment co-authors** |
 
-> **The last row is not free energy, and any tutor who describes it that way should be reported.** *It is the Continuum recognising an expression as law and supplementing it with ambient flow. The soul in question has become something the world agrees with.*
+> **The last row is not free energy, and any tutor who describes it that way should be reported.** *It is the Continuum recognizing an expression as law and supplementing it with ambient flow. The soul in question has become something the world agrees with.*
 <strong>Recovery</strong> · <strong>Passive</strong>, ambient and effortless. <strong>Active</strong>, substantially faster, <em>requires you to stop fighting — which is the entire problem.</em> Crisis<strong>, triggered by soul-cost events or genuine breakthrough mid-combat: *cannot be manufactured or relied upon.</strong> It is the Crystal's reward for authentic contact with consequence.*
 
 ---
@@ -184,9 +184,9 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 ## Traits and Domains
 
 > *"Belief, once survived, becomes law."*
-**A Trait is the crystallised law of a soul.** *Traits are not learned. They awaken when four harmonics fall into coherence: the Core's emotional truth, the Attraction Layer's pattern of recognition, the Shell's behavior of force, and the Temperance Field keeping the belief from collapsing under strain.*
+**A Trait is the crystallized law of a soul.** *Traits are not learned. They awaken when four harmonics fall into coherence: the Core's emotional truth, the Attraction Layer's pattern of recognition, the Shell's behavior of force, and the Temperance Field keeping the belief from collapsing under strain.*
 
-**Three failure states worth memorising.** **Resonance Fatigue**, background drain from holding a Trait. **Rigidity Effect**, what happens when you act against your own Trait. **Shear Break**, repeated action against your own law until the Trait inverts — *and inversion is never chosen and rarely reversed.*
+**Three failure states worth memorizing.** **Resonance Fatigue**, background drain from holding a Trait. **Rigidity Effect**, what happens when you act against your own Trait. **Shear Break**, repeated action against your own law until the Trait inverts — *and inversion is never chosen and rarely reversed.*
 > **A Domain is not a technique. You do not deploy one the way you throw a punch.**
 >
 > ***A Domain forms because a soul has become heavy enough to dent reality, and reality has stopped resisting the dent.***
@@ -199,10 +199,10 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 ## Attraction Force and Obsession Force
 
 > *Two ways to make a working hold. Only one of them lets you keep the soul that made it.*
-**Clean techniques are sustained by recognition.** Your Crystal recognises the Wellspring's law, the Continuum recognises your intent, **and the working persists because every party agrees it should.**
+**Clean techniques are sustained by recognition.** Your Crystal recognizes the Wellspring's law, the Continuum recognizes your intent, **and the working persists because every party agrees it should.**
 
-**Corrupted techniques are sustained by refusal.** The Crystal clutches the current rather than harmonising with it. **The Continuum registers the working as unauthorised, and your fixation keeps it running anyway.**
-> **You can read anyone with two Sub-Stats.** High Harmonics Fidelity and high Tempering Coherence together mean **Attraction Force.** *Fidelity degrading while raw output stays high means Obsession Force — and it means the invoice is accruing.*
+**Corrupted techniques are sustained by refusal.** The Crystal clutches the Aether rather than harmonizing with it. **The Continuum registers the working as unauthorized, and your fixation keeps it running anyway.**
+> **You can read anyone with two Sub-Stats.** High Harmonics Fidelity and high Tempering Coherence together mean **Attraction Force.** *Fidelity degrading while raw output stays high means Obsession Force, and it means the bill is running up.*
 >
 > *You will meet practitioners who are stronger than you and running on Obsession.*
 >
@@ -222,7 +222,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 
 **IV** · Assuming the higher number wins. **Aether Class decides how much of that number arrives.** *Class III at B-Grade routinely beats Class I at A-Grade, and the survivor writes the report.*
 
-**V** · Chasing Wellspring count. **Three harmonisations held cleanly outperform seven held badly.**
+**V** · Chasing Wellspring count. **Three harmonizations held cleanly outperform seven held badly.**
 
 **VI** · Treating a Domain as a weapon to deploy. **It is a consequence of density, it costs continuously, and losing it detonates.**
 
@@ -247,7 +247,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 | **Temperance** | Refinement under pressure. **Subtraction, not addition** |
 | **Threshold** | The Catalyst-gated transition. **Cannot be bought** |
 | **Tier Grade** | The qualitative bracket of a stat. **One Grade up wins outright** |
-| **Wellspring** | A cosmic current of Aether-law. **Harmonised with, never invented** |
+| **Wellspring** | One of the sixty types of Aether, each carrying one law. **Harmonized with, never invented** |
 | **Ability** | The internal platform. **Invisible on its own** |
 | **Technique** | A specific repeatable application. **What you actually do** |
 | **Aether Class** | Shell transparency. **How much of your ceiling actually arrives** |

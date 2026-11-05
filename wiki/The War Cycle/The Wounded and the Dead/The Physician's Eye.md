@@ -4,6 +4,10 @@ title: The Physician's Eye
 
 # The Physician's Eye
 
+Ragna Steen, surgeon to the Legion at Ostermere, once ruined a duke's dinner from a tent door. His son had taken a thrust through the forearm from a Wellspring-charged blade, and the boy lay on cloth of gold with three physicians in scarlet around him, all agreed that they had never seen so clean a wound, nine days old, not a trace of pus, pink at the margin, a credit to everyone. Steen had been passing with a sausage. She stopped in the doorway, sniffed, walked in chewing, put her ear down next to the wound with the whole scarlet college staring, and listened for a while to nothing, and it was a very particular nothing, because the talk in that tent had thinned around the spot the way sound thins in deep snow. She said to take the arm off above the elbow by supper. The duke laughed, and when he was finished laughing he had her put out of the tent. They cut the wound back clean on the eleventh day and again on the fourteenth, and on the fifteenth the margin had moved. She took it off on the seventeenth at the shoulder, with the boy cursing her in three languages and the duke holding the lamp. By then her own hands had begun to go the way surgeons' hands go, and she had to tie the last vessel with her teeth.
+
+Her casebooks are in this compilation with those of many others. I have read them all. They are the only documents in this archive that made me look up from the page and check who was in the room.
+
 *Reading a Body, and What Will Not Close*
 > Compiled from the casebooks of Legion surgeons and the Anima Harmonic assessors. **Supersedes the fragment circulated as the Alchemist's Eye, which was a diagnostic aid for chemists and was never intended for use on the wounded.**
 > 
@@ -13,14 +17,14 @@ title: The Physician's Eye
 
 ## What a Surgeon Can Actually Read
 
-> **There is no instrument. There is a hand, an eye, a nose, and thirty years — and the thirty years are the instrument.**
+> **There is no instrument. There is a hand, an eye, a nose, and thirty years, and the thirty years are the instrument.**
 **Color** · Pallor and the specific gray of serious blood loss. The dusky purple-black of tissue that has stopped receiving. **The advancing red of spreading infection, which is read by marking its edge with a fingernail and looking again in an hour.** Yellow in the sclera.
 
 **Smell** · **The most underrated instrument in surgery and the one that carries furthest.** Sweetish rot means gas in the tissue and means the limb. The flat foul stench of hospital rot. Voided bowel means the abdomen is open whether or not you can see where. *Experienced surgeons diagnose from the tent doorway and are right.*
 
 **Heat, by hand** · Local heat is inflammation. General heat is fever. **Cold and clammy is the body giving up its extremities to keep its center, and it is the worst sign available to a hand.**
 
-**Texture** · **Crepitus under the fingers, which is gas and is a death sentence.** Boggy oedema. The hardness of a mass. The give of an abscess.
+**Texture** · **Crepitus under the fingers, which is gas and is a death sentence.** Boggy edema. The hardness of a mass. The give of an abscess.
 
 **Sound** · The wet suck of an open chest. The rattle. **And the absence of sound where sound is expected**, which is the surgeon's tell for a Wellspring wound.
 
@@ -37,20 +41,20 @@ title: The Physician's Eye
 A blade opens tissue **and stops.** The damage is total at the instant of contact and everything afterward is the body's own work.
 
 A wound inflicted by a Wellspring process **does not stop.** A portion of the process was invoked into the body and was interrupted by the body, **and what remains is a fragment attempting to complete itself in the tissue it landed in.**
-> **The wound is not a hole. It is an instruction, partially executed, still executing.**
+> **Read the wound as an instruction, partially executed, still executing. A surgeon who reads it as a hole will lose the patient.**
 
-### How a surgeon recognises one
+### How a surgeon recognizes one
 
 | Tell | What it looks like |
 |---|---|
-| **It does not granulate** | Ordinary tissue reaches for ordinary tissue. A fragment-carrying wound stays open at the margin, clean, and wrong — **and the wrongness is that it looks better than it should for longer than it should** |
+| **It does not granulate** | Ordinary tissue reaches for ordinary tissue. A fragment-carrying wound stays open at the margin, clean, and wrong, **and the wrongness is that it looks better than it should for longer than it should** |
 | **The margin behaves** | Advances, retreats, or holds against pressure. **Surgeons describe fragment wounds as** ***attentive*** **and are not being fanciful** |
 | **The silence** | Sound behaves oddly at close range, **and this is the tell most surgeons use and none can explain.** Old practitioners put their ear near the wound. ***The gesture looks superstitious and is diagnostic*** |
-| **It does the same thing to the next tissue** | **A fragment moves.** Debridement removes tissue and **does not remove the instruction** — and the surgeon who cuts back to clean margin three times and finds it there again on the fourth **has understood something about the injury that no amount of cutting will change** |
+| **It does the same thing to the next tissue** | **A fragment moves.** Debridement removes tissue and **does not remove the instruction**, and the surgeon who cuts back to clean margin three times and finds it there again on the fourth **has understood something about the injury that no amount of cutting will change** |
 
 ### What can be done
 
-**Sealwright referral** · **The only genuine treatment.** A fragment is a Parunic problem and requires a Parunic answer — **closure of the unfinished sentence rather than removal of the tissue.**
+**Sealwright referral** · **The only genuine treatment.** A fragment is a Parunic problem (a matter of Parun, the glyph tongue in which a working's boundaries are written) and requires a Parunic answer, **closure of the unfinished sentence rather than removal of the tissue.**
 
 **Amputation proximal to the fragment** · Works, **if the fragment has not traveled, and the surgeon cannot know whether it has.** *The commonest treatment in the field, and a bet made with somebody else's limb.*
 
@@ -67,7 +71,7 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 **The Physical layer** · What the surgeon can see. Torn tissue, broken bone, opened vessel. **Treated conventionally and successfully, and this is the majority of the work.**
 
 **The Essence layer** · What the surgeon infers. Conduction channels cut, resonance nodes disrupted, **the patient reporting that a technique they have used for twenty years does not answer.** Not visible, not treatable by the knife, **and frequently the injury the patient actually cares about.**
-> **A practitioner who has lost a hand and lost a harmonisation will grieve the harmonisation.**
+> **A practitioner who has lost a hand and lost a harmonization will grieve the harmonization.**
 **The Hermetic layer** · The fragment. **The layer that will kill a patient the surgeon has otherwise saved.**
 
 *The diagnostic difficulty is that all three present at the same site and the surgeon has hours rather than days. The standing instruction is to treat the Physical, note the Essence for the Anima Harmonic assessors, and refer anything that will not granulate.*
@@ -84,8 +88,8 @@ The sorting is **by salvageability rather than by severity**, and it produces fo
 |---|---|
 | **Will live untreated** | Walking wounded. Dressed, sent back, **and resented by everyone for the noise they make about it** |
 | **Will live if treated now** | **The whole purpose of the surgeon's day.** Everything the establishment exists for is spent on this group |
-| **Will die whatever is done** | Abdominal wounds, open chest, massive haemorrhage, **the fragment cases that arrived too late.** Given what is available for pain and left. *The Legion's instruction is that somebody stays with them* *and the instruction is met about half the time* |
-| **Will die slowly whatever is done** | **The worst category and the one no manual names.** Days, sometimes, **and lucid for most of it** — and the surgeon has to keep walking past |
+| **Will die whatever is done** | Abdominal wounds, open chest, massive hemorrhage, **the fragment cases that arrived too late.** Given what is available for pain and left. *The Legion's instruction is that somebody stays with them* *and the instruction is met about half the time* |
+| **Will die slowly whatever is done** | **The worst category and the one no manual names.** Days, sometimes, **and lucid for most of it**, and the surgeon has to keep walking past |
 
 *The Legion sorts without regard to rank and states this proudly. Crown forces sort by rank and state nothing. Both are lying slightly: the Legion's sorters know who the Aether Knights are and no instruction is required to make that matter.*
 
@@ -93,12 +97,12 @@ The sorting is **by salvageability rather than by severity**, and it produces fo
 
 ## What the Surgeon Costs Themselves
 
-**The hands** · Fragment transfer, chronic. **A career working Wellspring wounds ends in a specific documented deterioration of the hands that the Anima Harmonic assessors can recognise across a room.**
+**The hands** · Fragment transfer, chronic. **A career working Wellspring wounds ends in a specific documented deterioration of the hands that the Anima Harmonic assessors can recognize across a room.**
 
-**The fever** · Surgeons take what the camp has and take it earlier, from working among it. **Camp fever kills surgeons at a rate higher than any other specialisation in a Legion establishment including the line.**
+**The fever** · Surgeons take what the camp has and take it earlier, from working among it. **Camp fever kills surgeons at a rate higher than any other specialization in a Legion establishment including the line.**
 > **The sorting** · No physical mechanism **and the most reliably reported injury in the entire literature.**
 >
-> Surgeons who have sorted for a decade describe **a flattening that they can name and cannot arrest** — and the description is close enough to the alchemical condition documented as **the quiet** that the Archives have been asked twice whether they are the same thing **and have not answered.**
+> Surgeons who have sorted for a decade describe **a flattening that they can name and cannot arrest**, and the description is close enough to the alchemical condition documented as **the quiet** that the Archives have been asked twice whether they are the same thing **and have not answered.**
 
 ---
 

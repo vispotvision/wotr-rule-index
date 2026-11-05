@@ -9,6 +9,10 @@ tags:
 
 *A grammar of the goblinoid tongue. The Tongues of the Realms governs.*
 
+Sir Hamon Manningtree of the Concord rode to the Salt Ford parley in scarlet with a peacock crest, shouted for an hour across the water at a hobgoblin kaan (an officer) named Grakk Thurnen, and watched the man's voice sink and his words slow, until Sir Hamon, who had been told all his life that a quiet enemy is a beaten one, turned grinning to his trumpeters and told them to sound the victory. The last word Thurnen spoke was *durraak*, a thousand years and feel the length of it, held for as long as one breath could hold it with the whole ford listening, and the spears came up out of the reeds before the vowel had finished. The crest is in the Keth-Gorrum's timber archive to this day, nailed to the board that records the parley. The board's entry runs to one word, with so many crossing cuts that the stem looks like a comb.
+
+What the kaan did with that vowel is the load-bearing fact of this tongue. The rest of it follows, and the Accord's grammars still get half of the rest wrong.
+
 ## I. Attestation
 
 Three bodies of record and none of them disinterested.
@@ -61,17 +65,17 @@ A syllable is heavy if it contains a long vowel, a geminate, a syllabic *r*, or 
 
 This is the load-bearing prosodic fact and it is a cultural one. Volume in goblinoid usage is a signaling function, for shouting across water or a working floor, and carries no emotional content whatsoever. A goblinoid who raises his voice in an argument is understood to have lost control of the situation and is treated accordingly.
 
-To emphasise, a speaker **holds the vowel**. In writing this is marked by doubling beyond the lexical length, so a word already long can go longer.
-> *durrak* — a thousand-count of years
+To emphasize, a speaker **holds the vowel**. In writing this is marked by doubling beyond the lexical length, so a word already long can go longer.
+> *durrak*: a thousand-count of years
 >
-> *durraak* — a thousand-count of years, and I want you to feel the length of it
+> *durraak*: a thousand-count of years, and I want you to feel the length of it
 A Vaross speaker in a rage gets **quieter and slower**. Every Concord officer who has misread that has misread it exactly once.
 
 ## IV. Morphology
 
 ### Roots
 
-Roots are monosyllabic, heavy, and carry a concept rather than a part of speech. *Vorruk* is not a noun and not a verb. It is the concept of ground that tried to move and was stopped, and what it does in a sentence is determined by what is attached to it.
+Roots are monosyllabic, heavy, and carry a concept rather than a part of speech. *Vorruk* belongs to no part of speech. It is the concept of ground that tried to move and was stopped, and what it does in a sentence is determined by what is attached to it.
 
 ### Derivational suffixes
 
@@ -97,7 +101,7 @@ A bare root is an **imperative**. This is why Crimson Order speech under stress 
 
 **skaal** is the negative auxiliary and always stands last in its clause. It negates the whole clause and takes no subject, which is why refusals in a decree arrive with nobody in them. *Skaal vashk.* There shall be no breaching.
 
-**nurr** is standalone refusal. Using it to a superior is a formal act with consequences, not rudeness.
+**nurr** is standalone refusal. Using it to a superior is a formal act with consequences, and rudeness does not come into it.
 
 ### Compounding
 
@@ -207,9 +211,9 @@ Every character is a vertical stem with cuts to one or both sides. Consonants ar
 
 ## XII. Speaking It Badly
 
-**Concord speakers** insert a vowel into syllabic *r*, producing *gurr* for *grr*, which is the single most reliable marker and is audible in the first word. They also emphasise by volume, which reads to a goblinoid audience as a man announcing that he has lost the argument.
+**Concord speakers** insert a vowel into syllabic *r*, producing *gurr* for *grr*, which is the single most reliable marker and is audible in the first word. They also emphasize by volume, which reads to a goblinoid audience as a man announcing that he has lost the argument.
 
-**Dawi speakers** do well on the clusters and fail on vowel length, because Khazalid gradation trains the ear to hear consonants as the carriers of meaning. A Dawi speaking Vaross produces grammatically flawless sentences with every emphasis in the wrong place.
+**Dawi speakers** do well on the clusters and fail on vowel length, because Runic Dawi gradation trains the ear to hear consonants as the carriers of meaning. A Dawi speaking Vaross produces grammatically flawless sentences with every emphasis in the wrong place.
 
 **Eressean speakers** overuse the genitive, because Eressean cannot express possession without naming a witness, and a court Eressean reaching for that structure in Vaross generates *of-of-of* chains that Vaross speakers find both incomprehensible and hilarious.
 
@@ -219,4 +223,4 @@ Every character is a vertical stem with cuts to one or both sides. Consonants ar
 
 Roots attested in *The Hobgoblin Expanse*: *grr-*, *vashuum*, *vorruk*, *khal*, *gorr*, *keth*, *vesh*, *undaar*, *vaross*, *dokk*, *vraal*, *thaal*, *thunn*, *gorrum*, and the compounds Grr-Vashuum, Vorruk-Khal, Dokk-Vraal, Keth-Gorrum, Gorr-Keth, Gorr-Veshaal, Vesh-Undaal, Gorr-Vaross, Thaal-Gorr, Kethaal, Undaar-Keth. The emphasis-by-vowel-length rule derives from the two attested pronunciations of Grr-Vashuum.
 
-**A note on Undaar-Keth and Undaar-Gorr.** Under the compounding rule the second element governs, so *Undaar-Keth* is a seal of the standing kind and *Undaar-Gorr* is a mantle-weight of the standing kind. They are not spelling variants of one name. They are two different places, or one place renamed by somebody making a claim.
+**A note on Undaar-Keth and Undaar-Gorr.** Under the compounding rule the second element governs, so *Undaar-Keth* is a seal of the standing kind and *Undaar-Gorr* is a mantle-weight of the standing kind. They are two different places, or one place renamed by somebody making a claim, and never spelling variants of one name.

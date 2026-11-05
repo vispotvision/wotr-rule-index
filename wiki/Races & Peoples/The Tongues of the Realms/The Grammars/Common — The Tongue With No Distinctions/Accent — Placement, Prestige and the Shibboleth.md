@@ -10,9 +10,13 @@ tags:
 *A menu, not a law. Sits beside the Speaking It Badly sections in the four grammars rather than replacing them.*
 > *A man is placed by the third sentence. Everything after that is him deciding whether to fight it.*
 
+For fourteen years Alard Sefton was the most Northern man in the Cold Ford garrison. He stressed his first syllables, he said *tally* and *cask*, he drank ollet he hated, and he had told the story of his Northern grandmother so often that he cried at it. Then at the Midwinter Fair, with the whole company around a chestnut-seller's brazier and the square red and green and drunk on spiced ale, a hot chestnut went down the back of his neck, and he announced in a clipped Western voice, with the main verb held to the very end of the sentence, that an accounting would be required. The quiet spread about three paces. His sergeant, who had shared a wall with him for a decade, asked him very kindly to say that again, and somebody else asked about the pay chest, which turned out to be the right question.
+
+Nobody ever wrote down how he sounded, and that is the first thing to know about writing accent.
+
 ## The Rule That Governs Everything Below
 
-**Nothing here is spelled.**
+**Nothing here is spelled.** (This page's rule on spelling has been overtaken at the table: R79-5 writes accents in full phonetic spelling, with each card setting how heavy. The levers below carry a speaker either way.)
 
 Eye-dialect, rendering a speaker's vowels phonetically on the page, is barred outright. It slows the reader, it makes the speaker look stupid, and it is never applied evenly, because nobody ever spells the duke. A page that writes *'appen* for a Northern soldier and prints the Palatine's vowels in standard orthography has made an argument the author did not intend to make and cannot take back.
 
@@ -26,7 +30,7 @@ The fact that makes accent worth writing in this world at all.
 
 **Foreigners are exempt. Natives are on trial.**
 
-Common has no chancery, no guild and no order with jurisdiction over it, so there is no prestige standard a foreigner is expected to reach. A Dawi with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone, and nobody corrects him. Not generosity. Nobody has the standing to.
+Common has no chancery, no guild and no order with jurisdiction over it, so there is no prestige standard a foreigner is expected to reach. A Dawi with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone, and nobody corrects him, because nobody has the standing to.
 
 But a Concord man is placed instantly, by everyone, in a sentence or two, and it costs him. His own people own the standard and enforce it on each other constantly and informally, with a look. **The outsider's accent is a fact about where he is from. The insider's accent is a verdict on what he is worth.**
 
@@ -50,18 +54,18 @@ This inverts the usual fantasy handling, where the foreign accent is the marked 
 
 The single most useful finding to steal, and it is the oldest one in the field. Labov's 1966 New York department-store study found that a speaker's use of prestige forms **rises with attention to his own speech**, so the same man produces one accent in careful speech and another when he is not monitoring.
 
-The WOTR use is direct and it is a characterisation instrument rather than a linguistic note.
+The WOTR use is direct and it is a characterization instrument rather than a linguistic note.
 
-**A man's origin surfaces when he stops attending to himself**: when he is tired, angry, frightened, drunk, wounded, or talking to someone he has decided does not matter. So the accent is not a fixed trait. **It is a gauge.** A character whose vowels have been Western for four scenes and whose function words go Northern in a crisis has been shown to be under load without a line of narration saying so.
+**A man's origin surfaces when he stops attending to himself**: when he is tired, angry, frightened, drunk, wounded, or talking to someone he has decided does not matter. So the accent moves with the load, and **it reads like a tell**. A character whose vowels have been Western for four scenes and whose function words go Northern in a crisis has been shown to be under load without a line of narration saying so.
 
-This is also the honest way to write a character who has climbed. He has not lost his accent. He is holding it, and the holding takes effort, and the effort is visible in the moments it fails.
+This is also the honest way to write a character who has climbed. He still has his accent and he is holding it down, and the holding takes effort, and the effort is visible in the moments it fails.
 
 ## IV. Hypercorrection: The Man Who Overshoots
 
-Labov's other finding, and the crueller one. **Hypercorrection is strongest in the group just below the one it is imitating**, because that group is most conscious of which forms are prestigious and overshoots them in careful speech.
+Labov's other finding, and the crueler one. **Hypercorrection is strongest in the group just below the one it is imitating**, because that group is most conscious of which forms are prestigious and overshoots them in careful speech.
 
 In Common this lands on the Latin overlay, and the failure mode is exact: a speaker who has learned that Latin words are the educated ones uses **more** of them than an educated speaker would, in places an educated speaker would not, and stresses them chancery-fashion when he heard them at a gate.
-> **The clerk.** *I have enquired as to the remittance and can attest the pledge was retained.*
+> **The clerk.** *I have inquired as to the remittance and can attest the pledge was retained.*
 >
 > **The jurist he is trying to sound like.** *I asked. It's paid.*
 The man with real standing reaches for the plain word without anxiety, because he has nothing to prove. The man one rung below cannot afford to. **The Latinate register is a ladder that is most visible on the people still climbing it**, and everyone above them can hear exactly where they are.
@@ -72,11 +76,11 @@ This is the best available way to write an ambitious minor functionary and it ne
 
 The counterweight, from Trudgill's Norwich work. **Non-standard forms carry their own prestige inside the community that uses them**, valued for solidarity rather than status, and speakers maintain them deliberately.
 
-So not every character is climbing. A Northern officer who has spent fifteen years among Western staff and kept his stress is making a claim: that he is still one of the men he came up with, and that the room can take him as he is or find another officer. Covert prestige is what makes a sergeant trusted by a company and disliked by a colonel.
+So not every character is climbing. A Northern officer who has spent fifteen years among Western captains and kept his stress is making a claim: that he is still one of the men he came up with, and that the room can take him as he is or find another officer. Covert prestige is what makes a sergeant trusted by a company and disliked by a marshal.
 
 **The Spellcraft version is the sharpest one available.** The guilds call a speaker *a mouth*. Speakers use the word about themselves, in each other's company, with pride. A craft with no guild, no seven years and no master has nothing to defend but the fact that anyone can do it, and the contempt term is the flag.
 
-**The honest caveat, and it belongs on the page rather than in a footnote.** Some critics hold that covert prestige romanticises constraint, that speakers keep vernacular forms because they were never given access to the standard rather than because they value them. Both are true of different people, and the difference is exactly the sort of thing a scene can be about. The man who kept his accent and the man who never got the chance to lose it sound identical from outside, and one of them knows it and the other does not.
+**The honest caveat, and it belongs on the page rather than in a footnote.** Some critics hold that covert prestige romanticizes constraint, that speakers keep vernacular forms because they were never given access to the standard rather than because they value them. Both are true of different people, and the difference is exactly the sort of thing a scene can be about. The man who kept his accent and the man who never got the chance to lose it sound identical from outside, and one of them knows it and the other does not.
 
 ## VI. Accommodation: Accent as an Act Performed at Somebody
 
@@ -86,9 +90,9 @@ Giles's framework, and the one with the most immediate scene use, because every 
 
 **Divergence.** Moving away deliberately. Thickening what he had been holding, refusing the other man's vocabulary. A weapon, and a quiet one.
 
-**Upward and downward.** Convergence up the scale is a man in an interview. Convergence down is an officer dropping into the vernacular with his men. Divergence up is speaking faster and more finely at somebody who cannot follow. Divergence down is a nobleman reaching for the docks in front of his peers to make a point about who he is willing to be.
+**Upward and downward.** Convergence up the scale is a man asking a lord for a place. Convergence down is an officer dropping into the vernacular with his men. Divergence up is speaking faster and more finely at somebody who cannot follow. Divergence down is a nobleman reaching for the docks in front of his peers to make a point about who he is willing to be.
 
-**Over-accommodation is an insult and does not know it is one.** A speaker converging too hard reads as patronising, and this is the single most useful item on the list. The Western officer who arrives in a Northern hold and starts saying *tally* and *cask* in his own accent has not built rapport. He has performed a Northerner at Northerners, and the room has clocked it, and nobody will tell him.
+**Over-accommodation is an insult and does not know it is one.** A speaker converging too hard reads as patronizing, and this is the single most useful item on the list. The Western officer who arrives in a Northern hold and starts saying *tally* and *cask* in his own accent has not built rapport. He has performed a Northerner at Northerners, and the room has marked it, and nobody will tell him.
 
 **Converging with divergent intent.** The subtlest one. A speaker can move toward the other's forms precisely to keep him in his place. In Catalonia a norm held that Catalan was spoken between Catalans, so Castilian speakers attempting it were answered in Castilian. The surface act was accommodation; the meaning was exclusion. **A Kharven table that answers a Concord officer's careful Kharven greeting in flawless Common has just told him something.** He will not work out what for three days.
 
@@ -98,14 +102,14 @@ Accent as an instrument of identification, and history is unambiguous that it is
 
 The pattern recurs across centuries. In 1282 the Sicilians reportedly asked suspected Frenchmen to say *cìciri*, chickpeas, and killed those who could not. In 1302 the Flemish at Bruges are said to have used *schild en vriend*, and every man who failed was stabbed where he stood, in his nightshirt. Kraków ran the same procedure in 1312 against German-speaking burghers with a phrase about lentils and a mill. Each time the test is a mundane word, each time it is chosen because the target's own phonology cannot produce it, and each time the point is that the test cannot be studied for.
 
-**What makes this usable rather than decorative** is that the word is always ordinary. Not a password, not a challenge, not anything a spy would think to prepare. Chickpeas. A mill. **The horror is that a man dies over a food word.**
+**What makes this usable rather than decorative** is that the word is always ordinary. Nobody would take it for a password or a challenge, and no spy would think to prepare it. Chickpeas. A mill. **The horror is that a man dies over a food word.**
 
 The WOTR versions are already sitting in the grammars, unused.
 - <strong>The syllabic</strong> <strong><em>r</em></strong><strong>.</strong> Concord speakers universally insert a vowel and produce <em>gurr</em> for <em>grr</em>, audible in the first word, and cannot be trained out of it under pressure. Anywhere the Mandate wants to sort goblinoid from Concord in the dark, one word does it.
 - **Vowel length.** A Vaross speaker holds vowels for emphasis and a Dawi treats length as phonemic, so a Concord man reading a formula aloud shortens a long vowel and has said a different word. A gate that requires the toll formula spoken rather than shown is a gate that filters.
 - **Grade.** A Dawi name in the weak grade is an oath-broken Dawi. A hold that asks a stranger to say his own name is not being polite.
 - **The pitch contour.** A Concord speaker cannot hear it and cannot produce it, so any Eressean claim spoken by one is void, which means an Eressean court can identify a forgery by having it read aloud.
-**And the quieter application, which is the one that will earn its keep.** Eighteenth-century advertisements for runaway servants and apprentices routinely identified them by accent, with descriptions like *speaks broad Yorkshire*. A deserter notice, a bond-runner's description, a Bench of Attribution circular hunting a mouth who left no mark: **accent is the only description available for a man who cut nothing, poured nothing, and signed nothing.** Given that a spoken working has no author in its own grammar, accent is very often the entire case file.
+**And the quieter application, which is the one that will earn its keep.** Eighteenth-century advertisements for runaway servants and apprentices routinely identified them by accent, with descriptions like *speaks broad Yorkshire*. In the Realms the same words go out hand-copied and nailed to doors. A deserter notice, a bond-runner's description, a Bench of Attribution circular hunting a mouth who left no mark: **accent is the only description available for a man who cut nothing, poured nothing, and signed nothing.** Given that a spoken working has no author in its own grammar, accent is very often the entire case file.
 
 ## VIII. Profiles
 
@@ -127,7 +131,7 @@ Real-world substrate, named per the research rule.
 
 **Style-shifting and hypercorrection.** Labov's 1966 New York department-store study: prestige forms stratified by store rank and rising with attention to speech, with hypercorrection concentrated in the group immediately below the one being imitated.
 
-**Covert prestige.** Trudgill's Norwich work, with the standard critique attached: that it can romanticise constraint, since vernacular forms are sometimes maintained for want of access to the standard rather than from positive valuation.
+**Covert prestige.** Trudgill's Norwich work, with the standard critique attached: that it can romanticize constraint, since vernacular forms are sometimes maintained for want of access to the standard rather than from positive valuation.
 
 **Accommodation.** Giles's communication accommodation theory, including the upward and downward axis, over-accommodation as perceived condescension, and objective convergence carrying divergent intent, illustrated by the Catalan and Castilian norm.
 

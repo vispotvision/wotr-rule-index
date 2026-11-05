@@ -6,13 +6,15 @@ title: Verdiction Gauntlet · The Hand of Judgment
 
 ## Verdiction Gauntlet · The Hand of Judgment
 
+The teamsters on the Exilic March had a rule that fit on one line: do not hit the big man. A ridge-lord's champion learned it from them too late, at a ford with the whole baggage train watching, when he swung a maul two-handed into Wilhelm's chest and watched it stop there and then, grinning, did it again. Wilhelm stood through it with his boots sunk to the ankle. Then he walked forward, not quickly, and everyone in the shallows had plenty of time to see the crimson gem in his left palm light up, and he laid the hand flat on the man's breastbone the way you would quiet a horse. Every blow he had taken since sunrise came back out through that palm at once. The champion's ward went like a dropped plate and the champion went across the ford, and his forty followers looked at each other and ran. Wilhelm watched them go. He has never in his life been able to catch anybody, a fact known to bandits and small children for the length of that road, and it is why the song calls him the Slow Assize.
+
 ### What it is
 
 A single articulated gauntlet of ethersteel and orichalcum-laced plate, sized to Wilhelm's left hand, its outer face cut with protection sigils that pulse faintly in time with his Crystal. A crimson gem is set into the palm, dark unless the Verdiction Core beneath it is active. It was built as a companion piece to that Core under the Bastion Directive, the Accord's own commission, and it channels what the Core stores rather than generating anything of its own. Wilhelm currently keeps it dormant at the Obsidian Accordant Vault, active only if the Vault is threatened.
 
 ### Physical account
 
-A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff to fingertip, point of balance at the heel of the palm beneath the gem, where the plate is thickest. On the Strike Force table, a discharge through it sits at Wilhelm's own Ardency, 268, B-Grade: 1 to 5 GN peak, 1.046 to 46 GJ, Building to Large Building level. It defeats proofed plate and fortified structure up to that ceiling. It fails against A-Grade-and-above personal defenses (a Refraction-Stage or higher Domain shield), and, per its own Binding Limitation, against anything carrying genuine Divine Immunity.
+A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff to fingertip, point of balance at the heel of the palm beneath the gem, where the plate is thickest. On the Strike Force table, a discharge through it sits at Wilhelm's own Ardency, 268, B-Grade: 1 to 5 GN peak, 1.046 to 46 GJ, Building to Large Building level. It defeats proofed harness and fortified structure up to that ceiling. It fails against A-Grade-and-above personal defenses (a Refraction-Stage or higher Domain shield), and, per its own Binding Limitation, against anything carrying genuine Divine Immunity.
 
 ### Operation line
 
@@ -32,7 +34,7 @@ Wellspring: **Fixatio**, primary (Materia · Material Science). Secondary: **Pet
 
 ### Bond and cost
 
-Soulbound to Wilhelm's Verdiction Core; it goes inert on any other wearer, reading a foreign Essence signature and refusing it outright. Overload after three full uses forces at least an hour's rest before it will answer again. If the Verdiction Core itself destabilises, the gauntlet loses effectiveness in step with it, the same dependency that already governs the whole of Wilhelm's architecture.
+Soulbound to Wilhelm's Verdiction Core; it goes inert on any other wearer, reading a foreign Essence signature and refusing it outright. Overload after three full uses forces at least an hour's rest before it will answer again. If the Verdiction Core itself destabilizes, the gauntlet loses effectiveness in step with it, the same dependency that already governs the whole of Wilhelm's architecture.
 
 ### Counterplay
 

@@ -6,9 +6,11 @@ title: In-World Documents & the Narrative Archive
 
 # In-World Documents & the Narrative Archive
 
-> Everything else in this wiki is **reference** — codices, registers, doctrine, taxonomy. Written by institutions about the world.
+A junior copyist named Pell Harrower once shelved a Yuno memoir among the Division registers and, being tidy, corrected its dates in red ink. The priestess who came for it walked in from the coast all in white, stood in the Archives' forecourt, and rang a hand bell for three days and three nights while half the town brought soup and the other half brought wagers. On the fourth morning the Archivist handed back the leaves, paid for the scraping, and ordered a separate press built and painted vermilion, in which nothing may be corrected by anybody. This is that press.
+
+> Everything else in this wiki is **reference**: codices, registers, doctrine, taxonomy. Written by institutions about the world.
 >
-> What sits here is **the world talking.** A treaty drafted in one night by lamplight. A brother's letter that places one condition on itself and gives everything else away. A priestess's memoir written so that her successors will not mistake the beginning for certainty. And the prose archive — **the scenes themselves, where the canon actually happened to people.**
+> What sits here is **the world talking.** A treaty drafted in one night by lamplight. A brother's letter that places one condition on itself and gives everything else away. A priestess's memoir written so that her successors will not mistake the beginning for certainty. And the prose archive: **the scenes themselves, where the canon actually happened to people.**
 
 ---
 
@@ -16,7 +18,7 @@ title: In-World Documents & the Narrative Archive
 
 | Document | What it is | Written by |
 |---|---|---|
-| **The Zettari–Mahou Accord** | Five articles binding two houses. **Article II governs a marriage and makes refusal non-dissolving.** Article V binds both houses to honesty above comfort | Kwon Mu-jin, under the seal of Dawn Guard, Sovereign of the Zettari — **in a single night, in a camp still cold from the day's teaching** |
+| **The Zettari–Mahou Accord** | Five articles binding two houses. **Article II governs a marriage and makes refusal non-dissolving.** Article V binds both houses to honesty above comfort | Kwon Mu-jin, under the seal of Dawn Guard, Sovereign of the Zettari, **in a single night, in a camp still cold from the day's teaching** |
 | **To Ara Min Mahuo** | The letter sent the same night, to the woman whose name he had just given a Sovereign. **The private half of Article II** | Kwon Mu-jin, to his sister |
 | **Anima Veri Credentis** | Sixteen chapters. **The memoir of a Yuno clergywoman who watched the clergy of magic come into existence and does not believe it was inevitable** | A third daughter of Kureha-in-Mist, name withheld in her own text |
 | **The Scene Archive** | The narrative record. Four long-form works and twenty-five scenes, indexed by what canon each establishes | — |
@@ -25,7 +27,7 @@ title: In-World Documents & the Narrative Archive
 
 ## Why These Read Differently
 
-The institutional codices in this wiki are written by bodies that **expect to outlast their authors.** Their voice is procedural, and their honesty — where they are honest — arrives as an unresolved entry filed at the end and never answered.
+The institutional codices in this wiki are written by bodies that **expect to outlast their authors.** Their voice is procedural, and their honesty, where they are honest, arrives as an unresolved entry filed at the end and never answered.
 > These documents have the opposite problem. **They were written by people who knew exactly how much time they had.**
 >
 > The Accord closes on **"ink outlasts intention,"** and asks to be judged by what it produces rather than by the sincerity with which it was proposed. The letter opens by placing **one condition** on itself and surrendering every other decision. The memoir exists **so that those who come after will not mistake our beginning for certainty.**
@@ -34,7 +36,7 @@ The institutional codices in this wiki are written by bodies that **expect to ou
 >
 > *Order is a wound stitched closed often enough that later eyes call the scar design.*
 >
-> — Anima Veri Credentis, Chapter I
+> Anima Veri Credentis, Chapter I
 
 ### The documents
 

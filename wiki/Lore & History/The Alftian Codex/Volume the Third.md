@@ -18,7 +18,7 @@ title: Volume the Third
 
 When I have something worth saying I will say it to you first. I said that to you in a wool store at Rimward, and you took my wrist instead of my word, which was fair, because the sentence I said after it was a lie. This one was not. So the book opens where I promised, on the question, and it opens to you.
 
-I am writing in a room in Urbis with an east window above a square. The trams run under it on the conduit all day. In the small hours the district is let down for its maintenance and the hum stops, and I wake in the quiet, which is how I know the time. I breathe with one side of my chest. I write with the thumb and forefinger of my left hand, and the Silent Archivists will find the hand worse than the first two volumes. The first two apologised for their explaining. This one does not.
+I am writing in a room in Urbis with an east window above a square. The carriers' carts run under it on their stones all day. In the small hours the wardens bed the square's stones down and the hum stops, and I wake in the quiet, which is how I know the time. I breathe with one side of my chest. I write with the thumb and forefinger of my left hand, and the Silent Archivists will find the hand worse than the first two volumes. The first two apologized for their explaining. This one does not.
 
 The title page carries a Division and a vow. The Archivum's form asks a depositor for his standing, and I have given it as a filing. Above my name I have still put nothing. The Division sealed the first two volumes, which I learned at my own door, and I deposit this one for common use all the same, because the vow is a teaching vow and a sealed book teaches nobody.
 
@@ -38,7 +38,7 @@ I had not known she was in the town. She had come to the Rimward house with the 
 
 So I asked without the Draft. I asked as though I held a standing I do not hold, and I knew what I was doing while I did it. I had time for one thought. It was that I would rather answer for the asking afterward.
 
-Two laws should have met me there. The first is the house law, which you and I had before we had our letters: a summoner cannot compel; he is recognised or he is not; a summoner who claims a standing he lacks gets nothing, and the nothing is the mercy. By that law the wall comes down on both of them while I stand in the street with my mouth open. The second is the warrant law of the Counted Speech. A warrant that overstates the speaker's standing seals anyway, and takes the gap out of the speaker's body. By that law I am emptied by exactly the amount I lied. I spoke no warrant. I counted nothing, I drew no circle, and there was no seal for anything to close on.
+Two laws should have met me there. The first is the house law, which you and I had before we had our letters: a summoner cannot compel; he is recognized or he is not; a summoner who claims a standing he lacks gets nothing, and the nothing is the mercy. By that law the wall comes down on both of them while I stand in the street with my mouth open. The second is the warrant law of the Counted Speech. A warrant that overstates the speaker's standing seals anyway, and takes the gap out of the speaker's body. By that law I am emptied by exactly the amount I lied. I spoke no warrant. I counted nothing, I drew no circle, and there was no seal for anything to close on.
 
 What happened fits neither law. Something outside both answered, and the eye was its price.
 
@@ -60,7 +60,7 @@ It began with page three.
 
 In the spring of the year I was twenty-two, a boy came into the east room behind his cat and told me the third page of the entering grammar was wrong. It was. A copyist had dropped a link from the second chain, and a seal described that way would open under the first real load it met. The entering grammar is a controlled text. The kingdom keeps its standard at Vaeloris, at the Carver's Seat, and a standard with a dropped link in it had gone out to every child in the kingdom entered that year. I carried the correction there myself at the turn of summer into autumn. I could have posted it. I have never once in my life posted a correction I could carry.
 
-The Seat stands in a warm basin over an old vent, built in quarried stone where the rest of the kingdom builds in cedar, and the ground there presses at the temples harder than at home. A carver at the gate asked who kept my posts. I told him the school's carver did, at Sum-gol, and he looked at the lens and let me through. All day the mallets went on the practice stones across the basin. Hundreds of them. The stroke that landed late carried furthest. A technique standardised at the Seat belongs to the kingdom before it belongs to anyone who learned it, and a correction heard there is the kingdom's from the moment it is heard. I had known that when I set out.
+The Seat stands in a warm basin over an old vent, built in quarried stone where the rest of the kingdom builds in cedar, and the ground there presses at the temples harder than at home. A carver at the gate asked who kept my posts. I told him the school's carver did, at Sum-gol, and he looked at the lens and let me through. All day the mallets went on the practice stones across the basin. Hundreds of them. The stroke that landed late carried furthest. A technique standardized at the Seat belongs to the kingdom before it belongs to anyone who learned it, and a correction heard there is the kingdom's from the moment it is heard. I had known that when I set out.
 
 They made me wait for a hearing, and I waited in a lodging on the basin's rim.
 
@@ -98,9 +98,9 @@ Ara, the first condition in the Accord I drafted, that your consent may not be p
 
 ## Chapter the Fifteenth · The East Room, the Year After
 
-The second volume went down to Urbis in the spring and into the Archivum for common use. I came back up the valley from the station and taught.
+The second volume went down to Urbis in the spring and into the Archivum for common use. I came back up the valley from the waystation and taught.
 
-The east room kept its nine names that year. I entered nobody new in it. The school took the new ones instead, from the valley and past it, once the room's name had traveled: families from the lower reach and the potters' settlement, a carver's household from two stations down the warded track, a widow off the Uplands road with three children and a cart. By the spring after there were forty on the terraces in their ranks.
+The east room kept its nine names that year. I entered nobody new in it. The school took the new ones instead, from the valley and past it, once the room's name had traveled: families from the lower reach and the potters' settlement, a carver's household from two waystations down the warded track, a widow off the Uplands road with three children and a cart. By the spring after there were forty on the terraces in their ranks.
 
 We taught under the valley's standing, on the record, without fee. The school fed me. It fed my son and his mother too. The cedar beams wept sap through the summer, and the old men said the wards were drinking. Every morning the carver's boy by the yard wall went at the practice stone with his mallet, and the stroke that landed late was always his.
 
@@ -122,7 +122,7 @@ Ara walked the circuit with me that year, when she was not in the lower reach wi
 
 ## Chapter the Sixteenth · Wherever I Was Sent
 
-The Carver's Seat reported the Legion night to the Guild Accord, as the Seat reports whatever happens inside its walls, and the Division of Alchemetrica entered me on its books as a Registered Natural. I held no academy credential. I left the court at fourteen and read at the Monastery without its vow. A Registered Natural submits to monitoring in place of a record: periodic reassessment, demonstration, disclosure of every new harmonisation.
+The Carver's Seat reported the Legion night to the Guild Accord, as the Seat reports whatever happens inside its walls, and the Division of Alchemetrica entered me on its books as a Registered Natural. I held no academy credential. I left the court at fourteen and read at the Monastery without its vow. A Registered Natural submits to monitoring in place of a record: periodic reassessment, demonstration, disclosure of every new harmonization.
 
 Four reassessors came up the valley in turn. Each brought a chain or an instrument to test me against. Each time the chain or the instrument was wrong, and I said so, to his face, because it was wrong. Each wrote on my file that I was temperamentally unsuited to field deployment. They were right about me. The chain was still wrong, each time.
 
@@ -132,19 +132,19 @@ A rank is a license. An Archmagus may certify teachers and enter pupils for the 
 
 Then the Division posted me, and it posted me to teach. I went wherever I was sent. The schoolmaster and Doyun kept the east room behind me.
 
-The first posting was a draw-town on a main, two days down the line. The Guild gave me the back room of the meter house, where the hum came up through the floor, and a slate laid flat on a bench buzzed against the wood until a child put a hand on it. Eleven clerks' children came to me after their own lessons. They had been told that a Draft is a small working a clever child can buy the chain for, and the meter-reader's girl had bought one. She was twelve. She wanted a license to draw, which in a draw-town is the whole of a future: a license is a seal and a wage, and a child without one reads the meters for the man who has it. She brought me a warming chain copied out of her father's almanac, folded small, the way children bring you a thing they have been told is forbidden.
+The first posting was a lamp-wardens' town on a Core, two days down the kept road. The Guild gave me the back room of the fee hall, where the hum came up through the floor, and a slate laid flat on a bench buzzed against the wood until a child put a hand on it. Eleven clerks' children came to me after their own lessons. They had been told that a Draft is a small working a clever child can buy the chain for, and the fee-walker's girl had bought one. She was twelve. She wanted a warden's license, which in a Core town is the whole of a future: a license is a seal and a wage, and a child without one walks the fee-round for the man who has it. She brought me a warming chain copied out of her father's almanac, folded small, the way children bring you a thing they have been told is forbidden.
 
 The chain was wrong in its fourth link. I told her so before I told her it was good, which it also was. Then I took the lens off, because she had done something with it. She had tried the Draft on her own hand in the privy with nobody standing by, and the fourth link had drawn its heat out of the skin under the ink. The blister under the fold of her thumb was the size of a copper.
 
 "Correct the chain first," I said. "Then the hand."
 
-I taught the room from her blister. A Draft takes its heat from somewhere. If the chain does not say where, it takes it from the nearest thing that will give, and the nearest thing is always the one who drew it. They copied that down. The lens-off read cost me the migraine behind the left eye into the next afternoon, and I taught the next day's lesson with the shutters closed and a wet cloth at the back of my neck while the meter-house clerk complained of the lamps. I could not give her a license. I gave her a chain that would not burn her, and a letter to the Guild house saying that she drew a truer chain at twelve than the almanac she had copied it from. It was true. I doubt it was enough.
+I taught the room from her blister. A Draft takes its heat from somewhere. If the chain does not say where, it takes it from the nearest thing that will give, and the nearest thing is always the one who drew it. They copied that down. The lens-off read cost me the migraine behind the left eye into the next afternoon, and I taught the next day's lesson with the shutters closed and a wet cloth at the back of my neck while the fee-hall clerk complained of the lamps. I could not give her a license. I gave her a chain that would not burn her, and a letter to the Guild house saying that she drew a truer chain at twelve than the almanac she had copied it from. It was true. I doubt it was enough.
 
-The second was a settlement past the last warded station, whose ground had put something out of a Well that spring. The carvers there had driven it off into the hills at a cost, and they wanted their children able to bind a wound before the wounded could be carried in. I taught the tourniquet first, since a cord and a stick cost nothing, and after it the Draft suspension that holds the edges of a wound still while they close. Ara learned the first from me when she was their size, and has taught it better since. A carver's boy of nine wanted the other thing, the working that kills what comes out of a Well. I told him I had none to teach. He did not believe me, which was fair, since I had come up from the station on the Division's mule with a silver token at my collar. He learned the tourniquet faster than any of them, on his sister's thigh, and he counted under his breath while he turned the stick, as I had told them all to, so that whoever came after would know how long it had been on.
+The second was a settlement past the last warded waystation, whose ground had put something out of a Well that spring. The carvers there had driven it off into the hills at a cost, and they wanted their children able to bind a wound before the wounded could be carried in. I taught the tourniquet first, since a cord and a stick cost nothing, and after it the Draft suspension that holds the edges of a wound still while they close. Ara learned the first from me when she was their size, and has taught it better since. A carver's boy of nine wanted the other thing, the working that kills what comes out of a Well. I told him I had none to teach. He did not believe me, which was fair, since I had come up from the waystation on the Division's mule with a silver token at my collar. He learned the tourniquet faster than any of them, on his sister's thigh, and he counted under his breath while he turned the stick, as I had told them all to, so that whoever came after would know how long it had been on.
 
-I had not slept a whole night in six years, and I did not begin in that settlement. I lay awake every night of the posting with my ear on the ground. In the third turn the post came up from the station with a letter in Doyun's good hand to say that Geturo had crawled the length of the east room to the bench by the door. I read it twice. I had not seen him do it, and I had his first year in pieces after that, the way a man reads a book with every third leaf cut out.
+I had not slept a whole night in six years, and I did not begin in that settlement. I lay awake every night of the posting with my ear on the ground. In the third turn the post came up from the waystation with a letter in Doyun's good hand to say that Geturo had crawled the length of the east room to the bench by the door. I read it twice. I had not seen him do it, and I had his first year in pieces after that, the way a man reads a book with every third leaf cut out.
 
-The third was an infirmary in a river town that had heard what Doyun's suspensions do and wanted the method taught. I taught it to six nurses in a ward with the beds pushed back, pouring and pouring again until the suspension held clear in their hands and not only in mine. The eldest of them had a brother on the second bed. He had worked a pump-house on the main for twenty years and run dry at it, and he lay gray and quiet with his hands folded on the blanket, and she had heard that a Draft from the Division could put back what the pump-house took. I told her what I tell every family in every posting: no Draft refills anyone. A suspension steadies a Shell while it mends, and a Shell with nothing left to mend around only steadies. She heard me out. Then she asked me to pour one for him anyway. I did, and it held him quiet through the night and did nothing else. In the morning she was at the bench before I was, pouring for the woman in the fourth bed, and she did not look up when I came in.
+The third was an infirmary in a river town that had heard what Doyun's suspensions do and wanted the method taught. I taught it to six nurses in a ward with the beds pushed back, pouring and pouring again until the suspension held clear in their hands and not only in mine. The eldest of them had a brother on the second bed. He had been a Core-tender at the town's site for twenty years and run dry at it, and he lay gray and quiet with his hands folded on the blanket, and she had heard that a Draft from the Division could put back what the Core took. I told her what I tell every family in every posting: no Draft refills anyone. A suspension steadies a Shell while it mends, and a Shell with nothing left to mend around only steadies. She heard me out. Then she asked me to pour one for him anyway. I did, and it held him quiet through the night and did nothing else. In the morning she was at the bench before I was, pouring for the woman in the fourth bed, and she did not look up when I came in.
 
 That was the plain coin, and I paid it in every posting: the migraine after every read with the lens off, the nights, a son learning the east room without me. And there were the eight, whom I will come to.
 
@@ -192,7 +192,7 @@ I came home from Rimward with one eye and a binding at the waist, and I had not 
 
 I will write what I did and what I read. A man came out of the air above the valley. The pines on the eastern slope came up out of the ground with their root-balls and went into the sky in a ring, and the ring became a spiral, and the stream came off the eastern shoulder and went up in a curtain of beads. Forty children stood on the terraced yard at the high end of the school in their ranks, being taught the long count.
 
-There was a Valorin woman in the valley that season, of the Seat's house, who had come up after the Seat fell. We had never worked beside each other. We raised the barrier together in the time it takes to say so, her half and mine. Hers was her house's old grammar of concealment, which makes a thing expensive to find, turned to make the valley expensive to reach. Mine was Coagulatio. The valley's own density fed the set, the ground that presses at every returning temple, drawn up through the wards the school's carver keeps. A solution seeded past a critical size stops dissolving what it makes and grows, because growing costs it less, and I seeded the set past that size along the whole curve at once and let the law carry it. Heat came off my Shell into the air in shards of arc-blue, and my η held. That is as much of myself as I will put in this book.
+There was a Valorin woman in the valley that season, of the Seat's house, who had come up after the Seat fell. We had never worked beside each other. We raised the barrier together in the time it takes to say so, her half and mine. Hers was her house's old grammar of concealment, which makes a thing expensive to find, turned to make the valley expensive to reach. Mine was Coagulatio. The valley's own density fed the set, the ground that presses at every returning temple, pulled up through the wards the school's carver keeps. A solution seeded past a critical size stops dissolving what it makes and grows, because growing costs it less, and I seeded the set past that size along the whole curve at once and let the law carry it. Heat came off my Shell into the air in shards of arc-blue, and my η held. That is as much of myself as I will put in this book.
 
 The two halves did not fit. I felt the seams where they had been forced to meet, three of them along the curve, and neither of us had time to mend them. It held on strength alone.
 
@@ -240,7 +240,7 @@ I set it on the desk beside a closed book, square to the edge. She stood in the 
 
 There is no working in that wax. I would have felt one from the stair. The only seal on the letter for four months was mine.
 
-The winter came in on the square, and the trams went on under it on their hum. The line drew itself across the three fingers in its second turn, black on one side and angry pink on the other, where I have told carters since I was twelve that it would. Furveus crossed the city from the Heralds' Medical University to name it. He cannot hold a knife now. He stood at the table and named where the line was, and a surgeon of the University cut where he named. I write this book with what the line left me.
+The winter came in on the square, and the carts went on under it on their hum. The line drew itself across the three fingers in its second turn, black on one side and angry pink on the other, where I have told carters since I was twelve that it would. Furveus crossed the city from the Heralds' Medical University to name it. He cannot hold a knife now. He stood at the table and named where the line was, and a surgeon of the University cut where he named. I write this book with what the line left me.
 
 I read him on sight, as I always have: the nail-beds gray, a pale band across every nail, the nod gone down into his jaw. I said nothing to him about any of it, and I write here that I said nothing. It was a small Separation.
 
@@ -273,7 +273,7 @@ I opened it at the thaw. It is the second letter Draycott has written me, and I 
 > 
 > The ground at Genesio has held one decision longer than any other. It is addressed. You have stood beside it. You wrote that you filed it again.
 > 
-> This is my second letter. I do not expect an answer sooner than I had one to the first, and I have arranged to be patient. When you are in the valley, I take coffee at the stall on the Castlefall platform at the second bell, on the mornings the Urbis train comes in. I shall be in the valley more often now.
+> This is my second letter. I do not expect an answer sooner than I had one to the first, and I have arranged to be patient. When you are in the valley, I take coffee at the stall on the Castlefall platform at the second bell, on the mornings the Urbis cart comes in. I shall be in the valley more often now.
 > 
 > G. Draycott
 > 
@@ -284,11 +284,11 @@ Kwon Mu-jin
 
 ## Chapter the Twentieth · The Platform at Castlefall, Second Bell
 
-The line takes a day from Urbis to Castlefall, and I took it on one lung, with the lens on and my weight held down against a carriage of strangers. Nothing burns on the line. It rides the conduit on its hum, and the hum sat in my back teeth the whole day.
+The kept road takes a day from Urbis to Castlefall, and I took it on one lung, with the lens on and my weight held down against a cart of strangers. Nothing burns on the kept road. The cart rides its stones on their hum, and the hum sat in my back teeth the whole day.
 
-Castlefall at the thaw was fog on the rails and fog on the cedar of the platform, which is eleven winters old now and still weeping. The ground pressed at my temples from the carriage step. At the next stall two carters were quarrelling over the drakes hatched since the Weight went out of its station, and whether any of them would breed true. The second bell went.
+Castlefall at the thaw was fog in the cart-ruts and fog on the cedar of the platform, which is eleven winters old now and still weeping. The ground pressed at my temples from the cart step. At the next stall two carters were quarreling over the drakes hatched since the Weight went out of its station, and whether any of them would breed true. The second bell went.
 
-Draycott was already at the coffee stall with a cup. With the lens on I read him as anyone could have: a lean man of about forty-seven, grayer at the crown than he had been across a café table from me, standing with his weight on the back foot as though the platform might be withdrawn from under him. The signet on his smallest finger had worn smoother since then. A silver token hung at his collar, the disc turned outward. Under all of it was a stillness I took for a man holding his weight down, as I was holding mine.
+Draycott was already at the coffee stall with a cup. With the lens on I read him as anyone could have: a lean man of about forty-seven, grayer at the crown than he had been across a coffee-house table from me, standing with his weight on the back foot as though the platform might be withdrawn from under him. The signet on his smallest finger had worn smoother since then. A silver token hung at his collar, the disc turned outward. Under all of it was a stillness I took for a man holding his weight down, as I was holding mine.
 
 I paid my copper and took my cup. It is still terrible.
 
@@ -326,15 +326,15 @@ He drank his coffee. "What she wanted. For it to go somewhere it could be used."
 
 I did not yet know who she was.
 
-The up train for the waystation came in at the third bell. He finished his cup, took his token off the counter, and waited while I took mine.
+The up cart for the waystation came in at the third bell. He finished his cup, took his token off the counter, and waited while I took mine.
 
 ## Chapter the Twenty-First · The Hall at Genesio
 
-A day on the line to the Genesio waystation, and then the passes, which had opened a turn before. At the waystation the clerk entered us in his book. "On the record," he said. The ground pressed at my temples from the first switchback. I went up on a hired mule with Draycott ahead of me, and it took us two days and a great many stops. One lung does the work of two badly at that height. I counted my breaths the way I count a pulse, and at each stop I counted them down again, and at each stop Draycott waited without being asked and without looking back.
+A day on the kept road to the Genesio waystation, and then the passes, which had opened a turn before. At the waystation the clerk entered us in his book. "On the record," he said. The ground pressed at my temples from the first switchback. I went up on a hired mule with Draycott ahead of me, and it took us two days and a great many stops. One lung does the work of two badly at that height. I counted my breaths the way I count a pulse, and at each stop I counted them down again, and at each stop Draycott waited without being asked and without looking back.
 
 The Archivum at the top of the archive-town is squat and weathered, the oldest house the Heralds keep, and over its door Maelor's edict is cut into the lintel: Nothing is lost, only waiting to be remembered. I read it going in.
 
-The archivist of the lower stacks met us on the reading floor. Dessa Mael is small and straight-backed and past seventy, her white hair scraped into a knot and pinned with a steel pen, a narrow pale face lined fine round the eyes, the Heralds' gray under a knitted shawl, and ink on both forefingers. She brought tea before anyone had asked a question. The Archivum reads a gauge at the gate below once a turn, she said, and it had climbed through every season she had logged. At the thaw it stood at twenty-six, higher than any figure in her book. The lamps in the corridor beyond had been dark since the midwinter before last.
+The archivist of the lower stacks met us on the reading floor. Dessa Mael is small and straight-backed and past seventy, her white hair scraped into a knot and pinned with a steel pen, a narrow pale face lined fine round the eyes, the Heralds' gray under a knitted shawl, and ink on both forefingers. She brought tea before anyone had asked a question. The Archivum reads a fork at the gate below once a turn, she said, and it had climbed through every season she had logged. At the thaw it stood at twenty-six, higher than any figure in her book. The lamps in the corridor beyond had been dark since the midwinter before last.
 
 I asked for the Scribe.
 
@@ -350,7 +350,7 @@ Ivor Strom was sitting on the floor inside the hall with his bad knee out straig
 
 I took the lens off.
 
-The hall read Whirlpool: ground where the planes turn together and time sits wrong, where a Spirit-type site gives a Crystal no warning at all. The first time I stood in it, it read Riptide. It was a rung above its own density now, because it had been drawn on until it turned and began to take. To keep one's own law on ground of that rung takes S-grade output or better, 4.184 × 10¹² joules at the floor of the band, and the rung runs a hundred times higher than that at its top. Against the wall lay Strom's stock in its crates. Render stock, Class IV, which means the dead are in it. Across the floor and up the bark of the trees lay the scar, pale patches where the ground held nothing. There Strom had woken Traces coarsely, and a coarse waking had warmed those patches until they gave everything they had stored.
+The hall read Whirlpool: ground where the planes turn together and time sits wrong, where a Spirit-type site gives a Crystal no warning at all. The first time I stood in it, it read Riptide. It was a rung above its own density now, because it had been pulled on until it turned and began to take. To keep one's own law on ground of that rung takes S-grade output or better, 4.184 × 10¹² joules at the floor of the band, and the rung runs a hundred times higher than that at its top. Against the wall lay Strom's stock in its crates. Render stock, Class IV, which means the dead are in it. Across the floor and up the bark of the trees lay the scar, pale patches where the ground held nothing. There Strom had woken Traces coarsely, and a coarse waking had warmed those patches until they gave everything they had stored.
 
 I went to the first coffin and stayed.
 
@@ -358,7 +358,7 @@ The ground was still closed round its weight like a hand round a stone, and the 
 
 Its tone I had heard before, across a table with two cups on it, in the turn after the orchard. I read in it an Elfin constitution and an astronomer who worked in correspondence and died two hundred and sixty years ago with a decision in his hand. Kaalabad has a name for whoever that was, and he called me by it on the road. It is not my name.
 
-It completed into me through Anamnesis, and I did nothing to make it. The hall's density, pressed by Strom's draw a rung too high, stood round the coffin and fed the read. Anamnesis does to a record what heat does to a fired shard: whatever the shard has stored since the kiln it gives back once, as light, when it is warmed, and then it is empty until it has stored more. The Trace was a commitment of its maker's Attraction Layer, and when my reading warmed it, it went where it had always been aimed, into mine, and my Shell ran warm, and my η held. The read was the delivery: there was no vessel and no seal.
+It completed into me through Anamnesis, and I did nothing to make it. The hall's density, pressed by Strom's pulling a rung too high, stood round the coffin and fed the read. Anamnesis does to a record what heat does to a fired shard: whatever the shard has stored since the kiln it gives back once, as light, when it is warmed, and then it is empty until it has stored more. The Trace was a commitment of its maker's Attraction Layer, and when my reading warmed it, it went where it had always been aimed, into mine, and my Shell ran warm, and my η held. The read was the delivery: there was no vessel and no seal.
 
 It was a correction.
 
@@ -394,7 +394,7 @@ He nodded, once.
 
 Draycott and Strom were in that hall when I went to the coffin and stayed. I filed it twice, alone; this time two men stood by while I did not file it.
 
-Coming out, I read Maelor's edict again, and I added in my book the half the Heralds leave off: and remembering it spends it. The next morning Dessa Mael read the gate out of her turn, and the gauge had fallen to twenty.
+Coming out, I read Maelor's edict again, and I added in my book the half the Heralds leave off: and remembering it spends it. The next morning Dessa Mael read the gate out of her turn, and the fork had fallen to twenty.
 
 ## Chapter the Twenty-Second · What It Cost, and the Four
 
@@ -410,11 +410,11 @@ He looked at the fire so long that Strom got up and fed it.
 
 "Yes," he said. "The same shape."
 
-My gloss of the Aphorism says that whoever draws on Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. The Aphorism itself is older and speaks of a debt; the gloss is mine. I wrote it as a warning about other men. It is true to the letter. The likeness takes its identity from its maker's own Core, and the maker is in every word it says. The Trace is the one thing in it that was hers, and it was spent when it was delivered. That part the gloss did not foresee.
+My gloss of the Aphorism says that whoever pulls from Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. The Aphorism itself is older and speaks of a debt; the gloss is mine. I wrote it as a warning about other men. It is true to the letter. The likeness takes its identity from its maker's own Core, and the maker is in every word it says. The Trace is the one thing in it that was hers, and it was spent when it was delivered. That part the gloss did not foresee.
 
 I asked him whether he was one of the two who held Malphas's hand at Genesio. He laid his token on the hearthstone. "Ask Malphas," he said. The token did not darken. I have written to ask.
 
-Strom's completions have stopped, because the ground will not give him more. The Enforcement Division holds a charge of extraction against him that has not been heard. Until it is, Halveth's office, the Research and Archives Division's in Urbis, holds him under review at the pass-house above the waystation, and he helps to cleanse the hall. His finished works are real, and I say so: buildings their makers died meaning to finish, a survey of the Alftian fold carried to its end, a physician's text extended with its author's own figures. People live in the buildings. The damage to the ground is real as well. Draycott holds no appointment and no rank from any of it. He took the up train.
+Strom's completions have stopped, because the ground will not give him more. The Enforcement Division holds a charge of extraction against him that has not been heard. Until it is, Halveth's office, the Research and Archives Division's in Urbis, holds him under review at the pass-house above the waystation, and he helps to cleanse the hall. His finished works are real, and I say so: buildings their makers died meaning to finish, a survey of the Alftian fold carried to its end, a physician's text extended with its author's own figures. People live in the buildings. The damage to the ground is real as well. Draycott holds no appointment and no rank from any of it. He took the up cart.
 
 The Division has a framework in hand for this work. Who draws it is not mine to write. Whatever it becomes will bind only inside a signed circle, and the first was signed at Kharven-Seat this spring.
 
@@ -430,9 +430,9 @@ Neros turned his rule end for end on the chart and set it down straight.
 
 ## Chapter the Twenty-Third · The East Room Again
 
-I came up the valley at the start of the autumn, at the end of the eleven months I was lodged in Urbis, on the line and then on foot from the last station, which took me most of a day on one lung. A carter coming down asked who kept my posts, and I told him, and he looked at the arm and touched his hat. The ground pressed at my temples from the first bend of the river.
+I came up the valley at the start of the autumn, at the end of the eleven months I was lodged in Urbis, on the kept road and then on foot from the last waystation, which took me most of a day on one lung. A carter coming down asked who kept my posts, and I told him, and he looked at the arm and touched his hat. The ground pressed at my temples from the first bend of the river.
 
-Doyun met me at the station. He is sixteen, taller by a hand than he was, and he still takes every distance at a very fast walk with a great deal of arm. He took my case without asking and carried it on my right, where the arm hangs. He has kept the east room all the months I was away, and he teaches the little ones the first grammar now, under the schoolmaster's eye. It was his hand that told me in the summer that I had a second son.
+Doyun met me at the waystation. He is sixteen, taller by a hand than he was, and he still takes every distance at a very fast walk with a great deal of arm. He took my case without asking and carried it on my right, where the arm hangs. He has kept the east room all the months I was away, and he teaches the little ones the first grammar now, under the schoolmaster's eye. It was his hand that told me in the summer that I had a second son.
 
 In the first lesson the second Nabi sat on my feet.
 
@@ -505,7 +505,7 @@ Affixed by the hand of Kwon Mu-jin, for the use of whoever continues this work. 
 **A coffin at Genesio.** Asked.
 
 **Ara.** The office in the Accord I drafted is mine until your standing is settled. I will not settle it.
-> Deposited by the author for common use at the Archivum of the Heralds, Urbis, in the Monastery's lower floors. Year 702 IC, the Withering Era; the twelfth year of the Imperial Age.
+> Deposited by the author for common use at the Archivum of the Heralds, Urbis, in the Monastery's lower floors. Year 702 IC, the Withering Era; the twelfth year of the Dark Ages.
 > 
 > Transcribed by the Silent Archivists of Vaultmere, Nalūn.
 > 

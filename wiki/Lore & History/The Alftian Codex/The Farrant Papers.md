@@ -12,9 +12,9 @@ title: The Farrant Papers
 > 
 > Case: the Alftian commission. The Night Watch's reference: the Castlefall file. The Division's reference: the Eastern Commission.
 > 
-> Held under the Division's seal as a condition of access. Not for the bulletin office.
+> Held under the Division's seal as a condition of access. Not for the copy-house.
 > 
-> The Division's stamp: "Mortalis-adjacent. Clearance Tier IV Restricted (Mortalis Residue). Year 700 IC, the Withering Era; the tenth year of the Imperial Age."
+> The Division's stamp: "Mortalis-adjacent. Clearance Tier IV Restricted (Mortalis Residue). Year 700 IC, the Withering Era; the tenth year of the Dark Ages."
 
 ## The Case File
 
@@ -36,7 +36,7 @@ title: The Farrant Papers
 
 ## Preliminary Note · Urbis, the Division's Desk
 
-The Division keeps its Urbis desk in the lower floors of the Archivum, under the Monastery, by the Heralds' leave. I went down on Maelor's day with the crown's warrant still creased from the clerks' press. Two clerks. A file-press, and a gauge on the wall with the Board's seal on its glass, and one desk set to face the stair, so that whoever sits at it sees who comes down before they see her. The main hums louder down there.
+The Division keeps its Urbis desk in the lower floors of the Archivum, under the Monastery, by the Heralds' leave. I went down on Maelor's day with the crown's warrant still creased from the clerks' press. Two clerks. A file-press, and an assay fork in a glass case on the wall with the Guild's seal on its lock, and one desk set to face the stair, so that whoever sits at it sees who comes down before they see her. The ground hums louder down there.
 
 Halveth sat at that desk. Description of record: a woman past sixty, spare, her gray hair pinned flat to the skull; half-spectacles on a black ribbon; the right middle finger ink-stained to the second joint; fingerless mittens of gray wool against the cold of the lower floors; a Division clerk's gray, with sleeve-guards over the cuffs. No silver that I could see. At a Division desk that means none, or a pocket.
 
@@ -44,13 +44,13 @@ She rose, set the file on the table in front of me, and stood until I picked it 
 
 The letter of access lay on top. Its first line read, "The Searcher will keep a field journal." She had underlined the word field and circled the word journal, and in the margin, in a small precise hand, she had added the rest.
 > Margin, H.: not a report. Actual observations. Including the ones you don't want to have.
-A report is a filing. A filing goes to the bulletin office, which prints what it is given on the cheapest rag it can buy for anyone to read, and field notes under the Division's seal are printed nowhere. I did not ask whether that was her reason. It is the one I have written down.
+A report is a filing. A filing goes to the copy-house, which has what it is given copied out on the cheapest rag it can buy and nailed up for anyone to read, and field notes under the Division's seal are copied nowhere. I did not ask whether that was her reason. It is the one I have written down.
 
 The chapter secretary told me the Division had asked for someone who reads nothing. Halveth gave no reason. My guess is that a woman who reads nothing has no reading to be argued with, and I set it down as a guess.
 
 The order covers what I would rather leave out, so: I was screened at seven, in the screening season, and nothing stirred, so no roll took me. The chapter bench read me when I joined the Society and entered me Class Ø. Every reading in these notes belongs to an instrument or to somebody who can read, and I name which. On my left wrist is the regulation bracelet, brass bands wound with gray wire, which pulls toward anyone holding his weight down. It is the only warning I get.
 
-I walked an Urbis walk for eight years, the slow-main streets east of the high street. I have carried the crown's warrant for twelve. A cut district that went on humming after its plate was dropped. A relic lot at the river stairs whose Carry ran heavier than its papers. A man whose file put him at Stage VI, who believed Judicium had begun to speak to him in particular.
+I walked an Urbis walk for eight years, the lean-ground streets east of the high street. I have carried the crown's warrant for twelve. A struck street whose lamps went on burning after the snuffers had been through. A relic lot at the river stairs whose Carry ran heavier than its papers. A man whose file put him at Stage VI, who believed Judicium had begun to speak to him in particular.
 
 A name in a Society file is a line somebody can follow. A walker's name heads every insert he files, and whoever reads the inserts knows where to find him. This file names the subjects of the warrant, the witnesses I hear and the officers who handle it; everyone else goes in by post or by exhibit. The two volumes stay at the desk for the same reason, read and not copied.
 
@@ -70,17 +70,17 @@ I took the file up the stair under my arm.
 
 **Baseline.** Irath's day, early winter, Castlefall on arrival, eleventh division. Slept four divisions the night before. Hands dry and even, the left no warmer than the right. Appetite ordinary. Temper even, which Halveth may annotate.
 
-The line runs up the valley by day. The conduit hum came up through the bench into my back teeth, a note under the tram's, until the foot of the valley, where the carriage came off the main onto the station spur. Castlefall's platform is cedar. It is ten winters old and still weeps sap onto the carters' boots.
+The kept road runs up the valley, and the carriers run it by day. The hum of the tuned waystones came up through the cart bench into my back teeth, stone after stone, until the foot of the valley, where the carrier's cart came off the kept road into the waystation yard. Castlefall's loading platform is cedar. It is ten winters old and still weeps sap onto the carters' boots.
 
-The station carver met the train and asked me who keeps my posts. I told him I had none, which in Ketsuen counts as an answer, and he put me on the station's record on my own word: name, Society, chapter, business on the crown's warrant, lodging. Anyone may read it. Ketsuen has no crown and governs by the Proving, so here the warrant is paper, and I can ask and cannot compel.
+The waystation carver met the cart and asked me who keeps my posts. I told him I had none, which in Ketsuen counts as an answer, and he put me on the waystation's record on my own word: name, Society, chapter, business on the crown's warrant, lodging. Anyone may read it. Ketsuen has no crown and governs by the Proving, so here the warrant is paper, and I can ask and cannot compel.
 > Margin, H.: You are on their record now.
-The pressure came on behind my temples inside the first division off the train, a low weight laid there and left. Ketsuen gives it to everyone.
+The pressure came on behind my temples inside the first division off the cart, a low weight laid there and left. Ketsuen gives it to everyone.
 
 Castlefall smells of lime first. In the morning the leat below the tannery ran gray with it. Next door a carver's mallet was going on a practice stone, every stroke on its beat, and the tanner says the boy who used to land every third stroke late keeps half the street's posts now.
 
-The flat above the tanner's is let again to a dyer's family, and the lower room at the back of the yard, the old drying-room, to a distiller. Gauge, the foot of the outside stair, seventh division: seven and two marks. The survey tables put that at the high end of Ambient Saturation, and the ladder calls ground that reads high and steady Rill. It harms nobody.
+The flat above the tanner's is let again to a dyer's family, and the lower room at the back of the yard, the old drying-room, to a distiller. Fork, the foot of the outside stair, seventh division: seven and two marks. The survey tables put that at the high end of Ambient Saturation, and the ladder calls ground that reads high and steady Rill. It harms nobody.
 
-Calla, distiller, of Castlefall. Description of record: a woman near fifty, short and broad through the shoulders, her hair cropped close under a kerchief the color of old rust; a square weathered face, spectacles pushed up onto the kerchief; forearms scarred with the small white burns a still gives; a leather apron over gray wool worn shiny at the hip where the bench edge meets it. Concord-born, from down the line. Her certificate hangs framed by the door: bench-certified, pure alchemy. A copper sat on the sill. She aired the room three days when she took it, as her mother taught her, and left the coin against the ill luck a working's leavings bring.
+Calla, distiller, of Castlefall. Description of record: a woman near fifty, short and broad through the shoulders, her hair cropped close under a kerchief the color of old rust; a square weathered face, spectacles pushed up onto the kerchief; forearms scarred with the small white burns a still gives; a leather apron over gray wool worn shiny at the hip where the bench edge meets it. Concord-born, from down the road. Her certificate hangs framed by the door: bench-certified, pure alchemy. A copper sat on the sill. She aired the room three days when she took it, as her mother taught her, and left the coin against the ill luck a working's leavings bring.
 
 She had covered the circle with a rug. She read the warrant through, which few people do, and pulled the rug back herself.
 
@@ -110,7 +110,7 @@ My reasoning. If the commission worked as the Codex describes, the working that 
 
 Traces thin. The floor holds.
 
-I finished my coffee. I boarded the down train.
+I finished my coffee. I climbed onto the down cart.
 
 ### Not wanted
 
@@ -118,13 +118,13 @@ I copied the distiller's words onto the inside cover, where I keep the readings 
 
 ## Entry the Second · The Eastern Lowlands, a House with No Name on the Gate
 
-**Baseline.** Maelor's day, midwinter, sixth division, an inn on the river road. Slept badly on the line, well at the inn. Hands cold, both alike. The pressure at the temples lifted somewhere past the last ward-post, and I did not mark where.
+**Baseline.** Maelor's day, midwinter, sixth division, an inn on the river road. Slept badly on the road, well at the inn. Hands cold, both alike. The pressure at the temples lifted somewhere past the last ward-post, and I did not mark where.
 
 The crown's registry in Urbis gave me the names from the land records without much trouble. The house and its land stand in the name of Cassian Ault. His wife, Madeleine Ault, is entered dead of the lung-sickness in the winter of 694, in a clerk's round hand: In registro relatum. Exhibit B leaves them unnamed.
 
 Here the warrant runs, and nobody at the gate needed to read it twice.
 
-The ground is lower than Castlefall's and wetter, with a slow river near that I heard before I found it. By the door a meter under the Board's seal ticked once while I waited. The house keeps the kind of quiet money buys. Cassian Ault received me in a study lined with books whose spines have never been broken.
+The ground is lower than Castlefall's and wetter, with a slow river near that I heard before I found it. By the door hung a warden's fee-token under the Guild's seal, paid a year ahead. The house keeps the kind of quiet money buys. Cassian Ault received me in a study lined with books whose spines have never been broken.
 
 Description of record: a man of about sixty, tall, heavy in the frame and gone slack at the middle; white hair, thick, brushed straight back from a high forehead; clean-shaven, the jaw heavy; a black coat of good cloth cut for a heavier year and taken in at the seams by someone careful; a gold ring on the left hand that he turned with his thumb. He poured two glasses of wine and did not touch his. "Have you come about my wife, Searcher?" It was a prepared sentence.
 
@@ -144,7 +144,7 @@ She spoke, he said. She knew the names: his, the housekeeper's, a dog they had w
 
 On the eleventh day she began to do things his wife had never done. He chose his word for it with care and gave it to me twice: with intent. Before the eleventh day was out she asked him for the key to the room he had shut on the day she died, which had been her workroom. He opened it. On the bench, which she had cleared a little at a time over the last turns of her illness, lay a cloth, and under the cloth a paper, folded and sealed.
 
-Then she ended. "In one breath," he said. "Like a lamp when the main is cut."
+Then she ended. "In one breath," he said. "Like a lamp when the snuffer reaches it."
 
 He sat in that room for some hours. Then he read the paper.
 
@@ -176,19 +176,19 @@ When I left he was still holding it by the edges.
 
 My mother was a sworn weigher at the Urbis market assize, and I stood beside her for years holding the small hammer. A solid weight rings when struck. A cased one looks the same and rings dull. He paid three hundred gold marks for eleven days of his wife. What came rang dull. It was a courier.
 
-## Entry the Third · On the Line, and at the University
+## Entry the Third · On the Road, and at the University
 
-**Baseline.** Auren's day, late winter, the line toward Urbis, ninth division. Slept three divisions. Hands cold. Appetite poor, which I put down to the inn.
+**Baseline.** Auren's day, late winter, the road toward Urbis, ninth division. Slept three divisions. Hands cold. Appetite poor, which I put down to the inn.
 
-Gauge-housing on a post, Guild seal on its door. The hum dropped a note.
+An assay post at the roadside, Guild seal on its case. The hum dropped a note.
 
 The paper was on her bench before the vessel was poured. She left it there. The commission found it.
 
-Exhibit A sets down the old debt doctrine, the Aphorism of Mortalis: whoever raises the dead borrows the current and cannot step back out of it without a cost to his own Crystal. Exhibit B gives Kwon Mu-jin's gloss on it, and the gloss is his: whoever draws on Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. The commission did what the gloss says. What Furveus built was an impression, and what Cassian Ault received wore his wife's tone and answered to her name.
+Exhibit A sets down the old debt doctrine, the Aphorism of Mortalis: whoever raises the dead borrows the current and cannot step back out of it without a cost to his own Crystal. Exhibit B gives Kwon Mu-jin's gloss on it, and the gloss is his: whoever pulls from Mortalis to rebuild what has come apart summons himself, arranged in their image, and calls it resurrection. The commission did what the gloss says. What Furveus built was an impression, and what Cassian Ault received wore his wife's tone and answered to her name.
 
 And the paper was real. So was the wax on it. Draycott's mark sits over the lute of the vessel and on her paper both, and he brokered the commission, so he knew what she meant to do with the eleven days.
 
-The grief was the postal route, and the commission the courier. Exhibit A has Kwon telling Draycott at the café that Mortalis is a gate and carries nobody anywhere. I have found nothing in this case to make him wrong.
+The grief was the road, and the commission the courier. Exhibit A has Kwon telling Draycott at the coffee-house that Mortalis is a gate and carries nobody anywhere. I have found nothing in this case to make him wrong.
 
 What happened in that house let the impression close an account its maker had left open when she stopped. On the evidence of this file only two people knew the paper was there: the woman, and the man whose wax is on it.
 
@@ -223,19 +223,19 @@ I liked him.
 
 ## Entry the Fourth · Genesio, the Lower Stacks
 
-**Baseline.** Veyra's day, spring, after the thaw, the Genesio waystation, sixth division. Slept four divisions. Hands even. The pressure at the temples came on inside the first division off the train, harder than Castlefall's.
+**Baseline.** Veyra's day, spring, after the thaw, the Genesio waystation, sixth division. Slept four divisions. Hands even. The pressure at the temples came on inside the first division off the cart, harder than Castlefall's.
 
-A day up the line from Castlefall. The waystation's regulator is a bar of Basilithe-cut stone on a post, which rings at one pitch when the clerk strikes it on the hour. I asked to see the freight book, and the clerk said, "On the record," and turned it round for me.
+A day up the kept road from Castlefall. The waystation's regulator is a bar of Basilithe-cut stone on a post, which rings at one pitch when the clerk strikes it on the hour. I asked to see the freight book, and the clerk said, "On the record," and turned it round for me.
 
-Through three winters, consignments under a Castlefall address to a pass-house above the waystation: render stock, attested, from a chartered house down the line, and ink, reserved stock, under a rendering house's seal. I copied the address.
+Through three winters, consignments under a Castlefall address to a pass-house above the waystation: render stock, attested, from a chartered house down the road, and ink, reserved stock, under a rendering house's seal. I copied the address.
 
 Two days by hired mule up the passes. The Archivum stands at the top of the archive-town, squat and weathered, with Maelor's edict cut over its door: Nothing is lost, only waiting to be remembered. I copied it into this book and let it stand.
 
-Gauge, the reading floor, eighth division: nine and five marks. The top of Ambient. The floor is cold enough to show breath.
+Fork, the reading floor, eighth division: nine and five marks. The top of Ambient. The floor is cold enough to show breath.
 
 Archivist Dessa Mael has kept the lower stacks longer than I have been alive. Description of record: small, straight-backed, past seventy; white hair scraped into a knot and pinned with a steel pen; a narrow pale face, lined fine round the eyes; the Heralds' gray under a knitted shawl; ink on both forefingers. She brings tea when she judges that a person needs a moment before the next question, and she brought it before the first.
 
-The Necrocursica, she told me, is one of four works of its kind below the gate. Two are generations old. The fourth is about six years older than the Necrocursica, deposited without a name from a postal address in Castlefall.
+The Necrocursica, she told me, is one of four works of its kind below the gate. Two are generations old. The fourth is about six years older than the Necrocursica, deposited without a name from a carrier's address in Castlefall.
 
 She checked the address for me. It was registered to Ivor Strom, and it was the address in the freight book.
 
@@ -251,7 +251,7 @@ Exhibit B transcribes Draycott's first letter to Kwon, where the fourth residue 
 
 Ninth division. Ninth division.
 > Margin, H.: Twice.
-I tried to take it in a useful order. First, log it. Second, acquire clearance. Third, read it. Fourth, show Halveth. Dessa Mael put in for the Strom paper under the same authorisation as the treatise and brought more tea, which I took to mean that the clearance would be granted, slowly.
+I tried to take it in a useful order. First, log it. Second, acquire clearance. Third, read it. Fourth, show Halveth. Dessa Mael put in for the Strom paper under the same authorization as the treatise and brought more tea, which I took to mean that the clearance would be granted, slowly.
 
 I also asked, through the Archivum's post, for the treatise's author. The answer came back to the reading floor on my third day, in a clean, even hand.
 > The author of a text kept under seal answers for its contents to those whom the seal admits. The seal does not admit you. File me by the title. I did not choose it, but it is exact, and your file will want exactness.
@@ -269,9 +269,9 @@ Over the sheets she told me one thing more: a record read coarsely is less of a 
 
 The passage below the town is closed to ordinary traffic. At my asking, Dessa Mael stopped three flights up its stair. The protocols put one of a pair outside the radius: the one inside reports, the one outside confirms or contradicts, and the contradiction is the diagnosis.
 
-Gauge, the gate at the foot of the stair, tenth division: twenty-one, climbing while I held it. That is inside an Active Concentration, at its edge. The ladder calls it Freshet. Exhibit A puts the hall at the passage's far end on Riptide, ground where the Veil has begun to give. I did not go down to it. The Archivum's log, read at the same gate once a turn, gives ten at midsummer, eleven in the autumn, fifteen at midwinter, nineteen at the thaw. Ground that is drawn on should fall through a season. This has climbed through three.
+Fork, the gate at the foot of the stair, tenth division: twenty-one, climbing while I held it. That is inside an Active Concentration, at its edge. The ladder calls it Freshet. Exhibit A puts the hall at the passage's far end on Riptide, ground where the Veil has begun to give. I did not go down to it. The Archivum's log, read at the same gate once a turn, gives ten at midsummer, eleven in the autumn, fifteen at midwinter, nineteen at the thaw. Ground that is pulled from should fall through a season. This has climbed through three.
 
-Coil and gauge disagreed, the same way at every stand. The coil read a field and the gauge a density, and the two would not reconcile. The Accord's text on Mechanica says the discrepancy is the size of what is being taken, and that finding it requires two instruments and someone who can be bothered to compare them. I compared them at every stand.
+Coil and fork disagreed, the same way at every stand. The coil read a field and the fork a density, and the two would not reconcile. The Accord's text on Mechanica says the discrepancy is the size of what is being taken, and that finding it requires two instruments and someone who can be bothered to compare them. I compared them at every stand.
 
 Dessa Mael said the brick-stand lamps in the corridor beyond, which Exhibit A says pulse slowly, stopped at midwinter. I did not see them.
 
@@ -281,9 +281,9 @@ A taste came up at the back of my throat, metal and something sweet. Then Dessa 
 
 "You stopped talking," she said. "Fifty breaths. I counted."
 
-I had been reading her the gauge, and I have no memory of stopping.
+I had been reading her the fork, and I have no memory of stopping.
 
-The protocols count withdrawal as a step of the procedure. I took it. I came up the stair and marked the perimeter from the top, where the gauge gave nine and five marks again.
+The protocols count withdrawal as a step of the procedure. I took it. I came up the stair and marked the perimeter from the top, where the fork gave nine and five marks again.
 
 That night at the inn I wrote a line and struck it.
 
@@ -303,7 +303,7 @@ Every Genesio report came back from the Bureau the same way: Wellspring bleed, A
 
 The returns log what practitioners report. Nobody who reads nothing has been asked what the passage stair does to a porter, and until the Fourth entry I had not asked it of myself.
 
-Neros lodges near the Monastery's platform, with his split object-glass on the sill and the Board's seal on the meter by his door. He had not asked me up. His landlady let me in on the warrant, and he did not send me out. Description of record: thin, dark, in a coat a size too large; the left eye turned out a little; ink on the right thumb. Exhibit B says he answers late. He did.
+Neros lodges near the Monastery's platform, with his split object-glass on the sill and the Guild's seal on the fee-token by his door. He had not asked me up. His landlady let me in on the warrant, and he did not send me out. Description of record: thin, dark, in a coat a size too large; the left eye turned out a little; ink on the right thumb. Exhibit B says he answers late. He did.
 
 "It moves again," he said. "The same side. Faster since the thaw."
 
@@ -317,7 +317,7 @@ Correspondence is his word for it in Exhibit B, and Kwon's. Entered as theirs. I
 
 The registry's roll of marks, of which the Division keeps a copy here, confirms the ring and three spokes as Gisli Draycott's. Rank as the roll records it, Expert. His last registered address is three years stale.
 
-My reasoning. Exhibit B's Appendix does not know whether a record of that kind can be woken. At Genesio somebody is waking them, as many as he can reach, with render stock for the working and reserved ink for the seals: Strom, by the freight book and by the address on his paper. A record read coarsely is less of a record afterward, as Dessa Mael has it. The dead's open accounts may be closing by the score. Below, the ground climbs where drawn ground should fall, and above it the Weight steps after, late: one regional field pressed again and again, and I have no instrument for what lies between.
+My reasoning. Exhibit B's Appendix does not know whether a record of that kind can be woken. At Genesio somebody is waking them, as many as he can reach, with render stock for the working and reserved ink for the seals: Strom, by the freight book and by the address on his paper. A record read coarsely is less of a record afterward, as Dessa Mael has it. The dead's open accounts may be closing by the score. Below, the ground climbs where pulled ground should fall, and above it the Weight steps after, late: one regional field pressed again and again, and I have no instrument for what lies between.
 
 The law has a word for part of it. Output taken from a Crystal that is not the operator's is extraction, and the donor may be dead. That is Mechanica, and by Statute XXVI nothing closes an unsealed boundary. The Enforcement Division prosecutes extraction with a ferocity nobody doubts, and I have marked the extraction for it. For carrying a dead woman's business to its end the law has no instrument yet.
 > Margin, H.: Not yet.
@@ -339,7 +339,7 @@ She pointed at her desk. On it lay a letter folded twice and sealed in gray wax:
 > 
 > Farrant,
 > 
-> I expected the crown's people some years ago. That they have come at last, by way of a station record in Castlefall that anyone may read, flatters my discretion and says less for how the crown spends its watchers.
+> I expected the crown's people some years ago. That they have come at last, by way of a waystation record in Castlefall that anyone may read, flatters my discretion and says less for how the crown spends its watchers.
 > 
 > I write because a letter can be read twice. Kwon shares the preference and practices it more thoroughly: he has answered neither of mine.
 > 
@@ -349,13 +349,13 @@ She pointed at her desk. On it lay a letter folded twice and sealed in gray wax:
 > 
 > Let me be exact about the ground. What it keeps are records, as it keeps every other record, and there is no soul among them. Anamnesis reads them, and a careful reading can wake one. What wakes is the last word of a sentence the person did not finish. What Ivor is doing is finishing sentences.
 > 
-> I have struggled with the ethics of this for six years, since a café in Castlefall where a boy corrected me about a gate. I intended one application, and it was hers. I did not intend Ivor to understand what he watched in that house, write it down, and carry it up the passes. I did not intend the ground at Genesio to begin behaving as a queue.
+> I have struggled with the ethics of this for six years, since a coffee-house in Castlefall where a boy corrected me about a gate. I intended one application, and it was hers. I did not intend Ivor to understand what he watched in that house, write it down, and carry it up the passes. I did not intend the ground at Genesio to begin behaving as a queue.
 > 
 > I want the work done correctly. Ivor has my curiosity without my care. His activations are coarse, a coarse reading takes what it reads, and the ground up there is giving to a man who does not ask it. I would like him stopped before it gives out, by somebody who understands what he is stopping.
 > 
 > I know where Ivor is. I know what he has finished. I know which sentence the ground at Genesio has held longest, and I will tell you in person.
 > 
-> The coffee stall on the Castlefall platform, at the second bell, on the morning after your train comes in from Urbis. I will be the one drinking the terrible coffee.
+> The coffee stall on the Castlefall platform, at the second bell, on the morning after your cart comes in from Urbis. I will be the one drinking the terrible coffee.
 > 
 > G. Draycott
 > 
@@ -363,11 +363,11 @@ She pointed at her desk. On it lay a letter folded twice and sealed in gray wax:
 
 ## Entry the Sixth · Castlefall Platform, Second Bell
 
-**Baseline.** Irath's day, late summer, Castlefall, the morning after the Urbis train. Slept two divisions. The left hand warm, the right cold. Stomach steady. The pressure at the temples since last evening.
+**Baseline.** Irath's day, late summer, Castlefall, the morning after the Urbis cart. Slept two divisions. The left hand warm, the right cold. Stomach steady. The pressure at the temples since last evening.
 
-Noticed on the line: the postscript to Exhibit E quotes Exhibit B, which the Division withdrew under seal in the season it was deposited. Exhibit B records a fair copy sent out before the seal. Somebody let him read one or the other. Halveth's margin, He answered the letter, sits on the page before it. His letter also says the seal closes on Return when the sentence is finished. I have no instrument that reads a seal. I take it as his.
+Noticed on the road: the postscript to Exhibit E quotes Exhibit B, which the Division withdrew under seal in the season it was deposited. Exhibit B records a fair copy sent out before the seal. Somebody let him read one or the other. Halveth's margin, He answered the letter, sits on the page before it. His letter also says the seal closes on Return when the sentence is finished. I have no instrument that reads a seal. I take it as his.
 
-The chapter's coil-carrier came up with me and took the far end of the platform, the coil at her chest, outside any radius I could guess at. Fog on the cedar and on the rails. Sap had come through the post at the stair head and set in amber beads. At the next stall two carters were arguing whether a drake hatched this year would be Weight-bred, with the Weight out of its station. One said the worst in a generation. The other said no.
+The chapter's coil-carrier came up with me and took the far end of the platform, the coil at her chest, outside any radius I could guess at. Fog on the cedar and in the cart-ruts. Sap had come through the post at the stair head and set in amber beads. At the next stall two carters were arguing whether a drake hatched this year would be Weight-bred, with the Weight out of its station. One said the worst in a generation. The other said no.
 
 The second bell went.
 
@@ -381,7 +381,7 @@ I paid for my own, one copper.
 
 He laid his token face up on the counter between our cups, as the Concord does when it means to be believed, a token being said to darken beside a lie. I asked him how he had my name.
 
-"The station record. Anyone may read it."
+"The waystation record. Anyone may read it."
 
 The token lay where he had put it and did not change color. I set down both.
 
@@ -425,11 +425,11 @@ The coil-carrier came down the platform. Her needle had gone over toward the sta
 
 He took a packet from inside his coat, sealed under his mark, and put it into my hand. I did not open it on the platform. It is filed under the Division's seal as Volitional Trace · Genesio · active.
 
-The up train for the waystation came in at the third bell, and he finished his coffee, took his token off the counter, and boarded it.
+The up cart for the waystation came in at the third bell, and he finished his coffee, took his token off the counter, and climbed aboard.
 
 **After.** Hands cold, both. The taste at the back of the throat, with the coffee over it. Knees steady.
 
-I took the down train.
+I took the down cart.
 
 ## Entry the Seventh · Urbis, a Door
 
@@ -441,7 +441,7 @@ Word came to the Archivum inside the turn that Kwon Mu-jin had been brought to U
 > Margin, H.: By hand. Not by post.
 I had reached that already, by Exhibit B. He copied Draycott's first letter into his own manuscript and left it there, by his own count, "unanswered through two midwinters with the third coming on." A letter posted to him would sit on his desk. A letter carried to him might sit there too, and he would know whose hand had put it down.
 
-The tram took me across the square for a copper, drawn along the conduit on its low hum. A meter by his street door carried the Board's seal. His stair is narrow and steep.
+A carter's tailboard took me across the square for a copper, on the low hum of his stones. A fee-token by his street door carried the Guild's seal. His stair is narrow and steep.
 
 The bracelet went over toward him hard as the door opened, harder than on the platform, and it stayed there.
 
@@ -479,10 +479,10 @@ On his stair I wrote the time: the seventh division.
 > 
 > Released: Exhibit C, to its addressee, by hand, Auren's day, late autumn, sixth division, unopened.
 > 
-> Not for the bulletin office. The investigation continues.
+> Not for the copy-house. The investigation continues.
 > 
 > O. Farrant, Searcher, Urbis chapter.
 > 
 > H.
 >
-> Filed beside the Alftian Codex under the same seal. The Division's stamp: "Mortalis-adjacent. Clearance Tier IV Restricted (Mortalis Residue). Year 701 IC, the Withering Era; the eleventh year of the Imperial Age."
+> Filed beside the Alftian Codex under the same seal. The Division's stamp: "Mortalis-adjacent. Clearance Tier IV Restricted (Mortalis Residue). Year 701 IC, the Withering Era; the eleventh year of the Dark Ages."

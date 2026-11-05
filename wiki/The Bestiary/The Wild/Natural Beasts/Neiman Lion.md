@@ -6,6 +6,8 @@ title: Neiman Lion
 
 ## Neiman Lion
 
+A chief of the dune tribes once took his people's chair in a robe trimmed with a Neiman mane, and at noon on the day of the gathering the trim lit up like a lamp in front of all nine clans. By dusk the dead lion's pride had come forty leagues across the sand and sat down in a golden ring around the chief's tent, in perfect courtesy, and on the third day the chief walked out in his shirt and handed back the robe.
+
 **Natural Beast, Apex Predator · T4, High Threat · Harmonic Wellsprings with minor Solar Essence influence · native to the desert savannahs and grasslands of the Old World and the Outer World, especially near sun-drenched Wellspring sites**
 
 The Neiman Lion is a majestic predator evolved from mortal lion stock, adapted to the harsh deserts and savannahs of the Old and Outer Worlds. Harmonic Wellspring Essence runs through the line, granting enhanced strength, endurance, and a mystical aura that commands respect and fear; a Neiman Lion reigns over its territory, hunting alone or in small prides.

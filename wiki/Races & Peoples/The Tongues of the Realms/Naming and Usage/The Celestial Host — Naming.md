@@ -4,20 +4,22 @@ title: The Celestial Host — Naming
 
 # The Celestial Host — Naming
 
-The Host's names are built in three slots — **a function-name, a rank-suffix, and a Lawbell-name** — on a Hebrew-theophoric shape (element + a divine-register suffix) built from original elements, and they obey the Host's idiom rule: measure, position and law; never light, never fire, never wings. The names Faisal, Verantha, Kaethren Vareth, Dazgrim and Urstia are read back through the register rather than replaced.
+The bell-founders of Tollerby still tell this one to apprentices, and I record it as told. Alditha Hobday, casting the great tenor for the Salters, had a Celestial's whole three names off a drunk pilgrim and raised them on the bell's shoulder in letters a hand tall, for the glory and the extra fee. On the night of the pouring, with the bronze running orange and half the town up on the walls to watch, a tall figure came and stood in the foundry door with no wings and no light about it whatever, walked through the sparks, took a chisel to the mold, removed one suffix, and left. The minstrels had given it wings by the next fair. The bell has hung in Tollerby ever since, and the Measurewrights who have climbed up to look at the lettering disagree about the chisel work.
+
+The Host's names are built in three slots (**a function-name, a rank-suffix, and a Lawbell-name**) on a Hebrew-theophoric shape (element + a divine-register suffix) built from original elements, and they obey the Host's idiom rule: measure, position and law; never light, never fire, never wings. The names Faisal, Verantha, Kaethren Vareth, Dazgrim and Urstia are read back through the register rather than replaced.
 
 Everything not marked *attested* is **coined**.
 
 ## The three slots
 
-1. **Function-name** — what the Celestial was Sung to do. The personal identifier; it
+1. **Function-name**: what the Celestial was Sung to do. The personal identifier; it
 never changes. Two elements: a *function root* and a *measure root*.
-1. **Rank-suffix** — where it sits in its Choir. Changes with every promotion; a
+1. **Rank-suffix**: where it sits in its Choir. Changes with every promotion; a
 Celestial that loses it has been stripped (the amendment's own rule).
-1. **Lawbell-name** — the Archonic principle it is an instrument of. Permanent; losing
+1. **Lawbell-name**: the Archonic principle it is an instrument of. Permanent; losing
 it is the Severance. It is the Archon's own name, unmodified, carried as a third
 
-name — the fourteen are attested and need no coining: Urion, Uurgath, Thalen,
+name: the fourteen are attested and need no coining: Urion, Uurgath, Thalen,
 
 Valen, Maelor, Zhaeren, Irath, Veyra, Iesara, Kaetra, Wyther, Auren, Selhar,
 
@@ -36,11 +38,11 @@ struck is the document of a Severance.
 Coined on the Host's own vocabulary: the Vow, the Verdict, the Boundary, the Seal,
 
 the Record, the Tally, the Toll.
-- **Ver** (the verdict spoken — *attested*, Verantha, Vareth), **Tal** (the tally kept), **Oth** (the oath witnessed), **Dahl** (the boundary walked), **Sarn** (the seal set), **Ruth** (the record entered), **Kaeth** (the gavel, the strike — *attested*, Kaethren), **Daz** (the exile escorted — *attested*, Dazgrim, gloss coined), **Urs** (the bell's own toll — *attested*, Urstia, gloss coined), **Fai** (the kneeling, the servitude — *attested*, Faisal, gloss coined)
+- **Ver** (the verdict spoken: *attested*, Verantha, Vareth), **Tal** (the tally kept), **Oth** (the oath witnessed), **Dahl** (the boundary walked), **Sarn** (the seal set), **Ruth** (the record entered), **Kaeth** (the gavel, the strike: *attested*, Kaethren), **Daz** (the exile escorted: *attested*, Dazgrim, gloss coined), **Urs** (the bell's own toll: *attested*, Urstia, gloss coined), **Fai** (the kneeling, the servitude: *attested*, Faisal, gloss coined)
 
 ## Measure roots (how the function is measured)
 
-- **-an** (the count), **-eth** (the weight), **-ren** (the distance — *attested*, Kaethren), **-ia** (the standing — *attested*, Urstia), **-sal** (the position held — *attested*, Faisal), **-grim** (the order of precedence — *attested*, Dazgrim), **-antha** (the unbroken line of a ledger — *attested*, Verantha)
+- **-an** (the count), **-eth** (the weight), **-ren** (the distance: *attested*, Kaethren), **-ia** (the standing: *attested*, Urstia), **-sal** (the position held: *attested*, Faisal), **-grim** (the order of precedence: *attested*, Dazgrim), **-antha** (the unbroken line of a ledger: *attested*, Verantha)
 A function-name is function root + measure root: *Ver-antha* (the verdict as an
 
 unbroken line), *Kaeth-ren* (the strike measured by distance), *Tal-an* (the tally
@@ -52,10 +54,10 @@ as a count), *Oth-eth* (the oath weighed), *Sarn-ia* (the seal as a standing).
 The Choirs are attested (Midreach Oath-Keepers, Highspire Verdict-Bearers, Lowmere
 
 Sealkeepers, Bellwrought Witness-Choir); the suffixes are coined.
-- **-ith** — newly Sung; carries function and nothing else
-- **-eth** — a standing officer of the Choir
-- **-vareth** — a senior officer (*attested* as Kaethren's second name; read here as the rank he holds, the Last Gavel)
-- **Grand Angel** — a title, not a suffix: the handful who complete the accretion into selfhood drop the rank-suffix and carry the title in front (*attested*: "Grand Angel Faisal, the Bound Flame"). Their by-names ("the Bound Flame", "the Last Gavel") are mortal coinages and break the idiom rule on purpose — mortals name what they see.
+- **-ith**: newly Sung; carries function and nothing else
+- **-eth**: a standing officer of the Choir
+- **-vareth**: a senior officer (*attested* as Kaethren's second name; read here as the rank he holds, the Last Gavel)
+- **Grand Angel**: a title and no suffix. The handful who complete the accretion into selfhood drop the rank-suffix and carry the title in front (*attested*: "Grand Angel Faisal, the Bound Flame"). Their by-names ("the Bound Flame", "the Last Gavel") are mortal coinages and break the idiom rule on purpose — mortals name what they see.
 
 ## The working names, read back
 
@@ -71,4 +73,4 @@ All five are kept as they stand. None is renamed.
 
 ## Outside the register
 
-1. The mortal by-names — "the Bound Flame" and its like — lie outside the register, as the Host's idiom rule implies they should.
+1. The mortal by-names ("the Bound Flame" and its like) lie outside the register, as the Host's idiom rule implies they should.

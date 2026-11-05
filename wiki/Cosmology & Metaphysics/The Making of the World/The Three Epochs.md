@@ -7,13 +7,17 @@ tags:
 
 # The Three Epochs
 
-> From the Division's three currents arose three Primordial Epochs, each one a sovereign intelligence crystallized from the raw law of a single plane. They are not gods in the mortal sense. They are the principles that make godhood possible, the load-bearing grammar beneath every subsequent expression of divine, mortal, and metaphysical power.
+High on Kessel Tor there is a hollow in a basalt face, broad as a threshing floor and whorled from edge to edge, and every child in the district will tell you that it is the print of Aegor's thumb, left where he leaned to get his breath in the days he walked in human form. The Masons of Kessel and the Quarrymen of Stane fought for fifty-two years over the right to cut it. Each midsummer they met on the slope in their colors, ochre sashes against scarlet, first with mallets and then, as the prices of a chip of the Thumb went up among relic-buyers, with hired fighters from the sects down the valley, while the villages sold them beer. It ended on the day a hired man called Wat Greathand, of a good Stage and a bigger opinion, drove his amber-coated fist into the deepest whorl to settle the argument in front of three hundred witnesses. His coat went out. The basalt came up his arm to the shoulder faster than he could shout, with no heat in it and no pain he ever complained of, and he stood there nailed to the mountain for sixteen years, fed by both guilds, cheerful to the end and very good on the subject of guild politics. He is still there, and the arm has since been joined by the rest of him, and people tie ribbons on him for luck with heavy lifting. Neither guild has touched the Thumb since. A Guild surveyor measured it, reported that the whorls match no hand or tool known to him, and declined with some force to say how old it is.
+
+Things like that are why people get careful about the three beings on this page. In the days of the Physical Epochs, Bara, Ashura and Aegor walked in human form, and what is left of those days lies about the world as dead and dangerous battlefields, relics people kill for, and old beings who remember. What they were before they ever put on a body is the rest of this entry.
+
+> From the Division's three currents arose three Primordial Epochs, each one a sovereign intelligence crystallized from the raw law of a single plane. The mortal word *god* fits them badly: they are the principles that make godhood possible, the load-bearing grammar beneath every subsequent expression of divine, mortal, and metaphysical power.
 ```mermaid
 flowchart TD
     D["THE DIVISION"]
-    D --> B["BAIROS — Bara<br>The Weaver Eternal<br>Plane of Fate"]
-    D --> A["AEGOR — Aegoron<br>The Stone-Father<br>Physical Plane"]
-    D --> S["ASHURA — Ashuraya<br>The Breath Between Worlds<br>Soul Plane"]
+    D --> B["BAIROS (Bara)<br>The Weaver Eternal<br>Plane of Fate"]
+    D --> A["AEGOR (Aegoron)<br>The Stone-Father<br>Physical Plane"]
+    D --> S["ASHURA (Ashuraya)<br>The Breath Between Worlds<br>Soul Plane"]
     B --> B1["Writes meaning"]
     A --> A1["Builds form"]
     S --> S1["Remembers why"]
@@ -34,7 +38,7 @@ flowchart TD
 
 Bairos is the first Epoch, the consciousness that allowed the act of "before" and "after" to exist. Before Bairos, reality was simultaneity, an infinite compression of acts without order. He stretched the first thread across that chaos, creating distance between causes and effects, and thus gave birth to Time itself.
 
-He dwells within the **Loom of Stars**, a construct visible only from the Astral Veil, a lattice of golden filaments intersecting at impossible angles and connecting every living soul to the pulse of its consequence. He does not decide what will happen. He defines why things can happen at all. All choices occur within the mathematical curvature of his web.
+He dwells within the **Loom of Stars**, a construct visible only from the Astral Veil, a lattice of golden filaments intersecting at impossible angles and connecting every living soul to the pulse of its consequence. What will happen he leaves to happen. What he defines is why things can happen at all, and all choices occur within the mathematical curvature of his web.
 > Bairos authored the **Seven Works of Hataraki** within the Plane of Fate before measured time: the primal functions of Ruin, Purity, Spirit, Temporality, Knowledge, Balance, and Totality. These Works are the operative laws by which existence acts, divides, endures, unravels, and completes itself. Even time is merely one Work within the larger architecture he laid.
 >
 > *In every mortal tradition that names him at all he is Bara, and the oral sources use the short name where the archives use the long one.*
@@ -73,7 +77,7 @@ Aegor compacted Essence into the first strata of matter, creating gravity, press
 Ashura, final of the Three Epochs, is the spark that made awareness possible. Where Bairos wrote the pattern and Aegor forged its vessel, Ashura entered the clay and taught it to dream. Her essence is both warmth and motion: the unquantifiable impulse that turns observation into empathy. She is the first breath drawn by existence. Every soul, mortal, divine, or Archonic, is a micro-inhalation of her will, a reflection of the first whisper that parted silence from knowing.
 
 Her domain, the **Empyreal Veil**, lies between dream and Aether, a sea of soft-burning auroras where memory becomes visible. Within its tides drift innumerable **Soul-Echoes**: reflections of all who have ever lived, flickering like candlelight upon an infinite wind. When she manifests, perception folds inward; every observer sees the image most needed for peace.
-> *"When all light dies, close your eyes — you will see me there, still burning."*
+> *"When all light dies, close your eyes: you will see me there, still burning."*
 
 ---
 

@@ -6,6 +6,8 @@ title: Banisher · Writ-Spear of Exile
 
 ## Banisher · Writ-Spear of Exile
 
+By the second week of the Caedor hearings the gallery had learned to count. People brought their lunch and their children. When the arbiter's point touched one of the three Bloomrot-corrupted enforcers on the tribunal floor, the grooves in the shaft went ember-gold, the black chains stiffened, and four hundred voices called the heartbeats aloud, one and two and three, and on three the man was gone from the middle of a sentence, leaving his hat. He was found on the Chamber steps next to a tripe stall, on the far side of a line he could not recross, and the tripe seller reported that he had seemed confused. The other two went the same way that afternoon, to louder counting. Children in Caedor play it still, with a broom. Whoever is touched has to run to the gate by the count of three, and nobody will let you back in until your term is up.
+
 ---
 
 ### What it is
@@ -24,7 +26,7 @@ Street register calls it what the sigils promise. When Banisher points, the door
 
 **Point of balance** ≈ 38 cm forward of the leading grip. Head-heavy for a controlled thrust and a chain-cast, not for a duelist's quick recovery.
 
-**Armor response.** As a physical weapon it behaves like any percussion-and-pierce polearm against plate: it does not seek to go through a breastplate, it goes through the joint, the voider, the base the plate transmits force into (R1-1). Against common mail and unproofed steel it defeats cleanly. Against a Guild-proofed cuirass, stamped for a specific charge and range, the physical thrust alone is a cost problem for the wearer rather than a clean kill, exactly as any plate answers a percussion fighter (R3-7). None of that touches the Exile Mark itself. The mark sets on the target's lattice, not the target's skin, so a proofed cuirass that stops the head of the spear does nothing to stop the third-heartbeat collapse if the point ever broke skin, cloth, or drew blood through a gap.
+**Armor response.** As a physical weapon it behaves like any percussion-and-pierce polearm against plate: it does not seek to go through a breastplate, it goes through the joint, the voider, the base the plate transmits force into (R1-1). Against common mail and unproofed steel it defeats cleanly. Against a Guild-proofed cuirass, stamped for a named bow at a stated range, the physical thrust alone is a cost problem for the wearer rather than a clean kill, exactly as any plate answers a percussion fighter (R3-7). None of that touches the Exile Mark itself. The mark sets on the target's lattice, not the target's skin, so a proofed cuirass that stops the head of the spear does nothing to stop the third-heartbeat collapse if the point ever broke skin, cloth, or drew blood through a gap.
 
 ### Operation line
 
@@ -48,7 +50,7 @@ Street register calls it what the sigils promise. When Banisher points, the door
 
 ### Bond and cost
 
-Not soulbound. Banisher recognises standing rather than a soul. Without an active Writ or sworn authority behind the wielder, the five effects above collapse to their crudest form, stun and bind, because Judicium's order-law has nothing to be consequence *of*. What it draws, it draws from the wielder's own reserve. R2-6 holds here as everywhere: nothing about the weapon replenishes anyone's Essence. Each Gate-Nail spends one of the three ring-charges. After the third, the weapon needs re-sanctification inside a Neutral Chamber before it will seal a fourth threshold. A miscast or perjured invocation, a Writ spoken falsely, or a verdict the weapon's own record contradicts, rebounds as an overpressure discharge along the wielder's own arm and shoulder nodes. The weapon does not distinguish a corrupt ruling from an honest mistake, only an authorized voice from a naked one.
+Not soulbound. Banisher recognizes standing rather than a soul. Without an active Writ or sworn authority behind the wielder, the five effects above collapse to their crudest form, stun and bind, because Judicium's order-law has nothing to be consequence *of*. What it spends, it spends from the wielder's own reserve. R2-6 holds here as everywhere: nothing about the weapon replenishes anyone's Essence. Each Gate-Nail spends one of the three ring-charges. After the third, the weapon needs re-sanctification inside a Neutral Chamber before it will seal a fourth threshold. A miscast or perjured invocation, a Writ spoken falsely, or a verdict the weapon's own record contradicts, rebounds as an overpressure discharge along the wielder's own arm and shoulder nodes. The weapon does not distinguish a corrupt ruling from an honest mistake, only an authorized voice from a naked one.
 
 ### Counterplay
 
@@ -56,4 +58,4 @@ An entity anchored by a sovereign Domain or a Mythic-tier Crystal is not somethi
 
 ### Bearers
 
-Housed in the armory of the Neutral Chambers, Guild Accord Arbitration Division. Issued under seal to Neutral Chamber arbiters and to Vanguard Orders, the Enforcement Division's elite teams bearing the Sealwright Mark, for extraditions and Domain closures. Coherence with the weapon runs highest in Retentive or Balance-leaning practitioners. The card's own floor is Stage IV, Flourishing, which the FOW table gives unchanged. The attested ceiling for a Neutral Chamber officer of this weapon's calibre is Riven Eltamyr Vonnel, Arbiter Exemplar of the Neutral Chambers, at Stage IX, Invocation. It has stood in the Caedor hearings, where it expelled three Bloomrot-corrupted enforcers from the tribunal floor. It has since been planted to shutter a rogue Domain over Dorrosfenn's quay.
+Housed in the armory of the Neutral Chambers, Guild Accord Arbitration Division. Issued under seal to Neutral Chamber arbiters and to Vanguard Orders, the Enforcement Division's elite teams bearing the Sealwright Mark, for extraditions and Domain closures. Coherence with the weapon runs highest in Retentive or Balance-leaning practitioners. The card's own floor is Stage IV, Flourishing, which the FOW table gives unchanged. The attested ceiling for a Neutral Chamber officer of this weapon's caliber is Riven Eltamyr Vonnel, Arbiter Exemplar of the Neutral Chambers, at Stage IX, Invocation. It has stood in the Caedor hearings, where it expelled three Bloomrot-corrupted enforcers from the tribunal floor. It has since been planted to shutter a rogue Domain over Dorrosfenn's quay.

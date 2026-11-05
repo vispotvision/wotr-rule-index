@@ -9,6 +9,9 @@ tags:
 
 *A grammar of the elven tongue and its schism. The Tongues of the Realms governs.*
 > *"She sang one note. We have spent every Eon since arguing about how it should be sung back."*
+
+Ruvaen of the Sylvaaren was taken up for poaching a white stag in a Sunroot preserve, and the jurists of Velthaeir, in their green and silver under the gold lamps, asked him his name. He gave it in the form his people use, *-ieur*, held and self-witnessed. The bench ruled that the form was ungrammatical, that an ungrammatical answer has not been given, and that a man who has not stated his name can be neither charged with a stag nor released from the charge. So every morning for thirty-one years they brought him up and asked, and every morning he answered in the same clear tenor, and the court recorded that he had said nothing. Eressean children play it on the cellar stairs, one as the bench and one as the poacher, and the minstrels of three quarters have the tune wrong. He died in that cell with the stag long eaten, and both branches count the case as a victory.
+
 One language, two branches, and the disagreement between them is grammatical before it is legal. Eressean and Varrisak share phonology, most morphology and nearly all of the lexicon. They differ on one affix, and that affix decides who lawfully holds a name.
 
 ## I. Attestation
@@ -17,7 +20,7 @@ One language, two branches, and the disagreement between them is grammatical bef
 
 **The rite calendars.** Every Sunroot-descended house keeps its ceremonial windows in fixed wording, recopied without variation, and the recopying is itself a rite. These are the deepest attestation available for the archaic layer, and they are the reason the high register has not drifted measurably since the Spirit War. A phrase in a calendar is a phrase nobody has been permitted to improve.
 
-**The Dream Groves.** Varrisak transmission is oral by doctrine, and the Groves are the only archive: old-growth root-networks carrying generations of practitioner Crystal-inclusion. What is held there is not text. It is the experience of having heard a thing said, which the Varrisak consider a superior record and which is unreadable to any Eressean philologist who has tried.
+**The Dream Groves.** Varrisak transmission is oral by doctrine, and the Groves are the only archive: old-growth root-networks carrying generations of practitioner Crystal-inclusion. What is held there is the experience of having heard a thing said, with no text anywhere in it, which the Varrisak consider a superior record and which is unreadable to any Eressean philologist who has tried.
 
 **The Accord's compilations.** Adequate on phonology, useless on the witness system, because the compilers took the validated and contingent possessives for a politeness distinction and glossed both as *my*. Every Concord treaty with an elven signatory drafted before the fourth century contains at least one clause that says something nobody at the table intended.
 
@@ -72,11 +75,11 @@ Roots are disyllabic and open: *elar*, *vey*, *thaer*, *sylva*, *marin*. A monos
 
 Three roots do more work than any others and are the phoneme chains an Eressean practitioner routes Essence through most efficiently.
 
-**ma** — to hold, to have in hand, without any claim about right.
+**ma**: to hold, to have in hand, without any claim about right.
 
-**ur** — to witness, to stand for, to have been present and be answerable for it.
+**ur**: to witness, to stand for, to have been present and be answerable for it.
 
-**ie** — the grant, the giving-over, the transfer itself.
+**ie**: the grant, the giving-over, the transfer itself.
 
 Every institution in Eressean law is built out of those three and nothing else, which is why the language's legal vocabulary is so shallow and its legal reasoning so deep.
 
@@ -89,9 +92,9 @@ Every institution in Eressean law is built out of those three and nothing else, 
 | **Validated** | **-uren** | held, and the assembly stood for the holding |
 | **Contingent** | **-ama** | held, and nobody stood for it |
 
-> *elaruren* — my name, and the witnesses were assembled and compensated
+> *elaruren*: my name, and the witnesses were assembled and compensated
 >
-> *elarama* — the name I am holding, and you are entitled to ask by what right
+> *elarama*: the name I am holding, and you are entitled to ask by what right
 Both are perfectly grammatical. Only one is a claim. An Eressean who is asked their name and answers in *-ama* has said something enormous and entirely polite, and everyone in the room has heard it.
 
 **The Varrisak third form.** *-ieur*, from *ie* and *ur* together: the grant and the witness collapsed into one act. It means *held, and the holding witnessed itself*. Varrisak doctrine is that a vision sought alone in old growth is a valid witnessing, because the forest was present and the forest is a relative rather than a resource, and a relative who was present has witnessed.
@@ -113,7 +116,7 @@ Note that *-ith* is neutral here and contemptuous in Vaross. Goblinoid and elven
 
 ### Verbs, and the window
 
-**Eressean has no imperative.** There is no verbal form that orders an action. This is not politeness. It is the calendar: an act has an appointed window, and to command is to name the window, after which the act follows because the window has opened.
+**Eressean has no imperative.** There is no verbal form that orders an action. Politeness has nothing to do with it. The calendar does: an act has an appointed window, and to command is to name the window, after which the act follows because the window has opened.
 > *Sae-ureth.* The witnessing-office window stands open.
 >
 > **Stand witness. Now.**
@@ -126,9 +129,9 @@ The verb accordingly marks not time but **whether the act fell inside its window
 | **-sae** | in-window; done at its appointed time |
 | **-lo** | out-of-window; done in haste, in emergency, or in error |
 
-> *iesae* — the transfer was made in its season
+> *iesae*: the transfer was made in its season
 >
-> *ielo* — the transfer was made outside its season
+> *ielo*: the transfer was made outside its season
 *-lo* is not past tense and is not a judgment, formally. In practice a chain of *-lo* verbs in a deposition is how an Eressean advocate destroys a witness without ever calling them a liar.
 
 **Varrisak has no window marking and never developed it.** In its place is an obligatory evidential: **-ven** seen, **-dhae** dreamed, **-tor** told by another. A Varrisak cannot report an event without stating how they came to it, and the dreamed evidential outranks the seen one, which Eressean speakers find so difficult that most simply stop translating at that point.
@@ -139,9 +142,9 @@ The verb accordingly marks not time but **whether the act fell inside its window
 > *Ie-sae Vey-Elarin thaeruren.* Granted-in-season, the kin, the witnessed archive.
 **Subject-first in common speech.** The colloquial register moves the subject forward and is understood by the high register to be lazy rather than wrong.
 
-**The witness slot is obligatory and final.** Any clause making a claim ends by naming who stood for it. A clause that ends without one is not incomplete; it is a clause that has claimed nothing, and Eressean speakers use bare clauses deliberately when they wish to say a thing without owning it. This is the single most common construction in Eressean diplomacy and the single most misread one in Concord transcripts.
+**The witness slot is obligatory and final.** Any clause making a claim ends by naming who stood for it. A clause that ends without one is complete and has claimed nothing, and Eressean speakers use bare clauses deliberately when they wish to say a thing without owning it. This is the single most common construction in Eressean diplomacy and the single most misread one in Concord transcripts.
 
-**No copula, and for the opposite reason to Vaross.** Vaross omits it because identity is not asserted. Eressean omits it because identity is sung rather than stated, and a bare juxtaposition is understood to be quoting the Realmsong. *Vey elar* is *the kin, the note*, and it is not a metaphor and not a claim. It is a citation.
+**No copula, and for the opposite reason to Vaross.** Vaross omits it because identity is not asserted. Eressean omits it because identity is sung rather than stated, and a bare juxtaposition is understood to be quoting the Realmsong. *Vey elar* is *the kin, the note*, and it makes neither a metaphor nor a claim, being a citation.
 
 ## VI. The Semantic Architecture
 
@@ -155,13 +158,13 @@ The verb accordingly marks not time but **whether the act fell inside its window
 
 **Common Eressean.** Subject-first, contours flattened toward level, the witness suffix reduced to *-ren* and *-ma*. What is spoken in a Velthaeir kitchen. Fully mutually intelligible with Varrisak common speech, which both branches find embarrassing.
 
-**Ureth Eressean, the witnessing register.** Court and deposition. Verb-initial, full contours realised, witness slot never omitted, *-lo* used surgically. Read aloud in alternation by paired jurists.
+**Ureth Eressean, the witnessing register.** Court and deposition. Verb-initial, full contours realized, witness slot never omitted, *-lo* used surgically. Read aloud in alternation by paired jurists.
 
 **Elareth, the sung register.** Rite and consecration. Not spoken at all. Every word carries its contour as pitch in the literal sense, the text is Songscript, and a rite performed in the wrong key has not been performed. This is the register the calendars preserve and the reason the archaic layer has not moved.
 
 ## VIII. Dialects
 
-**Eressean.** The standard by its own account. Contours fully realised, morphology conservative, *-uren* obligatory.
+**Eressean.** The standard by its own account. Contours fully realized, morphology conservative, *-uren* obligatory.
 
 **Varrisak.** Faster, flatter contours, the evidential system in place of the window, and *-ieur* everywhere. Retains an imperative that Eressean lost, or invented one, depending on which philologist is asked. Oral only, by doctrine.
 
@@ -175,7 +178,7 @@ The verb accordingly marks not time but **whether the act fell inside its window
 
 **Florwyndic Songscript**, one of the Fourteen Hands, and the only writing system any elven branch acknowledges.
 
-Each glyph carries two components: the segmental body, which records the consonants and vowels, and the contour rail, a line above the body recording the pitch. **A Songscript text is therefore a score.** It does not record what was said. It records how it must be sung, and a text without its rail is not a damaged document but a different kind of document entirely, a thing that can be read and cannot be performed.
+Each glyph carries two components: the segmental body, which records the consonants and vowels, and the contour rail, a line above the body recording the pitch. **A Songscript text is therefore a score.** It records how the thing must be sung and leaves what was said to look after itself, and a text without its rail has become a different kind of document entirely, a thing that can be read and cannot be performed.
 
 Songscript is reserved for law and consecration. Ordinary Eressean correspondence is written in a Concord hand, and every Eressean feels mildly compromised about this and does it anyway.
 
@@ -236,7 +239,7 @@ Songscript is reserved for law and consecration. Ordinary Eressean correspondenc
 
 **Goblinoid speakers** trill the *r*, close their syllables, and reach instinctively for an imperative that does not exist, producing window-statements with no authority behind them. A Vaross speaker in an Eressean chamber is a man repeatedly announcing that the hour has come, to a room that knows perfectly well he cannot open it.
 
-**Dawi speakers** handle the phonology well and the witness system badly, because Khazalid oath-names put the answerability in the name itself rather than in an affix, so a Dawi speaking Eressean under-marks constantly. They are heard as evasive when they are being, by their own lights, redundant.
+**Dawi speakers** handle the phonology well and the witness system badly, because Runic Dawi oath-names put the answerability in the name itself rather than in an affix, so a Dawi speaking Eressean under-marks constantly. They are heard as evasive when they are being, by their own lights, redundant.
 
 **Eressean speakers of Common** over-specify provenance, name their witnesses unprompted, and produce sentences that read to Concord ears as either aristocratic or paranoid. They also refuse to give orders and issue schedules instead, which has cost at least two joint campaigns their opening week.
 

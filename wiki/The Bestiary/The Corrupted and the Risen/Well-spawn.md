@@ -4,7 +4,13 @@ title: Well-spawn
 
 *Creatures bred by a Well, masked in their Well's color, ranked by how deep it bred them*
 
-> A Wellspring is one of the sixty currents of natural law that feed all magic, and a Well (common speech for a Core Concentration) is ground where one of them runs thick enough to rewrite whatever lives in it. A Well breeds, and **what it breeds wears its Well on its face.** Delvers call them the Well's get. Hunters call them masks, because the mask is what they are paid on and the mask is where they aim.
+On Mask Night in the Well town of Pennyhythe, in the ninth year of the Dark Ages, Sluice Street was packed from wall to wall with children in paper masks painted deep teal when the two best hunting crews on the Thaloré road came up out of the ground a spear's length apart, and one of them was carrying the only real mask in town. The Margrave of Sallowmere had nailed a bill to every door between the shaft head and the river: three hundred gold and a winter's ale for the plate of the Mourning Pike that had eaten eight of his sluice-keepers. Jennet Ludd of the Saffron Hoods had broken that plate in the lower workings with a harpoon and a very bad word, and the shards rode in a wet sack at her hip, gray and veined with a teal so deep it seemed to crawl. Godwin Bracken of the Scarlet Aprons, whose men had bled the Pike for two days before she ever got there, held that the plate was his, and he said so with his aura coming up the red of a slapped cheek. The hall at Cold Ashby lay nine miles down the Well road. A mask pays only while it holds its color.
+
+So they ran. Yellow hoods and red aprons went out through the Mask Night crowd with half the children of Pennyhythe pelting after them, and the sack changed hands four times in nine miles. It went through a dyer's yard, where a porter called Tib Fennel was thrown bodily into a vat of madder and came out the color of a cardinal and still running. It went over the Sluice bridge, where Tib, with the sack in his teeth and three Aprons on his back, broke his neck on the far rail. Ludd took it off his body without stopping and has apologized to his mother every year since. She came through the doors of the hall with one ear gone and Bracken hanging off her belt, upended the sack on the clerk's green felt, and every person in the room leaned over to look. Two veins of teal were still alight. The clerk reached for his pen, and the last of them went out while his fingers were closing on it.
+
+The hall paid nothing, as halls do. The Margrave's bill had said "the plate" and said nothing of color, so the two crews took him before a sworn notary and then took each other, and the suit outlived the Margrave, Bracken and the notary. The shards were split at last, and one hangs over the door of each hall, gray as dishwater. Pennyhythe runs the race every Mask Night now, with a sack of painted tiles, and the winning child is called Tib. Everything that happened that night is on this page: why the plate carries color, why it fades, why a clerk will not pay on gray, and how anyone gets near enough to break one.
+
+> A Wellspring is one of the sixty kinds of Aether, each working on the Soul Crystal in its own way, each a source of power and also an alchemical principle and a spiritual transformation. A Wellspring has sites where its Aether pools, which common speech calls Cores, and a Well (the delvers' word for a Core Concentration, the survey's name for such a site run deep) is ground where one of the sixty lies thick enough to rewrite whatever lives in it. A Well breeds, and **what it breeds wears its Well on its face.** Delvers call them the Well's get. Hunters call them masks, because the mask is what they are paid on and the mask is where they aim.
 
 ---
 
@@ -18,27 +24,27 @@ Shaped like whatever its line was bred from, a fox, a toad, a crab, a bramble, b
 
 ## What it costs
 
-A Well-spawn eats **draw** (Aether, the ambient field all magic is drawn from, pulled into a body, a lamp or a working). It goes wherever draw is thickest, which means wherever people are working the Well, and it costs a Well town its lamps, its timbering, its practitioners' reserves and, often enough, its delvers. Facing one costs a hunter proofed or enhanced shot by the pouch, and a practitioner the reserve he spends holding his own law on the Well's ground while he fights.
+A Well-spawn eats **Aether** (the stuff all magic is pulled from, lying in the ground and air around us) and the Essence people refine out of it. It goes wherever the pull is strongest, which means wherever people are working the Well, and it costs a Well town its lamps, its timbering, its practitioners' reserves and, often enough, its delvers. Facing one costs a hunter proofed or enhanced bolts by the pouch, and a practitioner the reserve he spends holding his own law on the Well's ground while he fights.
 
 ## How it is beaten
 
-**Break the mask.** Everywhere else a spawn takes wounds as an animal of its shape would; through the mask, one clean break ends it at any size. Beyond that, every spawn is beaten by the same four things: draw it off its Well, turn its Wellspring's own failure against it, fight it on ground its Family hates, and bring a Sealwright (a ward specialist) for the night.
+**Break the mask.** Everywhere else a spawn takes wounds as an animal of its shape would; through the mask, one clean break ends it at any size. Beyond that, every spawn is beaten by the same four things: lure it off its Well, turn its Wellspring's own failure against it, fight it on ground its Family hates, and bring a Sealwright (a ward specialist) for the night.
 
 ## Example
 
-Edda Marsh, a licensed captain with a party of five riflemen and a porter, takes a contract to clear the upper workings of a Basilithe Well. The porter hears a note ring in the dark, the same note twice. Edda reads the mask by lamplight before anyone fires: ochre-amber, banded like quarry rock, dull as a charcoal ember. **Materia, upper workings: a Tolling Crab, and shot will flatten on it.** She keeps the rifles quiet, strikes the tuning bar from her kit, rings the crab's note back at it and holds it. The carapace falls into gravel all at once, and the porter is on the mask with a hammer before the dust settles, because the hall pays on a colored shard and a gray one is worth nothing.
+Edda Marsh, a licensed captain with a party of five crossbowmen and a porter, takes a contract to clear the upper workings of a Basilithe Well. The porter hears a note ring in the dark, the same note twice. Edda reads the mask by lamplight before anyone looses: ochre-amber, banded like quarry rock, dull as a charcoal ember. **Materia, upper workings: a Tolling Crab, and bolts will flatten on it.** She keeps the bows quiet, strikes the tuning bar from her kit, rings the crab's note back at it and holds it. The carapace falls into gravel all at once, and the porter is on the mask with a hammer before the dust settles, because the hall pays on a colored shard and a gray one is worth nothing.
 
 ---
 
 ## How a Well Breeds Them
 
-**The current makes the body.** An animal has an Essence Core (the soul's seat, where its own nature is kept) but no Shell (the vent a practitioner's soul uses to pass a current through and out). At a Well the current pours into that Core and has nowhere to go, and over generations the line stops living by its own nature and starts living by the Well's. **Its young are born already made.** That is a Well-spawn: a bred line, flesh and blood and bone, organised along a Wellspring's law.
+**The Aether makes the body.** An animal has an Essence Core (the soul's seat, where its own nature is kept) but no Shell (the vent through which a practitioner's soul drives Essence out). At a Well the Aether pours into that Core and has nowhere to go, and over generations the line stops living by its own nature and starts living by the Well's. **Its young are born already made.** That is a Well-spawn: a bred line, flesh and blood and bone, organized along a Wellspring's law.
 
-**The mask is the law made solid.** A practitioner's working is bounded by its glyph, the shape that tells the current where to stop. A Well-spawn's body is bounded by its mask. The plate grows over the face in the first season of life, and everything the creature can do is held inside the boundary it draws. **Kill the body and the mask still reads as its Family for a day or two. Break the mask and the body has no law left to keep it in shape**, and goes back to being ordinary meat.
+**The mask is the law made solid.** A practitioner's working is bounded by its glyph, the shape that tells the Essence where to stop. A Well-spawn's body is bounded by its mask. The plate grows over the face in the first season of life, and everything the creature can do is held inside the boundary it draws. **Kill the body and the mask still reads as its Family for a day or two. Break the mask and the body has no law left to keep it in shape**, and goes back to being ordinary meat.
 
 **Only the Well-born are spawn.** An animal that wandered onto dense ground and stayed too long comes out strange, short-lived and unable to breed true. The register enters it with the Natural Beasts, or with the Aberrations if corruption made it, and it wears no mask. **Aether-warped beasts, Spirit Beasts, the corrupted lineages and summoned things all keep their own pages.** A mask means a Well, every time.
 
-**A Well worked hard breeds more, not fewer.** Extraction thins the ground at the face and pulls the spawn up the workings after it, and a Well corrupted into Obsession Force (a site that takes from whatever enters it, compatible or not) breeds lines that hunt rather than follow.
+**A Well worked hard breeds more, not fewer.** Hard pulling thins the ground at the face and brings the spawn up the workings after it, and a Well corrupted into Obsession Force (a site that takes from whatever enters it, compatible or not) breeds lines that hunt rather than follow.
 
 ---
 
@@ -49,8 +55,8 @@ Edda Marsh, a licensed captain with a party of five riflemen and a porter, takes
 | Family | Physics | Mask hue | Pattern |
 |---|---|---|---|
 | **Caloria** | Heat | **Ember-orange**, iron at cherry-red; Solfatara lines run sulfur-red | **Crazed** like slag cooling on a foundry floor |
-| **Fulguria** | Electricity, light | **Arc-blue**, the blue of current; near-white to deep naval by Wellspring | **Branching**, a lightning tree burned into the plate |
-| **Vectoria** | Force, weight | **Iron gray to gunmetal**; Abython lines near-black | **Concentric rings**, a stone dropped in still water |
+| **Fulguria** | Electricity, light | **Arc-blue**, the blue of a lightning strike; near-white to deep naval by Wellspring | **Branching**, a lightning tree burned into the plate |
+| **Vectoria** | Force, weight | **Iron gray to dark blued steel**; Abython lines near-black | **Concentric rings**, a stone dropped in still water |
 | **Spatium** | Distance, position | **Deep violet**, red-violet to blue-violet | **Ruled lines that never quite meet**; the eye keeps trying to close them |
 | **Materia** | Matter | **Ochre to deep amber**, limestone pale to iron-oxide dark | **Strata and facets**, and a fine grit that comes off on the hand |
 | **Vitalia** | Life | **Arterial red**; Verdantia lines chlorophyll green, Mortalis black-red | **Veins and growth rings** |
@@ -81,7 +87,7 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 | Depth | Ground | Spawn's Grade | Rung on its Well | Commission Tier | A party of | Alone, you want |
 |---|---|---|---|---|---|---|
-| **The Mouth** | Freshet | Hollow to E · Hearth-pest | Field-bane | **T2**, Green Sigil | Apprentices, or a watch with plain shot | An Apprentice; a Journeyman on its Well |
+| **The Mouth** | Freshet | Hollow to E · Hearth-pest | Field-bane | **T2**, Green Sigil | Apprentices, or a watch with plain bolts | An Apprentice; a Journeyman on its Well |
 | **The Upper Workings** | Millrace | D · Field-bane | Road-bane | **T3 to T4**, Green or Blue | Journeymen | A Journeyman; an Adept on its Well |
 | **The Lower Workings** | Riptide | C · Road-bane | Hamlet-bane | **T4 to T5**, Blue Sigil | Adepts | An Adept; an Expert on its Well |
 | **The Deeps** | Whirlpool | B · Hamlet-bane | Town-bane | **T5 to T6**, Blue or Gold | Experts | An Expert; **a Master** on its Well |
@@ -91,21 +97,21 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 **The unwoken feel them by rung.** A spawn of the upper workings fills a commoner with dread; one from the lower workings puts a weight in the room; near a heart-bred spawn, knees bend.
 
-**Most hunters fight below the table.** The Accord's reckoning says what is safe. A porter with a spade still kills a Tinder-fox, and a rifleman who reads the mask still kills things the table says he should run from. **The counters below are how lesser people beat higher masks, and every hunting hall teaches them before it teaches anything else.**
+**Most hunters fight below the table.** The Accord's reckoning says what is safe. A porter with a spade still kills a Tinder-fox, and a crossbowman who reads the mask still kills things the table says he should run from. **The counters below are how lesser people beat higher masks, and every hunting hall teaches them before it teaches anything else.**
 
 ---
 
 ## How They Behave
 
-**The shallow lines are animals.** From the mouth through the lower workings, a spawn has the cunning of its shape and no more. It does not hate and it holds no territory. **It goes toward the draw and stays until the draw is gone**: a lantern, a charged cell, a practitioner's reserve. Anyone who can read draw can predict it, and nobody can scare it off with noise alone. It does not migrate and it does not age by seasons, and nothing native to the ground above a Well eats it.
+**The shallow lines are animals.** From the mouth through the lower workings, a spawn has the cunning of its shape and no more. It does not hate and it holds no territory. **It goes toward the pull and stays until nothing is left to take**: a lantern, a warded door, a practitioner's reserve. Anyone with a good nose (trained sensing, the read of Aether and Essence) can predict it, and nobody can scare it off with noise alone. It does not migrate and it does not age by seasons, and nothing native to the ground above a Well eats it.
 
-**The deep lines think.** Below the lower workings the Veil (the boundary between the planes) wears thin, and the Deeps are where the planes turn together: spirits show, time runs wrong, and the dead leave more behind them than bones. **A spawn bred there gathers a mind out of what the Well remembers.** It plans, lies in wait, lets a party pass to take the porters at the back, and draws the lesser spawn of its Well behind it, because they follow its draw the way they follow a lamp.
+**The deep lines think.** Below the lower workings the Veil (the boundary between the planes) wears thin, and the Deeps are where the planes turn together: spirits show, time runs wrong, and the dead leave more behind them than bones. **A spawn bred there gathers a mind out of what the Well remembers.** It plans, lies in wait, lets a party pass to take the porters at the back, and brings the lesser spawn of its Well along behind it, because they follow its pull the way they follow a lamp.
 
-**Rare deep spawn speak.** They talk in the voices of the people the Well has killed, and sometimes in a voice that belongs to nobody. **They bargain**, offering what the Well remembers in return for draw left behind. They lie in the same breath. Every one on file has wanted to go up.
+**Rare deep spawn speak.** They talk in the voices of the people the Well has killed, and sometimes in a voice that belongs to nobody. **They bargain**, offering what the Well remembers in return for a fed lamp left burning below or Essence spent on the spot. They lie in the same breath. Every one on file has wanted to go up.
 
 **Some serve Malphas.** A few speaking spawn have been found working for Malphas and his circle. What he offers them, the register does not know.
 
-**Deep spawn are banished.** Break the mask of anything bred in the Deeps or the Heart and the body comes apart into the current and is drawn back down the Well. It leaves its mask behind, split and already gray. **Whether what the Well breeds next is the same creature, nobody has ever been able to prove.**
+**Deep spawn are banished.** Break the mask of anything bred in the Deeps or the Heart and the body comes apart into raw Aether and sinks back down the Well. It leaves its mask behind, split and already gray. **Whether what the Well breeds next is the same creature, nobody has ever been able to prove.**
 
 ---
 
@@ -123,9 +129,9 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 ## Fair Counters
 
-**The mask.** One break ends it. Shallow masks are thin, and a plain round, a spade or a boot heel goes through. **From the lower workings down a mask holds a working's strength and stops common shot the way a worked cuirass does**, and hunters carry proofed rounds (Guild-stamped shot), which strike against it as one Tier higher, or enhanced shot (rounds carrying a working) made by a hand at the spawn's own Grade.
+**The mask.** One break ends it. Shallow masks are thin, and a plain bolt, a spade or a boot heel goes through. **From the lower workings down a mask holds a working's strength and stops common bolts the way a worked cuirass does**, and hunters carry proofed bolts (Guild-marked heads), which strike against it as one Tier higher, or enhanced bolts (bolts carrying a working) made by a hand at the spawn's own Grade.
 
-**The tie.** Draw it off the Well, or cut the Well's draw away from it, and the rung the tie gave it is gone. **A spawn chasing a lamp up a shaft is a spawn walking away from its strength.**
+**The tie.** Lure it off the Well, or take the fight onto salted ground (worked by hedge-workers so that Aether will not pool on it) or bled ground (pulled empty), or pay the keepers of a worked site to close it, and the rung the tie gave it is gone. **A spawn chasing a lamp up a shaft is a spawn walking away from its strength.**
 
 **Its Wellspring's failure.** A spawn is its Wellspring's law in a body, and it inherits the law's way of going wrong. Every entry's weakness column is that failure turned into a hunter's method.
 
@@ -137,7 +143,7 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 
 ## Living Beside a Well
 
-**For fighters.** Clearing Wells is a trade. Mines, Boards and crowns contract hunting parties to keep spawn off their works; the guild hunting halls license the hunters, and the chartered companies undercut the halls by putting one licensed captain over a party of cheap rifles. **The halls pay on the mask, and only while it holds its color**, so a party breaks the plate, bags the shards and runs them to the hall within the day.
+**For fighters.** Clearing Wells is a trade. Mine-holders, towns and crowns contract hunting parties to keep spawn off their works; the guild hunting halls license the hunters, and the chartered companies undercut the halls by putting one licensed captain over a party of cheap crossbows. **The halls pay on the mask, and only while it holds its color**, so a party breaks the plate, bags the shards and runs them to the hall within the day.
 
 | Bred at | The hall pays |
 |---|---|
@@ -145,9 +151,11 @@ A spawn's own output sits two rungs below the ground it was bred on. **On its We
 | The Upper Workings | 2 to 5 gold a mask |
 | The Lower Workings | 10 to 25 gold a mask |
 | The Deeps | 60 to 150 gold a mask, half for a banished one's gray mask |
-| The Heart, or any speaker | By contract, from a crown or a charter Board |
+| The Heart, or any speaker | By contract, from a crown or a chartered town |
 
-The guilds still call hunters mouths with rifles. **The Well towns call them by name**, buy them drinks, and paint their mask tallies over the tavern door. A young practitioner's first descent with a hunting party is the most common way a name is made in the Imperial Age, and the first mask a hunter breaks is kept, gray or not, for life.
+The guilds still call hunters mouths with crossbows. **The Well towns call them by name**, buy them drinks, and paint their mask tallies over the tavern door. A young practitioner's first descent with a hunting party is the most common way a name is made in the Dark Ages, and the first mask a hunter breaks is kept, gray or not, for life.
+
+**Bills, crews and songs.** On top of what the hall pays, any lord who has lost enough men posts a bounty on the doors, and a crew may hold the hall's coin and the lord's on the same shard if it gets there in time. Crews and halls wear colors and hate each other on purpose: the Saffron Hoods and the Scarlet Aprons have not shared a tavern since Pennyhythe, each has songs about the other that cannot be sung in front of a priest, and a boy in a Well town can tell you which hall a stranger drinks with from the way she carries her harpoon. A herald will cry a heart-mask from the market cross for a fee, the minstrels will have it by the next fair with the color wrong and the number of dead doubled, and bookies take odds on a crew's tally for the season. In the crews' own mouths a mouth-bred mask is a smoke, a lower-workings mask is a vein, and anything from the Heart is a bright, usually spoken as advice to leave. Scholars say depth and clarity, and scholars mostly stay upstairs.
 
 **For commoners.** Well towns live with spawn the way river towns live with floods.
 
@@ -172,9 +180,9 @@ The guilds still call hunters mouths with rifles. **The Well towns call them by 
 | **Glarewing** | Fulguria, Aurevane | The Upper Workings | An arc-blue lightning tree across the brow | T4 High, Blue · Road-bane |
 | **Tolling Crab** | Materia, Basilithe | The Upper Workings | Ochre-amber strata set into the carapace front | T5 Extreme, Blue · Hamlet-bane |
 | **Lamp-drinker** | Limina, Vantabriel | The Upper Workings | Found only as the darkest place on a dark shape | T6 Domain, Gold · Hamlet-bane |
-| **Sump-toad** | Vectoria, Abython | The Lower Workings | Gunmetal rings across the brow, riding level with the water | T5 Extreme, Blue · Hamlet-bane |
+| **Sump-toad** | Vectoria, Abython | The Lower Workings | Blued-steel rings across the brow, riding level with the water | T5 Extreme, Blue · Hamlet-bane |
 | **Mourning Pike** | Fluxia, Thaloré | The Lower Workings | Deep teal streamlines over the skull | T5 Extreme, Blue · Hamlet-bane |
-| **Roll-caller** | Limina, Anamnesis | The Deeps | Silver-gray shot with black-violet, finely striped | T6 Domain, Gold · Town-bane |
+| **Roll-caller** | Limina, Anamnesis | The Deeps | Silver-gray threaded with black-violet, finely striped | T6 Domain, Gold · Town-bane |
 
 The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, which is why they stand above their depth.
 
@@ -183,6 +191,7 @@ The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, wh
 ## Tinder-fox
 
 > Vulpes ignita in the Guild register. **Tinder-fox** or **the red nuisance** on the Well roads.
+
 **Well-spawn · T2, Moderate Threat, Green Sigil · Caloria, Ignivale · bred at the mouths of Ignivale Wells; strays up the workings**
 
 **On the ladder** · output Hearth-pest; holds the tie; stands at Field-bane. **Mask** · a scrap of smoke-brown plate over the muzzle, ember-orange under the murk and crazed like cooling slag.
@@ -202,41 +211,43 @@ Fox-sized, coat singed short and black at the tips, warm to the hand through a g
 ## Sump-toad
 
 > Bufo profundus in the Guild register. **Sump-toad**, **the bottom-sitter**; among delvers, **the old man below**.
+
 **Well-spawn · T5, Extreme Threat, Blue Sigil · Vectoria, Abython · bred in the deepest sumps of the lower workings of Abython Wells**
 
-**On the ladder** · output Road-bane; holds the tie; stands at Hamlet-bane. **Mask** · a broad gray plate across the brow, near-black gunmetal veined with clearer steel, ringed like a stone dropped in still water. It rides level with the sump, eyes set in it, and a winding-man's first sight of the toad is a plate floating in black water that is not floating.
+**On the ladder** · output Road-bane; holds the tie; stands at Hamlet-bane. **Mask** · a broad gray plate across the brow, near-black steel veined with a clearer gleam, ringed like a stone dropped in still water. It rides level with the sump, eyes set in it, and a winding-man's first sight of the toad is a plate floating in black water that is not floating.
 
 Bred where the Aether is heavy enough to suffocate a practitioner who has not trained for it. **No Archon is credited.**
 
-A toad the size of an ox, flat and slick, hide loose on it like a sack. Abython matches pressure instead of resisting it, and the toad lives equalised with depths that crush anything else. **It waits for the draw to come down the shaft**: the lamp, the hoist and the men. Its strike is a pulse, all the pressure it has been matching let go at once, with a sound like a cellar door slammed underwater, and it staves in timbering, a hoist cage or a chest.
+A toad the size of an ox, flat and slick, hide loose on it like a sack. Abython matches pressure instead of resisting it, and the toad lives equalized with depths that crush anything else. **It waits for the pull to come down the shaft**: the lamp, the practitioner in the hoist basket, and the men. Its strike is a pulse, all the pressure it has been matching let go at once, with a sound like a cellar door slammed underwater, and it staves in timbering, a hoist basket or a chest.
 
 | Abilities | Weaknesses |
 |---|---|
-| **The pulse** · a pressure strike that brings down timbering and breaks a hoist **Equalised** · no pressure, heat or cold at depth troubles it **Patience** · sits for weeks at the sump | **The mask.** Worked plate: common shot skips off it, proofed shot or a harpoon at the rings does not **Rapid ascent.** Brought up too fast it comes out of solution; **a hoist run at full speed with a lantern on it has killed more of them than any gun** **Loose silt** gives the pulse nothing to push against |
+| **The pulse** · a pressure strike that brings down timbering and breaks a hoist **Equalized** · no pressure, heat or cold at depth troubles it **Patience** · sits for weeks at the sump | **The mask.** Worked plate: common bolts skip off it, a proofed bolt or a harpoon at the rings does not **Rapid ascent.** Brought up too fast it comes out of solution; **a horse-hoist run at the gallop with a lantern on the rope for bait has killed more of them than any arbalest** **Loose silt** gives the pulse nothing to push against |
 
-> Winding-men keep a rule that the cage never stops halfway down when the sump has been quiet a month. **The rule has no author and is never broken.**
+> Winding-men keep a rule that the basket never stops halfway down when the sump has been quiet a month. **The rule has no author and is never broken.**
 
 ---
 
 ## Roll-caller
 
 > Vocator sepultorum in the Guild register. **Roll-caller**; among deep crews, **the Foreman**, because it calls the roll in the voice of whoever kept the pay-book when it last heard one.
+
 **Well-spawn · T6, Domain Threat, Gold Sigil · Limina, Anamnesis · bred in the Deeps of Anamnesis Wells, where the Veil runs thin; has never been seen above them**
 
-**On the ladder** · output Hamlet-bane; holds the tie; stands at Town-bane. The Commission rates it a Domain Threat for the mind and the voice, and sends Masters. **Mask** · a whole face of silver-gray plate shot with a black-violet the eye cannot hold, striped fine and even like cooled lava rock. It glows faintly when warmed.
+**On the ladder** · output Hamlet-bane; holds the tie; stands at Town-bane. The Commission rates it a Domain Threat for the mind and the voice, and sends Masters. **Mask** · a whole face of silver-gray plate threaded with a black-violet the eye cannot hold, striped fine and even like cooled lava rock. It glows faintly when warmed.
 
-Bred in the Deeps of Anamnesis Wells, the currents that let a thing read the history stored in stone, metal and bone. **No Archon is credited. What the line was first bred from, nobody knows.**
+Bred in the Deeps of Anamnesis Wells, the Aether that lets a thing read the history stored in stone, metal and bone. **No Archon is credited. What the line was first bred from, nobody knows.**
 
 Man-high when it stands, long in the limb and pale as a cave fish, it goes on all fours and rises to talk. **It knows every death the Well holds.** The gallery walls remember, and it reads them: names, voices, last hours. Touch is all it needs to read a person the same way, and a delver it has brushed against hears his own dead brother asking for him by the nickname nobody else knew.
 
-It bargains. **The last words of your dead, for a charged cell left lit. Where the other party went, for an hour of your reserve.** It lies in the same breath as it tells the truth, and it is right about the dead often enough that men go back down for it. Lesser spawn of its Well follow it as they follow a lamp. It wants to go up; every one on file has asked to be carried to the surface. **Some serve Malphas and his circle.**
+It bargains. **The last words of your dead, for a fed lamp left lit. Where the other party went, for an hour of your reserve.** It lies in the same breath as it tells the truth, and it is right about the dead often enough that men go back down for it. Lesser spawn of its Well follow it as they follow a lamp. It wants to go up; every one on file has asked to be carried to the surface. **Some serve Malphas and his circle.**
 
 Its strike is **the Recollection**: everything it has read and stored let go at once as light and heat, a white-violet flash with a sound like a hundred voices drawing breath, enough to bring a gallery down.
 
 | Abilities | Weaknesses |
 |---|---|
-| **The roll** · speaks the names and voices of everyone the Well has killed **The reading** · one touch, and it knows your history and your dead **The bargain** · trades what it knows for draw, and lies while it does **Following** · the lesser spawn of its Well move with it **The Recollection** · a discharge of stored light and heat that collapses a working level | **The mask.** Worked plate at its own Grade; it wants a Master's blow, enhanced shot of the same rank, or the failure below first. Broken, it banishes the creature down the Well **Thermal resetting.** Heat the mask, with a magnesium flare, a furnace brand or a held Caloria working, and the stored record pours out of it as light; for a while it remembers nothing, speaks nothing and is only an animal **The Recollection empties it.** Bait the discharge and the same thing follows **It must touch to read.** Keep it at a spear's length and keep your coat out of its hands **Saturated Aether, crowds and noise** give Limina nowhere to stand |
+| **The roll** · speaks the names and voices of everyone the Well has killed **The reading** · one touch, and it knows your history and your dead **The bargain** · trades what it knows for fed lamps and spent reserve, and lies while it does **Following** · the lesser spawn of its Well move with it **The Recollection** · a discharge of stored light and heat that collapses a working level | **The mask.** Worked plate at its own Grade; it wants a Master's blow, an enhanced bolt of the same rank, or the failure below first. Broken, it banishes the creature down the Well **Thermal resetting.** Heat the mask, with a Guild craftsman's white flare, a furnace brand or a held Caloria working, and the stored record pours out of it as light; for a while it remembers nothing, speaks nothing and is only an animal **The Recollection empties it.** Bait the discharge and the same thing follows **It must touch to read.** Keep it at a spear's length and keep your coat out of its hands **Saturated Aether, crowds and noise** give Limina nowhere to stand |
 
-> A deep crew on a Limina Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the cage.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a gray mask, split clean across, and would not say what it had told her.
+> A deep crew on a Limina Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the basket.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a gray mask, split clean across, and would not say what it had told her.
 >
 > On Anamnesis Wells the pay-book is kept above ground, the dead are never named below the lamp-line, and **"the Foreman's asking for you"** means a grief that has started to talk back.

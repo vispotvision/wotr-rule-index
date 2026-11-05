@@ -8,6 +8,10 @@ tags:
 
 # The Fisc — Paying for a Siege
 
+The funeral of Captain Thora Hjerting is the best-attended audit in the north. She held the Third Wall at Brennholt through the winter of the Short Mark, and when she dropped dead on the fire-step in the eleventh week, six hundred men carried her through the snow on a shield painted blue and gold, with horns and the whole hold following and the sutlers' wives handing out hot ale. At the graveside Fat Tormod, sutler to the Third Wall, climbed onto a barrel with her account book, wept, and read out what she owed him, and the crowd slowly understood what they were hearing. She had been paying the company herself since the sixth week. Her horse had gone first, then her mother's silver, then the gold from her back teeth, and she had died of hunger with a full company at her back and told nobody. The reeve's paymaster had come for the ale. When Tormod finished, the Third Wall put down its cups without a word, formed up in the yard in perfect order, with no officer left to tell it to, and stood looking at him.
+
+Nobody in Brennholt was shouting, and the paymaster lived to describe it, so I can report that he found the silence worse. Everything that follows concerns how a crown gets to that yard, and how the man on the other side of the wall is getting there too.
+
 *Sieges are lost in ledgers far more often than on walls. This is the clock under the Kharven arc.*
 > *The whole art of war is reduced to money.*
 
@@ -15,7 +19,7 @@ tags:
 
 Kharven has never been issued an Accord instrument and has never asked for one. That is a boast in peacetime and a noose in a siege, because **the Accord's credit runs on the Accord's instruments**, and an instrument only binds inside the Accord's jurisdiction.
 
-So the Seat's real problem is not the wall.
+So the Seat's real problem lies well behind the wall.
 
 **To borrow at scale, Kharven must accept an instrument. To accept an instrument is to accept the jurisdiction that enforces it.** A factor house will lend against a bill it can sue on. It will not lend against a custom that has never been written and cannot be cited in any court that exists.
 
@@ -49,7 +53,7 @@ The great households are asked for silver, in a room, individually, by name, wit
 
 The Crown's coin, reduced in fineness, minted in greater number from the same metal.
 
-**Debasement is not a monetary accident. It is a fiscal weapon and it works.** The Great Debasement financed a real war effectively, and the tell separating an aggressive debasement from a defensive one sits in the mint accounts: **mintage fees run high on an aggressive debasement and low on a defensive one.** Anybody with the mint rolls can tell which one the Crown is running, and the assay houses always find out.
+**Debasement is a fiscal weapon, chosen on purpose, and it works.** The Great Debasement financed a real war effectively, and the tell separating an aggressive debasement from a defensive one sits in the mint accounts: **mintage fees run high on an aggressive debasement and low on a defensive one.** Anybody with the mint rolls can tell which one the Crown is running, and the assay houses always find out.
 
 And the setting has its own trap already built. Silver is the accounting unit of every serious ledger in the four quarters, and **the western silver mark is the standard the Accord quotes everything against.** A Kharven mark that no longer holds its fineness is a mark the assay houses will discount, and a discounted coin buys less from exactly the merchants a besieged capital needs most.
 
@@ -73,11 +77,11 @@ The mechanism that makes the fisc a timer rather than a background fact.
 
 Pay must reach the men **across distance, with sufficient regularity to prevent mutiny, and in denominations small enough to spend locally.** All three conditions, every time. Failure of any one is failure of all.
 
-**The third is the one that will bite Kharven**, because the setting already has the mechanism. Copper is the money of ordinary life and the only metal money most people ever hold. Copper is also drawn conductor, worth more by weight melted than struck, and every array boom in two centuries has produced a copper famine within three years. **A siege is an array boom.** The Seat can hold silver and still be unable to pay a soldier, because there is nothing in the chest a soldier can buy bread with.
+**The third is the one that will bite Kharven**, because the setting already has the mechanism. Copper is the money of ordinary life and the only metal money most people ever hold. Copper is also the windings of every great array (a standing runed working), laid by hand and worth more by weight melted than struck, and every great array raised in two centuries has produced a copper famine within three years. **A siege raises arrays, on both sides of the wall.** The Seat can hold silver and still be unable to pay a soldier, because there is nothing in the chest a soldier can buy bread with.
 
 What keeps an army fed in the meantime is short-term credit: **unpaid bills to suppliers, advances made by officers out of their own pockets, and temporary loans arranged by intermediaries.** That is the life thread of army finance and it is invisible until it snaps. Long before a mutiny there is a captain who has been paying his own company for six weeks and has stopped sleeping.
 
-**The dissolution schedule.** Not rolls. A sequence of things that happen.
+**The dissolution schedule** involves no dice. It is a sequence of things that happen.
 
 | Arrears | What happens |
 |---|---|
@@ -85,10 +89,10 @@ What keeps an army fed in the meantime is short-term credit: **unpaid bills to s
 | Two turns | Officers begin advancing pay themselves. Small theft becomes normal and goes unpunished, because punishing it would mean admitting why it is happening |
 | Three turns | Foraging becomes indistinguishable from robbery in the surrounding district. The district stops selling and starts hiding |
 | Four turns | Desertion by ones and twos, at night, from the least-watched posts, by the men with families near enough to reach |
-| Five turns | The line does not break. **It presents.** Men assemble in order, without officers, and ask for what they are owed. This is not a riot and is far more dangerous than one |
+| Five turns | The line holds together and **presents.** Men assemble in order, without officers, and ask for what they are owed. A riot would be far less dangerous |
 | Beyond | Unpaid troops have historically marched, leaderless, on the nearest thing worth taking, and taken it |
 
-**The presentation is the beat worth writing.** Not a mob. A formation, silent, correct, standing where it can be seen, waiting. Every officer present knows exactly what it is.
+**The presentation is the beat worth writing.** A formation, silent, correct, standing where it can be seen, waiting, with no mob in it anywhere. Every officer present knows exactly what it is.
 
 ## IV. The Other Ledger
 
@@ -102,9 +106,9 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 
 **Ransom**, which is why a valuable prisoner is a fiscal event before he is anything else.
 
-**And the sack**, which is not a failure of discipline. **It is the settlement of arrears by other means**, understood as such by every soldier and every commander, which is why the terms offered before a storm are a real negotiation about money rather than a courtesy.
+**And the sack**, which discipline has very little to do with. **It is the settlement of arrears by other means**, understood as such by every soldier and every commander, which is why the terms offered before a storm are a real negotiation about money rather than a courtesy.
 
-**So the defender has a lever nobody uses in fiction.** A besieging army four turns in arrears is an army whose commander needs a settlement more than the defender does. The Seat that knows how far behind the enemy's pay is knows more than the Seat that knows where his guns are.
+**So the defender has a lever nobody uses in fiction.** A besieging army four turns in arrears is an army whose commander needs a settlement more than the defender does. The Seat that knows how far behind the enemy's pay is knows more than the Seat that knows where his engines are.
 
 ## V. Running It At The Table
 
@@ -112,7 +116,7 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 1. **Turns of pay in hand**, both sides. This is the clock.
 1. **Whether small coin exists.** Silver in the chest is not pay.
 1. **Whether the Seat has signed anything.**
-**Every fiscal decision is a scene, not a bookkeeping entry.** The levy is a purveyor at a door. The forced loan is one room and eleven households. Debasement is an assay house finding the fineness and deciding what to do. Accord credit is a factor's clerk, polite, patient, with the instrument already drawn, waiting.
+**Every fiscal decision is a scene.** The levy is a purveyor at a door. The forced loan is one room and eleven households. Debasement is an assay house finding the fineness and deciding what to do. Accord credit is a factor's clerk, polite, patient, with the instrument already drawn, waiting.
 
 **And the Front advances on money.** When you advance the Kharven Front, ask what was paid for and who has not been paid, before asking who moved.
 
@@ -122,7 +126,7 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 
 **The copper famine.** The Seat has silver and cannot pay. Somebody proposes melting the temple fittings, which are bronze, which is worth nothing, and the proposal reveals that the man making it does not understand money and is nonetheless in the room.
 
-**The mint rolls.** The mintage fees say aggressive. An assay house has the figures. Publishing them is treason and not publishing them is complicity, and the assayer has a family in the city.
+**The mint rolls.** The mintage fees say aggressive. An assay house has the figures. Posting them on a door is treason and keeping quiet is complicity, and the assayer has a family in the city.
 
 **The presentation.** Fifth turn. The formation is in the yard, correct, silent, waiting. Nobody has drawn anything. The scene is entirely about who speaks first.
 
@@ -132,7 +136,7 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 
 ## Author Notes
 
-**The pay conditions.** Military payment had to be organised across great distances, **with sufficient regularity to prevent mutiny, and in denominations small enough to be used by soldiers in local transactions.** The life thread of army finance was short-term credit: unpaid bills to suppliers, payments advanced by officials and officers, temporary loans contracted by intermediaries, and bills of exchange used to transfer funds.
+**The pay conditions.** Military payment had to be organized across great distances, **with sufficient regularity to prevent mutiny, and in denominations small enough to be used by soldiers in local transactions.** The life thread of army finance was short-term credit: unpaid bills to suppliers, payments advanced by officials and officers, temporary loans contracted by intermediaries, and bills of exchange used to transfer funds.
 
 **Mutiny.** Desertion and mutiny were frequent among troops paid late or not at all, and unpaid soldiers have marched leaderless on a city to obtain what they were owed and sacked it.
 
@@ -140,8 +144,8 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 
 **Purveyance**, the compulsory taking of goods for military use, generated corruption and abuse severe enough to force nationwide investigation and the removal of most purveyors from office; it was surrendered for military purposes under sustained pressure and revived at the next war with instructions to be fair, to avoid church property, and to pay a fair price.
 
-**Other instruments** in the record include emergency borrowing from temple treasuries, borrowing from merchant banking houses with attendant sovereign default risk, and the fact that representative institutions grew out of rulers needing authority to tax for war.
+**Other instruments** in the record include emergency borrowing from temple treasuries, borrowing from factor houses and money-changers with the attendant risk that a crown simply will not pay, and the fact that representative institutions grew out of rulers needing authority to tax for war.
 
-**Setting canon used.** The western silver mark as the accounting standard; copper as the money of ordinary life and the only metal money most people hold; the copper famine, in which drawn conductor is worth more by weight than struck coin and small coin is melted within three years of any array boom; salt bars of fixed weight circulating at a mark and edible, which no other money is; the Sky faith's treatment of a low stack as a moral condition; and contribution and sack from the existing war-cycle material.
+**Setting canon used.** The western silver mark as the accounting standard; copper as the money of ordinary life and the only metal money most people hold; the copper famine, in which array windings are worth more by weight than struck coin and small coin is melted within three years of any great array; salt bars of fixed weight circulating at a mark and edible, which no other money is; the Sky faith's treatment of a low stack as a moral condition; and contribution and sack from the existing war-cycle material.
 
 The jurisdiction trap, the dissolution schedule and the presentation are originated.

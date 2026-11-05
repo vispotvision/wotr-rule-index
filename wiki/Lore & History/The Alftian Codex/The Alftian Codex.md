@@ -9,7 +9,7 @@ title: The Alftian Codex
 *Being the Recovered Journal of Vis Trismegistus, Alftian Savant · in three volumes*
 > Transcribed by the Silent Archivists of Naln, Era of Voyagers. **Recovered from the sealed lower stacks of the Herald's Archivum, Urbis.**
 >
-> *Classification: Hermetic Lore — Restricted Access, High Wellspring Sensitivity*
+> *Classification: Hermetic Lore, Restricted Access, High Wellspring Sensitivity*
 > 
 > > *"That which courseth above is as that which courseth below. That which burneth in Tempus burneth also in the Soul Crystal. There is but one law, and it is everywhere."*
 
@@ -25,7 +25,7 @@ flowchart TD
     V1 --> V2 --> V3
     V1 -.->|"an unanswered letter<br>from Gillus De Raits"| V2
     V2 -.->|"still unanswered"| V3
-    V3 -.->|"answered, on a railway platform,<br>over terrible coffee"| E["THE CORRECTION<br>Correspondence is not reflection.<br>It is response"]
+    V3 -.->|"answered, on a waystation platform,<br>over terrible coffee"| E["THE CORRECTION<br>Correspondence is not reflection.<br>It is response"]
 ```
 **A single unanswered letter runs through all three volumes**, and the Codex does not resolve until it is answered. *That is the structure, and Vis does not notice it is the structure until he is writing the third one.*
 
@@ -35,12 +35,12 @@ flowchart TD
 
 | Name | Who they are |
 |---|---|
-| **Vis Trismegistus** | Elfin. Son of Trans-Alftian terrace-farmers. Astronomer by inclination, alchemist by ambush. **Sage of the Anamnetic Line, Keeper of the Correspondence.** *Called Trismegistus because he holds three parts of the wisdom of the whole world — a claim he makes once, in a king's hall, and never repeats* |
-| **Furveus, called Paracelsus** | The pharmacologist. Developer of **Spagyria** and the *Tria Prima* — Sulfur, Salt, Mercury. Precise, morally ambiguous, **checks his hands after work he finds difficult.** Takes the commission |
+| **Vis Trismegistus** | Elfin. Son of Trans-Alftian terrace-farmers. Astronomer by inclination, alchemist by ambush. **Sage of the Anamnetic Line, Keeper of the Correspondence.** *Called Trismegistus because he holds three parts of the wisdom of the whole world, a claim he makes once, in a king's hall, and never repeats* |
+| **Furveus, called Paracelsus** | The pharmacologist. Developer of **Spagyria** and the *Tria Prima*: Sulfur, Salt, Mercury. Precise, morally ambiguous, **checks his hands after work he finds difficult.** Takes the commission |
 | **Noxinus Ren** | The poet. Older, wiser, and **compelled into writing the** ***Necrocursica*** **by a bargain that looked clean from outside.** Puts the warning in the footnote. *Among the finest poets in the Trans-Alftian tradition, which suggests ethical distress is extraordinarily generative if one is also extraordinarily talented* |
 | **Neros** | The astronomer. Quieter than the others, **collects charts the way farmers collect debts.** Catches the Tempus drift on instruments precise enough to register it |
-| **Gillus De Raits** | Stage VII. Primary Wellspring **Mortalis**, secondary **Anamnesis** — attuned to dissolution and memory simultaneously. **Writes the letter. Waits six years for the answer.** *Looks like someone who is very good at waiting* |
-| **Vaughaus Thom** | Curious to an extent that has become equivalent to malicious. **Scales the method to regional catastrophe** — and leaves the oldest Trace alone, because even his curiosity has a floor |
+| **Gillus De Raits** | Stage VII. Primary Wellspring **Mortalis**, secondary **Anamnesis**, attuned to dissolution and memory simultaneously. **Writes the letter. Waits six years for the answer.** *Looks like someone who is very good at waiting* |
+| **Vaughaus Thom** | Curious to an extent that has become equivalent to malicious. **Scales the method to regional catastrophe**, and leaves the oldest Trace alone, because even his curiosity has a floor |
 | **Jabir** | Roadside astrologer, emerald eyes, **from the Shaneni empire's borders.** Gives Vis the copper amulet and the Emerald Principle in a script no Genesio archive could decipher |
 | **Tat** | The student. Wept for a cat and was undone by it. **Asks the question that produces the Third Corruption's definition** |
 | **Madeleine Ault** | Dying, and the most precise thinker Gillus ever knew. **Designs her own commission from inside her illness** so that a discovery she had no framework for would reach the man who did |
@@ -49,13 +49,13 @@ flowchart TD
 
 ## What the Codex Establishes
 
-> **The Aphorism of Mortalis.** *The practitioner who draws from that Wellspring to reconstruct what has dissolved does not summon the departed. He summons himself, arranged in their image, and calls it resurrection.*
+> **The Aphorism of Mortalis.** *The practitioner who pulls from that Wellspring to reconstruct what has dissolved does not summon the departed. He summons himself, arranged in their image, and calls it resurrection.*
 >
-> The Wellspring is **a river, not a reservoir.** What the necromantic tradition calls retrieval is **impression** — reconstruction of an Essence-pattern from harmonic residue, *the way one reconstructs a letter from the dents left on the surface beneath the paper.*
+> The Wellspring is **a river, not a reservoir.** What the necromantic tradition calls retrieval is **impression**, reconstruction of an Essence-pattern from harmonic residue, *the way one reconstructs a letter from the dents left on the surface beneath the paper.*
 **Three residue categories**, from the *Necrocursica*: the **Harmonic Imprint** left in the ambient Aether of inhabited places; the **Sympathetic Bond Trace**, the resonance-thread to those in deep relational connection, which attenuates but does not sever at death; and the **Parunic Echo**, the glyph-trace any Temperance-active practitioner inscribes in the fabric of the world.
 > **And a fourth, which the Codex is the document that establishes.**
 >
-> The <strong>Volitional Trace</strong> — the Aetheric record of <em>directed intent</em> persisting beyond dissolution where a practitioner died mid-decision. <strong>Not unfulfilled desire, which leaves only the Sympathetic Bond. Unfulfilled</strong> <strong><em>decision</em></strong><strong>.</strong>
+> The <strong>Volitional Trace</strong>, the Aetheric record of <em>directed intent</em> persisting beyond dissolution where a practitioner died mid-decision. <strong>Not unfulfilled desire, which leaves only the Sympathetic Bond. Unfulfilled</strong> <strong><em>decision</em></strong><strong>.</strong>
 >
 > First identified by Madeleine Ault. Independently described by Vaughaus Thom. Theoretically named by Gillus De Raits. **Entered into the formal canon by Vis Trismegistus's testimony in the third volume.**
 **The Seven Cacodaemonic Corruptions.** Vis names the first three from his own life and flags the remaining four as work he has not yet begun. *The Heresiology of Alchemy is the finished version of a book this man left open.*
@@ -83,7 +83,7 @@ flowchart TD
 
 **The Vaughaus Thom Submission** · formally *On the Fourth Residue Category and Its Application to Anamnetic Wellspring Activation.* Newly declassified, co-authored with G. De Raits, annotated by V. Trismegistus.
 
-*Named but not otherwise described: Halveth, Archivum annotator — and the Research Division's effective director for eleven years while appearing to be an annotator. She solves problems by appointing the people who created them to fix them, on the accurate assessment that they are the only ones who fully understand them.*
+*Named but not otherwise described: Halveth, Archivum annotator, and the Research Division's effective director for eleven years while appearing to be an annotator. She solves problems by appointing the people who created them to fix them, on the accurate assessment that they are the only ones who fully understand them.*
 - [[Lore & History/The Alftian Codex/Volume the First]]
 - [[Lore & History/The Alftian Codex/Volume the Second]]
 - [[Lore & History/The Alftian Codex/Volume the Third]]

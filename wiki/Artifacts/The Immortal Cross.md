@@ -1,5 +1,7 @@
 # The Immortal Cross
 
+Sugawa Ren walked to the Cedar Enclave barefoot in the ninety-first year of her life, in a robe the color of persimmons, with a bee in her sleeve for company, having spent seven decades finding out everything she could about what she was going to be asked. The house gave her leave. They brought the arms out of their oiled cloth in the deep archive, with the head of the family holding the lamp, and the pale head of the Cross settled into the heart in her fingers with a small sound like a breath let out. The cedar foot followed before the lamp had been trimmed. The whole archive stood very still. Then she took up the black glass, and it rode a hair's breadth off true and would not meet. She pressed until her thumbs bled, and she turned it, and she held it for three days without eating, while the keeper of the archive wrote her name in a short register that has not got many names in it. On the fourth morning she laughed out loud, handed it back, and went home to her bees. She is one of the two-arm entries. The keeper noted that she had stayed to help wrap it.
+
 **Fushi no Jūji, the Cross of No Death, in the house's old Japonic · Crux Immortalis in Accord Latin · Msalaba wa Milele, the Cross of Forever, in Kushara · the Immortal Cross in the common tongue**
 
 The Immortal Cross is a test Ashura Yukari left for mortals: four arms around an empty heart, in pieces, which close only for someone who understands everything each arm holds. Whoever closes it is held in true immortality. Nobody has closed it.
@@ -36,7 +38,7 @@ With the seam open, the Soul Plane's recognition stutters, and the house holds t
 
 ## Summary card
 
-**Effect** · Closed, the Cross holds its bearer under Null-Light without a gap, and the one change it watches cannot proceed: the Crossing that begins at death, and the slow approach to it that is age. The bearer stops aging at the hour of closing and cannot die. A body destroyed is rendered again from its recognised pattern in the Soul Plane over nine days, the length of a Crossing held open.
+**Effect** · Closed, the Cross holds its bearer under Null-Light without a gap, and the one change it watches cannot proceed: the Crossing that begins at death, and the slow approach to it that is age. The bearer stops aging at the hour of closing and cannot die. A body destroyed is rendered again from its recognized pattern in the Soul Plane over nine days, the length of a Crossing held open.
 
 **Cost** · Closing takes the closer's whole reserve at once and leaves a spell of Essence Starvation after it. From then on the hold is fed from the Soul Plane and costs the bearer nothing in Essence. It costs everything else: the bearer can never pass the Still Gate, never follow anyone who has, and every grief stays exactly as it was on the day it landed.
 
@@ -81,11 +83,11 @@ With the seam open, the Soul Plane's recognition stutters, and the house holds t
 
 ## Metaphysics
 
-**Aether** · Draws nothing from the room. The hold is fed by the Soul Plane's archive, and a room with a bearer in it reads at its usual density.
+**Aether** · Pulls nothing from the room. The hold is fed by the Soul Plane's archive, and a room with a bearer in it reads at its usual density.
 
 **Nihiloth** · Carries the Null: the reading takes place across the bearer's boundary without crossing it.
 
-**Anamnesis** · Keeps the bearer's pattern recognised in the archive, from which a destroyed body is rendered again.
+**Anamnesis** · Keeps the bearer's pattern recognized in the archive, from which a destroyed body is rendered again.
 
 **Mortalis** · The Still Gate itself; the hold is set on its threshold, which the bearer never crosses.
 

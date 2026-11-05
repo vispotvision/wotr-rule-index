@@ -12,7 +12,11 @@ tags:
 *The tongue the story is told in. The Tongues of the Realms governs, with one exception noted below.*
 > *Kha-Vaross.* The weightless tongue.
 >
-> — what the Mandate calls it, and it is not a compliment
+> What the Mandate calls it, and it is no compliment
+
+In a good spring on the Long Quay, Sibby Tamm, a rope-seller of the southern ports in a yellow headscarf, sold one boatload of saffron to three separate buyers in a single afternoon, in Common, to their faces, with a crowd around her eating whelks. All three believed they owned it. All three went to law at Stannvaard with advocates and their best furs, and the chancery sat a full week over her exact words. It found that she had said she would see them right, that she meant to have it there by the tenth, that a man could do worse, and that nobody would regret it, and that nowhere in any of this had she told anybody anything. The court said so with visible regret and let her go, and nobody has yet explained whose saffron it was.
+
+That is the tongue this whole archive is written in. Keep one hand on your purse while you read it.
 
 ## Why This One Gets a Document
 
@@ -28,7 +32,7 @@ The result is a language with **two words for nearly everything**: a short plain
 
 | Plain | Latinate |
 |---|---|
-| ask | enquire |
+| ask | inquire |
 | cut | engrave |
 | speak | invoke |
 | the pouring | Draftcraft, *Ars Vasis* |
@@ -38,7 +42,7 @@ The result is a language with **two words for nearly everything**: a short plain
 | the writing | the inscription |
 | a mouth | a speaker |
 
-Neither column is more correct. **Which one a character reaches for is characterisation before it is information**, and a character who crosses between the columns mid-sentence is doing something: reaching up, condescending, or being caught out.
+Neither column is more correct. **Which one a character reaches for is characterization before it is information**, and a character who crosses between the columns mid-sentence is doing something: reaching up, condescending, or being caught out.
 
 ## II. The Hole
 
@@ -66,7 +70,7 @@ The Eressean name is **Aureth**, the unwitnessing, and it is the same complaint 
 
 Large, tolerant and inconsistent, because it absorbed four sound systems and discarded none of them.
 
-**The stress is a passport.** Common has no regular stress rule, and this is not decay. Each stratum kept the stress it arrived with, so a word's pattern reports which war, treaty or trade route brought it.
+**The stress is a passport.** Common has no regular stress rule, and decay had no part in that. Each stratum kept the stress it arrived with, so a word's pattern reports which war, treaty or trade route brought it.
 
 | Stratum | Stress | Shape | Example |
 |---|---|---|---|
@@ -90,7 +94,9 @@ A clerk who says *reGISter* trained in the chancery. One who says *REGister* lea
 
 **Eressean loans** came through court and calendar, the smallest stratum and the highest status. *Seth*, from *saeth*, an appointed window: *at seth* is on time, *off seth* is late in a way that is somebody's fault. *Thair*, from *thaer*, a records room. *Lith*, from *lyth*, silence, borrowed together with the Eladrin practice, meaning a deliberate pause held in negotiation, which Concord negotiators attempt and almost always break first.
 
-**There is no word for magic.** Not a gap, a refusal. Common names the crafts by the labor: the work, the speaking, the writing, the cutting, the pouring, the singing. The Latin column exists for examiners and the plain column for everyone else, and a man who says *magic* has read too many chapbooks and is about to be corrected by somebody who has not.
+**There is no word for magic.** Common refused one. It names the crafts by the labor: the work, the speaking, the writing, the cutting, the pouring, the singing. The Latin column exists for examiners and the plain column for everyone else, and a man who says *magic* has listened to too many minstrels and is about to be corrected by somebody who has not.
+
+**The street has its own words for the rest.** Where a Guild roll says reinforcement, Pressure and sensing, a bracket crowd in Common says the shine, the weight and the nose, and every region has a further set it thinks is better. Ordinary fighters talk that way and scholars keep the real terms. The quarrel is laid out in Part Six of [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]].
 
 ## V. Registers
 
@@ -106,7 +112,7 @@ By quarter, and the differences are lexical and prosodic rather than grammatical
 
 **Western.** The Concord standard, because the chancery schools are there. Latin stratum heaviest, vowels short. Heard elsewhere as clipped and pleased with itself.
 
-**Northern.** Heaviest Dawi loading, first-syllable stress generalised even onto Latin words. Slow. Reads as blunt to a westerner and honest to a northerner.
+**Northern.** Heaviest Dawi loading, first-syllable stress generalized even onto Latin words. Slow. Reads as blunt to a westerner and honest to a northerner.
 
 **Eastern.** Heaviest Eressean loading, calendar vocabulary in ordinary use, the *lith* actually practiced rather than attempted. An easterner who goes quiet in an argument has said something. A westerner reads it as having run out of words.
 
@@ -124,11 +130,11 @@ Literacy in Common is cheap. Literacy in every other written tongue in the four 
 
 ## VIII. Speaking It Badly
 
-**Everyone speaks Common badly and nobody is corrected**, which is unique among these tongues and is not generosity. There is no prestige standard a foreigner is expected to reach, because Common's speakers have never organised around one, because there is no guild, no chancery and no order with jurisdiction over it. A Dawi with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone else.
+**Everyone speaks Common badly and nobody is corrected**, which is unique among these tongues and has nothing to do with generosity. There is no prestige standard a foreigner is expected to reach, because Common's speakers have never organized around one, because there is no guild, no chancery and no order with jurisdiction over it. A Dawi with forty years of blunt, article-dropping Common is understood, served and cheated in it as fluently as anyone else.
 
 **Goblinoid speakers** drop articles, since Vaross has none, and stack compounds where Common wants an adjective, producing the flat noun-heavy speech Concord readers mistake for stupidity and which is a speaker refusing to let a quality float free of the thing it describes.
 
-**Dawi speakers** state the copula every time, mark acts as recorded or not, and will not express an intention without swearing to it, so their Common reads as pedantic and evasive by turns. It is neither. It is a man using the only distinctions he has.
+**Dawi speakers** state the copula every time, mark acts as recorded or not, and will not express an intention without swearing to it, so their Common reads as pedantic and evasive by turns. He is using the only distinctions he has.
 
 **Eressean speakers** name their witnesses unprompted, over-specify provenance, and issue schedules instead of orders, which reads as aristocratic or paranoid depending on the listener.
 

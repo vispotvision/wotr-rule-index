@@ -7,7 +7,13 @@ title: Yasoshima — The Eighty Isles
 **Say it** · yah-soh-SHEE-mah
 
 *The Sea-Space. Islands of the Yuno.*
-> **Vā** is the relational space the house exists to keep. **Moana** is the deep ocean. *An aiga that names its own islands after the relation they hold rather than after a founder is behaving exactly as the house thesis says it should.*
+> **Vā** is the relational space the house exists to keep. **Moana** is the deep ocean. *An aiga (a family holding land and titles together) that names its own islands after the relation they hold rather than after a founder is behaving exactly as the house thesis says it should.*
+
+The fourth application reached Yasoshima in a two-masted Accord cog painted Division blue, carrying Magister Odile Trevanion, forty crates of brass and glass, and a letter with nine seals. The fono of the Manono strait (a fono is the council of a place's titled heads) received her on a beach hung with red and ocher barkcloth, roasted three pigs in a pit for her, seated her on the fine mats, and began the speeches of welcome, which by custom run in order of title, and the titles ran for forty-one days. She ate breadfruit in coconut cream and learned to drink kava without flinching. On the fifth day, to pass the time, she unpacked one assay fork. It rang one note and held it, morning and evening, for five weeks, and she wrote in her journal that in thirty years she had never seen a fork behave so and would give a finger to know why.
+
+On the forty-first day an old woman of no stated rank gave her a fine mat, a basket of dried fish, and her own letter back with the seals unbroken and the compliments of the house. Nobody had said no. The cog went out on the evening tide loaded with gifts and struck the reef a league off the strait, in water so clear that the crew could watch the crates settle among the blue coral, and the island pilots pulled every soul out of the sea, fed them all again, and did not dive for the brass. The fork is still down there. The Division has her journal, and has filed it with the other three under Pending.
+
+Yasoshima is eighty low green islands with nothing on them worth stealing, where Essence does not drift and a house has made hospitality into a wall. Land here is held under a title and paid for in fish, mats and labor at the fono's feasts, water rights in the lens are older than anyone's grandmother and fought over harder than any crown, and the lime-burners, reef-pilots and mat-weavers of the strait will all stop work and shout at you if you walk across a marked threshold in your shoes.
 
 ---
 
@@ -23,7 +29,7 @@ What stands above the waterline is **raised coral platform over karst.** Low, gr
 
 > **Effectively none.** No metal, no coal, no timber worth a hull. Lime, shell, coral rag, pandanus, and fish.
 >
-> **This is the whole of the reason the islands have never been conquered.** There has never been anything on them worth the crossing — **and a house that cannot be invaded profitably has been free to spend two hundred thousand years perfecting ceremony instead of fortification.**
+> **This is the whole of the reason the islands have never been conquered.** There has never been anything on them worth the crossing, **and a house that cannot be invaded profitably has been free to spend two hundred thousand years perfecting ceremony instead of fortification.** (That figure comes down from the Epochs, which the Guild's count keeps off its books, and a Measurewright will not sign it. Neither will a Yuno, who sees no reason he should have to.)
 
 ---
 
@@ -63,10 +69,10 @@ Two things happen, and neither is contained. **First, the mechanism itself.** Be
 
 ## Governance
 
-**Not a kingdom.** A confederation of aiga governed by **fono** — no king, no standing army, and no charter with the Guild Accord.
+A confederation of aiga governed by **fono**, with no king, no standing army, and no charter with the Guild Accord.
 > The five branches are **islands before they are branches**, and the **Manono** seat sits in the strait between the two largest, **which is why the rarest branch is also the one every other branch must sail past.**
 >
-> Kharven's marriage to the house is **the only formal tie Yasoshima holds to any mainland power.** The fono ratified it as a **feagaiga between houses**, which is not the same thing as an alliance between states, **and which the north has never fully understood.**
+> Kharven's marriage to the house is **the only formal tie Yasoshima holds to any mainland power.** The fono ratified it as a **feagaiga between houses** (a sacred covenant of obligation), a very different thing from an alliance between states, **and the north has never fully understood the difference.**
 >
 > **Kharven believes it gained an ally. The Yuno believe they placed an obligation.**
 >
@@ -80,10 +86,10 @@ Two things happen, and neither is contained. **First, the mechanism itself.** Be
 
 | Name | Standing |
 |---|---|
-| **Personal name** *Ayame* | Given at birth by the Yuno family. **Japonic register, not the Samoan register once proposed here.** |
-| **Aiga** *Yuno* | **Kagura Branch** — per her own Volume I card. *The Manono attribution below was part of the Agamalu retcon and is superseded.* |
-| **Matai title** *Zenma no Mamori* | Keeper of the Whole Vā — her own card's title, **and a literal description of the White Concord** |
-| **Saimei** *Okurareta Nishiki* | The fine mat that was given away — as her own card already has it. **Kharven's records call her Queen, and the Yuno house calls her the same.** |
+| **Personal name** *Ayame* | Given at birth by the Yuno family. **Japonic register. The Samoan register once proposed here does not stand.** |
+| **Aiga** *Yuno* | **Kagura Branch**: per her own Volume I card. *The Manono attribution below was part of the Agamalu retcon and is superseded.* |
+| **Matai title** *Zenma no Mamori* | Keeper of the Whole Vā, her own card's title, **and a literal description of the White Concord** |
+| **Saimei** *Okurareta Nishiki* | The fine mat that was given away, as her own card already has it. **Kharven's records call her Queen, and the Yuno house calls her the same.** |
 
 > *Yuno means gentle. It is a warning wearing a soft word. A woman named Peace who receives thirty hostile clans alone in a courtyard and has them rethreaded into three coalitions by dawn is that thesis walking around.*
 
@@ -93,6 +99,6 @@ Two things happen, and neither is contained. **First, the mechanism itself.** Be
 
 | Ruling | Standing |
 |---|---|
-| **The island name** | **Yasoshima** confirmed — or **Vāitele** (the great space), or **Tuāoi** (the boundary) |
-| **Ayame's voice** | The sentence arrives with the weight of something already decided, not because it is loud **but because of who says it.** She almost never raises her voice and almost never repeats herself. *Distinguishes her cleanly from Muken's iron silences* |
-| **The Research Division** | **Written, 2026-09-12.** What the Yuno declined to disclose, four times, is now set down above under *What the Research Division Was Not Told* — ratified as written, R36-1 |
+| **The island name** | **Yasoshima** confirmed, or **Vāitele** (the great space), or **Tuāoi** (the boundary) |
+| **Ayame's voice** | The sentence arrives with the weight of something already decided, quietly, **because of who says it.** She almost never raises her voice and almost never repeats herself. *Distinguishes her cleanly from Muken's iron silences* |
+| **The Research Division** | **Written, 2026-09-12.** What the Yuno declined to disclose, four times, is now set down above under *What the Research Division Was Not Told*, ratified as written, R36-1 |

@@ -11,6 +11,10 @@ tags:
 
 *Framework document. Read before any individual grammar.*
 
+At the Ford Fair on Withy Reach, in the year the salt came late, a Concord wine factor named Fulbert Pimm climbed onto a trestle table in a plum-colored coat, raised his cup to his three new partners, a Dawi cooper, a hobgoblin ship's officer and an Eressean lady of the calendar, and told them through one hired interpreter that he would see them all paid by the new moon. The cooper heard an oath and began, with great ceremony, to enter it. The officer heard a man promise money without saying who would bear the cost, and his voice sank and slowed until the benches near him emptied. The lady heard a date named by somebody with no standing to open it, went silent, and started counting. The interpreter, who was paid by the day, finished his ale and left through the kitchen. By sundown the Goose Riot had the bridge, four hundred people in their fair colors were pelting each other with roast birds and then with the spits, the wine was on fire, and Pimm stood bound in three languages to a thing he had said in none of them.
+
+These grammars are on the shelf because of afternoons like that one, and the interpreters of the Reach have charged double ever since. Start here, before any of them.
+
 ## What Is Actually a Language
 
 The Realms have more naming registers than they have languages, and the distinction has to be settled before anything gets built, because the work involved differs by an order of magnitude.
@@ -42,7 +46,7 @@ These bind every grammar in the set. Anything a language document says that cont
 
 **Four. Grammar carries worldview, and it does it by what it makes impossible.** Old Vaross has no adjectives, so a quality must be attached to somebody and an insult becomes an accusation. Eressean has no unwitnessed possessive, so *my name* is a construction that requires naming the witness. Build the hole first and the philosophy comes out of it.
 
-**Five. Sound follows material conditions.** Dawi consonant gradation exists because the tongue is shouted across a working forge floor and evolved to keep root identity legible through noise. Old Vaross holds vowels because the goblinoid peoples emphasise by duration, and they emphasise by duration because volume is for signaling across water. Phonology is never chosen for flavor alone.
+**Five. Sound follows material conditions.** Dawi consonant gradation exists because the tongue is shouted across a working forge floor and evolved to keep root identity legible through noise. Old Vaross holds vowels because the goblinoid peoples emphasize by duration, and they emphasize by duration because volume is for signaling across water. Phonology is never chosen for flavor alone.
 
 **Six. Orthography on the page.** Hyphens join compound elements. Doubled vowels mark length and length marks weight. **Diacritics are forbidden across every tongue without exception.** Long vowels are written doubled and nothing else.
 
@@ -50,11 +54,11 @@ These bind every grammar in the set. Anything a language document says that cont
 
 ## The Family Tree
 
-Two unrelated stocks, and one bridge.
+Two unrelated stocks, and one bridge. The Old World and the New are regions of the one great land, and the names are older than anybody's reason for them.
 
-**The Old World stock.** Old Vaross and Khazalid descend from a common ancestor spoken before the Scattering, and both peoples would rather be dead than say so. The evidence is in the numerals and in the body-part roots, which is where relatedness always survives. The Accord's philologists published it four decades ago and were expelled from both the Keth-Gorrum and the Ore Council in the same season.
+**The Old World stock.** Old Vaross and Runic Dawi descend from a common ancestor spoken before the Scattering, and both peoples would rather be dead than say so. The evidence is in the numerals and in the body-part roots, which is where relatedness always survives. The Accord's philologists read it into the record at Stannvaard four decades ago and were expelled from both the Keth-Gorrum and the Ore Council in the same season.
 
-**The New World stock.** Eressean, and behind it whatever the archaic bloodlines spoke before they crossed the water. Unrelated to the Old World stock at every level.
+**The New World stock.** Eressean, and behind it whatever the archaic bloodlines spoke before they came into the New World. Unrelated to the Old World stock at every level.
 
 **Accord Latin is the bridge, and it is nobody's mother tongue.** It was assembled, deliberately, as a neutral instrument for contracts between parties who could not read each other, and every polity in the four quarters has agreed to be measured in a language none of them dreams in. That agreement is the Accord's actual foundation, and it is more load-bearing than any treaty it has ever recorded.
 
@@ -70,7 +74,7 @@ Every grammar follows the same eleven sections so they can be compared and so ga
 1. Registers. Street, document, archaic.
 1. Dialects.
 1. Script.
-1. Lexicon, organised semantically.
+1. Lexicon, organized semantically.
 1. Sample texts with interlinear gloss, and a section on speaking it badly.
 
 ## The Build Order

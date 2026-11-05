@@ -11,15 +11,19 @@ tags:
 *The actual articles, the courts that hear them, the penalties, and the kinds of polity the Accord has to reach across.*
 > *The Accord cannot hang you. It can make it impossible for you to sell anything, anywhere, ever again, and it prefers that.*
 
+Jankin Pennyloaf, baker of Stowmarch, was amerced for a short loaf four hundred and twelve times across forty-one years, which is the town's record and, by my reading of the rolls, the Inner World's. When he died in Year 694 the market court adjourned for the first time anyone could remember, and all of Stowmarch turned out in its best colors to bury him: the bier hung with bread, the shawms and drums of the Bakers' company, the two sworn tasters at the head of the procession and already unsteady, as their office more or less requires, and a herald hired in from the next town to cry the total at every corner. At the graveside the Clerk of the Market took the last loaf from Jankin's oven off the coffin lid, set it on the beam, found it light by a quarter-ounce, and in front of the whole town struck his loaf-stamp across with the six-point (the punch that voids a false measure) and set the fine to his means. His widow paid it out of the funeral collection. The crowd cheered so loudly that the Clerk had to read the sum again.
+
+Nobody in that churchyard wanted any other court. They had been eating Jankin's bread for forty years and knew to the crumb how short it ran, because any one of them could sound it at the beam at any hour without leave, and all of them had. Everything the Accord has ever been stands on that beam. The text follows.
+
 ## Part One: What the Accord Is
 
 **Where the Accord stands.** The text below is older than the communion that now carries it. The formulary and its courts grew up over seven centuries in the Concord heartland and on the chartered routes; the Accord proper, the guilds and their crowns signing into the Codex together, is being made now, one circle at a time. **Where a circle has signed, these Articles bind as law.** Where none has, they bind only the parties who bring a case to the chancery's courts, and that older jurisdiction is the one described first.
 
 **Not a sovereign.** The Accord holds no territory, keeps no standing army, and cannot execute anybody. What it has is a **jurisdiction**: a set of courts, along the trade routes and in the chartered markets, which merchants and locals alike bring their disputes to because those courts are faster, cheaper and more predictable than anything else available.
 
-This is exactly how the historical law merchant worked, and the point is worth stating flatly because it is usually got wrong in fiction. The law merchant was **not a universal code invented by merchants**. It referred to a jurisdiction and to certain procedural variances permitted in specific commercial courts. Ordinary local people used those courts too, under the same rules as the great houses.
+This is how the law merchant (the custom merchants carry from fair to fair) actually works, and the point is worth stating flatly because every minstrel gets it wrong. The law merchant is **not a universal code invented by merchants**. It refers to a jurisdiction and to certain procedural variances permitted in specific commercial courts. Ordinary local people use those courts too, under the same rules as the great houses.
 
-**And enforcement runs on reputation and repeated dealing, not on force.** The Accord's real sanction is exclusion: an unregistered man, an unproofed cask, a struck weight, a house whose instruments will not bind. A merchant who cannot get an attestation cannot get credit, and a merchant who cannot get credit is finished, and everybody in the trade knows it without anybody having to say it.
+**And enforcement runs on reputation and repeated dealing, with force a distant third.** The Accord's real sanction is exclusion: an unregistered man, an unproofed cask, a struck weight, a house whose instruments will not bind. A merchant who cannot get an attestation cannot get credit, and a merchant who cannot get credit is finished, and everybody in the trade knows it without anybody having to say it.
 
 The formulary's four revisions, every one of them older than the first circle, are its whole legislative history. What follows is the current text in summary, with the plain-tongue name beside the register name, because which one a character reaches for places him instantly.
 
@@ -57,17 +61,17 @@ The formulary's four revisions, every one of them older than the first circle, a
 
 **Article XV is the interesting one.** A working that was spoken has no author in its own grammar. The invocation register has no first person, so nothing in the sentence identifies who said it, and the Bench spent four hundred years trying to place a mouth at a scene before giving up and legislating around the problem entirely. **The man who paid is liable.** This is why speakers are hired through intermediaries, why nobody hires one in front of a witness, and why the whole trade sits one step outside every other craft in the four quarters.
 
-### Title IV · Of the Draw
+### Title IV · Of the Pool and the Round
 
 | # | Register | Plain | The rule | Penalty |
 |---|---|---|---|---|
-| XVI | *De foramine* | the bore | No ferrule other than standard on any service. | Cut off; amercement; the fitting seized |
-| XVII | *De tundisio* | the tundish | Every housing fitted and unobstructed. **Covering a tundish is a separate offense from widening a bore**, and carries the heavier penalty, because it is done to conceal. | Cut off; the heavier fine |
-| XVIII | *De sigillo* | the seal | Breaking a Guild seal on a conduit. | Cut off; a term |
-| XIX | *De crure mortuo* | the dead leg | A cut conduit shall be capped and reported within one turn. | Amercement on the owner, whoever that now is |
-| XX | *De arreragiis* | arrears | Cutting for arrears requires notice of one turn. **A death-house, a physician's house and a working forge may not be cut.** | — |
+| XVI | *De foramine* | the bore | No ferrule (the fixed bronze ring at a Core's lip that limits how wide a sitter can pull) other than standard at any pool. | Barred from the pool; amercement; the fitting seized |
+| XVII | *De tundisio* | the tundish | Every ring fitted with its tundish (the brass funnel that shows from the door the color of what passes) and unobstructed. **Covering a tundish is a separate offense from widening a bore**, and carries the heavier penalty, because it is done to conceal. | Barred from the pool; the heavier fine |
+| XVIII | *De sigillo* | the seal | Breaking a Guild seal on a ring, a lamp stem or a lintel. | Struck from the round; a term |
+| XIX | *De crure mortuo* | the dead leg | A stretch of a round given up (a dead leg) shall have its stems capped and be reported within one turn. | Amercement on the owner, whoever that now is |
+| XX | *De arreragiis* | arrears | Striking a household from the round for arrears requires notice of one turn. **A death-house, a physician's house and a working forge may not be struck.** | — |
 
-**Article XX is honored in the West and ignored everywhere the inspector is the same man as the collector**, which is most places. The exemption exists, is well known, and is claimed far more often than it is granted.
+**Article XX is honored in the West and ignored everywhere the searcher is the same man as the collector**, which is most places. The exemption exists, is well known, and is claimed far more often than it is granted.
 
 ### Title V · Of Bread, Ale and the Common Sale
 
@@ -103,21 +107,21 @@ The formulary's four revisions, every one of them older than the first circle, a
 
 ## Part Four: The Kinds of Polity
 
-The Accord has to reach across states that do not resemble each other at all, and this is the normal condition rather than an exotic one. **The characteristic early modern state was composite**: several territories under one ruler, governed as if they were separate kingdoms under their own laws and traditions, with high political, judicial and economic heterogeneity retained. That is the Concord. That is also why the Accord exists at all, because a merchant crossing three provinces of one crown crosses three legal systems.
+The Accord has to reach across states that do not resemble each other at all, and this is the normal condition rather than an exotic one. **The characteristic state of the age is composite**: several territories under one ruler, governed as if they were separate kingdoms under their own laws and traditions, with high political, judicial and economic heterogeneity retained. That is the Concord. That is also why the Accord exists at all, because a merchant crossing three provinces of one crown crosses three legal systems.
 
 ### The seven forms
 
-**Composite monarchy.** Several countries under one crown, each keeping its own law. The Concord. Contemporary theorists held that similarity of language and custom decided whether such a state held together, which is precisely the argument the Accord makes for its own standards and its own tongue.
+**Composite monarchy.** Several countries under one crown, each keeping its own law. The Concord. Chancery theorists hold that similarity of language and custom decides whether such a state holds together, which is precisely the argument the Accord makes for its own standards and its own tongue.
 
-**Oligarchic republic.** Rule by a closed body of chartered houses, self-perpetuating, with formal offices and real elections among a tiny electorate. **Stannvaard.** The historical models are Venice and Genoa and they were rigidly oligarchical, and nobody in them pretended otherwise.
+**Oligarchic republic.** Rule by a closed body of chartered houses, self-perpetuating, with formal offices and real elections among a tiny electorate. **Stannvaard.** It is rigidly oligarchical, and nobody in it pretends otherwise. (*Out of the world, for the table: the historical models are Venice and Genoa.*)
 
 **Mandate.** Rule by standing decree, read aloud daily at every garrison, with no assembly and no appeal outside the decree archive. **Undaar-Keth.** Its strength is that everybody knows the law because everybody hears it every day. Its weakness is that the law is whatever was read this morning.
 
 **Sealed parliament.** An assembly whose rulings are issued in a register requiring interpreters, and whose interpreters are a hereditary profession. **The Keth-Gorrum.** Formally the most representative body in the four quarters and functionally readable by about two hundred people.
 
-**Rotating crown.** An elective or rotating headship on a fixed cycle, designed so that no single will outlasts a season. **Iampu**, where the Crown passes at each solstice and equinox under the Treaty of Four Courts. Real elective monarchies paired lifetime or fixed terms with senatorial oversight to prevent concentration, and characteristically drifted toward capture by the electing body, which is a live risk in Iampu and is what the Frost Council actually is.
+**Rotating crown.** An elective or rotating headship on a fixed cycle, designed so that no single will outlasts a season. **Iampu**, where the Crown passes at each solstice and equinox under the Treaty of Four Courts. (*Out of the world, for the table: real elective monarchies paired lifetime or fixed terms with senatorial oversight to prevent concentration.*) Such crowns characteristically drift toward capture by the electing body, which is a live risk in Iampu and is what the Frost Council actually is.
 
-**Confederation.** No monarch, binding decisions requiring consensus across every represented house. **The Echo Elves' Longhouse Accord**, and behind it **Altherion's River Crown Council**. Historical confederations were ramshackle, slow, and remarkably durable, and the Echo Elf version is slower than any of them by design.
+**Confederation.** No monarch, binding decisions requiring consensus across every represented house. **The Echo Elves' Longhouse Accord**, and behind it **Altherion's River Crown Council**. Confederations are ramshackle, slow, and remarkably durable, and the Echo Elf version is slower than any other by design.
 
 **Calendrical principality.** Governance by appointed window rather than by session: nothing is decided outside its ceremonial time, and urgency is treated as a defect. **Eresse.** No other polity in the four quarters can negotiate with it at speed and none has stopped complaining about this in four Eons.
 
@@ -125,6 +129,6 @@ The Accord has to reach across states that do not resemble each other at all, an
 
 ### What this means at the table
 
-**A character crossing a border changes legal systems, not just flags.** The same act is an amercement in Stannvaard, a decree violation in Undaar-Keth, an unentered act in a hold, an untimely act in Eresse, and, until the first circle was signed, nothing at all in Kharven.
+**A character crossing a border changes legal systems, not just flags.** The same act is an amercement in Stannvaard, a decree violation in Undaar-Keth, an unentered act in a hold, an untimely act in Eresse, and, until the first circle was signed, nothing at all in Kharven. A ferryman who works the line between two of them keeps two tally-sticks and two faces, and his children learn which to show on which bank before they learn to row.
 
 **The Accord's courts are the only thing that is the same everywhere**, which is the entire source of its power and the entire source of the resentment toward it. It did not conquer anybody. It made itself the only layer that works in all seven places, charged for it, and is now asking each of them to sign.

@@ -6,6 +6,10 @@ title: Artifacts
 
 # Artifacts
 
+Every Guild armorer can recite the three questions a buyer asks of a named piece: who made it, who died holding it, and who is going to come for it. The wall of the Stannvaard armorers' hall carries a painted list of pieces that have cost more lives in the taking than in the using, and apprentices learn it by heart with their rude rhymes attached. Top gear in this world has a name, a reputation and a trail of past owners, and it sits on the same Tier ladder as a kitchen knife, a few rungs up. The relics here are made by hand, one at a time, by people who frequently regretted it.
+
+A few words recur on these pages. A **Domain Anchor** is a fixed point that holds a Domain (ground made to obey its maker's law) so firmly the world registers it as terrain. A **Parun glyph** is a character of the old tongue that sets a working's boundary. **EU** is the measure of Essence (Aether refined in a Soul Crystal) a working spends, and **soulbound** means the piece has married one person's Crystal and resents everybody else. A note on sources: where an entry says "the card," it means the record card this archive holds on the piece, and where it says "unattested," a keeper has checked and found nobody else who has heard of it.
+
 - [[Artifacts/Verdiction Gauntlet · The Hand of Judgment]]
 - [[Artifacts/Mnemonis Solution · The Recursive Draft]]
 - [[Artifacts/Kogane Kei · The Soul-Reed Blade]]

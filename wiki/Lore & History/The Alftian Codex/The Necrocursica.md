@@ -15,7 +15,7 @@ The sealed edition.
 > 
 > The Accord's copy. Preservable under redaction: the completion steps of Mortalis Category Three struck.
 > 
-> Year 704 IC, the Withering Era; the fourteenth year of the Imperial Age.
+> Year 704 IC, the Withering Era; the fourteenth year of the Dark Ages.
 
 ## The Transcriber's Note
 
@@ -23,7 +23,7 @@ This is the Accord's copy, made for the Research and Archives Division, Urbis of
 
 The margins of the sealed copy carry two hands besides the text's: the author's own, later than the text, and in one place the hand of Kwon Mu-jin. Both are set where they stand.
 
-The completion steps of Mortalis Category Three are struck under redaction. Appendix I is printed in full, being defensive.
+The completion steps of Mortalis Category Three are struck under redaction. Appendix I is copied in full, being defensive.
 > Struck where marked. H.
 >
 > I began this under protest. By the third chapter I was giving it freely, and by the fifth I was writing chapters nobody had asked of me. That is how I came into the whole field.
@@ -36,7 +36,7 @@ The first manuscript of this treatise was written at Genesio, begun in the winte
 
 This edition was made by order.
 
-It adds what the first manuscript did not know. The four residues that can be read inside the nine days come first, the fourth of them named since the first manuscript was written, and credited where it was found. What stays after the nine days follows, in the first manuscript's own sentences, with two additions. The Mortalis Categories are set out as they bind wherever a circle has signed, each with its floor, its reservation, its cost, its tell and its counter. The first manuscript's warnings are gathered, with the cases seen since, under seven heads, and the seven are the Seven Unmoorings. Two appendices close the text. The first is a protocol for a failing seal, printed for whoever must stand at one. The second answers the third volume of Kwon Mu-jin's Codex.
+It adds what the first manuscript did not know. The four residues that can be read inside the nine days come first, the fourth of them named since the first manuscript was written, and credited where it was found. What stays after the nine days follows, in the first manuscript's own sentences, with two additions. The Mortalis Categories are set out as they bind wherever a circle has signed, each with its floor, its reservation, its cost, its tell and its counter. The first manuscript's warnings are gathered, with the cases seen since, under seven heads, and the seven are the Seven Unmoorings. Two appendices close the text. The first is a protocol for a failing seal, copied out for whoever must stand at one. The second answers the third volume of Kwon Mu-jin's Codex.
 
 The preface stands as it was written in 696, with one sentence entered.
 
@@ -76,7 +76,7 @@ Genesio, the spring of 696 IC
 
 ## Proem · What Mortalis Is
 
-Mortalis is Auren's Still Gate. A living body is held far from equilibrium by continuous expenditure. It spends to stay warmer than its room, wetter than its dust, and more ordered than its parts would lie if they were left alone. Mortalis is the boundary where the spending stops. It governs the passage across. It keeps nobody on the far side and stores nothing there, and a practitioner who harmonises with it borrows a current that runs past him toward that stop.
+Mortalis is Auren's Still Gate. A living body is held far from equilibrium by continuous expenditure. It spends to stay warmer than its room, wetter than its dust, and more ordered than its parts would lie if they were left alone. Mortalis is the boundary where the spending stops. It governs the passage across. It keeps nobody on the far side and stores nothing there, and a practitioner who harmonizes with it borrows a current that runs past him toward that stop.
 
 The borrowing is a debt. The older doctrine the tradition calls the Aphorism of Mortalis says so plainly: whoever borrows the current cannot step back out of it without a cost to his own Crystal. Kwon Mu-jin has since glossed it, and the fourth chapter cites his gloss.
 
@@ -84,7 +84,7 @@ The current has a failure of its own, and it falls on the practitioner. The Stil
 
 When a Crystal fails, it does not leave whole. It comes apart into three products under three laws.
 
-The Echo goes first. It is memory and habit and the print of a voice, and it goes to the Soul Plane within hours, and its going is how death is determined. The Temperance residue goes second, back through the body into its Wellspring over nine days. Nine is the figure. It varies with Stage, with the Wellspring and with the saturation of the site, and nobody has characterised the variance. The Name-record files in the Archive of Names and stays filed.
+The Echo goes first. It is memory and habit and the print of a voice, and it goes to the Soul Plane within hours, and its going is how death is determined. The Temperance residue goes second, back through the body into its Wellspring over nine days. Nine is the figure. It varies with Stage, with the Wellspring and with the saturation of the site, and nobody has characterized the variance. The Name-record files in the Archive of Names and stays filed.
 
 On the ninth day what remains is meat. The Trait tissue stays. A Trait is laid into the body itself, mineral into bone, and it does not diffuse with the residue, so the remains of anyone who bore a Crystal go on holding their Traits after the ninth day, as passive carry with nothing active in it.
 
@@ -102,7 +102,7 @@ Four residues can be read inside the nine days. A reader who takes them in order
 
 **The Corporeal Residue.** For nine days the body is the medium through which a Wellspring is repaid. The Temperance residue moves through it toward the Wellspring it came from. A reader who knows the rate reads three things from what is left: who was Temperance-active, how far, and where the body lay while it paid. Stage stretches the nine days by days, and only by days. Any text that has a practitioner's body active for decades after death describes a hold that somebody made and somebody is paying for. After the ninth day the body holds its Trait tissue and nothing more. That is passive carry, Class IV to the rendering houses, and a melted coin does not testify.
 
-**The Aetheric Shell.** The Shell is the outer layer of a living Crystal. At death it detaches, and for hours, and sometimes for days, its tone goes on sounding with no Core under it to sustain it. It carries identity. It carries which Wellsprings the dead carried, and how far each was harmonised. In a suspicious death it is the first thing to read, since of what a reader can still find it goes soonest, and a reader who arrives on the third day has usually arrived without it.
+**The Aetheric Shell.** The Shell is the outer layer of a living Crystal. At death it detaches, and for hours, and sometimes for days, its tone goes on sounding with no Core under it to sustain it. It carries identity. It carries which Wellsprings the dead carried, and how far each was harmonized. In a suspicious death it is the first thing to read, since of what a reader can still find it goes soonest, and a reader who arrives on the third day has usually arrived without it.
 
 **The Noospheric Echo.** The Echo leaves within hours, and most of the time there is nothing of it to read. When there is, it has been held. A Crossing has stalled on its own, or somebody has held it on purpose. A held Echo carries voice and habit and the possession a person keeps of a room, and the Division files it as a Lawful Echo, Class II: harmless in itself, and hazardous by proximity. Sustained exposure produces Melancholic Erosion, which is weeping the reader cannot account for and memories that belong to someone else. Read a held Echo from the doorway, and do not stand in its room longer than the reading.
 
@@ -114,7 +114,7 @@ The credit stands in layers, as the third volume of Kwon Mu-jin's Codex gives it
 
 The four are read apart. They act together. A held Echo with a live Trace under it gives a construct that repeats a dead woman's habits toward a dead woman's purpose. Nothing a room can hold is more persuasive. A Shell's tone laid over a Corporeal Residue still paying out reads as a person who has not finished dying. The Tria Prima of the third chapter is a way of keeping the four apart in the mind while they are together on the slab.
 
-Take them in this order. Read the Shell first, from the threshold, with the coil held low, since it is the soonest to go and the reading costs it nothing it was keeping. Read for a held Echo second, still from the doorway. Walk in only then, to the body, and read the Corporeal Residue with a hand on the slab and the gauge on the floor beside the feet. Read for a Trace last. It is the one a reading can spend, and a reader who wakes it by accident has used the only copy.
+Take them in this order. Read the Shell first, from the threshold, with the coil held low, since it is the soonest to go and the reading costs it nothing it was keeping. Read for a held Echo second, still from the doorway. Walk in only then, to the body, and read the Corporeal Residue with a hand on the slab and the fork on the floor beside the feet. Read for a Trace last. It is the one a reading can spend, and a reader who wakes it by accident has used the only copy.
 
 Write each down before reading the next.
 
@@ -166,19 +166,19 @@ The Mortalis Categories bind wherever a circle has signed. Where no circle has s
 
 **Floor:** Flourishing, the fourth Stage. **Reservation:** the Adept gate.
 
-The Authorization is [Ie] Perception. The Boundary is a perimeter paced from the body outward to where the gauge falls back to the room's own reading, with a term of one day and a night, or until sealed. Where the Boundary must be assayed later, draw it in Gravetide Ink, whose line a residual field can be assayed against. The Direction is [Ur] Balance, and the reading draws nothing. The Sealing is [Flx] Flux, sealed by [Tp] Topology on a Fixatio chain, which attenuates cleanly and leaves no open boundary.
+The Authorization is [Ie] Perception. The Boundary is a perimeter paced from the body outward to where the fork falls back to the room's own reading, with a term of one day and a night, or until sealed. Where the Boundary must be assayed later, draw it in Gravetide Ink, whose line a residual field can be assayed against. The Direction is [Ur] Balance, and the reading pulls nothing. The Sealing is [Flx] Flux, sealed by [Tp] Topology on a Fixatio chain, which attenuates cleanly and leaves no open boundary.
 
 This is the formula. Do not improvise it.
 
-**Cost.** Small, and the reader pays it. The kit is a field coil, a gauge and a Fixatio-anchored tin for scrapings. The heat off the reader's Shell is the only waste, and whatever is read of the ground is spent.
+**Cost.** Small, and the reader pays it. The kit is a field coil, an assay fork and a Fixatio-anchored tin for scrapings. The heat off the reader's Shell is the only waste, and whatever is read of the ground is spent.
 
 A forensic reading of a suspicious death, done to the formula, gives the Division four lines: the Shell's identity and its Wellsprings, whether an Echo is held, how far the Corporeal Residue has paid, and whether a Trace lies in the ground. It gives no cause of death. That is the physician's.
 
 **Tell.** Done right, it leaves the room as it found the room, less what was read.
 
-**Counter.** None is needed. Its failure is an improvised Direction. A reader who lets [Ur] slip begins to draw, and a draw on a death-room is the first step toward the Open Shell.
+**Counter.** None is needed. Its failure is an improvised Direction. A reader who lets [Ur] slip begins to pull, and a pull on a death-room is the first step toward the Open Shell.
 
-### Mortalis Category Two · Residue Stabilisation and Containment
+### Mortalis Category Two · Residue Stabilization and Containment
 
 **Floor:** Glory, the sixth Stage. **Reservation:** the Expert gate.
 
@@ -202,7 +202,7 @@ The floor stands at Refraction because Refraction is where Trace-compulsion begi
 
 Completion is a Greater Summons. The vessel is poured, and it is a Draft like any other lot, graded by Class, Fidelity and Carry, and priced. Ordinary commissions run on stock of the first three Classes. Class IV enters only when rendered remains go into the pour.
 
-The identity in it is the maker's. It is drawn from his own Core. The Lexicon's word for a detached fragment of the caster's own Core is Eidolon, and it is the Eidolon that speaks in the vessel with the dead's habits. Kwon Mu-jin's gloss of the Aphorism says that whoever draws on Mortalis to rebuild what has come apart summons himself, arranged in their image. The gloss is his. By the mechanism it is literal.
+The identity in it is the maker's. It is taken from his own Core. The Lexicon's word for a detached fragment of the caster's own Core is Eidolon, and it is the Eidolon that speaks in the vessel with the dead's habits. Kwon Mu-jin's gloss of the Aphorism says that whoever pulls from Mortalis to rebuild what has come apart summons himself, arranged in their image. The gloss is his. By the mechanism it is literal.
 
 The Trace is reached by Vocatia, by recognition. Vocatia gives nothing to a summoner who lacks the standing he claims. At the Authorization the Continuum reads the practitioner's own Attraction Layer into the working, declared or not. That is the door the Mirror Trace comes through.
 
@@ -212,11 +212,11 @@ Short ink makes a short seal.
 
 The maker's mark on the vessel and the cutter's hand in the seal are how the Bench traces a completion to its workers. Both can be read. A completion done privately, unentered and for a fee, puts the breach on the seller, and on the Master of the Circle who seals it, personally.
 
-**Cost.** A once-only share of the practitioner's reserve, paid at the seal, which no Draft returns. The site depletes, and ground drawn on for completions at scale scars. At Genesio the floor of the hall and the bark of its trees hold pale patches where the ground gave up everything it had stored, and nothing left in that stone can be woken. The hall read Whirlpool while it was drawn, and fell back a rung to Riptide when the last Trace in it was spent. The gauge at the gate below the Archivum read twenty-six at the thaw of 702, and twenty on the morning after the last Trace in the hall was spent. The practitioner ticks on the Drift Scale.
+**Cost.** A once-only share of the practitioner's reserve, paid at the seal, which no Draft returns. The site depletes, and ground pulled for completions at scale scars. At Genesio the floor of the hall and the bark of its trees hold pale patches where the ground gave up everything it had stored, and nothing left in that stone can be woken. The hall read Whirlpool while it was pulled, and fell back a rung to Riptide when the last Trace in it was spent. The fork at the gate below the Archivum read twenty-six at the thaw of 702, and twenty on the morning after the last Trace in the hall was spent. The practitioner ticks on the Drift Scale.
 
 The sky keeps its own account. Neros's column showed the Weight stepping out of its station some turns after each cluster of wakings at Genesio. The debt is booked on the site and on the operators, and it is collected late, in another kind.
 
-**Tell.** The gauge over ground drawn for completions climbs through the seasons, where drawn ground should fall. A completed body ends in one breath when its sentence is finished.
+**Tell.** The fork over ground pulled for completions climbs through the seasons, where pulled ground should fall. A completed body ends in one breath when its sentence is finished.
 
 **Counter.** A ring of Stillgate Ash. A Gravetide Boundary drawn to the working's true reach. The delayed sealing of Appendix I.
 
@@ -247,7 +247,7 @@ I wrote the first manuscript's method before I had seen it done, and these sente
 
 **Floor:** none. **Reservation:** no gate.
 
-Category Four is the attempt to rebuild the whole Crystal system of a person who has crossed. It takes in the Core and the Shell and the Attraction Layer, the Echo called back off the Soul Plane, the residue drawn back out of its Wellspring, and the Name-record reopened. The Accord does not authorise it, and it will not. It has no Bench and no review. I set down no glyph of it here, since a chain written once is a chain copied.
+Category Four is the attempt to rebuild the whole Crystal system of a person who has crossed. It takes in the Core and the Shell and the Attraction Layer, the Echo called back off the Soul Plane, the residue pulled back out of its Wellspring, and the Name-record reopened. The Accord does not authorize it, and it will not. It has no Bench and no review. I set down no glyph of it here, since a chain written once is a chain copied.
 
 An application goes on the applicant's record and nowhere else.
 
@@ -310,11 +310,11 @@ The case I saw myself was a body poured in haste to beat the ninth day, and seal
 
 ### The Open Shell
 
-**How it occurs.** A practitioner outruns his harmonisation. Death-work is lawful only as far as his own harmonisation with Mortalis carries him, and when he runs past it at scale, the working takes what it was never given. It draws finished output from a donor's Crystal, and the donor is dead. The law files that as extraction, which is Mechanica. Statute XXVI says why the boundary stays open: closing needs a warrant, and a working with no Authorization to answer to never had one. What it opened stays open after the practitioner has gone home.
+**How it occurs.** A practitioner outruns his harmonization. Death-work is lawful only as far as his own harmonization with Mortalis carries him, and when he runs past it at scale, the working takes what it was never given. It pulls finished output from a donor's Crystal, and the donor is dead. The law files that as extraction, which is Mechanica. Statute XXVI says why the boundary stays open: closing needs a warrant, and a working with no Authorization to answer to never had one. What it opened stays open after the practitioner has gone home.
 
 **What it produces.** The practitioner's Shell stays open in the Mortalis band, and every ending anywhere near him comes in. The afflicted have their own phrase for it, the weight of all the ends. He finishes other people's sentences. He finds himself in rooms where somebody is dying, with no memory of the walk there.
 
-**Marker.** The ground. Mechanica residue does not thin. Carry a coil and a gauge together and they disagree at every stand, and the Accord's text on Mechanica says the discrepancy is the size of what is being taken.
+**Marker.** The ground. Mechanica residue does not thin. Carry a coil and a fork together and they disagree at every stand, and the Accord's text on Mechanica says the discrepancy is the size of what is being taken.
 
 **Resolution.** The practitioner can be treated, by communion with one of three currents from three Families: Ascensio of Vectoria, Fixatio of Materia, Benediction of Vitalia. This takes months. The ground never heals. Of the seven it is the one whose harm does not stay in the room: the ground it opens runs on across a region. The one case I have seen at scale is under review, and I leave it there.
 
@@ -356,13 +356,13 @@ I have been told that my own earlier writing carries this. I am reviewing it. Th
 
 ### The False Vocation
 
-**How it occurs.** It takes a practitioner at Refraction or above who has been harmonised with Mortalis for many years. The Continuum repairs its own boundary, and it presents unfinished Traces to whoever is able to finish them. Completion steadies the ground, and the Continuum reinforces whatever steadies it. Over years the practitioner's Attraction Layer is taken up into that repair.
+**How it occurs.** It takes a practitioner at Refraction or above who has been harmonized with Mortalis for many years. The Continuum repairs its own boundary, and it presents unfinished Traces to whoever is able to finish them. Completion steadies the ground, and the Continuum reinforces whatever steadies it. Over years the practitioner's Attraction Layer is taken up into that repair.
 
 **What it produces.** Purpose. He completes one Trace and the next is waiting at the door. Asked what he wants for himself, he cannot say.
 
 **Marker.** A stillness with no hurry anywhere in it, the bearing of something with no experience of time passing. Were he to die, his own Trace would lie in his ground uncharged.
 
-I saw it once, at a distance I kept. A man I had counted among the finest readers of Mortalis I knew crossed the Genesio waystation at dawn with nothing hurried left in him. Frost was on the rail. He stopped at the edge of the platform and looked at the mountains a long while, and he looked sent for.
+I saw it once, at a distance I kept. A man I had counted among the finest readers of Mortalis I knew crossed the Genesio waystation at dawn with nothing hurried left in him. Frost was on the hitching rail. He stopped at the edge of the platform and looked at the mountains a long while, and he looked sent for.
 
 I first entered it in my notes as something close to sanctity. The entry is corrected here. The peace was a man with nothing of his own left to want, and the ground he steadied will outlast him by a long way.
 
@@ -390,22 +390,22 @@ You find yourself in what remains.
 
 And then, if the seal holds, you come back out.
 
-## Appendix I · The Stabilisation Protocol for Volatile Residue, as Developed by Furveus and Modified for Mortalis Work by Malphas
+## Appendix I · The Stabilization Protocol for Volatile Residue, as Developed by Furveus and Modified for Mortalis Work by Malphas
 
-> Clearance Tier IV Restricted (Mortalis Operations). Printed in full in the Accord's copy.
-The protocol is Furveus's. He developed it in his years at the Heralds' Medical University, for the containment of volatile residue in the sick and the newly dead. I have modified it for Mortalis work. It is written here in my hand, since his hand no longer writes a formula small enough to read. He will know every step of it. The pair and the withdrawal passed from it into the field's protocols long ago, and are printed here as the field keeps them. The ash, the rune and the medicine are his; the Boundary and the sealing are my modifications.
+> Clearance Tier IV Restricted (Mortalis Operations). Copied in full in the Accord's copy.
+The protocol is Furveus's. He developed it in his years at the Heralds' Medical University, for the containment of volatile residue in the sick and the newly dead. I have modified it for Mortalis work. It is written here in my hand, since his hand no longer writes a formula small enough to read. He will know every step of it. The pair and the withdrawal passed from it into the field's protocols long ago, and are written here as the field keeps them. The ash, the rune and the medicine are his; the Boundary and the sealing are my modifications.
 
 It is the defensive counter to a failing seal. Use it when a Category Three body has run past its term, when an Incomplete Sealing has begun to accumulate, and when any working on the dead has no end written on it and the room has begun to write one.
 
-**First, the pair.** Never alone. Two practitioners go, one inside the radius and one outside it. The one inside reports, the one outside confirms or contradicts, and the contradiction is the diagnosis. The one outside carries the gauge and reads it aloud at every stand. Agree a count before you begin. If the one inside stops speaking, the one outside counts his breaths aloud, and at the agreed count calls him out by name.
+**First, the pair.** Never alone. Two practitioners go, one inside the radius and one outside it. The one inside reports, the one outside confirms or contradicts, and the contradiction is the diagnosis. The one outside carries the fork and reads it aloud at every stand. Agree a count before you begin. If the one inside stops speaking, the one outside counts his breaths aloud, and at the agreed count calls him out by name.
 
-**Second, the Boundary.** Find the working's true reach. Pace from the body outward until the gauge falls back to the room's own reading, mark the pace, and walk the circle at that distance. Draw the Boundary there in Gravetide Ink, mixed on bone where bone is to hand, since the slab is the surface the ink answers to. Write the term as the formula writes it: one day and a night, or until sealed. A Boundary drawn short of the true reach contains nothing. A loose Boundary clause runs on after the working it was meant to end.
+**Second, the Boundary.** Find the working's true reach. Pace from the body outward until the fork falls back to the room's own reading, mark the pace, and walk the circle at that distance. Draw the Boundary there in Gravetide Ink, mixed on bone where bone is to hand, since the slab is the surface the ink answers to. Write the term as the formula writes it: one day and a night, or until sealed. A Boundary drawn short of the true reach contains nothing. A loose Boundary clause runs on after the working it was meant to end.
 
 **Third, the ash.** Lay a ring of Stillgate Ash inside the Boundary, close about the body. The ash grounds the body's charge and lets it finish its passage. Living Essence at the ring bleeds into it too, so whoever stands at the ring pays in his own Shell. He will come off it gray at the mouth and cold at the fingers. Change who stands at the ring before either of you has stood there long.
 
 **Fourth, withdrawal.** Withdrawal is a step of the procedure. Take it the moment the one outside contradicts the one inside twice running, and take it without discussion. Come up, mark the perimeter from outside, and begin again at the first step.
 
-**Fifth, the rune.** The unsealed rune lies somewhere on the body or on the floor under it, and until it is found the body goes on writing its own end. Read for it at [Ie] Perception with [Ur] Balance at the Direction, drawing nothing. Break it before anything is sealed. A seal laid over an open rune seals the haunting in.
+**Fifth, the rune.** The unsealed rune lies somewhere on the body or on the floor under it, and until it is found the body goes on writing its own end. Read for it at [Ie] Perception with [Ur] Balance at the Direction, pulling nothing. Break it before anything is sealed. A seal laid over an open rune seals the haunting in.
 
 **Sixth, the delayed sealing.** A practitioner at the Expert gate writes the Mortalis seal in Gravemark Ink of full strength, and closes it on [Vor] Return. If the Trace's decision can still be delivered, the seal ends when it is. If it cannot, the ash takes the charge, and the seal ends with the charge. Never dilute the ink to stretch it. A preparation that fails goes volatile, and it stays volatile.
 
@@ -431,7 +431,7 @@ He has sworn a vow against his own pen: "I will not write down what I have decid
 
 Our trade has a general corruption, and no stage of the Work owns it. A scholar describes his own errors under another man's name, from a safe distance, and calls the description a case. The first volume of the Codex did it. The second did it with me, by name, for its Submission. It was accurate about me, and about him as well, and then it turned, on the page on Separation. The third does not do it at all. It gives no cases of the four corruptions it names, because he will teach only what he has found in himself.
 
-I have no standing whatsoever to criticise him for any of it.
+I have no standing whatsoever to criticize him for any of it.
 
 He came to Genesio in the spring of 702, when the passes had opened, and asked for me on the reading floor. I did not come up.
 
@@ -462,7 +462,7 @@ Copies of this edition: the sealed original, below the gate at the Archivum of t
 If you obtained this without clearance, you are now responsible for everything it contains.
 
 End of the text. The Archivum of the Heralds, Genesio. Sealed.
-> Sealed below the gate. The Archivum of the Heralds, Genesio. Year 704 IC, the Withering Era; the fourteenth year of the Imperial Age.
+> Sealed below the gate. The Archivum of the Heralds, Genesio. Year 704 IC, the Withering Era; the fourteenth year of the Dark Ages.
 > 
 > Transcribed by the Silent Archivists of Vaultmere, Nalūn.
 > 

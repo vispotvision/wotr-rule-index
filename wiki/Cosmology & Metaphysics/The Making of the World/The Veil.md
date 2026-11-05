@@ -6,7 +6,13 @@ tags:
 
 # The Veil
 
-> The Veil is not a place. It is a condition — the state of being between planes, the moment of transition where the ordinary separation between matter, soul, and fate becomes navigable.
+> The Veil is a condition with no address: the state of being between planes, the moment of transition where the ordinary separation between matter, soul, and fate becomes navigable.
+
+When the grain factor Bardolph Mowle of Salt Cross buried his wife, he hired a Veil-thread singer named Merrin Two-Bodies to fetch him her last word, and he held the wake on the green above the Salt Cross plague pits, where three thousand had gone into the lime in a single summer and the ground ran Thin (a place where the wall between planes wears close). He paid for a striped pavilion, forty musicians and a table of roast swans with their feathers put back on, and he invited the county, because he wanted it witnessed. Merrin sat down in a gilded chair with a cup in her hand, sang her thread until her coat ran black-violet at the edges, and crossed. Her body stayed behind in the chair, upright and smiling slightly, while the band played and the swans went round. A crossing runs under a minute at the threshold's edge, and she was gone for four. At the fifth, Mowle's nephew, who was young and well into the wine, took her by the shoulder and shook her to see if she was shamming.
+
+A crossing cannot be aborted fast. She came back too hard and too shallow, and something came with her: a split in the air above the swan table, tall as a barn door, deep violet along its lips, with a color at its center on which no two witnesses have ever agreed. That was a rupture, a channel struck clean through the Veil, and it stayed struck. Out of it, down onto the good linen, condensed the unresolved content of three thousand plague dead, in the shape of Echo Beasts (what crosses a rupture and sets on this side like a precipitate), each with the character of what formed it and none of its mind, big as carts and bent double, wet in the lungs, and very frightened. The nephew died first, and a third of the band. Four Concordia practitioners rode in from the Guild hall at Ambrel through the night in their sea-blue cloaks, and they sang in relays for three days to re-insulate the channel, and two of them went home to bed for a month. Merrin lived, with more Soul Drift counted against her in one afternoon than most of her trade collect in a career. She went back in the next spring, on the advice of a school I will come to below, and Mowle never did get the word. Measurewrights have argued for sixty years over whether the shake struck the channel or the pits were going regardless, and the argument has the great merit of being unwinnable.
+
+In the bracket towns a crossing is called stepping out, a Thick zone is a wall, and someone who has done too much of it has gone thin. A Guild roll says what follows, and every clause of it is in that afternoon.
 
 ---
 
@@ -64,13 +70,13 @@ tags:
 
 ### Physics
 
-**Phenomenon** · The Veil is a condition, not a place: the membrane where one plane's law softens into another's. Crossing it is evanescent coupling, a wave leaking through a barrier it cannot travel in and resuming on the far side if the barrier is thin enough.
+**Phenomenon** · The Veil is a condition with no address: the membrane where one plane's law softens into another's. Crossing it is evanescent coupling, a wave leaking through a barrier it cannot travel in and resuming on the far side if the barrier is thin enough.
 
 **Law** · Transmission falls exponentially with thickness, T ≈ e^(−2κd); ruptures follow dielectric breakdown (an insulator failing into a self-sustaining channel); Drift follows per-cycle fatigue, damage summed per crossing until it reaches one.
 
 **Limit** · Thickness is a property of the place, not the practitioner, and cost rises by e^(2κΔd): there is no moderately hard crossing.
 
-**Terrain** · Thin zones gather near Wellspring veins, worn ritual sites and mass-death sites; Thick comes from dense material, ward-networks, Silence, or a city's noise drowning the Soul Plane's deeper frequencies.
+**Terrain** · Thin zones gather near Wellspring sites (Cores, in common speech), worn ritual sites and mass-death sites; Thick comes from dense material, close-set wards, Silence, or a city's noise drowning the Soul Plane's deeper frequencies.
 
 **Rupture** (a Veil rupture: a channel struck through the Veil, not a Shell Rupture or Rupture Event) · A struck channel runs at a far lower field than it took to strike and stays struck until re-insulated: it is put out by removing its current or cooling it, never by pushing harder.
 
@@ -97,7 +103,7 @@ tags:
 
 **Secondary** · Somnalis (Fluxia), Eidolyn and Tenebra (Limina) and Mortalis (Vitalia) attach to particular operations.
 
-**Inherited failures** · Transference's reverse coupling empties the practitioner into a depleted ally and couples every stabilised spirit back to them; Anamnesis's thermal resetting erases what it reads; Oneirion's projection error lands a correct working nowhere. Any of them can be induced from outside.
+**Inherited failures** · Transference's reverse coupling empties the practitioner into a depleted ally and couples every stabilized spirit back to them; Anamnesis's thermal resetting erases what it reads; Oneirion's projection error lands a correct working nowhere. Any of them can be induced from outside.
 
 **Theory** · The Residue Position: Thin zones, Mnemata, Echo Beasts and Drift are all residue. Correspondence governs lawful passage: two things alike and near enough, nothing coerced.
 
@@ -121,9 +127,9 @@ tags:
 
 **Drift Scale** · Loosened (0 to 24 points), no outward sign; Thinned (25 to 49), bodily sensation dulls; Unmoored (50 to 74), the Veil feels realer than the body; Adrift (75 to 99), returns come slow and incomplete; Veil Pilgrim at 100.
 
-**Failure** · Field fault: a Thin zone brings contamination, memory bleed and involuntary Bifold; a Thick zone costs exponentially more and muddies readings; at a rupture the planes do not interface, they collide.
+**Failure** · Field fault: a Thin zone brings contamination, memory bleed and involuntary Bifold; a Thick zone costs exponentially more and muddies readings; at a rupture the planes collide, with no interface between them.
 
-**Structural** · Drift is a structural fault paid in instalments; the Veil Pilgrim, patient enough to guide the lost and too thin to remember wanting a body, is the fault completing.
+**Structural** · Drift is a structural fault paid in installments; the Veil Pilgrim, patient enough to guide the lost and too thin to remember wanting a body, is the fault completing.
 
 **Bleed** · Waste leaves the Shell as heat and light: 30 to 40 percent at Refraction, 20 to 30 at Transcendence to Realization, 10 to 15 at Emanation, around a body that is not moving.
 

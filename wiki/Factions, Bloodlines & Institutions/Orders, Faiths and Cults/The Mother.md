@@ -9,17 +9,21 @@ title: The Mother
 >
 > *Malphas, to the Greyshaft Nine culture*
 
+The vines of Lorrimer Vale had three years of black blight behind them when a cooper's daughter named Dorcas Lees, whom the Gate had refused twice, walked into the Vintners' Hall with a stoppered jar and a wooden spoon. One spoon to a row, she said, at the root, and she would take her fee at harvest. By high summer the Vale was so green that carters complained of headaches. The grapes came in the size of plums and black as a bishop's ring, the treaders stood purple to the thigh and sang, and the Vintners' Company carried Dorcas Lees three times around the market on a wine sledge while the crown's herald hung a gold chain on her and cried her name to all four roads. The vintage was the largest the Company had ever entered. They broached it at the Vintage Fair the second year, with the whole county on the benches, and every cask in the Vale was vinegar. Nothing the vintners did would turn it back. The vines went on growing without any care at all, through the walls of the cellars and up the stairs of the houses, in a heavy gleaming leaf nothing would eat, and the ravens sat along the ridge of the Hall and would not come down. Fourteen hundred people had left by the next spring, carrying what they could. The chain was found hanging on a gate. The classifying desk filed the whole Vale as a bleed, no operator indicated, and nobody ever saw Dorcas Lees again, unless the Guild's files are hiding her, and I have read those files.
+
+One spoon of something alive, a result nobody else could get, and a people who wanted it very badly. Now you know everything essential about this cult, and the rest of the page is its methods.
+
 ---
 
 ## What The Mother Is
 
-The Mother is a cult, and it takes its name from the mother of vinegar: the living culture that sours whatever it is added to. Put a spoon of it into good wine and the wine is vinegar within the season, and nothing the vintner does afterward will make it wine again. **The cult means the name exactly.** It does not conquer what it enters. It is added, and the thing it was added to turns.
+The Mother is a cult, and it takes its name from the mother of vinegar: the living culture that sours whatever it is added to. Put a spoon of it into good wine and the wine is vinegar within the season, and nothing the vintner does afterward will make it wine again. **The cult means the name exactly.** It conquers nothing. It is added, and the thing it was added to turns.
 
 Its cells are called **cultures**. A new member is **inoculated**. A culture is small, four or five people and their founder's attention, and it works in a cold place nobody is watching. It does not recruit by sermon. It recruits by offering what the state has refused.
 
 **The founder is a lich**, the Living Cauldron, called Malphas: expelled from the Pyraeon Forge Academy and declared a metaphysical threat, unbound in life, and bound now only to himself. Beside the cultures he keeps a Rot Host in the field under its own commanders. The cultures are the part of him that does not march.
 
-**It began as a method and became a faith.** While the founder lived, The Mother was a cult of his rot-method: its cultures learned the work, ran it where nobody drew, and followed him for what the work could do. Greyshaft Nine was a culture of those years. The Becoming turned it. When the founder ran out of body and did not die, the cult became a religion of the Becoming, and its members now seek his path to undeath and worship the rot. It still recruits by offering what the state has refused. The faith is taught to the inoculated and never preached outside.
+**It began as a method and became a faith.** While the founder lived, The Mother was a cult of his rot-method: its cultures learned the work, ran it where nobody pulled, and followed him for what the work could do. Greyshaft Nine was a culture of those years. The Becoming turned it. When the founder ran out of body and did not die, the cult became a religion of the Becoming, and its members now seek his path to undeath and worship the rot. It still recruits by offering what the state has refused. The faith is taught to the inoculated and never preached outside.
 
 ---
 
@@ -29,7 +33,7 @@ Its cells are called **cultures**. A new member is **inoculated**. A culture is 
 |---|---|
 | **To obtain the unattainable** | Whatever the Gate, the Academy or the law has put out of reach: a forbidden working, a sealed text, a material nobody may buy, a result no lawful bench will run |
 | **To feed the founder's backlog** | He takes in far more than he can turn. His Saturation sits at its ceiling and his Conversion has not moved since he was alive, and every gain since has widened the gap. The cultures run the conversions he cannot run himself |
-| **To break the Gate** | The Gate is the state's lockdown on who may learn which magic: controlled texts, Crystal registration, inspectors, license and exam. The Mother teaches what the Gate forbids to people the Gate has refused, and each one it teaches is a hole in the lockdown |
+| **To break the Gate** | The Gate is the state's lockdown on who may learn which magic: controlled texts, Crystal registration, searchers, license and exam. The Mother teaches what the Gate forbids to people the Gate has refused, and each one it teaches is a hole in the lockdown |
 | **Profit and power** | A culture pays for itself. What it learns is sold, what it makes is used, and what it costs is charged to somebody else |
 
 ---
@@ -45,7 +49,7 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 
 ## How a Culture Works
 
-**It draws nothing, and it couples nothing.** Every attribution a Register has ever signed works off one fact: a practitioner who draws ambient Aether couples it to his Crystal, and coupled Aether keeps the signature of what coupled it. A culture's best work is built so that the signature belongs to something else. At Greyshaft Nine the culture put a formulation into living animals and let the animal's own Lattice run the working, so the residue in the field was signed by the deer. The classifying desk returned it as **a Verdantia bleed, no operator indicated**, closed it in two days, and was right to.
+**It pulls nothing, and it couples nothing.** Every attribution a Register has ever signed works off one fact: a practitioner who pulls ambient Aether couples it to his Crystal, and coupled Aether keeps the signature of what coupled it. A culture's best work is built so that the signature belongs to something else. At Greyshaft Nine the culture put a formulation into living animals and let the animal's own Lattice run the working, so the residue in the field was signed by the deer. The classifying desk returned it as **a Verdantia bleed, no operator indicated**, closed it in two days, and was right to.
 
 **It keeps the hand and the purse apart.** Under the Accord's article on the speaking, liability for a working falls on the person who paid for it. A culture therefore has a buyer who buys in his own name, off lawful contracts, and enters what he takes as wastage. The buyer is the member the cult expects to lose.
 
@@ -57,7 +61,7 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 
 ## A Known Culture: Greyshaft Nine
 
-*A disused coldhouse on a main capped four years, the ice press still turning in the next room.*
+*A disused coldhouse on ground bled empty four years back, the ice-cutters still at work in the next room.*
 
 | Member | Office in the culture |
 |---|---|
@@ -87,13 +91,13 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 
 ## How a Culture Can Be Traced
 
-**Follow the purse.** The buyer draws off a lawful contract, the draw is entered as wastage, wastage is a column in a Logistics return, and the Logistics Division publishes. A reader of the returns finds the line before anyone finds the bench.
+**Follow the purse.** The buyer buys off a lawful contract, the purchase is entered as wastage, wastage is a column in a Logistics return, and the Logistics Division posts its returns in fair copy on the hall door each quarter. A reader of the returns finds the line before anyone finds the bench.
 
 **Follow the name.** The founder writes his projects down on purpose. A name in a private letter has hung a whole case before, and the cult knows it, and uses it anyway.
 
 **Follow the edge.** Where a culture has not yet removed the edge from its work, the edge is the evidence. A boundary means somebody chose one.
 
-**Follow the cold.** Cultures work where nobody draws: capped mains, dead legs, coldhouses and cut districts. The quiet quarters the Watch does not visit are where to look first.
+**Follow the cold.** Cultures work where nobody pulls: bled ground, salted parishes, coldhouses and snuffed quarters (districts whose wardens have been called off). The quiet places the Watch does not visit are where to look first.
 
 **Keep the observer walking.** A culture wants to know what a watcher has written down. An observer who keeps measuring the same ground gives the other side a second set of figures too, and whichever side reads them first has the advantage.
 
@@ -107,7 +111,7 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 
 **Closing the Gate from the other side.** The cult recruits the people the state refuses. A license, a teacher or a lawful place for a refused talent takes away the cult's offer.
 
-**Against the founder himself: volume.** Precision does not beat him and purity does not beat him. Feed him faster than he can convert and he does not grow stronger; he backs up, and the Cauldron becomes a container. Separate him from the Golden Remnant, the second vessel that holds the rest of his Core, and he must choose which one he is using, a choice he has never had to make.
+**Against the founder himself: volume.** Precision does not beat him and purity does not beat him. Feed him faster than he can convert and he backs up instead of growing stronger, and the Cauldron becomes a container. Separate him from the Golden Remnant, the second vessel that holds the rest of his Core, and he must choose which one he is using, a choice he has never had to make.
 
 ---
 

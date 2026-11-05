@@ -188,11 +188,11 @@
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Merit and Severance|Merit and Severance]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Structure and Rank|Structure and Rank]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Black Concord|The Black Concord]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices|The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices|The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem|The Practitioner Problem]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path|The Tiered Path]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord|The Guild Accord]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age|The Powers of the Imperial Age]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages|The Powers of the Dark Ages]]
 
 ## Geography & the Four Quarters
 

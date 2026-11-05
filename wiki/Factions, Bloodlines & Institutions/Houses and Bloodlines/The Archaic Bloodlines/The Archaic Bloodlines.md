@@ -15,6 +15,10 @@ tags:
 >
 > **Thread, Weight, Breath. Purpose, Form, Meaning. Three Epochs. Three bloodlines. Three ways of holding reality together.**
 
+Tessaly Wray was a junior Measurewright, nine years out of her indentures and frightened of nobody, when she hired a wool hall at Kessen ford in the wet spring of 533, hung it with Accord blue, and announced at a silver a seat that she would put the old blood under a brass assay coil in front of witnesses and settle the matter. Six hundred people came, some of them with lunch. A Byakuya lady in near-white sat down first, and the coil gave her Stage to the rung and Tier to the mark, clean as a butcher's scale, and of the thing looking out of her eyes it gave nothing whatever. A Yukari cousin in black with silver at the cuffs sat down next, and the coil did exactly the same, and while it did he told the coil's maker, from the chair, in a mild voice, which of its windings had been cut by a man in debt, and to whom. The hall came apart with joy. Wray's report ran to six lines. The Accord sealed it, fined her the seat money and took her post, and she went off to keep bees and tell the story to anyone who bought her a drink, which is how I have it.
+
+Every roll in the world is built to pretend that afternoon never happened. Here is why it did.
+
 ---
 
 ## The Triune Equation
@@ -39,7 +43,7 @@ flowchart TD
 
 ## What the Three Have in Common
 
-**None of them is a noble house.** All three predate every crown currently sitting, and all three hold an inheritance that a crown cannot confer and a coil cannot fully measure. This is the specific fact that makes them politically dangerous: **the Accord's whole legitimacy rests on measurement recognising no bloodline, and these are the bloodlines the measurement cannot fully account for.**
+**None of them is a noble house.** All three predate every crown currently sitting, and all three hold an inheritance that a crown cannot confer and a coil cannot fully measure. This is the specific fact that makes them politically dangerous: **the Accord's whole legitimacy rests on measurement recognizing no bloodline, and these are the bloodlines the measurement cannot fully account for.**
 > And all three inheritances are **perceptual before they are martial.** The Shingan determines what layer of reality the bearer can see. The Everlasting Eyes reveal where the body, soul and Aether system can be broken. The Ketsumyōgan reads the connective tissue between planes.
 >
 > **Three archaic bloodlines, and every one of them is fundamentally an eye.**
@@ -57,7 +61,7 @@ The oldest inter-house tension in mortal history is between the Moto and the Yuk
 >
 > *To claim ownership of the threads is, in the Yukari tradition, like claiming ownership of gravity: a statement that reveals more about the claimant's need for control than about the nature of the thing being claimed.*
 >
-> The Moto fear the Yukari **the way a government fears a free press**: not because the press can overthrow the government, but because the press can see what the government is doing, **and the seeing itself is an uncontrollable form of power.** That the press is an Epoch's own family makes it worse.
+> The Moto fear the Yukari **the way a chancery fears a witness it cannot swear in**: such a witness could never overthrow the chancery and has no wish to, and she can see what the chancery is doing, **and the seeing itself is an uncontrollable form of power.** That the witness is an Epoch's own family makes it worse.
 The Zettari sit outside that quarrel entirely. Their response to the Yukari has been consistent across every era: **not friendship, not alliance: respect**, in the Zettari sense. *The acknowledgment that another being's function is lawful, useful, and complementary to one's own, and that the being who performs it deserves to be left alone to perform it.*
 > When a Zettari meets a Yukari, the response is typically a nod. **Not a bow. Not a salute. A nod.**
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline]]

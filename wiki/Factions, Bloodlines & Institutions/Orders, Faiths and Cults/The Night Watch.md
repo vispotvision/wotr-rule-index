@@ -4,10 +4,14 @@ title: The Night Watch
 
 # The Night Watch
 
-*The Night Watch Society · crown-chartered, older than the Guild Accord · its walkers count, its bulletin office prints, its Register keeps*
+*The Night Watch Society · crown-chartered, older than the Guild Accord · its walkers count, its copy-house copies, its Register keeps*
 > *"I checked the far side twice."*
 >
 > *Nol Tally, Timberline chapter, North Ferriby walk, in his insert*
+
+For six winters Marl Abbey grew apples in the snow. They hung red and gold on black boughs above the drifts, under a sky full of painted banners, and pilgrims came up the Ambrel road by the thousand to eat one and be cured of something. Abbot Hugh Sedgewick built three inns and a cider hall on the proceeds, the fair ran from first frost to the thaw, and the Bureau's northern office sampled the orchard twice and returned it as a Verdantia bleed, a Wellspring's natural overflow, no operator indicated. Annora Stell walked the Marl walk for the Watch, thirty-eight miles of it a week, and for seven years her filing carried one line nobody read: the fieldfares, which strip every orchard in the north by midwinter, were not coming down. So she took to measuring. Every week she stood on a borrowed stool under one bough, in her patched forester's green with the crowd howling at her, and put a rule against one apple and wrote the number down. They threw things. Somebody poisoned her dog. At the hearing, in the abbey's own hall with a thousand people outside it singing, she laid out seven years of count against a run of purse entries the Register had been patient about, and the two columns between them showed the abbot paying a grafter out of the far marches, four times a year, for something that kept the fruit swelling long after it should have dropped and made every bird alive refuse it. The orchard burned for two days with a smell of burnt sugar you could catch at Ambrel. The fair never came back, and neither did the town's trade, and nobody in that parish spoke one word to Marrable for the nineteen years she went on walking it.
+
+That is the Watch, entire. It has a rule, a fixed line and a stubborn person, it is seldom thanked, and it will be there next week.
 
 ---
 
@@ -21,7 +25,7 @@ The Night Watch investigates illegal magic and the phenomena the law has no name
 
 ---
 
-## How It Is Organised
+## How It Is Organized
 
 | Part | What it does |
 |---|---|
@@ -29,7 +33,7 @@ The Night Watch investigates illegal magic and the phenomena the law has no name
 | **The walks** | Fixed lines, each held by one walker. The walker goes out on the same walk every week, counts what the ground holds, and gives the place by the nearest stone. The North Ferriby walk is forty miles of timber a week |
 | **The walkers** | Foresters and counters. A walker's count goes in as a filing under his name, his chapter and his walk: *Tally, N., Timberline chapter, North Ferriby walk* |
 | **The coil-carriers** | A chapter's instrument hands. When a walker's find wants sealing, the coil-carrier goes out to the ground with a tin, seals the sample standing in it under the chapter's wax, and assays it at the chapter bench |
-| **The bulletin office** | Takes in the chapters' filings and prints them as **inserts** on the cheapest rag it can buy, so the ink bleeds into the fiber. Inserts go out in bundles. The office cuts for length |
+| **The copy-house** (the bulletin office, on older rolls) | Takes in the chapters' filings and has hired scriveners, paid by the line, copy them out as **inserts** on the cheapest rag it can buy, so the ink bleeds into the fiber. Inserts go out in bundles by carrier and relay rider. The house cuts for length |
 | **The Night Register** | Takes up what the Lattice Classification Bureau closes |
 
 ---
@@ -38,7 +42,7 @@ The Night Watch investigates illegal magic and the phenomena the law has no name
 
 A filing the Bureau closes does not end there. **It goes to the Night Register.**
 
-The Register is a desk on Cutler Row, worked at night while the district main is off, from the eleventh division to the sixth. An unlicensed draw is inaudible at noon and unmistakable at three, and that is half the reason the desk exists. Its officer carries the address **Warden of Duty** and a token of brass rather than silver, because the Register is not a full desk. The Warden who keeps it now is Wystan Ashmore, who has held the title four years and has never once used it to get a document, a reading, or an hour of a scholar's time.
+The Register is a desk on Cutler Row, worked at night from the eleventh division to the sixth. An unlicensed pull is inaudible at noon, under every warm stone, ward and noodle knife in the district, and unmistakable at three, with nothing else running but the lamp-wardens' threads, and that is half the reason the desk exists. Its officer carries the address **Warden of Duty** and a token of brass rather than silver, because the Register is not a full desk. The Warden who keeps it now is Wystan Ashmore, who has held the title four years and has never once used it to get a document, a reading, or an hour of a scholar's time.
 
 **A filing becomes an exhibit under the Register's brass.** A sample sealed in the field under the chapter's wax is a Society filing. When the Register takes it up, it goes into a fresh tin, the wax is struck with the Warden's brass, and from then on it is a Register exhibit. The assayer's full name goes at the head of the docket, lineage, generation character and courtesy, in the hand she was taught, because if the matter ends in a hearing the assay is where the other side comes first.
 
@@ -54,7 +58,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 
 **The tin.** Samples go into Fixatio-anchored evidence tins, sealed inside the hour, standing on the ground. Fixatio holds what it is given. That is why an evidence seal is admissible.
 
-**The assay.** Ambient is read before and after, as a number, not an adjective. The sample is loaded dry, with no wash, so nothing soluble is lost. Then four passes: a Signature sweep, a Family sweep, Category alignment, and a full sweep with the gate open. A gate-open pass on a null field burns the coil, and a coil-carrier who expects to use one carries two.
+**The assay.** Ambient is read before and after, as a number, never an adjective. The sample is loaded dry, with no wash, so nothing soluble is lost. Then four passes: a Signature sweep, a Family sweep, Category alignment, and a full sweep with the gate open. A gate-open pass on a null field burns the coil, and a coil-carrier who expects to use one carries two.
 
 **Below the floor.** A regulation coil looks for Crystals above the Bureau's floor, because the Bureau pays for it and the Bureau prosecutes people. The Register sweeps below that floor, down to the bottom of the range. For a minute and a half it reads nothing but noise, and the carrier holds the head steady through the noise. That is where a residue signed by something other than a practitioner shows: a Crystal at the bottom of the tier table, with no Path, no doctrine and no Domain seed in it. It burns coils.
 
@@ -87,7 +91,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 
 **Its instruments are built for someone else.** A regulation coil reads what the Bureau pays it to read. Going below the floor costs coils.
 
-**Its paper is cheap and cut.** The bulletin office prints on the cheapest rag it can buy and cuts for length. The last paragraph of the Ferriby insert, the one with the ravens and the far side in it, was nearly cut.
+**Its paper is cheap and cut.** The copy-house buys the cheapest rag it can find, pays by the line and cuts for length. The last paragraph of the Ferriby insert, the one with the ravens and the far side in it, was nearly cut.
 
 **Its Register is not a full desk.** A brass token, a title nobody in the districts uses, and its officer reading inserts at the third hour.
 
@@ -104,7 +108,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 - **A man with a rule** measuring something dead and writing the number down.
 - **A coil walked slowly along a wall** at chest height, the carrier watching the wire and not the room.
 - **A regulation bracelet**: brass bands wound with fine gray wire, seated against the inside of the wrist, guild proof-marks on the outer band.
-- **A lamp lit at the third hour** on a street whose main is off.
+- **A lamp in an upper window at the third hour**, on a street with nobody else awake.
 - **Brass where a full desk would carry silver.**
 - **A burned coil.**
 
@@ -113,10 +117,10 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 ## Where the Seams Are
 
 *The Watch shows its interests in the open, and each of them can be found and used.*
-- **File an insert.** A walker's filing reaches the bulletin office under his name, and what the Bureau closes goes on to the Register. The Register keeps what a desk has closed.
-- **Ask the clerk.** The bulletin office clerk will say where a closed filing goes, and that the Night Register is a person.
+- **File an insert.** A walker's filing reaches the copy-house under his name, and what the Bureau closes goes on to the Register. The Register keeps what a desk has closed.
+- **Ask the clerk.** The copy-house clerk will say where a closed filing goes, and that the Night Register is a person.
 - **Read the inserts.** They go out in bundles on cheap rag. Anyone who reads them learns which observer is walking which ground, and so does anyone on the other side.
-- **Find the paragraph that was nearly cut.** The office cuts for length, and the part it cuts can be the part nobody else has noticed.
+- **Find the paragraph that was nearly cut.** The house cuts for length, and the part it cuts can be the part nobody else has noticed.
 - **Sweep below the floor.** A clean assay means only that nothing signed above the Bureau's floor. A spare coil and the nerve to hold through the noise can find what signed below it.
 - **Bring a ledger.** The Register can seldom charge a hand. It can charge whoever paid, and a party that brings it a purse brings it a case.
 - **Mind the seal.** Under chapter wax a sample is a Society filing; under the Register's brass it is an exhibit. Which seal is on the tin decides whose case it is, and whose name heads the docket.
@@ -130,4 +134,4 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 **Sancta Lux's Inquisitors** are the Church's lateral office, sent after unconsecrated high working wherever the Church holds standing, with authority to pronounce sentence in the field without an Arbiter. The Watch works the other way: it counts, seals and files, and its cases go to a hearing. **The Holy Inquisition**, which took the Inquisitor's name without the Church's leave, claims the same work and prosecutes it by fire. It is lawful where the crowns and churches that back it rule, and outlawed where the Accord's circles have signed.
 
 **The Mother** watches the Watch more closely than any other power, because its observers carry no signature the cult can follow. Its Greyshaft Nine culture knew the Ferriby walker by name, knew that the coil-carrier had not filed her clean return, and set its next work to leave no line anywhere a walker could stand at and check the far side of.
-> Asked whether the Night Register was a person, the bulletin office clerk said it was.
+> Asked whether the Night Register was a person, the copy-house clerk said it was.

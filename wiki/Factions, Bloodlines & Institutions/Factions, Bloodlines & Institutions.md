@@ -14,9 +14,11 @@ tags:
 >
 > *Neither side says this out loud. Both sides have costed it.*
 >
-> *"Balance before Dominion."* — carved into every Guild Hall gate across every realm
+> *"Balance before Dominion."* Carved into every Guild Hall gate across every realm.
 
 ---
+
+In Year 706 the Reeve of Wick Cross hanged a Guild Adept in her blue-sealed sash for a killing done with a working, and the Accord sent no soldiers. Inside the month no weight in that shire could be proved, no factor would take its bills, and the Midsummer fair pitched on the far bank of the river, in a blaze of pennants plainly visible from the gibbet. The Reeve stood it until harvest. Then he cut her down with his own hands, paid a fine to the last copper in open market, kept the right to hang, and went home believing he had won, and so did they.
 
 ## The Argument This Section Is About
 
@@ -25,8 +27,8 @@ Every institution in the four quarters is an answer to one question: **on what g
 
 | Institution | Its claim | Its vulnerability |
 |---|---|---|
-| **The Guild Accord** | Legitimacy by measurement. It recognises no bloodline, honors rank in every member polity, and issues the only portable legal identity most people will ever hold | It is a bureaucracy that compresses what it administers, and **it has a sixth Division whose existence the public Codex does not acknowledge** |
-| **The archaic bloodlines** | Legitimacy by descent, and the descent is not metaphorical — three of them trace to the three Epochs directly | A crown passes to a body. **A kingdom whose heir assays weak has a strategic problem no amount of ancestry solves** |
+| **The Guild Accord** | Legitimacy by measurement. It recognizes no bloodline, honors rank in every member polity, and issues the only portable legal identity most people will ever hold | It is a bureaucracy that compresses what it administers, and **it has a sixth Division whose existence the public Codex does not acknowledge** |
+| **The archaic bloodlines** | Legitimacy by descent, and the descent is meant literally: three of them trace to the three Epochs directly | A crown passes to a body. **A kingdom whose heir assays weak has a strategic problem no amount of ancestry solves** |
 | **The third parties** | Sancta Lux, the Bench of Attribution, and the Paths each claim an authority that answers to neither crown nor coil | Being answerable to no one is only an advantage until somebody asks who audits you |
 
 ---
@@ -47,9 +49,9 @@ Every institution in the four quarters is an answer to one question: **on what g
 
 **Sancta Lux** is the order that does not worship and says so in the first line of its own catechism. **The Bench of Attribution** is the most consequential body in the four quarters and the only one with no seat on the Concord Council.
 
-**The Archaic Bloodlines** carries the Moto, the Zettari with the Paths beneath them, the Yukari, and the Agamalu — three Epochs, three inheritances, and a fourth house that inherited the harder portion.
+**The Archaic Bloodlines** carries the Moto, the Zettari with the Paths beneath them, the Yukari, and the Agamalu: three Epochs, three inheritances, and a fourth house that inherited the harder portion.
 
-**The Powers of the Imperial Age** sets the crowns, the great houses, the orders, the guilds and the chartered companies side by side: what each wants, what it holds, how it fights, who it is set against, and where the three layers of rule meet and quarrel.
+**The Powers of the Dark Ages** sets the crowns, the great houses, the orders, the guilds, the sects and the chartered companies side by side: what each wants, what it holds, how it fights, who it is set against, and where the three layers of rule meet and quarrel.
 
 ### Authority by measurement, descent and attribution
 
@@ -74,22 +76,14 @@ Every institution in the four quarters is an answer to one question: **on what g
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity]]
 > **The law, in articles.** **The Articles of the Accord, and the Kinds of Polity** gives the actual text: twenty-eight numbered articles across six titles, each with its register name, its plain name, and its penalty.
 > 
-> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveler's plea heard and determined before the market closes — is the single rule that built the whole system.
+> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot**, a traveler's plea heard and determined before the market closes, is the single rule that built the whole system.
 > 
 > Article XV is the one to know: **the speaking is not licensed and the Accord has never found a way to license it**, because a spoken working has no author in its own grammar. The Bench spent four hundred years trying to place a mouth at a scene and then legislated around it. Liability falls on whoever paid.
 > 
 > The second half sets out the seven forms of polity the Accord has to reach across, from the composite monarchy of the Concord to Stannvaard's oligarchic republic, the Mandate's standing decree, the Keth-Gorrum's sealed parliament, Iampu's rotating crown, the Echo Elf confederation and Eresse's calendrical principality. **And Kharven, which sits outside the typology entirely** and never asked the Accord for an instrument until the first circle was signed in its own lower hall.
 > 
-> **Companion piece.** *The Guild Accord in the Modern Era*, under the Guild Accord page, covers the institution rather than its law: where its reach actually ends, the Divisions as rivals, the politics of the High Concordant, the company and academy structures, and the great offices. It also supersedes the old Accord register — no terminals, no projected sigils, no floating numbers.
->
-> The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveler's plea heard and determined before the market closes — is the single rule that built the whole system.
->
-> Article XV is the one to know: **the speaking is not licensed and the Accord has never found a way to license it**, because a spoken working has no author in its own grammar. The Bench spent four hundred years trying to place a mouth at a scene and then legislated around it. Liability falls on whoever paid.
->
-> The second half sets out the seven forms of polity the Accord has to reach across, from the composite monarchy of the Concord to Stannvaard's oligarchic republic, the Mandate's standing decree, the Keth-Gorrum's sealed parliament, Iampu's rotating crown, the Echo Elf confederation and Eresse's calendrical principality. **And Kharven, which sits outside the typology entirely** and has never asked the Accord for an instrument.
->
-> **Companion piece.** *The Guild Accord in the Modern Era*, under the Guild Accord page, covers the institution rather than its law: where its reach actually ends, the Divisions as rivals, the politics of the High Concordant, the company and academy structures, and the great offices. It also supersedes the old Accord register — no terminals, no projected sigils, no floating numbers.
+> **Companion piece.** *The Guild Accord in the Dark Ages*, under the Guild Accord page, covers the institution rather than its law: where its reach actually ends, the Divisions as rivals, the politics of the High Concordant, the company and academy structures, and the great offices. It also supersedes the old Accord register: no Lattice-stones, no sigils hung in the air, no floating numbers.
 - [[Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Holy Inquisition]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages]]
 - [[Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Mother]]
 - [[Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Night Watch]]

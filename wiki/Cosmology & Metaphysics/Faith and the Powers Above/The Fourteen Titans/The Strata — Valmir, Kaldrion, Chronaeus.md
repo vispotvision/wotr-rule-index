@@ -4,14 +4,19 @@ title: The Strata — Valmir, Kaldrion, Chronaeus
 
 # The Strata — Valmir, Kaldrion, Chronaeus
 
+Margrave Rollo Tollen of Kesterby raised the Golden Stair in Year 488, a bell tower sheathed from foot to crown in gilt copper scales, so bright at noon that carters three days off steered by it, and he raised it after sending the Stone Choir away. Their chanter, a stout, cheerful woman named Wren Maddock, had gone up the scaffold, laid her ear against the third course, listened for about as long as it takes to eat an apple, and told him it would bear what he was asking for thirty-one years, provided nobody rang the great bell in a hard frost. He had her thrown down the scaffold steps, hired Parunic reinforcers from the Concord at double rates, and cut his own name in the doorstone. It stood thirty-one years. On a white midwinter morning in Year 519 his grandson was invested as Margrave, four hundred guests in vermilion and ermine crowded the ringing floors to be seen from the square, and six men put their backs to the great bell's rope. Every floor inside the tower dropped at once, in one stroke, straight down, each landing neatly on the last. Not one gilt scale slipped on the outside. The crowd in the square, which had been promised a great noise, heard the greatest noise of their lives, saw the Stair blazing in the cold sun, and cheered for most of a minute. Then the dust began to roll out of the door, gold in the light.
+
+The Ledger Monks came up from Hallow Reach within the week. The new Margrave had lost a mother in it, and his first order was that the old man's failure be struck from the Dynasty Hall. They refused him in front of his household, entered it in ink and went home. The Stair stands there still, gilt and perfect, and for a copper the sexton will let you look in at the door at the tall neat heap, with pigeons on it. I keep the three Titans of this page straight by that morning, and so can you.
+
 > Collapse, load and pace. The three most frequently confused Titans in the register, and the confusion is worth correcting once and properly. **Kaldrion decides whether a thing can bear what is being asked of it. Valmir decides when it has endured enough to be permitted to end. Chronaeus decides how fast the question gets asked.**
 
 ---
 
-## VALMIR — The Titan of the Crevice
+## VALMIR: The Titan of the Crevice
 
 > *"All things must fall to reveal their shape."*
-**Seat**  Prime Entropic Titan of the Material Substrata, the Crevice. Arose from the voided residue left after Aegor crystallised space and time.
+
+**Seat**  Prime Entropic Titan of the Material Substrata, the Crevice. Arose from the voided residue left after Aegor crystallized space and time.
 
 **Domain**  Entropy, Transition, Collapse, Threshold, Renewal through Ruin
 
@@ -27,13 +32,13 @@ The fulcrum of renewal, and the reason entropy functions as a key rather than a 
 
 ### The Record
 
-He first appeared in the explosion that split the Proto-Sphere into realms, devoured the debris and reshaped it into the Crevice, a permanent scar joining the spiritual and material layers. When Erebus began whispering void it was Valmir who prevented total erasure by redirecting the corruption downward and burying it under his mantle, forming the first Abyssal Vault. His tremors during the Great Spirit War were mistaken for omens, and his intervention kept the Veil from shattering outright, at the cost of consuming entire armies into the Crevice to stabilise the flow. His Wellspring woke violently during the Pyrrhean Epidemic and released Gloamrot as a byproduct, an entropic crystallisation of Aetheric sickness that nearly ended the world and then rebalanced planetary Essence once the infection completed its cycle. The Crevice remains sealed by a tri-epochal sacrifice, and faint Valmiric pulses still ripple through the Mantle every thousand years. The Dawi treat those tremors as holy music and call them the Song of the Stone Heart.
+He first appeared in the explosion that split the Proto-Sphere into realms, devoured the debris and reshaped it into the Crevice, a permanent scar joining the spiritual and material layers. When Erebus began whispering void it was Valmir who prevented total erasure by redirecting the corruption downward and burying it under his mantle, forming the first Abyssal Vault. His tremors during the Great Spirit War were mistaken for omens, and his intervention kept the Veil from shattering outright, at the cost of consuming entire armies into the Crevice to stabilize the flow. His Wellspring woke violently during the Pyrrhean Epidemic (the old registers' name; the Guild's Errata withdraws it as an era and files these events under the Antediluvian collapse, about −550 to −450) and released Gloamrot as a byproduct, an entropic crystallization of Aetheric sickness that nearly ended the world and then rebalanced planetary Essence once the infection completed its cycle. The Crevice remains sealed by a tri-epochal sacrifice, and faint Valmiric pulses still ripple through the Mantle every thousand years. The Dawi treat those tremors as holy music and call them the Song of the Stone Heart.
 
 ### Bonds
 
-Aegor, Body, Epoch. Stabilises the form before it shatters. Bairos, Fate, Epoch. Times every collapse exactly. Maelor, Memory. Preserves the imprint of what has fallen, ensuring no ending is meaningless.
+Aegor, Body, Epoch. Stabilizes the form before it shatters. Bairos, Fate, Epoch. Times every collapse exactly. Maelor, Memory. Preserves the imprint of what has fallen, ensuring no ending is meaningless.
 
-### The Titan-Keyed Art — *The Canyon's Patience*
+### The Titan-Keyed Art: *The Canyon's Patience*
 
 *Offensive · Vectoria · Fractura · Mechanics · Zenith+ · [Uur] Disruption + [Vorn] End*
 
@@ -55,32 +60,33 @@ Aegor, Body, Epoch. Stabilises the form before it shatters. Bairos, Fate, Epoch.
 
 ---
 
-## KALDRION — The Hexthrone
+## KALDRION: The Hexthrone
 
 > *"Measure, or be broken."*
+
 **Seat**  Prime Lithotheic Titan of the Material Strata, Burden Architecture. Born when the first mountains rose too quickly and shattered under their own magnificence.
 
 **Domain**  Structure, Burden, Crystal Lattice, Foundation, Bearing, Weight
 
-**Ground**  The Wellspring of Foundation, called the Deep Grid. A hexagonal lattice of mineralised Aether beneath the oldest crust that distributes pressure instead of flowing or storming.
+**Ground**  The Wellspring of Foundation, called the Deep Grid. A hexagonal lattice of mineralized Aether beneath the oldest crust that distributes pressure instead of flowing or storming.
 
 ### Manifestation
 
-A colossal seated titan half-fused with a throne of black stone and pale crystal, his body carved from layered strata rather than flesh. His shoulders are mountain ridges. His ribs stand exposed like buttresses under cracked marble skin, and from his back rise six immense crystalline pillars like the teeth of a buried crown. His face carries no anger, only impossible concentration, the look of something forever listening to the groan of worlds under load. He moves with devastating slowness, each gesture preceded by grinding bedrock and followed by the realignment of stress-lines across vast distance. His voice arrives as strain before it arrives as sound. The creak of timber. The sigh of a bridge. The subterranean moan before a faultline goes.
+A colossal seated titan half-fused with a throne of black stone and pale crystal, his body carved from layered strata rather than flesh. His shoulders are mountain ridges. His ribs stand exposed like buttresses under cracked marble skin, and from his back rise six immense crystalline pillars like the teeth of a buried crown. His face carries no anger, only impossible concentration, the look of something forever listening to the groan of worlds under load. He moves with devastating slowness, each gesture preceded by grinding bedrock and followed by the realignment of stress-lines across vast distance. His voice arrives as strain before it arrives as sound: the creak of timber, the sigh of a bridge, the subterranean moan before a faultline goes.
 
 ### The Load
 
-The guarantee that creation does not collapse under its own ambition. He teaches stone how to carry, cities how to settle, and civilisations how not to build their grandeur on a single doomed beam. He reinforces what is honestly made and quietly condemns what is raised on vanity, imbalance or theft. After a cataclysm it is Kaldrion who decides which ruins stand long enough to become memory and which are swallowed by their own weight. He is the hidden discipline beneath architecture, fortification, reliquary, tomb and Soul Crystal vaultwork, and without him every age lives in fear of its own ceilings.
+The guarantee that creation does not collapse under its own ambition. He teaches stone how to carry, cities how to settle, and civilizations how not to build their grandeur on a single doomed beam. He reinforces what is honestly made and quietly condemns what is raised on vanity, imbalance or theft. After a cataclysm it is Kaldrion who decides which ruins stand long enough to become memory and which are swallowed by their own weight. He is the hidden discipline beneath architecture, fortification, reliquary, tomb and Soul Crystal vaultwork, and without him every age lives in fear of its own ceilings.
 
 ### The Record
 
-When the first continents rose from Gaia's mantle many split and sank because their mass had no discipline. His waking taught the crust to distribute pressure, gave mountains roots and coastlines patience, and produced the first stable ranges and the deep mineral bones of the world. Domain-citadels fell by the thousand in the Great Spirit Wars and not equally. Fortresses raised with honest measure endured assaults that should have annihilated them, while monuments built for pride cracked from within before an enemy blow ever landed, and generals came to fear not the siege engine but the possibility that Kaldrion had already judged their walls. As Uurgath's entropy spread he let certain districts stand just long enough for evacuation, holding impossible loads through Titan will and then releasing them all at once, which is why some ruins in the modern age appear almost intact at the outer shell and are internally collapsed in perfect merciless symmetry. Early Concord engineers nearly destroyed themselves trusting Parunic reinforcement over structural truth, and he answered with a generation of settling catastrophes until architects relearned humility. The load glyph systems beneath every Concord megastructure are, knowingly or not, prayers to his patience.
+When the first lands rose from Gaia's mantle many split and sank because their mass had no discipline. His waking taught the crust to distribute pressure, gave mountains roots and coastlines patience, and produced the first stable ranges, the deep mineral bones of the world, and in the end the one body of land every date on the count is written on. Domain-citadels fell by the thousand in the Great Spirit War and not equally. Fortresses raised with honest measure endured assaults that should have annihilated them, while monuments built for pride cracked from within before an enemy blow ever landed, and generals came to fear the possibility that Kaldrion had already judged their walls more than they feared any siege engine. As Uurgath's entropy spread he let certain districts stand just long enough for evacuation, holding impossible loads through Titan will and then releasing them all at once, which is why some ruins in this age appear almost intact at the outer shell and are internally collapsed in perfect merciless symmetry. Early Concord engineers nearly destroyed themselves trusting Parunic reinforcement over structural truth, and he answered with a generation of settling catastrophes until architects relearned humility. The load glyphs cut beneath every great Concord work are, knowingly or not, prayers to his patience.
 
 ### Bonds
 
 Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion, Balance. Ensures burden is distributed justly rather than piled in arrogance on a single pillar. Auren, Stillness. Grants the quiet permanence through which structures endure and tombs remain honest.
 
-### The Titan-Keyed Art — *The Deep Grid's Verdict*
+### The Titan-Keyed Art: *The Deep Grid's Verdict*
 
 *Supplementary · Vectoria · Petralon · Mechanics · Zenith+ · [Th] Foundation + [Ur] Balance*
 
@@ -102,14 +108,15 @@ Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion,
 
 ---
 
-## CHRONAEUS — The Clock of Ages
+## CHRONAEUS: The Clock of Ages
 
 > *"Time does not pass. It is spent. I collect the cost."*
+
 **Seat**  Prime Chronothetic Titan of the Spiritual Strata, Era Mechanism. Forged when the first cycles of creation failed to hold and required a force that would not let stasis become forever.
 
 **Domain**  Inevitability, Timeflow, Historical Momentum, Accumulated Consequence, Pace of Eras
 
-**Ground**  The Wellspring of Continuum, called the Fossil Ring. A toroidal band of condensed fossilised time encircling the outermost Celestial strata, regulating the rise and fall of every other Wellspring.
+**Ground**  The Wellspring of Continuum, called the Fossil Ring. A toroidal band of condensed fossilized time encircling the outermost Celestial strata, regulating the rise and fall of every other Wellspring.
 
 ### Manifestation
 
@@ -117,21 +124,21 @@ A colossal hooded figure fused into an immense slowly turning ring of stone and 
 
 ### The Load
 
-The guarantee that time moves with consequence. He refuses endless beginnings and endless middles both, and every era must crest and break. He accelerates stagnation toward reckoning and slows runaway catastrophe just enough for meaning to take root. After Valmir's fractures and Zar'thuun's terrors he compacts the debris of events into layers so that future ages stand on bedrock rather than chaos. He is the secret pressure behind every inevitable war and revolution, not by choosing a side but by refusing to let unresolved tension remain unresolved forever. Without him time still passes and nothing sticks. History smears into an endless present with no lessons and no ledger.
+The guarantee that time moves with consequence. He refuses endless beginnings and endless middles both, and every era must crest and break. He accelerates stagnation toward reckoning and slows runaway catastrophe just enough for meaning to take root. After Valmir's fractures and Zar'thuun's terrors he compacts the debris of events into layers so that future ages stand on bedrock rather than chaos. He is the secret pressure behind every inevitable war and revolution. He chooses no side, and he refuses to let unresolved tension remain unresolved forever. Without him time still passes and nothing sticks. History smears into an endless present with no lessons and no ledger.
 
 ### The Record
 
-When early Realms lingered in endless golden ages he quietly increased their temporal pressure until harvests failed, immortal courts found their intrigues turning lethal, and perfect cities discovered that boredom breeds monsters. The first genuinely aging civilisations came out of that. As the Great Spirit Wars threatened to grind on forever with neither side able to land a final blow, he weighted supply lines and morale until tiny delays multiplied into disastrous shortages and forgotten grudges ripened into mutiny at decisive hours, pushing the war to an actual conclusion at the cost of entire cultures burned out before their time. Every empire that believed itself timeless felt him as sudden collapse, though the fall was merely the end of a long patient grind, and he hardened those lessons into historical strata so future rulers would dream on bones they could not ignore. When the Concord Gates began stitching Realms together too quickly he did not slow them. He leaned in. Many codices call the Fractured Era *Chronaeus's Experiment*, an age in which he turned the gear one notch faster and watched who could bear the tempo.
+When early Realms lingered in endless golden ages he quietly increased their temporal pressure until harvests failed, immortal courts found their intrigues turning lethal, and perfect cities discovered that boredom breeds monsters. The first genuinely aging civilizations came out of that. As the Great Spirit War threatened to grind on forever with neither side able to land a final blow, he weighted supply lines and morale until tiny delays multiplied into disastrous shortages and forgotten grudges ripened into mutiny at decisive hours, pushing the war to an actual conclusion at the cost of entire cultures burned out before their time. Every empire that believed itself timeless felt him as sudden collapse, though the fall was merely the end of a long patient grind, and he hardened those lessons into historical strata so future rulers would dream on bones they could not ignore. When the Concord Gates began stitching Realms together too quickly he did not slow them. He leaned in. Many codices call the Fractured Era *Chronaeus's Experiment*, an age in which he turned the gear one notch faster and watched who could bear the tempo. (No sealed chronology has a Fractured Era. The Guild's Errata reads the name as Divisional correspondence and therefore as opinion, and so should you.)
 
 ### Bonds
 
 Valen, Time. Defines the covenant of sequence, which Chronaeus enforces the pace of. Urion, Balance. Ensures the speed of consequence matches the gravity of the action. Maelor, Memory. Preserves the record of what Chronaeus has already ground into fact.
 
-### The Titan-Keyed Art — *The Era-Forge's Toll*
+### The Titan-Keyed Art: *The Era-Forge's Toll*
 
 *Offensive · Limina · Lethegraal · Abstract/Entropic Systems · Zenith+ · [Cro] Cycle + [Len] Line*
 
-**Trigger**  A conflict or an era that has genuinely stalled. Not merely slow. Structurally unable to resolve on its own.
+**Trigger**  A conflict or an era that has genuinely stalled. A merely slow one will not serve; it must be structurally unable to resolve on its own.
 
 **Effect**  Compacts unresolved tension in a Domain into forced historical resolution, ending a stalled conflict or a stagnant era by grinding it forward on accumulated consequence alone. The stall reaches a genuine resolution point, for good or ill, instead of continuing indefinitely.
 

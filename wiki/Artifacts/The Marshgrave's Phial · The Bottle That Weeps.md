@@ -6,9 +6,11 @@ title: The Marshgrave's Phial · The Bottle That Weeps
 
 ## The Marshgrave's Phial · The Bottle That Weeps
 
+Reeve Godric Pask of Sallow End was healed by the Marshgrave's Phial twice during the Plague-Tide Purge, once of the rot and once of what the first draught did to his leg, and after the second time he grew a beard of small orange mushrooms. They came in along the jaw that autumn, frilled and rather handsome, and they never left. They also tasted excellent. He sold them at market for the next nineteen years, under a painted sign, to people who wanted to be able to say they had eaten something off a man the Verdant Rot had brought back from the dead, and on his deathbed he left the rights to his nephew, who found out how the rights worked. The villages Karasaki Hozume cleansed in that year mostly came through with less to show for it. The phial was black on one bank and emerald on the other, and it did not distinguish a wise pour from a stupid one, and that year nobody had time to make the distinction for it.
+
 ### What it is
 
-A phial of green swampglass stoppered with bone, always holding a small quantity of glowing swampwater no matter how much has been poured from it. The liquid shifts between rot-black and vibrant emerald depending on which of its two effects has last been drawn. It was crafted and consecrated during Hozume's exile, and it runs on the same Mortalis-and-Verdantia pairing that underlies his own Signature technique, the Hollow Bloom, rather than on a separate current of its own.
+A phial of green swampglass stoppered with bone, always holding a small quantity of glowing swampwater no matter how much has been poured from it. The liquid shifts between rot-black and vibrant emerald depending on which of its two effects has last been drawn. It was crafted and consecrated during Hozume's exile, and it runs on the same Mortalis-and-Verdantia pairing that underlies his own Signature technique, the Hollow Bloom, rather than on a separate Aether of its own.
 
 ### Physical account
 
@@ -20,7 +22,7 @@ Not a weapon; the armor-tier field the Item Guide requires for weapon entries do
 
 **Marsh-Bloom.** Trigger: the fluid spilled directly onto open ground. Function: transforms the terrain into marsh-bloom, extending the reach of Hozume's own Domain effects across it. Mechanism: as above, Verdantia's growth-law taking hold of standing ground the way it already takes hold of a wound. Limitation: requires ground capable of holding standing water; sterile or frozen ground will not take the bloom.
 
-**Echo-reading.** Trigger: mist condensed into liquid form over a site. Function: reveals echoes of spirits trapped in the area. Mechanism: Anamnesis, Hozume's own third harmonisation, already lets him feel spiritual imprints in places of grief or mass death; the Phial gives that faculty a physical medium to condense into rather than requiring direct contact.
+**Echo-reading.** Trigger: mist condensed into liquid form over a site. Function: reveals echoes of spirits trapped in the area. Mechanism: Anamnesis, Hozume's own third harmonization, already lets him feel spiritual imprints in places of grief or mass death; the Phial gives that faculty a physical medium to condense into rather than requiring direct contact.
 
 ### Codex line
 

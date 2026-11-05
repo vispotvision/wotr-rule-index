@@ -6,13 +6,15 @@ title: Mirrorwell Prism · Soulbound Echo Anchor
 
 ## Mirrorwell Prism · Soulbound Echo Anchor
 
+Nobody from the Reddaway party would swear to how many of them came back up the Echo-Spire. Six treasure-hunters in hired red cloaks went down into that ruin on a bet, in the Inner World, with a mule; eight came up, and the extra two lasted until the sun reached them, still complaining about the rope. The mule was never the same. What they had walked past, down there in a chamber full of drifting shapes, was a palm-sized shard with one end broken, and they had the sense to leave it where it lay, because all of them had looked in and seen someone looking out who was very nearly them. It stayed there until Karo Venrik came down and it took to him, which on the evidence of this entry neither of them should have been pleased about.
+
 ### What it is
 
 A palm-sized hexagonal crystal shard, one end fractured, cut so that faint shapes drift inside it, as if trapped echoes swim in liquid memory, which, for Karo, they very nearly do: a bound Echo's last state genuinely persists in the lattice. Channeling Essence into it blooms concentric glyph-light across the facets. Recovered from a ruin site in the Inner World the card calls the Echo-Spire, unattested outside this card and kept only because the origin cannot otherwise stand; believed a remnant of an early Ma-glyph working site from the Great Spirit War era. Soulbound to Karo Venrik during his first descent into that ruin.
 
 ### Physical account
 
-A crystal shard roughly 6 cm across the long axis, about 140 g. It is carried, not wielded; the fractured end is structurally weak, and thrown or struck it shatters on contact with anything above Hollow-Grade force, including the lightest proofed plate. It has no offensive or defensive rating as an object; its function is entirely in what it does to a tether, not what it does to a body.
+A crystal shard roughly 6 cm across the long axis, about 140 g. It is carried, not wielded; the fractured end is structurally weak, and thrown or struck it shatters on contact with anything above Hollow-Grade force, including the lightest proofed harness. It has no offensive or defensive rating as an object; its function is entirely in what it does to a tether, not what it does to a body.
 
 ### Operation line
 
@@ -20,7 +22,7 @@ A crystal shard roughly 6 cm across the long axis, about 140 g. It is carried, n
 
 **Bound extension.** Function: the Prism holds a single Echo's tether at higher fidelity than Karo can sustain unassisted. Numerical effect: extends that Echo's field-time by roughly one minute before forced recall or collapse. Cost: binding a new Echo to the Prism overwrites and erases the previous one's mirrored state.
 
-**Mirrored re-summon.** Function: the Prism retains an Anamnesis-style read of the bound Echo's last known configuration, a stored trace, not the fragment's continuity. Mechanism: this is a recording, in the same sense Anamnesis reads any object's stored history; it is not the Echo's identity persisting, only what it looked like when it left. Numerical effect: re-fielding that specific Echo from the mirrored state costs 50% of the normal EU. Limitation: works only for the one Echo currently mirrored. Weakness: because the mirrored state is a compressed trace rather than the full original, an Echo re-summoned this way is measurably more likely to be one of the fragments that refuses recall, Karo's own documented Splinter Drift risk, worsened rather than created by the Prism.
+**Mirrored re-summon.** Function: the Prism retains an Anamnesis-style read of the bound Echo's last known configuration, a stored trace, not the fragment's continuity. Mechanism: this is a recording, in the same sense Anamnesis reads any object's stored history; it is not the Echo's identity persisting, only what it looked like when it left. Numerical effect: re-fielding that specific Echo from the mirrored state costs 50% of the normal EU (the measure of Essence a working spends). Limitation: works only for the one Echo currently mirrored. Weakness: because the mirrored state is a compressed trace rather than the full original, an Echo re-summoned this way is measurably more likely to be one of the fragments that refuses recall, Karo's own documented Splinter Drift risk, worsened rather than created by the Prism.
 
 ### Codex line
 

@@ -6,7 +6,9 @@ title: The Void Vanguard
 
 *The host of the Void Regency · under the Void Regent, the Void Generals and a High Chancellor*
 
-**Wants.** The Material Plane, as a new home for Aelor. It is not raiding. It means to stay.
+The drovers on the Ambrel road sold it mutton for a week, at a very good price, before anyone thought to ask what a palace with gold on its eaves was doing on the road at all, coming on behind a column at the pace of its hauling ropes.
+
+**Wants.** The Material Plane, as a new home for Aelor. It has not come raiding, and it means to stay.
 
 **Holds.** Whatever ground its column stands on, a palace dragged through the breach, and the Prayers of the Hollow, which answer to the same Chancellor.
 
@@ -24,4 +26,4 @@ title: The Void Vanguard
 |---|---|---|---|
 | Wherever its column stands, with a palace dragged through the breach behind it | The Material Plane as a new home for Aelor, held for good | Its column on the road, and a people it would rather use than kill | The Void Regent |
 
-*Drawn from [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age|The Powers of the Imperial Age]] and [[Factions, Bloodlines & Institutions/Factions at a Glance|Factions at a Glance]].*
+*Drawn from [[Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Dark Ages|The Powers of the Dark Ages]] and [[Factions, Bloodlines & Institutions/Factions at a Glance|Factions at a Glance]].*

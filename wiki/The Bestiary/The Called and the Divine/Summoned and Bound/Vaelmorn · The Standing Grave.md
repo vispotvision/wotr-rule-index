@@ -11,6 +11,10 @@ title: Vaelmorn · The Standing Grave
 >
 > Hold up what falls. Do not set it down.
 
+For fourteen years nobody died at Halloway Mire, and for the first eight they held a fair about it. The Long Fair filled the causeway every midsummer with marigold garlands and yellow bunting, eel pies, pilgrims from four counties in their good blue, a sexton who had gone into eels because his own trade had left him, and an undertaker suing the parish for loss of custom. Annis Reedy, the hedge-worker who started it, had knelt in the peat in the first spring and spoken the old words over her sister's boy, crushed under a turf sled, and on the second day a stag came over the water as tall as a hayrick and walked as slow as a tide, furred in living moss with ferns along his spine and a dead forest of antler holding the mist above him, a small brown woman with her eyes shut pacing at his flank. The boy stayed about to die. After that the four villages carried their dying down the boards on doors and set them within his ninety meters, and there they stayed: a carter with a stove-in chest who was still finishing the same story six years later, a grandmother with the wasting who kept up with all the news, and a great many more who took cake when it was brought and did not get better, and who were, all of them, still there. Annis Reedy called him nine times, and paid a name for each, and in the third year, among people she loved and could not address, she walked over the ridge and out of the parish, since that was the one way left to die. No child was born in any of the four villages from the ninth year on. The parish register gives both facts in the same volume, and nobody has ever written a sentence connecting them, and I am not going to be the first. In the fourteenth year the abbey's peat diggers drained the mire for peat, and he turned and walked north with the woman beside him. His field held eleven days more, going from the edge inward. Then four parishes rang their bells until the ringers fell over, and dug two hundred and six graves in a week, and that was the last of the Long Fair.
+
+I have stood inside the ninety meters for an afternoon with a cut thumb, and it stayed exactly as wet as it was when I walked in, and began to itch again about a quarter of an hour after I walked out. He is one of the old ones, mythic by any reckoning, a thing the bog villages will kneel to and the Bench cannot find a statute for, and he also has a chest that hangs too low and a neck carrying four times what a neck should. For the newcomer: Vocatia is the art of calling something that already exists, and Mnemata (memorycraft) carries what he keeps. Native provenance means he owns his own Soul Crystal (the organ that refines Aether into Essence). Bond Class Consenting means he may refuse an order that contradicts his nature. A World-Tethered form borrows its persistence from the ground that holds it. Danger Tier is the Commission's rating, as though he were loose. Shell, Layer, Draft and the rest of the grammar are set out in [[The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/The Called · Summon Register|the Summon Register]].
+
 ---
 
 ## I · Identity
@@ -23,11 +27,11 @@ title: Vaelmorn · The Standing Grave
 | **Lineage · School** | Held loosely by bog-country hedge practice and by nobody with a charter. **The invocation has never been suppressed because it has never needed to be** |
 | **Loanable** | Functionally yes, and this is the entry's most dangerous line. **He answers almost anyone who speaks it correctly.** The Accord has not worked out how to restrict a thing that does not require standing |
 | **Category** | **Vocatia and Mnemata.** Concordia never engages, because there is nothing to hold open |
-| **Summon Tier** | **V · World-Tethered.** He does not draw from the summoner at any point. **The ground holds him and the summoner is a formality** |
+| **Summon Tier** | **V · World-Tethered.** He takes nothing from the summoner at any point. **The ground holds him and the summoner is a formality** |
 | **Temperance Gate** | Stage XII Emanation by doctrine. **Stage VII in practice**, on eleven attested occasions, all of them hedge practitioners in bog country, all of them successful, and the discrepancy is an open Arbitration matter |
 | **Danger Tier** | **T6 · Domain Threat.** Contested. He affects a regional ecosystem and has no attested kill |
 | **Accord Classification** | Registered under Divine Correspondence, unrestricted, **which is a clerical outcome rather than a considered one.** Two petitions to restrict have failed on the grounds that no harm can be demonstrated |
-| **Realm Affiliation** | The thinning conifer belt and the peat country under it. **Sightings have risen in step with falling ambient density for seventy years** and no one has established which of those two facts is doing the work |
+| **Realm Affiliation** | The thinning conifer belt and the peat country under it. **Sightings have risen in step with falling Aetheric Density (the thickness of Aether in the ground) for seventy years** and no one has established which of those two facts is doing the work |
 
 ---
 
@@ -39,7 +43,7 @@ title: Vaelmorn · The Standing Grave
 | **Aether Shell** | Genuine, slow, and enormously retentive. **Continuum Retention above any figure the instrument was built to express.** Nothing leaves him. The Shell is the reason |
 | **Attraction Layer** | Genuine and heavily bonded. **Every passenger is a live bond he is still holding**, and the Layer has been described in one filing as a knot rather than a field |
 | **Crystal Developmental Tier** | **Sovereign Crystal**, arguably Principled. The assessors split and the register records the lower figure |
-| **Crystal State** | **Overgrown.** Swollen with more than has been integrated, and the swelling is visible from a kilometre away in the form of moss |
+| **Crystal State** | **Overgrown.** Swollen with more than has been integrated, and the swelling is visible from a kilometer away in the form of moss |
 | **Aether Class** | **II · Harmonic**, which is absurdly low for a Divine Beast and is not an error. **He conducts badly and holds perfectly**, and the whole of him is that trade |
 | **Summon Stability Facet** | **S-Tier.** Weeks. **Longest attested continuous presence is fourteen years**, at Halloway Mire, where the summoner had been dead for eleven of them |
 | **Traits** | One, and it has a name in the bog villages that the Archives decline to write down. **Its law is that nothing in contact with him is permitted to finish** |
@@ -49,10 +53,10 @@ title: Vaelmorn · The Standing Grave
 
 ## III · Wellspring and Codex Assignment
 
-| **Primary Wellspring** | **Verdantia.** The green current, and specifically its documented corruption vector. **Endless Spring: the inability to let anything end.** Vaelmorn is not a Verdantia practitioner who fell to it. He is what it looks like when it was the design |
+| **Primary Wellspring** | **Verdantia.** The green current, and specifically its documented corruption vector. **Endless Spring: the inability to let anything end.** A Verdantia practitioner falls to it by accident. Vaelmorn is what it looks like when it was the design |
 |---|---|
 | **Secondary Wellspring** | **Rebirthine.** Cycles death-energy into life and purges stasis, **and it is the purging half that has failed in him** |
-| **Tertiary, technique-local** | **Anamnesis**, drawn only by the passenger mechanic. Cross-family, flagged in the relevant block |
+| **Tertiary, technique-local** | **Anamnesis**, pulled only by the passenger mechanic. Cross-family, flagged in the relevant block |
 | **House Resonance** | House of the Green Pulse. Vital warmth, restorative capacity, empathic response. **The Codex's stated risk for this House is spirits that resist dissolution.** He is the risk with four legs under it |
 | **Essence Family** | **Vitalia** |
 | **Physics Domain** | **Biochemistry.** Every Mechanism below runs on preservation chemistry and metabolic suppression, and the real-world reading is the peat bog |
@@ -82,15 +86,15 @@ title: Vaelmorn · The Standing Grave
 | **Bond Class** | **Consenting.** He answers readily, adapts freely, and refuses exactly one instruction |
 |---|---|
 | **Terms of Answering** | None stated. **He has never negotiated anything**, and the absence of terms is the reason he is unrestricted and the reason the second petition to restrict him was filed |
-| **The Toll** | **Each summoning costs the summoner one name.** Not a memory of the person and not the face, the smell, the argument they had, or the weight of their hand. **The name specifically.** It goes onto him with everything else. The practitioner retains the whole of the relationship and cannot say who it belonged to, cannot write it, cannot recognise it spoken by someone else. **Attested: a woman at Halloway who summoned him nine times and lived out her last years surrounded by people she loved and could not address** |
-| **Refusal Conditions** | **He cannot be ordered to release anything.** Not a passenger, not a wound, not a corpse, not a season. Every other instruction is available and this one is structurally closed |
+| **The Toll** | **Each summoning costs the summoner one name.** **It takes the name specifically**, and leaves the memory of the person, the face, the smell, the argument they had and the weight of their hand. It goes onto him with everything else. The practitioner retains the whole of the relationship and cannot say who it belonged to, cannot write it, cannot recognize it spoken by someone else. **Attested: a woman at Halloway who summoned him nine times and lived out her last years surrounded by people she loved and could not address** |
+| **Refusal Conditions** | **He cannot be ordered to release anything**, whether a passenger, a wound, a corpse or a season. Every other instruction is available and this one is structurally closed |
 | **Precedent** | Sixty-one recorded refusals across four centuries and all sixty-one are the same refusal. **The Arbitration Division has stopped filing them individually and now maintains a single standing entry** |
 
 ---
 
 ## VI · Physical Description
 
-He stands three point one meters at the shoulder and the proportions are wrong for the height, front-heavy and narrow through the hindquarters, with forelegs like fence posts and a chest that hangs low enough to drag through standing water. The hide is not visible anywhere. What covers him is moss, layered and matted into a pelt forty centimetres deep across the shoulders and thinning to a ragged fringe along the belly and the backs of the legs, and the color runs from the dull olive of old bottle glass at the crown to a sodden near-black where it trails in the water. It is alive. Small pale fruiting bodies stand up from it in patches and there are ferns rooted along his spine, and the whole surface moves faintly in still air with the slow settling motion of something that has been undisturbed for a long time and is not enjoying being disturbed now.
+He stands three point one meters at the shoulder and the proportions are wrong for the height, front-heavy and narrow through the hindquarters, with forelegs like fence posts and a chest that hangs low enough to drag through standing water. The hide is not visible anywhere. What covers him is moss, layered and matted into a pelt forty centimeters deep across the shoulders and thinning to a ragged fringe along the belly and the backs of the legs, and the color runs from the dull olive of old bottle glass at the crown to a sodden near-black where it trails in the water. It is alive. Small pale fruiting bodies stand up from it in patches and there are ferns rooted along his spine, and the whole surface moves faintly in still air with the slow settling motion of something that has been undisturbed for a long time and is not enjoying being disturbed now.
 
 The rack spans four point six meters and masses somewhere above two hundred kilograms, which is four times what the neck of any living cervid could carry and is one of the reasons the assessors stopped calling him an animal. The tines are bare hardwood, gray and lichen-crusted, forking and reforking into a dead thicket that catches mist and holds it. **The count of the points changes.** Foresters who have watched him across seasons put the range between forty and something over ninety, and the two Archives entries that bothered to record a figure recorded different ones eight days apart. New tines come in wet and dark and stiffen over weeks. Old ones do not shed.
 
@@ -104,7 +108,7 @@ She walks when he walks. She stops when he stops. She has never spoken, has neve
 
 ## VII · Temperament and Voice
 
-Vaelmorn is gentle in a way that has ruined a great many people's ability to think about him clearly. He does not startle, does not threaten, moves out of the path of anything smaller than himself, and has been observed standing motionless for two hours rather than disturb a nesting bird. Children in bog country are not warned about him. They are warned about the places he has been.
+Vaelmorn is gentle in a way that has ruined a great many people's ability to think about him clearly. He does not startle, does not threaten, moves out of the path of anything smaller than himself, and has been observed standing motionless for two hours rather than disturb a nesting bird. Children in bog country get warned about the places he has been, and about him never.
 
 He does not speak. **Something near him does.** Practitioners inside the ninety meters report hearing names, individual and unfamiliar, spoken once at the edge of audibility in voices that do not repeat. The Archives hold four hundred and nine transcribed names from six separate field records and have matched eleven of them to people in the death registers of the surrounding parishes. **Nine of those eleven were recorded as drowned.**
 
@@ -125,9 +129,9 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Trigger:** A dying thing inside the radius, and a request. **He will not do it unasked**, and the four centuries of record contain no exception.
 
-  **Function:** The dying stops. **It does not become living.**
+  **Function:** **The dying stops, and the thing stays short of living.**
 
-  **Mechanism:** Biochemistry, and the reading is the peat bog. Vaelmorn's Essence settles into the tissue and does to it what sphagnan does in acid anoxic water: it binds the free calcium the decay bacteria need, drops local pH toward the low fours, and strips the oxygen out of the interstitial fluid. Cellular metabolism does not stop. **It falls to a rate at which nothing further happens.** The wound does not close, the blood does not clot, the heart does not restart, and the body does not rot. The Anamnesis component does the same operation on the identity, holding the pattern intact and unadvancing, which is the difference between a preserved corpse and a passenger.
+  **Mechanism:** Biochemistry, and the reading is the peat bog. Vaelmorn's Essence settles into the tissue and does to it what sphagnan does in acid anoxic water: it binds the free calcium the decay bacteria need, drops local pH toward the low fours, and strips the oxygen out of the interstitial fluid. **Cellular metabolism falls to a rate at which nothing further happens**, which is a long way short of stopping. The wound does not close, the blood does not clot, the heart does not restart, and the body does not rot. The Anamnesis component does the same operation on the identity, holding the pattern intact and unadvancing, which is the difference between a preserved corpse and a passenger.
 
   **Numerical Effect:** Local tissue pH driven from 7.4 to between 3.8 and 4.4 within ninety seconds of contact. **Metabolic rate suppressed to roughly two percent of baseline**, comparable to the deepest cold-water submersion recoveries and sustained without limit rather than for forty minutes. Attested passenger count is unknown and the lowest serious estimate is four hundred.
 
@@ -145,7 +149,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Codex Assignment:** [Dr] · [Vael] · [Ma] · Primary Verdantia · Secondary Rebirthine · Vitalia · Biochemistry. **Cross-family flagged: [Ma] Recall is an Anamnesis assignment under Limina and is doing the identity work rather than the tissue work**
 
-  **First Display:** A deer with a broken back, and a forester who asks without thinking. **The deer stands up. It has been standing since**, and it does not eat, and the scene should end with somebody realising that.
+  **First Display:** A deer with a broken back, and a forester who asks without thinking. **The deer stands up. It has been standing since**, and it does not eat, and the scene should end with somebody realizing that.
 
   **Sensory Description:** The moss on his flank rises and settles. A cold comes off him that people describe as a smell before they correct themselves. **The subject's blood stops moving in the wound and stays exactly where it is, wet and bright and going nowhere.**
 
@@ -167,11 +171,11 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Numerical Effect:** Radius 88 to 94 m, measured on eleven occasions. **Onset within four minutes of his arrival, persistence eleven days after his departure**, decaying from the edge inward. Wounds sustained inside show no granulation tissue at all, which is the diagnostic a Physician's Eye can call from across a room.
 
-  **Target Response:** Everyone in the radius survives and nobody recovers. **Field surgeons hate him with a specificity they reserve for no other entry in the register**, because triage stops functioning: there is no dying category, there is no stable category, and every wounded man is exactly as urgent as every other wounded man for as long as the field holds.
+  **Target Response:** Everyone in the radius survives and nobody recovers. **Field surgeons hate him with a specificity they reserve for no other entry in the register**, because triage (sorting the wounded by who can wait) stops functioning: there is no dying category, there is no stable category, and every wounded man is exactly as urgent as every other wounded man for as long as the field holds.
 
   **Limitation:** **It is not selective and he cannot narrow it.** The enemy's wounded are held identically. Two engagements in bog country have ended in a truce for no reason more elevated than that both lines had a hundred men who would not stop being about to die.
 
-  **Weakness:** The radius announces him from a kilometre out. **Cold air, no insect noise, standing water gone flat and iron-smelling.** Nothing about him is a surprise to anyone who has read the register.
+  **Weakness:** The radius announces him from a kilometer out. **Cold air, no insect noise, standing water gone flat and iron-smelling.** Nothing about him is a surprise to anyone who has read the register.
 
   **Cost:** Environmental and permanent. Ground he has stood on for a season does not decompose afterward. **Leaf fall accumulates, nothing breaks down, the soil stops feeding, and the conifer belt he has spent four centuries walking is thinning from underneath.** The Withering correlation in section I is nobody's proven case and it is also not nothing.
 
@@ -179,7 +183,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Codex Assignment:** [Th] · [El] · [Ur] · Primary Verdantia · Secondary Fixatio · Vitalia · Biochemistry. **Cross-family flagged: [Th] Foundation is a Petralon assignment under Vectoria and Mechanics, and it is supplying the boundary geometry that a purely biological chain cannot**
 
-  **First Display:** A field hospital that stops losing anyone, and a surgeon who is delighted for eleven hours.
+  **First Display:** A row of surgeons' tents that stops losing anyone, and a surgeon who is delighted for eleven hours.
 
   **Sensory Description:** Breath fogs. The bog goes quiet in the specific way that has nothing to do with sound and everything to do with insects. **Blood on the moss stays wet and stays red for days.**
 - ****THE LENDING** · *Defensive · Interposition · The Ugly One***
@@ -225,7 +229,7 @@ His one legible mood is reluctance, and it surfaces only when he is asked to mov
 
   **Function:** Nothing Vaelmorn has taken on can be released by him, by a summoner, by a seal, or by his death.
 
-  **Mechanism:** Biochemistry as the visible half and Verdantia's Endless Spring as the whole of the rest. **The Wellspring's documented corruption vector is the inability to let anything end**, and in a practitioner it is a degradation of Harmonics Stability that a Bench can treat. In Vaelmorn it is the load-bearing structure. Removing it does not cure him. **It removes him**, and everything he is holding goes wherever four hundred suspended identities go when the suspension stops, which nobody has established and two filings describe as the reason nobody has tried.
+  **Mechanism:** Biochemistry as the visible half and Verdantia's Endless Spring as the whole of the rest. **The Wellspring's documented corruption vector is the inability to let anything end**, and in a practitioner it is a degradation of Harmonics Stability that a Bench can treat. In Vaelmorn it is the load-bearing structure. **Removing it would remove him rather than cure him**, and everything he is holding goes wherever four hundred suspended identities go when the suspension stops, which nobody has established and two filings describe as the reason nobody has tried.
 
   **Numerical Effect:** No figure available and the register declines to estimate one.
 

@@ -4,13 +4,18 @@ title: The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm
 
 # The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm
 
+Mother Hester Bluett, who had made the largest fortune in Ambry out of a blue so deep that dukes paid to be buried in it, announced on her deathbed in Year 604 that her soul was for sale to the highest bidder and that bids would be heard in the street, since she was paying for the view. All six of the parties concerned with such goods came, and it is the only time I know of that they have shared a road. The Church of Hollow Stars arrived first, in aurora gold, behind a paper dragon sixty feet long with nine men inside it who were not speaking to each other. The Covenant of Green Flame came barefoot and singing, each with a live sapling, weeping for it. The Order of the Penance Flame set up on her front step and scorched their own forearms over a brazier as a show of good faith, and the smell put the pie-men off their trade. The Order of Still Waters brought a copper basin and a hired stream, in barrels, so that she might be laid beside running water when the moment came. Three members of the Cult of Silver Mirrors, who are illegal in most places and have never taken this seriously, stood in the crowd angling little hand mirrors at her window. And on the second night a single person from the Cult of the Pale Lantern climbed the back stair with one lamp, told her for nothing the thing she was most afraid of, and left, and the neighbors say she laughed until the physician was sent for.
+
+She died on the fifth day with the bidding at nine hundred in silver, holding up one blue-stained finger for the next offer. All six parties sued. The Bench could find no delivery and no title in any of them, so the money went to her dyers, who got drunk in a color you could see from the hills. As for the goods, every ferryman on the Ambry crossing will tell you she went over wet and arguing the fare, and if you want to know what that means you will find, near the foot of this page, that nobody does.
+
 > Six named realms, six laws, and every one of them concerned with what happens to a soul rather than to a stone. Draconis, Edenis, Purganeth, Virelion, Etherea, Helströva.
 
 ---
 
-## OMNIS — The Skyfather of Draconis
+## OMNIS: The Skyfather of Draconis
 
 > *"The first flame to rise was not of fire, but of breath."*
+
 **Seat**  Prime Elemental Titan of the Spiritual World, Draconis. Forged during the Second Breath of Aegor.
 
 **Domain**  Sky, Flame, Motion, Dominion of Dragons, Celestial Breath
@@ -27,13 +32,13 @@ Essence Circulation between realms, performed through the act of aspiration. To 
 
 ### The Record
 
-He taught the earliest dragons Breathcraft in the Age of Souls, the shaping of Essence through exhalation, which the Eresse named Aelrauthan Flame and the Dawi named Skyforge Fire. It made dragons immortal for a time. When mortals began enslaving Wellsprings he withdrew into the upper Draconis belt and folded himself around the firmament, and true dragonkind entered its sleeping age in the silence he left. The auroras of the Pyrrhean Era are recorded as his wings beating once to keep the world aloft. The Church of Hollow Stars names him the devourer of heaven and means it as praise.
+He taught the earliest dragons Breathcraft in the Age of Souls, the shaping of Essence through exhalation, which the Eresse named Aelrauthan Flame and the Dawi named Skyforge Fire. It made dragons immortal for a time. When mortals began enslaving Wellsprings he withdrew into the upper Draconis belt and folded himself around the firmament, and true dragonkind entered its sleeping age in the silence he left. The auroras of the Pyrrhean Era (a name from the old registers, which the Guild's Errata folds into the Antediluvian collapse, about −550 to −450) are recorded as his wings beating once to keep the world aloft. The Church of Hollow Stars names him the devourer of heaven and means it as praise.
 
 ### Bonds
 
 Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory. Grants recall through the skies, the arc of all things rising and returning.
 
-### The Titan-Keyed Art — *The Skyfire Pulse*
+### The Titan-Keyed Art: *The Skyfire Pulse*
 
 *Offensive · Caloria · Ignivale · Thermodynamics · Zenith+ · [Wy] Motion + [Noq] Wind*
 
@@ -55,9 +60,10 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 
 ---
 
-## FLORWYN — The Verdant Weaver
+## FLORWYN: The Verdant Weaver
 
 > *"Before the world learned to grow, she taught it to remember its shape."*
+
 **Seat**  Prime Elemental Titaness of the Spiritual World, Edenis. Forged from the Ashuric Breath lingering in Gaia's dreaming veins. Her daughter and her reflection.
 
 **Domain**  Renewal, Growth, Resurrection, Organic Memory, Wellspring Harmony
@@ -70,17 +76,17 @@ An ever-shifting humanoid woven from vine, light and liquid crystal, her body a 
 
 ### The Load
 
-Restorative entropy, the rule that all destruction must yield renewal. Without her the death of a soul is permanent dispersal. She is the root stabiliser of Aether-to-Essence transference and the reason life is sustainable across eons rather than merely possible once. Her paradox is stated in the Edenis registers without embarrassment. What dies lives again, and what lives owes its death to her mercy.
+Restorative entropy, the rule that all destruction must yield renewal. Without her the death of a soul is permanent dispersal. She is the root stabilizer of Aether-to-Essence transference and the reason life is sustainable across eons rather than merely possible once. Her paradox is stated in the Edenis registers without embarrassment. What dies lives again, and what lives owes its death to her mercy.
 
 ### The Record
 
-She sang the first Realmsong of Edenis and birthed the Vey-Elarin out of harmonic light and yearning. They were not born but tuned, each one a living note of her chord, their Wellsprings branches of hers and their speech song. The Covenant of Green Flame descends from her teaching, and the elves learned from her how to bind Traits to land and wake forests and rivers into consciousness. When Erebus began corrupting Wellsprings she descended to mend the spiritual fractures and spent the outer layer of her Verdant Core sealing the southern Aether Vein. It nearly erased her. What was left became the Tree of Memory. The Eresse hold that she now dreams through the Wellsprings, and that every forest blooming after blight is a moment when she stirs in her sleep.
+She sang the first Realmsong of Edenis and birthed the Vey-Elarin out of harmonic light and yearning. They were tuned rather than born, each one a living note of her chord, their Wellsprings branches of hers and their speech song. The Covenant of Green Flame descends from her teaching, and the elves learned from her how to bind Traits to land and wake forests and rivers into consciousness. When Erebus began corrupting Wellsprings she descended to mend the spiritual fractures and spent the outer layer of her Verdant Core sealing the southern Aether Vein. It nearly erased her. What was left became the Tree of Memory. The Eresse hold that she now dreams through the Wellsprings, and that every forest blooming after blight is a moment when she stirs in her sleep.
 
 ### Bonds
 
 Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her renewal to continuity. Both named figures are Epochs and are correctly seated as such.
 
-### The Titan-Keyed Art — *The Green Chord*
+### The Titan-Keyed Art: *The Green Chord*
 
 *Supplementary · Vitalia · Rebirthine · Biochemistry · Zenith+ · [Vael] Renewal + [Yn] Bloom*
 
@@ -102,10 +108,11 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 ---
 
-## DAZKAR — The Arbiter of Purganeth
+## DAZKAR: The Arbiter of Purganeth
 
 > *"Even the gods must kneel before balance."*
-**Seat**  Prime Elemental Titan of the Spiritual World, Purganeth. Born when Bairos and Aegor forged a metaphysical mediator to stabilise spiritual consequence.
+
+**Seat**  Prime Elemental Titan of the Spiritual World, Purganeth. Born when Bairos and Aegor forged a metaphysical mediator to stabilize spiritual consequence.
 
 **Domain**  Judgment, Balance, Karmic Return, Justice, Penance
 
@@ -113,7 +120,7 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 ### Manifestation
 
-A colossal armored figure of radiant obsidian, face behind a mirrored helm. From his chest hang scales suspended on chains of light, one pan holding eternal flame and the other eternal shadow. His voice is not heard but felt, a vibration that shakes the soul into confession. Purganeth mirrors him. Endless halls of reflective obsidian where souls walk alone and their steps echo their truths back at them.
+A colossal armored figure of radiant obsidian, face behind a mirrored helm. From his chest hang scales suspended on chains of light, one pan holding eternal flame and the other eternal shadow. His voice goes unheard and arrives as a vibration, shaking the soul into confession. Purganeth mirrors him. Endless halls of reflective obsidian where souls walk alone and their steps echo their truths back at them.
 
 ### The Load
 
@@ -121,13 +128,13 @@ Metaphysical proportion. Spiritual restitution, the law of equivalence between c
 
 ### The Record
 
-He stood beside Bairos at the Birth of Law and his voice shaped the early Codex of Divine Law, from which Archonic Judgment descends. The Hobgoblin Imperium adopted his imagery for its tribunals and replaced truth with obedience, and the rejection of that distortion birthed the Order of the Penance Flame, monks who enforce spiritual balance through self-scorching rites. When Razakiel descended to impose the Unlawful Acts of Order it was Dazkar who confronted him, not through battle but through stillness. Razakiel's decree was annulled by reflection alone, the mirror of consequence forcing his own contradictions to erase themselves. The Church of Hollow Stars calls him the last unfallen Titan. The Guild Accord calls him the metaphysical principle behind law harmonics and declines to elaborate.
+He stood beside Bairos at the Birth of Law and his voice shaped the early Codex of Divine Law, from which Archonic Judgment descends. The Hobgoblin Imperium adopted his imagery for its tribunals and replaced truth with obedience, and the rejection of that distortion birthed the Order of the Penance Flame, monks who enforce spiritual balance through self-scorching rites. When Razakiel descended to impose the Unlawful Acts of Order it was Dazkar who confronted him, with stillness in place of battle. Razakiel's decree was annulled by reflection alone, the mirror of consequence forcing his own contradictions to erase themselves. The Church of Hollow Stars calls him the last unfallen Titan. The Guild Accord calls him the metaphysical principle behind law harmonics and declines to elaborate.
 
 ### Bonds
 
 Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Memory. Preserves the record of every act, keeping the scales accurate. Ashura, Spirit, Epoch. Tempers the process with the capacity for redemption.
 
-### The Titan-Keyed Art — *The Mirrored Scale*
+### The Titan-Keyed Art: *The Mirrored Scale*
 
 *Defensive · Fulguria · Judicium · Electromagnetism · Zenith+ · [Ur] Balance + [Sel] Measure*
 
@@ -149,9 +156,10 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 
 ---
 
-## NYSERA — The Dreaming Veil
+## NYSERA: The Dreaming Veil
 
 > *"Reality is only the slowest dream."*
+
 **Seat**  Prime Metaphysical Titaness of the Spiritual World, Virelion. Forged in the Third Breath of Bairos as the filter of sanity between waking and divine cognition.
 
 **Domain**  Dreams, Imagination, Illusion, Thought, Subconscious Creation
@@ -164,7 +172,7 @@ A shifting figure of iridescent mist, body composed of translucent wings and mir
 
 ### The Load
 
-The boundary between what is imagined and what is real, which prevents creation collapsing under the weight of divine thought. Dreamflow Equilibrium keeps imagination and sanity in proportion. Manifest Potential lets ideas crystallise into Essence through emotion. Prophetic Echo carries divine intent downward as warning or inspiration. Without her filter the gods dissolve into their own thoughts, and omniscience becomes indistinguishable from madness.
+The boundary between what is imagined and what is real, which prevents creation collapsing under the weight of divine thought. Dreamflow Equilibrium keeps imagination and sanity in proportion. Manifest Potential lets ideas crystallize into Essence through emotion. Prophetic Echo carries divine intent downward as warning or inspiration. Without her filter the gods dissolve into their own thoughts, and omniscience becomes indistinguishable from madness.
 
 ### The Record
 
@@ -174,7 +182,7 @@ Her whisper taught the Eresse Visionbinding, the storing of prophecy in sleep, a
 
 Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Epoch. Grants animation to imagination, birthing consciousness loops. Bairos, Fate, Epoch. Weaves prophetic threads through dreams.
 
-### The Titan-Keyed Art — *The Somnum Flow*
+### The Titan-Keyed Art: *The Somnum Flow*
 
 *Supplementary · Limina · Oneirion · Abstract/Entropic Systems · Zenith+ · [Ka] Dream + [Vl] Veil*
 
@@ -196,9 +204,10 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 ---
 
-## SYLORIN — The Ferryman of Etherea
+## SYLORIN: The Ferryman of Etherea
 
 > *"All souls return to the river."*
+
 **Seat**  Prime Psychospiritual Titan of the Spiritual World, Etherea. Forged in the moment of first mortality as the cosmic countermeasure against spiritual decay.
 
 **Domain**  Soulstream, Passage, Memory Transition, Death and Rebirth
@@ -215,13 +224,13 @@ Continuity of consciousness across incarnations. He prevents Essence fragmenting
 
 ### The Record
 
-Temples appeared at every river crossing during the Era of Grace and priests laid the dying beside running water so the soul might find the current. The Hobgoblin Imperium enslaved portions of Etherea and burned captured soulstreams in the Wellspring Crucibles, fracturing several currents. The Hollow-Born, generations born without memory, are that sacrilege's surviving evidence. When the Crevice opened, the River reversed and souls were trapped mid-flow in Echo Storms, and he is said to have walked the mortal world through that period, silent, collecting the stranded one at a time. The Order of Still Waters studies near-death experience as an attempted glimpse of Etherea and maintains that his hum can still be recorded beneath certain waterfalls at midnight.
+Temples appeared at every river crossing during the Era of Grace and priests laid the dying beside running water so the soul might find the current. The Hobgoblin Imperium enslaved portions of Etherea and burned captured soulstreams in the Wellspring Crucibles, fracturing several currents. The Hollow-Born, generations born without memory, are that sacrilege's surviving evidence. When the Crevice opened, the River reversed and souls were trapped mid-flow in Echo Storms, and he is said to have walked the mortal world through that period, silent, collecting the stranded one at a time. The Order of Still Waters studies near-death experience as an attempted glimpse of Etherea and maintains that his hum can still be heard and written out in neumes (the old marks for pitch) beneath certain waterfalls at midnight.
 
 ### Bonds
 
 Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch. Grants forward motion, renewal after dissolution. Thalen, Form. Shapes the next vessel from retained resonance.
 
-### The Titan-Keyed Art — *The Ferryman's Current*
+### The Titan-Keyed Art: *The Ferryman's Current*
 
 *Supplementary · Fluxia · Somnalis · Fluid Dynamics · Zenith+ · [Au] Death + [Vor] Return*
 
@@ -243,9 +252,10 @@ Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch.
 
 ---
 
-## ILGRIMM — The Whisper of Helströva
+## ILGRIMM: The Whisper of Helströva
 
 > *"What you fear remembers you."*
+
 **Seat**  Prime Noetic Titan of the Spiritual World, Helströva. Formed as the echo of the void within every mind, forged during the Fourth Dissonance.
 
 **Domain**  Shadow, Fear, Revelation through Darkness, Secrets, Survival Instinct
@@ -262,13 +272,13 @@ Awareness of the self through confrontation with the unknown. He enforces humili
 
 ### The Record
 
-When Elyrah the Duskborne severed herself from Florwyn's Realmsong it was Ilgrimm who received her, offering shadow as sanctuary, and the Duskwalkers owe him their lineage for it. Hobgoblin priests of the Earth-Bound cult invoked him as the Keeper of Chains and used fear to enforce obedience, which true Ilgrimmic doctrine condemns on the grounds that fear must teach rather than enslave. During the Pyrrhean Calamity he walked Etherea beside Sylorin devouring runaway Echoes to keep the soulstream from collapsing, and absorbed millennia of terror doing it. His form grew heavier and slower and almost mineral afterward. The Cult of the Pale Lantern holds that he whispers to lucid dreamers inside Nysera's domain, guiding them through Shadow Temperance, a forbidden technique that uses fear to accelerate spiritual maturity.
+When Elyrah the Duskborne severed herself from Florwyn's Realmsong it was Ilgrimm who received her, offering shadow as sanctuary, and the Duskwalkers owe him their lineage for it. Hobgoblin priests of the Earth-Bound cult invoked him as the Keeper of Chains and used fear to enforce obedience, which true Ilgrimmic doctrine condemns on the grounds that fear must teach rather than enslave. During the Pyrrhean Calamity (the Antediluvian collapse, by the Errata's reckoning) he walked Etherea beside Sylorin devouring runaway Echoes to keep the soulstream from collapsing, and absorbed millennia of terror doing it. His form grew heavier and slower and almost mineral afterward. The Cult of the Pale Lantern holds that he whispers to lucid dreamers inside Nysera's domain, guiding them through Shadow Temperance, a forbidden technique that uses fear to accelerate spiritual maturity.
 
 ### Bonds
 
 Thalen, Form. Grants structure to shadow and body to fear. Iesara, Insight. Ensures fear reveals reality rather than delusion. Maelor, Memory. Holds trauma until the soul is ready to face it.
 
-### The Titan-Keyed Art — *The Hollow That Watches*
+### The Titan-Keyed Art: *The Hollow That Watches*
 
 *Offensive · Limina · Tenebra · Abstract/Entropic Systems · Zenith+ · [Thal] Silence + [Ie] Perception*
 

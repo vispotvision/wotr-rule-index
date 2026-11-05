@@ -7,15 +7,23 @@ title: Aberrations
 # Aberrations
 
 *Ten entries · what corruption makes when it is given a shape to work with*
+
+Long Sim Tupper smuggled the egg into Harl's Cross in a crate of speckled hens, on the morning of the Feather Fair, under a forged Guild mark, for a buyer who wanted cockatrice feathers for a purpose he did not care to describe. It hatched at noon on the poultry row, between a stall of blue ribbons and a man selling hot chestnuts. Its first look fell on the hens, a dozen of them, mid-squabble, and they went gray from the beak backward and stayed that way. Its second look found the auctioneer, Mistress Ilse Thackray, with one arm up and her mouth open on a bid, and it climbed the awning on wet green wings and looked down the whole length of the fair. Twenty-six people stopped where they stood, Long Sim among them, with his left hand in a purse whose owner has been unable to complain. The lord's bill was on the church door by dark. By morning a crew out of Durnath who called themselves the Looking-Glass Company had bought every copper pan, tin tray and polished shield in the county, at prices the tinkers' guild still recalls with tears of joy, and they went up the row behind a wall of kitchenware, at a walk, singing to keep step. It took until dusk, two of their men and one very large frying pan. Harl's Cross charges a copper now to walk the stone row, and on feast days the children dare each other to put a hat on the auctioneer.
+
+A cockatrice was a hen and a serpent before it was a calamity, and that is the whole reason it has a place on this shelf.
+
 > Every entry here was **something else first.** Serpent Essence and corrupted human souls. Cursed unions. Mortals who succumbed to hunger. Draconic bloodlines that fractured.
 >
-> **Aberration is not a species. It is a verdict on a lineage.**
+> **Aberration is a verdict on a lineage, and the word has never once described a species.**
+
+A note for crews before you take the bill. An Aberration carries no mask for a hall clerk to weigh, so these are paid by bounty, under a Commission Tier and a Sigil like everything else, and each bill names the proof it wants: the horn, the stinger, the head. Read it twice. A crew once carried a gorgon's head forty miles under a blanket and learned at the castle gate that the lord had wanted it looking at his brother.
 
 ---
 
 ## Bicorn
 
 > *Zarvak*, Twin Horn, in Old Parunic. **The Shadow Charger** among occult circles.
+
 **Aberrant Beast, Infernal Charger · T5, Extreme Threat · Abyssal and Corrupted Wellsprings infused with infernal Essence · Abyssal Depths and cursed Outer World wastelands**
 
 Fiendish mounts and warriors born from Abyssal Wellspring corruption mingled with ancient infernal bloodlines. **Legend places their creation as steeds for dark warlords and demon princes.**
@@ -35,11 +43,12 @@ The **Blood Sundering of Vellsorea** details a bicorn herd charging through Conc
 ## Hellhound
 
 > *Khal'zor*, Infernal Fang, in Abyssal tongues. **The Flamehound** among frontier warriors.
+
 **Aberration Beast, Infernal Tracker · T5, Extreme Threat · Abyssal and Corrupted Wellsprings with intense Fire Essence overlay · Abyssal Depths and corrupted warzones**
 
 Summoned or spawned from cursed battlegrounds and Abyssal rifts, serving dark warlords, demons and necromancers **as relentless hunters and guardians.**
 
-Large canine forms **wreathed in flickering flames and shadow.** Eyes blazing molten red, fur smouldering with internal fire. **Jaws dripping acidic saliva.**
+Large canine forms **wreathed in flickering flames and shadow.** Eyes blazing molten red, fur smoldering with internal fire. **Jaws dripping acidic saliva.**
 
 Aggressive, loyal, relentless. They hunt in packs or alone **and are capable of terrifying coordinated attacks.**
 
@@ -54,16 +63,21 @@ Aggressive, loyal, relentless. They hunt in packs or alone **and are capable of 
 ## Night Gaunt
 
 > *Skathul*, Silent Shadow, in Outer World tongues. **The Black Whisper** among occult circles.
+
 **Aberration, Void-Touched Hunter · T7, Realm Hazard · Corrupted, Void and Abyssal Wellsprings · the Outer World's shadow domains and Abythron borderlands**
+
 > Spawned at the intersection of Abyssal and Void Wellsprings, **their existence predating mortal memory.** Believed to be **shadowy servants of ancient Archons tasked with harvesting souls and spreading fear.**
 >
 > **Their bodies phase between dimensions**, allowing them to appear and vanish at will.
+
 Skeletal gaunt figures with elongated limbs and **membranous wings that absorb light.** Skin deep shadow-black, almost translucent in moonlight, **eyes burning with cold pale blue fire.** *Joints crack audibly as they move with unnerving silence.*
 
 Cold, predatory, relentless. **They stalk in darkness before striking with lethal precision**, exploiting fear and confusion. **Their presence causes unsettling whispers and hallucinations, weakening mental defenses.**
 
-**Phase Shift** slips between shadow and reality, becoming intangible briefly. **Soul Rend** — **strikes sever Essence threads, causing instant paralysis or death.** **Whispering Veil** induces terror and hallucination. **Silent Flight.**
-> Vulnerable to light-based Essence and sacred wards. **Physical attacks harm them during phase-shift recovery.** And they are **highly sensitive to sound — loud noise disrupts their stealth.**
+**Phase Shift** slips between shadow and reality, becoming intangible briefly. **Soul Rend:** **strikes sever Essence threads, causing instant paralysis or death.** **Whispering Veil** induces terror and hallucination. **Silent Flight.**
+
+> Vulnerable to light-based Essence and sacred wards. **Physical attacks harm them during phase-shift recovery.** And they are **highly sensitive to sound: loud noise disrupts their stealth.**
+
 *The Black Whisper Hunt chronicles a Concord operation to purge an infestation from a remote frontier town. Survivors recount eerie voices and vanished neighbors before the final battle.*
 
 ---
@@ -71,13 +85,14 @@ Cold, predatory, relentless. **They stalk in darkness before striking with letha
 ## Lamia
 
 > *Serpentara*, Mistress of Scales, in Old Parunic. **Veilbinder** among southern frontier tribes.
+
 **Aberration, Enigmatic Spirit-Hybrid · T5, Extreme Threat · Corrupted and Ancestral Wellsprings with minor Dream-aspected influence · Material World borderlands and shadowed enclaves**
 
 **Ancient spirit-touched beings born from the fusion of serpent Essence and corrupted human souls.** Legend places their origin in **forbidden rituals attempting to bind primal Wellspring serpents with mortal will**, producing creatures that blur the line between flesh and otherworldly Essence.
 
 The upper body a hauntingly beautiful human female, pale or iridescent, **with faint scale patterns along arms and neck.** The lower body a sinuous serpent tail in dark shimmering scale. *Their movements are hypnotic and unnervingly graceful, accompanied by faint whispers.*
 
-**Cunning, patient and predatory. They favor psychological manipulation** — seduction, deception and trap over direct confrontation. Solitary, **though they occasionally form covens to expand their influence over a region.**
+**Cunning, patient and predatory. They favor psychological manipulation**: seduction, deception and trap over direct confrontation. Solitary, **though they occasionally form covens to expand their influence over a region.**
 
 **Illusory Veil** disorients and ensnares minds. **Essence Drain** saps vitality through prolonged contact or hypnotic gaze. **Serpent's Coil** constricts physically **and metaphysically, disrupting Essence flow.** **Dreamweave** invades dreams and builds nightmare constructs.
 
@@ -90,6 +105,7 @@ The upper body a hauntingly beautiful human female, pale or iridescent, **with f
 ## Arachne
 
 > *Silkraeth*, Weaver of Fates, in Old Parunic. **The Spider Queen's Hand** among shadow cults.
+
 **Aberration, Spirit-Hybrid Predator · T6, Domain Threat · Corrupted and Dream-aspected Wellsprings · Outer World shadow forests and crevice-webbed zones**
 
 Descended from **cursed unions between mortal weavers and shadow spirits of the Outer World.** They embody the dual nature of artistry and predation, **using supernatural webs to trap Essence, memories and flesh alike.**
@@ -109,6 +125,7 @@ Calculating patient hunters. They spin vast webs of magical and physical thread,
 ## Gorgon
 
 > *Sthenara*, Stone Veil, in Old Parunic. **Petrashade** in Outer World dialect.
+
 **Aberration, Stoneborn Predator · T7, Realm Hazard · Corrupted Wellsprings with heavy earth-elemental and petrification overlay · shadowed caves and ruined temples of the Outer World**
 
 Born from the twisted fusion of corrupted Wellspring Essence and ancient petrifying magic. **Said to descend from the cursed bloodlines of fallen spirits who sought dominion over life and death**, they embody **the raw power to unmake living flesh into stone.**
@@ -117,24 +134,27 @@ Humanoid in shape with **thick stone-like skin cracked with glowing fissures.** 
 
 Lurking predators preferring ambush over brute force. Solitary and territorial, **often defending Wellspring scars or crevice breaches.**
 
-**Petrifying Gaze** turns flesh to stone instantly or slowly depending on focus. **Essence Venom Breath** weakens flesh and disrupts Wellspring flow. **Stone Armor.** **Terrifying Roar** causes psychological terror.
-> **The gaze requires line of sight and focus — distractions or reflections break its effect.** Vulnerable to rapid close-quarters assault before petrification sets in. **Essence purifying rituals degrade their petrification powers temporarily.**
-*The Siege of the Stone Gate recounts a gorgon's defense of a crevice breach, turning entire battalions into statues. Tales of the Crystal Cursed originate from victims who slowly petrified over years.*
+**Petrifying Gaze** turns flesh to stone instantly or slowly depending on focus. **Essence Venom Breath** weakens flesh and disrupts the Aether around it. **Stone Armor.** **Terrifying Roar** causes psychological terror.
+
+> **The gaze requires line of sight and focus: distractions or reflections break its effect.** Vulnerable to rapid close-quarters assault before petrification sets in. **Essence purifying rituals degrade their petrification powers temporarily.**
+
+*The Siege of the Stone Gate recounts a gorgon's defense of a crevice breach, turning entire companies into statues. Tales of the Crystal Cursed originate from victims who slowly petrified over years.*
 
 ---
 
 ## Basilisk
 
 > *Sserak*, Stone Stare, in Old Parunic. **The Death Coil** among frontier hunters.
+
 **Aberration, Reptilian Predator · T5, Extreme Threat · Corrupted and Abyssal Wellsprings heavily overlaid with petrification Essence · shadowed forests, deep caves, crevice-riddled wastelands**
 
-Ancient reptilian creatures emerging **where Wellspring flows have become twisted by Abyssal and Corrupted forces.**
+Ancient reptilian creatures emerging **where the Aether of a Wellspring site has been twisted by Abyssal and Corrupted forces.**
 
-Lizard-like beasts with thick scaled hides in mottled dark green, brown or stone gray. **Eyes glowing sickly yellow or amber**, bodies adorned with jagged spines. *Their movements are slow and deliberate — lethal patience embodied.*
+Lizard-like beasts with thick scaled hides in mottled dark green, brown or stone gray. **Eyes glowing sickly yellow or amber**, bodies adorned with jagged spines. *Their movements are slow and deliberate, lethal patience embodied.*
 
 Solitary and territorial. **They ambush by stealth and patience**, relying on the gaze to incapacitate before closing. **Intelligent hunters that avoid unnecessary confrontation** unless defending territory or hunting large prey.
 
-**Petrifying Gaze.** **Corrosive Venom** weakens Essence flow and damages flesh over time. **Camouflage** in rocky or forested ground. **Stone Hide** — mineralised scales resistant to physical and magical attack.
+**Petrifying Gaze.** **Corrosive Venom** weakens Essence flow and damages flesh over time. **Camouflage** in rocky or forested ground. **Stone Hide:** mineralized scales resistant to physical and magical attack.
 
 **The gaze requires line of sight; mirrors and reflective surfaces repel it. Vulnerable to swift attack and Essence purging. Slow movement makes flanking possible.**
 
@@ -145,15 +165,16 @@ Solitary and territorial. **They ambush by stealth and patience**, relying on th
 ## Cockatrice
 
 > *Strathal*, Venom Eye, in Old Parunic. **The Deathclaw** among frontier hunters.
+
 **Aberration, Reptilian Avian Predator · T5, Extreme Threat · Corrupted and Abyssal Wellsprings overlaid with toxic and petrification Essence · dense swamps, ruined temples, corrupted Wellspring zones**
 
-Fearsome hybrids **born from the unholy fusion of corrupted reptilian and avian Essence**, emerging from the darkest swamps and crevice-shadowed ruins where Wellsprings pulse with chaotic energy.
+Fearsome hybrids **born from the unholy fusion of corrupted reptilian and avian Essence**, emerging from the darkest swamps and crevice-shadowed ruins where Wellspring Aether churns and goes bad.
 
-A monstrous blend of rooster and serpent — feathered wings, scaled legs, sharp beak, **a long serpentine tail.** Eyes glowing with poisonous light; plumage from sickly green to dark mottled hues.
+A monstrous blend of rooster and serpent: feathered wings, scaled legs, sharp beak, **a long serpentine tail.** Eyes glowing with poisonous light; plumage from sickly green to dark mottled hues.
 
 Aggressive and territorial, **nesting in hidden lairs and defending them fiercely.**
 
-**Petrifying Gaze.** **Venomous Claws** inflict toxic wounds causing paralysis. **Flight** — agile flyers capable of swift aerial strikes. **Territorial Screech** stuns and disorients.
+**Petrifying Gaze.** **Venomous Claws** inflict toxic wounds causing paralysis. **Flight:** agile flyers capable of swift aerial strikes. **Territorial Screech** stuns and disorients.
 
 *Gaze requires line of sight; reflective surfaces block or reflect it. Vulnerable to swift coordinated attack. Susceptible to Essence purifying rituals and fire magic.*
 
@@ -164,6 +185,7 @@ Aggressive and territorial, **nesting in hidden lairs and defending them fiercel
 ## Manticore
 
 > *Zha'keth*, Spine Sting, in Old Parunic. **The Sand Scourge** among desert tribes.
+
 **Aberration, Venomous Beast · T5, Extreme Threat · Corrupted and Harmonic Wellsprings with venomous Essence overlays · arid deserts, rocky canyons, crevice-touched wastelands**
 
 Predators born from corrupted Wellspring Essence **blending primal feline and scorpion traits.**
@@ -172,7 +194,7 @@ Large feline body with **a spiked armored tail resembling a scorpion's stinger.*
 
 Territorial and aggressive, hunting alone or in small family groups. **Highly intelligent for beasts and capable of calculating attacks.**
 
-**Venomous Sting** delivers paralysing or necrotic venom. **Winged Ambush** surprises prey from above. **Savage Claws.** **Sand Camouflage** blends with desert terrain and dust storms.
+**Venomous Sting** delivers paralyzing or necrotic venom. **Winged Ambush** surprises prey from above. **Savage Claws.** **Sand Camouflage** blends with desert terrain and dust storms.
 
 **Vulnerable to cold and water-based Essence. The wings are fragile and susceptible to damage. And their territorial instincts can be exploited by skilled hunters.**
 
@@ -183,12 +205,15 @@ Territorial and aggressive, hunting alone or in small family groups. **Highly in
 ## Wendigo
 
 > *Ghrosk*, the Hunger Eternal, in Old Sylvaar. **Frostbane** among northern frontier tribes.
+
 **Aberration, Spirit-Cursed Predator · T6, Domain Threat · Corrupted Frost Wellsprings with an overlay of ancestral torment and despair Essence · frozen tundra and the Innerworld's icy wilds**
+
 > **Cursed spirits born from mortals who succumbed to overwhelming hunger and despair**, their souls twisted by corrupted Frost Wellsprings and ancient famine curses.
 >
 > Legend says the first Wendigo rose from **a tragic winter where entire villages starved and the land itself seemed to wail in anguish.**
 >
 > *They are embodiments of insatiable hunger and cold death. The only entry in the register whose origin is a famine.*
+
 Gaunt towering humanoid forms draped in frost and rags, **glowing icy blue eyes**, elongated limbs. Skin cracked and frozen, **mist eternally rising from the breath.** Antler-like bone growths sometimes adorn the skull; **claws resemble jagged shards of ice.**
 
 Relentless, **driven by endless hunger and madness.** They hunt anything that moves with terrifying endurance and predatory cunning. **Their presence chills the air and freezes water in their wake.** Usually solitary, **though they have been known to form packs during the harshest winters.**
@@ -197,6 +222,8 @@ Relentless, **driven by endless hunger and madness.** They hunt anything that mo
 
 **Vulnerable to fire and heat. Their madness causes unpredictable, reckless behavior. And prolonged exposure to Harmonic Essence weakens their corrupted core.**
 
-*The Blight of Frost Hollow tells of a Wendigo terrorising mountain villages for decades until shamans and hunters banished it. The Winter's Maw campaign suffered severe losses to Wendigo ambushes on supply runs.*
-> **Northern tribes conduct rites to protect against their hunger — and to honor the spirits of those lost to the curse.**
+*The Blight of Frost Hollow tells of a Wendigo terrorizing mountain villages for decades until shamans and hunters banished it. The Winter's Maw campaign suffered severe losses to Wendigo ambushes on supply runs.*
+
+> **Northern tribes conduct rites to protect against their hunger, and to honor the spirits of those lost to the curse.**
+
 - [[The Bestiary/The Corrupted and the Risen/Aberrations/Lich]]

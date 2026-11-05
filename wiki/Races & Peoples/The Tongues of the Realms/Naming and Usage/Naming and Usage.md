@@ -4,6 +4,8 @@ title: Naming and Usage
 
 ![[Assets/Paintings/tongues.webp]]
 
+The fishwives of Cold Quay once kept a duke's son standing on the bridge for an hour, in his good blue, by asking him loudly and in six languages whose he thought he was.
+
 *How the peoples name things, swear, and build words from their element inventories.*
 
 - [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults|Swears, Oaths and Insults]]: Six peoples and how they curse · the Kharven, the Moto, the Dawi, the Accord, the elves and the Zettari · and the words every people shares

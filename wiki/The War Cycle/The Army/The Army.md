@@ -4,6 +4,8 @@ title: The Army
 
 ![[Assets/Paintings/war-cycle.webp]]
 
+The muster song of the Red Ferry Company runs to nineteen verses, of which two concern the enemy and the other seventeen concern the pay.
+
 *What an army is made of, who pays for it, and how it moves.*
 
 - [[The War Cycle/The Army/The Order of Battle|The Order of Battle]]: What an army is made of, and who owns it

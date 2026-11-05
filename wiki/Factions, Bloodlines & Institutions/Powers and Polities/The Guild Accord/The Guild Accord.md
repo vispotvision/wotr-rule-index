@@ -18,7 +18,7 @@ tags:
 
 ---
 
-## Preamble — The Nature of the Accord
+## Preamble: The Nature of the Accord
 
 The Guild Accord is the communion of guilds, academies, and Orders, signed circle by circle, united beneath the **Concord Codex**: a metaphysical treaty binding to law every Wellspring practitioner who swears to it. Each oath sworn, each commission fulfilled, each judgment rendered echoes through the **Concord Lattice**: a living web of Essence signatures that records every deed, every betrayal, every act of mercy in harmonic permanence.
 > Membership is not merely political. **It is spiritual.** To join the Accord is to offer a fragment of one's Soul Crystal to the Lattice, forever binding one's Essence to the Codex's truth.
@@ -27,9 +27,9 @@ The Guild Accord is the communion of guilds, academies, and Orders, signed circl
 >
 > Through this covenant, the Realms endure.
 >
-> **Read the Modern Era page first.** The covenant below is unchanged and so are the Divisions, the Tiered Path, the Commission Classes and the Black Concord. What has changed is the **register**: Lattice terminals, projected sigils, Aether credits and echo marks are rendered in the Draw Age as **the board, seal colors struck in wax, draughts and letters of credit, and entries in ink.** Nothing metaphysical is lost. The Lattice still records. It is not a screen, and nobody in the four quarters has ever seen a number floating in the air.
+> **Read the Dark Ages page first.** The covenant below is unchanged and so are the Divisions, the Tiered Path, the Commission Classes and the Black Concord. What has changed is the **register**: the old codices speak of Lattice-stones, sigils hung in the air, Aether credits and echo marks, and the Dark Ages render them as **the board, seal colors struck in wax, draughts and letters of credit, and entries in ink.** Nothing metaphysical is lost. The Lattice still records, and nobody in the four quarters has ever seen a number floating in the air.
 >
-> The Modern Era page also carries what this codex never had: **where the Accord actually reaches**, the Divisions as rivals rather than colleagues, the politics of the High Concordant, the company and academy structures beneath the Guildmasters, and the great offices.
+> The Dark Ages page also carries what this codex never had: **where the Accord actually reaches**, the Divisions as rivals rather than colleagues, the politics of the High Concordant, the company and academy structures beneath the Guildmasters, and the great offices.
 
 ---
 
@@ -46,6 +46,16 @@ A circle is drawn and signed in a hall, its names read out one by one, and it bi
 **Where a circle has signed, the Articles and the Commission framework bind as law**: every hall inside it posts to one board, grades by the same Tiers, answers to the same Divisions and licenses hire by the same examination. **Where no circle has signed, they do not bind yet.** There the halls keep their own charters and their own boards, the chancery's courts sit for the parties who choose them, and the Articles are a custom a merchant may take or leave.
 
 And the ground is crowded with those who have not signed. **Holdout guilds** keep their own boards and their own grades, and some are older and richer than any circle. **Rival hunting companies**, chartered by a crown or by nobody, bid against the halls for the same bounties. **Unlicensed crews** work cheapest of all, take the postings no licensed party will touch, and are hired by every district that cannot pay a hall's fee.
+
+---
+
+## What You Will Actually See
+
+*An archivist's note, pinned into the open shelf's copy, because a Codex tells you what a thing claims and leaves you to find out what it looks like.*
+
+You will see a stone hall with a green-painted door, a bounty board pinned three deep, a beam in the yard that any person may test at any hour, and a clerk with ink on his cuff. Nobody can hand you the Accord. It lives in that hall as a seal press in a locked chest, colored wax, and the Measurewright who comes through on circuit with a fork and a bad temper and is prepared to say in public that your weights lie. **Guild law** is the formulary those people carry, the chancery's Articles and the market court that sits beside the beam, and it reaches you as a stamp on your measure, a license in your purse and a fine set to your means.
+
+Expect the people in that hall to disagree. The Hall-Warden wants fees, the trace examiner wants evidence, and the Measurewright wants everybody else to admit that the needle was right the first time. A baker meets them when her loaf is weighed, a ferryman when he tries to take a toll on a stretch he has stopped keeping, and a child when her Crystal wakes and the Hall-Warden turns up at her mother's door with an indenture and a very good dinner. Across the street there is generally a sect, in its colors, whose elders consider the whole establishment a tax on talent and whose core disciples are carrying Guild tokens anyway.
 
 ---
 
@@ -77,10 +87,10 @@ flowchart TD
 | **Enforcement** | Lawkeeping, Sealwright deployment, Wellspring policing, apprehension of Codex violators. **Its High Warden's presence in a realm constitutes martial law** |
 | **Arbitration** | Diplomacy, treaty enforcement, mediation between nations, adjudication of Trials of Resonance |
 | **Research & Archives** | Magical scholarship, Codex preservation, artifact containment, stewardship of the Archives Eternal |
-| **Logistics & Supply** | Gate travel coordination, Essence transport, Aether credit distribution, global supply infrastructure |
+| **Logistics & Supply** | Gate travel coordination, Essence transport, Aether credit distribution, the Guild's carriers, depots and riders across the four quarters |
 | **The Black Concord** | *The sixth and unspoken Division. Reports only to the High Concordant. Its existence is not acknowledged in the public Codex* |
 
-**Regional Envoys** supervise all Accord activity within a realm or kingdom. **Guildlords** hold equivalent authority over specific territories or cultural regions, appointed to maintain harmonic stability where formal guild infrastructure is sparse. **Guildmasters** command individual guilds and academies; a Guildmaster's authority is absolute within their hall **but subordinate to Envoy directives.** **Party Leaders** are field commanders — not Guildmasters, and answerable to them. *A Party Leader's authority extends only to tactical execution; strategic decisions remain with their commanding Guildmaster or Envoy.*
+**Regional Envoys** supervise all Accord activity within a realm or kingdom. **Guildlords** hold equivalent authority over specific territories or cultural regions, appointed to maintain harmonic stability where formal guild halls are sparse. **Guildmasters** command individual guilds and academies; a Guildmaster's authority is absolute within their hall **but subordinate to Envoy directives.** **Party Leaders** are field commanders, answerable to their Guildmasters. *A Party Leader's authority extends only to tactical execution; strategic decisions remain with their commanding Guildmaster or Envoy.*
 
 ---
 
@@ -116,7 +126,7 @@ Commissions are the primary mechanism of advancement. Each completed mission dee
 
 Party Leaders hold full tactical authority but remain **metaphysically accountable** to their Guildmaster. Every decision made under a Commission's banner is recorded in the Lattice, and deviations from sanctioned parameters **trigger automatic review.**
 
-**Cross-guild teams** must declare a Primary Commanding Party — resonance overlap between multiple guild signatures causes harmonic interference if chain of command is ambiguous. **Failure clauses:** if a Commission collapses or violates Codex Law, Enforcement intervenes immediately and survivors are brought before Arbitration. **Essence Resonance Checks are mandatory post-mission** — prolonged Wellspring exposure without cleansing destabilizes the Soul Crystal and is punishable under the Law of Stability.
+**Cross-guild teams** must declare a Primary Commanding Party, because resonance overlap between multiple guild signatures causes harmonic interference if chain of command is ambiguous. **Failure clauses:** if a Commission collapses or violates Codex Law, Enforcement intervenes immediately and survivors are brought before Arbitration. **Essence Resonance Checks are mandatory post-mission**: prolonged Wellspring exposure without cleansing destabilizes the Soul Crystal and is punishable under the Law of Stability.
 
 ---
 
@@ -135,20 +145,14 @@ Every Concord agent, from the lowest courier to the Chosen of the Codex, abides 
 ## The Codex in Full
 
 The ranks and what they cost. The currency of remembrance and the nine ways a soul is unmade. The Division that is not named. The network that carries everything. The army bound by resonance rather than nationality. And the city that is not a city.
-> **The Modern Era page** is the newest and the one to open first if you are writing a scene rather than checking a rank.
-> 
-> **Reach.** Strongest on the New World's arc, chartered from nothing so that its chartered halls are not one jurisdiction among several but *the* jurisdiction, running the Accord's text by charter ahead of any circle, though the elven old-ground beside the arc carries four Eons of Eressean law the Accord did not displace; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the conduit, because the Accord's reach ends where the wire ends, so **every district the Withering cuts is a district the Accord quietly stops governing.**
-> 
-> **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
-> 
-> **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, not a job with wages.
+> **The Dark Ages page** is the newest and the one to open first if you are writing a scene rather than checking a rank.
 >
-> **Reach.** Strongest on the New World's arc, chartered from nothing so that the Accord is not one jurisdiction among several but *the* jurisdiction, though the elven old-ground beside the arc carries four Eons of Eressean law the Accord did not displace; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the conduit, because the Accord's reach ends where the wire ends, so **every district the Withering cuts is a district the Accord quietly stops governing.**
+> **Reach.** Strongest on the New World's arc, chartered from nothing so that its chartered halls are the only jurisdiction there, running the Accord's text by charter ahead of any circle, though the elven old-ground beside the arc carries four Eons of Eressean law the Accord did not displace; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the relay, because the Accord's reach ends where its riders and its beacon line end, so **every district the Withering thins is a district the Accord quietly stops governing.**
 >
-> **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
+> **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is curated more than it is exercised. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
 >
-> **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, not a job with wages.
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
+> **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, and the party holds shares where it might have wanted wages.
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Merit and Severance]]
 - [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Black Concord]]

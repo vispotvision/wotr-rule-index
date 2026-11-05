@@ -4,6 +4,8 @@ title: Moto Element Inventory — Japonic Stratum
 
 # Moto Element Inventory — Japonic Stratum
 
+Some generations back a retainer of the Akagane named his firstborn Tendoku, heaven and alone, at the spring naming, in a forge-yard hung with so much red-bronze cloth that the sparrows would not land in it. The Kōkan's envoy, in red enamel, asked over the rice whom exactly the sky had left standing, and whether the sky had been consulted. The boy had a new name by supper, kept the old one anyway, and fought six duels across forty years over which of the two would be read at Ice-out. A Moto element weighs that much.
+
 Moto naming is Japonic, and this is its element bank. Same shape as the Yukari inventory: thirty elements in five categories, two-element compounds, two to four syllables, vowel-forward, no clusters (Naming Guide §5.1). Nothing here changes a name already on the page.
 
 **Attested, not coined:** the elements marked *attested* are lifted from names and terms already in canon. Every other element and every gloss is **coined**.
@@ -28,15 +30,15 @@ that holds the seat, and for a Moto whose Line is not the point of the sentence
 
 **Byakuya** (near-white), **Tenrai** (gold, banner-heraldry), **Amagiri** (indigo,
 
-mist-gray) — from *The Moto Bloodline — Material Culture*.
+mist-gray), from *The Moto Bloodline — Material Culture*.
 
 ## The thirty elements
 
-- **Crown & seat:** Kō (crown — *attested*, Kōkan), Kan (the seat held — *attested*, Kōkan), Za (the chair itself), Ōmi (the one who is looked at), Tsukasa (office), Ren (the drilled, the tempered — *attested*, Kairen, gloss coined)
-- **Metal & line:** Shiro (silver, white — *attested*, Shirogane), Aka (copper, red — *attested*, Akagane), Kuro (black — *attested*, Kurosetsu), Gane (worked metal — *attested*, the -gane Lines), Byaku (white — *attested*, Byakuya), Beni (the crimson kept hidden — *attested*, Kurenai)
-- **Sky & weather:** Ten (heaven — *attested*, Tenrai), Rai (thunder — *attested*, Tenrai), Ama (rain, heaven — *attested*, Amagiri), Giri (mist; also the duty that binds — *attested*, Amagiri), Fū (wind — *attested*, Fūkoku), Yuki (snow — *attested*, Yukazuri)
-- **Severance & exile:** Doku (alone, the severed one — *attested* in Sodoku and Rikudoku, gloss coined), Setsu (the cut — *attested*, Kurosetsu), Zuri (what is dragged behind — *attested*, Yukazuri), Muken (the unseen, the withheld — *attested* as a name, gloss coined), Bara (the root, the origin — *attested*, Bara Moto, gloss coined), Riku (the land left — *attested*, Rikudoku)
-- **Water & the Works:** Mizu (water — *attested*, Mizuki), Ki (the tree, what stands — *attested*, Mizuki), Sou (the pair, the double — *attested*, Souma), Ma (the interval — *attested*, Souma), Kai (the sea, the open — *attested*, Kairen), Sai (the rite performed — *attested*, Saishiki)
+- **Crown & seat:** Kō (crown: *attested*, Kōkan), Kan (the seat held: *attested*, Kōkan), Za (the chair itself), Ōmi (the one who is looked at), Tsukasa (office), Ren (the drilled, the tempered: *attested*, Kairen, gloss coined)
+- **Metal & line:** Shiro (silver, white: *attested*, Shirogane), Aka (copper, red: *attested*, Akagane), Kuro (black: *attested*, Kurosetsu), Gane (worked metal: *attested*, the -gane Lines), Byaku (white: *attested*, Byakuya), Beni (the crimson kept hidden: *attested*, Kurenai)
+- **Sky & weather:** Ten (heaven: *attested*, Tenrai), Rai (thunder: *attested*, Tenrai), Ama (rain, heaven: *attested*, Amagiri), Giri (mist; also the duty that binds: *attested*, Amagiri), Fū (wind: *attested*, Fūkoku), Yuki (snow: *attested*, Yukazuri)
+- **Severance & exile:** Doku (alone, the severed one: *attested* in Sodoku and Rikudoku, gloss coined), Setsu (the cut: *attested*, Kurosetsu), Zuri (what is dragged behind: *attested*, Yukazuri), Muken (the unseen, the withheld: *attested* as a name, gloss coined), Bara (the root, the origin: *attested*, Bara Moto, gloss coined), Riku (the land left: *attested*, Rikudoku)
+- **Water & the Works:** Mizu (water: *attested*, Mizuki), Ki (the tree, what stands: *attested*, Mizuki), Sou (the pair, the double: *attested*, Souma), Ma (the interval: *attested*, Souma), Kai (the sea, the open: *attested*, Kairen), Sai (the rite performed: *attested*, Saishiki)
 
 ## How a name is built
 
@@ -58,11 +60,11 @@ sea: the assay-line's factor at a port); *Amayuki Amagiri Moto* (rain + snow);
 
 *Tendoku* (heaven + alone: the one the sky left standing). Compare the attested
 
-*Sodoku*, *Yukazuri*, *Mizuki*, *Byakuya*, *Kairen*, *Fūkoku*, *Rikudoku* — every
+*Sodoku*, *Yukazuri*, *Mizuki*, *Byakuya*, *Kairen*, *Fūkoku*, *Rikudoku*: every
 
 one of them reads as two of these elements.
 
 ## Notes on the bank
 
 1. **Tenrai** is both a Line and a house that was massacred (*Tenrai Moto*); Ten and Rai remain elements of the bank.
-1. **Artemis** and **Emira** are attested Moto given names outside this register — outliers, not evidence against it.
+1. **Artemis** and **Emira** are attested Moto given names outside this register: outliers, and no evidence against it.

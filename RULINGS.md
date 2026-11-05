@@ -3809,3 +3809,9 @@ Context: Reverses a sentence the Ladder page calls load-bearing. What keeps Stag
 Isaac, 2026-11-05: "aether class are supposed to be classed like in unbound mb i had to fix that". Aether Classes are meant to work as classes the way they do in Unbound by Nicoli Gonnella. This replaces his questionnaire answer that the Paths are the classes, pending what exactly he means. The ladder on file (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute) stands until he says how it changes.
 
 Context: Natalie could not confirm how Unbound's classes work from two web searches and has asked him to describe it. Reference for ideas only; nothing carried across.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "I think I wanna remove the different crafts since theyy aren't reallyt needed". The division of magic into Spellcraft, Runecraft, Draftcraft and Chantcraft is to be removed. This reverses his questionnaire answer of the same night that crafts are skills anyone can level, as far as the named crafts go. AGENT RULING (Natalie, overturnable): the things themselves stay, Drafts, runes, tags and chants, as ordinary skills and trades with no ruling category above them.
+
+Context: Bears on The Four Crafts, The Disciplines' Spellcraft shelf, NATALIE's "Chantcraft is the fifth craft" and "Technique entries", guild titles, Lexicon and Categories pages.

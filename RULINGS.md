@@ -3653,3 +3653,9 @@ Context: Inner World redo. The wiki's spelling Sum-gol is kept. Cozbi's card has
 Isaac, 2026-11-05: "the north only has one True Kingdom which is Khavern however they built out the Empire or Muken did it is very much an empire". Kharven is the North's only true kingdom, and Muken built an empire out of it. The six Banner Houses hold lands inside that empire and are not kingdoms. AGENT RULING (Natalie, overturnable): the empire is styled the Ashen Empire of Kharven, and the banner lands keep their "The X of Y" names as its holdings.
 
 Context: Inner World redo. Read "Khavern" as Kharven. Imports/drafts/inner-world-redo/KINGDOMS.md carries the names.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "Yan and Ryu are apart of the Dynasty of Sumgol Marrick Corwen are also apart of there ownseperate kingdoms but give them actual names like The Holy Sea of Alabaster same with Sum gol and all the others I need names that sound good". The Yan Hall and House Ryu belong to the Dynasty of Sum-gol. Marrick and Corwen each hold a kingdom of their own (Natalie's reading of the sentence, overturnable). Natalie's realm names on the model of the Holy Sea of Alabaster are in imports/drafts/inner-world-redo/KINGDOMS.md, for him to keep or cut.
+
+Context: Inner World redo.

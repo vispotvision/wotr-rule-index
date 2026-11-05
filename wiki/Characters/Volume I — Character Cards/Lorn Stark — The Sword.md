@@ -3,7 +3,7 @@
 # Lorn Stark
 
 **Lorn Stark** · The Sword · Kharven, House Stark · as of the morning of the seven lines in the Hall of Verdicts
-**Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
+**Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade
 **Aura and sound** · the Stark cold rather than a Family hue: a warm dark gray at Flourishing's clarity with a hard white rime over it that silvers timber and stiffens snow round his boots; sound: the creak of a frozen lake taking weight
 **Stack** · sustainable B in Penetration, Fortitude and Constitution · cap +2 Grades · layers: FROSTFALL when called, a sworn vow when spoken
@@ -43,6 +43,8 @@
 **Soul Crystal Tier** · Awakened
 **Crystal State** · Refined, and cold to the touch of anyone who reads it
 **Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 ## III. Wellspring Harmonizations
 

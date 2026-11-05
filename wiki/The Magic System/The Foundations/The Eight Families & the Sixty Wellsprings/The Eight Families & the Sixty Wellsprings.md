@@ -39,9 +39,9 @@ That is why the Sixty matter more than almost anything else on a sheet. A Stage 
 
 | Wellspring | On the Body | On the Spirit | On Fate |
 |---|---|---|---|
-| **Pyreveil** (Wild) | The heat lives in the tissue, blows burn on contact and the body stops minding fire | Thrown fire that burns what is false in a thing before what is solid | A claim that burns its way through: oaths and rivalries consume what stands in them, and ground catches around the person. On the rare day its walker pulls a thread, the wall or rival that was already going to go, goes in fire |
-| **Absolution** (Spirit) | Old injuries stop costing what they cost. No heat and no glow, only a body that has stopped carrying its history | Lets the old poison out of a soul, one's own or a willing other's | A debt or grudge held on the Attraction Layer can be let go, and the thing it was pulling on stops pulling. A real pull turns that outward, and whatever was holding a guard up lets go of it |
-| **Benediction** (Fate) | A bond freely given lends the one blessed a real measure of steadiness, felt in the hands and the footing | A working carries the weight of the bond behind it | A bond the world weighs as a real thing, and an oath under it bears load. A sworn line with that bond under it fights better, and it holds on the morning the odds say it should break |
+| **Pyreveil** (Wild) | The heat lives in the tissue, blows burn on contact and the body stops minding fire | Thrown fire that burns what is false in a thing before what is solid | On its best day a claim can set light to what stands in its way, provided it was already dry: a rival's hired second, a grain store under old thatch and, only at the end of a life, an army's reasons for staying in the field. The heat leaves through the holder's own tissue |
+| **Absolution** (Spirit) | Old injuries stop costing what they cost. No heat and no glow, only a body that has stopped carrying its history | Lets the old poison out of a soul, one's own or a willing other's | A debt or grudge can be let go and the thing it was pulling on stops pulling, and at the end of long confession a host held in the line by an old wrong may wake with no clear reason to charge. It takes all the holder's strength and fails more often than not |
+| **Benediction** (Fate) | A bond freely given lends the one blessed a real measure of steadiness, felt in the hands and the footing | A working carries the weight of the bond behind it | A bond the world weighs as a real thing, and an oath under it bears load. The one it is given to fights with the odds spoken for in one place that matters, the spear going a hand wide or the bridge holding for that column, and the giver pays in their own blood and years |
 
 **A blow's character comes from Wellspring and Path.** Give two hitters the same Flux at the same Grade, one under Pyreveil and one under Nihiloth, and the first blow burns and ruptures while the second ends and quiets things. Hand that Pyreveil to a thrower on the Spirit Path and it is a third blow again, arriving from sixty paces. A Fate fighter's Pyreveil is mostly reach and a room that catches, and on the one day in a long while that they pull a thread it is a fourth: an ordinary cut, arriving because a strap has already burned through. The older books put all of this down to an inborn bias in the soul toward one Family or another. The trade has given that up, having never once found the bias in anyone who had not already spent ten years under the Wellspring it was supposed to explain.
 
@@ -61,7 +61,7 @@ Those figures are a sample from two sheets, every soul's road runs at its own sp
 
 **Each lens grows on its own.** A soul with three Wellsprings has three lenses at three stages of mastery, all under the Capacity rules further down this page, and compounding within a Family is described there.
 
-**You can see it.** A Family sets the base color of a person's aura, a Wellspring adds its texture and its own sound and smell, and an Aether Class or a big Trait adds a shape. A trained eye at fifty paces can tell you the Family, make a good guess at the Wellspring, and tell you from how steadily the color sits whether the lens is two years old or twenty.
+**You can see it.** A Family sets the base color of a person's aura, a Wellspring adds its texture and its own sound and smell, and a Class or a big Trait adds a shape. A trained eye at fifty paces can tell you the Family, make a good guess at the Wellspring, and tell you from how steadily the color sits whether the lens is two years old or twenty.
 
 *Measurewrights at Sealhall have spent a long time arguing about what exactly gets doubled, since the Grade holds still and no fork rings a lens. Their working answer is to ask the person who got hit.*
 
@@ -185,7 +185,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 >
 > **A site has a perimeter.** The density gradient gives warning. The surveyor feels the Aether thickening as they approach the core.
 >
-> **An object is binary. You are holding it or you are not**, and its internal domain contacts the Shell at zero distance. If the Shell is incompatible, **the resulting conversation was not authorized and cannot be escaped without severing the causal relationship at the Plane of Fate (the deepest plane, the control of Attraction and Obsession and the workings of reality itself) level.**
+> **An object is binary. You are holding it or you are not**, and its internal domain contacts the Shell at zero distance. If the Shell is incompatible, **the resulting conversation was not authorized and cannot be escaped without severing the causal relationship at the Plane of Fate (above the lower realities, the control of Attraction and Obsession and the workings of reality itself) level.**
 >
 > *The colloquial term for an Object Wellspring whose Attraction Layer (the layer that holds bonds and claims) will not accept a termination event is cursed.*
 
@@ -208,7 +208,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 ### The nested depth model
 
 **The three planes are nested, not stacked.**
-> **The Plane of Fate lies deepest**, the lattice upon which all possibility rests. **The Soul Plane lies between**, the stratum through which abstract law becomes a soul's felt truth. **The Physical Plane sits at the surface** (the Material Plane is the same place under its other name), where truth becomes event, body, ruin, and mountain range. Only the last two are realities in any careful sense: what lies deepest is everything that flows, every possibility, idea and concept, and "plane" is a courtesy.
+> **The Plane of Fate stands above the lower realities**, the lattice upon which all possibility rests. A surveyor measures from the ground he stands on and calls that depth, and a theologian points the other way, and they mean the same place. **The Soul Plane lies between**, the stratum through which abstract law becomes a soul's felt truth. **The Physical Plane sits at the surface** (the Material Plane is the same place under its other name), where truth becomes event, body, ruin, and mountain range. Only the last two are realities in any careful sense: what stands above them is everything that flows, every possibility, idea and concept, and "plane" is a courtesy.
 >
 > *Fate is a precursor. A tide that falls. What is decided at Fate-depth cascades through the Soul Plane and manifests on the Physical Plane as event.*
 >
@@ -218,7 +218,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 >
 > **Spirit** operates from the middle layer, **and the cascade runs upward**: the Crystal fires, the Shell expresses, the body manifests what the Soul Plane authored. *What reaches the surveyor comes from no outside blow. They are being authored from inside.*
 >
-> **Fate** operates from the deepest layer, **and the cascade has to climb through both of the others.** *By the time the surveyor can see what was decided, it has already happened to them, and it looks like luck.*
+> **Fate** operates from above both lower realities, **and the cascade has to come through both of the others.** *By the time the surveyor can see what was decided, it has already happened to them, and it looks like luck.*
 >
 > **Medium** operates at the Veil itself, **the threshold where one plane's law softens into another's.** Every layer moves at once, **and the movement is reciprocal.**
 

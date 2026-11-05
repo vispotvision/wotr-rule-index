@@ -1,7 +1,7 @@
 ![[Shōki Kurenai Moto — portrait.jpg]]
 
 **Shōki Kurenai Moto** · The Sin of Wrath · Moto, Kurenai line · as of the present reckoning, three centuries after the Hall
-**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body 70% / Fate 30% · Grandmaster · η 0.71 · Aether Class V, Radiant, Rot-Born · Crystal Sovereign, Overgrown over an open fracture
+**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body 70% / Fate 30% · Grandmaster · η 0.71 · Class unnamed · Aether V, Rot-Born · Essence Ø · Thread IV · Crystal Sovereign, Overgrown over an open fracture
 **Combat grammar** · Percussion
 **Aura and sound** · Caloria ember-orange at Dissonance clarity, brilliant and grained like a filament overdriven, rimmed black-violet where Vantabriel keeps what it takes; sound: a blast-furnace roar under a ringing of iron
 **Stack** · sustainable SS · cap +2 Grades · layers: SHAKUNETSU always standing; ABI or ENMA-CHŌ when called; the grudge bank
@@ -40,7 +40,9 @@
 **η** · 0.71. Below the Grandmaster band and standing as recorded. Twenty-nine parts in every hundred leave him as heat
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Overgrown, over an open Dissonance fracture along the line of the block. His moods stain the air; the fracture never closes into a feature
-**Aether Class** · V, Radiant, of the Rot-Born variant: a corrupted Shell that amplifies and corrodes with every working
+**Aether Class** · V, Radiant; of the Rot-Born variant: a corrupted Shell that amplifies and corrodes with every working
+**Essence Class** · Ø, Silent
+**Thread Class** · IV, Knotwright
 **Attraction / Obsession** · Obsession Force at full purchase. The gap the Unburied fills is the whole of him
 
 ## III. Wellspring Harmonizations

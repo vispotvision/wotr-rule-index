@@ -41,7 +41,7 @@ The soul cracks open to become something larger. The first crisis Stage. The arc
 
 ### Stage VI — Glory (Tier 5 · Expert)
 
-Peak of the inner phase. The self burns bright and is noticed. The Aura's weight on a room, felt Stage by Stage all the way up, can no longer be mistaken for anything else. Techniques carry the weight of identity rather than improvisation. The Crystal has processed Splintering's fractures into features. **Aether Class (the named class a soul is offered, ranked by how cleanly it passes power outward) emerges and the Echo field forms.** **Max Grade A. Ceiling 400.** *Catalyst:* willingly accepting genuine soul-cost to preserve something valued above the character's own structural integrity.
+Peak of the inner phase. The self burns bright and is noticed. The Aura's weight on a room, felt Stage by Stage all the way up, can no longer be mistaken for anything else. Techniques carry the weight of identity rather than improvisation. The Crystal has processed Splintering's fractures into features. **The three class ladders (Aether, Essence and Thread Class, each ranking how cleanly one layer of the soul passes power through it) can first be read, the soul makes its first offer of a named Class, and the Echo field forms.** **Max Grade A. Ceiling 400.** *Catalyst:* willingly accepting genuine soul-cost to preserve something valued above the character's own structural integrity.
 
 ### Stage VII — Refraction (Tier 5 · Expert)
 

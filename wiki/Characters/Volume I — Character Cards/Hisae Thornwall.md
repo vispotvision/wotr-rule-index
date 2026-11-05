@@ -3,7 +3,7 @@
 # Hisae Thornwall
 
 **Hisae Thornwall** · the Lady of Thornwall · House Thornwall of Thornhaven, a Banner House of the north; Byakuya-born · as of the ratification in the Hall of Verdicts, sworn for Thornhaven and the Thornwood and the corridors
-**Stat line** · Level 120 · Band II, Awakened · Stage V, Splintering · Path Fate 45% / Spirit 35% / Body 20% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
+**Stat line** · Level 120 · Band II, Awakened · Stage V, Splintering · Path Fate 45% / Spirit 35% / Body 20% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Harmonic, Refined
 **Combat grammar** · Command; she does not fight, she sends twelve hundred pikes up a stair nobody knew was there
 **Aura and sound** · near-white with a deep red line under it, the Byakuya colors, banked so low for forty years that a Tenrai factor could sit across a table from her and never see them · sound: dry leaves moving on a forest floor
 **Traits** · THE RED BEFORE THE WHITE (Inherited) · tell: her lips moving over the oath, with the doors shut · counter: make the Kōkan the knife / SMILE AND PAY (Primary) · tell: the dry smile · counter: none the Tenrai found in forty years / THE BACK DOOR (Secondary) · tell: she looks at a map for the way nobody uses · counter: a man who already knows the corridors
@@ -19,6 +19,10 @@
 **Realm / Faction** · House Thornwall and Thornhaven, the Thornwood and the corridors; one of the six Banner Houses, sworn to Muken Moto at the ratification
 **Refusal** · She will not let the oath die in the north, however long she has to keep it in the dark
 **Conviction** · One day the Kōkan would come home and need a back door
+
+**Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 **Primaries** · Vitality 350 · Ardency 250 · Gnosis 550 · Dexterity 300 · Harmonics 350 · Resilience 500 · Tempering 200 · Dominion 500 · **Pool** 3,000 (1,500 from Levels, 1,500 from Thresholds I to V), all spent
 **EU Reserve** · 90,707 EU · **Flux Density** · 15,000 EU/g · **AU/s** · 9,000 (15,000 × 0.60) · empties in 10.08 seconds at full output

@@ -3,7 +3,7 @@
 # Raizan Tenrai Moto
 
 **Raizan Tenrai Moto** · The Doom Breaker · Moto, Tenrai line · as of the present reckoning, eleven years after the corridor
-**Stat line** · Level 276 · Band III, Sovereign · Stage IX, Invocation · Path Spirit 50% / Fate 30% / Body 20% · Master · η 0.96 · Aether Class V, Radiant · Crystal Sovereign, Refined
+**Stat line** · Level 276 · Band III, Sovereign · Stage IX, Invocation · Path Spirit 50% / Fate 30% / Body 20% · Master · η 0.96 · Class unnamed · Aether II · Essence V · Thread IV · Crystal Sovereign, Refined
 **Combat grammar** · Blade
 **Aura and sound** · Limina at Invocation's clarity, a bright black-violet so faint at rest that it reads as the shadow of something else, with Oneirion's dream-lavender at its edges when he reads; sound: none, which is the sound people remember
 **Stack** · sustainable S in Finesse, Forecast, Feint and Perception · cap +2 Grades · layers: KAMIKAKUSHI or HITSUZEN when called
@@ -42,7 +42,9 @@
 **η** · 0.96. Far above the Master band and standing as recorded. Waste is heat and noise and light, and he has spent fifty years teaching his Crystal to make none
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, and narrowing: the Tengan shows him his own futures fewer every year
-**Aether Class** · V, Radiant
+**Aether Class** · II, Harmonic
+**Essence Class** · V, Ferryman
+**Thread Class** · IV, Knotwright
 
 ## III. Wellspring Harmonizations
 

@@ -9,9 +9,9 @@ tags:
 
 > *"Power is how cleanly you pass the infinite through the finite, whatever you happen to be holding."*
 >
-> Three separate measurements, constantly confused for one another. **Level** counts how many times a Crystal (the Soul Crystal, which is the soul itself, storing Essence and channeling it outward) has densified. **Tier Grade** reports raw magnitude. **Aether Class** reports how much of that magnitude survives the trip out through the Shell (the Crystal's outer layer, which turns inner power into outward force), and names what the soul has made of its life. A practitioner is described by all three and by the gaps between them.
+> Three separate measurements, constantly confused for one another. **Level** counts how many times a Crystal (the Soul Crystal, which is the soul itself, storing Essence and channeling it outward) has densified. **Tier Grade** reports raw magnitude. **Aether Class** reports how much of that magnitude survives the trip out through the Shell (the Crystal's outer layer, which turns inner power into outward force), and its two sister ladders, Essence Class and Thread Class, report the same for the soul's other two layers. A practitioner is described by all three measurements and by the gaps between them.
 
-A slate hangs under glass in the market hall at Harl Cross, chalked on the night of the Barn and the Clerk. Gerda Holt, whom the Salt Dogs' songs called the Barn, stood a head over the rail in a rust-colored leather apron with Level 198 on her sheet, an A-Grade Ardency (the stat for how hard a soul's Essence hits), and a Shell that read Class I under the class-name Wallbreaker. Mun Seo-yeon kept the accounts at a rope-walk, had come straight from work in her sleeve-guards, and carried Level 170, a B-Grade Ardency and a Class III Shell under the class-name Auditor. The slate went five to one on the Barn, because everybody in the Cross bet the first number they could read. Holt's opening punch missed and took the front off the grain hall and the front off the hall behind it, with orange steam pouring off her shoulders, because better than a third of everything she spent was leaving her as heat. By the differential rule (below) she wins any direct exchange, and Mun declined to offer her one. She went round and round the market in her sleeve-guards, spending a fraction of the price for every blow and taking one in return that cost her two ribs and most of an ear, while every roof in the Cross howled at her to stand still. Seven minutes in, the Barn's color began to stutter and her arms came down, at a tenth of her reserve, with most of the east side of the market in ruins. Mun walked up and broke her jaw. Two bookies went in the river that night, and the Salt Dogs now sing a different verse.
+A slate hangs under glass in the market hall at Harl Cross, chalked on the night of the Barn and the Clerk. Gerda Holt, whom the Salt Dogs' songs called the Barn, stood a head over the rail in a rust-colored leather apron with Level 198 on her sheet, an A-Grade Ardency (the stat for how hard a soul's Essence hits), and a Shell that read Aether I under the Class name Wallbreaker. Mun Seo-yeon kept the accounts at a rope-walk, had come straight from work in her sleeve-guards, and carried Level 170, a B-Grade Ardency and, on the Spirit Path, a Core that read Essence III under the Class name Auditor. The slate went five to one on the Barn, because everybody in the Cross bet the first number they could read. Holt's opening punch missed and took the front off the grain hall and the front off the hall behind it, with orange steam pouring off her shoulders, because better than a third of everything she spent was leaving her as heat. By the differential rule (below) she wins any direct exchange, and Mun declined to offer her one. She went round and round the market in her sleeve-guards, spending a fraction of the price for every blow she threw from the Core and taking one in return that cost her two ribs and most of an ear, while every roof in the Cross howled at her to stand still. Seven minutes in, the Barn's color began to stutter and her arms came down, at a tenth of her reserve, with most of the east side of the market in ruins. Mun walked up and broke her jaw. Two bookies went in the river that night, and the Salt Dogs now sing a different verse.
 
 Three numbers were on that slate, and the crowd had read one.
 
@@ -134,7 +134,8 @@ A normal look shows the Eight Primaries with their Grades, and a Sub-Stat appear
 ```
 [Mun Seo-yeon · Level 170 · Stage VI, Glory · Path: Spirit]
 [Human, Sum-gol lineage]
-[Class: Auditor · Tier III, Resonant]
+[Class: Auditor]
+[Aether I · Essence III · Thread Ø]
 [Ardency B · Vitality D · Gnosis C · Dexterity C]
 [Harmonics D · Resilience E · Tempering E · Dominion F]
 [Trait: Every Column Balances · Level 44]
@@ -163,15 +164,15 @@ And the same window in the middle of things, when it is mostly bad news arriving
 
 ---
 
-## The Aether Shell and the Tiers of Aether Class
+## The Aether Shell and Aether Class
 
-Where Temperance measures the refinement of the Essence Core (the Crystal's inner layer, holding identity, memory and Traits) on the Soul Plane, and Tier Grade measures raw output magnitude, the Aether Class System measures **how cleanly the Aether Shell conducts Essence outward into form.** It is the Shell's transparency: of what the Essence Core says, the share that actually arrives. That is the tier. On top of the tier sits the name.
+Where Temperance measures the refinement of the Essence Core (the Crystal's inner layer, holding identity, memory and Traits) on the Soul Plane, and Tier Grade measures raw output magnitude, the Aether Class System measures **how cleanly the Aether Shell conducts Essence outward into form.** It is the Shell's transparency, and that transparency is how strong a person's influence on the physical world is: of what the Essence Core says, the share that actually arrives. The Core and the Attraction Layer have ladders of their own, set out below. Beside all three, and no part of any of them, sits the name.
 
 ### The Class the Soul Offers
 
-At thresholds, starting where a Shell first takes a Class, **the soul offers its owner a named class that fits how they have lived.** The name arrives on the window, and it is usually embarrassing: Wallbreaker, Auditor, Ferryman, Gravedigger's Friend, Last Man Standing. It gives abilities, usually skills and an easier road to certain kinds of move, and it shapes what grows fastest from there. Some are shared by thousands, every hedge-rank Wallbreaker in the four quarters having roughly the same shoulders, and some have been held by exactly one person in the history of the Archives.
+At thresholds, starting at Glory, **the soul offers its owner a named class that fits how they have lived.** The name arrives on the window, and it is usually embarrassing: Wallbreaker, Auditor, Ferryman, Gravedigger's Friend, Last Man Standing. It gives abilities, usually skills and an easier road to certain kinds of move, and it shapes what grows fastest from there. Some are shared by thousands, every hedge-rank Wallbreaker in the four quarters having roughly the same shoulders, and some have been held by exactly one person in the history of the Archives.
 
-**It evolves at each tier by how it is lived.** When the Shell climbs, the class is offered again in a form chosen from what the person actually did with the last one, so two Auditors at Class II can come out at Class III as a Reckoner and a Debt Collector, and a soul with a false account of itself will find the window declining to share that account. The ladder below, Dormant through Absolute, is the class's tier, and from the first class at Glory that tier sets η (eta, the share of each spend that arrives as effect): the name changes, and the share that arrives follows the Shell.
+**It evolves by how it is lived.** Each time the person's leading ladder climbs, the class is offered again in a form chosen from what they actually did with the last one, so two Auditors on the second rung can come out on the third as a Reckoner and a Debt Collector, and a soul with a false account of itself will find the window declining to share that account. The class has no ladder of its own. The ladder below, Dormant through Absolute, belongs to the Shell, and from Glory it sets η (eta, the share of each spend that arrives as effect) for whatever goes out through the Shell: the name changes, and the share that arrives follows the layer.
 
 **The one wild concept stays the person's own.** A class is what the soul says about a life. A concept is what the person decided to do about it, and the class gets no vote on that: a Stage VII Auditor may well fight with soup. Cooks and Measurewrights will both tell you the two sometimes lean together, and the songs mix them up constantly.
 
@@ -205,9 +206,26 @@ Every Aether Shell radiates an Aetheric Signature described by three constants.
 **The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
 > The interaction is **not linear**. The jump from Class II to Class III produces the largest single improvement in stat-to-output fidelity. The jump from Class V to Class VI produces the most dramatic qualitative shift, from conventional force expression to inverted, negation-based expression. The jump to Class Ω produces output the stat system can no longer meaningfully track.
 
+### The Other Two Ladders
+
+The Shell is one layer of three, and the other two are graded the same way, Ø to Ω, read from Glory. **Essence Class** is the Essence Core and a person's influence on spiritual reality. **Thread Class** is the Attraction Layer and how much of Fate they can pull down and hold. VI on each ladder is lateral, an inverted way of holding that power, as it is here.
+
+| Numeral | Aether Class | Essence Class | Thread Class | Aether and Essence lose | Thread loses |
+|---|---|---|---|---|---|
+| **Ø** | Dormant | Silent | Unthreaded | Nothing gets out of that layer | Nothing gets out of that layer |
+| **I** | Muridic | Listener | Touched | Roughly 30 – 40% | Under the bottom of the table. No figure |
+| **II** | Harmonic | Answerer | Drawn | Roughly 15 – 25% | Under the bottom of the table. No figure |
+| **III** | Resonant | Confessor | Spinner | Roughly 5 – 10% | Roughly 30 – 40% |
+| **IV** | Luminous | Shepherd | Knotwright | Negligible | Roughly 15 – 25% |
+| **V** | Radiant | Ferryman | Weaver | Output begins exceeding the raw numbers | Roughly 5 – 10% |
+| **VI** | Voidic | Hollow | Severer | Qualitatively different | Qualitatively different |
+| **Ω** | Absolute | Absolute | Absolute | No longer a separate measurement | No longer a separate measurement |
+
+**Each ladder sets η for workings through its own layer**, and the Thread column is the steep one: its numeral gives η as two rungs below the same numeral elsewhere, most souls stay Ø for life, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. What each rung can actually do is on [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
+
 ### How a Shell Ascends
 
-The Shell's tier ascends through refinement, and conquest has never moved it, though conquest has moved a great many class-names. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives.
+The Shell's rung ascends through refinement, and conquest has never moved it, though conquest has moved a great many Class names. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives.
 
 **Temperance Refinement** · gradual clarity through discipline and self-confrontation. The most common and safest path. The Core refines, and the Shell learns to match.
 
@@ -232,7 +250,7 @@ The Shell's tier ascends through refinement, and conquest has never moved it, th
 ![[Assets/Diagrams/soul-crystal.svg]]
 
 > *"To refine the soul is to remove everything that was never truly part of the design, and polish has nothing to do with it."*
-The Crystal is the soul. It evolves through Developmental Tiers representing the synthesis of all three layers at once, each Threshold melting a layer down and rebuilding it. These Tiers are **correlated with but not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
+The Crystal is the soul. It evolves through Developmental Tiers representing the synthesis of all three layers at once, each Threshold melting a layer down and rebuilding it. These Tiers are **correlated with but not identical to** Temperance Stages or any of the three class ladders. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
 
 | Layer | Plane | What it does | The Path that leans on it |
 |---|---|---|---|
@@ -242,6 +260,7 @@ The Crystal is the soul. It evolves through Developmental Tiers representing the
 
 Every soul has all three layers, the unwoken included, and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] is the one its Crystal has learned to lean on. **Essence** is Aether refined in the Crystal and stamped with identity. The Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
 
+The numerals in the table below are the leading ladder's: read them on the Shell for a Body Path soul, on the Core for a Spirit Path soul, and on the Layer for a Fate Path soul, remembering how steep the last one is.
 
 | Tier | Condition | Corresponds to |
 |---|---|---|
@@ -276,13 +295,13 @@ Nobody's reserve refills out of thin air, thin air being precisely the trouble. 
 |---|---|
 | **Flux Density · EU/g** | The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output taken from the same reserve. |
 | **AU/s · Aether Units per second** | The rate a practitioner spends at full output. Governed by Ardency Flux, Ardency Alacrity, and Tempering Yield. **AU/s = Flux Density × η**, and the power that actually lands is **AU/s × η**. So η counts twice, on purpose: once for how much the Shell can move, and once for what survives the trip. |
-| **Eta · η · Efficiency** | The share of Essence spent that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat.** At full output a higher η empties the reserve faster, and for the same delivered effect it makes the reserve last longer, which is the whole of what happened to the Barn. Governed by Aether Class, Tempering Clarity, and Ardency Compression. |
+| **Eta · η · Efficiency** | The share of Essence spent that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat.** At full output a higher η empties the reserve faster, and for the same delivered effect it makes the reserve last longer, which is the whole of what happened to the Barn. Governed by the class ladder of the layer in use (Aether, Essence or Thread Class), Tempering Clarity, and Ardency Compression. |
 
 None of these four figures appears on a window. They are how assayers and scholars do the sums, and the owner sees only the bar, the percentage and the shake in their own hands.
 
 ### Efficiency by Tier of Standing
 
-**Which ladder to read.** From the first class at Glory, the Aether Class tier sets η, and the table below is two other things: the figure for the unclassed at Stages I to V, and a field average above them, what the fighting halls expect of a stranger at that Stage before anyone has read him. A read Class overrides it, and a registered card's own figure governs its holder. So a Stage VI Clerk with a Class III Shell runs 0.90 to 0.95, whatever the Expert row says, and a Radiant Shell at Stage VIII runs above 1.0 while the Master row reads 0.70 to 0.80.
+**Which ladder to read.** From Glory each class ladder sets η for workings through its own layer: Aether Class for what leaves by the Shell, Essence Class for what is authored in the Core, Thread Class for a pull. The table below is two other things: the figure for the unclassed at Stages I to V, and a field average above them, what the fighting halls expect of a stranger at that Stage before anyone has read him. A read rung overrides it, and a registered card's own figure governs its holder. So a Stage VI Clerk on Essence III runs 0.90 to 0.95 through the Core, whatever the Expert row says, and a Radiant Shell at Stage VIII runs above 1.0 while the Master row reads 0.70 to 0.80.
 
 | Tier | η | What changed |
 |---|---|---|
@@ -310,4 +329,4 @@ A Domain is a space where a soul's own law outranks the world's, and it has [[Th
 | **IX – X · Invocation to Realization** | The Catalyst into IX is a first flicker of a Realm, and the Third Release makes one: a field that can hold other fields. Pacts, artifacts and law set into the terrain. |
 | **XI – XII · Dissonance to Emanation** | Its effects leak with nobody holding them. Traits become local physics, and the Domain has turned from something done into something that simply is the case. |
 
-*Read next: [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]], for what an owner actually sees of all this, and [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]], for the name on the Shell.*
+*Read next: [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]], for what an owner actually sees of all this, and [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]], for the name the soul offers and the other two ladders.*

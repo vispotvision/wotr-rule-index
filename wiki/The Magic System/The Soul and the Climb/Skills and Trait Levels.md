@@ -45,7 +45,7 @@ Five different things go up over a life, by five different roads, and the window
 | **Trait level** | Use, and overall Level and skill | A number on the Trait | None stated |
 | **Technique** | Earning it in a fight or a scene | No level at all; a bigger name when it jumps | None |
 
-[[The Magic System/The Soul and the Climb/Aether Classes|The class]] has its own page, and it hands you skills and shapes moves on top of all this.
+[[The Magic System/The Soul and the Climb/Classes and the Three Ladders|The class]] has its own page, and it hands you skills and shapes moves on top of all this.
 
 ---
 

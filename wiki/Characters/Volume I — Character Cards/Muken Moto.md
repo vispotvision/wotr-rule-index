@@ -3,7 +3,7 @@
 # Muken Moto
 
 **Muken Moto** · The Tokenless · Kōkan, the red line of the Moto · as of the king's tower at Kharven-Seat, spring, six months after the Great War of the North
-**Stat line** · Level 128 · Band II, Awakened · Stage V, Splintering · Path Body 60% / Fate 25% / Spirit 15% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Overgrown
+**Stat line** · Level 128 · Band II, Awakened · Stage V, Splintering · Path Body 60% / Fate 25% / Spirit 15% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread I · Crystal Harmonic, Overgrown
 **Combat grammar** · Verdict
 **Aura and sound** · slate gray shot through with fine gold seams, like old glaze crazed over a kiln-dark pot; when he pushes, the seams brighten to forge-gold and the gray goes nearly black · sound: a struck bell held on one note, felt in the back teeth before it is heard
 **Stack** · sustainable D across the body, B in Penetration, Perception, Fortitude and Constitution · cap +2 Grades · layers: HIBI when called, the sworn word when spoken, SHIGOTO NO KABE while he holds a load
@@ -42,6 +42,8 @@
 **Soul Crystal Tier** · Harmonic
 **Crystal State** · Overgrown. Grief came into it faster than Temperance could shape it, and in the six months since the war the surplus has leaked as nightmares, split bedframes and a field that makes servants walk wide of his door
 **Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · I, Touched; by the Moto bloodline's grip on the Works, ahead of Glory and ahead of his share; the rest of the Class still emerges at Glory
 
 ## III. Wellspring Harmonizations
 

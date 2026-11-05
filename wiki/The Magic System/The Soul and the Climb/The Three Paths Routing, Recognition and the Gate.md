@@ -30,7 +30,7 @@ A soul meets the world through three layers, and every soul has all three, the u
 
 **A Path is the layer a Crystal has learned to lean on**, hardened by repetition into the way it meets the world best and, eventually, the way it does so without thinking.
 
-**A Path is a route and never a class.** The bracket slang says hitter and thrower the way it says tall or left-handed, and crews get built around the mix, but what the soul offers its owner as a named class is a separate thing altogether, the [[The Magic System/The Soul and the Climb/Aether Classes|Aether Class]], whose tiers are set out in [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]]. A Path says how the power meets the world. A class says what the owner has made of their life. Plenty of drunks will argue the matter with you regardless.
+**A Path is a route and never a class.** The bracket slang says hitter and thrower the way it says tall or left-handed, and crews get built around the mix, but what the soul offers its owner as a named class is a separate thing altogether, the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Class]], and each Path's layer has a ladder of its own beside it on that page: Aether Class for the Shell, Essence Class for the Core, Thread Class for the Layer. A Path says how the power meets the world. A class says what the owner has made of their life. Plenty of drunks will argue the matter with you regardless.
 
 Temperament has nothing to do with it and neither does a school. Two practitioners with identical Wellsprings (the types of Aether each has tuned to, each a governing idea that changes how a soul uses its power), identical training and identical Stage will produce different results on the same problem, and the difference is which layer their Essence went through on the way out.
 
@@ -65,7 +65,7 @@ That is the road at its start, and [[The Disciplines/Named Arts/Matla|Matla]], t
 
 **Spirit Path.** Everything to do with spiritual reality: souls, spirits, the dead, the Essence in a person and the meaning in a thing. A moderate bonus to Strike Force delivered through Aetheric projection, five to twenty-five percent, and no bonus at all to force delivered by hand. Some configurations take a slight penalty there. The working is authored in the Core, so what it carries is the practitioner's say on what a thing is, and that is why Bai Lüxian's hinges forgot. **They hit hardest at range and their force holds coherence across distance where Body Path force does not.** Durability bonus is negligible and replaced by precision in defensive deployment, which means they survive through correct response rather than absorption. A Spirit Path practitioner who is caught out of position is in more trouble than anyone else in the same situation.
 
-**Fate Path.** The hardest road there is and the most frightening. Fate sits above the two lower realities, and it is what has to be so before anything can happen: the law and the construction of the world itself. Before a blow lands, a strap has to hold or give. Before a wall stands, somebody has to have built it right. Before an army wins, it has to arrive. A Fate Path fighter can pull a thread of that down and move what the thing depends on, so that the result turns up without having been forced, and almost nobody can do it twice in a day. Most of what a Fate fighter does in most fights is plainer, and it is described in the next paragraph.
+**Fate Path.** The hardest road there is. Fate sits above the two lower realities, and it is what has to be so before anything can happen: the law and the construction of the world itself. Before a blow lands, a strap has to hold or give. Before a wall stands, somebody has to have built it right. Before an army wins, it has to arrive. A Fate Path fighter can pull a thread of that down and move what the thing depends on, so that the result turns up without having been forced, and almost nobody can do it twice in a day. Most of what a Fate fighter does in most fights is plainer, and it is described in the next paragraph.
 
 In plain force they take the smallest direct bonus to Strike Force and Durability and the largest to Range, Aura Pressure, and the interaction between force and Domain (a region where the world runs on the practitioner's terms) authority. Their projected force degrades least over distance and their presence extends across the largest volume. **Inside a formed Domain, Fate Path amplification can exceed the Body Path's raw advantage outright.** Outside it, Body Path remains king of the straight exchange, which is why no Fate fighter who wants to live agrees to one. The far reaches of the Path are gated by permission, and output never enters into it: Persistence, Continuity, Ceiling, Sovereignty, the Fate Sub-Stat itself, the far reaches of Ward, Gravity, Sense and a bloodline's Maturity, and at the end of everything **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
 
@@ -76,6 +76,26 @@ In plain force they take the smallest direct bonus to Strike Force and Durabilit
 | **Fate** | The Attraction Layer, on the Plane of Fate | The odds and prerequisites of a blow, a wall or a war; Range, Aura Pressure, Domain authority; far down, continuity, severance, inheritance, sovereignty, Throne, and the reach of a rare Fate Art | Raw output. It can only move what already has a way of happening, and it loses a straight exchange |
 
 Old registers and old gate tables list a fourth Path, Attraction. They were looking at the shallow end of Fate and calling it a road of its own, as anyone might who had never met someone from the deep end. Read an Attraction gate in an old table as a Fate gate.
+
+### How each beats each
+
+**There is no better Path.** Every tavern has a man who will prove otherwise for the price of a drink, and every one of them has lost money on it. Each road is good, each has plain limits, and each of the three has a way of killing each of the other two.
+
+| | Its limits |
+|---|---|
+| **Body** | Needs existing substance. Must close until very high up. Every command comes back as recoil. Has no purchase on a soul |
+| **Spirit** | Needs a soul or a meaning to work on. A fragile body. Dies out of position |
+| **Fate** | Ruinously hard and slow to set. Moves only what already has a way of happening. Loses a straight exchange |
+
+**Body beats Spirit by getting there.** A spear does not care what you mean. A working takes time to author, the distance is shorter than the Spirit fighter would like, and a dense Shell outlasts a thrown one. **Spirit beats Body by going past the Shell.** Armor and Durability do not cover the soul, a matter-reader has nothing to read on one, and the Spirit fighter has seen the charge from sixty paces and is somewhere else.
+
+**Body beats Fate with force and soundness.** Nothing moves the odds on an avalanche. A well-kept fighter with good gear and no bad habits offers no strap to give, and a straight exchange ends before the pull can set. **Fate beats Body through what closing depends on:** the ground, the gear, the hour, the footing. The hardest hitter alive is no use if the blow never arrives.
+
+**Spirit beats Fate by reaching the hand on the thread.** Every pull is made by a soul, it shows on the Core before it lands, and a wounded soul loses its grip. **Fate beats Spirit because Spirit survives by being right.** One wrong read or one spoiled stroke is enough, and the meanings a Spirit fighter works with came down from Fate in the first place.
+
+Stage, ground and preparation decide which of these holds on the day. A Stage gap beats all of it, and a good fighter of any road walks onto a field already knowing who they do not want to meet.
+
+**This is why some Paths are combined**, whatever it costs (see section V). Body and Spirit is a hitter who cannot be gone around. Body and Fate is a blow that always arrives. Spirit and Fate reads the thread and moves it. Each pair is somebody who got tired of losing to the same person.
 
 ## IV. The Gates
 

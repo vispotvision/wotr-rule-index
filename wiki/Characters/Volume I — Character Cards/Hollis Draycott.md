@@ -3,7 +3,7 @@
 # Hollis Draycott
 
 **Hollis Draycott** · Agent for the Vessant House · Halcrest, the Nalūn factor houses · as of the room above the tea-house at Halcrest, the morning he hired the Lanternless
-**Stat line** · Level 38 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Fate 30% / Body 10% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
+**Stat line** · Level 38 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Fate 30% / Body 10% · Apprentice · η 0.35 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · none; he hires people for that
 **Aura and sound** · a faint bronze sheen, the color of a well-handled seal-token · sound: the hum of a sound contract, a steady note just under a lamp's hiss
 **Traits** · READS THE BELT (Primary) · tell: his eyes go quickly and openly to your belt before your face · counter: wear no token, or a token that tells him nothing / THE OLDEST CONTRACT (Secondary) · tell: his thumb runs once round the rim of his token · counter: ask him what the contract costs, not what it pays
@@ -19,6 +19,10 @@
 **Want** · to keep Vessant's oldest contract sound for thirty-one more
 **Refusal** · he will not let the house's paper go out unsealed, whatever he personally believes
 **Lie in play** · "Light losses. Three men. It was a rough road." Four came back, of twenty-six. Tell: the thumb round the token rim, and his breath coming high and short, right up under the collarbone, and stopping there a moment before it goes out
+
+**Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 **Primaries** · Vitality 60 · Ardency 30 · Gnosis 260 · Dexterity 60 · Harmonics 120 · Resilience 50 · Tempering 20 · Dominion 50 · **Pool** 756 (456 from Levels, 300 from Thresholds I and II), 650 spent
 **EU Reserve** · 8,073 EU · **Flux Density** · 2,000 EU/g · **AU/s** · 700 (2,000 × 0.35)

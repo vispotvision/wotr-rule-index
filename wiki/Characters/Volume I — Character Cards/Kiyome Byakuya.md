@@ -3,7 +3,7 @@
 # Kiyome Byakuya
 
 **Kiyome Byakuya** · the White Line · the Owl · Byakuya, the near-white line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing beside the white chair and not sitting
-**Stat line** · Level 370 · Band IV, Mythic · Stage XI, Dissonance · Path Fate 50% / Spirit 30% / Body 20% · Grandmaster · η 0.92 · Aether Class IV, Luminous · Crystal Sovereign, Refined over a Dissonance fracture she keeps closed
+**Stat line** · Level 370 · Band IV, Mythic · Stage XI, Dissonance · Path Fate 50% / Spirit 30% / Body 20% · Grandmaster · η 0.92 · Class unnamed · Aether II · Essence III · Thread IV · Crystal Sovereign, Refined over a Dissonance fracture she keeps closed
 **Shown** · Level 160 · Band II · Stage VI, Glory · Aether Class I, Muridic: what every Measurewright, Hall assessor and fate-reader has entered for her since she was fourteen, because GLASS shows only what she lets it
 **Combat grammar** · Blade, the Byakuya guard's school: the draw is the whole fight; she has not drawn on any field anyone lived to describe
 **Aura and sound** · near-white, clear as fresh glass, with a cold rainbow breaking at its edges the way light breaks in a hung bead; at full push the glass goes to a prism and the whole field rings pale gold, the line Muken hears as hers · sound: glass beads clicking, like rain starting on a slate roof; at full push, a struck crystal bowl held on one high note
@@ -43,7 +43,9 @@
 **η** · 0.92
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined; it has broken and mended so often it has learned how, and at Dissonance that is the only reason it holds
-**Aether Class** · IV, Luminous; the lucid Shell, thin and clean as the glass it looks like, so that light and thought draw close and Luminalis answers almost before she asks. Every assessor has entered it as I, Muridic, newly emerged, because GLASS returns a Shell's reading as level as everything else. When she is struck the beads at her temples move before she does
+**Aether Class** · II, Harmonic; the lucid Shell, thin and clean as the glass it looks like, so that light and thought draw close and Luminalis answers almost before she asks. Every assessor has entered it as I, Muridic, newly emerged, because GLASS returns a Shell's reading as level as everything else. When she is struck the beads at her temples move before she does
+**Essence Class** · III, Confessor
+**Thread Class** · IV, Knotwright
 
 ### The Veil
 

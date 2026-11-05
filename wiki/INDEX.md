@@ -614,7 +614,7 @@
 
 ### The Soul and the Climb
 
-- [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]]
+- [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]]
 - [[The Magic System/The Soul and the Climb/Domains|Domains]]
 - [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]]
 - [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]]

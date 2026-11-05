@@ -3,7 +3,7 @@
 # Rob Stark
 
 **Rob Stark** · Sarge's Shadow · Kharven, House Stark of Hollenmark · as of the Hall square at Kharven-Seat, the hour he stepped across the boy with the red ears
-**Stat line** · Level 72 · Band I, Mortal Foundation · Stage III, Ascension · Path Body 75% / Fate 25% · Journeyman · η 0.40 · Aether Class unclassed · Crystal Awakened, Refined
+**Stat line** · Level 72 · Band I, Mortal Foundation · Stage III, Ascension · Path Body 75% / Fate 25% · Journeyman · η 0.40 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade, heavy; the boar-spear on the road, the great sword and the axe in the north
 **Aura and sound** · the Stark cold, a gray with frost at its edges that whitens his beard when he is angry · sound: a man breathing hard through his nose and not complaining
 **Traits** · STARK RIME (Inherited) · tell: frost in his beard · counter: heat / HE'S ALL OF OURS (Primary) · tell: he is standing where the Sarge can't see behind himself · counter: get past the Sarge first / DIDN'T SCREAM (Secondary) · tell: the strap between his teeth · counter: none anybody found
@@ -19,6 +19,10 @@
 **Realm / Faction** · House Stark; two winters a soldier of the Lanternless free company in Halcrest, where he was Ulf's man inside the company and Sergeant Muken's right hand; then the Stark riders at the Foot and the Seat
 **Refusal** · He would not let anybody hurt the Sarge, or the Sarge's sister, or a boy who could not hold his own spear
 **Conviction** · He's all of ours
+
+**Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 **Primaries** · Vitality 400 · Ardency 260 · Gnosis 80 · Dexterity 300 · Harmonics 60 · Resilience 220 · Tempering 24 · Dominion 120 · **Pool** 1,464 (864 from Levels, 600 from Thresholds I to III), all spent
 **EU Reserve** · 22,012 EU · **Flux Density** · 4,000 EU/g · **AU/s** · 1,600 (4,000 × 0.40) · empties in 13.76 seconds at full output

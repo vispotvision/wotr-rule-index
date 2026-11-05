@@ -3,7 +3,7 @@
 # Wystan Greymane
 
 **Wystan Greymane** · the Shieldwarden · Lord of the Ridgewall · Kharven, House Greymane of the Stormfold · as of the gatehouse at Kharven's Foot, the morning he swore the house to the Tokenless and rode south beside Ulf Stark
-**Stat line** · Level 180 · Band II, Awakened · Stage VI, Glory · Path Body 65% / Fate 30% / Spirit 5% · Expert · η 0.62 · Aether Class I, Muridic · Crystal Harmonic, Refined
+**Stat line** · Level 180 · Band II, Awakened · Stage VI, Glory · Path Body 65% / Fate 30% / Spirit 5% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
 **Combat grammar** · Shield and sword; the wall first, and then very fast
 **Aura and sound** · slate gray with a dull gold edge, like the ridge with the dawn behind it · sound: a hunting horn, one long note, from very close
 **Traits** · KEEPERS OF THE WALL (Primary) · tell: he looks west before he looks at you · counter: come at what he isn't guarding / STILL, THEN FAST (Secondary) · tell: he stops moving altogether · counter: never be the first to move / LATER, ULF (Secondary) · tell: "Later." · counter: ask him in front of the one he's keeping it from
@@ -20,6 +20,10 @@
 **Realm / Faction** · House Greymane of the Ridgewall and the Stormfold, holding the western ridgeline against Undaar-Keth; with Ulf Stark against Kagenori Tenrai Moto's martial law on the Kessen road
 **Refusal** · He would not give the boy the answers; if they gave him all the answers they would take the war away from him
 **Conviction** · The ridge does not move
+
+**Aether Class** · I, Muridic
+**Essence Class** · Ø, Silent
+**Thread Class** · Ø, Unthreaded
 
 **Primaries** · Vitality 850 · Ardency 550 · Gnosis 500 · Dexterity 650 · Harmonics 250 · Resilience 800 · Tempering 300 · Dominion 600 · **Pool** 4,500 (2,400 from Levels, 2,100 from Thresholds I to VI), all spent
 **EU Reserve** · 532,550 EU · **Flux Density** · 35,000 EU/g · **AU/s** · 21,700 (35,000 × 0.62) · empties in 24.54 seconds at full output

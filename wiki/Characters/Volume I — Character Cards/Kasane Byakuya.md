@@ -3,7 +3,7 @@
 # Kasane Byakuya
 
 **Kasane Byakuya** · the Last Samurai of Fate · Byakuya, the near-white line of the Moto; Yukari by her Telling · as of the night she walked up out of the cellars under Halcrest with her son inside her coat
-**Stat line** · Level 390 · Band IV, Mythic · Stage XI, Dissonance · Path Body 45% / Fate 40% / Spirit 15% · Grandmaster · η 0.90 · Aether Class III, Resonant · Crystal Sovereign, Fractured; sealed by her own hand in the Orrel Cuttings, and never woken
+**Stat line** · Level 390 · Band IV, Mythic · Stage XI, Dissonance · Path Body 45% / Fate 40% / Spirit 15% · Grandmaster · η 0.90 · Class unnamed · Aether III · Essence I · Thread II · Crystal Sovereign, Fractured; sealed by her own hand in the Orrel Cuttings, and never woken
 **Shown** · Level 170 · Band II · Stage VI, Glory · Aether Class I, Muridic: what the Hall entered for the king's guard, and all it ever knew. The strongest Moto of her generation, outside the Sin of Wrath, and nobody living has seen her draw except her sister
 **Combat grammar** · Blade; the guard's school, the body between the king and the blow
 **Aura and sound** · near-white with a deep red running under it like lacing under lacquer, the red line kept by the white; released, the red comes up through the white like blood through a bandage and the whole field goes the color of the red harness · sound: silk cord drawn tight through iron scales; released, a thousand of them at once
@@ -24,7 +24,10 @@
 **Refusal** · Once she walked out of the cellars she never said his name again
 **Conviction** · She thought she could hold him. She loved him the whole way down, through all of it, and she had been dying of him for years before anyone ever killed him
 
-**Soul Architecture** · Level 390 · Band IV, Mythic · Stage XI, Dissonance, the fracture running along the cellar stair · Tier of Standing 7, Grandmaster · η 0.90 · Crystal Sovereign, Fractured, then Sealed · Aether Class III, Resonant
+**Soul Architecture** · Level 390 · Band IV, Mythic · Stage XI, Dissonance, the fracture running along the cellar stair · Tier of Standing 7, Grandmaster · η 0.90 · Crystal Sovereign, Fractured, then Sealed
+**Aether Class** · III, Resonant
+**Essence Class** · I, Listener
+**Thread Class** · II, Drawn
 **Wellspring Harmonizations** · **Fixatio**, the Knot, Depth governing: holds her where she sets her feet, and holds the blow where it meets her · **Judicium**, the Scale, Depth deep: ranks every threat in the room, worst first, and marks the one that will reach the king; the Byakuya's clean line, and the light that shows what is coming
 
 **Primaries** · Vitality 1,330 (mean 166.25, C) · Ardency 1,555 (194.38, B) · Gnosis 2,145 (268.12, B) · Dexterity 2,625 (328.12, A) · Harmonics 1,100 (137.50, C) · Resilience 2,265 (283.12, A) · Tempering 880 (110.00, C) · Dominion 1,090 (155.71, C) · **Pool** 12,990 (6,390 from Levels, 6,600 from Thresholds I to XI), all spent

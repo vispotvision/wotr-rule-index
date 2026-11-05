@@ -3,7 +3,7 @@
 # Hayato Amagiri
 
 **Hayato Amagiri** · the Keeper of the Roads · Amagiri, the indigo line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing at the indigo chair in his uncle's place
-**Stat line** · Level 380 · Band IV, Mythic · Stage XI, Dissonance · Path Spirit 60% / Fate 30% / Body 10% · Grandmaster · η 0.90 · Aether Class III, Resonant · Crystal Sovereign, Refined under mist
+**Stat line** · Level 380 · Band IV, Mythic · Stage XI, Dissonance · Path Spirit 60% / Fate 30% / Body 10% · Grandmaster · η 0.90 · Class unnamed · Aether II · Essence III · Thread II · Crystal Sovereign, Refined under mist
 **Shown** · Level 95 · Band I · Stage IV, Flourishing · unclassed: the weather RAIN MIST lays over his Crystal, and the figure every assessor in the north has entered for him
 **Combat grammar** · Blade, the Amagiri draw: one cut, from a sword he carries for show, drawn once in front of witnesses, at the Skeldmere, and nobody there understood what they saw
 **Aura and sound** · a thin blue-gray haze, the color of rain coming off a lake at dusk, that thickens round him at night on a road and thins to nothing in a hall; released, it is indigo to the horizon, a whole valley gone to evening, with gold flecks moving in it like moths round a lamp · sound: rain on a cape; released, rain on a whole forest at once
@@ -43,7 +43,9 @@
 **η** · 0.90
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, under mist
-**Aether Class** · III, Resonant; the conductor Shell, where power moves even in silence; the Class came the year he rode the passes, and no coil has ever read it, since RAIN MIST shows him unclassed
+**Aether Class** · II, Harmonic
+**Essence Class** · III, Confessor; the conductor Core, where power moves even in silence; the Class came the year he rode the passes, and no coil has ever read it, since RAIN MIST shows him unclassed
+**Thread Class** · II, Drawn
 
 ### The Veil
 

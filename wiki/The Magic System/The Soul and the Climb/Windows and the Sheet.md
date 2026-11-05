@@ -48,7 +48,8 @@ The word people use for the whole of what it shows is **the sheet**.
 ```
 [Mun Seo-yeon · Level 170 · Stage VI, Glory · Path: Spirit]
 [Human, Sum-gol lineage]
-[Class: Auditor · Tier III, Resonant]
+[Class: Auditor]
+[Aether I · Essence III · Thread Ø]
 [Ardency B · Vitality D · Gnosis C · Dexterity C]
 [Harmonics D · Resilience E · Tempering E · Dominion F]
 [Trait: Every Column Balances · Level 44]
@@ -57,7 +58,7 @@ The word people use for the whole of what it shows is **the sheet**.
 [Reserve: 58%]
 ```
 
-From the top: name, [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Level]], [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]], which says which of the soul's three layers the Crystal leans on: the Aether Shell in the Physical World for Body, the Essence Core on the Soul Plane for Spirit, the Attraction Layer on the Plane of Fate for Fate. A soul on two Paths shows both, the one behind second (`Path: Body, Spirit`), and a Path only studied shows nowhere. Then race and lineage, which shape base stats and what comes easily. Then the [[The Magic System/The Soul and the Climb/Aether Classes|class and its tier]], the Eight Primaries with their Grades, each [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Trait with its level and each skill with its Grade]], the blessings, each on its own line, and the reserve. A Sub-Stat (one of the eight finer measures inside each Primary) appears when it is used or when it moves, and the full sixty-four remain there to study for anyone with the patience. Vows, crew bonds and contracts get their own lines when the owner has them.
+From the top: name, [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|Level]], [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]], which says which of the soul's three layers the Crystal leans on: the Aether Shell in the Physical World for Body, the Essence Core on the Soul Plane for Spirit, the Attraction Layer on the Plane of Fate for Fate. A soul on two Paths shows both, the one behind second (`Path: Body, Spirit`), and a Path only studied shows nowhere. Then race and lineage, which shape base stats and what comes easily. Then the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Class]], the name the soul has offered for how the person has lived, and under it the three ladders on one line, from Glory on: Aether Class for the Shell, Essence Class for the Core, Thread Class for the Layer, nearly always ending in Ø. Then the Eight Primaries with their Grades, each [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Trait with its level and each skill with its Grade]], the blessings, each on its own line, and the reserve. A Sub-Stat (one of the eight finer measures inside each Primary) appears when it is used or when it moves, and the full sixty-four remain there to study for anyone with the patience. Vows, crew bonds and contracts get their own lines when the owner has them.
 
 **A commoner's window is small and useful.** It holds a Level, a few trade skills and her health, with no Essence and no class:
 
@@ -171,7 +172,15 @@ A window earns its keep at the big moments.
 [Vitality F · Ardency Hollow · Gnosis F · Dexterity F]
 ```
 
-**A class.** The soul's offer, with its names, at Glory and at each rung after. See [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]].
+**A Class.** The soul's offer, with its names, at Glory and each time the leading ladder climbs a rung after that. The other two ladders move without ceremony, as one numeral changing on the line. See [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
+
+```
+[Threshold reached: Essence III, Confessor]
+[Your life has earned:]
+  Auditor
+  Rope-Walk Clerk
+[Choose.]
+```
 
 **A breakthrough.** A lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen. The sheet shows the same Stage in both cases, and that has started more fights than any other line on it.
 
@@ -256,7 +265,7 @@ And the same read from a weaker eye:
 
 - **The trained talk about it constantly.** Fighters and onlookers rank each other aloud, read shoulders and breath, and argue over it through the whole fight. *Stage IX? Look at his feet. That's a VII in a good coat.* All of it is estimate, and a confident wrong one has won as many fights as a right one.
 - **People hide and fake it.** Holding Pressure in, thinning the coat, walking like a tired man and flaring an aura brighter than the reserve behind it can pay for are all arts. Suppression and Feint are real Sub-Stats, and a person with a high Ward can stand in a crowded room and be nobody.
-- **Instruments read everyone.** Stand in the coil and the clerk writes down your Stage, Level, Grade, tier and η, which is more than your own window will tell you. It takes the fee and your standing in the coil, and it will not read your blessings or your class name.
+- **Instruments read everyone.** Stand in the coil and the clerk writes down your Stage, Level, Grade, ladders and η, which is more than your own window will tell you. It takes the fee and your standing in the coil, and it will not read your blessings or your class name.
 - **Monsters sit on the same scale.** A monster has a Level, Grades and a Threat Tier, T1 to T9, and a weak reader gets question marks, usually at the moment it matters most. A famous one carries a name, an epithet and a bounty on top of it. See [[The Bestiary/The Bestiary|The Bestiary]].
 - **Items take an Appraisal skill.** An Appraisal skill and an assay instrument read a piece of gear, and a good forger beats a weak appraiser. True relics of the Great Spirit War read as question marks to anyone, and some have opinions about who holds them.
 
@@ -301,4 +310,4 @@ The oldest quarrel in the Measurewrights' hall, carried on at weddings, in long 
 
 The Archives take no position. They note that the window has been asked, by a great many people, in a great many tongues, and it reports only that their reserve is down.
 
-*Read next: [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]], and [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]].*
+*Read next: [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]], and [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].*

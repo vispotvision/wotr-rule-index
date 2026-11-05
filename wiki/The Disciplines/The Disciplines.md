@@ -109,7 +109,7 @@ The documents in this section do not share a voice, and reading them correctly m
 
 ## What a Discipline Is on the Sheet
 
-No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Aether Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own.
+No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own.
 
 A discipline is what all of that looks like from across the road, and a school is where you go to get it. Money will buy a Stage, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. That is why a school can still charge what it charges, and why the four at the Founders' Fair are still hitting each other.
 

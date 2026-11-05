@@ -3,7 +3,7 @@
 # Godfrey Greymane
 
 **Godfre[[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden]]y Greymane** · The Shieldwarden · Kharven, House Greymane · as of the morning of the seven lines in the Hall of Verdicts
-**Stat line** · Level 142 · Band II, Awakened · Stage IV, Flourishing · Path Body 65% / Fate 35% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
+**Stat line** · Level 142 · Band II, Awakened · Stage IV, Flourishing · Path Body 65% / Fate 35% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Expenditure
 **Aura and sound** · Materia ochre at Flourishing's clarity, a warm dark gray with amber only hinted, a fine grit of ridge-stone dust settling round his boots when he sets them; sound: a low grinding settle, like a stone sinking into its bed
 **Stack** · sustainable B in Anchoring and Fortitude · cap +2 Grades · layers: STONEFAST when called
@@ -43,6 +43,8 @@
 **Soul Crystal Tier** · Awakened
 **Crystal State** · Refined. A plain, even, well-kept Crystal, like a garrison wall that has been inspected every morning
 **Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 ## III. Wellspring Harmonizations
 

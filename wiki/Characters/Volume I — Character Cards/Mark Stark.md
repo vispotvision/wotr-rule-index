@@ -3,7 +3,7 @@
 # Mark Stark
 
 **Mark Stark** · the Boy Who Kept Hold · Kharven, House Stark of Hollenmark · as of the Tenrai keep at Kharven-Seat, the night he sat beside his brother's body under a Stark cloak
-**Stat line** · Level 55 · Band I, Mortal Foundation · Stage II, Welling · Path Body 70% / Fate 30% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
+**Stat line** · Level 55 · Band I, Mortal Foundation · Stage II, Welling · Path Body 70% / Fate 30% · Apprentice · η 0.35 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade and shield; the short sword and the round limewood shield on the road, his brother's long northern sword since the Seat
 **Aura and sound** · the Stark cold, thin and bright, a pale gray with a coppery shimmer at its edge like frost on a rust-red leaf · sound: a man talking under his breath, steady and fast, and then stopping
 **Traits** · STARK RIME (Inherited) · tell: frost on the fur at his collar · counter: heat / KEPT HOLD (Primary) · tell: his knuckles white on the hilt · counter: take the hand, not the sword / THE MUTTER (Secondary) · tell: a steady stream of words under his breath · counter: make him stop talking
@@ -19,6 +19,10 @@
 **Realm / Faction** · House Stark; two winters a soldier of the Lanternless free company in Halcrest under Sergeant Muken, beside his brother Rob; then a Stark rider at the Foot, the Skeldmere and the Seat
 **Refusal** · He will not let go of the sword, whatever has hold of him
 **Conviction** · He tried. He would like somebody to tell him that counts
+
+**Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 **Primaries** · Vitality 160 · Ardency 120 · Gnosis 60 · Dexterity 220 · Harmonics 40 · Resilience 140 · Tempering 100 · Dominion 120 · **Pool** 960 (660 from Levels, 300 from Thresholds I and II), all spent
 **EU Reserve** · 13,331 EU · **Flux Density** · 3,000 EU/g · **AU/s** · 1,050 (3,000 × 0.35) · empties in 12.7 seconds at full output

@@ -3,7 +3,7 @@
 # Edric Ashmore
 
 **Edric Ashmore** · Lord of the Ashmore Marches · House Ashmore, a Banner House of the north · as of the morning of the seven lines in the Hall of Verdicts, sworn with his hand on the black stone of the dais
-**Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body 50% / Fate 40% / Spirit 10% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
+**Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body 50% / Fate 40% / Spirit 10% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Harmonic, Refined
 **Combat grammar** · Blade, from the saddle; a lancer's lord
 **Aura and sound** · brown and russet, the color of autumn bracken against snow · sound: hoofbeats a long way off, coming closer
 **Traits** · THE UNTOUCHED WINE (Primary) · tell: he looks at an offer for exactly as long as it takes a cup to go cold · counter: make him decide before the wine is poured / THE JUNCTION STONE (Secondary) · tell: his hand flat on stone when he swears · counter: put two oaths on the same stone
@@ -19,6 +19,10 @@
 **Colors and arms** · plain brown and russet, the russet bright as autumn bracken against the snow; the Ashmore boar
 **Refusal** · He will not fight for a cause; he will fight for a road, a price and a promise he can put his hand on
 **Conviction** · Whoever holds the roads holds Ashmore's grain, and for twenty years the Tenrai held them
+
+**Aether Class** · Unclassed; the Class emerges at Glory
+**Essence Class** · Unclassed; the Class emerges at Glory
+**Thread Class** · Unclassed; the Class emerges at Glory
 
 **Primaries** · Vitality 600 · Ardency 400 · Gnosis 300 · Dexterity 500 · Harmonics 200 · Resilience 450 · Tempering 150 · Dominion 700 · **Pool** 3,300 (1,800 from Levels, 1,500 from Thresholds I to V), all spent
 **EU Reserve** · 163,656 EU · **Flux Density** · 20,000 EU/g · **AU/s** · 12,000 (20,000 × 0.60) · empties in 13.64 seconds at full output

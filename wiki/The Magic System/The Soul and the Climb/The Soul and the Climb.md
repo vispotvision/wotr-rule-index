@@ -16,7 +16,7 @@ The soul in question is the Soul Crystal, and it has three layers, one to each p
 - [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft — Temperance, Advancement and Essence Drafts]]: How the climb joins the rest of the system, what a monster's core is worth, and what money buys and what it leaves behind.
 - [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]]: The numbers, the sheet, the class your soul offers you, which efficiency to read, and who wins.
 - [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]]: The soul's private report, and everyone lying about it.
-- [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]]: What your soul thinks you are, and what it hands you for it.
+- [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]]: What your soul thinks you are, what it hands you for it, and the three ladders that say how far your reach runs in each layer.
 - [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]]: What rises by doing it, and the few points that are yours to place.
 - [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]]: The First, Second and Third Release: the soul's law let off its limit in a shape found and mastered by fighting.
 - [[The Magic System/The Soul and the Climb/Domains|Domains]]: The world obeying the idea: the flicker, the seed, the true Domain at Stage VIII, the Realm, what happens when two meet, and what it costs when one goes out.

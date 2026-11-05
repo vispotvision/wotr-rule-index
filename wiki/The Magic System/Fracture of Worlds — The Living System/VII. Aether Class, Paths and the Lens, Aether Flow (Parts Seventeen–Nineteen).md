@@ -9,7 +9,7 @@ tags:
 
 Nobody at the Saltgate Cod Fair had ever seen a line like it, because the bookies had never been asked to price a coin toss with fists. Sissel and Gunnild Scarbrow were twin sisters out of the Tar Street Bellows, a fire school with yellow-and-black colors and a song about its own bad manners, and they stood at the seventh of the sixteen Stages (the rungs of the soul's refinement), both of them. The Guild's Measurewright (an assayer of souls and workings) had read them that morning in front of a paying crowd and called out two sheets that matched to the last figure. Even money, then, on the strangest card of the summer. Sissel went first, because Sissel always went first: she planted her boots, filled her chest and threw a fire the color of a ripe persimmon, a great roaring sheaf of it that came with a fistful of sparks and a stink of scorched hair and set the Chandlers' Guild's bunting alight twenty paces off. The crowd howled with joy. Gunnild answered from the hip with a thread of white flame no wider than a bootlace and no louder than a kettle, which crossed the ring without lighting anything at all until it reached the oak post behind her sister's shoulder, and the post fell over in two pieces.
 
-It took three exchanges. Sissel finished flat on her back in a smoking yellow shirt, short one tooth and the ends of both braids, laughing so hard the surgeon could not get a hand on her, while the Tar Street end sang the whole of the bad-manners song at her sister and everyone with money on her went looking for whoever had read those sheets. The sheets had been right. They gave what each sister could put forward. A third of what Sissel put forward had gone into bunting and noise on its way out of her, and Gunnild had lost about one part in twelve. On the Saltgate quays they call a clean delivery a clear throat and a leaking one a wet throat, and they will tell you which you have for the price of a drink. Each sister had known for years what her own window said, Bonfire Herald at the Muridic tier for one and Wick-Trimmer at the Resonant tier for the other, and neither had thought it the bookies' business. The Guild's word for the whole of it is Aether Class, and it opens this Part.
+It took three exchanges. Sissel finished flat on her back in a smoking yellow shirt, short one tooth and the ends of both braids, laughing so hard the surgeon could not get a hand on her, while the Tar Street end sang the whole of the bad-manners song at her sister and everyone with money on her went looking for whoever had read those sheets. The sheets had been right. They gave what each sister could put forward. A third of what Sissel put forward had gone into bunting and noise on its way out of her, and Gunnild had lost about one part in twelve. On the Saltgate quays they call a clean delivery a clear throat and a leaking one a wet throat, and they will tell you which you have for the price of a drink. Each sister had known for years what her own window said, Bonfire Herald on a Muridic Shell for one and Wick-Trimmer on a Resonant Shell for the other, and neither had thought it the bookies' business. The Guild's word for the whole of it is Aether Class, and it opens this Part.
 
 ## Part Seventeen — The Aether Class System
 
@@ -17,19 +17,19 @@ It took three exchanges. Sissel finished flat on her back in a smoking yellow sh
 
 ### The Class the Soul Is Offered
 
-At thresholds the soul is offered a named class that fits how the person has lived. A gate-sergeant is offered one thing and the woman who robbed him another, and the name arrives in the window in the owner's own tongue. A class gives abilities, shapes growth and evolves at each tier by how it is lived, so the same Wick-Trimmer may come out a rung later under a name nobody else has ever been offered. The one wild concept stays the person's own: the class is what the soul makes of a life, and the concept, soup or debt or doors, is what the person goes on to do with it. Crews squabble over class names and taverns rank them. Measurewrights will tell you for free that the offer proves the Continuum reads biography, and for a fee that it proves no such thing.
+At thresholds the soul is offered a named class that fits how the person has lived. A gate-sergeant is offered one thing and the woman who robbed him another, and the name arrives in the window in the owner's own tongue. A class gives abilities, shapes growth and evolves by how it is lived, each time the person's leading ladder rises, so the same Wick-Trimmer may come out a rung later under a name nobody else has ever been offered. The one wild concept stays the person's own: the class is what the soul makes of a life, and the concept, soup or debt or doors, is what the person goes on to do with it. Crews squabble over class names and taverns rank them. Measurewrights will tell you for free that the offer proves the Continuum reads biography, and for a fee that it proves no such thing.
 
-The first offer comes at Glory, Stage VI, where the Shell first reads on the coil; Stages I through V are unclassed. The old ladder below is the class's tier, and every figure on it stands.
+The first offer comes at Glory, Stage VI, where the Shell first reads on the coil; Stages I through V are unclassed. The class has no ladder of its own. Three ladders stand beside it, one to each layer of the Crystal, and the first of them, Aether Class, is the Shell's.
 
 ```
 [Class: Wick-Trimmer]
-[Tier: III, Resonant]
+[Aether III · Essence Ø · Thread Ø]
 [Gained: Clean Thread. A flame held to a bootlace's width keeps all its heat.]
 ```
 
 ### What Aether Class Measures
 
-Temperance (the soul's inner refinement, climbed in sixteen Stages) measures refinement of the Essence Core (the soul's innermost layer, its emotional truth) on the Soul Plane (the layer of existence where law becomes felt truth). Tier Grade measures raw output magnitude. **The tier of an Aether Class measures one thing only: how cleanly the Aether Shell conducts Essence outward into form.** It is the Shell's transparency. When the Essence Core speaks, how much of what it says actually arrives?
+Temperance (the soul's inner refinement, climbed in sixteen Stages) measures refinement of the Essence Core (the soul's innermost layer, its emotional truth) on the Soul Plane (the layer of existence where law becomes felt truth). Tier Grade measures raw output magnitude. **Aether Class measures one thing only: how cleanly the Aether Shell conducts Essence outward into form.** It is the Shell's transparency, and so how strong a person's influence on the physical world is. When the Essence Core speaks, how much of what it says actually arrives?
 
 Two characters at identical stat values and Temperance Stage can have wildly different combat output if one is Class III Resonant and the other Class I Muridic. The stats are the same. The delivery is not.
 
@@ -63,9 +63,28 @@ Every Shell radiates an Aetheric Signature described by three constants.
 
 **The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
 
+### Essence Class and Thread Class
+
+The Shell is one layer of three, and the other two have ladders of their own, read from Glory as it is. **Essence Class** is the Essence Core, influence on spiritual reality: souls, spirits, the dead, what a thing means. **Thread Class** is the Attraction Layer, how much of Fate a soul can pull down and hold. VI on each is lateral, an inverted way of holding that power.
+
+| Numeral | Aether Class | Essence Class | Thread Class | η, Aether and Essence | η, Thread |
+|---|---|---|---|---|---|
+| Ø | Dormant | Silent | Unthreaded | none | none |
+| I | Muridic | Listener | Touched | 0.60–0.70 | below the table |
+| II | Harmonic | Answerer | Drawn | 0.75–0.85 | below the table |
+| III | Resonant | Confessor | Spinner | 0.90–0.95 | 0.60–0.70 |
+| IV | Luminous | Shepherd | Knotwright | loss negligible | 0.75–0.85 |
+| V | Radiant | Ferryman | Weaver | 1.00 and above | 0.90–0.95 |
+| VI | Voidic | Hollow | Severer | qualitatively different | qualitatively different |
+| Ω | Absolute | Absolute | Absolute | no separate measurement | no separate measurement |
+
+**Each ladder sets η for workings through its own layer.** A blow through the Shell reads the Aether rung, a working authored in the Core reads the Essence rung, and a pull reads the Thread rung. Thread is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral elsewhere, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip.
+
+**The ladder of a person's leading Path climbs with their Stage.** A Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A window reads all three on one line, `[Aether IV · Essence II · Thread Ø]`. The Soul Crystal Tier of Part Twenty-One stays as the reading of the whole soul. What each rung of the two new ladders can do is set out in [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
+
 ### Aether Class Progression
 
-The tier ascends through refinement, not conquest. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives. At each step the named class evolves by how it has been lived, and the window shows the new name beside the new tier.
+The Shell's rung ascends through refinement, not conquest. Each step removes interference: ego noise, denial, unprocessed fracture, clinging to false narratives. Each time the leading ladder climbs, the named class evolves by how it has been lived, and the window shows the new name beside the new rung.
 
 **Temperance Refinement:** gradual clarity through discipline and self-confrontation. The most common and safest path. The Core refines and the Shell learns to match.
 
@@ -85,7 +104,7 @@ The tier ascends through refinement, not conquest. Each step removes interferenc
 
 ### Interaction with the Stat System
 
-A class's tier is a **multiplier on stat expression**. Raw values determine ceiling. The tier determines how much of that ceiling translates into observable output.
+A ladder's rung is a **multiplier on stat expression** for workings through that layer. Raw values determine ceiling. The rung determines how much of that ceiling translates into observable output.
 
 A character at B-Grade Ardency Flux with a Class II Harmonic Shell produces roughly seventy-five to eighty-five percent of their theoretical maximum damage. The same character at the same value with a Class V Radiant Shell produces one hundred percent or more.
 
@@ -176,7 +195,7 @@ A Family is a house of Wellsprings sorted by physics, and each one carries an id
 
 **AU/s (Aether Units per second):** the output rate, how much Essence is spent into active expression per second at full output. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**.
 
-**Eta (η), Efficiency:** the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. Governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**: from the first class at Glory the class's tier sets it, and the unclassed read their Stage's typical figure below.
+**Eta (η), Efficiency:** the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. The single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. Governed by **the class ladder of the layer in use**, **Tempering Clarity** and **Ardency Compression**: from Glory that ladder's rung sets it, Aether Class through the Shell, Essence Class through the Core and Thread Class for a pull, and the unclassed read their Stage's typical figure below.
 
 **What the owner sees.** None of these figures appears in a window. The window shows the reserve as a percentage and a bar, `[Reserve: 41%]`, and leaves EU, AU/s and η to the assay sheet and the slate. Body tells come first anyway: at half the breath shortens, at a quarter the color thins, at a tenth the Traits begin to stutter.
 
@@ -240,7 +259,7 @@ The ladder gives typical rates, not limits. A practitioner's own output is Flux 
 
 ### Efficiency by Tier of Standing
 
-The nine Tiers of Standing replace the former lettered Coherence Bands, and they are read here on the fighting guilds' table; a merchant's title says nothing about his η. The η figures below are the source values redistributed across the new partition, which runs one Stage per tier at the bottom and reaches Revelation and Apex at the top, where the lettered scale stopped at Zenith. They are the figure for the unclassed at Stages I to V and a field average above them. From the first class at Glory the class's tier sets η, so a read Class overrides this table, and a card's own figure governs its holder.
+The nine Tiers of Standing replace the former lettered Coherence Bands, and they are read here on the fighting guilds' table; a merchant's title says nothing about his η. The η figures below are the source values redistributed across the new partition, which runs one Stage per tier at the bottom and reaches Revelation and Apex at the top, where the lettered scale stopped at Zenith. They are the figure for the unclassed at Stages I to V and a field average above them. From Glory each class ladder sets η for its own layer, so a read rung overrides this table, and a card's own figure governs its holder.
 
 | Tier | Temperance | η | Note |
 |---|---|---|---|

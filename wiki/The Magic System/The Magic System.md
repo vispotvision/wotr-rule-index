@@ -23,7 +23,7 @@ Everything in this section is in that story. She could not argue with the number
 >
 > *"You call Temperance a buff. It is a confession of how much you have survived."*
 >
-> **Where the numbers live.** Everything on this page is the account. The arithmetic underneath it is **[[The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System|Fracture of Worlds — The Living System]]**, filed at the foot of this section in twenty-four Parts across ten pages. Bands and Temperance Gates, the Tier Grade thresholds, the Sub-Stat ceiling per Stage, all sixty-four Path gates, Threshold Catalysts, Resonant Pairs, Strike Force and Durability benchmarks, Aether Class efficiency, the η table, Domain costs.
+> **Where the numbers live.** Everything on this page is the account. The arithmetic underneath it is **[[The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System|Fracture of Worlds — The Living System]]**, filed at the foot of this section in twenty-four Parts across ten pages. Bands and Temperance Gates, the Tier Grade thresholds, the Sub-Stat ceiling per Stage, all sixty-four Path gates, Threshold Catalysts, Resonant Pairs, Strike Force and Durability benchmarks, the efficiency of the three class ladders, the η table, Domain costs.
 >
 > Read it when a value is in question, not before. This page tells you what the system is. Fracture of Worlds tells you what the number has to be.
 
@@ -48,9 +48,9 @@ Everything after these is detail.
 
 One number has never described a practitioner. Four independent measurements run alongside each other, and the gaps between them are as diagnostic as the values themselves.
 ![[Assets/Diagrams/four-axes.svg]]
-> Temperance sets the **ceiling**. Tier Grade reports the **magnitude**. Aether Class decides how much of the magnitude actually **arrives**, on its tier, and what the soul has made of your life, in its name. Wellspring harmonization changes what the magnitude **means** without changing the number by a single point: it is a lens, and over years of mastery on its home Path it can double the effect, half again at most away from it, while the reading stands where it was.
+> Temperance sets the **ceiling**. Tier Grade reports the **magnitude**. The class ladder of the layer in use, Aether, Essence or Thread Class, decides how much of the magnitude actually **arrives**, and a Class, by its name, says what the soul has made of your life. Wellspring harmonization changes what the magnitude **means** without changing the number by a single point: it is a lens, and over years of mastery on its home Path it can double the effect, half again at most away from it, while the reading stands where it was.
 >
-> Two practitioners at identical stat values and identical Stage can produce wildly different results if one is Class III Resonant and the other is Class I Muridic. The stats are the same. The delivery is not.
+> Two practitioners at identical stat values and identical Stage can produce wildly different results if one is Aether III Resonant and the other is Aether I Muridic. The stats are the same. The delivery is not.
 
 ---
 
@@ -128,7 +128,8 @@ A window is the soul reporting its numbers to its owner, in the owner's own tong
 
 ```
 [Corra Vell · Human · Level 196 · Stage VII, Refraction · Path: Body]
-[Class: Yard Breaker · Muridic]
+[Class: Yard Breaker]
+[Aether I · Essence Ø · Thread Ø]
 [Vitality B · Ardency B · Gnosis D · Dexterity C]
 [Harmonics E · Resilience D · Tempering D · Dominion E]
 [Reserve: 100% ▓▓▓▓▓▓▓▓▓▓]
@@ -141,7 +142,9 @@ A window is the soul reporting its numbers to its owner, in the owner's own tong
 
 **Skills** rise with use and show as Grades. Drafts, runes, tags and chants are skills and trades like any other. **Traits** stay as filed in their Four Reflections and their laws, and each one carries a level that rises with use and grows with overall Level and skill. **Techniques** are named things done with a skill. They show no level and take a bigger name when they jump.
 
-**Aether Class.** At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves at each tier by how it is lived. The ladder on file (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute) stays as its tier, and all its η law stands: from the first class at Glory, the tier sets η. The one wild concept stays the person's own.
+**Class.** At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves by how it is lived, each time the leading ladder rises. It has no ladder of its own. The one wild concept stays the person's own.
+
+**The three ladders**, one to each layer of the Crystal, read from Glory. **Aether Class** is the Shell and influence on the physical world (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute), and all its η law stands. **Essence Class** is the Core and influence on spiritual reality (Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute). **Thread Class** is the Attraction Layer and how much of Fate a soul can pull down and hold (Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute). It is the steep one: most souls stay Ø for life, and its numeral gives η as two rungs below the same numeral elsewhere. Each ladder sets η for workings through its own layer. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind until mastered, and a Studied one stops at II, or at I for Thread.
 
 **Level** moves by danger overcome. Killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
 
@@ -218,7 +221,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 - [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft — Temperance, Advancement and Essence Drafts]]: How the climb joins the rest of the system, what Drafts and monster cores buy, and what money cannot.
 - [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]]: The numbers, and who wins.
 - [[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]]: The soul's private report, and everyone lying about it.
-- [[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]]: What your soul thinks you are, and what it hands you for it.
+- [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]]: What your soul thinks you are, what it hands you for it, and the three ladders that say how far your reach runs in each layer.
 - [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]]: What rises by doing it, and the few points that are yours to place.
 - [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]]: The First, Second and Third Release: the soul's law let off its limit in a learned shape.
 - [[The Magic System/The Soul and the Climb/Domains|Domains]]: The seed, the true Domain and the Realm: a space where one soul's law outranks the world's, how it is called, and how fields clash.

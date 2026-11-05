@@ -6,7 +6,7 @@
 # Faisal
 
 **Faisal** · the Grand Angel of Servitude · the Bound Flame · He Who Kneels at Creation's Edge · Celestial, the Midreach Choir, the Oath-Keepers · as of the Plane of Fate, the day he taught Muken the sixth Work and withheld the seventh
-**Stat line** · Level 396 · Band IV, Mythic · Stage XII, Emanation, the highest a Celestial can stand · Path Fate 65% / Spirit 25% / Body 10% · Grandmaster · η 0.85 · Aether Class V, Radiant · Crystal Sovereign, Strained under the Lawbell's weight
+**Stat line** · Level 396 · Band IV, Mythic · Stage XII, Emanation, the highest a Celestial can stand · Path Fate 65% / Spirit 25% / Body 10% · Grandmaster · η 0.85 · Class unnamed · Aether II · Essence II · Thread V · Crystal Sovereign, Strained under the Lawbell's weight
 **Combat grammar** · Open hand; he catches, holds and presses, and he has never once closed a fist to strike first
 **Aura and sound** · Vow-Light, a warm heavy gold like late sun through honey, with a pale silver line under it where his wings meet his back · sound: a great bell heard from very far off, under water, and under that a held breath
 **Releases** · none; a Celestial's Crystal was anchored, not grown, and his Domain is the only thing in him that grew · bonded weapon: none; he carries no weapon and has not since the Bell cracked
@@ -24,6 +24,10 @@
 **Realm / Faction** · The Celestial Host, the Midreach Choir; since the Shattering, no one's but the edge
 **Refusal** · He will not let a thing fall that he can catch, and he will not stand up
 **Conviction** · An oath sworn on honor and kept is the heaviest thing in the world, and somebody has to carry the weight of all of them
+
+**Aether Class** · II, Harmonic
+**Essence Class** · II, Answerer
+**Thread Class** · V, Weaver
 
 **Primaries** · Vitality 1,600 · Ardency 1,800 · Gnosis 2,200 · Dexterity 900 · Harmonics 2,400 · Resilience 3,000 · Tempering 1,000 · Dominion 1,416 · **Pool** 14,316 (6,516 from Levels, 7,800 from Thresholds I to XII), all spent
 **EU Reserve** · 311,710,908 EU · **Flux Density** · 20,000,000 EU/g · **AU/s** · 17,000,000 (20,000,000 × 0.85) · empties in 18.34 seconds at full output; he has not been at full output since the Bell

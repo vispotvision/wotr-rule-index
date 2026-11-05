@@ -9,7 +9,7 @@ private: true
 # Naiser Yukari
 
 **Naiser Yukari** · The Bearer of Weight · Lord of House Yukari · son of Senri Yukari and a daughter of House Lambert, grandson of Ashura Yukari · as of the season after the war
-**Stat line** · Level 395 · Band IV, Mythic · Stage XII, Emanation · Tier 7, Grandmaster · Grade cap SSS, ceiling 950 · Path Spirit 40% / Body 35% / Fate 25% · η 0.89 · Aether Class V, Radiant · Crystal Sovereign, Refined · reserve 3.03 × 10⁸ EU
+**Stat line** · Level 395 · Band IV, Mythic · Stage XII, Emanation · Tier 7, Grandmaster · Grade cap SSS, ceiling 950 · Path Spirit 40% / Body 35% / Fate 25% · η 0.89 · Class unnamed · Aether IV · Essence V · Thread I · Crystal Sovereign, Refined · reserve 3.03 × 10⁸ EU
 **Combat grammar** · Verdict
 **Aura and sound** · Limina at Emanation's clarity, a medium gray with black-violet living in it like black silk drawn over a blade edge, silver-violet flaring at the seams when the deeper lineage harmonics wake, and the air round him dimming like a corridor with the lamps turned low; sound: two low notes a hair apart that drift together until they are one, with a long hall's echo under them · smell: cedar smoke and cold stone
 **Stack** · sustainable A in Finesse, Economy and Penetration · cap +2 Grades · layers: RYŌKE NO KATA, the Twin Mantle when called, the Corridor when opened
@@ -49,7 +49,9 @@ private: true
 **η** · 0.89. Top of the Grandmaster band, 0.85 to 0.90, and standing as recorded; almost all of what he commits lands where he meant it
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, held in balance by constant labor
-**Aether Class** · V, Radiant. His Crystal's Attraction Layer carries territorial durability, which is why the Corridor forms round him without being called
+**Aether Class** · IV, Luminous
+**Essence Class** · V, Ferryman
+**Thread Class** · I, Touched. His Crystal's Attraction Layer carries territorial durability, which is why the Corridor forms round him without being called
 
 ## III. Wellspring Harmonizations
 

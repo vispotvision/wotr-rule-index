@@ -3,7 +3,7 @@
 # Léonard Lambert
 
 **Léonard Lambert** · the Warlord of the Lamberts · House Lambert of Sallowgate, the Holy Sea of Alabaster · as of the white shelf above Sallowgate, the morning of the first snow, under the house banner
-**Stat line** · Level 175 · Band II, Awakened · Stage VI, Glory · Path Body 55% / Spirit 30% / Fate 15% · Expert · η 0.65 · Aether Class I, Muridic · Crystal Harmonic, Refined
+**Stat line** · Level 175 · Band II, Awakened · Stage VI, Glory · Path Body 55% / Spirit 30% / Fate 15% · Expert · η 0.65 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
 **Combat grammar** · Blade; the counter-cut that has already started before your blow has
 **Aura and sound** · a clean pale gold with a thin line of white through it, like the edge of the shelf with the sun behind it · sound: a coin set down on stone, then another, counted
 **Traits** · ONE BEFORE (Inherited) · tell: he moves a hair before you do · counter: a blow with no intent behind it / COUNT TRUE (Primary) · tell: he says the number out loud · counter: a field he cannot see / THE STRUCK LIST (Secondary) · tell: he asks for the count twice · counter: a man who gives him a true one
@@ -21,6 +21,10 @@
 **Realm / Faction** · The Holy Sea of Alabaster and its land marches, held from Sallowgate for the Palatine at the Alabaster Court
 **Refusal** · He will not give a false count, or take one, from anybody, the Palatine included
 **Conviction** · A holy see weighs what men swear. Somebody has to count what they actually did
+
+**Aether Class** · I, Muridic
+**Essence Class** · Ø, Silent
+**Thread Class** · Ø, Unthreaded
 
 **Primaries** · Vitality 600 · Ardency 450 · Gnosis 700 · Dexterity 850 · Harmonics 300 · Resilience 650 · Tempering 300 · Dominion 575 · **Pool** 4,425 (2,325 from Levels, 2,100 from Thresholds I to VI), all spent
 **EU Reserve** · 459,515 EU · **Flux Density** · 35,000 EU/g · **AU/s** · 22,750 (35,000 × 0.65) · empties in 20.2 seconds at full output

@@ -220,7 +220,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 
 **III** · Neglecting Tempering. *An enormous Ardency inside a low-Tempering chassis is a very expensive way to fracture.*
 
-**IV** · Assuming the higher number wins. **Aether Class decides how much of that number arrives.** *Class III at B-Grade routinely beats Class I at A-Grade, and the survivor writes the report.*
+**IV** · Assuming the higher number wins. **Aether Class decides how much of that number arrives.** *Aether III at B-Grade routinely beats Aether I at A-Grade, and the survivor writes the report.*
 
 **V** · Chasing Wellspring count. **Three harmonizations held cleanly outperform seven held badly.**
 
@@ -250,7 +250,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 | **Wellspring** | One of the sixty types of Aether, each carrying one law. **Harmonized with, never invented** |
 | **Ability** | The internal platform. **Invisible on its own** |
 | **Technique** | A specific repeatable application. **What you actually do** |
-| **Aether Class** | Shell transparency. **How much of your ceiling actually arrives** |
+| **Aether Class** | Shell transparency. **How much of your ceiling actually arrives**, with Essence Class doing the same for the Core and Thread Class for the Attraction Layer |
 | **Trait** | A survived belief the Continuum now treats as a rule |
 | **Domain** | Territory where your law outranks ambient physics |
 | **Attraction Force** | Working sustained by recognition. **Clean** |

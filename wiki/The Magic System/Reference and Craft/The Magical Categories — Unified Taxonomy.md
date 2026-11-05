@@ -149,7 +149,7 @@ The lived evolution along the three Paths: Body, Spirit and Fate. Viaforma is ho
 
 Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis** and **Via Fati** are the three long arcs every other category eventually serves, and older filing keeps **Via Anima** as a fourth drawer for the shallow end of Via Fati. **Via Fati** spends little on force and works on what a result depends on; deep along it a soul is recognized by what it refuses to let end, it stays very hard, and the few high-Stage masters who reach real Fate Arts without the blood for them reach them late, along this road.
 
-A Path is the road. The **Aether Class** a soul is offered at its thresholds is what the road has made of the walker: a named class fitting how the person has lived, giving abilities, shaping growth and evolving at each tier by how it is lived, while the old ladder from Ø Dormant to Ω Absolute stays as its tier. Class and Path both file under Viaforma, since nobody casts either.
+A Path is the road. The **Class** a soul is offered at its thresholds is what the road has made of the walker: a named class fitting how the person has lived, giving abilities, shaping growth and evolving by how it is lived, each time the leading ladder rises. The three ladders stand beside it, Aether, Essence and Thread Class, one to each layer, each running Ø to Ω. Class and Path both file under Viaforma, since nobody casts either.
 
 **Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Fati (Fate), with Via Anima (Attraction) at its shallow end
 
@@ -388,7 +388,7 @@ A vow is small Fate, a person binding their own probability, and anyone can make
 | **A technique** | By what it does | A named thing done with a skill, showing no level and taking a bigger name when it jumps. Two techniques of one fighter routinely sit under two headings |
 | **A Trait level** | Traitus | The law's own growth, rising with use and with overall Level and skill |
 | **A window** | Aetherica | The soul's report of its own measure, seen by its owner alone |
-| **An Aether Class** | Viaforma | The shape a lived life has given the soul, offered at thresholds |
+| **A Class** | Viaforma | The shape a lived life has given the soul, offered at thresholds |
 | **A blessing** | Attraction-aligned where it goes through Fate, which most do; otherwise by what it grants | Power out of a person's natural reach, even in Level, from a giver spiritually stronger than they are: a higher spirit, an Archon, an Epoch, a person of higher Temperance. Vocatia asks upward and a blessing comes down, and it shows on the sheet as a line that can lie, because the giver wrote it |
 | **A curse** | As the blessing it often is | Same power, terms you did not read, or a giver who does not care what you want |
 | **A monster's core** | Drafts once rendered, Crystalia on the slab | In a way the monster's Soul Crystal, and the lawful Crystal Draw of The Standing Index. Swallowed raw it gives everything at once, and most die or come out wrong |

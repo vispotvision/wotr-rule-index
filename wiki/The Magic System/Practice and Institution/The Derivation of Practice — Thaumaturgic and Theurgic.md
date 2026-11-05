@@ -22,7 +22,7 @@ That tablecloth is why this register exists.
 
 ## Why a Second Axis
 
-The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. A guild title measures trust in a trade, and in a fighting guild it is read off Stage. Efficiency (η) measures how much of each expenditure arrives as effect. Aether Class, by its tier, measures conductivity. Temperance Stage measures architectural maturity.
+The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. A guild title measures trust in a trade, and in a fighting guild it is read off Stage. Efficiency (η) measures how much of each expenditure arrives as effect. The class ladders measure conductivity, Aether Class through the Shell, Essence Class through the Core and Thread Class through the Layer. Temperance Stage measures architectural maturity.
 > None of these tell the Bureau where the capacity came from.
 >
 > Two practitioners present identical Tier Grades, identical Tiers of Standing, identical η, identical stat profiles.

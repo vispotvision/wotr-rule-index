@@ -22,7 +22,7 @@ Her sum is the first line of this Part. A reserve divided by a rate is the time 
 
 **AU/s (Aether Units per second)** is the output rate, how much Essence is spent into active expression per second at full output. It is governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**, and it follows the formula **AU/s = Flux Density × η**.
 
-**Eta (η), Efficiency** is the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. It is the single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. It is governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
+**Eta (η), Efficiency** is the share of Essence spent that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. It is the single most important variable in sustained combat, because for the same delivered effect it determines how long the reserve lasts. It is governed by **the class ladder of the layer in use** (Aether, Essence or Thread Class), **Tempering Clarity** and **Ardency Compression**.
 
 **The fifth quantity is the one Part Eleven already measures**, and it is the one that lets the other four be priced at all. Strike Force is the destructive energy delivered per discrete attack action, recorded in **Newtons** for peak contact force and in **Joules** for total energy yield. The Continuum already keeps its books in joules. The Ledger is not a new currency; it is the exchange rate between the two sets of books.
 
@@ -255,7 +255,7 @@ Illustrative reserves and AU/s, sorted by how long the reserve holds at full dra
 | 4 h 59 m 42 s | 4 h 29 m 44 s | 2,697 | Stage XII, Grandmaster | 180,000,000 | about 10,010 | 0.91 | 901 MW |
 | about 642 days | about 578 days | 8.3 million | Stage XII, Grandmaster | 4.8 × 10¹⁴ | 8.648 × 10⁶ | 0.94 | 519 GW |
 
-Every η here is the practitioner's own. The Tier ranges of Part Nineteen serve the unclassed at Stages I to V and stand as a field average above them; a read Class overrides them, and a practitioner whose η stands outside their Tier's range stands as recorded.
+Every η here is the practitioner's own. The Tier ranges of Part Nineteen serve the unclassed at Stages I to V and stand as a field average above them; a read rung overrides them, and a practitioner whose η stands outside their Tier's range stands as recorded.
 
 **The whole column is a clock.** Most reserves empty in under two minutes at full drain. The exceptions are the very largest reserves and the low-output ones built for long work: a Stage XII reserve of 180,000,000 EU spent at about 10,010 AU/s is built for multi-hour forge work, and its two numbers say so.
 

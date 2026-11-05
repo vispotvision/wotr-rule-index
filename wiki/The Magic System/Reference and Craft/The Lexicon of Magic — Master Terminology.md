@@ -290,7 +290,15 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Trait level** · Traits stay what they have always been, the Four Reflections and their laws, and they can be leveled and refined like skills: a Trait's level rises with use and grows with overall Level and skill.
 
-**Aether Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves at each tier by how it is lived, into forms some share with many and some hold alone. The ladder on file stays as its **tier**: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute, with all of its figures standing. Stages I to V read no Class, so the first offer comes at Glory, and from there the tier sets η, a read Class overriding the Tier of Standing table's field average and a card's own figure governing its holder. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
+**Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves by how it is lived, each time the leading ladder rises, into forms some share with many and some hold alone. It has no ladder of its own. Stages I to V read no Class, so the first offer comes at Glory. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
+
+**Aether Class** · The ladder of the Aether Shell, how strong a person's influence on the physical world is: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute, with all of its figures standing. From Glory it sets η for what goes out through the Shell, a read rung overriding the Tier of Standing table's field average and a card's own figure governing its holder.
+
+**Essence Class** · The ladder of the Essence Core, how strong a person's influence on spiritual reality is: Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute. From Glory it sets η for workings authored in the Core, at the Aether figures by numeral.
+
+**Thread Class** · The ladder of the Attraction Layer, how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. Most souls stay Ø for life. Its numeral gives η as two rungs below the same numeral elsewhere, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip.
+
+**The ladder line** · The lead Path's ladder climbs with Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. VI on each ladder is lateral, an inverted way of holding that power. A window reads `Aether IV · Essence II · Thread Ø`. The Soul Crystal Tier stays as the reading of the whole soul.
 
 **Tempering** · The Soul Crystal is literally the soul. Tempering melts it down and rebuilds each layer, refines the Essence and makes it stronger, and the body gains Traits.
 

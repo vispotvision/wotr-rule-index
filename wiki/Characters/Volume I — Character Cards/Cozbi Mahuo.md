@@ -14,7 +14,7 @@ private: true
 # Cozbi Mahuo
 
 **Cozbi Mahuo** · Head of House Mahuo · Master of the Sum-gol Post · First Keeper of the Order of the Spiritual Reality · as of the season after the war
-**Stat line** · Level 450 · Band V, Absolute · Stage XIII, Principality · Tier 8, Archmaster · Grade cap X, ceiling 1,200 · Path Spirit 55% / Fate 30% / Body 15% *(derived)* · η 0.90 *(derived)* · reserve 1.53 × 10⁹ EU *(derived)*
+**Stat line** · Level 450 · Band V, Absolute · Stage XIII, Principality · Tier 8, Archmaster · Grade cap X, ceiling 1,200 · Path Spirit 55% / Fate 30% / Body 15% *(derived)* · η 0.90 *(derived)* · Class unnamed · Aether II · Essence V · Thread IV *(derived)* · reserve 1.53 × 10⁹ EU *(derived)*
 **Combat grammar** · Host: he fights the way he gives a dinner, and his summons are his guests
 **Aura and sound** · near-white at Principality's clarity, washed through with arterial red at the fringe like red glass held up to the sun, a black-violet seam where Eidolyn runs under it; it reads as pressure before color · sound: a heartbeat from the wrong side of a door, *kung... kung...*, with a fine crystal ticking under it while his constructs form · smell: cold iron and grave soil, then copper
 **Ability** · ANTITHESIS (상극 · Sanggeuk) · tell: light bends toward a point beside him and away from it at once, and the air tastes of struck flint · counter: break his hold on the point, or stay beyond its reach
@@ -46,6 +46,9 @@ private: true
 **Temperance Stage** · XIII, Principality. The Continuum has formally registered a law he embodies: **Antithesis**, a thing and its negation hold one point and neither yields.
 **Tier of Standing** · 8, Archmaster
 **Path** · Spirit 55%, Walked; Fate 30%, Walked; Body 15%, Studied *(derived from the three-plane crossing of the summoning arts)*
+**Aether Class** · II, Harmonic *(derived)*
+**Essence Class** · V, Ferryman *(derived)*
+**Thread Class** · IV, Knotwright *(derived)*
 **EU reserve** · 1.53 × 10⁹ EU, from the law of reserves at Level 450 (log₁₀ EU = 3.4202 + 0.012812 × 450), inside the Principality band; derived, the Stat Sheet overrides on contact
 **Point pool** · 16,900 (7,800 from Levels, 9,100 from Thresholds I to XIII); allocated as the arts below set it
 

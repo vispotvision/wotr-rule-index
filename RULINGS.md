@@ -4085,3 +4085,9 @@ Context: Isaac, 2026-11-05, in chat, with an updated Zettari document adding the
 let's make information like they did for the Zettari Valorin for all the House's of the Inner World detailed etc with info + moto and Yukari and there new stuff. each house should get its own little thing
 
 Context: Isaac, 2026-11-05, in chat. Indexed as R85-36. Read as: each Inner World House gets its own page in the shape of the Zettari and Valorin documents, with its own signature. Brief in imports/drafts/house-codexes/.
+
+## 2026-11-05 — new
+
+Cozbi Mahuo's sister, the unnamed mother of Hiromi in The Dead Note, is Saeju Mahuo (새주), and she was the rightful heir of the South's dynasty and empire, the Vermilion Dynasty of Sum-gol. Isaac's word. Agent ruling beside it, open to overturn: on her death her claim passes by blood to her son Hiromi, so Cozbi heads the house without the right to the crown, and Naiser Yukari's promised restoration of the royal line would crown Hiromi.
+
+Context: Isaac asked for a name for Cozbi's sister, the rightful heir, then confirmed she is Hiromi's mother and said to file her (2026-11-05). Name built from the Mahuo inventory: Sae (new, first breath) + Ju (sovereign). The passing of the claim to Hiromi is inferred; no succession law for Sum-gol is on file.

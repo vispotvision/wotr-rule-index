@@ -3887,3 +3887,9 @@ Context: Indexed as R85-2; supersedes R51-08 (no Earth day and month names). How
 Agent ruling (Natalie): From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.
 
 Context: Indexed as R85-3. Grounds: NATALIE's "Aether Class sets eta" and R84-10 are the newest word; R42-2 and R44-4 are both live and neither withdrawn, and R44-5 already lets a card govern. Isaac told Natalie on 2026-11-05 to rule the magic audit's law-level items and said he would overturn what he dislikes.
+
+## 2026-11-05 — C-168
+
+Agent ruling (Natalie): AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.
+
+Context: Indexed as R85-4. Grounds: R44-2 is Isaac's formula and the Ledger's tables were recomputed clean on it, so this reading keeps every published figure and explains the double η instead of changing the numbers. NATALIE's bare "Flux" was a slip for Flux Density.

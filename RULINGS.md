@@ -3695,3 +3695,9 @@ Context: Inner World redo. Imports/drafts/inner-world-redo/KINGDOMS.md carries t
 Isaac, 2026-11-05: "nah I want use the art I selected its fine also the Scourge of Hell is in center of the continent it's a vast wasteland that filled with monsters long ago." His selected art goes on the wiki and the public site as chosen. The Scourge of Hell is a vast wasteland at the center of the continent, filled with monsters long ago. AGENT RULING (Natalie, overturnable): artists are credited in a caption where the image shows a name.
 
 Context: Inner World redo. Overrides Natalie's recommendation of generated originals for the site and her placement of the Scourge between the empire and Undaar-Keth.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "The South North and Central Continents all Get a turn in dealing with the wide spread monster population". The monsters of the Scourge of Hell are a shared, rotating burden: North, South and Center each take their turn dealing with them. AGENT RULING (Natalie, overturnable): each power's standing obligation against the Scourge is written as an old, resented arrangement that all three argue over, without inventing a treaty's terms beyond that.
+
+Context: Inner World redo. He called them continents here; whether North, Center and South are what Malakar's split makes into separate continents is put to him.

@@ -26,6 +26,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · Fire that renews. Whatever this lens touches it burns down so that something can stand up in its place, and the burning stays in the soul as strength where it would otherwise have left as smoke.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through burning; destruction reborn as creation.
 
 **Alchemy** · The Sulfur principle at full heat: a fire that stays resident in the body it burns. *(the trade's reading)*
@@ -45,6 +47,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 ## Exuroth · *The Trial Flame*
 
 **The idea** · The trial by fire. Power comes only through ordeal, plunged and reheated and plunged again, until the soul holds a hardness no gentle road could have given it.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through ordeal.
 
@@ -66,6 +70,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · The spark. The smallest beginning that goes on to pay for itself, so that the gap between wanting a thing and doing it closes to almost nothing.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through ignition.
 
 **Alchemy** · The first degree of fire: the smallest heat that goes on to pay for itself, which every Burning starts from. *(the trade's reading)*
@@ -85,6 +91,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 ## Cinerion · *The Ash Veil*
 
 **The idea** · What the fire leaves. Ash taken as treasure: every spent thing feeds the next thing, and the soul learns to live on its own aftermath.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through aftermath.
 
@@ -106,6 +114,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · The fuming earth. Pressure let out forever and never saved up, so the soul stops building toward a blow and becomes a steady force in the room.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through pressure.
 
 **Alchemy** · The vessel that breathes: fume let off without end, so the charge never bursts. *(the trade's reading)*
@@ -125,6 +135,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 ## Manganthra · *The Catalyst of Change*
 
 **The idea** · The go-between. Change that happens because something stands between two enemies and lets them meet, and a soul under this lens can hold what ought to tear it apart.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through transformation.
 
@@ -146,6 +158,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · Upheaval. The moment a fire stops being a fire and becomes a blast, a change in kind as well as size, and the soul that has learned to call that moment.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through upheaval.
 
 **Alchemy** · The vessel's violent end taken as a law: the moment a burning charge stops burning and becomes a blast. *(the trade's reading)*
@@ -165,6 +179,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 ## Pyraeon · *The Ember Crown*
 
 **The idea** · The ember that stays lit. Power that gives up its flare and keeps its heat for a lifetime.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through endurance.
 
@@ -186,6 +202,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · Letting go. A load set down so completely that the setting down spends it, and the soul comes out on the other side lighter and changed.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through letting go: release, purgation, true clearing. The Heresiology's warning stands beside it, that nothing is purified by being merely emptied.
 
 **Alchemy** · Purgation: the matter gives up its burden in the change of state itself. *(the trade's reading)*
@@ -205,6 +223,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 ## Penanceflare · *The Light of Contrition*
 
 **The idea** · Burning in the open. Remorse that shines, so that what the soul is and what it means can be read by anyone looking, and honesty costs nothing because nothing is hidden anymore.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through remorse.
 
@@ -229,6 +249,8 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 > **This entry is the register's one exception, and it is marked as one.** The Sixty are fixed, Caloria holds ten of them, and Vohrin is not among the ten. It is the power of a Titan, [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin|the Prime Cryotheic of Niflheim]], and it can be worked at Wellspring level. The note sits on this page because heat run backward is still thermodynamics, and because fighters keep writing "Vohrin (Caloria)" in their entries and somebody has to tell them what they have written.
 
 **The idea** · The cold that stills. Prometheus burns what is false, Zar'thuun unmakes what is excess, and Vohrin stills what is left so it can be built upon. Cold here is no fire of its own. It is a deficit, heat let go of and held as a discipline.
+
+**Kind** · Wild
 
 **Two levels** · One power, worked two ways. The frost arts of the hunters and the northern schools work it at Wellspring level or as a Titan-derived current, each at the Stage floor its own entry states. The Titan-Keyed Stillwater Rite works it at the Titan's level and is gated at Revelation.
 

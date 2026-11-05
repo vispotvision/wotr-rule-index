@@ -24,6 +24,8 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **The idea** · Change without loss. The same thing said another way, so that what looked like a failure turns out to be fuel in an inconvenient form.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through motion.
 
 **Alchemy** · One of the six named operations: it re-expresses a thing in another basis, nothing created or lost. The Bench files a Transmutatio Draft as a composite, and it is volatile: under Preparation Failure it does not deactivate at all.
@@ -44,6 +46,8 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **The idea** · The living exchange. Two souls in tune, giving and taking with nothing carried between them, so that what one holds the other can use.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through empathy.
 
 **Alchemy** · The tincture shared: two matched vessels, one giving and one taking, with no pour between them. *(the trade's reading)*
@@ -63,6 +67,8 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 ## Eclipseron · *The Shadowed Star*
 
 **The idea** · Reading what is missing. The shape of an absence taken as knowledge of the thing that cast it.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through eclipse.
 

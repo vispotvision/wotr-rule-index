@@ -22,6 +22,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · The breath of the whole. A body that remembers being whole and answers a small hurt with everything it has.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through vitality. *The confessors' reading:* remembering wholeness, wounds closing because the body remembers being whole.
 
 **Alchemy** · The quickening: the steady blood-warmth of the Bed, in which a charge stays alive. *(the trade's reading)*
@@ -41,6 +43,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 ## Verdantia · *The Green Pulse*
 
 **The idea** · Growth without end. A self with no final size, which feeds on simply being out in the world.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through growth.
 
@@ -62,6 +66,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · Grace. A bond freely given, and weighed by the world as a real thing.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through compassion. *The confessors' reading:* grace, in which a bond becomes a thing the world can weigh.
 
 **Alchemy** · Affinity: why this salt takes to that metal and will not let go. *(the trade's reading)* Gold carries it.
@@ -81,6 +87,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 ## Rebirthine · *The Cycle Eternal*
 
 **The idea** · The cycle. Loss taken as the first step of the next building, what is broken down paying for what comes up.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through renewal. *The confessors' reading:* loss, destruction treated as the first step of reconstruction.
 
@@ -102,6 +110,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · The black gate. Ending looked at squarely and understood as a passage with its own law, by a soul that has stopped fearing it and has started, a little, to cool.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through surrender. *The confessors' reading:* dissolution, threshold, completion and the lawful withdrawal of presence. It governs passage and keeps nobody in storage.
 
 **Alchemy** · The Blacking: the charge gone black in the Rot, at the point where a matter stops holding itself together. *(the trade's reading)*
@@ -122,6 +132,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **The idea** · The light reclaimed. The wound becomes the strongest place, and the whole self rearranges itself around what it really lived through.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through return. *The confessors' reading:* being reclaimed, the wound becoming the strongest place.
 
 **Alchemy** · The sound weld: metal densest at the old break. *(the trade's reading)*
@@ -141,6 +153,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 ## Contrition · *The Broken Flame*
 
 **The idea** · A failure owned. Only what you truly got wrong and truly survived turns into armor.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through acceptance. *The confessors' reading:* a failure owned and survived.
 
@@ -163,6 +177,8 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 > **Cross-listed with Fluxia.** The same Wellspring answers to two physics because memory itself does. The cross-listing looks like an archival error and is the only honest place to put it.
 
 **The idea** · Memory as deep water. What is lived sinks in, is built into you, and comes back long after the weather has changed.
+
+**Kind** · Medium
 
 **Spirit** · Temperance through reflection. *The confessors' reading:* memory, what is lived built into the structure.
 

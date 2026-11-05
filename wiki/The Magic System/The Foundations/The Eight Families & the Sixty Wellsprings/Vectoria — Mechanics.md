@@ -26,6 +26,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **The idea** · The breaking point. Everything has a place where it will go, and this lens shows it to you, in bridges, in friends and in your own left wrist.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through failure.
 
 **Alchemy** · The assayer's blow: the ingot struck to make its flaw show. *(the trade's reading)* Quartz amplifies it.
@@ -45,6 +47,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 ## Petralon · *The Foundation Stone*
 
 **The idea** · The foundation. To become what other things stand on: load taken, carried and sent down, at the price of slowly settling.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through endurance.
 
@@ -66,6 +70,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **The idea** · The ladder. The whole height climbed by steps, with no single step large enough to break you.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through rising.
 
 **Alchemy** · The degrees of fire: one heat reached by steps, where a fool reaches it at a stroke and loses the glass. *(the trade's reading)*
@@ -85,6 +91,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 ## Sublimatio · *The Ascending Breath*
 
 **The idea** · Rising straight through. A soul that leaves its lower state behind in one clean step, with nothing spilled in between.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through refinement.
 
@@ -106,6 +114,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **The idea** · Purification by rising. What is light goes up, what remains is purer, and the soul goes on refining itself toward one clear thing.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through ascent.
 
 **Alchemy** · The law Distillation draws on: parting by boiling point, the spirit risen and returned.
@@ -125,6 +135,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 ## Abython · *The Abyssal Pulse*
 
 **The idea** · Peace with the abyss. Matching the pressure in place of fighting it, so that the soul can walk where everyone else suffocates.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through void.
 
@@ -146,6 +158,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **The idea** · Forgiveness. The history stays and the shape stays, and the old poison stored in them is let out.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through forgiveness.
 
 **Alchemy** · The gentle reheat: the strain let out of worked metal and its shape left alone. *(the trade's reading)*
@@ -165,6 +179,8 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 ## Penance · *The Atoning Path*
 
 **The idea** · Discipline. Strength earned on purpose, blow by blow, in exactly the places where you did wrong or were hurt.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through discipline.
 

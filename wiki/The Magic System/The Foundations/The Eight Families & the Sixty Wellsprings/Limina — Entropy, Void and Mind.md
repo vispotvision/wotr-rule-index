@@ -28,6 +28,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · Forgetting on purpose. Learning which memories hold up the house and which ones are chains, and cutting the chains.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through release of memory. *The confessors' reading:* forgetting, the lesson of which memories are load-bearing and which are chains.
 
 **Alchemy** · The skimming: scum taken off the charge, with the worker's guess at which part was scum. *(the trade's reading)*
@@ -47,6 +49,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 ## Lethegraal · *The Cup of Forgetting*
 
 **The idea** · The cup. Time's mercy hurried along: old pain settles on its own schedule, and no hand chooses what falls.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through quiet. *The confessors' reading:* time, old pain digested into neutral architecture.
 
@@ -68,6 +72,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · The sleep crown. Change that comes only at rest, the soul setting itself in order in the dark while nothing is asked of it.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through rest.
 
 **Alchemy** · The Standing: nothing is done and nothing may be done, and the thing goes on ordering itself in the dark. *(the trade's reading)*
@@ -87,6 +93,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 ## Mirithane · *The Wellspring of Reflection*
 
 **The idea** · The honest mirror. The inside and the outside made one surface.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through stillness. *The confessors' reading:* self-sight, the inside and the outside made one honest surface.
 
@@ -108,6 +116,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · Dream as a place. Work done in the space of what can be thought, reaching where no line of sight runs.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through imagination. *The confessors' reading:* dreaming.
 
 **Alchemy** · The working in the mind: the operation carried out on no bench at all. *(the trade's reading)*
@@ -127,6 +137,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 ## Eidolyn · *The Shaping Mind*
 
 **The idea** · The shaping mind. A thing imagined so hard that it stands up and has to answer for itself.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through creation. *The confessors' reading:* imagining, the thing thought made solid enough to answer for.
 
@@ -148,6 +160,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · Remembrance. Everything keeps its past, and a soul under this lens can touch a thing and read it.
 
+**Kind** · Medium
+
 **Spirit** · Temperance through awareness. *The confessors' reading:* remembrance, which preserves charged records of lived commitment, and more than mere memory.
 
 **Alchemy** · The fired pot's testimony: the residue in a vessel says everything it has ever held. *(the trade's reading)*
@@ -167,6 +181,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 ## Dissolution · *The Unbinding Stream*
 
 **The idea** · Unbinding. What no longer serves is allowed to come apart on its own, and keeping anything at all becomes the work.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through release. *The confessors' reading:* unbinding, the soul dissolving what no longer serves its architecture.
 
@@ -188,6 +204,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · The hidden shadow. Going unseen, quieter than the world around you, and the old question of what you are hiding from.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through secrecy. *The confessors' reading:* concealment. The Heresiology's doctrine stands beside it: the presence of shadow is no proof of heresy, and the use of shadow to erase cost, witness or responsibility often is.
 
 **Alchemy** · The cover-name: the recipe written to hide. *(the trade's reading)* Obsidian holds it.
@@ -207,6 +225,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 ## Oblivara · *The Dark Mirror*
 
 **The idea** · Keeping your name. A self written down so many times that it cannot be erased, with whatever is done to it sent back where it came from.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through erasure. *The confessors' reading:* keeping one's name against erasure.
 
@@ -228,6 +248,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · The even flame. A self that holds its level whatever the room does.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through night. *The confessors' reading:* evenness.
 
 **Alchemy** · The Still Bath: self-limiting at the boil, whatever the fire below it does. *(the trade's reading)*
@@ -248,6 +270,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · The hollow law. Power by negation: the rule itself unmade, and what stands in the gap.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through void. *The confessors' reading:* negation.
 
 **Alchemy** · Neutralization: two reagents poured together until nothing is left in the flask that can act. *(the trade's reading)*
@@ -267,6 +291,8 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 ## Vantabriel · *The Wellspring of Night*
 
 **The idea** · The night that keeps. Enduring by carrying everything that was lost, with none of it put down.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through absence. *The confessors' reading:* carrying what was lost.
 

@@ -24,6 +24,8 @@ Ingrid Stenhammar fought the Stage brackets at Tollgate for six summers as the C
 
 **The idea** · Gathering the broken self. A soul's scattered pieces come back into one body without ever melting, keeping the shape they had while broken.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through merging: the Soul Plane's unifying force, a soul gathering itself back together.
 
 **Alchemy** · The personal twin of Coagulatio: gathering without melting, the soul's own Setting. Basalt takes it.
@@ -46,6 +48,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **The idea** · Commitment. What is bound here stays bound, because the way back has stopped existing.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through permanence. *The confessors' reading:* commitment, in which what is held stays held.
 
 **Alchemy** · One of the six named operations: it anchors and seals, and every Sealing chain on the bench runs under its law. The Bench files a Fixatio Draft as a Coagulation. Basalt takes it.
@@ -65,6 +69,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 ## Coagulatio · *The Returning Stone*
 
 **The idea** · Settling round a seed. Scattered things find one grain and grow out from it, denser and far less wasteful than they were.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through re-forming. *The confessors' reading:* settling, the scattered self finding its seed.
 
@@ -89,6 +95,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **The idea** · The first substance. One self and many forms, and a soul that finds it can become its own opposite and still be itself.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through origin. *The confessors' reading:* re-forming, the self discovered in another of its own shapes.
 
 **Alchemy** · One of the six named operations: it re-lattices one Essence into another of its own forms. The Bench files a Materia Primordia Draft as a Coagulation.
@@ -108,6 +116,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 ## Basilithe · *The Stone Will*
 
 **The idea** · The stone will. One note the soul holds that nobody can retune.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through permanence. *The confessors' reading:* constancy, the soul's frequency refusing retuning.
 
@@ -129,6 +139,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **The idea** · The monument. A self with no seams in it, which outlasts everything and stops being a person in a room and starts being a feature of the land.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through memory. *The confessors' reading:* permanence, until presence becomes geological.
 
 **Alchemy** · The great casting: one mass cooled so slowly it has no seam in it. *(the trade's reading)*
@@ -148,6 +160,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 ## Terranova · *The Living Earth*
 
 **The idea** · The living earth. Mending by growing, every wound answered with new ground.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through birth. *The confessors' reading:* regrowth.
 
@@ -169,6 +183,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **The idea** · The root. Holding on by touching everything, so that whatever you stand on becomes yours to stand on.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through grounding. *The confessors' reading:* rootedness.
 
 **Alchemy** · Lute, the humble seal: it holds because it touches everything. *(the trade's reading)*
@@ -188,6 +204,8 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 ## Tarturon · *The Fire of Reckoning*
 
 **The idea** · Reckoning. Power that rises with what you believe you owe, and that nothing can smother once it is lit.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through ordeal; correction through consequence, a soul's output rising when it believes it deserves to pay.
 

@@ -44,6 +44,8 @@ A harmonization caught by accident is as real as one got at a school's rites, ou
 >
 > In a Wild-type concentration the perception is correct and the ground is lying. Trust the body.
 
+Stay anyway and the Crystal stops being unaffected. A Wild Wellspring is a thing in the world, and a soul that lingers beside it starts shaping its Essence around that thing, which is how a harmonization is caught here: slowly, with plenty of warning, and with everyone in the party able to see what you are becoming.
+
 ### Spirit-Type Onset
 
 The Crystal knows first, and the Crystal does not report to the conscious mind at the speed the conscious mind requires.
@@ -57,7 +59,7 @@ The first symptom is physiological, and it comes before anything you could call 
 >
 > The practitioner begins producing effects they believe are their own, because the Crystal is the origin of all their effects and the Crystal is the thing being activated.
 >
-> The fire does not fall from the sky. The fire comes from the practitioner's own Shell, and the practitioner, feeling the fire leave their body, concludes that they chose to produce it.
+> The fire does not fall from the sky. The fire comes from the practitioner's own Shell, and the practitioner, feeling the fire leave their body, concludes that they chose to produce it. A spiritual Wellspring has no fire to give. What leaves the Shell is the person's own Essence in their own nature, driven out by a soul that is being changed.
 
 **Response time is narrow.** The window between onset and commitment (the point at which the Crystal has been retuned enough that you can no longer distinguish your native architecture from the concentration's influence) is measured in seconds at Active Concentration and is functionally zero at Veil-Thin and above.
 > The surveyor who hesitates during a Spirit-type onset to confirm their reading is the surveyor who has already been retuned.

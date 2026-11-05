@@ -24,6 +24,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **The idea** · Truth told apart. Discernment that knows what a thing is made of, and whether it is lying, from the mark it cannot help leaving.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through discernment: order, measure and consequence.
 
 **Alchemy** · The law Separation draws on, the Parting of the bench: discernment, the parts told apart and taken apart.
@@ -43,6 +45,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 ## Aurevane · *The Wellspring of Light*
 
 **The idea** · Light that does not flatter. What you see grows truer, and what you send out arrives exactly as you meant it.
+
+**Kind** · Medium
 
 **Spirit** · Temperance through illumination.
 
@@ -64,6 +68,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **The idea** · Freedom in the air. The world read as a set of open ways, so that moving becomes a matter of noticing which way is already open.
 
+**Kind** · Wild
+
 **Spirit** · Temperance through freedom.
 
 **Alchemy** · Volatile Mercury: the spirit that finds its own road up the neck of the still. *(the trade's reading)*
@@ -83,6 +89,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 ## Orrenthal · *The Metallic Heart*
 
 **The idea** · The heart held in common. A soul whose goods belong to the whole of it, which bends under load and keeps its word.
+
+**Kind** · Wild
 
 **Spirit** · Temperance through integrity.
 
@@ -104,6 +112,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **The idea** · The hidden light. Seeing what hides and hiding what shows, one act run in two directions.
 
+**Kind** · Medium
+
 **Spirit** · Temperance through perception.
 
 **Alchemy** · The hidden tincture: the color present in the charge that no eye reads until the right light finds it. *(the trade's reading)* Quartz amplifies it.
@@ -123,6 +133,8 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 ## Abyntheus · *The Outer Pulse*
 
 **The idea** · Vastness. The great scale read off the small vessel, a mortal soul stretched to take in things far too large for it.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through vastness.
 

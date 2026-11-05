@@ -24,9 +24,13 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **The idea** · Memory as deep water. What is lived sinks in, is built into you, and comes back long after the weather has changed. On this page's reading it is the aquifer: groundwater reaching the well decades after it fell as rain, and returning what entered it, contamination included.
 
+**Kind** · Medium
+
 ## Somnalis · *The Dream Veil*
 
 **The idea** · Living among what might be. Every near possibility held in view at once, each with its weight, and a soul at ease in the not knowing.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through vision. *The confessors' reading:* uncertainty, living easy among adjacent possibilities.
 
@@ -48,6 +52,8 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **The idea** · Depth of feeling. Emotion given its true weight, so that a grief can press on a whole room.
 
+**Kind** · Spiritual
+
 **Spirit** · Temperance through immersion. *The confessors' reading:* depth of feeling, emotional truth given its full weight.
 
 **Alchemy** · Weight in the vessel: pressure set by depth alone, whatever the shape of the glass. *(the trade's reading)*
@@ -67,6 +73,8 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 ## Oblation · *The Offering Flame*
 
 **The idea** · The offering. What you give up comes back as force, and never one grain more than you gave.
+
+**Kind** · Spiritual
 
 **Spirit** · Temperance through sacrifice.
 

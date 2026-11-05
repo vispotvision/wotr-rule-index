@@ -185,11 +185,13 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 *The physics-first sorting tells the practitioner which Family governs their output. The encounter-type classification tells the surveyor which direction the danger arrives from.*
 > **The classification rests on a single question: where does the effect originate, and where does it arrive?**
 
-| Type | Mechanism | Dominant Families |
+**Most of the Sixty are physical, and the rest are not physical at all.** A Wild Wellspring is a thing in the world: fire in the ground, stone that moves, lightning, a solution crystallizing out of itself on the bench. You can point at it, and a practitioner who takes it up shapes their inner Essence around it. A spiritual Wellspring is a change in a soul: forgiveness, forgetting, a failure owned. There is nothing to point at, and it gives its bearer no fire to throw. It usually does little or nothing to the physical world, though an edge case will always find a Measurewright: a Thaloré grief can be felt across a room, and the argument over whether that counts is older than the Guild. Every one of the sixty changes the soul that takes it up; the difference is whether the world shows it too. A spiritual entry below still carries an analogue, which is the scholars' picture of what is happening in the soul, and no one has yet watched a forgiveness anneal.
+
+| Type | Mechanism | Which Wellsprings |
 |---|---|---|
-| **Wild** *Physical Plane dominant* | The Aether acts on **existing physical material.** The stone was there. The water was there. The metal was there. **The Aether reshapes it, moves it, compresses it, grows it.** *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | Materia, Spatium, Vectoria (Gravity, Seismic), Vitalia (Growth, Healing) |
-| **Spirit** *Soul Plane dominant* | The Aether **generates effects from inside the Crystal and projects them outward. The fire was not there until the Aether made it.** The Essence Core is the active layer. *The landscape looks entirely normal. The surveyor's environment is a reliable instrument. The surveyor is not* | Caloria (Fire, Heat, Cold), Fulguria, Limina, Vectoria (Sound, Force projection), Vitalia (Decay, Poison), Fluxia at high concentration |
-| **Medium** *Veil-crossing* | The Aether operates **in both directions simultaneously**, in the liminal threshold between planes. **Water and Light are the primary Medium elements.** *A Phreatis practitioner at a riverbank is simultaneously reshaping the physical water and being reshaped by what the water remembers. The observer is altered by the observation. Neither body nor Crystal provides a stable reference point* | Fluxia, Vitalia (Water), Fulguria (Light), Limina at Veil-Thin density and above |
+| **Wild** *Physical Plane dominant* | The Aether appears as **a physical phenomenon or an alchemical transformation.** The stone was there. The water was there. The metal was there. **The Aether reshapes it, moves it, compresses it, grows it, burns it**, and whoever harmonizes with it shapes their Essence around the thing itself. *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | **Thirty-seven.** All of Materia. Caloria but for Catharsis and Penanceflare. Vectoria but for Absolution and Penance. Judicium, Cymorath, Orrenthal; Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel; Transmutatio, Transference; Anima Spirare, Verdantia, Rebirthine, Mortalis |
+| **Spirit** *Soul Plane dominant* | The Aether works **on the soul and nowhere else. It has no fire to give.** The Essence Core is the active layer. A discharge on this ground is the person's own Essence, driven out by a soul that is being changed. *The landscape looks entirely normal. The surveyor's environment is a reliable instrument. The surveyor is not* | **Nineteen.** Catharsis, Penanceflare; Somnalis, Thaloré, Oblation; Abyntheus; Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Oblivara, Nyxial; Eclipseron; Absolution, Penance; Benediction, Redemption, Contrition |
+| **Medium** *Veil-crossing* | The Aether operates **in both directions simultaneously**, in the liminal threshold between planes. **Water and Light are the primary Medium elements.** *A Phreatis practitioner at a riverbank is simultaneously reshaping the physical water and being reshaped by what the water remembers. The observer is altered by the observation. Neither body nor Crystal provides a stable reference point* | **Four.** Phreatis, Aurevane, Luminalis, Anamnesis |
 
 ### The nested depth model
 
@@ -255,6 +257,7 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 | **The idea** | The concept the Wellspring lays over a soul's Aether, in plain words. Start here. |
 |---|---|
+| **Kind** | Wild, Spiritual or Medium: a thing in the world, a change in the soul, or both at once across the Veil. |
 | **Spirit** | The transformation it works on the soul, the road on the Temperance climb: the Fracture's "Temperance through" name, with the confessors' reading beside it where they read it otherwise. |
 | **Alchemy** | The principle it stands for at the bench: its operation or stage of the Work where it has one, otherwise the trade's reading of what its law does to matter in a vessel. |
 | **Analogue** | How scholars explain it, part one. The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
@@ -290,14 +293,16 @@ Because each Family answers to a real physical domain, each Family answers to re
 
 | Family | Encounter type | Favored conditions | Suppressive conditions |
 |---|---|---|---|
-| **Caloria** | **Spirit** (Fire/Heat/Cold) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
-| **Fulguria** | **Spirit** · **Medium** (Light) | Dry air, conductive substrate, clear line of sight | Iron-caged interiors, heavy ferrous shielding, dense fog |
-| **Vectoria** | Split: **Wild** (Gravity, Seismic) · **Spirit** (Sound, Force projection) | Structural mass, elevation, brittle or pre-stressed material | Loose sediment, free fall, uniform soft ground |
-| **Spatium** | **Wild** | Veil-thin zones, established Realmgates (standing doorways between Realms), surveyed ground | Warp scarring, contested Domains (spaces where one practitioner's law outranks local physics), unmapped terrain |
+| **Caloria** | **Wild** · **Spirit** (Catharsis, Penanceflare) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
+| **Fulguria** | **Wild** · **Medium** (Aurevane, Luminalis) · **Spirit** (Abyntheus) | Dry air, conductive substrate, clear line of sight | Iron-caged interiors, heavy ferrous shielding, dense fog |
+| **Vectoria** | **Wild** · **Spirit** (Absolution, Penance) | Structural mass, elevation, brittle or pre-stressed material | Loose sediment, free fall, uniform soft ground |
+| **Spatium** | **Wild** · **Spirit** (Eclipseron) | Veil-thin zones, established Realmgates (standing doorways between Realms), surveyed ground | Warp scarring, contested Domains (spaces where one practitioner's law outranks local physics), unmapped terrain |
 | **Materia** | **Wild** | Mineral-rich rock, worked stone, deep foundation | Open water, high altitude, moving platforms |
-| **Vitalia** | Split: **Wild** (Growth, Healing) · **Medium** (Water) · **Spirit** (Decay, Poison) | Living biomass, temperate conditions, proximity to blood | Sterile ground, extreme cold, Essence-depleted soil |
-| **Fluxia** | **Medium** primary · **Spirit** at high concentration | Standing or moving water, humidity, pressure differential | Arid terrain, vacuum, thermally locked air |
-| **Limina** | **Spirit** primary · **Medium** at Veil-Thin density and above | Darkness, silence, Aether-thin ground, ruins | Saturated Aether, crowd density, active Domains |
+| **Vitalia** | **Wild** · **Medium** (Phreatis) · **Spirit** (Benediction, Redemption, Contrition) | Living biomass, temperate conditions, proximity to blood | Sterile ground, extreme cold, Essence-depleted soil |
+| **Fluxia** | **Spirit** (Somnalis, Thaloré, Oblation) · **Medium** (Phreatis) | Standing or moving water, humidity, pressure differential | Arid terrain, vacuum, thermally locked air |
+| **Limina** | **Spirit** · **Wild** (Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel) · **Medium** (Anamnesis) | Darkness, silence, Aether-thin ground, ruins | Saturated Aether, crowd density, active Domains |
+
+These conditions bind what acts on the world, the Wild and the Medium. A spiritual Wellspring has no phenomenon for the ground to favor or smother, and it answers to where you stand only through Aetheric Density.
 
 > None of this is a prohibition. A Caloria practitioner in saturated cold still works. They simply pay a larger fraction of their reserve to overcome the gradient they are fighting rather than riding, and their efficiency figure falls accordingly. **Terrain is a modifier on η (efficiency: the share of spent power that arrives as effect), and anyone who calls it flavor has not yet paid for it.**
 

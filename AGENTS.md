@@ -87,9 +87,8 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   `nightly`, `book-next`, `hook`, and `tool NAME args`, the positional command line for the book
   pipeline's agents) run here too.
 - **Not ported yet, still Python: run it, don't extend it.** `build/sync.sh` with `embed_index.py`;
-  the Discord bot (`bot/`)
-  and the Workshop (`app/`), which import `build/mcp_server.py`, so that file stays in place for
-  them; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
+  the Discord bot (`bot/`), which imports `build/mcp_server.py`, so that file stays in place for
+  it; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
   Research also calls external CLIs (Agent Reach, agent-browser).
 - **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
   dispatcher, Sunday backup, the Discord bot, a public
@@ -140,7 +139,7 @@ scenes/       the archive; scenes/cast/ = speaker-tagged cast files for narratio
 table/        fronts.yaml ledger.yaml npcs.yaml sessions.yaml (+ FRONTS.md LEDGER.md NPCS.md rendered);
               voices.yaml here = voice fingerprints for voice_check (narration presets are build/voices.yaml)
 build/        the Python not yet ported, the shell scripts, build/systemd/ (the units), casting/, voices/
-app/          the WOTR Workshop (app/server.py, static/, test_app.py): each player's own library
+app/          the WOTR Workshop's front end (static/; the server is `wotr-mcp workshop`): each player's own library
               of characters, techniques, items, lore, places, factions with images; Natalie runs
               on the player's own AI (key stays in their browser) with the MCP's read tools wired in
 bot/          the Discord bot — deterministic, no LLM, no dice in canon channels, writes

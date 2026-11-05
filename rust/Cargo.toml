@@ -8,6 +8,7 @@ name = "wotr-mcp"
 path = "src/main.rs"
 
 [dependencies]
+rusqlite = { version = "0.37", features = ["bundled"] }
 chrono = { version = "0.4", default-features = false, features = ["clock"] }
 rmcp = { version = "3.8", features = ["server", "transport-io", "transport-streamable-http-server"] }
 tokio = { version = "1", features = ["rt-multi-thread", "macros", "io-std", "process", "sync", "net", "time"] }
@@ -17,7 +18,7 @@ regex = "1"
 yaml-rust2 = "0.10"
 serde_yaml_ng = "0.10"
 fancy-regex = "0.20"
-axum = "0.8"
+axum = { version = "0.8", features = ["multipart"] }
 tower = { version = "0.5", features = ["util"] }
 tower-http = { version = "0.7", features = ["fs"] }
 # embeddings: the system ONNX Runtime (onnxruntime-cpu), loaded at run time, and the model's own tokenizer

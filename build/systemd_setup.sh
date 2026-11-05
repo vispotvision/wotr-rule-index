@@ -49,7 +49,7 @@ enable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
         wotr-bot.service)
 # what a changed file restarts (see the header); never a oneshot service
 restartable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
-             wotr-bot.service wotr-mcp-public.service wotr-comfy.service)
+             wotr-bot.service wotr-mcp-public.service wotr-comfy.service wotr-workshop.service)
 
 # every unit build/systemd/ ships, by name
 units=()

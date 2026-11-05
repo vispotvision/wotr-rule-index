@@ -16,6 +16,8 @@
 //!   wotr-mcp validate | resolve          the rule index gate and out/ (gate.rs)
 //!   wotr-mcp backup | nightly | book-next | hook | tool NAME ...
 //!                                         the machine's own jobs (ops.rs)
+//!   wotr-mcp workshop [--port N] | workshop invite [note]
+//!                                         the players' library and Natalie on their own AI
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
 mod analysis;
 mod audio;
@@ -37,6 +39,7 @@ mod table;
 mod util;
 mod writers;
 mod verify;
+mod workshop;
 
 use rmcp::model::*;
 use rmcp::service::RequestContext;
@@ -409,6 +412,7 @@ async fn main() {
         Some("verify") => std::process::exit(verify_cli(&args[1..])),
         Some("audio") => std::process::exit(audio::main(&args[1..])),
         Some("audio-probe") => std::process::exit(audio::probe()),
+        Some("workshop") => std::process::exit(workshop::main(&args[1..]).await),
         Some("validate") => {
             let (code, out) = gate::validate();
             println!("{out}");

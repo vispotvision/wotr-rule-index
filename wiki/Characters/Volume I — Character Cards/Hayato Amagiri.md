@@ -11,6 +11,7 @@
 **Releases** · KIRISAME (First Release, called "Furu") / TSUJI (Second Release, Domain) / KITSUNE-MEN (Third Release, the mask put on) · bonded weapon: the plain sword, which is not plain
 **Traits** · THE ROAD UNDER THE ROAD (Primary) · tell: his finger drawing a line on the nearest table · counter: ground he has never walked / RAIN MIST (Inherited) · tell: his party goes gray and hard to fix in the eye at night · counter: daylight, dogs, a lantern on a pole, and heat / NOW I KNOW WHICH WAY (Secondary) · tell: his restless fingers go still · counter: put two roads in front of him at once
 **Techniques** · AMAGIRI-ASHI · tell: he is a little grayer at the edges than the weather explains · counter: heat, wind, ground he has not walked / MICHI-KIRI · tell: the sword out · counter: what crosses without traveling, heat and light and sound / SHINGAN, turned on the ground · tell: his eyes on a wall's mended seam before the people in front of it · counter: soft ground with nothing in it carrying weight
+**Kit** · an indigo rain-cape with a sprig of juniper in the toggle over a white haori fading to mist-gray and a striped hakama, gold at the ear and wrists, no armor worth the name, a sword he holds like a man who carries it for show, and the piece people talk about first: a gilt fox mask, Very Rare, which the whole Hall takes for a nervous young lord's fidget
 **Voice** · "Two days and a road, sire. Always. Whatever you need." · speaker type: a hereditary road-surveyor and quartermaster who talks in distances, mule-loads and chimney counts, and apologises before he tells a king anything
 **Next gate** · Stage XII, Emanation · Catalyst: the Dissonance fracture of the Verdict of Six, the road he was getting ready to run down, made a feature · Band gate: Level 400 waits on XII · Front: the Sin of Wrath on the north road, which Hayato has walked every mile of, and whose heat burns mist off the ground
 
@@ -178,11 +179,35 @@ He is a slight, sharp man, lean the way men get who live in the saddle, and pale
 
 ## XV. Equipment
 
-**The sword** · plain to look at, drawn once before witnesses at the Skeldmere · Item Tier Proofed on its face; bonded, and carrying the Road-Cut, which no assessor has tested
-**The fox mask** · gilt, a crossroads-shrine mask · the Third Release · worn twice
-**The fan** · folded, lacquered · plain
-**The rain-cape** · indigo wool, with the juniper in the toggle · plain
-**His grandfather's survey** · ledgers of every northern village, souls and chimneys · plain · he no longer needs to open them
+**The sword** · plain to look at, drawn once before witnesses at the Skeldmere · Item Tier Proofed on its face; bonded, and carrying the Road-Cut, which no assessor has tested · Grade D · Rare · rung Linepiece · about a kilogram, a long arm's length, balanced a hand above the guard · proof-mark the Amagiri road-mark, under the grip wrapping · on its edge it beats mail and fails against Tempered plate; the draw beats no armor at all, because it strikes nothing
+**Look** · an unsigned Amagiri house blade of no particular year in a plain black scabbard, an indigo cord grip rewound over the mark, gold nowhere · bonded gear grows, and it has grown only where no coil looks · how he shows it off: all elbows, on a horse, in front of six hundred Ashmore lances · what people say: Stark riders bet on whether he could hit a barn with it; the Keld who lived say it was a squall · a smith would ask about five gold, and tell you it was too much
+
+**The fox mask** · gilt, a crossroads-shrine mask · the Third Release · worn twice · Item Tier Found · Grade SS · Very Rare · rung Kingsarm · not bonded
+**Look** · old pine and gesso under gold leaf, rubbed through to red clay at the ears and muzzle by his own fingers; narrow eyes, smiling · one of the masks the Amagiri left at the crossroads for what walks the roads at night, and past owners are the problem: it was left, and it came back, and his grandfather never said how · RAIN MIST lies on what he holds, and the one Hall assessor who has looked put it down as gilt pine, plain, three silver · how he shows it off: he turns it over and over in his hand in front of six lords, and has never been asked to stop · what people say: old women at the crossroads shrines make the sign when he rides past with it on his saddle; the seven lines say Amagiri's boy has a toy
+
+**The fan** · folded, lacquered · plain · Uncommon
+**Look** · black lacquer sticks with a black leaf, carried in the collar · he has never opened it in the Hall, because the leaf is every corridor of the Hall in fine indigo, drawn from memory when he was eleven
+
+**The rain-cape** · indigo wool, with the juniper in the toggle · plain · Uncommon
+**Look** · vat-dyed so deep it comes off on his neck, oiled and re-oiled, dark at the shoulders whenever there is snow; one corner worn pale where his fingers fold it; a horn toggle, and the juniper from the Yukari enclave gone dry and blue-black · how he shows it off: streaming, at the front of the Ashmore horse, the one thing on that field that everybody could find · what people say: he does not take it off indoors until someone tells him he may
+
+**His grandfather's survey** · ledgers of every northern village, souls and chimneys · plain · he no longer needs to open them · Rare
+**Look** · nine fat books in gray buckram, the old man's chimney counts in brown ink and Hayato's corrections in indigo beneath them, worse every year
+
+**The white haori** · white silk haori shading down through mist-gray to storm at the hem, the Amagiri mon on breast and sleeves in a black ring, over under-robes of indigo so dark it reads black, their sleeves banded in gold; a gray striped hakama, gold-tasseled cords at the waist, gold cord ties at the hem · plain · Rare
+**Look** · the shading is clamp-resist work done by the Amagiri dyers in the wet hills, and each one takes a season; it is the line's mist at its lightest, and a quilted indigo arming-vest is all that goes under it, the Moto robe-over-harness reduced to a courtesy, so that an Amagiri in full dress looks ready to leave · a scuff low on the left sleeve he keeps meaning to have seen to · how he shows it off: he doesn't think he does, and then he stands up · what people say: white on an indigo lord gets him called Byakuya-dono's shadow behind his back, and he has let them
+
+**The gold** · a long earring of small gold pieces, thin bangles at both wrists, a short gold cord in the tail of his hair, a black fingerless glove on the right hand, black paint on his nails · plain · Uncommon
+**Look** · portable wealth, as a landless line wears it · the earring's pieces are little gold waystones, one for each high pass he thinks of as his, and nobody has counted them · the paint and the glove look like vanity; there has been ink on those fingers since he was six, and it does not come off · how he shows it off: the earring moves when he turns his head toward the door, which he does a lot
+
+**The traveling coat and the plain cloak** · a blue-gray traveling coat with the indigo of the line showing only at the cuffs; a plain cloak for going to a garden gate at night · plain · Common
+**Look** · the cuffs are chalky with road dust and finger-marks, and the coat is what he wears when he is not being looked at, which is what he prefers
+
+**The horse and its harness** · a shaggy dun hill pony, too small for the company it keeps, on plain leather and a wooden saddle-tree · plain · Common
+**Look** · he rides too far forward and it has borne this for years; he calls it Mule · a Grandmaster on a horse worth twelve gold, arriving, is a thing the Stark riders enjoy every time
+
+**The map in black and indigo** · the Tenrai roads in black, his own in indigo, more indigo than black · plain · Rare
+**Look** · one long sheet of good rag paper, soft at the folds · Edric Ashmore looked at it for as long as it took a steward to bring wine and carry it away, and then rode; it has no copy, and it does not need one
 
 ## XVI. Temperance Record
 

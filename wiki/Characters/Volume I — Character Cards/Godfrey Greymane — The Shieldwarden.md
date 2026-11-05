@@ -10,6 +10,7 @@
 **Releases** · STONEFAST (First Release) · bonded weapon: the Greymane shield, the ridge device on its face
 **Traits** · THE RIDGE DOES NOT MOVE (Primary) · tell: his heels sink and dust settles round his feet · counter: pull him, lift him, or fight him on ice / THE SWORN WARD (Secondary) · tell: his eyes go to the one he guards before the blow lands · counter: two attacks at once, or strike the warden first / THE FLAT HAND (Passive) · tell: a long gray hand laid flat beside someone, not touching · counter: put distance between them
 **Techniques** · LOAD PATH · tell: shield squared, knees bending into the blow · counter: hook the shield and pull / THE RIDGE GIVES BACK · tell: the ground at his feet cracks in a ring before he moves · counter: give him nothing to give back / THE GREY FILE · tell: shields locking rim to rim · counter: break the file's end
+**Kit** · a navy coat closed to the jaw under a double gold chain, a black and gold mantle with a gray wolf collar, a plain gray cloak with a ridge clasp, a short sword nobody remembers, and the piece people talk about first: the Very Rare Greymane shield on his back
 **Voice** · "Let them talk, sire. Let them say all of it. You can be in a hurry afterward." · speaker type: a career aide-de-camp who has learned to run a war by keeping a young king in his chair
 **Next gate** · Stage V, Splintering · Catalyst: surviving contact with an entity or force more than two full Tiers above his ceiling · Band gate: Stage VII before Level 200 · Front: the Moto's seven lines brought under one crown, and the western ridge facing Undaar-Keth with the Shieldwarden at court
 
@@ -161,9 +162,18 @@ He is tall and long-limbed, built long rather than broad, with the wide even sho
 
 ## XV. Equipment
 
-**The Greymane shield** · round-backed ash and iron with a steel rim and boss, the ridge device on its face · Item Tier Instrument · rung Siegepiece · about seven kilograms · proof-mark the Ridgewall's smith-stamp inside the rim · bonded; it carries STONEFAST's load path
-**The Shieldwarden's short sword** · plain northern steel for thrusting over the rim · no working
-**The wolf-collared mantle** · black wool and gold, gray wolf-fur at the shoulders · plain cloth, no working; sewn in one night by the women of the long houses
+**The Greymane shield** · round-backed ash and iron with a steel rim and boss, the ridge device on its face · Item Tier Instrument · rung Siegepiece · about seven kilograms · proof-mark the Ridgewall's smith-stamp inside the rim · bonded; it carries STONEFAST's load path · Grade B · Very Rare · rung Siegepiece
+**Look** · ash boards under iron straps, the face in Stormfold-gray enamel with the ridge line raised in steel across it, scratched and dented all over and the dents left in; the arm-straps have been replaced twice and the back is worn pale where his shoulder sits · the flaw is the one every Greymane knows: a rim proud enough to lock to the next man's will also catch an axe-beard, and nobody in the house has ever filed one down · each Shieldwarden's shield is cut new, and his father's carries the old sun · how he shows it off: on his back at court, in rooms where nobody else has thought to bring one, and rim-down against his boot when he sits · what people say: the Stark long houses call him the King's Wall, and say the shield's the lesser half of it
+**The Shieldwarden's short sword** · plain northern steel for thrusting over the rim · no working · plain · Common · about seven hundred grams, balanced at the guard · a thrust finds the gaps in mail, fails against plate
+**Look** · gray, short and straight, waxed cord on the grip, issued to him at twelve and sharpened by rote every morning since · what people say: Lorn claims never to have seen it, and has stood beside him since the Foot
+**The wolf-collared mantle** · black wool and gold, gray wolf-fur at the shoulders · plain cloth, no working; sewn in one night by the women of the long houses · Rare
+**Look** · heavy black wool banded in gold down the fronts, the ring-and-ridge circles worked in gold at the sleeves, the fur thick and silver-tipped; a run of paler thread near the left hem, where they ran out before morning · how he shows it off: he wears it because they made it, and stands in it as if it were someone else's · what people say: river-house ladies have priced that goldwork at more than the shield, and the long houses have heard about it and are insulted
+**The navy coat and the double chain** · close-fitting coat of deep navy, high-collared to the jaw, closed down the front with gold piping and brass studs, two fine gold chains slung between the studs, the Greymane wolf on the breast · plain · Rare
+**Look** · cut long and narrow by a Ridgewall tailor who has fitted Greymanes for forty years and thinks it a branch of masonry; the cuffs are rubbed where his hands lie flat on tables; the chain was his mother's · how he shows it off: he closes it to the top and says nothing · what people say: a coat that plain costs a great deal, and nobody at the Seat can find out from whom
+**The gray cloak** · plain gray Stormfold wool, an iron clasp with the ridge device · plain · Common
+**Look** · the second of it; the first he took down onto the Marrow ice to bring Yukazuri Moto up in, and the king carried her up the ridge in it, and it lies under her cairn · he sat in his shirt in the bitter cold until the women of the long houses sewed this one in a night · how he shows it off: he doesn't, and nobody has ever asked him about the first
+**The brass hand** · badge of a Hand to the King, an open hand in cast brass on a chain · plain · Rare · from the day he takes the office, after this card's morning
+**Look** · he polishes it himself and it throws a spot of gold onto whatever wall he is talking to · what people say: courtiers watch where the spot lands, and younger ones have learned to stand out of it
 
 ## XVI. Temperance Record
 

@@ -8,6 +8,7 @@
 **Aura and sound** · near-white with a deep red line under it, the Byakuya colors, banked so low for forty years that a Tenrai factor could sit across a table from her and never see them · sound: dry leaves moving on a forest floor
 **Traits** · THE RED BEFORE THE WHITE (Inherited) · tell: her lips moving over the oath, with the doors shut · counter: make the Kōkan the knife / SMILE AND PAY (Primary) · tell: the dry smile · counter: none the Tenrai found in forty years / THE BACK DOOR (Secondary) · tell: she looks at a map for the way nobody uses · counter: a man who already knows the corridors
 **Signature** · THE THORNWALL PIKE · tell: a drum, and the thorn-horn every hundred paces · counter: horse on open ground before the hedge is set
+**Kit** · a black gown with hanging sleeves lined in oxblood, Thornwall gray felt over it in the field, silver icicles at her ears, and the piece people talk about first: the Rare red-and-gold bodice she wore across the table from Tenrai factors for forty years
 **Voice** · "No other way that the Tenrai know of." · speaker type: a Byakuya-born lady who married north to seal a peace nobody remembers, and kept her house's oath forty years behind shut doors
 
 ---
@@ -47,6 +48,26 @@ The Thornwall pikes come on at a walk, in step, to the slow beat of a drum, with
 ## Physical Description
 
 She is tall and slender and carries herself very straight, and she looks a good twenty-five years younger than she is; the Byakuya keep their years off their faces, and the north, which knows her age, still calls her the old woman. Her hair is the Byakuya gold, pale and heavy, worn loose and long with a fine braid drawn back from each temple to the crown, and the rest of it braided into one great rope that falls past her knees and is bound at the end with a cord. Her face is long and fine-boned and calm, her eyes the Byakuya gray under heavy lids that she keeps half shut when she listens, her mouth painted dark red. Long silver earrings hang from her ears, worked like falling icicles. At Thornhaven she wears a black gown with long hanging sleeves lined in oxblood, and a fitted bodice of deep red embroidered in gold; in the field, Thornwall gray felt over it.
+
+## Equipment
+
+**The Thornhaven gown** · black gown with long hanging sleeves and a fitted bodice · plain · Rare · no working and no stamp
+**Look** · fine black wool falling straight to a short train, the sleeves open from the elbow and lined in oxblood that shows only when her hands move; the bodice deep red, laced up the center, with a vine of gold thread climbing it that a close look finds is thorn · she has lifted the same gold off worn cloth and laid it on new three times in forty years, by her own hand, behind the shut doors · how she shows it off: she folds her small hands and lets the sleeve fall; red over black is the Kōkan's own pattern, and she wore it at her own table under Tenrai silver every day of forty years · what people say: the factors wrote home that the Lady had a provincial taste and a weakness for gold, and a great many people have had those letters read back to them since the ratification · about thirty gold for the thread alone
+
+**The icicles** · long silver earrings from the white house · plain · Rare
+**Look** · falling drops of twisted silver, worked by a Byakuya hand and cold to look at · the shortest drop on the left has been mended with a bead of solder that does not quite match · how she shows it off: she keeps her head still, so that they never move unless she means them to · what people say: the one Byakuya thing she was let keep in view, because no factor could see a house in a pair of earrings
+
+**Thornwall gray** · heavy felt field coat over the gown · plain · Common
+**Look** · the same oiled gray felt and the same cut as her pikemen's, a single thorn-sprig in dark red thread at the collar, no iron cap and no plate anywhere · how she shows it off: she rode down on the Skeldmere in it beside a Byakuya in near-white and glass beads, and nobody looked at her, which is what the felt is for · what people say: twelve hundred men on that ice wore a better coat than their lady, and all of them know it
+
+**The forester's hook** · small iron cross-headed hook on a long black cord at the hip · plain · Uncommon
+**Look** · the mark-hook a Thornwood forester uses to score a corridor tree, hung to the hem on a cord as thin as a lady's key-string; her husband's grandfather gave it to her the night he told her why the corridors were kept cut · how she shows it off: she doesn't, and for forty years it passed for the keys to the linen · what people say: since the Seat, every lady in the north has wanted to know where to buy one
+
+**The oath lamp** · small white-glazed oil lamp from the Shiraki hills · plain · Uncommon · kept at Thornhaven, not carried
+**Look** · thumb-chipped at the spout, the glaze gone the color of old teeth where the oil has run · no one outside the room knew it was there; it is the least flexed thing in the north
+
+**The knotted sword** · a short Byakuya sword in a white scabbard · Grade C · Rare · stamp Tempered · rung Wallbiter · not bonded · about 0.9 kilograms, balanced close to the hand · proof-mark the white house's plain ring · beats Proofed plate, fails against Instrument plate
+**Look** · white lacquer gone to ivory, bound guard to scabbard-mouth in the white knot she tied the day she came north to keep a peace, the cord yellowed hard and never once cut · it lies in a chest under the lamp · how she shows it off: she has not · what people say: nobody says anything, because nobody but Kiyome has ever been told
 
 ## Lore
 

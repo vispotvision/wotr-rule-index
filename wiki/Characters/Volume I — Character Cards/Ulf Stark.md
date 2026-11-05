@@ -8,6 +8,7 @@
 **Aura and sound** · the Stark cold at Glory's clarity: dark gray under a hard white rime that frosts the fur of his hood and silvers the snow for yards round him · sound: a frozen lake taking weight, deeper than his son's
 **Traits** · STARK RIME (Inherited) · tell: his breath stops steaming and the wolf-fur goes white · counter: heat, and keeping him calm / THE MAKING OF A GENERAL (Primary) · tell: the long look, then "Ah. So there he is." · counter: a man who shows him nothing / WE GIVE (Secondary) · tell: "That's just the way this life is, lad" · counter: something he will not give, which nobody has found
 **Signature** · THE WINTER ROAD · tell: he has already moved before you knew he was coming · counter: a fire, a thaw, and a scout who doesn't sleep
+**Kit** · the head and pelt of a great brown wolf, bright plate and one heavy pauldron on black quilting, a black iron ring in his beard-braid, and the piece people talk about first: Marchstone, a Legendary great sword he stands behind point down
 **Voice** · "That's just the way this life is, lad. We give. And we give. And then we give some more." · speaker type: a northern warlord who has buried a great many men, and calls everyone under forty lad
 
 ---
@@ -47,6 +48,32 @@ Light columns carrying their food on their backs and in caches along scouted rou
 ## Physical Description
 
 He is big, the kind of big Rob is going to be in twenty years, broad as a doorway, the arms gone heavier with age and the body under the plate heavier still. His hair is dark and worn to the shoulders, and his beard is dark and full and close-cut, with gray coming into both; under the hair the scalp is scarred white in three places, and the small and ring fingers of his left hand were cut away clean at the knuckle a long time ago, which he hides inside a black glove. His face is broad and weathered, with a heavy brow and pale northern eyes, very much awake. He wears the head and pelt of a great brown wolf as a hood and mantle, the jaws over his brow and the fur falling to his elbows, pinned with a round silver Stark badge on a chain; under it, a bright breastplate stamped with the wolf of Hollenmark and a heavy fluted pauldron over the right shoulder, on a black gambeson quilted in diamonds; a black cloak. He stands with a long-hilted great sword point down in front of him and both hands on the cross, the way a mountain sits on a plain. His bearded war-axe rides on his son's back now, and his mail, too big for both of the boys who have worn it, and his gray wolfhound lies across the Tokenless's boots.
+
+## Equipment
+
+**Marchstone** · long-hilted northern great sword, the Warlord's sword of House Stark · Grade A · Legendary · stamp Hallowed · rung Fieldwinner · not bonded; it goes with the title · about four kilograms, balanced low toward the hilt · proof-mark the Hollenmark yard's small boundary stone, worn nearly flat · breaks Instrument harness and passes anything under it, fails against Hallowed harness and up
+**Look** · lake-gray steel with a broad double fuller that runs white under his rime; a long cross of gilt bronze inlaid with silver, worn down to the bronze where his hands sit; the grip a steel sleeve with a small walking wolf on a plate between two bands of gold rope, and a pommel like a little crown of gold and steel, the only crown he owns · how he shows it off: point down in front of him and both hands on the cross, the way a boundary stone stands, and he has ended arguments with that alone · past owners: his grandfather, his father, then Torvald, whose head came home with a note and whose sword came home beside it, cleaned, which Ulf has never forgiven; then him · what people say: a Stark border is wherever he has set the point; the Hollenmark smith's last try at a sword to match it came out too plain, and Rob has that one · no price, and nobody in the north would be seen bidding
+
+**The wolf hood** · head and pelt of a great brown wolf, worn as hood and mantle · plain · Uncommon
+**Look** · dark brown going to rust at the ruff, the upper jaw and its yellow teeth over his brow and the fur falling to his elbows, rubbed thin on the crown; his rime turns all of it white · how he shows it off: he does not take it off indoors · what people say: he killed it with his hands at fifteen; he says he paid a trapper four silver for it, and cackles, and nobody has ever believed him
+
+**The silver badge** · round Stark badge in silver, on a dark chain across the breast · plain · Rare
+**Look** · a wolf's mask struck deep in heavy silver, thumbed smooth on the muzzle, and the chain slung from the hood to the pauldron; his letters go out under the same wolf in gray wax · his sons' badges are brass · what people say: Vessant factors who have seen it across a table say they stopped arguing without noticing when
+
+**The war plate** · bright breastplate stamped with the wolf of Hollenmark, one heavy fluted pauldron, black gambeson quilted in diamonds, black cloak · Grade C · Rare · stamp Tempered · rung Wallbiter · not bonded · proof-mark the boundary stone inside the breast
+**Look** · the steel kept bright and the wolf struck shallow at the center, the pauldron fluted in ridges like a ram's horn over a stack of three lames, and every flute of it has been hit; the wool black, the diamonds sewn in waxed thread and patched at the elbow · low for a Warlord at Glory, who could pay for better and has, more than once · how he shows it off: he doesn't own the rest of it any more · what people say: his better harness is on his riders, a piece here and a piece there, and at the Foot you could count three men in Ulf's greaves
+
+**The war-axe and the mail** · bearded war-axe on an ash haft, riveted northern war-mail, an older mail shirt · plain · Uncommon · no working; the axe took his hand and no one else's, forty years of it
+**Look** · the axe and the war-mail ride on Lorn now, and his card keeps their look; the older shirt, too long in the arm and too short in the body, he handed to the Tokenless, and the Stark armorer took it in at the sides · how he shows them off: he gave them away, the one flex his house respects
+
+**The beard ring** · a ring of black iron braided in at the chin · plain · Common
+**Look** · a link off his first mail shirt, filed smooth on the one side his thumb knows · how he shows it off: he turns it, and men who deal with him for a living watch it, because that is when he is choosing what to leave out · what people say: Hollis Draycott's long letters mention it
+
+**The left glove** · black glove for the maimed hand · plain · Common
+**Look** · the two empty fingers stuffed with wool and stitched, so that from across a yard the hand is whole; by his own fire he takes it off and lets you look
+
+**The traveling chair** · great high-backed chair of dark oak and iron, draped in old wolf-pelt · plain · Uncommon
+**Look** · it wants a cart and two men, and he had it hauled from Hollenmark to a factor's back room in Halcrest for one meeting · how he shows it off: that is the whole of how · what people say: it has seen more of the north than most of his captains, and men who have stood in front of it can tell you what they said
 
 ## Lore
 

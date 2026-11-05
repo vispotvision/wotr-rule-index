@@ -8,6 +8,7 @@
 **Releases** · SHAKUNETSU (First Release, standing) / ABI (Second Release) / ENMA-CHŌ (Third Release) · bonded weapon: the Hall Irons
 **Traits** · ENSHŌ (Primary) · tell: struck flesh glows cherry-red and steams, blood hisses instead of running · counter: cold, wet and attacks that carry no energy / ONNEN (Secondary) · tell: the black-violet rim thickens toward whoever has hurt him · counter: give him nothing to bank, or overfeed him past saturation / TSUMI-YOMI (Inherited) · tell: ring-lines and red capillary light in the left eye, his gaze on your breastbone · counter: a soul that has never killed, or a ward that returns the read / SHŌNETSU (Passive) · tell: snow will not lie within ten yards of him · counter: distance and cold ground / HAKANASHI (Compound) · tell: he answers every blow · counter: bait him off his target
 **Techniques** · GŌKA · tell: a bellows breath, the Covenant Scar flares, the irons go white · counter: break contact, shed the struck kit, strike the cool beat after / YAKI-IRE · tell: a cherry-red handprint goes black with a hiss · counter: never take the second touch, wear ductile kit / SENTENCE OF SEVERANCE · tell: the stare comes first · counter: deny the reading
+**Kit** · a long leather coat edged in gold knotwork over a black shirt, a rough fur mantle, a low red-brown belt hung with thirteen iron bells, boots that smoke on wet ground, and the piece people talk about first: the Hall Irons, Legendary condemned's cuffs fused to his wrists, which are also what he hits you with
 **Voice** · "Thirty-one men in your chest, and you ask me for mercy. Entered. Stand still and I will close the book." · speaker type: a hanging judge reading sentence over the noise of a foundry floor
 **Next gate** · Stage XII, Emanation · Catalyst: passage out of Dissonance, the fractures made features, and his Coherence nowhere near it · Band gate: Level 400 waits on XII, and the counter has nearly stopped; Residual Strain builds in him every day he does not pass, which is part of why the fever never breaks · Front: his road bends toward the Hall of Verdicts and the heirs of the seven chairs
 
@@ -178,8 +179,26 @@ He is tall and lean and hard, built like a drawn wire rather than a wall, all si
 
 ## XV. Equipment
 
-**The Hall Irons** · condemned's irons, Kurenai suppressor cuffs from the Hall of Verdicts, forged to hold a Master; fused to his wrists · Item Tier Storied · rung Kingsarm · each cuff about nine kilograms of black iron with the chain stubs · proof-mark the Hall's verdict script around each face · bonded, carrying SHAKUNETSU's heat and part of ABI's boundary
-**The thirteen bells** · plain iron, no working · each cut from a Kurenai who came for him
+**The Hall Irons** · condemned's irons, Kurenai suppressor cuffs from the Hall of Verdicts, forged to hold a Master; fused to his wrists · Item Tier Storied · rung Kingsarm · each cuff about nine kilograms of black iron with the chain stubs · proof-mark the Hall's verdict script around each face · bonded, carrying SHAKUNETSU's heat and part of ABI's boundary · Grade S · Legendary · a hand deep on the forearm, balanced on the bone they are fused to · beats steel plate and mail once YAKI-IRE has had its two touches; fails against copper, bronze and leather, which a quench does nothing to
+**Look** · black Kurenai iron gone blue-black and grainy from three centuries of fever, the script still sharp enough to read; chain snapped to stubs on both, three links trailing on the left; the inner faces have grown into him, so that there is no line where the iron stops · how he shows it off: he cuts no sleeve for them and hides nothing, and an inch of black showing at each cuff is enough · what people say: the burning man in irons, a nursery threat from the Foot to the Grey Teeth; the Hall re-used its condemned's irons, so eleven names are entered against this pair before his, all of them shorter stories; the Arbitration Division's open bounty is worded to pay on the cuffs alone, and no one has tried to collect
+
+**The thirteen bells** · plain iron, no working · each cut from a Kurenai who came for him · Common
+**Look** · small and mismatched on black cords, each stopped once with wax: a Kurenai carries one on the blade-cord and walks without a sound until the sentence is done · he melted the wax out and they ring now, the only line in the north that keeps quiet being announced thirteen times over · what people say: drovers count them from a long way off and turn the herd; it is the one warning he gives anyone, and he does not know he gives it
+
+**The long coat** · dark worn leather, cut close, laced at the throat over a black shirt, its edges worked in gold thread in the old Kurenai knotwork · plain · Uncommon
+**Look** · scorched soft at the cuffs and collar and never more than a few years old, because nothing lasts on him · the Kurenai wear no gold, and the coat is not theirs: drovers' wives on the north road say a house that leaves a coat on the fence post gets walked around; nobody has seen him take one, each is copied off the last, and old Kurenai knotwork has become a farm-wife's pattern · how he shows it off: he doesn't know where it came from, and has not asked
+
+**The belt** · broad red-brown leather, low on the hips, two black-steel crow-head fittings and one red-enamel eye between them · plain · Rare
+**Look** · the fittings are off Jinsuke Kurenai Moto's belt, taken on the black floor, and the leather under them has been replaced many times · a Kurenai keeps the line's one crimson hidden, a thread or a lining no one sees; he has turned the eye outward, on purpose, at the hip, and every Kurenai who has come within sight of it has read it as the obscenity it is
+
+**The fur mantle** · a heavy collar and mantle of rough brown pelt across the shoulders · plain · Common
+**Look** · patchwork of three or four animals, singed along every edge and never the same one for long · where a Moto's whole pelt marks rank, his marks nothing, which is the point · a Hall lord would not put it on a dog
+
+**The cord and the cuff** · a cord of iron beads and small bones close around the neck; a small iron cuff through the rim of the left ear · plain · Common
+**Look** · what people say: that there are seven bones, one for each chair; nobody has been near enough to count them or to ask whose they are
+
+**The hakama and the boots** · black hakama, scorched in long folds; heavy black boots · plain · Common
+**Look** · the soles are the first thing to go, and he walks on what is left; they smoke on wet ground and leave a line in frost that the drovers call his road
 
 ## XVI. Temperance Record
 

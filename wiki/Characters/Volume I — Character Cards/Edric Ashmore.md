@@ -8,6 +8,7 @@
 **Aura and sound** · brown and russet, the color of autumn bracken against snow · sound: hoofbeats a long way off, coming closer
 **Traits** · THE UNTOUCHED WINE (Primary) · tell: he looks at an offer for exactly as long as it takes a cup to go cold · counter: make him decide before the wine is poured / THE JUNCTION STONE (Secondary) · tell: his hand flat on stone when he swears · counter: put two oaths on the same stone
 **Signature** · THE ASHMORE LINE · tell: russet pennants and a long ragged line of big southern horses at the gallop · counter: pikes, set, on ground the horses cannot take at speed
+**Kit** · a black high-collared cloak over a dark brown coat edged in pale braid, the russet and the boar under it in the field, a long sword that stays in its scabbard until he has decided, and the piece people talk about first: the Silver Boar, a Rare clasp at his throat cast from the first purse of Tenrai silver his house ever took
 **Voice** · "And Ashmore?" · speaker type: a grain lord of the marches who weighs before he speaks and is faintly amazed every time he finds himself committed
 
 ---
@@ -44,6 +45,26 @@ Five or six hundred big southern horses with lances and long swords in a long ra
 ## Physical Description
 
 He is tall and spare, with black hair worn to the jaw, parted loose and falling across his brow, a long pale face with a straight nose and a mouth set in a level line, and dark eyes under heavy brows that look at a map for a long time before they look at the man holding it. He wears a black cloak with a high standing collar, fastened at the throat with a heavy silver clasp worked with the Ashmore boar, over a coat of dark brown edged in pale braid, belted with a round-buckled belt, and a braided cord hanging from the clasp. Under it, in the field, the russet of his house, and the boar on his breast.
+
+## Equipment
+
+**The Silver Boar** · cloak clasp with a hanging braided cord · plain · Rare · no working and no stamp
+**Look** · a heavy shield-shaped clasp of dull silver as broad as his palm, the Ashmore boar raised on it in low relief, the cord of braided brown leather running down from it to the belt · cast twenty years ago from the first purse of Tenrai silver Ashmore ever took, by a Kessen road silversmith told to leave off his mark · the boar's snout is rubbed nearly flat by twenty winters of his thumb doing up the catch · how he shows it off: he wore the receipt at his throat to every table a Tenrai factor sat at, and never once mentioned it · what people say: the factors took it for a compliment and reported it as one; since the Skeldmere the whole north has got the joke, and half of them claim they got it first · eight gold for the metal and the work, and he has looked at better offers for exactly as long as they took to go cold
+
+**The hall coat and black cloak** · what he wears at Ashbury and in council · plain · Uncommon
+**Look** · the cloak full-cut black wool with a high standing collar and small dark iron studs at the shoulder where it buttons back for the sword arm; the coat dark brown and close to the body, edged in pale braid, with a ladder of pale tape running from the right shoulder down to a wide brown belt and a round silver buckle · the collar has been turned once, because a grain lord does not buy a second cloak while the first will turn · how he shows it off: he is the plainest man at any table where he owns the bread, and lets everyone work out what that means · what people say: Ashmore dresses like his own clerk
+
+**The russet harness** · mail and a steel breast under a surcoat, his field kit · Grade D · Uncommon · stamp Proofed · rung Linepiece · not bonded · proof-mark the Kessen proof-house stamp
+**Look** · plain brown over bright russet, madder on good wool, the color of autumn bracken against snow, with the boar worked large in brown thread on the breast · a lance-dent under the boar's shoulder, hammered out only far enough to stop it catching · how he shows it off: the color is the show, picked so that anyone across five miles of snow can tell exactly whose horse is coming · what people say: a lord at his Stage could wear a Wallbiter's plate, and Edric has priced one, twice, against what the same money buys in seed
+
+**The Kessen sword** · a horseman's long sword · Grade C · Rare · stamp Tempered · rung Wallbiter · not bonded · about 1.6 kilograms, balanced a hand and a half past the guard for the cut down from the saddle · proof-mark a Journeyman's anvil and the Kessen mark · beats Proofed plate, fails against Instrument plate
+**Look** · a long straight blade of gray steel with a plain wheel pommel and a grip of russet leather over cord · the leather has been replaced twice and the blade never reground past its first line, with a small nick a hand from the point left in since the Skeldmere · how he shows it off: it stays in the scabbard until he has decided, and once it is out it does not go back until the thing is finished · what people say: he bought it in a hungry spring for forty sacks of seed barley, from a smith whose family had nothing to eat, and the smith has never settled whether to be grateful · worth about eighteen gold
+
+**The horse, the tack and the lance** · a big southern war-horse in brown harness, the boar on the lance pennant · plain · Uncommon, the lance Common · the lances are ash and go through by the cartload
+**Look** · a heavy bay worth about fifty gold; bridle and breast-strap plain brown with russet tassels at the headstall · how he shows it off: he calls for it out loud, once, and then everybody in the hall knows the waiting is over
+
+**The sack-seal** · an iron die on the belt for stamping lead seals · plain · Uncommon
+**Look** · thumb-sized, cut with the boar and the Ashbury measure · what people say: a sack under the boar sells a tenth higher in a famine because it is full weight, so the marches are thick with forged seals, and he has the forger's sacks weighed in the market square in front of him
 
 ## Lore
 

@@ -11,6 +11,7 @@
 **Releases** · TOSHI-GAERI (First Release, called "Kaese") / KODŌ (Second Release, Domain) / SHINZŌ-DOME (Third Release) · bonded weapon: none; a horn-handled meat knife, and his own two hands
 **Traits** · THE COPPER HEART (Inherited) · tell: the copper pulse in his aura keeps time with his heart · counter: starve him, or catch him asleep / IN HIS PLACE (Primary) · tell: "That's what I'd have offered, in his place" · counter: an enemy who would not do what he would / THE SENNEN BOOKS (Secondary) · tell: he turns his scarred hands palm up · counter: a man who owes him nothing and was never fed by him
 **Techniques** · AKA-TE · tell: he steps into the clinch and goes quiet, listening · counter: a heart whose rhythm he cannot catch / HEART-WARRANT · tell: his open hand flat on a man's chest · counter: never let him touch you / KETSURO · tell: his thumb on a vein · counter: Hemostasis above his reach / SHINGAN · tell: the long weighing look · counter: a man with nothing to weigh
+**Kit** · a short copper-ochre shoulder-cape over white sleeves, a gray sash with a red-bronze fox at the cord, raw copper rings, a tall copper-lacquered war-bow nobody at the Seat knows he still owns, and the piece people talk about first: a Common horn-handled meat knife, the only steel a lord of the seven lines has ever been seen to carry
 **Voice** · "I'll not obey you, boy. I'll follow you. It's a different thing. You'll find out how different the first time you're wrong." · speaker type: an old field commander and provisioner who has given orders where nobody could hear anything gentler, and announces his dislikes for the record
 **Next gate** · Stage XII, Emanation · Catalyst: the Sennen road, a wound carried as structural damage for forty years, consciously processed into architecture · Band gate: Level 400 waits on XII · Front: the Sin of Wrath on the north road, whose wife's name is in the copper book
 
@@ -181,10 +182,32 @@ He looks twenty-five, and the face is the one he took the copper chair with fort
 
 ## XV. Equipment
 
-**The meat knife** · horn-handled · plain · the only steel he brought through the Yukari's gate
-**The copper coat** · Akagane copper over white · plain
-**The Sennen books** · every name, every sack, every seal · plain · his name is at the top
-**The copper book** · the Akagane register of its dead, kept in the Kurogane house; Tsuyu Akagane Moto's page carries the Hall's own record that the lord died with a needle at the nape · plain
+**The meat knife** · horn-handled · plain · the only steel he brought through the Yukari's gate · Common · not bonded · about a fifth of a kilogram, a hand and a half long, balanced at the bolster · beats a joint of mutton and bare skin, fails against mail and everything above it
+**Look** · yellow cow horn gone dark where his thumb sits, a blade whetted thin by forty years of dinners, no maker's mark; a Kurogane cutler made it for the price of a loaf · how he shows it off: he lays it on the table at every table in the north where a servant would carve for him, and cuts his own meat · what people say: the Yukari searched him at the gate, looked at it, and handed it back, and Naevra Yukari calls it the most honest steel in the Hall; a lord of his standing carrying nothing else is either a joke or a threat, and forty years of council have not settled which
+
+**The copper coat** · Akagane copper over white · plain · Rare
+**Look** · a short broad shoulder-cape of copper-ochre wool, madder over weld, edged in a narrow white band and standing out past the shoulder like a yoke; wide-sleeved white silk robes under it; a cream under-robe crossed at the breast by a band of gray with white flower-and-bead work, the same band running down the front panel; copper and red-bronze fittings, no enamel, as his line wears · a gray sash, a pale cord hanging from it with a thumbnail fox-face in raw red-bronze for a boss · he has it remade by the Kurogane women to the same pattern every few winters, thread for thread, because a man who does not age cannot be seen in a coat that does · how he shows it off: he doesn't, and the Hall jokes that it is the only thing about him that has ever been replaced · grain dust in the cuffs, whatever they do
+
+**The Sennen books** · every name, every sack, every seal · plain · his name is at the top · Rare
+**Look** · forty years of provisioning ledgers in plain hide, carried in oiled packets, every order in his own square hand · how he shows them off: he hands them to the people they will hang him with · what people say: several houses would pay a granary to see them burned, and none of them has made the offer out loud
+
+**The copper book** · the Akagane register of its dead, kept in the Kurogane house; Tsuyu Akagane Moto's page carries the Hall's own record that the lord died with a needle at the nape · plain · Rare
+**Look** · a heavy folio with copper at the corners, gone green; every Akagane child reads it through and every lord reads it again on taking the chair; Tsuyu is page four hundred and eleven, and that page falls open on its own
+
+**The war-bow of the copper line** · a tall Moto bow, longer than he is, lacquered copper-ochre and bound with red-bronze wire at the grip, its upper limb twice the length of the lower so that it is held below the center, the old way · Grade B · Very Rare · stamp Instrument · rung Siegepiece · not bonded · about a kilogram and a quarter, over two meters, balanced at the grip · proof-mark a fox's mask in the wire under his bow-hand · with a fit head it beats Tempered plate, and fails against Instrument plate and anything above it
+**Look** · laminated in old mulberry and sinew, kept unstrung in oiled silk in the Kurogane house; the wire has been rebound by four generations of Akagane hands and none of them matched the last; a pale bite on the lacquer above the grip where his grandfather's thumb sat · how he shows it off: he hasn't, in forty years, and the Seat believes the copper line let it go · what people say: nobody at the Seat says anything; old Kurogane tenants say the bow goes out when the book is about to get a new page
+
+**The copper shafts** · a dozen arrows with raw copper broadheads and red hawk fletching, and a plain oxhide bracer · plain · Uncommon · about forty grams a shaft, a long meter, balanced well forward · beats leather and cloth, fails against plate of any stamp
+**Look** · soft metal for a fool's arrow, and they exist for one customer: a copper blade comes out of the quench softer and not harder, and the Akagane forge has kept a few dozen made since the line gave a daughter to the Kurenai
+
+**The copper rings and the seal** · raw copper rings on both hands, and a red-bronze signet on the right cut with the Akagane fox · plain · the rings Common, the seal Rare
+**Look** · the rings leave a green line in the creases of those scarred knuckles · the seal went on every sack that fed the Sennen columns · how he shows them off: he wears them to sit, and takes them off to work or to swear, so that when he lays a hand flat on his chest there is nothing on it
+
+**The knotwork belt** · tooled oxhide in native Kharven interlace, worn low under the sash · plain · Rare
+**Look** · Kurogane tenant work, given to his grandfather the year he threw open the granary, and worn pale by three lords' hips · nobody sees it, and he has never once thought he earned it
+
+**The gray travel cloak** · gray wool, copper showing at the cuffs and the throat · plain · Uncommon
+**Look** · what a lord wears to a garden gate at night, and the one garment he owns that has been allowed to get old
 
 ## XVI. Temperance Record
 

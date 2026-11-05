@@ -10,6 +10,7 @@
 **Releases** · STONEFAST (First Release, Greymane) · bonded weapon: none; the war-axe is hers, not bonded
 **Traits** · THE GREY WALL (Primary) · tell: she steps in front · counter: take away whoever is behind her / ELEVEN NAMES (Secondary) · tell: her lips moving at night before she sleeps · counter: none; it is a count, not a guard / NO HOOKS (Passive) · tell: she says the thing · counter: ask her
 **Techniques** · THE HOOK AND THE HEW · tell: the axe-beard goes over the rim · counter: a shield with no rim to catch, or let go of it / THE GREY FILE · tell: shields locking rim to rim · counter: break the file's end
+**Kit** · a ragged wolf mantle over a cracked blue-steel pauldron, etched plate or oxblood leather over mail, a long coat and a red cloak, and the piece people talk about first: a Rare bearded war-axe paid for with a court dress
 **Voice** · "Nobody courts a crown by hitting it with an axe." · speaker type: a Shieldwarden lieutenant who gives everything as a report, flat, and has forgotten how to give it any other way
 
 ---
@@ -155,9 +156,20 @@ She is tall, near enough the king's own height, and broad through the shoulders 
 
 ## XV. Equipment
 
-**The war-axe** · a bearded blade as long as a man's forearm, a hooked spike at the top, a long ash haft; the steel dark with oil, the edge a clean bright line · Item Tier Proofed · hers, not bonded
-**The longsword** · a plain northern arming sword with a long grip, carried at court · plain
-**The left pauldron** · under the fur, its second lame carries a hairline crack, old and badly hidden; Muken says it will split on the next hard blow to the shoulder, and she will not let the king pay to fix it
+**The war-axe** · a bearded blade as long as a man's forearm, a hooked spike at the top, a long ash haft; the steel dark with oil, the edge a clean bright line · Item Tier Proofed · hers, not bonded · Grade D · Rare · rung Linepiece · about two kilograms, head-heavy on a long haft · proof-mark a Galecross smith's stamp under the beard · beats mail and Marked plate, fails against Proofed harness and up, though the hook does not ask
+**Look** · an ash haft gone yellow, wrapped in rawhide at the grip and worn as shiny as her palm, rehung twice by her own hand; a nick in the beard from a shield-rim on the Thornwall, filed down and not out · she sold the dress from the third presentation to a river-town draper and walked what it fetched, about twelve gold, up to a smith at Galecross · how she shows it off: across her back at every door in the Seat, including the ones where a steward asks for weapons, and nobody has yet asked her twice · what people say: the Shieldwardens tell the story of the dress, and she will confirm it if asked
+**The longsword** · a plain northern arming sword with a long grip, carried at court · plain · Common · beats cloth and hide, fails against plate
+**Look** · a straight blade and a steel guard curling down at the ends, the yard's sword, cleaned by duty and worn only where an axe would start an argument
+**The left pauldron** · under the fur, its second lame carries a hairline crack, old and badly hidden; Muken says it will split on the next hard blow to the shoulder, and she will not let the king pay to fix it · Grade E · Uncommon · stamp Marked · rung Sidearm
+**Look** · overlapping blue-steel lames on both shoulders, riveted, scratched bright along every edge, one rivet on the left that does not match; she has drilled the crack at each end to stop it walking, and it has walked · a smith wants a month's pay for it · how she shows it off: she taps it · what people say: every Shieldwarden knows which lame
+**The ward-plate** · fitted chest-plate over a quilted gambeson of oxblood red · Grade D · Rare · stamp Proofed · rung Linepiece · not bonded · proof-mark the Ridgewall's stamp under the arm
+**Look** · dull steel cut with a fine lattice of etched lines, the old Greymane ward-pattern their grandfathers cut into the stones of the ridge; it was a dead cousin's, let out at the shoulders by her own hand, and the seam shows · how she shows it off: she doesn't polish the lattice, so it reads like a scar · what people say: it is the one thing the house ever gave her, and it was a quartermaster who did not ask
+**The oxblood cuirass and the mail** · fitted oxblood leather cuirass crossed with buckled straps and hung with three knives, over a coat of mail and a black high-necked undershirt · plain · Uncommon
+**Look** · boiled leather gone almost black at the bends, the knives plain and brown-handled and riding butt-down across the chest; the mail shows at the shoulder and below the waist, small riveted rings patched here and there in brighter links · she wears it on the road · what people say: the knives are for rope, hooves, bread and the man on top of you, in that order
+**The file shield** · round Shieldwarden's shield, gray-faced, the rim bound in iron with a lip for locking · plain · Common
+**Look** · painted over twice, the rim bitten and hammered back; inside the rim are eleven small nicks, and she would tell you what they are if you asked, and nobody has
+**The road kit** · rough brown wolf-fur mantle with a round steel boss at each shoulder, long cloak of dark red wool, split coat of gray-brown wool to the shins, a belt of round steel bosses with a pouch, bracers bound with steel, scarred gauntlets, black fingerless gloves, tall boots with steel knee-cops and fur at the tops, a dented helm · plain · Common to Uncommon
+**Look** · the pelt matted and ragged where blades have caught it, the leather of the gauntlets cracked at the knuckles; she has recut the last two fingers of the left as one with her own awl, to fit what the hand is · how she shows it off: she doesn't notice she is wearing it · what people say: she has drunk out of that helm, and worse than tea
 
 ## XVI. Temperance Record
 

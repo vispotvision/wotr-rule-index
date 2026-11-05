@@ -8,6 +8,7 @@
 **Aura and sound** · a clean pale gold with a thin line of white through it, like the edge of the shelf with the sun behind it · sound: a coin set down on stone, then another, counted
 **Traits** · ONE BEFORE (Inherited) · tell: he moves a hair before you do · counter: a blow with no intent behind it / COUNT TRUE (Primary) · tell: he says the number out loud · counter: a field he cannot see / THE STRUCK LIST (Secondary) · tell: he asks for the count twice · counter: a man who gives him a true one
 **Signature** · THE SALLOWGATE ANSWER · tell: the blade turns in his hand before yours leaves its line · counter: feint with your whole body, not your blade
+**Kit** · a full harness of gilded plate with the Sallowgate bear rearing on the breast, a long scarlet cloak, the white banner with the balance above him, a plain gray house sword whose pommel he taps to count, and the piece people talk about first: the Bear Harness of the warlord's office, Very Rare, whose gilding he will price for you to the copper
 **Voice** · "Before we begin, my lord: you have four thousand and eleven men, and nine hundred of them have not eaten since the feast of Saint Ebb. Now. What would you like to do?" · speaker type: a courteous southern warlord with a cleric's Latin and a quartermaster's honesty, who tells generals their own numbers in front of their captains
 
 ---
@@ -49,6 +50,23 @@ The Lambert counter-cut, taught at Sallowgate to every child of the house, woken
 ## Physical Description
 
 He is tall and well made, broad in the chest and narrow in the waist, and carries his armor the way other men carry a coat. His hair is a bright gold, thick and tightly curled, worn loose to the collar and always a little wild; his face is open and square-jawed, fair-skinned and windburned at the cheekbones, with a short gold stubble along the jaw and a straight nose, and his eyes are a clear light green that look past the man in front of him to count the men behind. In the field he wears a full harness of gilded plate, the breastplate worked in high relief with a rearing bear, the Sallowgate bear of the warlord's office, round bosses at the shoulders, a high gorget and lames down the arms scaled like a fish's back; over it a long cloak of deep scarlet, and above him on a white field the house banner with the balance and the words, *Count True*, in black. When he breathes in the cold it smokes off him like a horse.
+
+## Equipment
+
+**The Bear Harness** · full gilded plate, the harness of the warlord's office · Grade B · Very Rare · stamp Instrument · rung Siegepiece · not bonded · proof-mark the balance of the Holy Sea over a Sallowgate armorer's stamp · its gap is the inside of the elbow, where the scaled lames stop
+**Look** · bright gold laid over dark steel, the rearing bear in relief so high that a blade skids on it; a round boss at each shoulder, a small gold bear on each; a gorget to the jaw; arms in lames lapped like a fish's back, with a fringe of the same scales hanging under the pauldron · three warlords before him wore it, none of them woken, and his father died in it on the Grey Plain; the plate under the left arm where that blow went in has been regilded a shade paler than the rest, and he has refused to have it matched · recut at the waist for him, at his own charge · how he shows it off: he carries it like a coat and does not mention it, until someone sneers, and then he tells them the number · what people say: that a man who lectures generals about grain wears a granary on his chest, to which he answers that it is four hundred and twelve gold and seven silver, that the leaf is eleven ounces, and that the Palatine has the receipt
+
+**The house sword** · Lambert long sword · Grade B · Rare · stamp Instrument · rung Siegepiece · not bonded · 1.4 kilograms, balanced close to the guard for the turn of the wrist the Answer needs · proof-mark the balance, small, under the guard · beats plate through Tempered, fails against Hallowed
+**Look** · gray steel with a plain cross and a flat disk pommel, not one speck of gold on it, the only unbright thing he wears; four small notches on the underside of the pommel, one for each name he has struck, the fourth cut deeper than the others · how he shows it off: he taps the pommel once for every thousand, in front of your captains · what people say: every child at Sallowgate learns on a wooden copy of this balance, and nobody who has counted the notches asks about them twice · worth about sixty gold
+
+**The scarlet cloak** · long field cloak, kermes-dyed wool · plain · Rare
+**Look** · a deep hot scarlet that holds snow on it like a tablecloth, clasped under the shoulder bosses and long enough to need a squire in mud; mended twice at the hem by his quartermaster, who entered the thread · how he shows it off: he wears it where it makes him the easiest target on the field, so that his own men can find him and count him · what people say: it cost what a good horse costs, and he knows which horse · about forty gold
+
+**The Count True banner** · white linen, black balance and black words · plain · Uncommon · carried by his bannerman
+**Look** · relettered every year by the house clerk, one small black stitch in the hoist for every field it has stood over, and nobody has ever found the number wrong · what people say: a general who sees it come over the hill starts adding up his own men
+
+**The court dress** · the white wool robe of the Custos Portae Salicis, and a plain iron ring · plain · Uncommon
+**Look** · white wool, the collar worked with sallow leaves in pale gold thread, cut for a narrower generation of Lamberts; the ring is black iron, cut with the balance · how he shows it off: he wears it to the Alabaster Court like a man carrying someone else's parcel, and is in plate again before the Latin has finished · what people say: the Bench would like him to wear it more often, and the Bench has been told how often that is
 
 ## Lore
 

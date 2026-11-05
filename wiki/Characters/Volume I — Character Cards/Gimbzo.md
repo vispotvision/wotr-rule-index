@@ -10,6 +10,7 @@
 **Releases** · ENJŌ (First Release) / NOBI (Second Release) / SHŌDO (Third Release), all called "*Moyase*" · bonded weapon: none; he struck with his hands and with whatever the field put in them
 **Traits** · AS HARD AS HE COULD (Primary) · tell: no feint, ever · counter: give way, and let the blow spend itself on nothing / FOREST FIRE (Passive) · tell: his intent is readable three moves out · counter: read him, and be somewhere else / THE GOLD AT THE EDGES (Inherited) · tell: gold coming up through the gray of his eyes · counter: nothing whole to read / THE BLACK (Secondary, a vow) · tell: no red on him anywhere · counter: make him wear it
 **Techniques** · SHINGAN · tell: the eye goes still · counter: give it nothing flawed / HAMETSU NO GŌ, the Obsession face · tell: the ground cracks around what he aims at, not only under it · counter: stand where nothing is rotten / TETSUTSUI · tell: the whole body sets before the strike · counter: carry it through you into the ground
+**Kit** · a high-collared black coat under a pale campaign mantle, black lacquer and black lacing from crest to greave, no weapon but his hands in iron, and the piece people talk about first: the black harness, Legendary, which in twenty years has never shown one thread of red
 **Voice** · "When I've made it worth wearing." · speaker type: a war-king who talked to his captains from the saddle and to no one else at all
 
 ---
@@ -176,8 +177,18 @@ He was old by the end, and the war was all over his face. His hair was the Kōka
 
 ## XV. Equipment
 
-**The black harness** · black-lacquered lamellar, black-laced, black from crest to greave; no red anywhere · Item Tier Storied, by twenty years and a war
-**The red chair** · never sat; a lion-head boss of blind enamel, forty years of dust he told the servants never to touch
+**The black harness** · black-lacquered lamellar, black-laced, black from crest to greave; no red anywhere · Item Tier Storied, by twenty years and a war · Grade S · Legendary · rung Kingsarm · not bonded
+**Look** · small iron scales under more coats of lacquer than anyone has counted, laced in black silk, with a lion-face boss of near-black steel on the right shoulder, the Kōkan red chiseled out of its eyes and mouth the night he swore, so that the lion looks out of three empty pits · every winter's camp lacquerer went over the last one's work and nobody hammered out a dent first, so it has thickened like bark and the breast is lumpy with twenty years of blows painted shut; heat-crazed down both arms from ENJŌ · how he shows it off: he never did a thing about it but ride at the head, and black coming over a rise was the whole show · what people say: no smith made it Storied, the war did; the levies told how the day had gone by the mud on it; what became of it after Shimane is the Zettari's to say
+**The red chair** · never sat; a lion-head boss of blind enamel, forty years of dust he told the servants never to touch · plain · Legendary · the chair's, not his
+**Look** · how he shows it off: by never going near it · what people say: the dust is a threat, and the servants who swept round it knew exactly how wide to sweep
+**The black coat and campaign mantle** · high-collared coat, pale mantle · plain · Uncommon
+**Look** · black wool closed to the jaw with a strip of dull tan facing down the front, over it a mantle of heavy undyed wool, pale because a dye would have been a statement, where a Kōkan's fur would sit · the hem scorched and never trimmed · how he shows it off: he did not change it for a king's funeral or a lord's kneeling · what people say: the Tenrai sent him a northern fur every winter for the chair he was not sitting, and his horses slept warm
+**The iron hands** · black-lacquered iron gauntlets · plain · Common · they never lasted long enough to be anything else
+**Look** · camp-forged plate fingers over rawhide, laced in black at the wrist · one TETSUTSUI folded them like tin, so every army smith who rode with him kept a barrel of spares and his hand's measure on a stick · how he shows it off: he dropped a ruined pair in the mud and held out his hand without looking · what people say: north of Halcrest an apprentice who brags is told to go and make something for the king
+**The knotwork belt** · native Kharven knotwork, dyed black · plain · Rare
+**Look** · old Kharven leather tooled close from end to end in a knot with no beginning, the one thing on him that came out of his mother's keeping; he dyed it himself the week he swore, and there is still brown in the deep of the cuts · cracked at the third hole and mended with sinew · what people say: nothing; nobody ever looked at his belt, and that was the only reason he could keep it
+**The saddle and the black tent** · high war-saddle and campaign tent, the seat of the north for forty years · plain · Uncommon
+**Look** · the saddle black hide over beech, reseated three times on the same tree and worn to the shape of him; the tent black felt on ash poles, a camp bed and one lamp · how he shows it off: he received lords from the saddle, looking down, and they stood in the mud · what people say: the only court the north had was wherever that saddle was set down
 
 ## XVI. Temperance Record
 

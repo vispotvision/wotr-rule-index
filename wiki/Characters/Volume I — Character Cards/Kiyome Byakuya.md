@@ -11,6 +11,7 @@
 **Releases** · YUKIAKARI (First Release, called "Akari") / HAKUREN (Second Release, Domain) / KŌKAN NO MAE (Third Release) · bonded weapon: her katana, by Borin Ironheart, three hundred and twelve years old
 **Traits** · THE RED BEFORE THE WHITE (Inherited) · tell: her lips moving over the oath · counter: ask her to choose between the heir and his good / GLASS (Passive) · tell: wards and readings slide off her · counter: plain eyes and a plain question / THE WHITE KNOT (Primary) · tell: three quick turns of cord round a sword's guard · counter: cut the cord, and pay for it / BROKEN AND MENDED (Secondary) · tell: the silver rings in her eyes turn once · counter: strike twice before she mends
 **Techniques** · HAKKŌ · tell: a hair-fine violet line hangs in the air before the cut · counter: wet ground, a grounded conductor, rain / KAGAMI-WARI · tell: she looks at a working instead of its owner · counter: a working with no seam / MUSUBI · tell: three turns of white light round what she binds · counter: Sovereignty above hers, or a thing she cannot see / SHINGAN, held level · tell: the rings lie flat and silver as winter ice · counter: a man who is truly still inside
+**Kit** · near-white silk in the Hall and road linen out of it, glass beads at her temples and a pale halo-ring at her crown, a white-lacquered harness and a cross-bladed spear the north has never seen her wear, and the piece people talk about first: her Very Rare katana by Borin Ironheart, three hundred and twelve years old, in a white scabbard with no knot on it now
 **Voice** · "It's his. It was always his. I only kept it." · speaker type: the head of an old guard house, trained to keep the peace in rooms worse than this one, who speaks clear and calm and does not wipe her tears
 **Next gate** · Stage XII, Emanation · Catalyst: the Dissonance fracture of the four lines made a feature, the oath kept with something at the end of it at last · Band gate: Level 400 waits on XII · Front: the Sin of Wrath on the north road, and her sister's son riding down it
 
@@ -184,9 +185,29 @@ She is tall and very straight, as tall as Naevra Yukari, nearly, and pale, so th
 
 ## XV. Equipment
 
-**Her katana** · made by Borin Ironheart in the Varrak-Thur three hundred and twelve years ago for her grandmother's grandmother's grandmother, who stood at his anvil sixteen hours while he worked and tied the white knot round its guard with her own hands · Item Tier Hallowed · white scabbard; its knot gone to Tsugigane · bonded
-**The glass veil and the halo-ring** · the Byakuya's at council · plain
-**Kasane's red harness** · the Samurai of Fate harness her sister wore six years at Gimbzo's side, left in the white house in the Shiraki hills the night she went into the salt · still there
+**Her katana** · made by Borin Ironheart in the Varrak-Thur three hundred and twelve years ago for her grandmother's grandmother's grandmother, who stood at his anvil sixteen hours while he worked and tied the white knot round its guard with her own hands · Item Tier Hallowed · white scabbard; its knot gone to Tsugigane · bonded · Grade A · Very Rare · rung Fieldwinner · about a kilogram and a quarter, a long arm's length, balanced a hand before the guard · proof-mark Borin Ironheart's, under the grip · along HAKKŌ's line it beats Instrument plate, and in the wet, or against Hallowed plate, it is only a very good sword
+**Look** · pale bright steel with a temper-line like a slow tide; white rayskin under white silk at the grip, a pale iron guard; the scabbard white lacquer over ash, its mouth worn gray by one left thumb and five women's before hers · around the guard runs a fine groove where a cord sat for three centuries · how she shows it off: by not showing it; everyone who knows what that sword is looks at the place the knot isn't · what people say: Borin calls it a short job, sixteen hours, and slept two days after; five Byakuya have carried it, and there is no story of it being drawn, which is how the house wants it · nobody in the Hallenfeld counting-house has been willing to write a figure
+
+**The glass veil and the halo-ring** · the Byakuya's at council · plain · Rare
+**Look** · fine beads of hand-drawn glass on white silk thread, pinned back so that they hang at her temples and throw small cold rainbows on her cheek; a narrow ring of pale silver-gilt at the crown · a bead at the left temple has been replaced and is a hair greener than the rest · how she shows it off: the beads move before she does, and rooms have learned to watch them · what people say: Naevra Yukari calls them the Owl's whiskers
+
+**Kasane's red harness** · the Samurai of Fate harness her sister wore six years at Gimbzo's side, left in the white house in the Shiraki hills the night she went into the salt · still there · held for the heir, and rated on Kasane's card: Grade A · Legendary · rung Fieldwinner
+**Look** · it hangs on the wall of the white house, and she has lacquer-cleaned it once a year for sixteen years without saying why
+
+**The harness of the Byakuya guard** · cuirass and skirts of lamellar the white of fresh snow, laced in red silk, the reverse of her sister's, because the white line keeps the red; sleeves of fine mail under white silk · Grade B · Rare · stamp Instrument · rung Siegepiece · not bonded
+**Look** · her grandmother laced it in the dense diagonal, and she has relaced one row herself and can tell which · nobody in the north has seen her in it; it has hung on a wall beside the red one · how she shows it off: she will show it once, and the red lacing is going to be the first thing about her anyone has ever seen · its flaw is that white lacquer holds every mark, and it is built for a woman who means not to be hit
+
+**The field spear of the house** · a cross-bladed jūmonji yari as long as she is tall and a forearm more, the straight blade and two curved side-blades forged in one piece, the shaft lacquered white · Grade B · Rare · stamp Instrument · rung Siegepiece · not bonded · about two and a half kilograms, balanced a forearm behind the socket · proof-mark an owl's eye cut at the socket · the side-blades hook and beat Tempered plate; fails against Instrument plate and above
+**Look** · she has never carried it where anyone could count · the white shaft is chipped a finger's breadth below the socket, sixteen years of mornings behind a closed door · what people say: nothing yet
+
+**The Hall robes** · white silk so near to white it seems to give off a light of its own under the lamps, crossed at the collar over an under-robe of soft blue and violet · plain · Rare
+**Look** · a clean, almost ecclesiastical cut, with no fur and no steel, as her line wears it; a narrow band of gold binds the tail of her hair · how she shows it off: she stands beside the chair in it, and never sits · what people say: pale as a church, in every mouth in the Hall, and they mean it three different ways
+
+**The road linen** · layered linen the white of fresh washing, gray at the hem from dust and slush · plain · Common
+**Look** · she washes it herself when she can, and since the Foot it has been red to the wrist as often as it has been white
+
+**The Thornwall belt** · white-tawed deerskin tooled in native Kharven interlace, worn low under the robe, with a small owl-face boss in pale silver-gilt · plain · Uncommon
+**Look** · her mother's, from Thornwall, and the one thing on her that is not Moto; twelve hundred pikes came when she sent four words, and this is part of why
 
 ## XVI. Temperance Record
 

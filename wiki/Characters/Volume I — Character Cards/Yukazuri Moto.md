@@ -10,6 +10,7 @@
 **Releases** · none; the First Release belongs to Flourishing · bonded weapon: none
 **Traits** · STILL WATER (Passive) · tell: everyone near her breathes slower · counter: noise, and fear louder than she is / THE HUM (Primary) · tell: she bends her ear to a thing the way she bends over a man's chest · counter: say nothing, and breathe evenly / WHERE IT'S DEAD (Secondary) · tell: her hands stop shaking · counter: none she has ever met / THE MARK (Inherited) · tell: she draws it true · counter: it does nothing but tell the truth
 **Techniques** · none worked; her skills are a surgeon's
+**Kit** · a short field coat of undyed gray that clinks when she walks, a woad-blue waistcoat and sleeve-straps under it, an apron with the salve tin in its pocket, a bandage blade that has only ever cut bandages, and the piece people talk about first: seven surgeon's needles, Common, that every man she ever sewed would know again in the dark
 **Voice** · "Hold still. You can dislike me when it closes." · speaker type: a field surgeon of thirteen, trained on camp floors and in a ditch full of the dying, who tells grown men to lie down and is obeyed
 
 ---
@@ -148,10 +149,25 @@ She was small, smaller than any girl her age in the Cuttings because there had n
 
 ## XV. Equipment
 
-**The salve tin** · plain tin, the Kōkan mark drawn on its bottom; dented on the shore, with the mark and an arrow pointing south scratched in its lid with a needle · plain · her brother carries it
-**Seven surgeon's needles** · thin steel of three lengths, two curved, one bent very slightly at the tip from use on something tougher than skin, a short end of gut still in the eye of the longest · plain · folded into Tsugigane at the old break
-**The field kit** · gut, a flask of spirit, the salve tin's twin, the long iron probes and the short curved knife, splints, straps, boiled cloth in wooden tubs · plain
-**The bandage blade** · short, the grip wrapped in gray cloth rewound every morning · plain
+**The salve tin** · plain tin, the Kōkan mark drawn on its bottom; dented on the shore, with the mark and an arrow pointing south scratched in its lid with a needle · plain · her brother carries it · Common
+**Look** · dull tin the size of a man's palm, the lid sprung from ten thousand openings with one thumb; the salve is tallow, honey and yarrow she renders herself · how she shows it off: she doesn't, and it comes out of the apron before she has said a word, which is how a yard learns to stop shouting · what people say: that the salve closes anything, which she will correct at length · worth two copper empty
+**Seven surgeon's needles** · thin steel of three lengths, two curved, one bent very slightly at the tip from use on something tougher than skin, a short end of gut still in the eye of the longest · plain · folded into Tsugigane at the old break · Common
+**Look** · cheap market steel kept in a roll of boiled linen, the eyes polished smooth by gut; the oldest, one of the short straight ones, is the needle Yusif Stark put in her hand on the sack of salt, and she has never bought a better set because a better set would be one she had not learned · how she shows them off: threaded, in the hand, over someone · what people say: the vanguard boys borrowed them to sew the white banner and gave back every one, counted, because she counted them; Rob Stark says the bent one is for Starks · about two silver the set at any stall
+**The field kit** · gut, a flask of spirit, the salve tin's twin, the long iron probes and the short curved knife, splints, straps, boiled cloth in wooden tubs · plain · Uncommon
+**Look** · glass and brass in the coat's pockets, iron in a rolled canvas satchel gone stiff at the folds; the probes blackened from the flame, the curved knife whetted thin as a leaf and a little shorter every year · how she shows it off: the same order on any surface, a tailboard or a man's chest, so that she can find anything with her eyes on the wound; the Foot's own surgeons copied the order and cannot hold to it
+**The bandage blade** · short, the grip wrapped in gray cloth rewound every morning · plain · Common · not bonded · about a quarter of a kilogram, a hand and a half long, balanced at the guard · beats gauze, gut and cloth, and fails against anything anyone wears to a fight
+**Look** · company-issue Lanternless iron in a plain sheath at her left hip, the gray wrap torn from the same bolt as her bandages · how she shows it off: she is the only soul in a company that counts blades who has never been asked what hers has killed · what people say: the company's joke is that it has more men alive to its credit than every other sword in the Lanternless together, and the company has stopped thinking that is a joke
+
+**The field coat** · undyed gray wool, cut short for kneeling in, buttoned to the throat · plain · Common
+**Look** · the deep pockets are her own sewing, double-stitched in surgeon's knots; horn buttons, no two off the same coat; the cuffs go dark however often she boils them and the hem carries small burns from the cautery iron · how she shows it off: buttoned in any weather, and it is the last thing a lot of men ever looked at · about six silver new, and hers was not new
+
+**The surgeon's blue** · a wrap-fronted waistcoat of woad-dyed wool over a full-sleeved cream linen shirt, the shirt high at the neck and tied with a narrow blue ribbon; blue leather straps with small steel buckles cinch each sleeve above the elbow, and a wider one holds the waistcoat at the waist · plain · Uncommon
+**Look** · the straps are the whole point: they hold a full sleeve out of a wound and can be done up with wet hands · made for her at the Foot by the Greymane women who could stitch, because they were tired of looking at the army's surgeon in a salt-gallery shirt; it is the first color she has ever owned, and she pretends not to know that · a brown tide-mark sits at both sleeves that no boiling lifts · how she shows it off: she doesn't know she is doing it, and rebuckles the straps twice before breakfast · what people say: half the girls in the camp have started strapping their sleeves
+
+**The apron** · heavy boiled linen with one deep pocket, worn over all of it at the Foot · plain · Common
+
+**The surgeons' line** · six carts, the clean linen in rows, the spirit in stoppered jars · plain · Uncommon
+**Look** · unpainted farm carts bought at about ten gold each with the army's money, drawn up in a half-ring with their shafts down as a wall against the wind, and every sheet in them counted by her, exact · what people say: "Thirty. Don't round it." Quartermasters at the Foot have started hiding from her
 
 ## XVI. Temperance Record
 

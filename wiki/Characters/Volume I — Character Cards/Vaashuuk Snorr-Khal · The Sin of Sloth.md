@@ -10,6 +10,7 @@
 **Releases** · FEATHERBED (First Release) / THE LIE-IN (Second Release) / no Third; he could have one and has not got round to it · bonded weapon: none; the Snooze-Glass rides at his shoulder
 **Traits** · TORPOR (Primary) · tell: he never hurries, even when he should · counter: hit him early and fast, before he is awake / DOK (Secondary) · tell: every verb he speaks is unfinished · counter: corner him until he has to finish something / DROWSE (Passive) · tell: everyone near him yawns · counter: noise, pain, cold water
 **Techniques** · TAR TIME · tell: the big yawn, then the air goes glossy and steam stops rising · counter: move slowly, run hot, or step out of the radius / THE SNOOZE-GLASS DROP · tell: the glass bubble dims and drops · counter: one charge, then he has to yawn like everybody else / THE CHAISE · tell: he is lying on nothing · counter: heat it until it drips
+**Kit** · a deep olive hood and cloak or a plum velour coat with one scorched sleeve, whichever he has not paid for yet, platform boots heavy with buckles, every inch of ear pierced, and the piece people talk about first: the Snooze-Glass, a Very Rare glass bubble in brass bands that floats at his shoulder like a pet
 **Voice** · "Everythin's a liquid if you give it long enough. I just make it real, *real* thick." · speaker type: a washed-up fight promoter who runs his whole business lying down
 **Next gate** · Stage XI, Dissonance · Catalyst: deliberately entering contact with a force that could end him and staying coherent long enough to choose how to meet it; he has never deliberately entered anything · Band gate: Level 400 waits on XII · Front: the Captain's errand; he must deliver the Wrath alive
 
@@ -169,9 +170,20 @@ He is small even for a goblin, about half a grown man's height, wiry and slight,
 
 ## XV. Equipment
 
-**The Snooze-Glass** · a riveted glass sphere the size of an apple in brass bands, floating at his shoulder, holding a frozen curl of steam and a few suspended droplets; charged overnight with one TAR TIME · Item Tier Hallowed · rung Fieldwinner · stolen, he says, from a Stannvaard glassblower who "was gonna throw it out anyway"
-**The olive cloak and hood** · fine wool, high stiff collar, the hood cut deep for the ears; plain cloth, no working; he never paid the tailor and has never finished an apology for it
-**The rat skull** · carved white bone on a cord; plain; the only honest face in the Expanse
+**The Snooze-Glass** · a riveted glass sphere the size of an apple in brass bands, floating at his shoulder, holding a frozen curl of steam and a few suspended droplets; charged overnight with one TAR TIME · Item Tier Hallowed · rung Fieldwinner · stolen, he says, from a Stannvaard glassblower who "was gonna throw it out anyway" · Grade A · Very Rare · not bonded
+**Look** · clear Stannvaard glass with a faint green in its thickness, a tiny pitch-funnel maker's mark on the lowest band, the brass buffed bright every day and one rivet missing since the day he took it · how he shows it off: he lets it hang by his ear and glances at it as if it had said something funny · what people say: the glassblower says it was the best piece of her life and has a price posted on it in three cities, which he has heard about and is going to do something about · two hundred gold to the right thief
+**The olive cloak and hood** · fine wool, high stiff collar, the hood cut deep for the ears; plain cloth, no working; he never paid the tailor and has never finished an apology for it · plain · Rare
+**Look** · olive dyed deep and even, a band of darker stitching round the hood and the collar · a hand's length of the hem was never sewn, because he walked out of the last fitting and kept walking, and he brushes the raw edge along with the rest · how he shows it off: he flicks it so that you will see the line · what people say: the tailor in Gorr-Keth keeps the bill on his wall and adds to it every year
+**The rat skull** · carved white bone on a cord; plain; the only honest face in the Expanse · Common
+**Look** · a rat's face in white bone with the whiskers scratched in, fine work on the front; the back is still blank, and he says he is getting to it
+**The plum coat** · plum velour three sizes too big, gold frogging, a collar of long black fur, over a green silk shirt open to the breastbone · plain · Rare
+**Look** · the cuffs rolled four times to find his hands, the fur buffed flat on one side where he polishes his claws on it, one sleeve scorched by the Wrath in the bottom of the Pit and still smelling of it, never mended · how he shows it off: he wore it to the bottom of Hell · what people say: it was cut for somebody much bigger, and nobody has come to ask for it
+**The shirt, tie and collar** · black shirt buttoned to the throat, pale green silk tie knotted loose, buckled black leather collar, a string of yellowed fangs · plain · Uncommon
+**Look** · the tie is never drawn all the way up · the fangs came off other people's kills, as he will tell you before you ask, since he has never finished anyone · what people say: one tie has gone in two pieces to a Yukari blade, and of everything that blade did to him, the tie is what he talks about
+**The boots and the hat** · chunky black platform boots heavy with buckles and rivets, and a stolen fur hat · plain · Uncommon
+**Look** · the last buckle on the left boot has never been done up · how he shows it off: he crosses his ankles in the air at eye level, so that you will see the soles · what people say: a fox-woman in a Yukari carriage wanted to squish them; the hat came off somebody on the road north of the Pit
+**The ironwork** · gold rings, silver hoops, bone studs and iron spikes through both ears; two silver rings in the left brow; a gold stud in the nose, a gold cap on one fang, an iron spike through the lip; black claw lacquer · plain · Uncommon
+**Look** · polished every morning, the one job he does daily and has never called done · the top gold ring of one ear is gone, with a thumbnail of the ear, and Senna Yukari has it · what people say: he has started several sentences about what he will do about that
 
 ## XVI. Temperance Record
 

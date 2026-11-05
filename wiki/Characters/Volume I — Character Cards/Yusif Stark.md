@@ -8,6 +8,7 @@
 **Aura and sound** · the Stark cold, a hard white rime over gray, quieter than any Stark's before him · sound: an ash stick tapping once on a salt floor
 **Traits** · LET YOUR FEET DO IT (Primary) · tell: none; that is the point · counter: a fight you have to think through / STARK RIME (Inherited) · tell: his breath stops steaming · counter: heat / THE THING NOBODY WROTE DOWN (Secondary) · tell: he says nothing at all · counter: ask him in front of the one he is keeping it from
 **Signature** · THE LONG CLEAN LINE · tell: one cut, no flourish · counter: do not be where the line ends
+**Kit** · a long dark coat strapped shut, a scarf to the chin, worn bracers, a captain's scabbard with a market sword in it, and the piece people talk about first, if they are children: a Common ash stick
 **Voice** · "You protect the weak. You defend the man next door. You keep the north quiet so the children can sleep in it. Everything else is just weather." · speaker type: a soldier who quit the best war-king in the north the morning after the worst night of it, and never explained himself to anyone but children
 
 ---
@@ -46,6 +47,23 @@ One cut, edge and weight and the whole body behind it along one line, with nothi
 ## Physical Description
 
 He was a big quiet man, and older-looking than his years: his hair went gray early and silver after, worn short and swept back off a lined, weathered face, with pale gray eyes narrowed against snow-light and a mouth that rarely moved. He dressed for the road, in a long dark coat buckled close down the front with straps of worn leather, heavy leather bracers and fingerless gauntlets, a broad belt, and a dark scarf wound high round his throat and over his shoulders like a short cloak; he carried a plain northern longsword and an ash stick. When he came down four galleries into the Cuttings he brought salt-meat and wool and stood in the low doorway stooping, and the children did not know his name.
+
+## Equipment
+
+**The ash stick** · a yard of straight ash, thick as a thumb · plain · Common · not bonded · next to no mass, balanced at the middle · beats a boy's guard, and nothing else was ever asked of it
+**Look** · cut green out of a hedge on the Halcrest road and never oiled; the bark long gone, the wood white going gray, salt-bitten at the butt where it taps the floor, with a shine worn on it at a man's grip and a second, lower down, at a boy's · how he shows it off: it is the only weapon he ever took down four galleries, and the best captain Gimbzo had taught with it for five years · what people say: almost nobody knows to say anything; two children in the Orrel Cuttings know it, and the boy's feet answer to it
+
+**The road sword** · plain northern longsword off a market stall · plain · Common · not bonded · about a kilogram and a third, balanced a hand above the guard · no proof-mark · cuts cloth, hide and mail; worked harness stops the steel, and THE LONG CLEAN LINE does not ask the steel
+**Look** · gray steel and a straight cross, the grip bound in black cord by whoever sold it; his own rime turns ordinary steel brittle, so he wears through one every couple of years, buys the next in the nearest town and leaves the old one with a farrier · how he shows it off: a man who stood where he stood could have carried a Kingsarm, and he carries what a drover would · what people say: old riders of Gimbzo's say he left a far better sword lying on a table in Halcrest the morning after the cellars, and nobody will tell you who picked it up
+
+**The captain's scabbard** · long scabbard of dark leather, its outer face set with riveted steel diamonds · plain · Rare
+**Look** · a captain's piece from Gimbzo's service, each steel lozenge pinned at four corners, one gone and never replaced; it was cut for a heavier blade, so his market swords ride loose in it and he has packed the throat with a strip of wool · he wears it low behind him under the skirts of the coat · what people say: it is the one thing on him an old soldier would know, and the one thing he kept, and he has never said why
+
+**The long coat** · long coat of dark indigo wool, buckled close down the front with leather straps and steel rings · plain · Uncommon
+**Look** · gone blue-black with weather, salt-stained to the knee, every strap resewn by his own hand; there is a paler patch on the breast where a wolf was picked out stitch by stitch · how he shows it off: by having cut off the only thing that would have told anyone · what people say: the Orrel gate-clerks have him down as a wool-seller
+
+**The scarf, the bracers and the belts** · dark wool scarf wound high and over the shoulders like a short cloak, heavy leather bracers set with small steel plates, fingerless gauntlets, a broad belt with a steel buckle and a second slung for the scabbard · plain · Common
+**Look** · all of it old, oiled and mended, the strap-ends cut short so nothing catches · he pulls the gauntlets off before he lays a hand on a child's head
 
 ## Lore
 

@@ -8,6 +8,7 @@
 **Aura and sound** · slate gray with a dull gold edge, like the ridge with the dawn behind it · sound: a hunting horn, one long note, from very close
 **Traits** · KEEPERS OF THE WALL (Primary) · tell: he looks west before he looks at you · counter: come at what he isn't guarding / STILL, THEN FAST (Secondary) · tell: he stops moving altogether · counter: never be the first to move / LATER, ULF (Secondary) · tell: "Later." · counter: ask him in front of the one he's keeping it from
 **Signature** · SETTING THE STONE (First Release, Greymane) · tell: dust settles round his heels · counter: pull him, lift him, or fight him on ice
+**Kit** · an old green surcoat worked in gold over mail and half plate, a fur mantle and a long gray cloak, a hunting horn at his belt, and the piece people talk about first: a Very Rare round shield with a gold sun half worn off it
 **Voice** · "We are the keepers of the wall. We are the shields of the innocent. We stand on the ridge so that nobody behind us has to." · speaker type: an old wall-lord who says very little, and then says the thing everyone else was afraid to
 
 ---
@@ -48,6 +49,23 @@ The Greymane release, called aloud as STONEFAST: he sinks his heels, and his Fix
 ## Physical Description
 
 He is long, all of him, long-legged and long-handed, with the Greymane stride and the Ridgewall stillness, and he looks a good fifteen years younger than he is. His hair is dark and thick, cropped short and pushed up off his brow, and his beard is dark and cut close to the jaw; his face is long and weathered, the nose straight, the eyes deep-set and heavy-lidded and gray, and he keeps them down more than up. He wears an old surcoat of green worked in gold over a coat of mail, a fur mantle on his shoulders, plate at the shoulders and elbows and knees and greaves to the boot, and a long gray cloak; on his breast, worked in darker thread, the wolf's head of his house. He carries the old round Greymane shield, steel faced and green-rimmed, with a gold sun rising on it half worn off by sixty years of blows, and a sword at his hip and a hunting horn at his belt.
+
+## Equipment
+
+**The old sun** · round steel-faced Greymane shield, green-rimmed, older than his carrying of it · Grade A · Very Rare · stamp Hallowed · rung Fieldwinner · not bonded; it belongs to the post · about eight kilograms · proof-mark the Ridgewall's smith-stamp inside the rim
+**Look** · steel over ash, domed, mottled gray and brown by sixty years of blows, the rim enameled ridge-green and chipped to the iron in a dozen places; a gold sun with long thin rays rising round a dark boss, half of it gone and the rest surviving only in the low places where nothing could reach it · he has never let anyone touch up the gold · the Greymanes do not name things, so it has no name, and everybody else calls it this · how he shows it off: he sits on a stone with it across his knee and works at a new scar with the ball of his thumb, and when he sets his heels the old sun seems to take the light · past owners: his father and his father's father, Shieldwardens both · what people say: the Mandate's ridge reports list it among the fortifications · the morning he rode south he hung it on a peg in the gatehouse at the Foot
+
+**The Ridgewall sword** · long straight sword at the hip · Grade C · Rare · stamp Tempered · rung Wallbiter · not bonded · about a kilogram and a half, balanced close to the guard · proof-mark the Ridgewall's stamp · breaks Proofed harness and passes anything under it, fails against Tempered plate and up
+**Look** · gray steel, black grip, and as uninteresting as a smith could make it, on instructions; its one vanity is the scabbard's throat, lined in waxed fleece so that the blade leaves it without a whisper · how he shows it off: he doesn't, and most people who have seen it out saw it once · what people say: old Stormfold men have watched him use it a dozen times, and none can tell you which hand moved first
+
+**The half harness** · coat of mail under green quilted panels edged in gilt, plate at the shoulders, elbows and knees, greaves to the boot · Grade C · Rare · stamp Tempered · rung Wallbiter · not bonded · proof-mark inside the left shoulder
+**Look** · the plate gone brown-dark from years of iron and tallow, greased against the cold and never once polished, so that you smell it before you see it; domed knee-cops on old straps, the mail sleeves dull as river stones, the quilting worn pale along every edge · how he shows it off: it fits him the way his own skin does, a long man's harness made for nobody else · what people say: three kings' agents have offered him better, and he looked west
+
+**The surcoats, the mantle and the cloak** · old surcoat of green worked in gold, a plain gray field surcoat, a brown fur mantle with a gold clasp at the throat, a long gray cloak · plain · Rare for the green, Common for the rest
+**Look** · both surcoats carry the wolf's head of his house on the breast in darker thread; the green has gone bluish at the folds and black at the hem, its gold thread rubbed down to the core at the shoulders, and his wife mends it and nobody else is allowed · he wears gray to fight in and on the march · how he shows it off: he doesn't · what people say: the green is older than Godfrey
+
+**The hunting horn** · long curved horn of a Stormfold ram, at the belt · plain · Uncommon
+**Look** · black at the tip and bone-gray at the bell, a band of tarnished silver at the mouth, the strap old green leather · it says one thing, one long note, and ridge men know his from any other; it brought the Greymanes in through the gatehouse at the Foot · what people say: when you hear it close, you are already late
 
 ## Lore
 

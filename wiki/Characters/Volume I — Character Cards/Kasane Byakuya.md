@@ -11,6 +11,7 @@
 **Releases** · AKAZONAE (First Release, called "Mae") / MAE NO NIWA (Second Release, Domain) / SAIGO NO MICHI (Third Release) · bonded weapon: the guard's blade of the red chair, left in the white house with the harness
 **Traits** · THE RED BEFORE THE WHITE (Inherited) · tell: her lips moving over the oath · counter: make the king the knife / UNMEI NO SAMURAI (Primary) · tell: she is always half a step ahead of the king and to his left · counter: come at him from where she cannot stand / DOWN THE ROAD (Secondary) · tell: she has already packed · counter: a road with no end she can see
 **Signature** · THE GUARD'S STEP · tell: she moves before the blow is thrown · counter: a feint she believes / AKAITO · tell: her eyes go past you, to where you will be · counter: a road whose end changes
+**Kit** · tonight a plain coat with a boy inside it and a gold band in her hair; behind her in the white house, the pale blue robes, a guard's blade nobody living has seen out of its scabbard but her sister, and the piece people talk about first: the red harness of the Samurai of Fate, Legendary, lacquered red as old blood and laced in white
 **Voice** · "That's ours. That's our name. Don't show it to the clerks." · speaker type: a royal bodyguard of an old sworn house, who stopped speaking his name and kept everything else
 
 ---
@@ -80,6 +81,26 @@ DOWN THE ROAD made law for thirty seconds: inside her Yard she sees the end of e
 ## Physical Description
 
 She was fair, and her hair was the Byakuya gold, the same as her sister's, long and loose to the waist with the length of it gathered over one shoulder in a low tail bound with a gold band; her eyes were a clear blue, steady, and seemed to be looking at something a long way down the road. She had a calm face and a small smile that came easily and went deep, and she tied her hair back on the training ground the same way her son ties his. At court she wore the long robes of her house, pale blue silk worked with dark blue peonies and edged in gray and white, with gold embroidery at the shoulders and a dark sash at the waist; at the king's side, the red harness of the Samurai of Fate, lamellar lacquered red as old blood and laced in white silk, which she wore six years and left in the white house in the Shiraki hills the night she went into the salt. In the Cuttings she wore whatever a salt-cutter wears, and no name, and no light.
+
+## Equipment
+
+**The red harness of the Samurai of Fate** · lamellar cuirass, shoulder-guards, skirts and throat-guard, lacquered red as old blood and laced in white silk in the dense Byakuya diagonal · Grade A · Legendary · stamp Hallowed · rung Fieldwinner · not bonded · left in the white house in the Shiraki hills the night she went into the salt
+**Look** · small iron scales under coat on coat of lacquer, red for the red line and white for the white that kept it; older than the Seat's oldest records in its pieces, relaced by every Byakuya who wore it · the lacquer is relaid in patches at the breast and the right shoulder, the side she kept toward the room, and the back of it has never needed touching, because in six years nothing got behind her · its one gap is low at the belly, where the lamellar meets the thigh-guards, as in every harness cut to that pattern · how she showed it off: half a step ahead of the king and to his left, in every hall he walked into · what people say: children's stories, and the last of them; Karogane saw her once in it and has said she looked better in it than anyone since
+
+**The guard's blade of the red chair** · a long single-edged blade in a red scabbard · Grade A · Rare · stamp Hallowed · rung Fieldwinner · bonded · about a kilogram and a quarter, a long arm's length, balanced a hand before the guard · proof-mark the Kōkan mark, small, under the grip · with AKAITO it beats Instrument plate and fails against Storied plate · left in the white house with the harness
+**Look** · plain gray-bright steel in a dull red lacquer scabbard with white cord at the mouth; one thumb's worth of wear at the scabbard's lip and none anywhere else that anyone can see · the Hall has no opinion of it, which is the idea: the guard of the red chair is meant to be looked at, and the sword is meant to be over before anyone looks · how she showed it off: not once; the Hall has never seen it out, and her sister has seen it a thousand mornings
+
+**The court robes** · long robes of pale blue silk worked with dark blue peonies, edged in gray and white, gold embroidery at the shoulders, a dark patterned sash, long trailing sleeves · plain · Rare
+**Look** · the peonies are resist-dyed, the gold roundels laid on after; the line's near-white has gone a long way toward blue, and the Byakuya elders have had words about it · she wore them the way she wore everything, as if she might have to run in them; one sleeve has a tear near the hem she has mended herself and badly · she married a king in the older of the two sets, before a lamp, with one witness, and the Hall has never known what it was looking at
+
+**The roll of the guard** · a long hand-scroll backed in dark green silk with a dark purple tassel, every Samurai of Fate entered by name and the oath at its head · plain · Rare · left in the white house with the harness
+**Look** · her name is the last on it, and under her name is a blank line her grandmother ruled and nobody has filled
+
+**The seal-token** · her guard's token, humming on a cord · Grade E · Uncommon · stamp Marked · rung Sidearm · not bonded
+**Look** · a thumb of dark iron with the Byakuya owl on it · a thing that hums can be heard, and she drops it down a dead shaft in the Orrel Cuttings before she has been there a week
+
+**The coat and the band** · a plain dark wool coat big enough to hold a sleeping boy against her, a narrow gold band at the tail of her hair, and whatever a salt-cutter wears after that · plain · Common, except the band, which is Uncommon and goes for bread in the first winter
+**Look** · this is the whole of what she takes, and she packed it some time ago
 
 ## Lore
 

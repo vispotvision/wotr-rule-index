@@ -19,6 +19,7 @@ private: true
 **Aura and sound** · near-white at Principality's clarity, washed through with arterial red at the fringe like red glass held up to the sun, a black-violet seam where Eidolyn runs under it; it reads as pressure before color · sound: a heartbeat from the wrong side of a door, *kung... kung...*, with a fine crystal ticking under it while his constructs form · smell: cold iron and grave soil, then copper
 **Ability** · ANTITHESIS (상극 · Sanggeuk) · tell: light bends toward a point beside him and away from it at once, and the air tastes of struck flint · counter: break his hold on the point, or stay beyond its reach
 **Techniques** · THE FOUNDING · tell: a small Realm unfolds around a boundary and a being with a core of its own stands in it · counter: collapse the boundary / THE BOUND WILD · tell: a seal of his house color opens on the creature's brow · counter: exhaust the creature's own Essence / THE CONSCRIPTS · tell: threads of black-violet run from his chest, and they can be counted · counter: count the threads, cut his line of attention
+**Kit** · a long pleated greatcoat in the olive of the Sum-gol Post, worked in gold lozenges, gold at one ear, no weapon anywhere on him, and the piece people talk about first: the white mantle, Very Rare, whose long guard-hairs show lavender and rose in their shadows
 **Voice** · "The Corwen keep the water. The Lamberts keep the count. We keep the dead. Nobody else would take them." · speaker type: a patient host who has already decided how the evening ends
 **Gloss rights** · unlimited
 **Next gate** · Stage XIV, Zenith. Zenith is not broken into; it is conferred, by recognition from a Hollow Throne, and recognition is the thing his whole life is pointed at.
@@ -137,6 +138,23 @@ He stands turned away and looks back over his left shoulder, as though someone s
 He wears a long greatcoat of olive wool, heavily pleated down the back, a gold-fringed epaulette on the right shoulder, and over the shoulders a great mantle of white fur, long spiked guard-hairs with lavender and rose in their shadows. A gold boss of concentric rings sits at the nape with a finial hanging under it; three linked open lozenges cross the upper back in gold, and a column of gold lozenge plaques runs down the left side over a navy-black underlayer. The coat fits exactly and shows no wear anywhere. He is a man who is never caught out in his clothes. Behind him a white blade of light comes down on the diagonal, fringed pink and green.
 
 **The colors.** The Mahuo colors are vermilion and white. He kept the white and refuses the vermilion, which is the color other houses' armies carried into the field over Mahuo banners. The olive is the coat of the Sum-gol Post. He will wear vermilion again on the day Sum-gol is his by his own hand.
+
+## Equipment
+
+**The white mantle** · great fur mantle over both shoulders · Grade A · Very Rare · stamp Hallowed · rung Fieldwinner · not bonded
+**Look** · long spiked guard-hairs, white, with lavender and rose in their shadows and a warmth at the root like a sleeping animal's · the great beast it came from is alive on his Roster, and the fur is rent, shed each winter under the compact's terms and sewn by the village seamstress · how he shows it off: he tells you about her over dinner, in the present tense, and leaves you to wonder what that means · what people say: a Commission assessor wrote a figure beside it in the file and crossed it out, and the couriers will not brush against it in a doorway
+
+**The Post-Master's greatcoat** · olive wool, heavily pleated, with gold fittings · plain · Rare · no working and no stamp
+**Look** · the same olive every courier on the Sum-gol road wears, at twenty times the cloth; a gold-fringed epaulette on the right shoulder, a gold boss of concentric rings at the nape with a finial hanging under it, three linked open lozenges across the upper back, and a column of gold lozenge plaques down the left side over navy-black, one plaque for each relay stage the Post has opened · no wear anywhere; the village seamstress has taken it in twice this year, with her pins, so that it still fits exactly · how he shows it off: he is never caught out in his clothes, not at dawn and not on the worst night in the house · what people say: the couriers have not been paid in a month and can count the plaques from the sorting tables; they say so quietly · about sixty gold in the gold alone
+
+**The gold at his ear** · a small plain ring at the lobe of the long ear · plain · Uncommon
+**Look** · thin, soft, rubbed oval · it was his mother's, and he will say that she likes where it is
+
+**The table** · low table, an iron pot, and the Sum-gol cups · plain · Rare
+**Look** · cups from the old Sum-gol kilns, gray-green with one small glaze-mark in vermilion, the only vermilion he will set his hand to; eleven are left, and every one is turned a quarter so that the mark faces the guest · how he shows it off: the pot lifted high and the tea falling in a long amber thread, for a boy or a lord alike · what people say: guests who have sat there will tell you the cup was the most frightening thing in the room
+
+**The Post's furniture** · olive ink, brass leg-tubes and rings of olive thread for the crows, a sorting-knife · plain · Uncommon
+**Look** · the ink is his own recipe and the sorting-knife is thin enough to lift a seal and lay it back · what people say: no letter in olive ink has ever been lost, and forging one is the quickest known way to meet him
 
 ## Who He Is
 

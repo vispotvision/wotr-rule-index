@@ -13,6 +13,7 @@
 **Domain** · OTHSAL · the Position Held, a Covenant Domain, the only one in the Midreach Choir's recorded history
 **Traits** · VOW-LIGHT (Inherited) · tell: people near him want to confess · counter: say nothing at all / I DO NOT LET THINGS FALL (Primary) · tell: a hand is already under you · counter: make him choose which of two things to catch / THE BOUND FLAME (Secondary) · tell: he does not stand up · counter: make him stand
 **Signature** · FAIETH · the Thousand Hands · tell: the air fills with gold palms, open, held out · counter: two oaths of equal weight that cannot both be kept
+**Kit** · close plate of pale silver, scratched, dulled and never polished, a line of gold from the throat, a laurel cuff and a chain of gold leaves at one ear, no weapon of any kind, and the piece people talk about first: the Midreach plate, Mythic, which closes on him out of the air
 **Voice** · "I do not stand because I am strong. I kneel, because I must never fall." · speaker type: an eleven-thousand-year-old keeper of oaths who speaks slowly, finishes every sentence, and has never in his existence said a thing he did not mean
 
 ---
@@ -66,6 +67,17 @@ He gave Muken back *Fure*, the Kōkan's old word for shake, taken from the line 
 ## Physical Description
 
 In the place where the threads run he is a shape of light kneeling, the bright places where eyes would be, the great wings standing from his shoulders, broken and mending, and he is so tall that standing he must look down a long way to meet a man's face. When he takes a face to speak to one, it is this: a tall, long-boned man with dark brown skin and a long, still, fine-cut face, the mouth closed, the eyes a burning gold under white lashes and heavy lids, kept half lowered as if out of courtesy. His hair is white, very long and very fine, loose to the small of his back and lifting a little all the time as if a wind came up from below him. A gold cuff worked like laurel leaves climbs the rim of his left ear, and a long gold earring hangs from it in a falling chain of leaves. He wears close plate of pale silver, scratched and dulled with use and never polished, with a high standing collar edged in gold and a line of gold running down from the throat, and nothing on it anywhere that shines but the gold.
+
+## Equipment
+
+**The Midreach plate** · full plate of pale silver: greaves, cuisses, long fauld, breastplate, high standing collar · Grade SSS · Mythic · stamp Found · rung Landbreaker · not bonded · no proof-mark; it was Sung, and no assay has ever been let near it
+**Look** · pale silver gone dull with ages of use, every plate scored and never once polished, a line of gold running down from the throat and gold along the collar's edge, the only things on it that shine · it stands by the window in the Hall of Equilibria when he is not in it, and it is not carried: what has been sworn to a purpose comes when it is wanted, the pieces rising off the stand and closing round him, the collar last, under the jaw · the left shoulder rides a finger low, over the root of the broken wing · no past owners; no one else has ever closed it · how he shows it off: he doesn't, and he wears eleven thousand years of scratches into rooms full of people in gilt · what people say: Sancta Lux pays a bishop's price for any sliver of it, so the shrine-stalls of the south are thick with scratched silver sold as the Bound Flame's, and every piece of it has failed the first person who bet a life on it
+
+**The laurel cuff and leaf chain** · gold ear-cuff and long earring, left ear · plain · Rare
+**Look** · a cuff worked like laurel leaves climbing the rim of the ear, and from it a falling chain of smaller leaves, each one different · the Tally records every oath for eleven thousand years and says nothing about who gave him these, which in the Midreach is a statement · what people say: the Choir's own whisper says Verantha, and nobody in the Choir will say it twice
+
+**The empty rest** · what he carried before the Bell cracked · unrecorded · no Grade, no Rarity
+**Look** · beside the plate's stand in the Hall of Equilibria there is a second rest with nothing on it, and he has not carried a weapon since the Lawbell · how he shows it off: he leaves it empty where anyone can see · what people say: Sancta Lux has eleven theories and a programme for each
 
 ## Lore
 

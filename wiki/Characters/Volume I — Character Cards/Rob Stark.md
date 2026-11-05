@@ -8,6 +8,7 @@
 **Aura and sound** · the Stark cold, a gray with frost at its edges that whitens his beard when he is angry · sound: a man breathing hard through his nose and not complaining
 **Traits** · STARK RIME (Inherited) · tell: frost in his beard · counter: heat / HE'S ALL OF OURS (Primary) · tell: he is standing where the Sarge can't see behind himself · counter: get past the Sarge first / DIDN'T SCREAM (Secondary) · tell: the strap between his teeth · counter: none anybody found
 **Signature** · THE WALL OF ONE · tell: he steps across, not aside · counter: more than one blade
+**Kit** · steel over the shoulders and arms, a dark surcoat worked with the white wolf, a fur mantle you could bed a calf in, and the piece people talk about first: a Rare Hollenmark great sword carried on his shoulder like a spade
 **Voice** · "Tell her. The little surgeon. Tell her I didn't scream this time." · speaker type: a big quiet northern soldier who says almost nothing, and then, once he has decided you are his, will not stop talking
 
 ---
@@ -47,6 +48,23 @@ He steps across, not aside: the big body planted over whoever is down, axe up, l
 ## Physical Description
 
 He is big and rawboned, the kind of big his father is, and going to be broader. His hair is dark and long, pulled back and tied at the nape, with loose strands at the temples; his beard is dark and short and full; his face is long and weathered, with a straight heavy brow, a hard mouth, and dark eyes that look a long way off, like a closed door that might open. He wears plate over his shoulders and arms and a dark surcoat over mail, the long skirts worked with the white wolf of the Starks, a broad belt with a long sword and a dagger in a carved sheath, gauntlets, and a heavy fur mantle over a black cloak; he carries a long northern great sword over his shoulder the way other men carry a spade. A great white wolf walks at his back, red-eyed, the size of a pony.
+
+## Equipment
+
+**The Hollenmark great sword** · long northern two-hander · Grade D · Rare · stamp Proofed · rung Linepiece · not bonded · about three kilograms, balanced a long hand above the guard · proof-mark the Hollenmark smith's stamp · beats mail, fails against Tempered plate
+**Look** · pale gray steel with a long shallow fuller and a guard swept toward the point; the grip wound in black cord and iron wire, the pommel a snarling wolf's head in dark iron · the wire is coming loose on one side where his glove rides it, and he has never fixed it · how he shows it off: he doesn't, and carries a sword most men would have to be helped into on one shoulder, walking, like a man going out to dig; the shoulder of his surcoat is worn through where it sits · what people say: Stark riders say the smith made it for his father and it came out too plain · worth about fifteen gold
+
+**The half-harness** · plate for the shoulders and arms over northern riveted mail · plain plate and plain mail, no working · Uncommon · the plate stops a cut and shrugs a thrust, and the mail turns the cut and not the thrust
+**Look** · bright steel, round-shouldered, with a raised ridge at the neck and a fluted cop at each elbow; riveted mail below it, dark with oil · it fits him now and will not next year, because he is still getting broader · the left elbow was hammered back out by a farrier and shows it · how he shows it off: he keeps it cleaner than anything else he owns
+
+**The white-wolf surcoat and mantle** · long dark gray surcoat split for riding, black cloak, heavy fur mantle · plain · Uncommon · the fur worth more than the steel in a Halcrest winter
+**Look** · the white wolf of the Starks worked in pale thread on the chest and again, long and running, down both skirts, with a band of northern knotwork at the hem; a mantle of thick brown-gray fur laid over the black cloak and wide enough to hide his collar · the hem is frayed and the lower wolf on the left has a dark stain nobody has got out · how he shows it off: the wolf is the whole statement; every man on a northern road knows what it means, and what it costs to fight one
+
+**The side arms** · a long sword and a dagger on a doubled broad belt · plain · Common, except the sheath · the dagger's sheath is Uncommon for the carving alone
+**Look** · oxblood gauntlets and a double belt of dark leather with iron buckles; the sheath carved from throat to tip in Hollenmark knotwork, the only pretty thing he carries, and he has never said who gave it to him
+
+**The working tools** · a bearded axe, a limewood shield and a boar-spear from the road · plain · Common · the axe and shield are what he actually fights with when someone is down behind him
+**Look** · the shield is scarred pale wood with a rim of rawhide and no device left on it, and the spear's crossbar is notched with a soldier's count he does not explain
 
 ## Lore
 

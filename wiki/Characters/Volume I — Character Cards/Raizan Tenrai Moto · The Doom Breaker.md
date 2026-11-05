@@ -10,6 +10,7 @@
 **Releases** · KAMIKAKUSHI (First Release) / HITSUZEN (Second Release) · bonded weapon: the Last Thread, a needle-blade
 **Traits** · THE BLINK (Primary) · tell: a whole room blinking at once · counter: many eyes, or none / DOOM-BREAKING (Secondary) · tell: he watches a man for a full minute, without blinking himself · counter: be unpredictable, or stand under a stronger eye / TENGAN (Inherited) · tell: spokes in the iris · counter: a ward that returns the read / HUSH (Passive) · tell: dogs do not bark · counter: one angle he did not plan for
 **Techniques** · ONE NEEDLE · tell: his breath stops for three heartbeats · counter: a stiff high collar or a mail gorget at the nape / KINGSTEP OF THE WINNING THREAD · tell: his steps land where your next step would have gone · counter: stand still / RUINOUS COINFALL · tell: small things fall in the room · counter: own nothing loose
+**Kit** · a high-collared navy-black coat banded in dull gold that everyone takes for a physician's, a long gold knotwork clasp at the throat, a black lacquer cigarette tin, a traveling go board, and the piece people talk about first and almost nobody has seen: the Last Thread, a Legendary needle-blade in his left sleeve, the reason every lord in the north wears a collar
 **Voice** · "You were always going to die this morning, my lord. I have only come to make sure of it." · speaker type: a retired court physician delivering a diagnosis he has delivered many times before
 **Next gate** · Stage X, Realization · Catalyst: his Domain achieving Continuum accommodation · Band gate: Stage X before Level 300 · Front: his own last morning, which he can see, and which comes a little closer with every doom he breaks
 
@@ -168,9 +169,23 @@ He is an old man, and looks it, and that is the first thing anyone is meant to s
 
 ## XV. Equipment
 
-**The Last Thread** · needle-blade of gray Tenrai steel, the length of a hand, in a slim sheath sewn into the left sleeve · Item Tier Storied · rung Kingsarm · a few grams · proof-mark a single Tenrai hawk cut where the needle meets the grip · bonded; it carries KAMIKAKUSHI's hush
-**The knotwork clasp** · gold, northern work, plain · no working; a dead wife's wedding gift
-**A go board and stones** · traveling set, slate and shell · no working
+**The Last Thread** · needle-blade of gray Tenrai steel, the length of a hand, in a slim sheath sewn into the left sleeve · Item Tier Storied · rung Kingsarm · a few grams · proof-mark a single Tenrai hawk cut where the needle meets the grip · bonded; it carries KAMIKAKUSHI's hush · Grade S · Legendary · balanced at the fingertips · beats mail rings, leather and bone at the point, and any plate with a gap in it; fails against a stiff boiled-leather collar or a mail gorget at the nape
+**Look** · unpolished gray steel with no edge at all, ground and reground until it is finer than any needle a surgeon would trust and shorter than it began; a grip of gray cord no thicker than a quill; the sheath stitched in behind the left cuff, felt-lined so that it says nothing · how he shows it off: he never has, and the north shows it off for him; there are collar-makers in three cities who owe their houses to this needle, and a boiled-leather collar with a Kessen maker's mark runs two gold · what people say: that it was handed to him at nineteen with a name and a night, which is true; the chair that issued it has never said whose it was before; soldiers swear it has killed a thousand, and he has never corrected a number
+
+**The knotwork clasp** · gold, northern work, plain · no working; a dead wife's wedding gift · Rare
+**Look** · a long narrow fall of interlaced gold, collar to breastbone, the high points worn soft where his thumb goes when he is reading someone · the one bright thing on him and the one thing on him that is not Moto · how he shows it off: he doesn't take it off · what people say: northern smiths can usually name a family from its knotwork, and three have looked at this one from across a room and gone quiet
+
+**A go board and stones** · traveling set, slate and shell · no working · Uncommon
+**Look** · a hinged board of old kaya gone the color of tea, two bowls in black lacquer, one chipped at the lip · how he shows it off: he sets it up in plain view and lets a house take him for a harmless old man playing against nobody · what people say: more than one lord has been found dead at his own board, and the north has gone off the game
+
+**The coat** · high-collared, deep navy-black wool, close at the throat; the collar banded in dull gold, a thin gold edge down the front; the Tenrai in its plainest form · plain · Rare
+**Look** · Tenrai house tailoring, with a thin gray-brown wool mantle over the shoulders and no fur at all; the left sleeve cut a shade fuller to carry the sheath; the gold is thread, dull because he has never had it cleaned; elbows darned in the same navy by someone patient · no boss, as the Tenrai wear none, and the only banner on him is a thumb's length of gold hawk-heraldry worked inside the collar, against the nape, where nobody will ever see it · how he shows it off: the man who made the whole north wear a collar wears one too, and nobody has decided whether that is fashion or a joke · what people say: the old man in the physician's coat, who comes at breakfast and is gone by the second cup
+
+**The servant's gray** · a plain gray house-coat and soft-soled shoes, whichever a house's own servants wear · plain · Common
+**Look** · he wore it first at nineteen at the back of the Hall of Verdicts; he owns no particular one and leaves none behind · what people say: "the gray thread," among Kharven soldiers, who say you only see him in the corner of your eye
+
+**The cigarette tin and the ash dish** · a small tin in black lacquer with a gold crane on the lid, a dozen thin paper-rolled cigarettes and a fold of waxed matches inside; a little bronze dish that stays by the board · plain · Uncommon
+**Look** · the tin shuts tight enough to stay dry in a river · how he shows it off: he lights one in front of a man and lets him think an old man is taking his time; it burns down in a little over a minute, which is what DOOM-BREAKING needs, and the people who have worked out that it is a clock are mostly dead
 
 ## XVI. Temperance Record
 

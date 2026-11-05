@@ -8,6 +8,7 @@
 **Aura and sound** · a faint bronze sheen, the color of a well-handled seal-token · sound: the hum of a sound contract, a steady note just under a lamp's hiss
 **Traits** · READS THE BELT (Primary) · tell: his eyes go quickly and openly to your belt before your face · counter: wear no token, or a token that tells him nothing / THE OLDEST CONTRACT (Secondary) · tell: his thumb runs once round the rim of his token · counter: ask him what the contract costs, not what it pays
 **Signature** · none; the Vessant house's seal and purse do his work
+**Kit** · a long dark traveling coat cut close, oiled boots, ink on one finger, no knife, and the piece people talk about first: the Uncommon bronze Vessant token on his belt, which has not missed its note in thirty-one years
 **Voice** · "I'll be frank, since your surgeon seems determined that I should be." · speaker type: a factor-house agent and contract clerk, courteous, exact about money and vague about the dead
 
 ---
@@ -39,6 +40,17 @@ Thirty-one years of a sound contract have bound his Attraction to the Vessant ho
 ## Physical Description
 
 He is younger than the job makes him sound, with a long, even face, a straight nose and a level mouth, and brown hair worn thick and untidy, pushed back and falling forward again across his brow. His eyes are a clear green and steady, and they go to your belt first. Ink stains the second finger of his right hand, the scribe's mark, though he has none of the scribe's stoop. He wears a long dark traveling coat with a high collar, cut close and lined with something soft at the throat, the snow still on its shoulders when he comes in from the street, and oiled boots; on his belt, where a fighting man would wear a knife, a bronze Vessant seal-token the size of a large coin on a short chain, humming faintly for as long as the contract holds.
+
+## Equipment
+
+**The Vessant token** · bronze seal-token on a short chain · Grade E · Uncommon · stamp Marked · rung Sidearm · not bonded · proof-mark the Vessant house seal
+**Look** · a large coin's worth of dark bronze, the house's river-and-timber mark on one face and the contract's number on the other, its rim worn bright and thin by his thumb and by the thumbs of the two agents who held it before him · how he shows it off: he wears it where a fighting man wears a knife, and in a room of humming belts he lets you notice which note is oldest · what people say: Halcrest factors will tune an ear to it the way a choir takes a pitch, and it has been stolen twice by men who thought it would hum for them · the bronze is worth eleven copper, and the paper behind it is worth the street
+
+**The Halcrest coat** · long dark traveling coat with a high collar · plain · Uncommon
+**Look** · close-woven wool the color of wet bark, cut narrow by a good Nalūn tailor, a thin line of pale gray piping down the collar and the front, soft squirrel lining at the throat, and an inner pocket buttoned for paper · a small ink stain on the lip of that pocket and a darker one inside the right cuff · how he shows it off: he doesn't take it off in anyone's room, and he brushes the snow from it after he has sat down · what people say: the house pays for it, because an agent has to look solvent even when the contract isn't · about two gold
+
+**The working things** · brass pen-case, ink-horn, wax, a block of paper slips, oiled boots, a good plain belt with an empty frog · plain · Common · the pen-case Uncommon
+**Look** · the pen-case is scuffed and exact, every nib in its slot; the empty frog on the belt is the only flex he allows himself, a place for a knife with nothing in it · what people say: Lanternless soldiers say that pen has killed more men on the Vessant road than the goblins, by the slip of paper it drew
 
 ## Lore
 

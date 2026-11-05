@@ -38,6 +38,8 @@ The Starks carry an ice-aspected bloodline inheritance that predates the Moto an
 
 Their mount tradition is the **Dire Icebear**, an enormous polar ursid whose white fur carries a permanent frost dusting and whose temperament is exactly what the name implies. Nobody has ever domesticated an Icebear; the arrangement is a partnership. A Stark rides one because the bear has decided to permit it, and the permission is withdrawn the moment the rider stops being worth carrying, and the withdrawal is not gentle.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Stark|House Stark]].*
+
 ## 2. House Greymane
 
 **Realm:** [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Slate Ridge of Stormfold|The Slate Ridge of Stormfold]]
@@ -56,6 +58,8 @@ The north's defensive architecture in human form. Their seat is a fortress built
 
 Greymane culture is military to the point of institutional. Children are raised to see themselves as components of a defensive structure rather than individuals with personal ambitions; the ones who reject the framing leave, and the ones who stay become the most reliable garrison troops in the Inner World. The Shieldwarden is addressed by title rather than name because the function matters more than the person, and the house has internalized this deeply enough that the personal name of the current Shieldwarden is known within the family and almost nowhere else.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Greymane|House Greymane]].*
+
 ## 3. House Ashmore
 
 **Realm:** [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Golden Hollow of Ashbury|The Golden Hollow of Ashbury]]
@@ -71,6 +75,8 @@ Greymane culture is military to the point of institutional. Children are raised 
 The least martial house in a martial kingdom and the most quietly dangerous. Their power is grain. Their leverage is the specific kind that comes from controlling what everyone else needs to survive the winter, and the Ashmores have never lost a negotiation with anyone who was hungry, which in the north means they have never lost a negotiation.
 
 The house governs through a steward's competence rather than personal combat capability: soft voice, clean hands, and the danger that comes from knowing exactly how many bushels each Banner House needs to survive December and being willing to adjust the allocation on political grounds. The Ashmores do not threaten. Threats are for houses whose leverage requires explanation. Ashmore leverage explains itself every time the temperature drops. Oaths in the Hollow are sworn with the hand flat on the junction stone below Ashbury, and the Hollow believes the stone holds them.
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Ashmore|House Ashmore]].*
 
 ## 4. House Thornwall
 
@@ -88,6 +94,8 @@ Merchant-warriors, comfortable with commerce in a way most northern houses find 
 
 When the Ore Council of Marrowhold cuts grain supply but keeps sending inscription stock, the Thornwalls notice first, because they have tracked the holds' trade behavior for generations and know the difference between a shortage and a message. Their standing reading of the Ore Council's supply decisions is that they are political rather than logistical: the Marrowkin are comfortable with an armed frontier buffer and uncomfortable with an independent one, and the grain cut is a statement about the limits of northern autonomy rather than a reflection of the holds' capacity. The reading is correct. The Thornwalls are almost always correct about trade, which is why the other houses find them slightly irritating.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Thornwall|House Thornwall]].*
+
 ## 5. House Keld
 
 **Realm:** [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Aurora Reach of the Keld|The Aurora Reach of the Keld]]
@@ -101,6 +109,8 @@ When the Ore Council of Marrowhold cuts grain supply but keeps sending inscripti
 **In 715:** Old Harald leads the fires, and his grandson is coming up behind him fast
 
 The smallest house, the hardest people, and the most conditionally loyal. They live beyond the treeline in conditions that would kill members of any other house inside a week and that the Keld consider baseline. A Keld fighter raised on the Polar Reach has already survived conditions that would kill the enemy before the fighting started, and the fighting itself is an afterthought beside the surviving. They swear to a person, never to a letter or a house, and only to one who comes out onto the tundra and sits at their fires.
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Keld|House Keld]].*
 
 ## 6. House Hallenfeld
 
@@ -117,6 +127,8 @@ The smallest house, the hardest people, and the most conditionally loyal. They l
 The north's nervous system. They hold the junction where the three principal roads meet: the eastern route toward the March and the corridor to Marrowhold, the northern route toward the Polar Reach, and the southern route down to Ashbury and the Center. Whoever holds that junction controls the speed at which the north can respond to anything.
 
 The Hallenfelds have no glamour and produce no legendary warriors or political masterminds. They produce quartermasters, road engineers, courier captains, and the category of administrator who understands that a message delivered six hours faster can save a thousand lives and treats the six hours as a problem worth solving with the intensity other houses bring to swordwork.
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Hallenfeld|House Hallenfeld]].*
 
 ## The Six at a Glance
 

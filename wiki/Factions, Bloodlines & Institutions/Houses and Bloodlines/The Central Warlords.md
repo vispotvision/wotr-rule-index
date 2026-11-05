@@ -38,6 +38,8 @@ Each of them, for reasons of its own, likes it. A people the Accord would classi
 
 A nation of wetland orcs who treat death as a phase, and who cannot leave. More than two days from swamp or kin a Verdant Orc begins to wither, and so the Court has never in its long history taken a yard of anyone's land. It has simply kept every army that tried to use its causeway, in rows, and sold the fruit. To a passing general this is the safest neighbor in the world up to the moment he decides to save eleven days.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/The Moss Court|The Moss Court]].*
+
 ## 2. House Scalebond
 
 **People:** Serpentkin
@@ -55,6 +57,8 @@ A nation of wetland orcs who treat death as a phase, and who cannot leave. More 
 **Colors:** Rose and gold
 
 A country of gold-scaled scholars and surgeons, with a stair and a posted price. Every commander of means has a Scalebond at his bedside and has made his peace with the fact that the other side has one too. They take no side and forget nothing, and their testimony is admitted everywhere it can be afforded and treated as anecdotal by the Accord, which then asks them for the answer. The great powers know of them mainly as a surgeon's fee, which is the least frightening way to know them.
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Scalebond|House Scalebond]].*
 
 ## 3. House Caelward
 
@@ -74,6 +78,8 @@ A country of gold-scaled scholars and surgeons, with a stair and a posted price.
 
 A house that keeps order among a dozen schools run like football clubs, and that has never been the strongest on its own mountain. It holds the hoists, the Core's hours and the court of the Drop, and it sells the wind to whoever pays. Half the battles of the center have been timed off a Windstair almanac by someone who has never heard the name of the people who wrote it. The Peaks consider this a healthy arrangement, and their real enemy is whichever club beat them on Saturday.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Caelward|House Caelward]].*
+
 ## 4. House Nobody
 
 **People:** Catkin, Wolfkin and Bearkin runaways
@@ -91,6 +97,8 @@ A house that keeps order among a dozen schools run like football clubs, and that
 **Colors:** Russet and gold
 
 This is usually the one the man in the tavern forgets, and I have met people in that forest who bought a round on hearing so. Anonymity for the others is a preference. For House Nobody it is the law of the land: it keeps no list, because a list can be stolen, and the people on it can be found. A correction to the Accord's roll of 668 has been pending for nearly fifty years, since it must be served upon the party concerned.
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Nobody|House Nobody]].*
 
 ---
 

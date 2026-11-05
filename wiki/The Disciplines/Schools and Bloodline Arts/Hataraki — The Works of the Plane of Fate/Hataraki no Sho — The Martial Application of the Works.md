@@ -242,7 +242,7 @@ A war is the largest structure most of you will ever be asked to read, and it is
 
 Therefore:
 
-Read for a season before you spend a drop. The Khökh-ke know this and the rest of you should be embarrassed to be told it. Most of what you will call victory is marching to the right place on the right day, and arithmetic.
+Read for a season before you spend a drop. The Tenrai know this and the rest of you should be embarrassed to be told it. Most of what you will call victory is marching to the right place on the right day, and arithmetic.
 
 Find their Fate users first. Before their champions, before their general, before you have had breakfast. A single old woman in the baggage train can undo a season of your work with one thing going wrong at the ford, and she is thinking the same about you.
 
@@ -260,13 +260,13 @@ Seven great lines of the Moto, expressing one inheritance in seven recognizable 
 
 | Line | Temperament |
 |---|---|
-| **Tsagaan-ke** | Expose. |
+| **Byakuya-ke** | Expose. |
 | **Shirogane-ke** | Punish structure. |
 | **Akagane-ke** | Enter the interior and make it answer. |
-| **Ulaan-ke** | Excel in contradiction and punitive soul-law. |
-| **Khökh-ke** | Command the next turn before lesser generals realize a turn has begun. |
+| **Kurenai-ke** | Excel in contradiction and punitive soul-law. |
+| **Tenrai-ke** | Command the next turn before lesser generals realize a turn has begun. |
 | **Amagiri-ke** | Master route, delay, evasion, and mist-like asymmetry. |
-| **Kokan-ke** | Nearest the crown-function. Too often resemble judges born without the useful softening of uncertainty. |
+| **Kōkan-ke** | Nearest the crown-function. Too often resemble judges born without the useful softening of uncertainty. |
 
 *I do not consider this a flaw.*
 

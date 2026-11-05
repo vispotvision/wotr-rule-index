@@ -58,6 +58,8 @@ They came through the war harder than anyone in the north knows. The Zettari str
 
 In the south they are the house everybody wants at the table and nobody wants watching them across it. A Yukari reads a room the way a cartographer reads a coastline, and the warlords who have sat in the Cedar Enclave come out of it describing the same feeling: of having been measured, comprehensively, without hostility, by someone who will remember the measurement for the rest of their lives.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Yukari Bloodline|The Yukari Bloodline]].*
+
 ## 2. House Mahuo, the Mahou Line
 
 **Seat:** Sum-gol, *vacant*
@@ -79,6 +81,8 @@ Once the richest seat in the south, and for three hundred years the throne of al
 The war ate them. Their name was carried at the front of other people's armies until there was nothing left of it but the carrying; the Moto put Mahuo banners over Moto columns, the Yukari and the Zettari each fought under the excuse of protecting them, and when the time came the house was destroyed. **Every one of the three tells it differently.** The Yukari say the Moto stood back and let the Yukari slaughter them, because a house turned into a symbol is very easy to kill and nobody weeps for a symbol. The Moto blame the Yukari. Kushara blames them both. *All three are right about the other two.*
 
 What is left is a post. The Mahuo post at Sum-gol still keeps its crows and its couriers, and every letter between the north and the Yukari valleys goes through it; Ulf Stark's last crows south went that way. A house that was a crown now carries the south's letters, by crow and relay rider, and carries them so well that nobody has thought to ask who is paying the couriers, or whom they answer to, or what a summoning line does with its arts when it has no hall left to call them into. The chair at the warlords' table is kept for Sum-gol. **It is the only one with nobody sitting in it, and every other house at the table has a reason to want it filled by somebody in particular.**
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Mahuo Family|House Mahuo]].*
 
 ## 3. House Lambert
 
@@ -104,6 +108,8 @@ There is an older thing in the blood that the house does not discuss. A great ma
 
 Lamberts travel. Cadet branches have gone north on the Sea's business for generations and stayed: **Osbert Lambert**, tariff-master at the Hallenfeld junction, kept the ledger of Tenrai grain diverted from the starving provinces and sent a fair copy north, which is about as Lambert a thing as a man can do.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Lambert|House Lambert]].*
+
 ## 4. The Yan Hall
 
 **Seat:** Qingyuan, on the Grey Plain
@@ -125,6 +131,8 @@ A lineage hall in the old southern style, with ancestral tablets nine rows deep 
 That last column is the Yan's real stock in trade. **They sold to everyone in the war.** Ashmore's big southern horses were Yan horses; so were the Tenrai's. The Hall-Master can tell you which side bought how many remounts in which season, which is to say which side was expecting to lose cavalry, and when. *The Yan take orders, in both senses, and never a side.*
 
 Their own horsemen are few and superb, archers who shoot from the saddle at the full gallop, turning in the stirrups, with the gray horses running flat out under them like water poured downhill. When the Yan ride out in force, it is to make sure a buyer has paid.
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/The Yan Hall|The Yan Hall]].*
 
 ## 5. House Ryu
 
@@ -148,6 +156,8 @@ Haeseong is the brightest city in the south: white walls, green copper roofs, a 
 
 They will be the first house to object if anybody restores the Mahuo royal line at Sum-gol, and the last to object out loud. Admiral-Lord Ha-eun sat at the Cedar Enclave and heard Naiser Yukari promise exactly that, and smiled, and asked a very good question about harbor dues.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Ryu|House Ryu]].*
+
 ## 6. House Corwen
 
 **Seat:** Brightwater, at the head of the spring country
@@ -170,6 +180,8 @@ Their trouble is the water. **Since the war the springs in the south have gone b
 
 Maud Corwen is a big, cheerful, sharp-eyed woman who knows the lease terms of every spring in the south by heart, and who has never in her life been seen to drink the water.
 
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Corwen|House Corwen]].*
+
 ## 7. House Marrick
 
 **Seat:** Hammerford, on the Long Fields
@@ -191,6 +203,8 @@ The north fights in knots and wedges and long Keld lines that move like weather.
 Half the southern hosts in the war had Marrick companies at their center, and some years both halves. The house considers this a professional courtesy. A Marrick company fights for its contract to the last day of the season and not one day past it, and has been known to finish a battle at noon on the day its contract ran out by grounding spears in the middle of the field and walking home through both armies, unharmed, because both armies would be hiring next season.
 
 Gerrit Marrick is sixty, loud, scarred, very funny, missing an ear, and the only warlord in the south who has fought in every war of the last forty years on at least two sides. He says the north never understood the rank. *"You stand in it because the man on your left is standing in it, lad. Brave's got nothing to do with it."*
+
+*The full codex: [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Houses of the Inner World/House Marrick|House Marrick]].*
 
 ---
 

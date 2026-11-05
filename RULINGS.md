@@ -3755,3 +3755,9 @@ Context: Replaces Natalie's suggestion of a separate class of bought body Traits
 Isaac, 2026-11-05: "yeah traits ARE exactly how they are on file. but they can be leveled and refined in the same way skills and techinques are traits actually grow with your overal level and skill". Traits stay as the wiki has them. They can be leveled and refined the same way skills and techniques are, and they grow with a practitioner's overall Level and skill. Any agent ruling from tonight that reshaped Traits beyond this yields to what is on file.
 
 Context: Governs the coming rewrite of The Trait System, The Ladder and the Draft and The Common Drafts. Essence Drafts and tempering feed this growth.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "You can actually create a Fate Essence Draft however it's extremely hard and very coveted considered 'Master Works'". A Fate Essence Draft can be made. It is extremely hard to make, very coveted, and counted among the Master Works.
+
+Context: Goes into the Drafts and items rewrite. Natalie's earlier suggestion that Fate could not be bought is withdrawn.

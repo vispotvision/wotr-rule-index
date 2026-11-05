@@ -545,7 +545,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 **Freshet.** The edge of a concentration, where the field is altered persistently and the alteration stays after the flow that made it. Streets read wrong on every instrument and wrong to the people in them. **Children awaken early here, and Traits appear in families that were never screened.**
 
-**Millrace.** A true Active Concentration. Wild ground shows altered terrain, Spirit ground produces physiological or psychological change the visitor did not choose, Medium ground produces both at once. **A practitioner who stays too long receives Wellspring Baptism (a Wellspring's forced realignment of the soul) whether they wanted it or not**, and sustained residence here or above leaves a Trait by Wellspring Convergence in anyone, Crystal or no Crystal.
+**Millrace.** A true Active Concentration. Wild ground shows altered terrain, Spirit ground produces physiological or psychological change the visitor did not choose, Medium ground produces both at once. Fate ground shows neither: luck goes strange, oaths bite, and strangers keep meeting. **A practitioner who stays too long receives Wellspring Baptism (a Wellspring's forced realignment of the soul) whether they wanted it or not**, and sustained residence here or above leaves a Trait by Wellspring Convergence in anyone, Crystal or no Crystal.
 
 **Riptide.** A concentration at its densest, where the Aether pulls the visitor toward the core and the comfort points the wrong way. **At this rung the window between Spirit-type onset and commitment is measured in seconds**, and the Veil has begun to give.
 
@@ -565,7 +565,8 @@ The rung says what was paid to put the thing on the field. It does not say what 
 |---|---|---|
 | **Wild** | the body and the ground | **generous**: the anomalies are legible before they are dangerous, at every rung |
 | **Spirit** | the Crystal, and not to the conscious mind | **seconds** at Millrace and Riptide; **none** at Whirlpool and above |
-| **Medium** | both at once, and neither is trustworthy | **the worst of the three**; the visitor has lost the reference frame and needs an observer outside the radius |
+| **Fate** | the run of events, and only to someone keeping count | **none in the moment at any rung**; body and instruments read normal, and the one thing that reads this ground is a written log kept over days |
+| **Medium** | all of it at once, and none of it is trustworthy | **the worst of them**; the visitor has lost the reference frame and needs an observer outside the radius |
 
 **Force: whether the site recognizes or takes.** A site under clean Attraction Force reads the Crystal and either permits harmonization or ignores the visitor. **A site under Obsession Force takes, compatible or not, and stands one rung higher than its density**, because the output that held against Aether that asks does not hold against Aether that pulls.
 
@@ -581,13 +582,13 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 | Site | what is recorded | type | **rung** |
 |---|---|---|---|
-| **The old districts of the Old World** | ambient saturation low to moderate, locally depleted around the old districts | by Family | **Trickle** |
-| **The interior of the Southern Pan** | ambient saturation low; Aether-exhausted ground; no array trade | by Family | **Trickle** |
-| **The Northern Shield** | ambient saturation high and steady; the arrays run off it; felt behind the eyes within a day | by Family | **Rill** |
-| **Yasoshima** | moderate, and the most stable saturation recorded anywhere; nothing drifts | by Family | **Rill**, stable |
+| **The old districts of the Old World** | ambient saturation low to moderate, locally depleted around the old districts | by its Wellspring | **Trickle** |
+| **The interior of the Southern Pan** | ambient saturation low; Aether-exhausted ground; no array trade | by its Wellspring | **Trickle** |
+| **The Northern Shield** | ambient saturation high and steady; the arrays run off it; felt behind the eyes within a day | by its Wellspring | **Rill** |
+| **Yasoshima** | moderate, and the most stable saturation recorded anywhere; nothing drifts | by its Wellspring | **Rill**, stable |
 | **The residue streets of a slow vein** | residue accumulating where flow is slow; a persistent alteration to the field; Crystal awakening at abnormal ages and Trait incidence in long-settled families | Spirit, by symptom | **Freshet** |
-| **The deep galleries of a worked vein** | densities that would be recorded as an Active Concentration in open country; worked for careers by unscreened vein-men | by the vein's Family | **Millrace** |
-| **The Heart Vault**, the Concord Citadel | a Wellspring Core | by Family | **Fountainhead** |
+| **The deep galleries of a worked vein** | densities that would be recorded as an Active Concentration in open country; worked for careers by unscreened vein-men | by the vein's Wellspring | **Millrace** |
+| **The Heart Vault**, the Concord Citadel | a Wellspring Core | by its Wellspring | **Fountainhead** |
 | **The Crevice margin**, inside the four-league line | saturation violently irregular; the rock stops obeying the ordinary rules; Grimbarite crews work it and their mortality is not published | not classified | **Gyre** |
 | **The Crevice**, Crevice Shale | a T9 material and the most extreme Object Wellspring in the register; forbidden to move, hold or trade | object | **Chasm** |
 
@@ -595,7 +596,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 
 ## Counterplay
 
-**The rung tells an opponent how strong they must be to fight on this ground and still be the one fighting.** A Millrace is survivable for an afternoon and not for a season; a Whirlpool gives a Spirit-type onset no warning at all; a Fountainhead rewrites anyone below its rung who stays. The type says which sense to trust on the way in, and the perimeter is marked from outside: **withdrawal is not retreat, and a fight drawn onto ground a rung above one side's Grade is half won before it starts.** Which side that is depends on who read the site first.
+**The rung tells an opponent how strong they must be to fight on this ground and still be the one fighting.** A Millrace is survivable for an afternoon and not for a season; a Whirlpool gives a Spirit-type onset no warning at all; a Fountainhead rewrites anyone below its rung who stays. The type says which sense to trust on the way in, or on Fate-type ground that none of them can be, and the perimeter is marked from outside: **withdrawal is not retreat, and a fight drawn onto ground a rung above one side's Grade is half won before it starts.** Which side that is depends on who read the site first.
 
 ## The Weapons and armor ladder
 

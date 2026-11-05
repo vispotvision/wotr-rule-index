@@ -30,7 +30,7 @@ One higher configuration at a time: stacking a second body-morph art forces a co
 
 The Inflationists think strength is supply pumped down the nerves, so they defer long and read smoothness as headroom. Hill's law makes them fast and weak, the debt repays six for two, and their masters are their longest holders.
 
-**Cost.** Eight percent of reserve an ignition, then microfractures and Essenced muscle fatigue in full at second eighteen, permanent if not healed.  
+**Cost.** Eight percent of reserve an ignition, then microfractures and muscle fatigue in full at second eighteen, permanent if not healed.  
 **Counter.** Decline the exchange until the clock runs out, or land massive blunt trauma mid-spread and let the whole debt fall on him early; Judicium dampeners and Verdantia stabilization are the taught answers.
 
 **What nobody knows.** Whether the debt Ascensio defers is ever smaller than the peak it avoided, or whether the technique's real trade is timing rather than total cost.

@@ -89,7 +89,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 
 ### Barkstone Tally
 
-*The Cask Line · the working hand* · **plate 03 available**
+*The Cask Line · the working hand* · **plate 03**
 
 **A knife on a cask stave cuts with the grain or it splits the stave**, so the Barkstone hand gave up on the second dimension entirely. The whole path collapses onto one stem **and every turn in it becomes a barb cut off that stem**: above it, below it, or straight across. *It reads downward, the way a stave stands.*
 > **The trap is that the barb angles are not decoration. They carry duration**, which in a brewing hand is the load-bearing quantity, and a Grand Brewmaster reading a forty-year cask ledger **is reading time off the slant of the cuts.**
@@ -147,7 +147,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 
 ### Florwyndic Songscript
 
-*Eressean · the binding hand* · **plate 08 available**
+*Eressean · the binding hand* · **plate 08**
 
 **The rail is drawn first.** One unbroken horizontal stroke across the whole line, **and every glyph after it hangs beneath that stroke rather than standing on a baseline.**
 > **The rail is the Authorization clause (the part of a working that names its lawful channel) for the entire sentence**, which is why nothing written under a broken rail carries force, **and why an Eressean scribe who lifts the pen mid-rail begins the page again.**
@@ -177,7 +177,7 @@ The inversion is **constructed rather than drifted**, which means it is applied 
 
 ### Cold Parunic
 
-*Echo Elf · the hand without a hand* · **plate 11 available**
+*Echo Elf · the hand without a hand* · **plate 11**
 
 Quantizes the Parun path onto **a fixed grid of cells.** Every glyph occupies the same count of cells. **No cursive form, no ligature, no personal hand, no flourish, and no permitted variation of any kind between one scribe and the next.**
 > **A treaty that can be written two ways can be recited two ways**, and the Echo Elf position is that **a peace which has to be interpreted will eventually have to be refought.**
@@ -234,12 +234,12 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 
 ## The Method
 
-*Workbook. How the plates are generated, so the system scales rather than being drawn.*
+*Workbook. How the Division rules its plates, so that no form has to be drawn from nothing.*
 > The lattice is the **5×5 kamea of Mars, constant 65.** Each of the fourteen Archons reads that lattice **from a different station**: one of the eight dihedral symmetries plus a cyclic value-shift.
 >
 > **A glyph name reduces letter by letter to lattice cells, and the path traced between those cells is the glyph.** Class, Family and Wellspring are **inflections laid on that path rather than redrawings of it.**
 >
-> **No glyph was drawn by hand.** *Which means the system scales: name a new spell and its written form already exists in every one of the fourteen hands.*
+> **No glyph is drawn by eye.** *Which means the method never runs out: name a new spell and its written form already exists in every one of the fourteen hands.*
 
 ---
 

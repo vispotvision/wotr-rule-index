@@ -155,12 +155,12 @@ flowchart TD
     A["ARCHONIC LAW<br>the conceptual forces that give phenomena their meaning"]
     W["WELLSPRING LAW<br>behavior of the sixty Aethers and the Essence refined from them"]
     T --> A --> W
-    W --> X["Spells · Domains · Soul Crystal mutations<br>Wellspring Paths · godlike abilities"]
+    W --> X["Spells · Domains · Soul Crystal mutations<br>Wellspring temperings · godlike abilities"]
 ```
 While Titanic Law governs the geologic and cosmic architecture of the Realms, and Wellspring Law governs the behavior of Aether and of the Essence a Soul Crystal refines from it, Archonic Law governs the conceptual forces that give those physical and energetic phenomena their meaning. Memory, desire, balance, dream, motion, stillness, insight, harmony, form, time, space, will, life, and death are abstract ideas and **operational principles** at once, each one administered by a sovereign intelligence, each one expressing itself through the metaphysical grammar that practitioners access via Temperance growth, Wellspring attunement, and Soul Crystal alignment.
-> All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must take their permission from one of these three cosmological strata. No magic exists outside the lattice that Omnara's Division created and that the Three Epochs and Fourteen Archons sustain.
+> All spells, Domains, Soul Crystal mutations, Wellspring temperings, and godlike abilities must take their permission from one of these three cosmological strata. No magic exists outside the lattice that Omnara's Division created and that the Three Epochs and Fourteen Archons sustain.
 
-Most if not all of the Fourteen are Sovereign across all three planes: the Physical, the Soul and the Plane of Fate. They are not equals for it, and the banners at Saltash are arranged with some care. On the Plane of Fate above all, where they are the laws as well as the powers, [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos|Urion and Uurgath]] have no peers among the rest.
+Most if not all of the Fourteen are Sovereign across all three planes: the two lower realities, Physical and Soul, and the Plane of Fate above them. They are not equals for it, and the banners at Saltash are arranged with some care. On the Plane of Fate above all, where they are the laws as well as the powers, [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos|Urion and Uurgath]] have no peers among the rest, because what they are cannot be conceived. So nobody who reaches up there is reaching into an empty room. A thread pulled down from that height may turn out to be somebody's, and it is possible to be noticed, and that is one more reason it is never done lightly.
 
 ### Two triads, and why they are not the same triad
 

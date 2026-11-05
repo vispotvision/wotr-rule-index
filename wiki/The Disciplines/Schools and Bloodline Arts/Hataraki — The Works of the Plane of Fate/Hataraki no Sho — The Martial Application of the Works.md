@@ -49,8 +49,28 @@ There is a particular kind of misunderstanding observed in younger beings, and *
 They imagine that power begins in hunger. It does not. **Power begins in function.**
 
 A starving wolf may possess appetite, but appetite alone does not teach the teeth how to close, nor the sinew how to tighten, nor the blood how to obey the stress of the leap. In like fashion, the novice who first beholds Hataraki mistakes it for magnitude. He feels the pressure of it. He sees the world bend around it. He watches a name become binding, a wound become verdict, a battlefield become grammar, and concludes, with the special stupidity reserved to the gifted, that Hataraki is simply a superior magic.
-> Hataraki is not superior because it is larger. **It is superior because it is prior.** The world did not begin with explosions. It began with assignments. What should endure was given the means to endure. What should collapse was given the right to fail. What should pass from life into death was given a lawful crossing. What should be known was given the condition by which it might become intelligible.
+> Hataraki is no larger than other magic and no better, as any fool with a hammer will teach you if you stand close enough, **but it is prior.** The world did not begin with explosions. It began with assignments. What should endure was given the means to endure. What should collapse was given the right to fail. What should pass from life into death was given a lawful crossing. What should be known was given the condition by which it might become intelligible.
 Cruelty is merely appetite wearing confidence. The Moto are not cruel by nature. **They are administrative.** The distinction is lost upon those who have never had to rank the worthiness of a thing.
+
+---
+
+## On the Grip, and Why There Are Seven
+
+Every generation produces a clever child who asks why the Works are seven, and whether a sufficiently gifted descendant might dispense with them and take hold of the Plane directly.
+
+No.
+
+I will say this once, and more slowly than you deserve. What you call your understanding was issued to you. Your notion of cause came down from here. Your notion of likely came down from here. Your idea of what a blow is, what a wall is, what it means for one thing to follow another: all of it is made of the substance you propose to move. **You cannot reason your way to a grip on the thing your reason is made of.** I have watched the brilliant try. They produce excellent treatises, and they bleed from the eyes, and the wall stands.
+
+So I cut handles.
+
+> Each Work is one way of taking hold of one function, and it takes hold of nothing else. **Ruin closes on what is failing. Purity closes on what ought to stand. Spirit closes on the crossing. Temporality closes on what is due. Knowledge closes on what a thing is. Balance closes on what is overdone.** A hand trained to one does not, by that training, close upon another, any more than knowing the sword teaches you to shoe a horse.
+>
+> **That is the whole of the inheritance: somewhere to put your hand.**
+
+Do not suppose the handle makes the lifting light. My descendants pull a thread of Fate down into the physical or the spiritual and warp what is there, and each time it is as hard as it has ever been. A lean on the odds will take a large share of what you carry and leave you bleeding, and it will often do nothing at all. To remove a prerequisite outright, so that this cut was always going to land, costs what it costs, and I have seen it cost all of it. You will therefore do this rarely, and you will do it where it counts, and for the rest of the fight you will read the seam and hit the seam with steel like a person with some self-respect. The arts below are mostly that. The Work is behind them the way a surveyor is behind a wall. Do not confuse the two, and do not spend the one where the other will serve.
+
+And you are not alone up there. There are older things than you on that Plane, and they are its laws. Some threads are somebody's. If you find that you have been noticed, I recommend humility, which you will not have practiced.
 
 ---
 
@@ -91,9 +111,9 @@ Tengan makes strategists unbearable for several decades. The young who first awa
 
 The true Tengan adept does not ask *what will happen?* He asks *which outcome has begun demanding itself of the field?*
 
-**Saki no Mon** · *Gate of the Next Instant.* Practiced in duel and small-group combat.
+**Saki no Mon** · *Gate of the Next Instant.* Practiced in duel and small-group combat, and practiced seldom. One who steps through comes out bleeding and lighter by a good part of what they carried in, and young Tengan heirs who open it twice in an hour are found on the far side without much left behind the eyes.
 
-**Mikettei no Ame** · *Rain of the Unchosen.* Belongs to formations, command corridors, cavalry timing, and the engineering of panic. A Tenrai son has been seen to use it with nothing but banners, disciplined footwork, and the knowledge that frightened men always flee into the route that feels least chosen by them. That is the vulgar beauty of Hataraki. **One need not always strike to impose a Work. Sometimes one merely arranges the enemy into obedience.**
+**Mikettei no Ame** · *Rain of the Unchosen.* Belongs to formations, command corridors, cavalry timing, and the engineering of panic. A Tenrai son has been seen to use it with nothing but banners, disciplined footwork, and the knowledge that frightened men always flee into the route that feels least chosen by them. That is the vulgar beauty of Hataraki. **One need not always strike to impose a Work. Sometimes one merely arranges the enemy into obedience.** Understand that there are two cases. Where fear has already done the labor, banners suffice and nothing is spent but the commander's nerve. Where it has not, the whole field must be moved by a thread pulled down from above, and that is the work of a lifetime, done perhaps once, by someone who does not walk afterward.
 
 ### Kamigan · the crown eye
 
@@ -214,6 +234,24 @@ The **tachi and longsword** to those who study revelation and temporality. **Spe
 
 ---
 
+## Chapter the Sixth · On War, for Those Who Will Insist
+
+A war is the largest structure most of you will ever be asked to read, and it is the one most eager to tell you where it is failing. It runs on grain, on horseshoes, on the temper of a third company, on whether a sergeant was paid. Nothing in it is sound. **An army is a thousand straps wearing at once**, and this is why my house has so seldom needed to be the larger host.
+
+Therefore:
+
+Read for a season before you spend a drop. The Khökh-ke know this and the rest of you should be embarrassed to be told it. Most of what you will call victory is marching to the right place on the right day, and arithmetic.
+
+Find their Fate users first. Before their champions, before their general, before you have had breakfast. A single old woman in the baggage train can undo a season of your work with one thing going wrong at the ford, and she is thinking the same about you.
+
+Give each Work its own office. Ruin for the bridge. Purity for your own line and your own water, which you will neglect. Spirit for the dead of the last battle, who are otherwise available to anyone. Temporality for the hour. Knowledge for their captains. Balance for the point at which they have overreached, which they will. Do not ask one hand to do another's labor because that hand happens to be your favorite child's.
+
+Spend the pull once. If you have read correctly, it need only move something that was already going. If you have read poorly, no pull will save you, and you will have spent yourself on a sound wall in front of your own soldiers.
+
+> And see to your own harness. **The enemy has also been told that the straps are where wars are lost.** Every lesson in this record can be taught to you by someone holding a hammer who arrived a moment sooner than you had arranged, and I have known several Moto who received that instruction.
+
+---
+
 ## Appendix · Concerning the Seven Lines of My House
 
 Seven great lines of the Moto, expressing one inheritance in seven recognizable temperaments.
@@ -261,8 +299,8 @@ And if ever you reach the higher thrones of Totality, and feel the old sovereign
 
 *Archivist's note, for the shelf:*
 
-**Cost.** Each Work has its named corruption, and the founder is candid that bloodlines have vanished into them while calling themselves pure.
+**Cost.** The plain price, which the founder thinks beneath repeating: a real pull takes a large share of the reserve, leaves the body bleeding and often fails, and a field moved may be the last thing its mover does. Each Work has its named corruption besides, and the founder is candid that bloodlines have vanished into them while calling themselves pure.
 
-**Counter.** By his own account, a finishing form needs a target that has already failed: hold your line, keep your straps sound, and give him nothing to read.
+**Counter.** By his own account, a finishing form needs a target that has already failed: hold your line, keep your straps sound, and give him nothing to read. Failing that, find their Fate users first and reach them before the result arrives, as the Moto do to everyone else.
 
-**Numbers.** Four branches of the Shingan. Seven Lines. Seven Works, seven corruptions. Three house forms. The founder gives no figures, and this office has not asked.
+**Numbers.** Four branches of the Shingan. Seven Lines. Seven Works, seven grips, seven corruptions. Three house forms. The founder gives no figures, and this office has not asked.

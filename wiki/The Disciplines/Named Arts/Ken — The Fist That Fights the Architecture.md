@@ -26,7 +26,7 @@ Every bathhouse in Kawabe sings the verse: *One touch, the big man's arm is tire
 
 ---
 
-**How it really works.** Every stat a fighter shows passes through a junction where the Soul Crystal (the gem in the soul that refines Aether into Essence) meets meat, and each junction hums at its own frequency, the way a wine glass has one note that will shake it. Judicium reads the note, Fractura picks the spot already under the most strain, and the fist delivers the counter-note. Resonance does the rest, which is why a master's strike looks like a pat on the arm and a beginner has to hit like a mule. Bathhouse people call it the Touch, and the Guild's term follows.
+**How it really works.** Every stat a fighter shows passes through a junction where the Soul Crystal (the soul itself, a gem that refines pulled Aether into Essence) meets meat, and each junction hums at its own frequency, the way a wine glass has one note that will shake it. Judicium reads the note, Fractura picks the spot already under the most strain, and the fist delivers the counter-note. Resonance does the rest, which is why a master's strike looks like a pat on the arm and a beginner has to hit like a mule. Bathhouse people call it the Touch, and the Guild's term follows.
 
 ---
 

@@ -216,7 +216,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 >
 > **Wild** operates at the surface. The danger is physical and legible.
 >
-> **Spirit** operates from the middle layer, **and the cascade runs upward**: the Crystal fires, the Shell expresses, the body manifests what the Soul Plane authored. *What reaches the surveyor comes from no outside blow. They are being authored from inside.*
+> **Spirit** operates from the middle layer, **and the cascade runs outward**: the Crystal fires, the Shell expresses, and the body, where it is reached at all, manifests what the Soul Plane authored. *What reaches the surveyor comes from no outside blow. They are being authored from inside.*
 >
 > **Fate** operates from above both lower realities, **and the cascade has to come through both of the others.** *By the time the surveyor can see what was decided, it has already happened to them, and it looks like luck.*
 >
@@ -231,7 +231,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 | Density | Condition |
 |---|---|
 | **Ambient Saturation** | The most common condition across the mapped world, and no kin to Aetheric Saturation, the lethal flood. **A Sage can tune to it. An ordinary person feels vaguely uneasy or peaceful.** The landscape carries subtle signs |
-| **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary physiological or psychological change; Fate sites produce runs of coincidence that nobody believes before the third; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most concentrations on the New World's arc were found during the Voyager Era; the elven old-ground's have been pulled on since the first Eon* |
+| **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary change in the soul, with the body sometimes following; Fate sites produce runs of coincidence that nobody believes before the third; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most concentrations on the New World's arc were found during the Voyager Era; the elven old-ground's have been pulled on since the first Eon* |
 | **Veil-Thin Nexus** | **The Veil between planes thins.** Spiritual entities become visible. Causal threads are perceptible. **Time feels wrong.** Bifold Perception onset without training, involuntary Soul Drift, Echo Beast manifestation |
 | **Wellspring Core** | **The Aether's origin point. The aquifer's source.** Extraordinarily rare, and mostly unmapped. Nearly all of them lie at the heart of a dungeon, and the richest untouched ones are on the New World's arc. **The physical and metaphysical environments are indistinguishable, and the law the Wellspring carries is the only law operating.** *Walking into a Core unprepared is Wellspring Baptism at maximum intensity with no exit plan* |
 
@@ -279,7 +279,7 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 | **Alchemy** | The principle it stands for at the bench: its operation or stage of the Work where it has one, otherwise the trade's reading of what its law does to matter in a vessel. |
 | **Analogue** | How scholars explain it, part one. The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
 | **Mechanism** | What this type of Aether does to Essence and to the Crystal, stated in the analogue's own terms. If the physics says a process is entropically driven, the Wellspring's cost structure says so too. |
-| **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, in the current sixty-four names: where the system source names a retired Sub-Stat, the effect sits on the entry that absorbed it. Behavior, never bonus. |
+| **Stat Effect** | The Sub-Stat (one of eight finer measures inside each main stat) modification, in the current sixty-four names: where the Fracture register names a Sub-Stat since folded into another, the effect sits on the entry that absorbed it. Behavior, never bonus. |
 | **Glyph** | The forms the [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms\|Master Glyph Index]] seats on this Wellspring as primary, with a count of the others it is attested on. |
 | **Failure** | The characteristic malfunction, derived from the physics. Every analogue has a way of going wrong that is specific to it, and a Wellspring inherits its analogue's pathology. |
 
@@ -340,7 +340,7 @@ These conditions bind what acts on the world, the Wild and the Medium. A Spirit 
 
 *Attested, not reconciled.*
 
-**The Vectoria count** · The system source lists eight Vectoria Wellsprings including Sublimare. The consolidated Magic System register lists seven and omits Sublimare entirely. With Sublimare restored and Phreatis counted once, the register reconciles exactly to sixty unique types across sixty-one listings. The Measurewrights record the consolidated table as the party in error and this register follows the system source.
+**The Vectoria count** · The Fracture register lists eight Vectoria Wellsprings including Sublimare. The consolidated Magic System register lists seven and omits Sublimare entirely. With Sublimare restored and Phreatis counted once, the register reconciles exactly to sixty unique types across sixty-one listings. The Measurewrights record the consolidated table as the party in error and this register follows the Fracture.
 
 **The Phreatis cross-listing** · Phreatis answers to Vitalia and Fluxia both, and the physical reading supports the double assignment rather than resolving it. Synaptic potentiation and aquifer residence are two physics describing one behavior. The entry is written once in Vitalia and referred from Fluxia.
 

@@ -59,7 +59,7 @@ Most runic accidents begin here. **A transformation without limits continues unt
 
 ### Direction
 
-Specifies vector and focus. Without it, a Cinerion rune burns indiscriminately and a Sublimare rune strips every Essence type including what was meant to remain.
+Specifies vector and focus. Without it, a Cinerion rune burns indiscriminately and a Sublimare rune strips everything it touches, including what was meant to remain.
 
 In arrays, Direction also governs flow: which rune activates first, which feeds into which, how the circuit resolves when multiple processes operate simultaneously. A poorly directed array fails and also creates interference patterns between its own elements, producing **Draft Corruption**: law-fragments, Wellspring processes started but not completed, which keep trying to finish themselves in whatever they contact.
 
@@ -67,7 +67,7 @@ In arrays, Direction also governs flow: which rune activates first, which feeds 
 
 Closes the inscription to contamination and drift. Leans heavily on Fixatio chains, which is why Fixatio harmonization is the foundational Wellspring for all serious runic work.
 
-An unsealed rune is an open wound in the local Aether field. Environmental Essence bleeds into it. Nearby workings contaminate it. The Continuum attempts to resolve the open syntax, sometimes by completing it in ways the Engraver never intended. **Unsealed runes are the leading cause of runic hauntings**: locations where a rune's unfinished sentence has been completed by ambient Wellspring pressure into something the original inscriber would not recognize.
+An unsealed rune is an open wound in the local Aether field. Environmental Aether bleeds into it. Nearby workings contaminate it. The Continuum attempts to resolve the open syntax, sometimes by completing it in ways the Engraver never intended. **Unsealed runes are the leading cause of runic hauntings**: locations where a rune's unfinished sentence has been completed by ambient Wellspring pressure into something the original inscriber would not recognize.
 
 ---
 
@@ -155,7 +155,7 @@ Every cutter in the Quarters will tell you the other shops cut crooked. Bills go
 
 **The Veydrun Covenant** · A secretive Innerworld order specializing in suppression and containment. They use Destruction inscriptions built on Hametsu-aligned Wellsprings (Fractura, Cataclysm, Nihiloth) and Binding inscriptions built on Coagula, Fixatio, and Coagulatio to suppress rogue spiritual entities, contain corrupted discharge, and neutralize Mechanica artifacts. Sanctioned by the Concord under emergency containment law, though their operational secrecy and willingness to use Limina's void Wellsprings and Vitalia's Mortalis place them at the ethical boundary of lawful practice.
 
-Their most closely guarded technique is the **Silence Seal**: a compound rune combining Oblivara and Fixatio that **erases a target entity's name from Continuum recognition**, rendering it unsummonable, untraceable, and effectively nonexistent without physically destroying it.
+Their most closely guarded technique is the **Silence Seal**: a compound rune combining Oblivara and Fixatio that **erases a target entity's name from Continuum recognition**, rendering it unsummonable, untraceable, and effectively nonexistent without physically destroying it. It is as close as a chisel gets to the Plane of Fate, and it obeys the Plane's rules: it moves only what already has a way of happening. The Covenant spends years arranging for a name to be half forgotten before anyone picks up the tools, and a name still shouted in the marketplace does not come off the stone.
 
 ---
 

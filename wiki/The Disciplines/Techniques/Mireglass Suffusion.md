@@ -76,7 +76,7 @@ Mireglass Suffusion is filed in the Iridescent Archive, a cataloged repository r
 
 **Limits** · 12 to 15 m, four turns, the ±20 to 30° cone; an empty or sealed mind sees only glass; it fails on a target who recognizes the silhouette; crowds suppress it.
 
-**Fails against** · A read image: a memory has the wrong spectrum for a body (Judicium), and recognition un-splits attention; crowds; Absolution, which empties the traps; Luminalis, which leaves nothing to return; a silenced anchor; bolts from off the glass.
+**Fails against** · A read image: a memory has the wrong spectrum for a body (Judicium), and recognition un-splits attention; crowds; a soul Absolution has been at, whose old failure has stopped leaking and gives the traps nothing to hold; Luminalis, which leaves nothing to return; a silenced anchor; bolts from off the glass.
 
 **Look up** · The Iridescent Archive's entry for this working; the Limina entries for Oblivara and Anamnesis Failures; Judicium, Absolution and Luminalis; the Glory Stage table and the Fate gates.
 

@@ -16,5 +16,5 @@ title: Named Arts
 - [[The Disciplines/Named Arts/Rusashin — The Dust That Remembers What It Touched|Rusashin — The Dust That Remembers What It Touched]]: 粒壇身. They touch a thing, copy it in dust, and the dust explodes.
 - [[The Disciplines/Named Arts/Solution — The Mind That Solves Itself|Solution — The Mind That Solves Itself]]: 解決. For a few minutes they can work out anything, and they feel nothing about it.
 - [[The Disciplines/Named Arts/Talos — The Bronze That Empties the Room|Talos — The Bronze That Empties the Room]]: Τάλως. Walk into their room and all the magic in it stops.
-- [[The Disciplines/Named Arts/The Iron Bison — A Discipline of Internal Resonance|The Iron Bison — A Discipline of Internal Resonance]]
+- [[The Disciplines/Named Arts/The Iron Bison — A Discipline of Internal Resonance|The Iron Bison — A Discipline of Internal Resonance]]: they refuse to spend anything for years, and then you get all of it at once.
 - [[The Disciplines/Named Arts/The Open Crucible — Kwon Mu-jin's Book of Summons|The Open Crucible — Kwon Mu-jin's Book of Summons]]: he writes a request in ink, and the world sends him a soldier.

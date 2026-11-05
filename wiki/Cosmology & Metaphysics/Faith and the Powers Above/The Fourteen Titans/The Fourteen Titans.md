@@ -41,6 +41,8 @@ The orders describe what layer of the world the Titan is holding rather than any
 
 A word on the **Ground** field in each entry. It names what the old registers call that Titan's Wellspring. The sixty Wellsprings proper are kinds of Aether, each acting on a Soul Crystal in its own way and each standing for a principle and a transformation, and each has sites where its Aether pools (a Core, in common speech). The Titans' Grounds are written in the same words at a much larger scale, as a law and a place at once, and the Measurewrights argue over whether they should be counted among the Sixty at all. The Codex line closing each entry seats the working on one of the Sixty by name, which is the part a practitioner can use. Vohrin is the register's one exception: its line names the Titan's own power, worked at Wellspring level and filed beside Caloria under [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|a marked note on that Family's page]], and the Sixty stay sixty.
 
+The old registers are also loose with the word **Essence**, and I have kept their wording here because they are the only witnesses we have. Essence proper is a soul's own substance, Aether refined in the Crystal and stamped with identity. Where one of these entries has Essence pooling in the ground, storming across the Veil or overcharging a region, read it as Aether, or as what the dead and the very large have left behind them, and a Measurewright will think better of you.
+
 | Titan | Epithet | Order | What it holds |
 |---|---|---|---|
 | **ATLA'ZON** | *The World-Binder* | Physical | Orientation, duration, adhesion |

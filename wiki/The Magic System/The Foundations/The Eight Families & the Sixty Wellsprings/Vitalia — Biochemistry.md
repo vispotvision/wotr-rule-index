@@ -226,7 +226,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **On the Spirit** · The practitioner reads and draws what has sunk into water and into a soul, and a working can call up what a place or person has long since stopped remembering.
 
-**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming. At the price of a heavy draw on the reserve and a nosebleed that can last a day, one can be drawn up early, the lesson the other fighter's first master beat into them wrong surfacing in the exact exchange where it will cost them. Doing the same to a war, the poisoned treaty coming due or the well sunk a hundred years ago going bad the summer an army camps on it, is the work of a whole life, and whatever else is down there comes up with it.
+**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming. At the price of a heavy bite out of the reserve and a nosebleed that can last a day, one can be drawn up early, the lesson the other fighter's first master beat into them wrong surfacing in the exact exchange where it will cost them. Doing the same to a war, the poisoned treaty coming due or the well sunk a hundred years ago going bad the summer an army camps on it, is the work of a whole life, and whatever else is down there comes up with it.
 
 **Spirit** · Temperance through reflection. *The confessors' reading:* memory, what is lived built into the structure.
 
@@ -236,7 +236,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Analogue** · Long-term potentiation on the Vitalia reading. Aquifer recharge and isotopic dating on the Fluxia reading.
 
-**Mechanism** · Synaptic potentiation records experience by physically strengthening a connection that fired, while groundwater carries an isotopic signature of the rain that fell decades before it reached the well. Phreatis holds both: memory as reinforced structure, and memory as a slow reservoir that returns what entered it long after the weather has changed.
+**Mechanism** · Synaptic potentiation records experience by physically strengthening a connection that fired, while groundwater carries an isotopic signature of the rain that fell decades before it reached the well. Phreatis holds both: memory as reinforced structure, and memory as a slow reservoir that returns what entered it long after the weather has changed. Flesh, soul and sworn word each take in what is lived and give it back later, which is why this lens is at home on all three Paths.
 
 **Stat Effect** · Strengthens Gnosis Retention, Harmonics Attunement, Resilience Anchoring. Memory becomes architecturally reinforced. Identical effect in either Family context.
 

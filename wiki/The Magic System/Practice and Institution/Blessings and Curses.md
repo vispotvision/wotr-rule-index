@@ -61,6 +61,7 @@ The law says *out of a person's natural reach*, and the range is wider than most
 | **A Wellspring** | A harmonization with one of the sixty alchemical and spiritual transformations that shape how a soul uses Aether. It lands small, as any new one does, and years of mastery bring it up | The giver chose which one |
 | **A Catalyst** | A Stage. The Catalyst is the change a Crystal demands before it will climb, and a thumb can supply it as a Draft can | A given Stage opens the door and no more. It has no Release (a fighter's staged power-up) until one is found and mastered by fighting |
 | **Waking** | The whole window opens, with Essence and Stage I | The Crystal woke to the giver's knock and may answer to that knock for life. Measurewrights argue about this one, and the wise ones do it quietly |
+| **A grip on Fate** | A rung of Thread Class (the ladder of how much of Fate a soul can pull down and hold), ahead of Glory if the giver likes, which nothing else but a bloodline can manage | A grip is all it is. The holder still cannot reason out what they are holding, and the first pull can take most of a reserve and often fails. Whatever handed you the thread may be what it belongs to |
 
 Two things stand outside the list. Nothing a thumb gives is a **[[The Magic System/Practice and Institution/Vows and Oaths|vow]]**: a vow is a person binding their own probability, small Fate that anyone can make, and its window shows the bargain and its terms in full because you wrote them. And a blessing does not reliably undo a death. The dead stay dead. A very great giver could in theory reverse one, a world-shaking event with a terrible price, and it comes back as a curse more often than not (see Cold Harrow, below).
 
@@ -98,6 +99,8 @@ For a person, the gap is what matters. In practice a giver needs at least three 
 > **The most insulting sentence in the Archives:** *a great giver spends almost nothing.*
 
 A written line pays for itself. A loaded die has no more strength in it than a fair one; the weight only settles which face comes up, and the throw was happening anyway. The stronger the soul, the more readily the Continuum (the standing order of the world, which measures every soul) takes its word, so at the top a thumb costs a sentence and at the very top it costs less than that.
+
+A reader fresh from [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] will object that Fate is the hardest road there is, that a real pull can empty a soul at Stage XII, and that I have just told him a woman did it with flour on her thumb. These are different acts. A pull reaches up and warps what the world has already arranged, out of the puller's own hand and against the odds. A thumb sets a small weight on a page far below the writer, the holder's own Attraction Layer, where the stronger soul's word already carries, and it lets the throw fall. So the cheapness belongs to the gap and to nothing else. Narrow the gap and the bill climbs, as the table shows, and below the very top a line moves only what already has a way of happening. A heart can stop. A lancer's horse can take a dislike to the lance.
 
 | The gap | What the giver feels | What it can carry |
 |---|---|---|

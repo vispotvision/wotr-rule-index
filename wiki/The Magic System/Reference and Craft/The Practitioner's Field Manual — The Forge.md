@@ -28,7 +28,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 
 | Layer | What it is |
 |---|---|
-| **The Generative Layer** | Family → Affinity → Method → Ability → Technique. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
+| **The Generative Layer** | Family → Affinity → Method → Ability → Technique, seen through a Wellspring (the lens the soul has tempered on) and going out by a Path (the layer the Crystal leans on), which between them give a working its character. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
 | **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Class (the name a soul is offered at its thresholds), Aether, Essence and Thread Class (the three ladders, each setting how much power survives the trip through its own layer), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work). **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document, a private count or the bearer's own window; its names may stand in any sentence*** |
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
@@ -57,6 +57,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 | **Sub-Stats** | Appear when used or when they move | The full set remains to study. Show one the moment it matters |
 | **Level** | Danger overcome. Killing something stronger moves it more than a hundred weak kills | *Crews argue over who got the kill. Write the argument* |
 | **Race and lineage** | Fixed, and on the line | They shape base stats, what comes easily, and which classes and Wellsprings suit |
+| **Path** | Recognized off how the person has lived, never picked: Body, Spirit or Fate, each standing as Mastered, Walked (three parts in ten of their practice or more) or Studied | **Ask what they have spent the years on.** Two Paths take about two and a half times as long at three-quarters of the force bonus each, and leave real holes at times; three take about six times as long, past a mortal span, and the world looks down on anyone trying |
 | **Class** | Offered at thresholds, fitting how the person has lived. Evolves by how it is lived, each time the leading ladder rises | Gives abilities and shapes growth. It has no ladder of its own. The first offer comes at Glory. **The one wild concept stays the person's own; no class hands it out** |
 | **Aether, Essence and Thread Class** | One ladder to each layer of the Crystal, Ø to Ω, read from Glory: influence on the physical world, influence on spiritual reality, and how much of Fate a soul can pull down and hold | Each sets η for workings through its own layer, a read rung overriding the field average and a card's own figure governing its holder. Thread is the steep one, its numeral giving η as two rungs below the same numeral elsewhere. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind until mastered, and a Studied one stops at II, or at I for Thread |
 | **Skills**, as Grades | Rise with use | Drafts, runes, tags and chants are skills. Anyone can pour; the cutting, tags, chants and spoken workings want a woken Crystal. *A guild's title says how far the hall trusts the skill* |
@@ -73,7 +74,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ## The Rule for Invention Under Fire
 
-> **Abilities** are character architecture: a root phenomenon the Crystal (the Soul Crystal, the organ that works magic) has internalized over years. *Cozbi is Antithesis. Krothar is Binding. Sodoku is Ruin.*
+> **Abilities** are character architecture: a root phenomenon the Crystal (the Soul Crystal, the soul itself, which works magic) has internalized over years. *Cozbi is Antithesis. Krothar is Binding. Sodoku is Ruin.*
 >
 > **These are never invented inside a scene.** *If a fight appears to require a new Ability, the fight is wrong, or the scene stops and the Ability is pitched properly.*
 >
@@ -85,7 +86,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ## The Forge
 
-**Before the first step, the concept.** A kit starts as one wild idea you can explain in a breath, soup, debt, doors, boredom, anything, so long as the character can push it somewhere terrifying. Character first, then the concept, and only then the Family, the Wellspring and the glyph that explain it; the Sixty and the Glyphs stay fixed and the idea finds its place among them. A major character starts with three to five named moves and adds one when a fight or scene earns it. An NPC may invent and name a new move in the middle of a fight, and it is canon on use. The Forge below takes that idea and makes it hold.
+**Before the first step, the concept.** A kit starts as one wild idea you can explain in a breath, soup, debt, doors, boredom, anything, so long as the character can push it somewhere terrifying. Character first, then the concept, and only then the Family, the Wellspring and the glyph that explain it and the Path it goes out by; the Sixty and the Glyphs stay fixed and the idea finds its place among them. A major character starts with three to five named moves and adds one when a fight or scene earns it. An NPC may invent and name a new move in the middle of a fight, and it is canon on use. The Forge below takes that idea and makes it hold.
 
 *Seven steps at the desk. Steps one through four are structural and cannot be skipped. Five through seven are what separate a technique from a special effect.*
 
@@ -97,7 +98,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 | **4 · Limitation** | State what it structurally **cannot** do **before** stating what it does. *A power invented before its constraint is a power looking for a constraint to justify it, and it reads bolted-on every time* |
 | **5 · Cost** | From the Wheel, deliberately, checked against the character's existing category; a big art's price comes out of its own idea, on top of reserve and body tells. **A cast where everything costs blood is a cast with one idea** |
 | **6 · Counterplay** | One sentence, **and it must be an answer a competent opponent could actually find.** *If none exists, the technique is not finished* |
-| **7 · Stamp** | Glyph pair, primary Wellspring (the type of Aether it pulls on), Family, Physics Domain (the branch of real physics it obeys). **Thirty seconds. Never left unlinked** |
+| **7 · Stamp** | Glyph pair, primary Wellspring (the lens it comes through, in the scholars' account the type of Aether it pulls on), Path, Family, Physics Domain (the branch of real physics it obeys). **Thirty seconds. Never left unlinked** |
 
 ### The three-line version
 
@@ -111,6 +112,24 @@ A called Release or Domain fills the window with its name and what changed, and 
 > **The gate the Forge does not list, because it stands outside the steps.** A **Signature Technique** requires a matching Trait, and no amount of Stage, instruction or expenditure substitutes for one. The Trait is a structural prerequisite rather than an advantage: it is the law the working applies, and without it the technique has nothing to apply.
 >
 > *Which is the test for whether a signature has been invented honestly. Name the Trait it comes out of. If there isn't one, what has been built is a good technique belonging to nobody in particular.*
+
+---
+
+## The Road It Leaves By
+
+*The stamp asks for a Path, and no other line on it changes the page so much.*
+
+**A blow's character comes from Wellspring and Path together.** Every soul has the three layers, and a Path is the one its Crystal has learned to lean on, so ask which one a working goes out through before writing a word of it. A Wellspring is the lens a soul bases its tempering on, and it shapes Essence differently on each road: Pyreveil on the Body is heat living in the tissue, on the Spirit it is thrown and burns what is false in a thing before what is solid, and on Fate it is a claim that burns its way through. A Wellspring's kind names its home and never locks it. At home the lens can reach double after years of mastery, and away from home it costs more and reaches half again at most. **A Spirit Wellspring gives no fire on any road.** Write what the person can bear, know, keep or let go.
+
+| Path | Write it as | The limits a fight must honor |
+|---|---|---|
+| **Body** | The literal understanding and manipulation of physical reality. Low down it closes and hits. High up, by recognition and then by law, its reach runs as far as there is matter to read: armor too heavy to lift, a blade rusting in the hand | Needs existing substance, has to close until very high, pays in recoil through bones and Crystal, and has no purchase on a soul |
+| **Spirit** | Everything to do with spiritual reality: souls, spirits, the dead, what a thing means. Authored in the Core and thrown at range, past the Shell | Needs a soul or a meaning to work on, has a fragile body, and dies out of position |
+| **Fate** | Day to day, Range, Aura Pressure, presence and bonds. A real pull moves what a blow, a wall or a march depends on, with a visible charge and a tell, and lands as the ordinary blow it turned into | Ruinously hard and slow to set, moves only what already has a way of happening, often fails, and loses a straight exchange |
+
+**Fate is never casual.** A pull takes extreme effort at every Stage, it cannot be reasoned out or drilled in, and almost nobody can do it twice in a day, so a character who does has been written wrong or is about to pay for it. Moving a whole field is a life's masterwork or a bloodline's art, and the Works of Hataraki exist because nobody grips it bare.
+
+**No road is the better one.** Body beats Spirit by getting there, and Spirit beats Body by going past the Shell. Body beats Fate with force and soundness, and Fate beats Body through what closing depends on. Spirit beats Fate by reaching the hand on the thread, and Fate beats Spirit because Spirit survives by being right. Stage, ground and preparation decide which of these holds on the day, and a kit that reads as simply the superior road is a kit with no counterplay. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] has the full account.
 
 ---
 
@@ -296,7 +315,7 @@ The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Att
 ## The Blank Card
 
 *Copy, fill, log. Fields marked † are mandatory for anything that will later resolve a conflict.*
-> **Name** · **Ability / Root Phenomenon** · **Skill It Rides** · **Trigger †** · **Function †** · **Verb** · **Rate** · **Mechanism †** · **Numerical Effect** · **Target Response** · **Limitation †** · **Weakness** · **Cost †** · **Vow** · **Counterplay †** · **Codex Stamp †** · **First Display †** · **Window Line** · **Sensory Description**
+> **Name** · **Ability / Root Phenomenon** · **Path** · **Skill It Rides** · **Trigger †** · **Function †** · **Verb** · **Rate** · **Mechanism †** · **Numerical Effect** · **Target Response** · **Limitation †** · **Weakness** · **Cost †** · **Vow** · **Counterplay †** · **Codex Stamp †** · **First Display †** · **Window Line** · **Sensory Description**
 >
 > **Cross-reference.** This card is the workbook form and carries more than any single scene will use. **Mechanism is prose-legal and belongs on the page**: the phenomenon, the law being conditioned, the fault that falls out of it. What stays in the workbook is the form itself, the Codex stamp, and the arithmetic.
 >

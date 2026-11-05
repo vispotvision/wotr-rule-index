@@ -75,7 +75,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 
 > **Thirty of the 136 carry no Family and no Physics Domain.**
 >
-> They render **without a tally**, which reads in-world as **a glyph the Continuum cannot classify**, *and the standing recommendation is to keep that as a feature rather than fill it.*
+> They render **without a tally**, which the trade reads as **a glyph the Continuum cannot classify**, *and the standing recommendation is to keep that as a feature rather than fill it.*
 >
 > **The Long Reading holds that the Moto ancestral seat's own name is written in one of these.** It is the oldest proper noun in the record **and it is deliberately blank.**
 
@@ -131,9 +131,9 @@ Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings a
 
 ## Standing Note
 
-> **Every technique entry in the wiki closes on a Codex assignment line.** That line points here.
+> **Every technique entry in the register closes on a Codex assignment line.** That line points here.
 >
-> **Assignment is decided after the concept and the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and pitch a new Codex entry in the same pass, not to bend the phenomenon until it files.*
+> **Assignment is decided after the concept and the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and propose a new Codex entry in the same sitting, not to bend the phenomenon until it files.*
 
 ---
 

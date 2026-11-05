@@ -68,7 +68,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Analogue** · Optical resolution and coherence. The Rayleigh criterion; phase-locked emission.
 
-**Mechanism** · Two points are resolvable only when their diffraction patterns separate, and coherent light holds a fixed phase relationship across its whole front, which is what separates a true beam from a bright lamp. Aurevane raises both figures at once. What the practitioner perceives resolves finer, and what they express leaves the Shell in phase, meaning the output matches the intent with almost no distortion introduced in transit.
+**Mechanism** · Two points are resolvable only when their diffraction patterns separate, and coherent light holds a fixed phase relationship across its whole front, which is what separates a true beam from a bright lamp. Aurevane raises both figures at once. What the practitioner perceives resolves finer, and what they express leaves the Shell in phase, meaning the output matches the intent with almost no distortion introduced in transit. A stroke, a meaning and a sworn word can each arrive true or arrive smeared, which is why this lens is at home on all three Paths.
 
 **Stat Effect** · Strengthens Gnosis Perception, Vigilance, Harmonics Attunement. What you see becomes truer. What you express becomes more accurate.
 
@@ -152,7 +152,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Analogue** · The non-visible spectrum and polarization. Total internal reflection.
 
-**Mechanism** · Most of the spectrum is not available to the eye, and most of what matters is happening there. Luminalis extends perception past the visible band and gives the Shell a polarizing behavior: incident observation is filtered out at the boundary rather than absorbed, and light that strikes past the critical angle does not leave at all. Seeing and hiding turn out to be the same optical operation run in opposite directions.
+**Mechanism** · Most of the spectrum is not available to the eye, and most of what matters is happening there. Luminalis extends perception past the visible band and gives the Shell a polarizing behavior: incident observation is filtered out at the boundary rather than absorbed, and light that strikes past the critical angle does not leave at all. Seeing and hiding turn out to be the same optical operation run in opposite directions, and a body, a soul and a claim each have a surface that a look can be turned from, which is why this lens is at home on all three Paths.
 
 **Stat Effect** · Strengthens Gnosis Perception, Dexterity Feint. The practitioner sees what hides and learns to hide what they reveal.
 

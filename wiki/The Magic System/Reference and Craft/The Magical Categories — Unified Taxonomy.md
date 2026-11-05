@@ -25,7 +25,7 @@ Every category carries an alignment tag: **Body**, **Spirit**, **Attraction**, *
 - **Attraction-Aligned** leans on the **Plane of Fate** (the control of Attraction Force and Obsession Force and the workings of reality itself, where probabilities are moved and the fates of spirits and of things are held) and **Resonance**. Essence as reach, recognition, binding.
 - **Triadic** categories don't lean. They're what happens when all three Disciplines, anchored by **Equilibrium**, operate as one movement, the practice-form of **Formation**.
 - **Combination** tags mark categories operating at the seam between two Planes, neither fully arrived nor fully departed.
-A practitioner's primary Path (which of the three Paths a soul's growth leans along: Body, Spirit or Fate, the last of which leans on the Attraction Layer and takes every Attraction-aligned category as its home ground) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
+The Attraction tag is the old filing word, kept after the layer and the force it names, and there is no fourth Path behind it. A practitioner's primary Path (which of the three Paths a soul's growth leans along: Body, Spirit or Fate, the last of which leans on the Attraction Layer and takes every Attraction-aligned category as its home ground) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
 
 ---
 
@@ -201,7 +201,7 @@ The discipline's hard limit is that **nucleation cannot be manufactured at the b
 
 **Triadic System**
 
-The Sixty Wellsprings. A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, a type of Aether affecting the Soul Crystal in its own way, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
+The Sixty Wellsprings. A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, a type of Aether affecting the Soul Crystal in its own way, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. Its kind (Wild, Spirit, Fate or Medium) names that home and is never a lock, and a Spirit Wellspring gives no fire on any Path. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
 
 The physics and the numbers are how scholars explain it. Cosmic dialects of transformation, sorted into the **eight Families** by Physics Domain: Caloria, Fulguria, Vectoria, Spatium, Materia, Vitalia, Fluxia, Limina. Temperance governs how much of each process a soul can bear; Wellsprings define what law and emotional grammar are available. A Wellspring also has sites where its Aether pools, and common speech calls such a site a Core; most lie in dungeons, and the rest are said to lie in vast territories.
 
@@ -335,7 +335,7 @@ The reading of outcome weight, causal load, and probability distribution: what i
 
 Attraction-forward because outcome weight is a Fate-side property and the practitioner is asking the Plane of Fate a question rather than the Soul Plane. Spirit-side only insofar as the answer must be received by a Core capable of holding it without resolving it into narrative, which is the failure mode: an Auguria reading that arrives already interpreted has been interpreted by the reader.
 
-Auguria is the licit, open end of the Plane of Fate, because it only looks. Moving the weights it reads, to work outside what reality already knows and to control the fate of a thing, is a **Fate Art**, and that is rare, mostly by bloodline and considered incredibly overpowered. Fate Arts file wherever their working lands, here for the reading, Claustra for the binding, Votia for the oath, and every one of them carries the Attraction tag.
+Auguria is the licit, open end of the Plane of Fate, because it only looks. Moving the weights it reads, to work outside what reality already knows and to control the fate of a thing, is a **pull**, and it is another matter. At one end it is a Fate Path fighter's single lean on the odds, rare, ruinous and often a failure. At the far end it is a **Fate Art**, and that is rare, mostly by bloodline and considered incredibly overpowered. Pulls and Fate Arts file wherever their working lands, here for the reading, Claustra for the binding, Votia for the oath, and every one of them carries the Attraction tag.
 
 **Examples:** Outcome Reading · Tide-Sense · the crow's sight (Yukari) · water-scrying practices with no register entry
 
@@ -388,7 +388,9 @@ A vow is small Fate, a person binding their own probability, and anyone can make
 | **A technique** | By what it does | A named thing done with a skill, showing no level and taking a bigger name when it jumps. Two techniques of one fighter routinely sit under two headings |
 | **A Trait level** | Traitus | The law's own growth, rising with use and with overall Level and skill |
 | **A window** | Aetherica | The soul's report of its own measure, seen by its owner alone |
+| **A Path** | Viaforma | The layer a Crystal has learned to lean on, recognized off how the person has lived. Nobody casts one |
 | **A Class** | Viaforma | The shape a lived life has given the soul, offered at thresholds |
+| **A pull of a thread** | Wherever its working lands, with the Attraction tag | One result's prerequisite moved, at a ruinous price, by the hand of a soul that can be reached |
 | **A blessing** | Attraction-aligned where it goes through Fate, which most do; otherwise by what it grants | Power out of a person's natural reach, even in Level, from a giver spiritually stronger than they are: a higher spirit, an Archon, an Epoch, a person of higher Temperance. Vocatia asks upward and a blessing comes down, and it shows on the sheet as a line that can lie, because the giver wrote it |
 | **A curse** | As the blessing it often is | Same power, terms you did not read, or a giver who does not care what you want |
 | **A monster's core** | Drafts once rendered, Crystalia on the slab | In a way the monster's Soul Crystal, and the lawful Crystal Draw of The Standing Index. Swallowed raw it gives everything at once, and most die or come out wrong |

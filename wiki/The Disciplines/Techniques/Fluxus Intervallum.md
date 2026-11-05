@@ -52,7 +52,7 @@ The Dichotomists hold that crossing any interval is impossible, so they read the
 
 **Grade required** · B-Grade
 
-**Path gate** · None (the old books' "Mind Path" is not a Path; it reads as Gnosis weighting)
+**Path gate** · None to cross at C-Grade weight, on any Path; Fate for B-Grade weight on the line, Transference being a Wellspring of Fate (the old books' "Mind Path" is not a Path; it reads as Gnosis weighting)
 
 ### FOW line
 
@@ -62,7 +62,7 @@ The Dichotomists hold that crossing any interval is impossible, so they read the
 
 **Grade required** · B-Grade
 
-**Path gate** · None
+**Path gate** · None to cross at C-Grade weight; Fate for B-Grade weight on the line
 
 **Resonant Pair · None**
 

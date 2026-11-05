@@ -87,7 +87,7 @@ Solution activates from **concentration, not equilibrium.** Where Moetana requir
 
 ## Cost
 
-Sustained by **neural Essence, the fastest-burning fuel the Crystal produces.** Cognition is the most expensive thing a soul does, and Solution removes every efficiency ceiling that normally throttles it.
+Sustained by **neural Essence, the fastest-burning share of the self the Crystal refines.** Cognition is the most expensive thing a soul does, and Solution removes every efficiency ceiling that normally throttles it.
 
 **EU** · 20,000–50,000 per minute depending on simultaneous streams and resolution.
 

@@ -77,7 +77,7 @@ A Moto in their functional state always feels like they are **doing** something:
 
 ### What Asami does
 
-**All techniques become native** · Every Discipline, Work-expression and Form becomes an extension of what the practitioner actually is rather than what they have learned to perform. **The mechanical gap between intent and execution collapses. The True Self acts, with nothing to translate.**
+**All techniques become native** · Every Discipline, Work-expression and Form becomes an extension of what the practitioner actually is rather than what they have learned to perform. **The mechanical gap between intent and execution collapses. The True Self acts, with nothing to translate.** None of this lightens a pull on the Plane of Fate. The hand stops shaking and the weight stays exactly what it was.
 
 **Obsession Force cannot find purchase** · Obsession Force corrupts by attaching to the gap between what a person is and what they believe they must be. **In Asami, that gap does not exist. There is nothing to attach to.**
 
@@ -125,7 +125,7 @@ A practitioner who **discharges rather than inhabits** has not achieved Asami. T
 
 **Asami reveals the True Nature. Gisei spends it.**
 
-The practitioner, having found what they are underneath every cultivated layer, discovers that **what they are has fuel value**, and that burning it produces output exceeding anything the intact self could generate.
+The practitioner, having found what they are underneath every cultivated layer, discovers that **what they are has fuel value**, and that burning it produces output exceeding anything the intact self could generate. Every practitioner who spends Essence is already spending themselves, refined and replaceable. Gisei spends what the refining was done for.
 > **Gisei sits on no higher tier than Asami.** It is Asami's terminal expression: the state the True Nature enters when the practitioner decides that **the True Nature's survival matters less than what it can accomplish in the time it has left.**
 
 ### The mechanism of sacrifice

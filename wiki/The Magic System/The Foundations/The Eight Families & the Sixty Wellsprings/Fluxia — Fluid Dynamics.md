@@ -20,9 +20,9 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 ## Phreatis · *The Waters of Memory*
 
-> Its full entry is written once, in the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry|Vitalia register]], and referred from here. It carries an identical stat effect in either context.
+> Its full entry is written once, in the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry|Vitalia register]], and referred from here. It carries an identical stat effect in either context. On this page's reading it is the aquifer: groundwater reaching the well decades after it fell as rain, and returning what entered it, contamination included.
 
-**The idea** · Memory as deep water. What is lived sinks in, is built into you, and comes back long after the weather has changed. On this page's reading it is the aquifer: groundwater reaching the well decades after it fell as rain, and returning what entered it, contamination included.
+**The idea** · Memory as deep water. What is lived sinks in, is built into you, and comes back long after the weather has changed.
 
 **Kind** · Medium
 
@@ -30,7 +30,7 @@ Sweet Agnes Dunnock kept the book on the Reed Cup for twenty-two years and in al
 
 **On the Spirit** · The practitioner reads and draws what has sunk into water and into a soul, and a working can call up what a place or person has long since stopped remembering.
 
-**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming. At the price of a heavy draw on the reserve and a nosebleed that can last a day, one can be drawn up early, the lesson the other fighter's first master beat into them wrong surfacing in the exact exchange where it will cost them. Doing the same to a war, the poisoned treaty coming due or the well sunk a hundred years ago going bad the summer an army camps on it, is the work of a whole life, and whatever else is down there comes up with it.
+**On Fate** · Nothing stays buried: old ties, debts and promises rise on their own schedule the way a spring does, and the holder can feel them coming. At the price of a heavy bite out of the reserve and a nosebleed that can last a day, one can be drawn up early, the lesson the other fighter's first master beat into them wrong surfacing in the exact exchange where it will cost them. Doing the same to a war, the poisoned treaty coming due or the well sunk a hundred years ago going bad the summer an army camps on it, is the work of a whole life, and whatever else is down there comes up with it.
 
 ## Somnalis · *The Dream Veil*
 

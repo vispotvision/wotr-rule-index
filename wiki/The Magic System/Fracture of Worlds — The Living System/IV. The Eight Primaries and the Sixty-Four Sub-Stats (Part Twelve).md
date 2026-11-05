@@ -16,7 +16,7 @@ On Loaf Day at Ostler's Cross the Guild read two wrestlers as the same Vitality 
 Primary Stats are the broad categories. Sub-Stats are the grain. Two characters at identical Primary totals can be radically different practitioners because their distributions tell different stories. One may have Vitality concentrated in Fortitude and Absorption, producing a frame that refuses to break but bleeds badly and heals slowly. Another may have the same total across Hemostasis, Regeneration and Filtration, producing a body that breaks readily, reconstructs itself and shrugs off poison. The Primary says they are equally durable. The Sub-Stats say they are durable in completely different ways.
 > **Consolidated from one hundred and twenty to sixty-four.** The original architecture carried fifteen Sub-Stats per Primary, of which a substantial share were restatements of each other under different names. Dominion Density and Dominion Stability both measured how hard the law is to break. Vitality Contuition and Vitality Filtration both measured poison resistance. Gnosis Sapience and Gnosis Fluency both measured Parunic (Parun, the written language of magical law) construction. Those duplicates are merged, and the merged entry carries the senior name.
 >
-> **Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** Each entry below names, in italics, the retired Sub-Stats it absorbed.
+> **Where an old name appears on an existing sheet, read it as the entry that absorbed it.** Each entry below names, in italics, the old Sub-Stats it absorbed.
 
 ## I. Vitality
 

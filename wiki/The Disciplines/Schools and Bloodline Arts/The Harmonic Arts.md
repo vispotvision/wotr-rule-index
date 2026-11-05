@@ -39,8 +39,8 @@ CONVERGENCE FORECASTING! Weeks out, they can tell you who is walking toward whom
 
 ## Why Harmonia Sits Between Spirit and Attraction
 
-Tone originates in the Essence Core (Spirit, what the soul means) but only becomes Harmonia once it travels outward to affect other Crystals (Attraction, what the soul reaches). **A thought that stays internal is not Harmonia. A thought that becomes vibration and crosses the gap between two souls is Harmonia**, regardless of whether the transmission is deliberate.
-> What makes Harmonia dangerous is that **listening and acting use the same channel.** The same sensitivity that lets a practitioner perceive a Crystal's distress frequency also lets them amplify it, dampen it, redirect it, or weaponize it against the emitting soul. The same tonal analysis that reveals a spell's structural flaws also reveals how to exploit them to collapse the working mid-cast. The same causal perception that traces Attraction Force currents also permits interference with those currents.
+Tone originates in the Essence Core (Spirit, what the soul means) but only becomes Harmonia once it travels outward to affect other Crystals (Attraction, what the soul reaches). **A thought that stays internal is not Harmonia. A thought that becomes vibration and crosses the gap between two souls is Harmonia**, regardless of whether the transmission is deliberate. Attraction here means the Attraction Layer, which makes the art common ground between the Spirit and Fate Paths, with the listening mostly on the first and the far reading on the second.
+> What makes Harmonia dangerous is that **listening and acting use the same channel.** The same sensitivity that lets a practitioner perceive a Crystal's distress frequency also lets them amplify it, dampen it, redirect it, or weaponize it against the emitting soul. The same tonal analysis that reveals a spell's structural flaws also reveals how to exploit them to collapse the working mid-cast. The same causal perception that traces Attraction Force currents also permits interference with those currents, on the small scale and at the price the third branch below makes plain.
 >
 > **Perception and manipulation are one skill applied with different intent.**
 >
@@ -114,7 +114,7 @@ All magic produces vibration. A glyph chain hums at a frequency determined by it
 
 **Draft Stability Verification** · Compatible glyphs produce harmonic consonance; incompatible glyphs produce dissonant interference. If the chain's composite tone is clean, the Draft is structurally sound. If it contains dissonant elements, the Draft will produce Preparation Failure or Draft Corruption when activated.
 
-**Rune Array Calibration** · A Harmonist can hear when an array is mis-tuned. The Aether hums wrong. The substrate vibrates at frequencies indicating destructive interference. Standing waves develop in the local Essence field. Calibration means adjusting individual runes' tonal output until the composite frequency resolves into consonance.
+**Rune Array Calibration** · A Harmonist can hear when an array is mis-tuned. The Aether hums wrong. The substrate vibrates at frequencies indicating destructive interference. Standing waves develop in the local Aether field. Calibration means adjusting individual runes' tonal output until the composite frequency resolves into consonance.
 
 **Enchantment Analysis** · Any enchanted object radiates the tonal signature of its active working. A Harmonist can read an enchanted weapon's Wellspring alignment, Duration authorization, Boundary limits, and structural integrity **without touching it**, and can identify concealed enchantments passive scans would miss, because harmonic analysis registers frequency rather than Flux magnitude.
 > **Hostile Working Deconstruction.** If a Harmonist can read a hostile working's tonal structure during the casting process, they can identify its harmonic weak points. Projecting a precisely tuned counter-frequency at that weak point during the casting window produces **Interference Lock**: the working's waveform is overwritten and the spell is pinned or unraveled mid-flight.
@@ -146,6 +146,8 @@ The branch most commonly called divination, and the one most easily misunderstoo
 **Convergence Forecasting** · The question is *which presences are currently moving toward resonant convergence, and what happens when they arrive at the same frequency*, and it is never *what will happen*. A skilled Diviner can forecast convergence events days or weeks in advance.
 
 **Dissonance Warning** · The civic application: monitoring the tonal health of bridges and walls, households and guilds to identify collapse-in-progress before it becomes catastrophic. The **Sonochoral Conclave's** primary service to the Concord is Dissonance Warning at institutional scale.
+
+> **Hearing a thread is no grip on one.** This branch is the licit, open end of the Plane of Fate because it only looks. A Diviner can hear exactly how a bond is straining and be no nearer to moving it than a physician is to moving a mountain by knowing its weight. One who tries is making a real Fate pull, with all that costs, and no ear makes that lighter. It is why Bond Reading is a trade with a fee schedule and a Fate Art is something families kill for.
 
 **Temperance Gate** · Stage VIII for basic Bond Reading · Stage X for Convergence Forecasting · Stage XII for Attraction Force resonance tracking.
 

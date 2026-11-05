@@ -21,7 +21,7 @@ The first fourteen constitute canonical mortal progression, Murmuring through Ze
 
 ### Stage I — Murmuring (Tier 1 · Initiate)
 
-The Crystal has opened. Essence (the soul's own power) stirs but cannot be directed. The practitioner feels power as noise, a hum beneath the skin that responds to emotion but not to intent. All Sub-Stats (the sixty-four finer stats beneath the eight Primaries) present but volatile. Output unreliable and heavily mood-dependent. **Max Grade E. Ceiling 50.** (Max Grade: the highest letter rank of output; Ceiling: the highest stat value.) The world has noticed you. You have not yet noticed the world noticing.
+The Crystal has opened. Essence (the soul's own substance, spent as power) stirs but cannot be directed. The practitioner feels power as noise, a hum beneath the skin that responds to emotion but not to intent. All Sub-Stats (the sixty-four finer stats beneath the eight Primaries) present but volatile. Output unreliable and heavily mood-dependent. **Max Grade E. Ceiling 50.** (Max Grade: the highest letter rank of output; Ceiling: the highest stat value.) The world has noticed you. You have not yet noticed the world noticing.
 
 ### Stage II — Welling (Tier 2 · Apprentice)
 
@@ -29,11 +29,11 @@ Essence rises and spills before it can be contained. The practitioner feels the 
 
 ### Stage III — Ascension (Tier 3 · Journeyman)
 
-First true awakening. The Path (the practitioner's road of development) becomes visible. The Crystal begins expressing a coherent identity rather than reactive noise. Techniques can be constructed deliberately. The practitioner transitions from surviving their power to directing it. **Max Grade C. Ceiling 175.** *Catalyst:* first technique developed independently from instruction.
+First true awakening. The Path (the layer of the Crystal a soul has begun to lean on) becomes visible. The Crystal begins expressing a coherent identity rather than reactive noise. Techniques can be constructed deliberately. The practitioner transitions from surviving their power to directing it. **Max Grade C. Ceiling 175.** *Catalyst:* first technique developed independently from instruction.
 
 ### Stage IV — Flourishing (Tier 4 · Adept)
 
-Power blooms. Identity stabilizes. The resonance signature becomes recognizable and consistent. Techniques cohere into a personal style rather than isolated expressions. The first genuine Spirit Axis bonds (bonds with another soul that carry real weight) become mechanically possible. **Max Grade B. Ceiling 275.** *Catalyst:* formation of the first genuine Spirit Axis bond.
+Power blooms. Identity stabilizes. The resonance signature becomes recognizable and consistent. Techniques cohere into a personal style rather than isolated expressions. The first genuine Spirit Axis bonds (bonds with another soul that carry real weight) become mechanically possible. The First Release (the one concept taken into a transformed body) opens from this Stage, to be found and mastered by fighting. **Max Grade B. Ceiling 275.** *Catalyst:* formation of the first genuine Spirit Axis bond.
 
 ### Stage V — Splintering (Tier 5 · Expert)
 

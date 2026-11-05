@@ -17,11 +17,11 @@ A soul has three layers, one to each plane: the Essence Core holds identity on t
 
 **The Essence Cores never fuse.** Each donor keeps a Core of their own, with their own identity, memory and Traits, and only one of them holds the frame's single point of outward control at a time. The hand-off between donors costs something the Continuum recognizes: it pulls down Dexterity and the Reflex family of Sub-Stats, however well the frame is built. That is the stumble the market saw.
 
-**The Aether Shell fuses, without exception.** One frame produces exactly one Aether Class and one η (eta, the share of each spend that arrives as effect), however many donors it carries, because a body has one nervous system to conduct through. A Concordant Crystal does not multiply a Shell's ceiling by its donors. It gives five people the throughput of one Shell.
+**The Aether Shell fuses, without exception.** One frame produces exactly one Aether Class and one η (eta, the share of each spend that arrives as effect) for whatever goes out through the Shell, however many donors it carries, because a body has one nervous system to conduct through. A Concordant Crystal does not multiply a Shell's ceiling by its donors. It gives five people the throughput of one Shell.
 
 **The Attraction Layer alone is plural.** It carries one Wellspring harmonization per donor, each running beside the others without blending, which is how one frame can show several Wellsprings where a single Crystal shows a compatible few. Donors whose Wellsprings are opposed cannot anchor one Layer, and the frame will not form or will not hold.
 
-Coherence and η are read once off the shared Shell. Tempering Coherence, the Sub-Stat, stays with each donor because it lives in the Essence Core, and a frame is exactly as stable as its least coherent donor, and not as stable as their average.
+Coherence and the Shell's η are read once off the shared Shell. Essence Class and Thread Class do not pool, since neither the Cores nor the Layer's harmonizations have fused, so a working authored in one donor's Core reads that donor's own rung. Tempering Coherence, the Sub-Stat, stays with each donor because it lives in the Essence Core, and a frame is exactly as stable as its least coherent donor, and not as stable as their average.
 
 ## What it costs
 

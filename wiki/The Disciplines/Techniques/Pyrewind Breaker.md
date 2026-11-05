@@ -29,7 +29,7 @@ Two Caloria Wellsprings run it. Exuroth, the Trial Flame, primary: repeated shoc
 The inherited failures are the two ways this art kills its owner. Exuroth's quench cracking comes when the interval is skipped, and with Overchannel Backlash it reads as internal overheating, the Structural fault. Cataclysm's reflected overpressure is the wave returning to its origin in confinement, the Boundary fault: in a closed room the reflected shock comes home to the caster, who takes the wave plus its reflection. At η 0.60 to 0.70, 30 to 40 percent leaves the Shell as heat and sound, indistinguishable from the effect, so a low-efficiency caster suits this working very well. The Residue is heavy and physical, char and ash that Cinerion can metabolize. The ground deafens Harmonists for a while, and repeated bursts in one place push it toward saturation and Crystal Fracture for everyone present.
 
 **Cost.** Ten percent of reserve a burst, and a real chance of cooking yourself from the inside if you hurry.  
-**Counter.** Thaloré-worked water blunts the blast, a Cinerion rust-barrier redirects the force, a Verdantia ward muffles the spread, and a hand over the mouth stops it being said at all.
+**Counter.** Phreatis-worked water blunts the blast, a Cinerion rust-barrier redirects the force, a Verdantia ward muffles the spread, and a hand over the mouth stops it being said at all.
 
 **What nobody knows.** Why the shockwave sometimes outruns the flame it came from instead of arriving with it.
 
@@ -39,11 +39,11 @@ The inherited failures are the two ways this art kills its owner. Exuroth's quen
 
 **Limits** · 20 m; under a second; no steering, throttling, aiming or recall; capped at 120 GJ of fire by the room's oxygen.
 
-**Fails against** · A hand over the mouth; a cellar, snowfield, flooded street or sealed vault; Thaloré water, which blunts the blast; a Cinerion barrier, which turns the shock; a Verdantia ward, which muffles it; a corridor, where the reflection returns.
+**Fails against** · A hand over the mouth; a cellar, snowfield, flooded street or sealed vault; Phreatis water, which blunts the blast; a Cinerion barrier, which turns the shock; a Verdantia ward, which muffles it; a corridor, where the reflection returns.
 
 **Blindness** · It spares nothing inside twenty meters, including what the practitioner would protect; a second burst inside the tempering interval comes untempered.
 
-**Look up** · The Caloria terrain entries; Thaloré, Cinerion and Verdantia; the Caloria Failures for Exuroth and Cataclysm; Overchannel risks; the Glory Stage table; the A-Grade band.
+**Look up** · The Caloria terrain entries; Phreatis, Cinerion and Verdantia; the Caloria Failures for Exuroth and Cataclysm; Overchannel risks; the Glory Stage table; the A-Grade band.
 
 ### Numbers
 

@@ -4,6 +4,10 @@ title: Matla
 
 # Matla
 
+**Matla is the Instrument of the Paths.** Aegor wrote it in the Second Epoch, the Zettari alone can carry it, and each descendant must still be recognized before a Practice is truly theirs. It has nine Practices: Form, Anti-Form, Time, Space, Dominion, Essence, Void, Reality and Totality, and all of it obeys one law, *to exist is to bear*. The full account is on [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari|the Zettari's own page]].
+
+Everything below is the older reading. What the schools have long taught as the **Material Force**, with six branches and a learned ladder, is what careful outsiders worked out by watching it from the far side of a battlefield. Kusharan scholars call it incomplete, and they are right, and it has also kept a great many walls standing. It is open to anyone who can pay for it. Its ladder, from object through contact, recognition and law to the whole system, is how any soul climbs the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Body Path]], whether or not they have ever heard the word.
+
 *Discipline Classification Entry — Second Epoch Archive, Aegorian Reconstruction*
 > To the unlearned it appears to be the manipulation of stone, metal, flesh, earth, and crafted matter. To the scholars of Aegor, this is merely its outer expression.
 >
@@ -28,7 +32,7 @@ At lesser attainments it resembles advanced matter shaping. At greater attainmen
 
 ---
 
-## The Practices of Matla
+## The Six Branches of the Material Force
 
 ### 1 · Form — , mass, density, substance
 

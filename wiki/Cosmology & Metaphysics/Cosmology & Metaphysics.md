@@ -9,7 +9,7 @@ tags:
 
 # Cosmology & Metaphysics
 
-> Three planes, nested rather than stacked. Fourteen crowned ideas administering the principles that make the planes legible to each other. One threshold where the laws of all three become negotiable. And, running underneath the whole architecture, a count that was wrong by a factor near forty until somebody checked the ash.
+> Two realities and the thing above them that is not one. Fourteen crowned ideas administering the principles that make the planes legible to each other. One threshold where the laws of all three become negotiable. And, running underneath the whole architecture, a count that was wrong by a factor near forty until somebody checked the ash.
 >
 > *"Reality is the shape that possibility chooses to wear for a little while. The Plane of Fate is the wardrobe."*
 >
@@ -25,16 +25,18 @@ Everything below is the loudest and oldest argument in the library, and I am ver
 
 Everything in this section descends from a single event that no surviving record explains. Before it there was **Omnara**, the state of totality before totality required compartments. After it there were three currents, and from the three currents three planes, and from the three planes three sovereign intelligences, and from the tension between those three the **Fourteen Archons** condensed into conceptual sovereignty.
 
-The planes nest inside one another, and any diagram that stacks them is wrong. The **Plane of Fate** lies deepest, the lattice upon which all possibility rests. The **Soul Plane** lies between, the stratum through which abstract law becomes a soul's felt truth. The **Physical Plane** sits at the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a transition zone must exist, and that transition zone is the **Veil**. Careful Measurewrights add that only the Soul and Physical Planes are realities at all, the two lower realities. What lies deepest is everything that flows, every possibility, idea and concept, the law and construction of the world, and "plane" is a courtesy.
+The three are not three of a kind, and any diagram that draws them as three equal floors of one house is wrong. The **Physical Plane** is Physical Reality, Aegor's, where truth becomes event, body, ruin, and mountain range. The **Soul Plane** is Spiritual Reality, Ashura's, the stratum through which abstract law becomes a soul's felt truth. Those two are the lower realities, neither of them over the other, and everything that is, is in one or both. The **Plane of Fate**, Bara's, is above them, and a careful Measurewright will stop you for calling it a reality at all. It is everything that flows, every possibility, idea and concept, anything that can happen in the two below before it has, the lattice all of it hangs from and the law and construction of the world, and "plane" is a courtesy. Wherever one plane's law borders another's, a transition zone must exist, and that transition zone is the **Veil**.
+
+Most if not all of the Archons are Sovereign on all three planes, and on the Plane of Fate they are the laws as well as the powers. Some are deemed greater than others, and **Uurgath and Urion** are unparalleled in Fate, because what they are cannot be conceived. Each of the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|three Paths]] is a soul's way of reaching one of the three: Body the Physical, Spirit the Soul Plane, Fate the thing above. Being above makes Fate the hardest of the roads and in no way the best of them.
 ```mermaid
 flowchart TD
     O["OMNARA: The Apeiron<br>totality before partition"]
     O -->|"First Current"| C1["Sequence · causality<br>Attraction Force in raw form"]
     O -->|"Second Current"| C2["Substance · mass<br>the debt of consequence"]
     O -->|"Third Current"| C3["Awareness · empathy<br>the recursive spark"]
-    C1 --> PF["THE PLANE OF FATE<br>deepest, the lattice"]
-    C2 --> PP["THE PHYSICAL PLANE<br>surface, event and body"]
-    C3 --> SP["THE SOUL PLANE<br>between, felt truth"]
+    C1 --> PF["THE PLANE OF FATE<br>above, and no reality<br>every possibility, the law of the world"]
+    C2 --> PP["THE PHYSICAL PLANE<br>lower reality, event and body"]
+    C3 --> SP["THE SOUL PLANE<br>lower reality, felt truth"]
     PF --> B["BAIROS<br>the Weaver Eternal"]
     PP --> A["AEGOR<br>the Stone-Father"]
     SP --> AS["ASHURA<br>the Breath Between Worlds"]
@@ -46,7 +48,7 @@ flowchart TD
     PP -.-> V
     SP -.-> V
 ```
-> **The hierarchy of law.** Titanic Law governs the geologic and cosmic architecture of the Realms. **Archonic Law** governs the conceptual forces that give physical and energetic phenomena their meaning. **Wellspring Law** governs the behavior of Essence currents and Aether: Aether comes in types that affect the Soul Crystal differently, those types are the sixty Wellsprings, and each is a source of power that also stands for an alchemical principle and a spiritual transformation. All spells, Domains, Soul Crystal mutations, Wellspring Paths, and godlike abilities must rest on one of these three strata. No magic exists outside the lattice Omnara's Division created.
+> **The hierarchy of law.** Titanic Law governs the geologic and cosmic architecture of the Realms. **Archonic Law** governs the conceptual forces that give physical and energetic phenomena their meaning. **Wellspring Law** governs the behavior of Aether and of the Essence a soul refines from it: Aether comes in types that affect the Soul Crystal differently, those types are the sixty Wellsprings, and each is a source of power that also stands for an alchemical principle and a spiritual transformation, and is a lens a soul can base its tempering on. All spells, Domains, Soul Crystal mutations, Wellspring temperings, and godlike abilities must rest on one of these three strata. No magic exists outside the lattice Omnara's Division created.
 
 ---
 

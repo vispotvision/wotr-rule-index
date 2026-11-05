@@ -40,6 +40,8 @@ flowchart LR
     HK -.->|"authorizes"| RC
 ```
 
+Prior does not mean better. The Works were there first, and a Moto will tell you so at length, but no road through the world is simply superior to another, and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Body, Spirit or Fate Path]] fighter can each kill either of the others on the right day. A discipline is not a Path either. Any Path can take up any discipline, and it will lean on whichever layer of the Crystal that Path has made its home, more or less comfortably.
+
 ---
 
 ## The Taxonomic Categories
@@ -50,6 +52,8 @@ Every named discipline in the Continuum decomposes into these categories. A disc
 > [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy]]
 >
 > **The taxonomy page is the authority. This table is a pointer.**
+>
+> *The tag Attraction names the Attraction Layer and the forces it runs on. Those categories are home ground to the Fate Path.*
 
 | Category | Alignment | What it governs |
 |---|---|---|
@@ -93,6 +97,8 @@ Every act of structured magic passes through five steps, whatever discipline is 
 | **4 · Aether Formation** | Physical Plane | The Shell conducts the fragment outward and gives it form. Aether Class determines how clean this step is. |
 | **5 · Attraction Anchoring** | Plane of Fate | The Attraction Layer claims the working as a recognized presence. This is the step that grants **duration**. Without it, the form dissolves the instant concentration lapses. |
 
+Every practitioner runs all five, and every soul has all three layers to run them through. A Path decides which step the Crystal leans on. Step three is why nobody who has been there calls the reserve a fuel: Essence is the soul's own substance, and what the Core donates is a piece of the person doing it.
+
 ---
 
 ## Registers
@@ -109,7 +115,7 @@ The documents in this section do not share a voice, and reading them correctly m
 
 ## What a Discipline Is on the Sheet
 
-No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own.
+No window has a line that says Sage. What a window shows is **skills**, which rise with use and show as Grades: Drafts, runes, tags and chants among them, alongside the sword and the ledger, with all but the Drafts wanting a woken Crystal. **Techniques** are named things done with those skills, showing no level and taking a bigger name when they jump. **Traits** keep their own levels. The **Class** a soul is offered at its thresholds fits how the person has lived, and a life spent in one school tends to get that school's kind of offer, though the one wild concept stays the person's own. Beside it run the [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|three ladders]], Aether Class for influence on the physical world, Essence Class for influence on the spiritual and Thread Class for how much of Fate a soul can hold, each setting the efficiency of workings through its own layer.
 
 A discipline is what all of that looks like from across the road, and a school is where you go to get it. Money will buy a Stage, and sects teach what money cannot buy: Releases, Domains, techniques, skills and the rites for their Wellspring. That is why a school can still charge what it charges, and why the four at the Founders' Fair are still hitting each other.
 
@@ -117,9 +123,9 @@ A discipline is what all of that looks like from across the road, and a school i
 
 ## Entries
 
-Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized. It stands apart from the entries after it because it is a real **Fate Art**: control of Attraction Force and Obsession Force and of the probabilities things turn on. Fate Arts are rare, mostly by bloodline and considered incredibly overpowered, and Hataraki can take back or remove a blessing.
+Read **Hataraki** first. Everything else in the Continuum is a way of performing a labor it already authorized. It stands apart from the entries after it because it is a real **Fate Art**: control of Attraction Force and Obsession Force and of the probabilities things turn on. Fate Arts are rare, mostly by bloodline and considered incredibly overpowered, and Hataraki can take back or remove a blessing. They are also the hardest thing anyone in this section does: each Work is a distinct inherited grip on one function, because nobody has ever taken hold of Fate bare.
 
-The next four entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
+The next four entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates, and each school's page carries its colors, its songs and its grudges, because nobody ever chose a school for the theory. The four that follow are **bloodline and personal arts**: the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; Matla is the Instrument of the Paths, which Aegor wrote and only the Zettari can carry; and the Open Crucible belongs to one man and one ledger.
 
 *This page walks the arts in the order they are best met. The same pages are filed on two shelves, [[The Disciplines/Named Arts/Named Arts|Named Arts]] (what one person or one line derived and named) and [[The Disciplines/Schools and Bloodline Arts/Schools and Bloodline Arts|Schools and Bloodline Arts]] (what is taught and what runs in the blood).*
 
@@ -139,7 +145,7 @@ The next four entries are the general disciplines, open in principle to any prac
 
 ## The Practitioner Disciplines
 
-These are the named arts a practitioner *trains*, as opposed to the labors the Continuum authorizes. They are cataloged by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
+These are the named arts a practitioner *trains*, as opposed to the labors the Continuum authorizes. They are cataloged by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of origin rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it by what first happened to it.**
 
 **Moetana**, **Solution**, and **Asami** are *states* rather than disciplines in the strict sense: what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**

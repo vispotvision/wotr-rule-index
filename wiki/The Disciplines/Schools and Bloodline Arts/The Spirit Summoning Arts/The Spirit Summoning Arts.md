@@ -23,6 +23,8 @@ In the street an eidolon is a fetch and asking to see someone's is an insult, fo
 ## How It Really Works
 
 > What common parlance calls "summoning" is **a three-plane crossing**, and no single discipline. On the Physical Plane, Aether is shaped into a vessel. On the Soul Plane, the summoner's Essence Core donates identity, pattern, and animating current. On the Plane of Fate, Attraction Force magnetizes the construct into recognized existence.
+>
+> So a summoner touches all three Paths and has the time to master perhaps one. The yards sort accordingly: Spirit Path summoners live in Animatria, Body Path ones in the forge, and those who call things older than themselves stand at the shallow end of Fate. Most of the art's famous disasters are somebody reaching for a layer they only ever studied.
 
 | **Primary Categories** | Vocatia (Attraction-Aligned) · Animatria (Spirit-Aligned) · Arts (Body-Aligned) |
 |---|---|
@@ -51,7 +53,7 @@ A rare few summon with no contract and no construct at all, through Fate itself;
 ### Vocatia · the Recognition Layer
 
 Governs the highest and most dangerous form: invocation by recognition and correspondence. The summoner fabricates nothing from personal Essence and instead extends Attraction Force outward to contact an existing presence on the Plane of Fate (a Titan echo, an Archonic principle, a World Spirit fragment, a lesser entity, an ancestral resonance) and negotiate shared recognition.
-> **Vocatia is correspondence, with no domination in it.** The Plane of Fate's lawful currents treat any invocation addressed to an unwilling higher being as attempted **Usurpation**, regardless of how correct the surface syntax appears. Successful Vocatia is always an act of the Current of Recognition, never Refusal.
+> **Vocatia is correspondence, with no domination in it.** The Plane of Fate's lawful currents treat any invocation addressed to an unwilling higher being as attempted **Usurpation**, regardless of how correct the surface syntax appears. Successful Vocatia is always an act of the Current of Recognition, never Refusal. Nothing is pulled down and nothing is moved. A caller asks, and the thing comes or it does not, and that is the only reason this can be learned in a yard at all.
 This is why Vocatia practitioners are called negotiators rather than conjurers. Their art depends on the depth and authenticity of their Attraction Layer's resonance with whatever they are calling. **A shallow pact yields a shallow echo. A genuine alignment yields something that can think, act, and persist with terrifying independence.**
 
 **Temperance Gate** · Stage X (Realization) minimum for stable contact · Stage XII (Emanation) for sustained autonomous summons · Stage XIV (Zenith) for Archonic or Titanic correspondence.
@@ -122,7 +124,7 @@ Summoned spirits inherit the Wellspring alignment of their creator, and the shap
 | **Materia** *Coagula, Fixatio, Coagulatio* | Anchored, durable, slow-to-dissolve presences | Defensive constructs, ward-guardians, long-duration sentinels | Spirits may resist dissolution, becoming permanence hazards |
 | **Limina** *Eidolyn, Nihiloth, Oblivara, Vantabriel* | Absence-constructs, void-forms, negation agents, and from the Family's dream and memory members, dreamlike, memory-threaded forms | Anti-summoning fields, Mechanica containment, assassination support, scout-constructs, memory-archive vessels | Constructs may hollow the summoner's Essence Core through prolonged contact, erode their memory or identity, or blur the boundary between recalled and fabricated memory |
 | **Vitalia** *Verdantia, Anima Spirare, Benediction, Mortalis* | Vital warmth, restorative capacity, empathic responsiveness; from Mortalis, a quiet form for the last of it | Healer-companions, chorus-constructs, recovery-field generators, merciful release | Over-empathic resonance may cause the construct to absorb surrounding grief or trauma |
-| **Caloria** *Exuroth, Pyreveil, Manganthra, Catharsis* | Incandescent, volatile, catalytically intense | Siege-breaking, corruption-purging, trial-by-fire constructs | Constructs may exceed their Boundary glyphs and ignite uncontrolled Essence burn |
+| **Caloria** *Exuroth, Pyreveil, Manganthra, Catharsis* | Incandescent, volatile, catalytically intense; from Catharsis, a Spirit Wellspring, no flame at all, only a form that burns what its target is holding on to | Siege-breaking, corruption-purging, trial-by-fire constructs | Constructs may exceed their Boundary glyphs and ignite uncontrolled Essence burn |
 | **Fulguria** *Judicium, Aurevane, Luminalis* | Elevated clarity and judgmental precision | Truthseeking constructs, consecrated guardians, verdict-witnesses | Constructs may develop conviction that outlasts their authorization |
 | **Fluxia** *Somnalis, Thaloré, Oblation* | Fluid, reflective shapes that take the form of what holds them | Companions that read a room, tidal screens, forms that spend themselves for another | Constructs may take on the mood of whoever stands nearest, the enemy included |
 | **Vectoria** *Fractura, Petralon, Ascensio* | Heavy load-bearing forms, cracked with light where the strain runs | Breaching constructs, shield-walls, bearers that carry what the host cannot | Constructs may carry strain back down the tether when they break |

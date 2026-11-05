@@ -14,7 +14,7 @@ Every scarf on the road lifted. Her aura, a respectable brick red for sixteen ye
 ## Part Thirteen — The Sixty Wellsprings and Stat Interaction
 
 *"To pass through a Wellspring is to be unmade just enough to keep going."*
-> **Updated to the sixty-four Sub-Stat architecture.** Every Sub-Stat cited below is a current entry. Where an older reading named a retired Sub-Stat, the effect now sits on the entry that absorbed it, and the effect itself is unchanged. The merge ledger is on *IV. The Eight Primaries and the Sixty-Four Sub-Stats*.
+> **Updated to the sixty-four Sub-Stat architecture.** Every Sub-Stat cited below is a current entry. Where an older reading named an old Sub-Stat, the effect now sits on the entry that absorbed it, and the effect itself is unchanged. The merge ledger is on *IV. The Eight Primaries and the Sixty-Four Sub-Stats*.
 
 ### What a Wellspring Is
 
@@ -145,7 +145,7 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 
 **Stat Affinity:** Vitality (Fortitude, Tolerance, Regeneration, Absorption), Resilience (Integrity, Anchoring, Hardening, Persistence, Fortification), Dominion (Gravity), Tempering (Coherence, Clarity)
 
-**Coagula**, the Unifying Pulse. Temperance through merging. The personal, Soul Plane unifying force; a soul gathering itself back together. Strengthens Resilience Integrity, Tempering Coherence. The Crystal becomes harder to split.
+**Coagula**, the Unifying Pulse. Temperance through merging. The personal unifying force; a soul's scattered pieces gathered back into one body. Strengthens Resilience Integrity, Tempering Coherence. The Crystal becomes harder to split.
 
 **Fixatio**, the Binding Flame. Temperance through permanence. The anchoring law. Strengthens Vitality Fortitude, Resilience Anchoring. What is held by Fixatio stays held.
 
@@ -306,7 +306,7 @@ The stat system is the structural skeleton beneath every magic system in WOTR. W
 
 ### Sage Arts
 
-Terrain-anchored Wellspring communion. A Sage does not cast spells in the conventional sense. They synchronize their Crystal with a location's ambient Wellspring activity and redirect it through their Aetheric architecture.
+Terrain-anchored Wellspring communion. A Sage does not cast spells in the conventional sense. They synchronize their Crystal with a location's ambient Wellspring activity and redirect it through their Aetheric architecture. What comes back depends on the kind of ground: Wild ground gives the Sage the phenomenon itself, Spirit ground gives no fire and any discharge there is the Sage's own Essence, and Fate ground works on bonds and odds and on nothing anyone can see.
 
 **Primary:** Harmonics (Attunement, Synergy, Breadth) for synchronization; Gnosis (Perception, Analysis) for terrain reading; Dominion (Radius, Sense) for spatial extension.
 
@@ -336,7 +336,7 @@ Runes and tags, like chants, are skills and trades anyone with a woken Crystal c
 
 ### Hataraki, the Works of the Plane of Fate
 
-Not spells. The labor reality performs through practitioners who have become structurally aligned with specific principles of cosmic maintenance. Hataraki are Fate Arts, rare and held by bloodline, and their holders can take back or remove a blessing, whoever gave it.
+Not spells. The labor reality performs through practitioners who have become structurally aligned with specific principles of cosmic maintenance. Hataraki are Fate Arts, rare and held by bloodline, and their holders can take back or remove a blessing, whoever gave it. Nobody grips Fate bare, which is why there is more than one of them: each Work below is a distinct inherited way of taking hold of one function, and the stats listed are what that grip leans on.
 
 **Zentai-sei (Totality)**: Dominion (Sovereignty, Throne), Tempering (Ceiling, Maturity), Resilience (Persistence, Continuity). Wholeness and cosmic maintenance. Doctrine that encompasses rather than excludes.
 

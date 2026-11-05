@@ -370,7 +370,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **On the Spirit** · Thrown from the Core, a working on this lens reflects nothing and reports nothing. Whatever it takes joins the pile, and a ward it swallows becomes one more thing the caster must carry for life.
 
-**On Fate** · The lost stay bound to them, every dead friend, broken oath and failed cause keeping its pull on the Attraction Layer, so such a person trails a slow heavy draw that the sensitive feel as an empty chair, and survivors of ruined companies find their way to that door. Calling the whole weight down at once, so that a general who has beaten them five times looks up on the sixth field and finds all five defeats drawn up against him under one banner, is done once if at all, and the holder has to carry everything it brings.
+**On Fate** · The lost stay bound to them, every dead friend, broken oath and failed cause keeping its pull on the Attraction Layer, so such a person trails a slow heavy pull that the sensitive feel as an empty chair, and survivors of ruined companies find their way to that door. Calling the whole weight down at once, so that a general who has beaten them five times looks up on the sixth field and finds all five defeats drawn up against him under one banner, is done once if at all, and the holder has to carry everything it brings.
 
 **Spirit** · Temperance through absence. *The confessors' reading:* carrying what was lost.
 

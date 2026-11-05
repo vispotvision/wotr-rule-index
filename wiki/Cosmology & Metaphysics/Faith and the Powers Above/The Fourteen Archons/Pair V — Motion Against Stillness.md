@@ -23,7 +23,7 @@ They screamed at each other for fourteen miles. The chaplain's position, deliver
 
 > ***Divine Edict*** · *"Only that which moves endures."*
 
-Wyther governs the **Law of Continuance through Change**, the metaphysical truth that stagnation is death and movement is the soul's proof of life. His breath ignites storms, pushes the tides of Essence (Aether refined in a Soul Crystal) through the Wellsprings, and dictates the rise and fall of civilizations. His essence birthed the **Aetherstorm Era** when his followers shattered ancient stagnation wards to restart atmospheric Wellsprings, preventing Essence rot from consuming the Outer Realms.
+Wyther governs the **Law of Continuance through Change**, the metaphysical truth that stagnation is death and movement is the soul's proof of life. His breath ignites storms, pushes the tides of Aether through the Wellsprings, and dictates the rise and fall of civilizations. His essence birthed the **Aetherstorm Era** when his followers shattered ancient stagnation wards to restart atmospheric Wellsprings, preventing Essence rot (Essence being Aether refined in a Soul Crystal, the soul's own substance) from consuming the Outer Realms.
 
 #### Kineris: The Magic of Flux and Momentum
 

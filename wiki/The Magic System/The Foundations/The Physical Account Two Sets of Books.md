@@ -16,11 +16,13 @@ Thackeray's account of that afternoon and Garth's account were both complete, an
 
 Every working admits two complete descriptions. The soul's comes first, because it is what the person did. The physics follows, because it is how scholars explain what the person did, and how they tell you what it will charge.
 
-**The stratal account** describes the event across the three strata: which Wellspring's idea governed the soul that did it and what lens that laid on the person's own nature, what the Aether in that room was doing, under what boundary condition the law was invoked, and what it cost the Soul Crystal that spent it. This account requires a coil (the brass assay instrument a practitioner stands inside), a trained reader, and a practitioner willing to be read.
+**The stratal account** describes the event across the three strata: which Wellspring's idea governed the soul that did it, what lens that laid on the magic already in that soul and which Path it went out by, what the Aether in that room was doing, under what boundary condition the law was invoked, and what it cost the Soul Crystal that spent it. This account requires a coil (the brass assay instrument a practitioner stands inside), a trained reader, and a practitioner willing to be read.
 
 **The physical account** describes what happened to matter and energy in the room. Heat moved. Pressure changed. A structure failed along a plane of weakness. Air of a given humidity carried a given charge until it did not. This account uses ordinary measurement, it is reproducible, and a competent Measurewright can take it from the outside with instruments and arithmetic, even one whose Soul Crystal (the soul itself, which stores and channels power) has never woken.
 
 Both accounts are complete, and neither is a translation of the other. A working that has a good physical account and no stratal account was no working at all, and a working with a stratal account whose physics does not close was recorded by someone who did not check.
+
+How much each book has to say depends on the road. A Body Path blow gives the physical account nearly everything to write: the force, the tissue, the ground it went into. A working on the Spirit Path, and above all one under a Spirit Wellspring, may leave the room almost untouched, and then the physical book runs short: the reserve gone down, the waste heat on the practitioner's skin, a pulse taken, a man who sleeps differently afterward. It is a thin entry, and it still has to close, and the stratal book carries the rest. A pull on the Fate Path gives the opposite trouble. There the physical book closes perfectly and has nothing unusual in it, a worn strap parted at its worn stitch and a blade arriving where a blade could go, and the only line out of place is a person across the yard who has started to bleed from the nose. Everything that makes it a working is in the stratal book, which is how a Measurewright tells a pull from a bad morning, on the days she can tell at all.
 
 The Accord's Register asks for both from any hall that wants a working entered in it, and has since its second edition. Entries that carry only the mystic half are conventionally marked as devotional literature and shelved accordingly, which is the politest insult the Accord's archivists have ever agreed on. The confessors return the courtesy and file the physics-only entries under plumbing.
 
@@ -36,7 +38,7 @@ This is the single most misunderstood sentence in practical instruction. Nobody 
 
 A practitioner who pulls in a saturated room is working against a gradient and pays for it in Harmonics (the stat that governs pulling Aether from the ground). A practitioner who pulls in a depleted one is drinking from a dry cup. Neither has anything to do with how strong they are.
 
-**The Essence stratum.** The Soul Crystal is the soul, read here as a structure: its three layers, its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally.
+**The Essence stratum.** The Soul Crystal is the soul, read here as a structure: its three layers, its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency through each layer, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally, and the word is exact: Essence is Aether stamped with the identity of whoever refined it, the soul's own substance, so the coin of that invoice is the person.
 
 ## III. Where the Energy Comes From
 
@@ -46,7 +48,7 @@ The honest answer to the harder question is that a working's joules are Essence,
 
 This is why a Crystal can produce an output that no metabolism could sustain, and why the practitioner is nevertheless destroyed by producing it. The energy came out of the room, by way of the reserve, and never out of the body's own meals. The structure that let it move in that particular direction was in the person, and structure is what fails.
 
-Efficiency is the ratio of effect that arrives to Essence spent. The remainder leaves as heat, sound, and structural bleed, which is why a low-efficiency practitioner is loud, warm, and easy to find, and why the highest Bands (hundred-Level brackets of growth) leak so little: what a room sees and hears of them is their own aura and the working itself, never its waste.
+Efficiency is the ratio of effect that arrives to Essence spent. Each of the three layers has its own figure, set by that layer's rung on [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|the three ladders]] (Aether Class for the Shell, Essence Class for the Core, Thread Class for the Attraction Layer), so one soul can be thrifty through one layer and ruinous through another. The remainder leaves as heat, sound, and structural bleed, which is why a low-efficiency practitioner is loud, warm, and easy to find, and why the highest Bands (hundred-Level brackets of growth) leak so little: what a room sees and hears of them is their own aura and the working itself, never its waste.
 
 ## IV. The Four Theories
 
@@ -68,7 +70,7 @@ Nothing in a soul improves without strain, and strain is a physical event before
 
 Tempering melts the Crystal down and rebuilds it, one layer at a time. It refines the Essence the soul holds and makes that Essence stronger, and the body gains Traits from it. A Crystal densifies when it is driven to the edge of its structural tolerance and held there. In practice that means long breathing and pulling in dense Aether or at a site where a Wellspring pools, a seclusion held past comfort, an Essence Draft rendered from a monster's core, a real fight, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold (the crisis that lifts a soul to its next Stage) approached deliberately in a seclusion chamber or a training yard and one arrived at by accident in a ditch, except that the ditch has a better record. All of this is tempering and pressure on the next Stage. Level is another matter and moves by danger overcome, barring a blessing, so the real fight and the ditch count twice and the seclusion once. Neither does the Crystal ask where the Threshold's Catalyst (the event a Stage demands before it will open) came from. Drafts and blessings can supply one, so a Stage can simply be bought, and the melt is every bit as real in a house with good carpets. What that buys and what it does not is on [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], and the ditch still has the better record.
 
-Because the Aether Shell is the Material-Plane layer, everything a Crystal does eventually shows in tissue. Traits (standing laws a soul carries, formed by what it survived, each with a level that rises with use) deposit mineral, rebuild vasculature, alter myelination, shift resting core temperature. Overchannel (forcing output past the Crystal's safe ceiling) scars. Essence Starvation (running below a tenth of reserve) flickers a Trait the way a bad wick flickers a lamp. A practitioner's history can be taken off their living body by a competent physician and off their dead one by a competent renderer, and the second reading is better.
+Because the Aether Shell is the layer that sits in the Physical World, everything a Crystal does eventually shows in tissue. Traits (standing laws a soul carries, formed by what it survived, each with a level that rises with use) deposit mineral, rebuild vasculature, alter myelination, shift resting core temperature. Overchannel (forcing output past the Crystal's safe ceiling) scars. Essence Starvation (running below a tenth of reserve) flickers a Trait the way a bad wick flickers a lamp. A practitioner's history can be taken off their living body by a competent physician and off their dead one by a competent renderer, and the second reading is better.
 
 This is why the physical account matters at all. A system that only described itself in its own vocabulary could not be checked. The body is where the two sets of books are reconciled, and the reconciliation is involuntary.
 
@@ -86,7 +88,7 @@ A window balances neither book and proves nothing in a hearing, since its only w
 
 The Registry's standard, reordered in this edition to run in the order the thing actually happens, and honored about half the time.
 
-**The concept**, in one breath and ordinary words, with the Wellspring whose idea it wears and the transformation that Wellspring works.
+**The concept**, in one breath and ordinary words, with the Wellspring whose idea it wears, the transformation that Wellspring works and the Path it goes out by.
 
 **The phenomenon**, named in ordinary terms and in the vocabulary a Measurewright would use.
 

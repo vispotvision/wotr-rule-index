@@ -45,6 +45,8 @@ He dwells within the **Loom of Stars**, a construct visible only from the Astral
 >
 > *"I am not your destiny. I am the floor it walks upon."*
 
+A careful reader will set that line beside the rest of this shelf, which puts his plane above the other two, and ask how a thing above you can also be your floor. Law can. It sits over the judge and under the house at the same time, and the Plane of Fate is the law and construction of the world.
+
 ---
 
 ## II. Aegor, the Stone-Father
@@ -59,7 +61,7 @@ Aegor is the hand that gives weight to thought. If Bairos wrote causality, Aegor
 
 His domain is the **Adamant Vault**, an endless cavern beneath all Realms where reality's structure hums. Every object in existence casts a metaphysical echo there: stars as mountains, thoughts as motes of dust, bodies as sculpted strata. Within it sleep the **Four Pillars**, titanic oxen carved from living basalt whose hooves pulse with heartbeat rhythm, upholding the cosmic crust of matter itself.
 
-Aegor compacted Essence into the first strata of matter, creating gravity, pressure, and the weight of mortality.
+Aegor compacted Aether into the first strata of matter, creating gravity, pressure, and the weight of mortality.
 > **The Three Laws of Aegor** · the **Covenant of Weight**, the **Anvil and the Spark**, and the **Pillar and the Root**. Together they ensure that nothing may exist freely, that endurance validates existence, and that every form survives by its unseen foundation.
 >
 > *"Ideas are smoke until struck upon my anvil."*
@@ -87,4 +89,4 @@ Her domain, the **Empyreal Veil**, lies between dream and Aether, a sea of soft-
 >
 > **Bairos writes meaning. Aegor builds form. Ashura remembers why.**
 
-The registers call the three Epochs the three Realities, and every careful Measurewright winces at that and then does it anyway. Aegor's is Physical Reality and Ashura's is Spiritual Reality, and these are the lower realities, where things are. What Bairos stands over cannot honestly be called a reality at all. It is everything that flows: every possibility, every idea, every concept, anything and everything that can happen in the two below. That is what a soul is reaching for on each of the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|three Paths]].
+The registers call the three Epochs the three Realities, and every careful Measurewright winces at that and then does it anyway. Aegor's is Physical Reality and Ashura's is Spiritual Reality, and these are the lower realities, where things are. What Bairos stands over is above them both and cannot honestly be called a reality at all. It is everything that flows: every possibility, every idea, every concept, anything and everything that can happen in the two below, and it is the law and construction of the world itself. That is what a soul is reaching for on each of the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|three Paths]]: the Body Path into what Aegor built, the Spirit Path into what Ashura remembers, the Fate Path up into what Bairos wrote. The reach upward is the hardest of the three and buys no rank over the others, as anyone who has lost a straight exchange to a Body fighter can tell you, provided they lived.

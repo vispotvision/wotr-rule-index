@@ -4,7 +4,7 @@ title: The Ketsumyōgan — The Binding Fate Eye
 
 # The Ketsumyōgan — The Binding Fate Eye
 
-Eleven hundred people paid the ferry toll in October to watch Ōtori Genba, nineteen duels unbeaten, in a coat the color of a cut persimmon with his school's banners behind him, cross the Oritsu sandbar and kill a quiet woman in crow black. Yukari Hisame had brought a folded paper fan and a head cold. Genba called his cut so that they heard it on the far bank, and it was the finest cut anyone on that river ever saw, and everybody agrees on that, because they all saw it finish: the blade through the line of her neck, the long follow-through, the sand jumping behind her. She stood there with her left iris gone to a violet-black ring and crimson threads turning in it. Nothing had happened to her. The cut had happened, entirely, and no consequence had come of it, and his body stood waiting for an answer to the question it had asked, and in the fraction of a second it spent waiting she closed the fan and put its guard-stick through the hollow of his throat. His bannermen were still cheering the cut when he fell over. That winter her sister wrote to her from the coast. She could see the thread between them, amber to the last fiber, and could have told you its weight and its age, and she read the letter twice looking for the part of it she was supposed to feel.
+Eleven hundred people paid the ferry toll in October to watch Ōtori Genba, nineteen duels unbeaten, in a coat the color of a cut persimmon with his school's banners behind him, cross the Oritsu sandbar and kill a quiet woman in crow black. Yukari Hisame had brought a folded paper fan and a head cold. Genba called his cut so that they heard it on the far bank, and it was the finest cut anyone on that river ever saw, and everybody agrees on that, because they all saw it finish: the blade through the line of her neck, the long follow-through, the sand jumping behind her. She stood there with her left iris gone to a violet-black ring and crimson threads turning in it. Nothing had happened to her. The cut had happened, entirely, and no consequence had come of it, and his body stood waiting for an answer to the question it had asked, and in the fraction of a second it spent waiting she closed the fan and put its guard-stick through the hollow of his throat. His bannermen were still cheering the cut when he fell over. She sat down on the sand a moment later with blood running out of the violet eye and both nostrils, having spent on that one heartbeat the better part of what she walked out with, and she was carried to the ferry and did not fight again that year. That winter her sister wrote to her from the coast. She could see the thread between them, amber to the last fiber, and could have told you its weight and its age, and she read the letter twice looking for the part of it she was supposed to feel.
 
 ### THE KETSUMYŌGAN (結命眼 · Ketsumyōgan) (bloodline ocular art, Yukari exclusive)
 She can see the strings between everything, and she has scissors.
@@ -50,6 +50,12 @@ Every entity, event, object, and outcome in existence is connected to every othe
 Where ordinary Wellspring perception registers one plane at a time, filtered through the Veil's liminal medium, **the Ketsumyōgan reads the Veil itself as a text.** It sees the weave.
 
 This is why the Yukari are called the Weavers, the Thread-Readers, the Crows of Fate. The crow sits above the battlefield and sees the pattern. The Ketsumyōgan is the crow's eye.
+
+### Seeing is cheap, and the scissors are not
+
+Nobody takes hold of Fate bare, and this eye is how the Yukari do it. Like each Work of the Moto, each type is one distinct inherited way of taking hold of one function: this one reads, this one cuts, this one ties, and a bearer whose left eye cuts cannot, by wanting to, make it tie. The blood gives the grip, and a Yukari's [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]] can open early because of it. It does not make the work light.
+
+Reading is the easy half, and bearers do it all day. **Every edit in the sections below is a real pull on the Plane of Fate**, with a visible charge in the iris and a price: even a small one can take a large share of the reserve and leave the eye bleeding, and it often fails. It moves only what already has a way of happening, so a thread can be cut only where a thread is, and a thing sound and well bound gives the scissors nothing. The target's Persistence and Continuity push back against the bearer's Dominion, some threads are too heavy to lift, and some belong to something that may look up. The Yukari fight mostly by knowing, and by putting a fan or a blade where the knowing says. The scissors come out when it counts.
 
 ---
 
@@ -104,7 +110,7 @@ flowchart TD
 
 **Lock Sight** 締視 · *Teishi.* Reads an entire Lock sequence: every branching possibility already eliminated, every one still open, and the exact moment each remaining branch will close. **This is causal architecture, and no prophecy.** The bearer sees the present so completely that the future becomes structurally obvious.
 
-**Lock Delay** 締延 · *Teien.* Presses Essence against a thread approaching its Lock-point, slowing convergence. The Lock still comes, later. Cost scales with the weight of the event: delaying a falling stone costs almost nothing; delaying a killing blow costs enormously.
+**Lock Delay** 締延 · *Teien.* Presses Essence against a thread approaching its Lock-point, slowing convergence. The Lock still comes, later. Cost scales with the weight of the event: delaying a falling stone is a hard morning's work; delaying a killing blow costs enormously.
 
 **Lock Acceleration** 締速 · *Teisoku.* The inverse. An opponent's attack commits before their body is fully aligned. A collapsing structure fails before the occupants can evacuate. A decision forming in someone's mind crystallizes before they have finished weighing their options. **Ethically complex. The Yukari who use this carry the weight of consequences they chose to hasten.**
 
@@ -128,7 +134,7 @@ flowchart TD
 > **The eye the Yukari fear most in their own bloodline**, because a thread once severed does not reconnect naturally, and the consequences of cutting a bond that was load-bearing for someone's fate, someone's soul, or someone's connection to reality itself are permanent and frequently catastrophic.
 **Passive** · All threads in range are visible with enhanced clarity around their structural weak points. Previously severed threads appear as scarred stumps, allowing the bearer to read the surgical history of a target's causal web. **The bearer's own threads are visible too, including their weak points**, which produces the uncomfortable self-knowledge of exactly where one's own connections are most vulnerable.
 
-**Thread Cut** 糸斬 · *Itozan.* The bearer looks at the thread, the eye's energy reaches through the Veil along the thread's path, and the thread breaks. Range limited to visual contact. The heavier the bond, the greater the Essence cost. Cutting a casual acquaintance's thread is trivial. Cutting an ancestral bond costs enormously. **Cutting a Fate-Plane destiny thread is theoretically possible and practically suicidal.**
+**Thread Cut** 糸斬 · *Itozan.* The bearer looks at the thread, the eye's energy reaches through the Veil along the thread's path, and the thread breaks. Range limited to visual contact. The heavier the bond, the greater the Essence cost. Cutting a casual acquaintance's thread is the least of it, and still no small thing. Cutting an ancestral bond costs enormously. **Cutting a Fate-Plane destiny thread is theoretically possible and practically suicidal.**
 
 **Causal Disconnect** 因断 · *Indan.* Rather than cutting between two entities, the bearer severs the causal connection between an action and its intended consequence. A sword swings but the thread connecting the swing to the cut is severed mid-flight. The action occurs. The consequence does not follow. **This is an edit rather than a block.** The bearer is telling the Continuum that this cause does not produce this effect, and the Continuum will only tolerate that lie for a heartbeat before reasserting natural law.
 
@@ -166,7 +172,7 @@ flowchart TD
 
 **Thread Redirect** 糸転 · *Itoten.* Moves a weft thread. The endpoints remain the same but the path changes, and this alters how the connection manifests. A thread running through the Physical Plane (two people who would meet by chance) can be redirected through the Soul Plane (they now meet through a shared emotional experience) or the Fate Plane (they meet because probability architecture has rearranged to make their intersection inevitable). **The outcome changes based on the path, not the endpoints.**
 
-**Pattern Shift** 紋移 · *Mon'i.* Rearranges multiple weft threads simultaneously. Large-scale probability manipulation. A battlefield whose causal web favored the enemy can be reweaved so the threads converge on the bearer's allies. **Nothing is guaranteed**: the weave resists unnatural patterns, and the more the rearrangement deviates from the web's natural tendency, the harder the threads fight back and the greater the risk of Resonance Trauma.
+**Pattern Shift** 紋移 · *Mon'i.* Rearranges multiple weft threads simultaneously. Large-scale probability manipulation. A battlefield whose causal web favored the enemy can be reweaved so the threads converge on the bearer's allies. **Nothing is guaranteed**: the weave resists unnatural patterns, and the more the rearrangement deviates from the web's natural tendency, the harder the threads fight back and the greater the risk of Resonance Trauma. A whole field moved this way is a life's masterwork, done rarely, and the bearer may not get up from it.
 
 **In combat** · The strategist's eye, which repositions instead of fighting. An incoming attack's thread can be redirected to converge on a different target, an obstacle, or **the attacker's own thread**, folding the strike back toward its origin. The cost is sustained concentration and heavy Essence expenditure, and the manipulation must be continuously maintained or the web snaps back.
 
@@ -174,7 +180,7 @@ flowchart TD
 
 *All Threads.* The apex manifestation, equivalent to the Kamigan's Crown Judgment. It combines all seven preceding functions into a single unified ocular authority available through one eye. **The Zenshi governs where the other seven specialize.**
 > **Rarity.** Fewer than a dozen manifestations in the recorded history of the Yukari bloodline. It appears only in bearers whose Crystal has achieved sufficient depth across all Wellspring harmonizations to support the triplanar processing load, and whose causal stress at awakening was so comprehensive that the eye's response was not specialization but totality. **Most Zenshi manifestations occur during events that threaten the Yukari lineage itself.**
-**Loom Sight** 機視 · *Kishi.* The complete vision. Every thread, every Lock-point, every severed connection, every dormant bond, every plane, every transition, every weight. Only a Crystal with deep, balanced harmonization across multiple Families can sustain it without catastrophic Resonance Trauma. **A Crystal dominated by a single Affinity will shatter under the triplanar load.**
+**Loom Sight** 機視 · *Kishi.* The complete vision. Every thread, every Lock-point, every severed connection, every dormant bond, every plane, every transition, every weight. Only a Crystal with deep, balanced harmonization across multiple Families can sustain it without catastrophic Resonance Trauma. **A Crystal tempered on one lens alone will shatter under the triplanar load.**
 
 **Sovereign Weave** 機命 · *Kimyō.* The apex technique. The bearer imposes a deliberate pattern upon the causal web within a defined radius, simultaneously perceiving, severing, joining, redirecting, and locking threads to produce a specific outcome. **This has gone past probability manipulation into fate authorship.** The bearer writes a sentence in the language of causality and the Continuum executes it.
 > The cost is existential. Sovereign Weave **consumes the bearer's own fate-threads as fuel**, shortening their remaining destiny by an amount proportional to the complexity of the pattern imposed. Every use costs a piece of their own future.
@@ -234,7 +240,7 @@ The left eye is traditionally called the **Inshi** 因糸, Cause Thread. The rig
 
 **Essence Drain** · Every active function consumes Essence at a rate proportional to the number of threads being processed. Passive perception is sustainable for extended periods. Active manipulation drains at combat-rate output, and sustained Sōshi use at full resolution **can empty a well-developed Crystal in minutes.**
 
-**Resonance Trauma** · The Ketsumyōgan processes triplanar data through a Crystal that was not designed for triplanar operation. Prolonged use produces micro-stress in the lattice, particularly in the Aetheric interfaces bridging the Crystal's Physical-Plane housing with the Soul-Plane and Fate-Plane data streams. This manifests as **the Threadburn**.
+**Resonance Trauma** · Every Crystal has three layers, one on each plane, and has spent its life leaning on one at a time. The Ketsumyōgan processes all three at once. Prolonged use produces micro-stress in the lattice, particularly in the Aetheric interfaces bridging the layers. This manifests as **the Threadburn**.
 
 | Threadburn symptom | Presentation |
 |---|---|
@@ -263,9 +269,9 @@ The crow that sits above the battlefield watches and remembers, and when the bat
 
 ---
 
-**Cost.** Threadburn on every long use, feelings that thin out into mere knowledge of feelings, and at the top end the bearer's own years burned as fuel.
+**Cost.** Every edit a real pull, with reserve and blood to match; Threadburn on every long use, feelings that thin out into mere knowledge of feelings, and at the top end the bearer's own years burned as fuel.
 
-**Counter.** Stay out of sight and range, stay in Thick Veil where the deeper planes go muted, and land the second blow after the heartbeat, because the Continuum tolerates a Causal Disconnect for no longer than that.
+**Counter.** Stay out of sight and range, stay in Thick Veil where the deeper planes go muted, and land the second blow after the heartbeat, because the Continuum tolerates a Causal Disconnect for no longer than that. Be too sound or too well bound to move, bring another Fate user, or simply reach the bearer first: the body behind that eye is an ordinary body at its Stage.
 
 **Numbers.**
 - Shisen passive range: baseline 20 to 40 meters by Dominion Sense, expandable with training. Thread Cut: range of visual contact.

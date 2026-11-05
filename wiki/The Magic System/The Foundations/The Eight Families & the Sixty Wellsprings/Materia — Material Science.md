@@ -22,27 +22,27 @@ Ingrid Stenhammar fought the Stage brackets at Tollgate for six summers as the C
 
 ## Coagula · *The Unifying Pulse*
 
-**The idea** · Gathering the broken self. A soul's scattered pieces come back into one body without ever melting, keeping the shape they had while broken.
+**The idea** · Gathering the broken. Scattered pieces come back into one body without ever melting, keeping the shape they had while broken, the flesh first and then the soul that wears it.
 
 **Kind** · Wild
 
 **On the Body** · Broken bone and split muscle draw back together under the Shell with no melting stage and no pause, each piece keeping the shape it had while broken, so a fighter who has been smashed gets up crooked and whole. The great Coagula brawlers look like sacks of walnuts and are extremely hard to finish.
 
-**On the Spirit** · In the Core it is the old inward work: a soul split by a bad Threshold or a bad decade gathers up its own pieces, and what it throws holds together over distance because no part of it will consent to leave. Cast on anything else it is dear and brief, and the legs pay.
+**On the Spirit** · In the Core the same law does the old inward work: a soul split by a bad Threshold or a bad decade gathers up its own pieces, and what it throws holds together over distance because no part of it will consent to leave. Cast on anything else it is dear and brief, and the legs pay.
 
 **On Fate** · Scattered things come to the same table, and feuding cousins and lost partners find themselves in one town with this person somehow always in the doorway. The great working of it, a broken army's stragglers finding the same crossroads on the same night, takes the holder years to pay back, and the reassembled line keeps every seam where it was, which is the first place a sharp enemy hits.
 
-**Spirit** · Temperance through merging: the Soul Plane's unifying force, a soul gathering itself back together.
+**Spirit** · Temperance through merging. *The confessors' reading:* the Soul Plane's unifying force, a soul gathering itself back together.
 
-**Alchemy** · The personal twin of Coagulatio: gathering without melting, the soul's own Setting. Basalt takes it.
+**Alchemy** · The personal twin of Coagulatio: gathering without melting, a person's own Setting. Basalt takes it.
 
 *How scholars explain it.*
 
 **Analogue** · Sintering. Densification by atomic diffusion below the melting point.
 
-**Mechanism** · Press powder together and hold it hot, though never hot enough to melt, and the particles fuse across their contact points by diffusion alone until the porosity closes and the mass behaves as one body. Coagula runs the Soul Plane's version: a Crystal that has been fragmented gathers itself without ever passing through a liquid state, which is to say without losing the shape it had while broken. The law runs inward by nature. A handful of high arts throw it outward, gathering the ground under a stance or the Essence in a room into one body, and they pay for the reversal in the practitioner's own legs and Shell.
+**Mechanism** · Press powder together and hold it hot, though never hot enough to melt, and the particles fuse across their contact points by diffusion alone until the porosity closes and the mass behaves as one body. Coagula runs that on a person: a broken body, or a Crystal that has been fragmented, gathers itself without ever passing through a liquid state, which is to say without losing the shape it had while broken. That is why it is filed Wild, since you can watch it happen to a man on the floor of a ring, whatever the confessors say it is doing in him. The law runs inward by nature. A handful of high arts throw it outward, gathering the ground under a stance or the Essence in a room into one body, and they pay for the reversal in the practitioner's own legs and Shell.
 
-Coagula is a soul's gathering, and a few fighters at great cost have thrown the same current outward over a room or the ground underfoot. It lasts as long as they hold it. Matter gathered for good belongs to Coagulatio.
+Coagula is a person's gathering, flesh and soul together, and a few fighters at great cost have thrown the same current outward over a room or the ground underfoot. It lasts as long as they hold it. Matter gathered for good belongs to Coagulatio.
 
 **Stat Effect** · Strengthens Resilience Integrity, Tempering Coherence. The Crystal becomes harder to split.
 
@@ -98,7 +98,7 @@ Coagula is a soul's gathering, and a few fighters at great cost have thrown the 
 
 **Analogue** · Crystallization from supersaturated solution. Nucleation and ordered growth.
 
-**Mechanism** · A supersaturated solution holds more solute than equilibrium permits and will surrender it the instant a nucleation site appears, depositing ordered solid out of apparent nothing. Coagulatio is the material twin of Coagula: where that Wellspring gathers a soul, this one gathers substrate, pulling dispersed Essence out of suspension into a denser and far less wasteful phase.
+**Mechanism** · A supersaturated solution holds more solute than equilibrium permits and will surrender it the instant a nucleation site appears, depositing ordered solid out of apparent nothing. Coagulatio is the material twin of Coagula: where that Wellspring gathers a person, this one gathers substrate, pulling dispersed Essence out of suspension into a denser and far less wasteful phase.
 
 **Stat Effect** · Strengthens Ardency Compression, Tempering Clarity. Essence becomes denser and harder to waste.
 

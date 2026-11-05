@@ -49,6 +49,8 @@ The spice galley *Salt Heron* went onto the rocks off Ushio Point with forty pir
 | **Prerequisites** | C-Grade Gnosis (Analysis). Dexterity Economy sufficient to maintain hand-contact nucleation under combat conditions |
 
 > Where a generalist Hylekinetic reshapes existing matter in place, a Rusashin practitioner **creates new matter from Essence, holds it in temporary existence, and uses its brief lifespan as a weapon.**
+>
+> No one on the Body Path has ever made matter from nothing, and neither does this. Every grain is a grain of the practitioner's own Essence, which is to say of the practitioner, forced into a solid it cannot hold for long. That is why it lasts seconds without a cure, and why the body drops when the reserve runs out.
 
 ---
 

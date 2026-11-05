@@ -69,11 +69,13 @@ Ringside, nobody says any of this. They ask what letter a fighter is and what he
 
 **A Class** is a name the soul offers at thresholds, the first of them at Glory, Stage VI, fitting how the person has lived. It has no ladder of its own. Three ladders stand beside it, one to each layer of the Crystal and each running Ø to Ω: **Aether Class** for the Shell and influence on the physical world, **Essence Class** for the Core and influence on spiritual reality, and **Thread Class** for the Attraction Layer and how much of Fate a soul can pull down and hold. From Glory each sets η for workings through its own layer. Below Glory the Stage's typical figure serves the unclassed.
 
-**A Wellspring** is an alchemical and a spiritual transformation, the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
+**Essence** is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of that identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
 
-**A Path** is the layer of the Crystal a soul leans on, and there are three: Body (the Physical World, through the Aether Shell), Spirit (the Soul Plane, through the Essence Core) and Fate (the Plane of Fate, through the Attraction Layer). One Path masters fastest. Two take about two and a half times as long and three about six.
+**A Wellspring** is an alchemical and a spiritual transformation, the governing idea that transforms how a soul uses Aether: a lens on magic already potent, which a soul bases its tempering on. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. Each of the Sixty has a kind naming its home, Wild (thirty-three), Spirit (fifteen), Fate (six) or Medium (six, at home on all three), and a kind is a qualifier and never a lock: any Path can use any Wellspring.
 
-**The Plane of Fate** is the control of Attraction Force and Obsession Force and the workings of reality itself. Real Fate Arts are rare and mostly by bloodline, and most people only touch it through a blessing.
+**A Path** is the layer of the Crystal a soul leans on, and there are three: Body (the Physical World, through the Aether Shell), Spirit (the Soul Plane, through the Essence Core) and Fate (the Plane of Fate, through the Attraction Layer). One Path masters fastest. Two take about two and a half times as long and three about six. No Path is the better one. Each has plain limits and each beats each of the others, and the Stage, the ground and the preparation decide which of those holds on the day.
+
+**The Plane of Fate** is the control of Attraction Force and Obsession Force and the workings of reality itself. Physical Reality under Aegor and Spiritual Reality under Ashura are the two lower realities; Fate, under Bara, sits above them and is no reality at all, being everything that flows, every possibility, idea and concept. People fight and wage wars with it, and it is the hardest thing they do. Real Fate Arts are rare and mostly by bloodline, and most people only touch it through a blessing.
 
 **Eight Primary Stats:** Vitality, Ardency, Gnosis, Dexterity, Harmonics, Resilience, Tempering, Dominion. Eight Sub-Stats each, sixty-four in total.
 

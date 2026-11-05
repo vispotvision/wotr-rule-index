@@ -8,25 +8,25 @@ title: Ten Thousand Fates Refused
 
 ## TEN THOUSAND FATES REFUSED (Auric Parallax Veil) (Domain Weaving, Stage XII)
 
-For eleven days at Carrow Water the forty great trebuchets of the Engineers' Guild of Sallowby threw their stones at one gate, and every stone, by the Guild's own careful record, landed a hand's breadth low. Master Lanfranc Wainfleet recut the slings, then the arms, then the master carpenter's contract. His rivals in the Masons' Guild posted a scornful verse on every door in camp. On the twelfth day a herald riding through under truce stopped to admire the woman standing behind a thin sheet of gold and shadow on the gatehouse roof, who had been parting the air with one slow hand since the siege began, and the two guilds, who had by then drawn knives over it in the camp latrines, have still never agreed to apologize.
+For eleven days at Carrow Water the forty great trebuchets of the Engineers' Guild of Sallowby threw their stones at one gate, and every stone, by the Guild's own careful record, landed a hand's breadth low. Master Lanfranc Wainfleet recut the slings, then the arms, then the master carpenter's contract. His rivals in the Masons' Guild posted a scornful verse on every door in camp. On the twelfth day a herald riding through under truce stopped to admire the woman standing behind a thin sheet of gold and shadow on the gatehouse roof, who had been parting the air with one slow hand at every volley since the siege began, with a basin at her feet for what came out of her nose and eyes, and who was carried down to bed by two sisters at each dusk. The two guilds, who had by then drawn knives over it in the camp latrines, have still never agreed to apologize.
 
-Everything that could go more than one way goes the way she prefers.
+Everything that could go more than one way goes the way she prefers, and every time it does she bleeds for it.
 
 FATE REFUSED! An attack crossing the sheet becomes its own least harmful branch, a blow landing a centimeter low. The rolls call it Selective Negation.
 
 FATE FIXED! The region's laws hold at amplified strength. The rolls call it Reality Reinforcement.
 
-YOUR WORST DAY, AGAIN! A target she never touches is steered into their worst possible path over and over. The rolls call it Refraction Break.
+YOUR WORST DAY, AGAIN! A target she never touches is steered into their worst possible path, and each steering is a thread she has to drag down and pay for. The rolls call it Refraction Break.
 
 ### How it really works
 
 One slow parting gesture toward a region in line of sight, and a thin plane of refracting light and shadow stands up to sixty meters wide. Emanation needs no anchor, so the gesture announces the Stage more than it serves the working. Behind the sheet, things that should have happened nearly happen, and a working completes badly as if it had always been aimed that way, which leaves no failure for anyone to point at. Nothing new is conjured. She only chooses.
 
-Every real chance event has a spread of possible results, and the sheet holds several open, like the two paths of a double slit, then fixes which one is real and cancels the rest. The governing law is that the distribution is the law: selection reweights outcomes that already have support and cannot add support where there was none. So it cannot originate a branch that was never possible, cannot hold two contradictory states over one ground (a distribution has one normalization), and cannot override a peer will outright, only distort a weaker harmonic. Forcing a low-probability branch costs in proportion to how low it was. The energy sits in the event being selected, which was going to happen one way or another; the Veil pays for information and authority and moves no joules of its own. The lock is quartz physics: cut quartz holds a quality factor of 10⁴ to 10⁶ and frequency stability of 10⁻⁸ to 10⁻¹⁰, and that stability, lent by the Wellspring, is what fixing one fringe as real means.
+Every real chance event has a spread of possible results, and the sheet holds several open, like the two paths of a double slit, then fixes which one is real and cancels the rest. The governing law is that the distribution is the law: selection reweights outcomes that already have support and cannot add support where there was none. So it cannot originate a branch that was never possible, cannot hold two contradictory states over one ground (a distribution has one normalization), and cannot override a peer will outright, only distort a weaker harmonic. The sheet itself is the cheap part. Every selection is a real pull, a thread of Fate dragged down from above the two realities, and it can no more be reasoned out than the rest of the Path: the physics above is what a Measurewright can say about it afterward, and no one has ever learned to do it from that. Forcing a low-probability branch costs in proportion to how low it was, a pull that fails is paid for all the same, and a soul with enough Persistence and Continuity behind it refuses the branch and leaves her holding the bill. The energy sits in the event being selected, which was going to happen one way or another; the Veil pays for information and authority and moves no joules of its own. The lock is quartz physics: cut quartz holds a quality factor of 10⁴ to 10⁶ and frequency stability of 10⁻⁸ to 10⁻¹⁰, and that stability, lent by the Wellspring, is what fixing one fringe as real means.
 
 Three Wellsprings carry it at primary weight. Basilithe, the Stone Will (Materia), fixes a resonance by stiffness so it will not be driven off, and it is the lock. Fractura, the Breaking Point (Vectoria), says everything fails at a pre-existing flaw; a flaw population is a spread of where a thing will fail, and it gives sight of the branches. Tenebra, the Hidden Shadow (Limina), makes a thing unseen when its return falls below the noise floor, and cancels the signal of the branches not chosen. Oneirion, Penance, Petralon, Orrenthal, Tarturon, Cataclysm and Dissolution are held as secondaries. The glyphs are Lock (Thalen), a Counter that occupies a limit so no other can be set there, laid across Truth (Iesara), the form for which of several readings stands. What moves is the weighting of an event's existing outcomes across a sixty-meter plane.
 
-Aether is pulled along a plane, geometrically cheap and informationally dear. The Residue is a district where certain outcomes did not happen, which deafens Harmonists (those who read a place by ear) after it falls, and an Eclipseron practitioner, reading absences, is its natural investigator. Materia favors mineral-rich rock, worked stone and deep foundations; open water, high altitude and moving platforms suppress it, so a Veil raised on a deck fights its own ground. The work sits in the Attraction Layer (the Crystal's outer claim on the world), since selecting outcomes is Fate-Plane recognition work, and its failure state, Obsession Force, threatens exactly the one who cannot stop selecting. Developmental Tier is Sovereign. The commitment law is a conservation constraint with no cooldown in it: reinforcing a space forecloses destabilizing it until the first working ends, and a practitioner wanting both gets only one.
+Aether is pulled along a plane, geometrically cheap and informationally dear. The Residue is a district where certain outcomes did not happen, which deafens Harmonists (those who read a place by ear) after it falls, and an Eclipseron practitioner, reading absences, is its natural investigator. Materia favors mineral-rich rock, worked stone and deep foundations; open water, high altitude and moving platforms suppress it, so a Veil raised on a deck fights its own ground. The work sits in the Attraction Layer (the Crystal's outer claim on the world), since selecting outcomes is Fate-Plane recognition work, and its failure state, Obsession Force, threatens exactly the one who cannot stop selecting. The threads may also be somebody's, up there, which is one more reason its one practitioner selects as seldom as she does. Developmental Tier is Sovereign. The commitment law is a conservation constraint with no cooldown in it: reinforcing a space forecloses destabilizing it until the first working ends, and a practitioner wanting both gets only one.
 
 Its failures are inherited and any can be induced. Basilithe's resonant catastrophe cannot detune from a matching force, which is the overload counter. Fractura's self-inspection is Harmonic Divergence, seeing one's own possible selves at once. Tenebra's aspect dependence shines from the one unplanned direction. The named structural fault: holding the lock microfractures the Crystal into Structural Fatigue, thin fractures in her law-harmonics, and overload induces the same from outside. The field fault: a Null-Law field flattens probability and leaves nothing to select, and Hypnather- or Eidolyn-aligned dream-breaking Wellsprings corrupt which branch the Veil thinks it chose. The bleed is 10 to 15 percent as heat and light at the Shell; at Grandmaster the Veil runs nearly dark, and the sheet is almost the only thing giving it away.
 
@@ -34,9 +34,9 @@ The argument is Correspondence against Consent as a question of evidence: whethe
 
 > **What nobody knows.** Whether "the version reality already knows what it wants to be" is a fact about the world or a fact about its author; nobody has found a case where the two come apart cleanly enough to tell.
 
-**Cost.** Five percent of full reserve to raise, one a turn to hold, one to three per contested choice, then a mind full of her own other selves that needs meditation or a Penance-aligned rite to close.
+**Cost.** Five percent of full reserve to raise and one a turn to hold; then, for each selection, from a tenth to a third of full reserve, spent whether or not it takes, with blood from the nose and eyes; then a mind full of her own other selves that needs meditation or a Penance-aligned rite to close.
 
-**Counter.** Flatten the odds with a Null-Law field or Silence, or force more outcome-states on the sheet at once than it can hold.
+**Counter.** Flatten the odds with a Null-Law field or Silence, force more outcome-states on the sheet at once than it can hold, or get to her before the result arrives.
 
 ### Codex line
 
@@ -61,13 +61,13 @@ The argument is Correspondence against Consent as a question of evidence: whethe
 
 ### Origin
 
-Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone who has not seen it meets it in full the first time it is used against them.
+Auric Parallax Veil is a self-derived technique and requires Stage XII; it took its one maker most of a life to find a grip on it, she cannot teach what she found, and anyone who has not seen it meets it in full the first time it is used against them.
 
 ### Counterplay
 
 **Tell** · One slow parting gesture, then a thin prismatic sheet standing between the practitioner and what they select for; afterward a district where certain things did not happen.
 
-**Limits** · Sixty meters, line of sight, one region; never stabilize and destabilize one space at once; no branch that was not possible; no outright override of a peer Emanation will, only distortion of a weaker harmonic.
+**Limits** · Sixty meters, line of sight, one region; never stabilize and destabilize one space at once; no branch that was not possible; no outright override of a peer Emanation will, only distortion of a weaker harmonic; a target's Persistence and Continuity contest every selection against her Dominion Fate; a few selections and the reserve is gone.
 
 **Fails against** · A distribution flattened by a Null-Law field or Silence; open water, altitude or a moving deck; more concurrent states than it can hold, a Knot; a pure Basilithe construct, or Petralon mass forced through; a corrupted choice.
 
@@ -98,11 +98,11 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 |---|---|---|
 | Cost, raising | 5% of full reserve | 9.45 × 10⁵ to 1.76 × 10⁷ EU |
 | Cost, holding | 1% of full reserve per turn | per turn |
-| Cost, selection against resistance | 1 to 3% of full reserve | more the less likely the branch |
-| Five turns held, three contested selections | 5% + 5 × 1% + 3 × 2% | 16% of reserve |
-| Reserve covers | 90% ÷ 16% | 5 such castings |
+| Cost, each selection | 10 to 33% of full reserve | more the less likely the branch, spent whether or not it takes |
+| Five turns held, one selection at 20% | 5% + 5 × 1% + 20% | 30% of reserve |
+| Reserve covers | 90% ÷ 30% | 3 such castings |
 
-**Cost in full** · Five percent of full reserve to raise, one a turn to hold, one to three per contested selection, then Harmonic Divergence and Structural Fatigue that need meditation or a Penance-aligned rite, since Penance hardens at the site of prior failure.
+**Cost in full** · Five percent of full reserve to raise, one a turn to hold, a tenth to a third per selection with blood from the nose and eyes, then Harmonic Divergence and Structural Fatigue that need meditation or a Penance-aligned rite, since Penance hardens at the site of prior failure.
 
 **Duration** · Until the first working it was committed to ends, turn by six-second turn.
 

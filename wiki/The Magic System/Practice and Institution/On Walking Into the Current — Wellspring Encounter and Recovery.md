@@ -59,7 +59,7 @@ The first symptom is physiological, and it comes before anything you could call 
 >
 > The practitioner begins producing effects they believe are their own, because the Crystal is the origin of all their effects and the Crystal is the thing being activated.
 >
-> The fire does not fall from the sky. The fire comes from the practitioner's own Shell, and the practitioner, feeling the fire leave their body, concludes that they chose to produce it. A spiritual Wellspring has no fire to give. What leaves the Shell is the person's own Essence in their own nature, driven out by a soul that is being changed.
+> The fire does not fall from the sky. The fire comes from the practitioner's own Shell, and the practitioner, feeling the fire leave their body, concludes that they chose to produce it. A spiritual Wellspring has no fire to give. What leaves the Shell is the person's own Essence, shaped by whatever they have already tempered on and driven out by a soul that is being changed.
 
 **Response time is narrow.** The window between onset and commitment (the point at which the Crystal has been retuned enough that you can no longer distinguish your native architecture from the concentration's influence) is measured in seconds at Active Concentration and is functionally zero at Veil-Thin and above.
 > The surveyor who hesitates during a Spirit-type onset to confirm their reading is the surveyor who has already been retuned.

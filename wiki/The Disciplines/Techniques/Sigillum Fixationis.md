@@ -18,7 +18,7 @@ The Fixatists held the Sawle Ridge against a hill-clan raid, seven brothers in u
 
 ### How it really works
 
-The word and the fist are the warning, visible at ten meters, so the one about to be held has a moment to do something clever. Below Refraction the working needs a material anchor and has two, the spoken word and the closing hand. He pulls a small, sharply bounded draft of Materia Aether at ten meters, favored by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms.
+The word and the fist are the warning, visible at ten meters, so the one about to be held has a moment to do something clever. Below Refraction the working needs a material anchor and has two, the spoken word and the closing hand. He makes a small, sharply bounded pull of Materia Aether at ten meters, favored by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms.
 
 Nothing grips the target and no pressure lands anywhere. The physics is kinetic trapping: one named thing is held in its present configuration by raising the energy barrier out of it, with no push applied at all. For nine seconds it stops changing. The law is Arrhenius: the rate of escape from a state is k = A·exp(−E_a/RT), with A about 10¹³ per second, so residence time grows exponentially with barrier height. A barrier stops what is thermally driven (healing, decay, drift, corrosion). It does not stop what is pushed, so a blow must break the held bonds themselves. The analogue is a thermoset cure, cross-links spanning a whole network: entry is a threshold crossed at once, and the result is stiff, brittle and chars before it flows.
 
@@ -96,7 +96,7 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 
 **Grade required** · C-Grade
 
-**Path gate** · None (the old roll's "Mind Path" is not a Path; it reads as Gnosis weighting)
+**Path gate** · None to run it at C, on any Path; Spirit for Gnosis Fluency past D and Body for Vitality Fortitude past C (the old roll's "Mind Path" is not a Path; it reads as Gnosis weighting)
 
 ### FOW line
 
@@ -106,7 +106,7 @@ The Fixatists read the sigil as proof that change was never real. They hold posi
 
 **Grade required** · C-Grade
 
-**Path gate** · None
+**Path gate** · None to run it at C; Spirit past D on Fluency, Body past C on Fortitude
 
 **Resonant Pair · None**
 

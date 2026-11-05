@@ -6,7 +6,7 @@ title: Hataraki — The Works of the Plane of Fate
 
 # Hataraki — The Works of the Plane of Fate
 
-At the midsummer brackets at Tobishima, in front of nine thousand people and with his family banners going up behind him on three poles, Moto Naoki, aged twenty-two and very pleased about it, faced the great new gate of the Guild lists and pronounced collapse upon it in a voice you could hear over the rice sellers. *Hōkai Senkoku!* The gate stood. It was a good gate. He said it again, with his aura up around him like a white bonfire, and the gate went on standing, and nine thousand people began slowly and happily to explain to him what they thought of it. His aunt, Moto Kiyo, who had come only to fetch him home for a funeral, looked up from a stick of rice cake at the visitors' stand behind him, which had been put up in a hurry by a carpenter who owed money, and said the same two words with her mouth full. The stand folded along every joint it had been lying about, one neat bay at a time, and set four hundred shouting people down on the grass with hardly a broken ankle among them. She finished the rice cake and took him home. There are fighters who pay good coin to learn what she knew by then: the name is nothing, and the Plane of Fate takes no orders from anybody's lungs: it keeps a set of jobs, and some people can read them.
+At the midsummer brackets at Tobishima, in front of nine thousand people and with his family banners going up behind him on three poles, Moto Naoki, aged twenty-two and very pleased about it, faced the great new gate of the Guild lists and pronounced collapse upon it in a voice you could hear over the rice sellers. *Hōkai Senkoku!* The gate stood. It was a good gate. He said it again, with his aura up around him like a white bonfire, and the gate went on standing, and nine thousand people began slowly and happily to explain to him what they thought of it. His aunt, Moto Kiyo, who had come only to fetch him home for a funeral, had been sitting since dawn on an upturned basket at the foot of the lists with a stick of rice cake going cold in her hand and her eyes on the visitors' stand behind him, which had been put up in a hurry by a carpenter who owed money. She had not taken a bite. When the crowd was at its loudest she went very still, with her breath held on a count that was not the crowd's, and the air around that stand turned slightly too tidy, and she said the same two words so quietly that only the rice seller heard. The stand folded along every joint it had been lying about, one neat bay at a time, and set four hundred shouting people down on the grass with hardly a broken ankle among them. What that stand had been going to do in the second week of the brackets, with a full house and the wind behind it, the Guild's surveyors afterward drew for the coroner and did not publish. Kiyo sat where she was with blood running from her nose and both eyes onto the rice cake. It took Naoki and a hired porter to get her to the cart, she did not speak until the second day on the road, and she had given thirty years and four generations of somebody else's grip to be able to do that perhaps twice in a good year. There are fighters who pay good coin to learn what she knew by then: the name is nothing, and the Plane of Fate takes no orders from anybody's lungs: it keeps a set of jobs, and some people can read them. Reading them is the easy half.
 
 ### HATARAKI (働き · Hataraki) (Work of the Plane of Fate; the inheritance of the Moto)
 The world runs on jobs, and these people can tell a thing its job, or fire it.
@@ -18,6 +18,8 @@ JIKAN NO SHIGOTO! The Work of Temporality. Something you did earlier arrives on 
 CHISHIKI NO SHIGOTO! The Work of Knowledge. Your true name is read out, and you stop being able to pretend.  
 BARANSU NO SHIGOTO! The Work of Balance. Whatever you overdid starts punishing you.  
 ZENTAI-SEI NO HATARAKI! The Work of Totality. All of the above in one hand, and nobody should trust the hand.  
+
+Nobody holds these seven the same way, and nobody holds them cheaply. Each is its own grip, handed down because no one has ever taken hold of Fate bare, and a real use of one can leave a veteran bleeding from the eyes with half of what they walked in with, and a job still undone.
 
 The named arts of the house that carry these Works onto a battlefield live once, in the founder's own record, the [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works|Hataraki no Sho]].
 
@@ -69,6 +71,41 @@ flowchart TD
     W --> WS["WORLD SPIRITS<br>spirit, continuity, metaphysical relation"]
     W --> E["THE EPOCHS<br>successive unveilings of what<br>the Works had already made possible"]
 ```
+
+---
+
+## Seven Grips, and Why It Is So Hard
+
+A fair question from the Guild's first-years is why there should be seven Works, when one would be tidier. The answer is that a Work is a handle, which is a different thing from a spell or a skill.
+
+Fate sits above the two lower realities. Physical Reality and Spiritual Reality are places a person can stand in and push on. The thing the Guild calls the Plane of Fate, as a courtesy, is everything that flows: every possibility, idea and concept, what has to be so before anything can happen, and the law and construction of the world itself. There is nothing up there to brace a foot against, and worse, there is nothing in a person to brace with. **Everything you understand is made of the thing you are trying to move.** Your notions of cause, of likely, of what a blow is, all came out of Fate, and they cannot be reasoned into a tool to use against it. Measurewrights have described threads for whole careers and never lifted one. Drill does not help. Nobody has ever gripped it bare.
+
+**So each Work is one distinct, inherited way of taking hold of one function, and that is what makes the Moto so deadly.** Bara's line did not learn Fate. It was handed seven handles, and it has spent every generation since getting its children's hands to close on them.
+
+| Work | What the grip closes on | What it will not close on |
+|---|---|---|
+| **Ruin** | What is already failing, at the seam where it fails | Anything sound. Moto Naoki's gate is the standard lesson |
+| **Purity** | What ought to stand, and the stain on it | A thing with no rightful form to be restored to |
+| **Spirit** | The crossing between life and death, and whoever stands in it | The living who are not in the road and have nothing owed there |
+| **Temporality** | What was done earlier and is due now | A debt of sequence that was never run up |
+| **Knowledge** | What a thing is, under its name | A thing that is exactly what it says it is, which is why the honest sleep well |
+| **Balance** | An excess already running, turned on the one running it | Anyone not overdoing anything |
+| **Totality** | All of the above, in one hand | Very little, which is why the founder himself would not trust the hand |
+
+The grips do not trade. A hand trained to Ruin is no use on a Purity job, any more than tongs are a ladle, and an old Moto who can bring down a citadel along its worst joint may stand over a poisoned child unable to do a thing about it but send for an aunt. Most of the house live and die with one Work truly theirs and the rest known by rote, and that is the honest reason for the [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works|Sho's]] seven lines and its long list of arts that a house full of specialists has to carry between them.
+
+### What it costs to use one
+
+The blood gives the grip and nothing else. A Moto's [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]], the ladder that measures how much of Fate a soul can pull down and hold, may open before Glory where almost anyone else's would never open at all, and it is still the steepest of the three ladders, with worse returns on every rung than the other two. Nothing about being born to it makes the pull light.
+
+- **Most of the time they do not pull.** What a Moto does in most fights is read, and then hit: the Shingan finds the seam, the sword goes in at the seam, and no thread has been touched. Add the Range, the Aura Pressure and the presence that come with the Fate Path, and that is a very frightening fighter who has not yet done anything difficult.
+- **A real pull low down** is one lean on the odds: a guard that slips, a strap that gives. It has a visible charge and a tell, it can take a large share of the reserve, it leaves the body bleeding, and it often fails.
+- **Higher up** a Work can remove or assign a prerequisite: this cut was always going to land, this wall was always going to fall. The price is ruinous at every Stage, and the distance from likely sets it.
+- **It moves only what already has a way of happening.** A sound thing stands, as nine thousand people at Tobishima can confirm.
+- **It can be refused.** Dominion's Fate Sub-Stat pushes, and the target's Persistence and Continuity push back.
+- **It may belong to someone.** Most if not all of the [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons|Archons]] are Sovereign across all three planes, and up here they are the laws themselves. Uurgath and Urion are unparalleled in Fate. A thread pulled down may turn out to be somebody's, and it is possible to be noticed.
+
+None of this makes the Moto the best fighters alive, whatever they say over dinner. A Work is slow to set against a straight exchange, and a Body Path veteran who reaches a Moto before the result arrives is hitting an ordinary body at its Stage. A Spirit fighter can see the pull on the Core before it lands and go for the hand on the thread. Another Fate user can lean the other way. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Paths page]] has the whole round of who beats whom, and the Moto have buried plenty of children who skipped it.
 
 ---
 
@@ -196,6 +233,26 @@ A real Fate Art can do to a blessing what almost nothing else can, whoever gave 
 
 ---
 
+## Hataraki at War
+
+People who have read the Works as doctrine and never stood near a Moto host expect lightning. What they get is a bad week. The bridge they were counting on has a rotten pile. A general's gray throws a shoe on the one morning it matters. The wind comes round in the hour the archers loose. By noon an army that has not yet lost a single fight is running exactly where somebody under a plain banner spent two days arranging for it to run, and that person, as at [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Akagawa]], is being carried off the field by four others.
+
+**Moving a whole field is a life's masterwork at high Stage or a bloodline's art, and the Moto are the bloodline.** Even for them it may be done once in a war, and it may cost the person who does it everything they have left. A Moto host is built around that fact. Its generals, the Khökh-ke above all, rank a field the way other children learn sums, and they spend the whole campaign on reading, marching and banners, so that when the one pull comes it needs to move as little as possible. An army is thousands of straps wearing at once, and the art is in waiting until most of them have already nearly gone.
+
+| Work | Its office in a war |
+|---|---|
+| **Ruin** | The rotten pile, the undermined wall, the alliance a season from collapse, brought down in the hour that suits |
+| **Purity** | Your own host: oaths kept, camp fever and curses held off, the line that does not break because it has been made to stand as it ought |
+| **Spirit** | The dead of the last battle, who do not rise for the enemy, and the enemy's revenants, who stop |
+| **Temporality** | Who arrives when. The relief column that is two hours late, and the feint made in spring that opens the door in autumn |
+| **Knowledge** | Which of their captains is lying, which of their Fate users is real, and what their general thinks his own plan is |
+| **Balance** | The excess every army runs on. A host that has overreached is tilted until its own reach undoes it |
+| **Totality** | Attested at the end of wars and at the ends of Moto. The house does not plan on it |
+
+**Each side's first job is to find the other's Fate users**, ahead of even their champions, and a Moto host's own are hidden accordingly, in plain hemp under no banner, with a very good bodyguard who has been told nothing. A well-kept army with sound gear, fresh horses and no bad habits gives them little to work with, which is why a war against the Moto is won or lost in the quartermaster's tent as often as on the field, and why nobody who has fought them ever again buys cheap harness.
+
+---
+
 ## Epochal Manifestation
 
 Because the Works were created before time, they stand beneath the later sequence of epochs rather than arising from them. The Second Epoch and Third Epoch invent none of these functions. **They inherit and express them.**
@@ -230,10 +287,12 @@ Hataraki is the active labor of the Plane of Fate. It is the system by which exi
 Bara created the Works before time. The Archons stand as higher sovereign expressions of meanings already present within them. World Spirits and Titans can exist because the Works first made such realities functionally possible. Attraction Force allows the Works to endure as lawful recognition and continuity, while Obsession Force corrupts those same labors into captivity and recursive need.
 > To wield Hataraki is therefore **to invoke function**, and using power is the least of it. It is to call upon the labor of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
 
-**Cost.** The Work presses the soul into a useful shape, and every Work carries a corruption vector: under Obsession Force, Ruin becomes compulsive devastation and Purity becomes sterilization, and the bearer does not notice.
+Nobody who has done it has ever called it easy, and each Work is a separate hard thing to have learned.
 
-**Counter.** A designation has to be earned, so be sound: a pronouncement laid on a thing with no hidden failure in it does nothing, and a false continuity is the only kind Ruin can break.
+**Cost.** A real pull takes a large share of the reserve at any Stage, leaves the body bleeding and often fails, and moving a field can cost everything the bearer has left. The Work presses the soul into a useful shape besides, and every Work carries a corruption vector: under Obsession Force, Ruin becomes compulsive devastation and Purity becomes sterilization, and the bearer does not notice.
 
-**Numbers.** Seven Works, gathered over the Sixty Wellsprings with eight representative Wellsprings listed to each. Three levels of operation (Conceptual, Operational, Judicial). Fourteen Archons. The second roster: seven names, two in common with the first. No EU figures live here; the Works are priced at the art, and the arts are in the Sho.
+**Counter.** A designation has to be earned, so be sound: a pronouncement laid on a thing with no hidden failure in it does nothing, and a false continuity is the only kind Ruin can break. Otherwise bring another Fate user to lean the other way, bind yourself too well to be moved, or reach the Moto before the result arrives.
+
+**Numbers.** Seven Works, one grip apiece, gathered over the Sixty Wellsprings with eight representative Wellsprings listed to each. Three levels of operation (Conceptual, Operational, Judicial). Fourteen Archons. The second roster: seven names, two in common with the first. No EU figures live here; the Works are priced at the art, and the arts are in the Sho.
 
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]

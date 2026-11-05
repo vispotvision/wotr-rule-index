@@ -44,17 +44,19 @@ What is infinite, for a drafter, is the **catalog**. The Accord's register lists
 
 ## The Fate Road
 
-There is a second thing the word names, and the people it names do not come to Commission hearings. A rare few summon through Fate itself, and for them the word means what the frightened always thought it meant: no ceiling on how many.
+There is a second thing the word names, and the people it names do not come to Commission hearings. A rare few summon through Fate itself, and for them the word means what the frightened always thought it meant: no ceiling on how many. It is also the hardest summoning there is, and the page would be lying if it let the first fact stand without the second.
 
-A drafter's call holds up a form on a thread of Essence, and a contract holds a bound creature to its terms. The Fate road does neither. Fate is the working of what is going to be true, the control of Attraction Force and Obsession Force and of the odds themselves, and a summoner on this road leans on the possibility of a thing until it is the case. What stands up was never bound and never drafted. It is the soldier who might have held this bridge, the hound the family might have kept, and it is here because the odds were moved until it had always been on its way. Nothing is held, so there is no thread to tax the body and none for an enemy to count, no contract to steal, and no number at which the summoner runs out.
+A drafter's call holds up a form on a thread of Essence, and a contract holds a bound creature to its terms. The Fate road does neither. Fate is not a place anything is kept: it is every possibility, idea and concept, everything that could stand on this ground and has not, and a summoner on this road pulls one of those down from above and warps the lower realities until it is the case. What stands up was never bound and never drafted. It is the soldier who might have held this bridge, the hound the family might have kept, and it is here because what it depended on was moved until it had always been on its way. Nothing is held, so there is none of a drafter's threads to tax the body and none for an enemy to count, no contract to steal, and no number at which the summoner runs out.
 
-**Temperance Gate** · The art's own gate, then the Fate Path, a Dominion Fate high enough to move the odds at the speed of a fight, and most often the blood for it, since a real Fate Art is rare and mostly goes by bloodline. No case on the public record stands below Stage XII.
+The number is not where the difficulty lives. Nobody takes hold of Fate bare, so the road is an inherited grip or the end of a very long life, and opening it is a real pull with everything that means: slow to set, plain to read on the Core and in the summoner's stillness for anyone who knows the look, ruinous to the reserve, bloody, and often a failure. Most who attempt it get nothing and a nosebleed. Once the road stands open on a claim, more may come by it, each at the price below, and the summoner who holds it open is doing nothing else.
 
-**Cost** · The odds are paid in the summoner's own. Each thing that might have come and now has is paid for with something that might have happened to them: a door in their own life closes for good, and they find out which one later. The old ones on this road have very few days left that can go more than one way, and they know how most of them end.
+**Temperance Gate** · The art's own gate, then the Fate Path, a [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]] that very few souls ever hold, a Dominion Fate high enough to keep the road open once it has been set, and most often the blood for it, since a real Fate Art is rare and mostly goes by bloodline. No case on the public record stands below Stage XII.
+
+**Cost** · The reserve and the blood to open the road, and after that the odds are paid in the summoner's own. Each thing that might have come and now has is paid for with something that might have happened to them: a door in their own life closes for good, and they find out which one later. The old ones on this road have very few days left that can go more than one way, and they know how most of them end.
 
 **Limit** · Fate attaches, and something unattached gives it nothing to pull on. The summoner calls only what has a true claim to be there: a place they swore to keep, a line they carry, a debt owed them, a thing that really might have come to this ground. On a field where they have no claim, the road is simply closed.
 
-**Counter** · Break the claim, or walk away from the ground it rests on, and nothing further comes. Those already standing are as real as anyone and die like anyone. The summoner's own body is an ordinary body at its Stage, with no host's thread running back to warn it. And a Fate Art can be read by another: the Moto's [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] treats such a summons as a job someone has assigned to the odds.
+**Counter** · Break the claim, or walk away from the ground it rests on, and nothing further comes. Those already standing are as real as anyone and die like anyone. The summoner's own body is an ordinary body at its Stage, with no host's thread running back to warn it, so a fighter who closes before the road is set, or a Spirit fighter who wounds the soul holding it, ends the matter. And a Fate Art can be read by another: the Moto's [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] treats such a summons as a job someone has assigned to the odds.
 
 Everything else on this page belongs to the drafters' road. Plane Tethers and Imprint Summoning touch the Plane of Fate as a place to anchor or to copy from, and neither of them is this.
 
@@ -216,9 +218,9 @@ Continuous supply to sustain and modify a call after it has manifested. The Feed
 
 ---
 
-**Cost.** First-call price every time, forever, and each open thread taxes your own body until it closes, which is why drafters are reliably the thinnest people in a war camp. On the Fate road, a door in your own life for each thing that comes.
+**Cost.** First-call price every time, forever, and each open thread taxes your own body until it closes, which is why drafters are reliably the thinnest people in a war camp. On the Fate road, a ruinous pull to open it, and a door in your own life for each thing that comes.
 
-**Counter.** Count the threads, then cut the practitioner's line of attention or break the first link; do not kill a chain link when you can hold it. On the Fate road, break the claim or leave the ground it rests on.
+**Counter.** Count the threads, then cut the practitioner's line of attention or break the first link; do not kill a chain link when you can hold it. On the Fate road, break the claim, leave the ground it rests on, or reach the summoner before the road is set.
 
 **Numbers.**
 - Gates: Stage XI (Dissonance) for unsealed drafting under battlefield conditions, Stage XIII for sustained networks. Not taught below Stage XI. The Fate road: none on record below Stage XII.

@@ -12,7 +12,7 @@ Bessamy looked up at that, grinned with the two teeth she had, and went on picki
 >
 > Mortals call them enemies and mean something much smaller. The two are the cosmic heartbeat: the systole and diastole of reality itself, the eternal inhalation and exhalation without which the Realms would either freeze into unchangeable perfection or dissolve into formless noise.
 
-Every Archon is a great power on every plane, and among them these two stand alone in one place. On the Plane of Fate, Urion and Uurgath are unparalleled, because what they are cannot be conceived. A mortal mind holds an idea of balance and an idea of ending, and each of those is a small thing made from the real one, which is no help at all to anyone reaching for it.
+Most if not all of the Archons are Sovereign on every plane, some are deemed greater than others, and among them these two stand alone in one place. On the Plane of Fate, Urion and Uurgath are unparalleled, because what they are cannot be conceived. A mortal mind holds an idea of balance and an idea of ending, and each of those is a small thing made from the real one, which is no help at all to anyone reaching for it.
 
 ---
 
@@ -27,7 +27,7 @@ Every Archon is a great power on every plane, and among them these two stand alo
 
 > ***Divine Edict*** · *"Every force seeks its equal. To forget this is to invite collapse."*
 
-Urion governs the **Law of Equivalence**, the metaphysical axiom that every act generates counterweight. His essence permeates the Wellsprings (the sixty kinds of Aether), ensuring no Realm or Domain accrues unchecked imbalance. Essence flares (Essence being Aether refined in a Soul Crystal, the thing a practitioner holds and spends) bearing his signature stabilize fluctuations, allowing controlled Temperance ascension. When the Great Spirit War threatened to tear the world's harmonic fabric, Urion's decree manifested as the **First Concord Writ**, a metaphysical contract compelling ceasefire through enforced Essence symmetry.
+Urion governs the **Law of Equivalence**, the metaphysical axiom that every act generates counterweight. His essence permeates the Wellsprings (the sixty kinds of Aether), ensuring no Realm or Domain accrues unchecked imbalance. Essence flares (Essence being Aether refined in a Soul Crystal and stamped with identity, the soul's own substance, which a practitioner holds and spends) bearing his signature stabilize fluctuations, allowing controlled Temperance ascension. When the Great Spirit War threatened to tear the world's harmonic fabric, Urion's decree manifested as the **First Concord Writ**, a metaphysical contract compelling ceasefire through enforced Essence symmetry.
 
 #### Judicaris: The Magic of Equilibrium and Judgment
 

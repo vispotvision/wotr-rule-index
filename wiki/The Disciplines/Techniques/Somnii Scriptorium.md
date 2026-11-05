@@ -55,7 +55,7 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 |---|---|---|
 | Toppling constant, standing body | √(9.81 ÷ 0.9) = 3.3 per second | a lean grows e-fold every 0.30 s |
 | Ankle torque to stand | 60 × 9.81 × 0.9 × sin 3° | about 28 N·m |
-| Target's metabolizm across the working | about 85 W × 18 s | about 1.5 kJ |
+| Target's metabolism across the working | about 85 W × 18 s | about 1.5 kJ |
 | Conscious channel across the working | 40 bit/s × 18 s | about 720 bits |
 | Switch cost, two spaces | measured | 200 to 500 ms |
 

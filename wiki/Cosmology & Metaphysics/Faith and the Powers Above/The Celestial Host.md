@@ -52,7 +52,7 @@ This is why Celestials cannot tell you their birthdays. They can only tell you w
 
 ## III. Soul Architecture Baseline
 
-Before a Celestial is sorted into a Choir, every member of the Host shares four structural traits no other WOTR race possesses in this configuration.
+Before a Celestial is sorted into a Choir, every member of the Host shares four structural traits no other race possesses in this configuration.
 
 ### No Biological Lineage
 
@@ -131,7 +131,7 @@ flowchart TD
 >
 > **Limitations** · The most Paradox-vulnerable of the four Choirs, since their entire function assumes oaths do not contradict. A Midreach Celestial handed a genuinely irreconcilable pair of vows can seize longer than any other Choir member, and Great Spirit War records show Malakar's forces specifically cultivating contradictory oath-pairs to neutralize Midreach officers before engaging them.
 
-*First appearance · referenced throughout Niran's Journey.*
+*See Niran's Journey, which refers to the Choir throughout.*
 
 ### 2. The Highspire Choir: Verdict-Bearers
 
@@ -179,7 +179,7 @@ flowchart TD
 **Historical Role & Famous Figures**
 
 Individual Lowmere Celestials are, by design, almost never named in surviving record: naming a Sealkeeper is treated, within the Choir's own doctrine, as a security risk to whatever it has sealed. The one confirmed exception is **DAZGRIM THE UNWRITTEN**, whose name survives only because he broke doctrine to seal himself, mid-War, rather than let Malakar's forces take him for questioning, an act the Accord still cites, uneasily, as the Host's clearest example of a Celestial choosing personhood at the exact moment it cost him everything a person has.
-> **Advantages** · Near-total resistance to interrogation, memory-extraction, and identity-based Aether attacks, since there is structurally very little selfhood present to extract. Can seal Domains, relics, or entire arguments away from causal reality with a permanence few other techniques in canon can match.
+> **Advantages** · Near-total resistance to interrogation, memory-extraction, and identity-based Aether attacks, since there is structurally very little selfhood present to extract. Can seal Domains, relics, or entire arguments away from causal reality with a permanence few other techniques on record can match.
 >
 > **Limitations** · The Choir's near-total erasure of self makes true Grand Angel individuation almost unheard of. Dazgrim remains the only confirmed case, and he achieved it by unmaking himself rather than by growing; Lowmere Celestials who individuate report the experience as closer to injury than achievement.
 

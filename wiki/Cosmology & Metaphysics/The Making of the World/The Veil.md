@@ -70,7 +70,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 ### Physics
 
-**Phenomenon** · The Veil is a condition with no address: the membrane where one plane's law softens into another's. Crossing it is evanescent coupling, a wave leaking through a barrier it cannot travel in and resuming on the far side if the barrier is thin enough.
+**Phenomenon** · The Veil is a condition with no address: the membrane where one plane's law softens into another's. Crossing it is evanescent coupling, a wave leaking through a barrier it cannot travel in and resuming on the far side if the barrier is thin enough. Nearly all of it lies between the two lower realities, the Physical and the Soul. Where it touches the Plane of Fate, which stands above both and is no reality, what lies past it is less a far side than the thing both sides depend on.
 
 **Law** · Transmission falls exponentially with thickness, T ≈ e^(−2κd); ruptures follow dielectric breakdown (an insulator failing into a self-sustaining channel); Drift follows per-cycle fatigue, damage summed per crossing until it reaches one.
 
@@ -193,5 +193,5 @@ Ysolde Carrow is the entry every clerk knows. She was a thread singer of Realiza
 | **Reserve** | The way in spends as a Thick crossing at its worst, and there is no Aether to pull on the far side, since Aether is the Physical Plane's medium. You have what you walked in with |
 | **Drift** | A body on the far side counts as sustained liminal entry from the first step: 3 points, then 1 a minute, and it never comes back. Ninety-seven minutes makes a Veil Pilgrim, with no chair to come back to |
 | **The clock** | The far side keeps its own hours. A traveler may come home to a dead spouse, a sold house and an arrears notice |
-| **The body** | Flesh has no standing on the Soul Plane, where what a thing is counts as where it stands, or on the Plane of Fate, where the odds are the ground. Something is always left there, and the window does not always say what |
+| **The body** | Flesh has no standing on the Soul Plane, where what a thing is counts as where it stands, or on the Plane of Fate, which stands above both realities and is not one itself, and where the odds are the ground. Something is always left there, and the window does not always say what |
 | **The neighbors** | A body going through a wall strains it. A traveler can strike a rupture on the way out or on the way home, and the Echo Beasts are a bill the nearest town pays |

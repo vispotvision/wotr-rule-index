@@ -24,7 +24,7 @@ The Moors had three names each, like every practitioner alive, and the crowd had
 
 > Every practitioner carries three names. They acquire them in order, they lose them in reverse order, and only one of them is real.
 
-**The First Name · what the instrument says.** A string of measurements reading as a sentence in a language designed for ledgers. Caloria, Kinesia, Stage VIII Transcendence, Grade S, Aether III Resonant, Master, η .91. This is what the coil (the Accord's assay instrument) says when you stand inside it.
+**The First Name · what the instrument says.** A string of measurements reading as a sentence in a language designed for ledgers. Caloria, Kinesia, Body Path, Stage VIII Transcendence, Grade S, Aether III Resonant, Master, η .91. This is what the coil (the Accord's assay instrument) says when you stand inside it.
 > Impersonal, diagnostic and correct. It tells you what the soul does the way a scale tells you what a thing weighs. It cannot tell you what the weight means to the person carrying it, and it is therefore the name that matters least in every room that does not contain a coil.
 >
 > Nobody introduces themselves by their instrument profile. The halls publish it. The factor houses price it. The person it describes has already stopped listening.
@@ -124,7 +124,7 @@ The Archetype names what you are like to be near, whatever it is you do. Some pr
 
 Stage, Grade, Family and Method have no hand in the Archetype, which is why identical instrument profiles produce opposite rooms. **It is produced by Passive Traits.**
 
-A Passive Reflection is a law stabilized by long habit and continuous exposure, always running, costing almost nothing to hold and impossible to switch off. It shows in posture, in gait, in thermoregulation, in scent, and in the ambient behavior of a room somebody has been sitting in for an hour. The trained sense a soul's power and argue over it openly enough. The Third Name is read off something else: a soul's standing bias, at the only amplitude that never stops broadcasting.
+A Passive Reflection is a law stabilized by long habit and continuous exposure, always running, costing almost nothing to hold and impossible to switch off. It shows in posture, in gait, in thermoregulation, in scent, and in the ambient behavior of a room somebody has been sitting in for an hour. The trained sense a soul's power and argue over it openly enough. The Third Name is read off something else: a soul's standing habit, at the only amplitude that never stops broadcasting.
 
 This is why the Third Name is stickier than the other two and why it cannot be renounced. A title can be surrendered and an instrument profile changes at every Threshold (the melting and rebuilding that lifts a soul to its next Stage, whether by crisis or out of a bottle). A Passive Trait is the shape of a life already lived, and it goes on expressing at the same amplitude whether the bearer is fighting, sleeping, or sitting quietly in a room full of people who have not been told who he is.
 > The crowns' spy-clerks worked this out two centuries before the Archives did. Every agent's file records Passive Traits first and stat profile second, because the profile is what an enemy can only learn by fighting him and the Passive is what a stranger learns by sharing a bench.

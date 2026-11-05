@@ -25,7 +25,7 @@ Then there is the bottle. **A Waking Draft** opens a Crystal with no teacher and
 > 
 > *Every crown of the Dark Ages has understood this, and these are the generations in which they began trying to lock the lesson away.*
 
-The Path (the route a Crystal habitually works through) gates on a Sub-Stat (one of the finer stats) decide how far a stat may rise. This gate comes first, and decides whether the Crystal wakes at all.
+The gates a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] (the layer of the Crystal a soul has learned to lean on, Body, Spirit or Fate) sets on a Sub-Stat (one of the finer stats) decide how far a stat may rise. This gate comes first, and decides whether the Crystal wakes at all.
 
 ## II. The Lock
 
@@ -60,7 +60,7 @@ The low lesson got out long before anyone wrote a schedule, and there are far to
 
 **License.** The academy ranks run Scholar, Licentiate, Master, Doctor and Chair on the diploma, while on the training floor the older ladder of outer disciple, inner disciple, core disciple and elder holds, settled by ranking contests, and **the Licentiate is the qualification that matters**: permission to practice for hire. Past it lie the Accord's credentials. A **Magister** holds an academy credential and a documented training record. A **Registered Natural** learned by other means and submits to monitoring instead: periodic reassessment, demonstration, disclosure of every new harmonization (a soul's tuning to a Wellspring). A school pays for its own license by the year, and in any large city about half the yards hold one and the other half hold something that looks very like one.
 
-**Bloodline.** The archaic bloodlines teach their arts to the blood and to nobody else, and lesser houses imitate them. A bloodline art taught outside the line is theft in the eyes of the house and, in most schedules, of the crown as well.
+**Bloodline.** The archaic bloodlines teach their arts to the blood and to nobody else, and lesser houses imitate them. A bloodline art taught outside the line is theft in the eyes of the house and, in most schedules, of the crown as well. The deep of the Fate Path needs less guarding than a schedule supposes, since nobody can be drilled into it or reason their way in, and a Work of [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]], being an inherited grip on the thing, is the one lesson in the world that a stolen manual does not carry.
 
 ## IV. The Second Gate: A Purse
 
@@ -70,7 +70,7 @@ The lesson gets you onto the ladder. What carries you up it is very largely mone
 
 **The poor have three roads.** *Dungeon luck*: a crew goes down, and comes up with a monster's core worth a year's wages, or a Wellspring got at a Core no one had found, or does not come up. *Guild patronage*: a hall stakes a promising hand a Draft against a signed term of service, and the term is the real product. *Blessings*: a higher spirit or a person of higher Temperance gives what no purse could reach, for reasons of their own, on terms that may be written badly or not at all. Every mother who walks a child to a gate has heard of someone who rose by each of the three, and every bookie can tell her the odds.
 
-**What it does not buy.** Its Release must be found and mastered by fighting, and [[The Magic System/Practice and Institution/Training and Sects|sects teach what money cannot buy]]: Releases, Domains, techniques, skills and the rites for their Wellspring. So the richest heir on the river stands at the same gate as the laundress's son, a few rungs higher and with better boots, asking the same school for the same thing, and the school can refuse him. **That refusal is the most valuable thing the schools own**, and they know it.
+**What it does not buy.** Its Release must be found and mastered by fighting, and [[The Magic System/Practice and Institution/Training and Sects|sects teach what money cannot buy]]: Releases, Domains, techniques, skills and the rites for their Wellspring. Nor does a purse buy a Path, because the Crystal reads a Path off what a life has been spent on, and a bought Stage arrives with its gated Sub-Stats exactly as shut as they were. So the richest heir on the river stands at the same gate as the laundress's son, a few rungs higher and with better boots, asking the same school for the same thing, and the school can refuse him. **That refusal is the most valuable thing the schools own**, and they know it.
 
 ## V. What Needs No Leave
 

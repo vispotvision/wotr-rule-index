@@ -60,7 +60,7 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Cost** · Three percent of full reserve per lock, spent under a two-second clock; every lock that turns into Echo Fracture is paid twice.
 
-**Duration** · A master reads, analyses and counters in under two seconds, a third of a six-second turn; choir support and stabilization last as long as the phase holds, turn by turn.
+**Duration** · A master reads, analyzes and counters in under two seconds, a third of a six-second turn; choir support and stabilization last as long as the phase holds, turn by turn.
 
 
 ## Reference

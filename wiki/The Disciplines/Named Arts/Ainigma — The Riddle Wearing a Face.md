@@ -24,7 +24,7 @@ The suit of *Penhallow against the Widow Ilvane* is still read aloud to Measurew
 
 ---
 
-**How it really works.** A Soul Crystal is the gem in the soul where pulled Aether is refined into Essence, and an ordinary one holds one Stage, one Family and one Crystal State, the way a coin lands one face up. Ainigma teaches it to hold several at once and to keep holding them while being looked at, which is the old scholars' superposition with the measurement problem left out on purpose. Eidolyn shapes the extra states out of the practitioner's true knowledge of themselves, Oblivara repairs anything that would force a single answer, and Tychokinesis decides which answer goes out next. The account below is the Guild's, and the Guild has been sore about this art since Penhallow.
+**How it really works.** A Soul Crystal is the soul itself, a gem where pulled Aether is refined into Essence, and an ordinary one holds one Stage, one Family and one Crystal State, the way a coin lands one face up. Ainigma teaches it to hold several at once and to keep holding them while being looked at, which is the old scholars' superposition with the measurement problem left out on purpose. Eidolyn shapes the extra states out of the practitioner's true knowledge of themselves, Oblivara repairs anything that would force a single answer, and Tychokinesis decides which answer goes out next. The account below is the Guild's, and the Guild has been sore about this art since Penhallow.
 
 ---
 
@@ -71,7 +71,7 @@ In normal operation a Soul Crystal occupies a single definite state: one Stage, 
 |---|---|---|
 | **Eidolyn** *Limina · Primary* | Template projection. The constructs are not objects or phantasms: **they are alternate Crystal state signatures**, valid configurations of the practitioner's own Crystal that the Shell outputs alongside the real one. Each is built from genuine self-knowledge and output at Essence density indistinguishable from the actual state. *Strengthens Ardency Density, Gnosis Retention* | **Template defect.** Any flaw in the practitioner's understanding of the state they project is faithfully reproduced at scale. Project Fracture without understanding Fracture and a knowledgeable observer identifies the counterfeit |
 | **Oblivara** *The Dark Mirror, Limina · Secondary* | Error-correcting redundancy and retroreflection along the incident vector. Supplies the **decoherence resistance**: Oblivara's correction treats the superposition itself as a valid signal to be preserved, and actively corrects any decoherence event that would force a singular reading. *Strengthens Resilience Persistence, Gnosis Cognition* | **Code exhaustion.** Redundancy has a correction limit, and past it the reconstruction is confident, complete and wrong. Too many states for too long and the Crystal locks into whichever was dominant when correction failed |
-| **Tychokinesis** *Limina · Support* | Governs **which** superposed state a given observation returns. Without it, repeated reads return the same state and the contradiction resolves. With it, the observer never receives the same answer twice. *Probability manipulation, outcome disruption* | — |
+| **Tychokinesis** *Limina · Support* | Governs **which** superposed state a given observation returns. Without it, repeated reads return the same state and the contradiction resolves. With it, the observer never receives the same answer twice. *The trade's name for a working, not one of the Sixty, and the one place the art touches the odds. It touches only its own: every answer is already true, so nothing is pulled down from above* | **Reach.** It goes no further than the art's own answers. Aimed at anything else it is a Fate pull like any other, paid as anyone pays |
 
 ---
 
@@ -142,7 +142,7 @@ Ainigma and **Solution** are natural adversaries, and the matchup is not symmetr
 
 Solution maximizes capacity to process diagnostic information. Ainigma maximizes the contradictory information that must be processed. Solution's strength becomes its vulnerability: **the synchronized architecture cannot classify data as unprocessable**, because its design assumption is that all data is processable given sufficient coherence.
 
-Parallel Cognition runs twelve Crystal state analyzes and each returns a different valid result. Predictive Modeling forecasts the next action from Crystal state and receives twelve mutually exclusive predictions. Total Recall faithfully archives every contradictory reading at full fidelity, producing an eidetic record that resolves into nothing.
+Parallel Cognition runs twelve Crystal state analyses and each returns a different valid result. Predictive Modeling forecasts the next action from Crystal state and receives twelve mutually exclusive predictions. Total Recall faithfully archives every contradictory reading at full fidelity, producing an eidetic record that resolves into nothing.
 > The Ainigma practitioner does not need to be the better fighter. **They need to survive until Solution's clock runs out**, because every second spent processing the paradox is a second not spent on the fight.
 
 ---

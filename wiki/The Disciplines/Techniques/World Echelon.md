@@ -18,7 +18,7 @@ They tell it in the taverns of Marrowgate, with the good cups out. It was the ma
 
 ### How it really works
 
-He declares it aloud, and at Zenith no anchor is needed. Aether is pulled thinly across the whole sphere through Fulguria, which fails over tiled, fogged, shuttered or shielded ground, and over ground thick with Essence the pull can pass saturation and fracture every Crystal exposed, his own included. Reports say roughly forty seconds; the Guild roll says eight turns, 48 seconds.
+He declares it aloud, and at Zenith no anchor is needed. Aether is pulled thinly across the whole sphere through Fulguria, which fails over tiled, fogged, shuttered or shielded ground, and over ground thick with Aether the pull can pass saturation and fracture every Crystal exposed, his own included. Reports say roughly forty seconds; the Guild roll says eight turns, 48 seconds.
 
 Nothing strikes. The real phenomenon is phase synchronization in coupled oscillators: every mind within five kilometers is pulled to keep one common time, like pendulums hung from one beam falling into step, so ordinary private feeling becomes a measurable deviation from a shared reference. The law is the Kuramoto model: coherence r stays at zero until coupling clears Kc = 2 / (π g(0)), then rises toward 1, and coupling is symmetric, so every node pulls on every other. It sets only phase, never amplitude or content, so it is cheap; but a divided crowd may never lock, there is no partial court, and near the threshold release takes unboundedly long (critical slowing down). A coupled node is coupled, and the practitioner is a node, so the court synchronizes his own people and himself. Feeling keeps its content and loses its timing, breathing falls in, the crowd moves as one.
 

@@ -24,7 +24,7 @@ They buried Hana Sekiguchi at forty-one with the hands of a grandmother, and fou
 
 ---
 
-**How it really works.** A Soul Crystal (the gem in the soul that refines Aether into Essence) has three layers, the Core, the Shell and the Layer, and they normally run a little out of step. Moetana is the moment they fall into step, the way a row of pendulums on one beam will: coupled oscillators phase-lock and the energy once lost to mismatch comes out as output. Coagula pulls the three together, Anima Spirare keeps them fed, Oblation prices the whole thing in living days, and Mirithane forbids it to anyone lying to themselves. Sects sing about this art more than any other and practice it less, for reasons the Guild's account below sets out.
+**How it really works.** A Soul Crystal (the soul itself, a gem that refines pulled Aether into Essence) has three layers, the Core, the Shell and the Layer, and they normally run a little out of step. Moetana is the moment they fall into step, the way a row of pendulums on one beam will: coupled oscillators phase-lock and the energy once lost to mismatch comes out as output. Coagula pulls the three together, Anima Spirare keeps them fed, Oblation prices the whole thing in living days, and Mirithane forbids it to anyone lying to themselves. Sects sing about this art more than any other and practice it less, for reasons the Guild's account below sets out.
 
 ---
 
@@ -48,7 +48,7 @@ They buried Hana Sekiguchi at forty-one with the hands of a grandmother, and fou
 
 ## The Alignment
 
-Every Soul Crystal has three layers. **The Core wants to remember. The Shell wants to act. The Layer wants to connect.** In normal operation they run at slightly different frequencies, phases and priorities. They cooperate. **They do not synchronize.**
+Every Soul Crystal has three layers. **The Core wants to remember. The Shell wants to act. The Layer wants to connect.** In normal operation they run at slightly different frequencies, phases and priorities. They cooperate. **They do not synchronize.** A Path is the habit of leaning on one of them, and the lean is part of the mismatch.
 > **Moetana is the moment they synchronize.**
 Identical frequency, identical phase, identical priority. The output is no longer three systems cooperating: it is one system resonating. When three coupled oscillators achieve constructive phase-lock their combined amplitude exceeds the sum of their individual amplitudes, **because the energy previously lost to inter-layer phase mismatch is now contributing to the unified output.**
 > The practitioner is not a person using their full power. **They are a person whose full power has never been accessible before, because the architecture that generates it was never aligned before.**

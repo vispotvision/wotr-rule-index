@@ -69,3 +69,4 @@ The Zettari sit outside that quarrel entirely. Their response to the Yukari has 
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari]]
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Yuno Bloodline]]
 - [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Mahuo Family]]
+- [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Valorin Family]]

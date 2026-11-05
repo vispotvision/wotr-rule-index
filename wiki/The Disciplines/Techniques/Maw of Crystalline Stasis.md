@@ -16,7 +16,7 @@ SLOW DOWN OR SHATTER! A declaration, and six meters of branching frost grows out
 
 FROST TEETH! Fast movement shatters, a limb at speed meeting the lattice like a dropped plate.
 
-THE LONG WADE! Slow movement is slowed further, and Essence pulled through the lattice meets resistance.
+THE LONG WADE! Slow movement is slowed further, and Aether pulled through the lattice meets resistance.
 
 ### How it really works
 
@@ -76,7 +76,7 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 **Tell** · A declaration, then six meters of branching frost growing from where the practitioner stands; they cannot leave without ending it. Afterward, a ring of shattered crystals to pick up by the handful.
 
-**Limits** · Six meters, three turns, no targeting, its maker included; it needs moisture and loose Essence, and dry air thins it.
+**Limits** · Six meters, three turns, no targeting, its maker included; it needs moisture and loose Aether, and dry air thins it.
 
 **Fails against** · Distance beyond six meters, and bolts from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
 

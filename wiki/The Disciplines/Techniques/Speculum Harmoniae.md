@@ -45,7 +45,7 @@ Both are Correspondence: a faithful likeness is treated as presence. The Speculu
 
 **Thinning** · Each cast against the same foe thins the caster's ability to counter that foe.
 
-**Glare** · Glare makes the Nexus caster the easiest to locate; his fall releases the shockwave over both armies.
+**Glare** · Glare makes the Nexus caster the easiest to locate; her fall releases the shockwave over both armies.
 
 **Look up** · The Limina and Fulguria entries for Mirithane, Oneirion, Judicium and Aurevane and their Failures; Animatria and Concordia; Silence; the Counterplay register for Lock and Knot; the Splintering and Transcendence Stage tables.
 

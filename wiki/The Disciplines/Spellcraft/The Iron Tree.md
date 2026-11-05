@@ -43,7 +43,7 @@ title: The Iron Tree
 | Branch | Function and mechanism | Cost |
 |---|---|---|
 | **Tetsu no Kobushi** · Iron Fist | Root, solar and shoulder-line pressure driven through the fist without external leakage. Caves armor inward, ruptures organs through blunt transfer | 4,800 EU |
-| **Tetsu no Keri** · Iron Kick | Sacral and root pressure, specialising in displacement and terrain rather than inward rupture. Breaks knees, launches heavy targets, sends shock through packed ground | 6,200 EU |
+| **Tetsu no Keri** · Iron Kick | Sacral and root pressure, specializing in displacement and terrain rather than inward rupture. Breaks knees, launches heavy targets, sends shock through packed ground | 6,200 EU |
 | **Tetsu no Hiji** · Iron Elbow | Short-range rupture with almost no wind-up, for an enemy who mistakes proximity for opportunity | 3,600 EU |
 | **Tetsu no Hiza** · Iron Knee | Rising compression through the hips, lethal against a grabbed or staggered opponent | 4,200 EU |
 | **Tetsu no Kata** · Iron Shoulder | Broad-body mass rather than a narrow point; breaks formations, shields and gates | 5,400 EU |
@@ -104,7 +104,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 ### Mechanism
 
-**Glyph** · Boundary (Zhaeren) for the seal, laid under Edge (Thalen) for the single opened vent; both Roots, since no Wellspring owns the ordinary behavior of a pressurised body.
+**Glyph** · Boundary (Zhaeren) for the seal, laid under Edge (Thalen) for the single opened vent; both Roots, since no Wellspring owns the ordinary behavior of a pressurized body.
 
 **Boundary** · The number of open outlets moves from zero to one, at one place, for an instant.
 
@@ -116,7 +116,7 @@ Its author built the Iron Tree alone, out of the same event that made the seal n
 
 **Floors** · Refraction for the seven branches, Invocation for sustained combat, Emanation for indefinite maintenance of the seal. It is bodily speaking with no anchor but the body; the only anchor is the ground. A-Grade at the floor, X-Grade at the apex of the architecture.
 
-**Exclusive** · Seal and vent cannot coexist: while a branch vents the bearer is unarmoured, and a vented chamber reloads on the seal's own schedule, not his.
+**Exclusive** · Seal and vent cannot coexist: while a branch vents the bearer is unarmored, and a vented chamber reloads on the seal's own schedule, not his.
 
 **Failure** · Structural fault: the root chamber is the bottom of a load path strong only in compression; lost ground contact releases without a partial stage; void and anti-recognition fields stop Phreatis's circulation.
 

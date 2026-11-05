@@ -3875,3 +3875,9 @@ Context: Indexed as R85-1. His word is the direction; how far it runs is Natalie
 Agent ruling (Natalie): where a character's card and portrait disagree with an older scene on how they look, the card and portrait govern new writing, and the archived scene stays as written.
 
 Context: Grounds: R79-10 gives person facts to the card; the canon hierarchy ranks archived scenes for events; R82-1 sits in the abilities law and concerns kit; R84-3 leaves archived scenes as written. Found by the R85-1 card gear pass. Isaac may overturn it, in general or for any one person.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "prob just gonna haveyou switch to irl days and use real life calender to make shit more simple" and "only think that won't change is the years". The world uses the real calendar, and the year counts stay as they are.
+
+Context: Indexed as R85-2; supersedes R51-08 (no Earth day and month names). How far it runs is Natalie's reading and overturnable: January to December with their real lengths, Monday to Sunday, leap years, 365 days and a 24-hour day, in every culture's mouth and in narration; not tied to today's date, since the table keeps its own date. The fourteen-day turn, the thirteen months, the nameless day Munahi and the sixty-count retire as calendars. Archived scenes stay as written (R84-3). Year numbers, IC, the Ages and Shiro's own cycle do not change.

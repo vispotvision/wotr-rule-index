@@ -981,14 +981,19 @@ fn uuid4() -> String {
     format!("{}-{}-{}-{}-{}", &h[..8], &h[8..12], &h[12..16], &h[16..20], &h[20..])
 }
 
-fn write_mirror(rel: &str, title: &str, pid: &str, markdown: &str, tags: &[String], private: bool) -> PathBuf {
-    let p = root("wiki").join(rel);
-    if let Some(d) = p.parent() {
-        let _ = std::fs::create_dir_all(d);
-    }
-    let mut body = markdown.trim().to_string();
+/// A page's text: the markdown replaces only the body. The header stays the one on disk, so tags and
+/// `private: true` survive any update, and a header inside the markdown is dropped, never stacked.
+fn mirror_text(existing: Option<&str>, title: &str, markdown: &str, tags: &[String], private: bool) -> String {
+    let front = |t: &str| rx!(r"(?s)^---\n.*?\n---\n").find(t).ok().flatten().map(|m| m.end());
+    let given = markdown.trim();
+    let mut body = given[front(given).unwrap_or(0)..].trim().to_string();
     if !rx!(r"^#\s").is_match(&body).unwrap_or(false) {
         body = format!("# {title}\n\n{body}");
+    }
+    if let Some(old) = existing {
+        if let Some(end) = front(old) {
+            return format!("{}{body}\n", &old[..end]);
+        }
     }
     let mut headl = vec!["---".to_string(), format!("title: {}", py_json(&json!(title)))];
     if !tags.is_empty() {
@@ -997,7 +1002,16 @@ fn write_mirror(rel: &str, title: &str, pid: &str, markdown: &str, tags: &[Strin
     headl.push(format!("private: {}", if private { "true" } else { "false" }));
     headl.push("---".into());
     headl.push(String::new());
-    let _ = std::fs::write(&p, format!("{}{body}\n", headl.join("\n")));
+    format!("{}{body}\n", headl.join("\n"))
+}
+
+fn write_mirror(rel: &str, title: &str, pid: &str, markdown: &str, tags: &[String], private: bool) -> PathBuf {
+    let p = root("wiki").join(rel);
+    if let Some(d) = p.parent() {
+        let _ = std::fs::create_dir_all(d);
+    }
+    let existing = p.exists().then(|| read_lossy(&p));
+    let _ = std::fs::write(&p, mirror_text(existing.as_deref(), title, markdown, tags, private));
     let mut m = manifest();
     m.insert(pid.into(), json!({"rel": rel, "edited": now_iso(), "title": title, "private": private}));
     let _ = std::fs::write(root("wiki/.manifest.json"), py_json_indent(&Value::Object(m)));
@@ -1104,5 +1118,33 @@ pub fn sync_now() -> String {
             if text.is_empty() { format!("exit {}", o.status.code().unwrap_or(-1)) } else { tail(&text, 2000).to_string() }
         }
         Err(e) => e.to_string(),
+    }
+}
+
+#[cfg(test)]
+mod mirror_tests {
+    use super::mirror_text;
+    const OLD: &str = "---\ntitle: Cozbi\ntags:\n  - mahuo\nprivate: true\n---\n# Cozbi\n\nold body\n";
+
+    #[test]
+    fn a_body_update_keeps_the_header_on_disk() {
+        assert_eq!(mirror_text(Some(OLD), "Cozbi", "# Cozbi\n\nnew body", &[], true), "---\ntitle: Cozbi\ntags:\n  - mahuo\nprivate: true\n---\n# Cozbi\n\nnew body\n");
+    }
+
+    #[test]
+    fn a_header_in_the_markdown_is_dropped_not_stacked() {
+        let given = "---\ntitle: Other\nprivate: false\n---\n# Cozbi\n\nnew body\n";
+        assert_eq!(mirror_text(Some(OLD), "Cozbi", given, &[], false), "---\ntitle: Cozbi\ntags:\n  - mahuo\nprivate: true\n---\n# Cozbi\n\nnew body\n");
+    }
+
+    #[test]
+    fn a_new_page_gets_a_built_header_and_a_heading() {
+        assert_eq!(mirror_text(None, "Cozbi", "body", &["mahuo".to_string()], true), "---\ntitle: \"Cozbi\"\ntags: [\"mahuo\"]\nprivate: true\n---\n# Cozbi\n\nbody\n");
+    }
+
+    #[test]
+    fn a_rule_in_the_body_is_not_taken_for_a_header() {
+        let t = mirror_text(Some(OLD), "Cozbi", "# Cozbi\n\n---\n\nbelow the rule", &[], true);
+        assert!(t.ends_with("# Cozbi\n\n---\n\nbelow the rule\n"), "{t}");
     }
 }

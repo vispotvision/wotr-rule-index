@@ -187,7 +187,7 @@ pub fn stat_embed(d: &Value) -> Embed {
     e
 }
 
-const HEADLINE: [&str; 8] = ["Level", "Level-Band", "Band", "Stage", "Temperance Stage", "Coherence Band", "Aether Class", "Soul Crystal Tier"];
+const HEADLINE: [&str; 10] = ["Level", "Level-Band", "Band", "Stage", "Temperance Stage", "Coherence Band", "Aether Class", "Essence Class", "Thread Class", "Soul Crystal Tier"];
 
 pub fn fow_embed(d: &FowCard) -> Embed {
     let mut e = Embed { title: Some(clip(&format!("FOW line \u{2014} {}", d.title), 256)), url: d.url.clone(), color: Some(C_STAT), ..Default::default() };

@@ -620,46 +620,6 @@ pub fn reconcile() -> Result<String, String> {
         lines.push("- none found by pattern (Stage/Level within 80 characters of a first name)".into());
     }
     lines.push(String::new());
-    // 3. Wellspring assigned to two Families across the wiki (the Family pages in directory order, as Path.glob gives them)
-    let mut ws_family: Vec<(String, String)> = Vec::new();
-    let fam_dir = wiki.join("The Magic System").join("The Eight Families & the Sixty Wellsprings");
-    for fp in std::fs::read_dir(&fam_dir).into_iter().flatten().flatten().map(|e| e.path()).filter(|p| name_of(p).ends_with(".md")) {
-        let st = stem(&fp);
-        let fam = st.split(" \u{2014} ").next().unwrap_or("").to_string();
-        for c in rx!(r"(?m)^###\s+(.+?)\s*·").captures_iter(read_page(&fp).as_str()).flatten() {
-            let n = c[1].trim_matches(['*', ' ']).to_string();
-            match ws_family.iter_mut().find(|w| w.0 == n) {
-                Some(w) => w.1 = fam.clone(),
-                None => ws_family.push((n, fam.clone())),
-            }
-        }
-    }
-    let families: HashSet<&str> = ws_family.iter().map(|w| w.1.as_str()).collect();
-    let ws_rx: Vec<Regex> = ws_family.iter().map(|(ws, _)| Regex::new(&format!(r"\*\*{}\*\*\s*·\s*([A-Z][a-z]+)\b", fancy_regex::escape(ws))).unwrap()).collect();
-    lines.extend(["## Wellsprings named with a Family other than their own".into(), String::new()]);
-    let mut bad = 0;
-    for (_, rel) in &entries {
-        let p = wiki.join(rel);
-        if !p.exists() {
-            continue;
-        }
-        let t = read_page(&p);
-        for ((ws, fam), r) in ws_family.iter().zip(&ws_rx) {
-            if !t.contains(&format!("**{ws}**")) {
-                continue;
-            }
-            for c in r.captures_iter(t.as_str()).flatten() {
-                if &c[1] != fam && families.contains(&c[1]) {
-                    lines.push(format!("- {rel}: {ws} \u{b7} {} (Family page says {fam})", &c[1]));
-                    bad += 1;
-                }
-            }
-        }
-    }
-    if bad == 0 {
-        lines.push("- none".into());
-    }
-    lines.push(String::new());
     lines.extend(["## Stale-register residue", "", "Run WOTR MCP `stale_names` for the live list; this report does not duplicate it.", ""].map(String::from));
     let p = report("reconcile", lines)?;
     Ok(head(&read_lossy(&p), 6000).to_string())
@@ -907,14 +867,14 @@ pub fn cast_index(write: bool) -> String {
 // ---------------------------------------------------------------- convert_character
 const SHEET_SECTIONS: [(&str, &str); 14] = [
     ("I · Identity", "name, house/line and register (Moto canon; five strata), age, origin, affiliation, status, Level / Stage / Band on one line, and the Catalyst Event — everything downstream is its consequence"),
-    ("II · Soul Architecture", "Soul Crystal (Essence Core, Aether Shell, Attraction Layer), Crystal State, Aether Class (which sets η, R78-10), Essence Typology; aura colour and signature sound; school, sect rank and renown (R78-10)"),
-    ("III · Work Architecture", "Wellspring harmonisations: which of the Sixty answer, Family and Physics Domain from the Master Codex, the Craft (Magicraft / Spellcraft / Runecraft / Draftcraft) and Category of each working"),
+    ("II · Soul Architecture", "Soul Crystal (Essence Core, Aether Shell, Attraction Layer), Crystal State, Class and the Aether, Essence and Thread ladders (each sets η for its layer, R85-26), Path with its standing (R85-16); aura colour and signature sound; school, sect rank and renown (R78-10)"),
+    ("III · Work Architecture", "Wellspring harmonisations: which of the Sixty answer, each with its kind and Titan, the Craft (Magicraft / Spellcraft / Runecraft / Draftcraft) and Category of each working"),
     ("IV–V · Stats", "the Eight Primaries with Grade and Sub-Stat peaks: Gnosis, Tempering, Ardency, Resilience, Dexterity, Vitality, Dominion, Harmonics. Grades come off the Tier Grade table; the Stage sets the ceiling"),
     ("VI–VII · Force and Flow", "Strike Force band, Attack Speed, Reaction, Travel, Aura Pressure Field radius, Domain Pressure, EU Reserve, Flux Density, AU/s, η — the part a Measurewright could confirm"),
     ("VIII–IX · Traits and Domain", "each Trait names the Lattice property it alters (R17-5-TRAIT_SCOPE); Domain state by Stage (seed at VII), opened and powered by the Second Release; release forms with folk name, bonded weapon, stack line (R78-10)"),
     ("X · Techniques", "summary card (Effect, Cost, Limit, Counter, What nobody knows) + full Design Chain + Codex line + FOW line per technique; Counter mandatory (R12-3-COUNTER_MANDATORY); every technique statable as 'it does X to Y, which under Z produces W' (R17-2-THE_TEST)"),
     ("XI · Spirit Axes", "who they are bonded to; sited here because the people someone loves are load-bearing"),
-    ("XII · Resistances", "what they can take: per-Wellspring / per-Family resistances, Resilience against hostile workings"),
+    ("XII · Resistances", "what they can take: per-Wellspring resistances, Resilience against hostile workings"),
     ("XIII · Physical Description", "full inventory on first sight: hair by comparison, face, body with areas named, clothing with fit and wear, distinguishing marks (Table Rule 11)"),
     ("XIV · Psychology", "what they refuse, what they survived, what they believe that costs them (character first); an unswappable voice"),
     ("XV · Equipment", "weapons with mass, length, point of balance, armour tier beaten/failed (R13-9-ITEM_GUIDE_WEAPON_ENTRY); proof-marks; artefacts with their own Operation line"),

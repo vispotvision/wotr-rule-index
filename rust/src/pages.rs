@@ -34,7 +34,7 @@ pub fn character(name: &str) -> String {
 }
 
 pub fn fow_line(name: &str) -> String {
-    static FIG: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\*\*(?:Level|Stage|Band|EU Reserve|Flux Density|AU/s|η|Aether Class|Soul Crystal|Coherence)\b").unwrap());
+    static FIG: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\*\*(?:Level|Stage|Band|EU Reserve|Flux Density|AU/s|η|Stat line|Path|Aether Class|Essence Class|Thread Class|Soul Crystal|Coherence)\b").unwrap());
     static LBL: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\b(?:Level|Stage|Band):").unwrap());
     static SEC: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"^(#{2,3})\s+.*(?:Stats|Force and Flow|Force & Flow|Traits and Domain|Fracture of Worlds|Temperance)").unwrap());
     static ANY: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"^(#{1,6})\s").unwrap());

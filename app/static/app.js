@@ -43,7 +43,7 @@ const img = (id) => `/api/images/${encodeURIComponent(id)}`;
 function schema(kind) {
   const C = S.canon;
   const stageOpts = C.stages.map((s) => `${s.numeral} · ${s.name}`);
-  const springs = C.families.flatMap((f) => f.wellsprings.map((w) => w.name));
+  const springs = C.wellspring_kinds.flatMap((f) => f.wellsprings.map((w) => w.name));
   const mine = (k) => S.list.filter((e) => e.kind === k).map((e) => e.title);
   const look = { id: 'look', label: 'Look', fields: [{ k: 'aura', label: 'Aura colour', type: 'color' }, { k: '_gallery', type: 'gallery', label: 'Images' }] };
   const card = { id: 'card', label: 'The card', fields: [{ k: '_card', type: 'card' }] };
@@ -57,8 +57,11 @@ function schema(kind) {
     { id: 'crystal', label: 'Crystal', intro: 'The soul architecture: the Stage they stand at and what the Crystal draws on.', fields: [
       { k: 'stage', label: 'Temperance Stage', type: 'stage', wide: true },
       { k: 'path', label: 'Path', type: 'select', opts: C.paths, help: 'Recognised, not declared.' }, { k: 'band', label: 'Band', type: 'select', opts: ['I', 'II', 'III', 'IV', 'V'] },
-      { k: 'aetherClass', label: 'Aether Class', type: 'select', opts: C.aether_classes }, { k: 'crystalTier', label: 'Soul Crystal Tier', type: 'select', opts: C.crystal_tiers },
-      { k: 'crystalState', label: 'Crystal State', type: 'text' }, { k: 'essence', label: 'Essence Typology', type: 'select', opts: C.essence },
+      { k: 'aetherClass', label: 'Aether Class', type: 'select', opts: C.aether_classes, help: 'Influence on the physical world.' },
+      { k: 'essenceClass', label: 'Essence Class', type: 'select', opts: C.essence_classes, help: 'Influence on spiritual reality.' },
+      { k: 'threadClass', label: 'Thread Class', type: 'select', opts: C.thread_classes, help: 'How much of Fate they can pull down. Most souls: none.' },
+      { k: 'crystalTier', label: 'Soul Crystal Tier', type: 'select', opts: C.crystal_tiers },
+      { k: 'crystalState', label: 'Crystal State', type: 'text' },
       { k: 'combatGrammar', label: 'Combat grammar', type: 'select', opts: C.combat_grammar }, { k: 'reserve', label: 'EU reserve', type: 'text', help: 'Natalie can derive it from the tables.' },
       { k: 'wellsprings', label: 'Wellspring harmonisations', type: 'springs', wide: true }] },
     { id: 'kit', label: 'Kit', intro: 'Traits, techniques and releases. Every one carries a cost, a tell and a fair counter.', fields: [
@@ -81,7 +84,7 @@ function schema(kind) {
     { id: 'concept', label: 'Concept', intro: 'Character first, then the phenomenon, then the mechanism, then the Codex.', fields: [
       { k: 'title', label: 'Name, in caps on the card', type: 'text' }, { k: 'gloss', label: 'Gloss', type: 'text' },
       { k: 'kindOf', label: 'Kind', type: 'select', opts: [...C.technique_kinds, ...C.trait_kinds] }, { k: 'owner', label: 'Whose it is', type: 'select', opts: mine('character') },
-      { k: 'family', label: 'Family', type: 'select', opts: C.families.map((f) => f.name) }, { k: 'wellspring', label: 'Wellspring', type: 'select', opts: springs },
+      { k: 'wellspring', label: 'Wellspring', type: 'select', opts: springs },
       { k: 'sound', label: 'Its sound', type: 'text', help: 'Every technique fires with its own sound.' },
       { k: 'idea', label: 'The idea, in your words', type: 'area', wide: true }] },
     { id: 'mechanism', label: 'Mechanism', intro: 'Power is finite and the spending shows. A technique that costs nothing is worse than one left unexplained.', fields: [
@@ -134,7 +137,7 @@ function cardMarkdown(e) {
     md += `\n---\n\n## I. Identity\n\n` + L('Full Name', e.title) + L('Pronunciation', d.pronunciation) + L('Alias / Title', d.epithet) + L('Race / Lineage', d.lineage) +
       L('Age', d.age) + L('Realm / Faction', d.faction) + L('School and sect rank', d.school) + L('Catalyst Event', d.catalyst) + L('Refusal', d.refusal) + L('Conviction', d.conviction);
     md += `\n## II. Soul Architecture\n\n` + L('Band', d.band) + L('Temperance Stage', st && `${st.numeral}, ${st.name}`) + L('Path', d.path) + L('Tier of Standing', st && `${st.standing} (Tier ${st.tier})`) +
-      L('Soul Crystal Tier', d.crystalTier) + L('Crystal State', d.crystalState) + L('Aether Class', d.aetherClass) + L('Essence Typology', d.essence) + L('EU Reserve', d.reserve);
+      L('Soul Crystal Tier', d.crystalTier) + L('Crystal State', d.crystalState) + L('Aether Class', d.aetherClass) + L('Essence Class', d.essenceClass) + L('Thread Class', d.threadClass) + L('EU Reserve', d.reserve);
     if ((d.wellsprings || []).length) md += `\n## III. Wellspring Harmonizations\n\n` + d.wellsprings.map((w) => `**${w}**\n`).join('');
     if ((d.traits || []).some((t) => t.name)) md += `\n## VIII. Traits\n\n` + d.traits.filter((t) => t.name).map((t) => `**${t.name.toUpperCase()}${t.gloss ? ' · ' + t.gloss : ''} (${t.kind || 'Trait'})**\n${t.text || ''}\n`).join('\n');
     if (techs.length) md += `\n## X. Techniques\n\n` + techs.map((t) => `**${t}**\n`).join('');
@@ -149,7 +152,7 @@ function cardMarkdown(e) {
   if (e.kind === 'technique') {
     return `**${name}${d.gloss ? ' · ' + d.gloss : ''} (${d.kindOf || 'Technique'})**${d.owner ? ' · ' + d.owner : ''}\n` +
       (d.entry || [d.mechanism, d.cost && 'Cost: ' + d.cost, d.limit && 'Limit: ' + d.limit, d.tell && 'Tell: ' + d.tell, d.counter && 'Counter: ' + d.counter].filter(Boolean).join(' ')) +
-      `\n\n` + L('Family', d.family) + L('Wellspring', d.wellspring) + L('Sound', d.sound) + L('Phenomenon', d.phenomenon);
+      `\n\n` + L('Wellspring', d.wellspring) + L('Sound', d.sound) + L('Phenomenon', d.phenomenon);
   }
   if (e.kind === 'item') {
     return `**${e.title}** · ${[d.kindOf, d.tier && 'Item Tier ' + d.tier, d.material, d.maker && 'made by ' + d.maker].filter(Boolean).join(' · ')}\n\n` +
@@ -293,8 +296,8 @@ function field(f) {
     }).join('')}</div>`, true);
     case 'springs': {
       const on = new Set(v || []);
-      return wrap(`<span class="lbl">${esc(f.label)}</span><span class="help">Fixed canon: the Sixty Wellsprings by Family. Pick the ones the Crystal is harmonised with.</span>
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px">${S.canon.families.map((fam) => `<div class="fam"><b>${esc(fam.name)}<small>${esc(fam.domain)}</small></b>
+      return wrap(`<span class="lbl">${esc(f.label)}</span><span class="help">Fixed canon: the Sixty Wellsprings by kind. Pick the ones the Crystal is harmonised with.</span>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px">${S.canon.wellspring_kinds.map((fam) => `<div class="fam"><b>${esc(fam.name)}<small>${esc(fam.domain)}</small></b>
         <div class="chips">${fam.wellsprings.map((w) => `<button class="chip" data-toggle="wellsprings" data-v="${esc(w.name)}" aria-pressed="${on.has(w.name)}">${esc(w.name)}<small>${esc(w.gloss)}</small></button>`).join('')}</div></div>`).join('')}</div>`, true);
     }
     case 'color': return wrap(`<span class="lbl">${esc(f.label)}</span><div class="swatches" role="group" aria-label="${esc(f.label)}">${AURAS.map(([n, hex]) =>

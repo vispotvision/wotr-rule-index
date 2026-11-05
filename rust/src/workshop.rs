@@ -248,22 +248,24 @@ fn canon() -> Result<Value, String> {
         .captures_iter(&page)
         .map(|m| json!({"numeral": &m[1], "name": &m[2], "tier": m[3].parse::<i64>().unwrap_or(0), "standing": &m[4]}))
         .collect();
-    let dir = magic.join("The Foundations/The Eight Families & the Sixty Wellsprings");
-    let mut files: Vec<PathBuf> = std::fs::read_dir(&dir)
-        .map_err(|e| format!("{}: {e}", dir.display()))?
-        .flatten()
-        .map(|e| e.path())
-        .filter(|p| p.extension().is_some_and(|x| x == "md") && p.file_stem().is_some_and(|s| s.to_string_lossy().contains(" \u{2014} ")))
-        .collect();
-    files.sort();
+    // The Sixty sort by kind (R85-31); Vohrin is outside them.
+    let dir = magic.join("The Foundations/The Sixty Wellsprings");
     let spring = rx(r"(?m)^## (.+?) \x{b7} \*(.+?)\*")?;
-    let mut families = Vec::new();
-    for f in files {
-        let stem = f.file_stem().unwrap_or_default().to_string_lossy().into_owned();
-        let (fam, domain) = stem.split_once(" \u{2014} ").unwrap_or((&stem, ""));
-        let body = read_lossy(&f);
-        let springs: Vec<Value> = spring.captures_iter(&body).map(|m| json!({"name": m[1].trim(), "gloss": m[2].trim()})).collect();
-        families.push(json!({"name": fam, "domain": domain, "wellsprings": springs}));
+    let kinds: [(&str, &str); 4] = [
+        ("Wild", "the physical world"),
+        ("Spirit", "the soul"),
+        ("Fate", "bonds, debts, names and odds"),
+        ("Medium", "at home on all three"),
+    ];
+    let mut groups = Vec::new();
+    for (kind, domain) in kinds {
+        let body = read_lossy(&dir.join(format!("{kind} Wellsprings.md")));
+        let springs: Vec<Value> = spring
+            .captures_iter(&body)
+            .filter(|m| !m[1].starts_with("Outside the Sixty"))
+            .map(|m| json!({"name": m[1].trim(), "gloss": m[2].trim()}))
+            .collect();
+        groups.push(json!({"name": kind, "domain": domain, "wellsprings": springs}));
     }
     let tpl = read_lossy(&root("desktop/templates/CHARACTER_CARD_TEMPLATE.md"));
     let sep = rx(r" \x{b7} | \| ")?;
@@ -273,10 +275,10 @@ fn canon() -> Result<Value, String> {
         Ok(sep.split(&c[1]).map(|o| o.trim().to_string()).collect())
     };
     Ok(json!({
-        "stages": stages, "families": families, "cultures": CULTURES, "item_tiers": ITEM_TIERS,
-        "paths": ["Body", "Spirit", "Attraction", "Fate"],
-        "aether_classes": options("Aether Class")?, "crystal_tiers": options("Soul Crystal Tier")?,
-        "essence": options("Essence Typology")?,
+        "stages": stages, "wellspring_kinds": groups, "cultures": CULTURES, "item_tiers": ITEM_TIERS,
+        "paths": ["Body", "Spirit", "Fate"],
+        "aether_classes": options("Aether Class")?, "essence_classes": options("Essence Class")?, "thread_classes": options("Thread Class")?,
+        "crystal_tiers": options("Soul Crystal Tier")?,
         "combat_grammar": ["Verdict", "Blade", "Percussion", "Expenditure"],
         "trait_kinds": ["Primary Trait", "Secondary Trait", "Inherited Trait", "Passive Trait", "Compound Trait", "Higher-Imprint Trait"],
         "technique_kinds": ["Signature Technique", "School Art", "Bloodline Faculty", "Synergia", "Combined Art", "First Release", "Second Release", "Third Release", "Domain"],

@@ -6,6 +6,18 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-05 (real calendar, R85-2; magic system audit)
+
+R85-2: the world uses the real calendar, and only the year counts stay its own. `rules/doc-directions-2026-11-05-calendar.yaml` supersedes R51-08; the Rust date code, `verify_scene`, the bot's `/date`, NATALIE.md and The Sky, the Hour and the Year are changed, and the bot and public MCP are restarted on the new build. The Rust edits and rule files are uncommitted. One survivor to fix: "red-leaf month".
+
+The audit of the magic system is in `imports/drafts/magic-audit/` (wellsprings, mechanics, connections, flow), with the brief used to fix it. On his word ("Rule them, I'll overturn") Natalie ruled the law-level items as agent rulings: R85-3 to R85-11 (`rules/doc-rulings-2026-11-05-magic-audit.yaml`), C-167 to C-174. NATALIE.md carries them and about 210 wiki pages are fixed; the staged library got the same fixes. The Working Trades and Unified Taxonomy pages are renamed, and Domains and Vows and Oaths are new and public. A wiki cleanup must keep the passages rules quote verbatim: `validate` failed on R26-1 and R31-1 when they were cut, and they are restored.
+
+Open: how many Hollow Thrones; Malakar has no page (he said the Sins come later); 11 Wellsprings have no glyph in the Codex; the Codex's frost rows still read Cymorath; old "Divine", "Celestial", "Dream" and "Harmonic" Wellspring labels on the Goblinoid, Beastkin and Marrowkin pages and Archon Pair IV; pages naming Isaac on the public site (Yuno, Yasoshima, Haelvorn, Vaelmorn, the Summon Register, the Zettari and Kushara pages, some possibly under rule quotes). `rust/src/analysis.rs:925` prints retired stat rows.
+
+## State on 2026-11-05 (gear is a flex; R85-1)
+
+Isaac: armor, outfits, gear, swords and the rarity of weapons and items are a flex, so characters get them described. R85-1 is in `rules/doc-directions-2026-11-05-gear.yaml` and RULINGS.md; `desktop/NATALIE.md`, the card template (a Kit line in the head, a Look line in Equipment), the character pipeline, the prose review pass and the character and NPC skills carry it. Those files already held another session's uncommitted edits, so none of that is committed. All 25 cards in Volume I then got their gear on his word (brief in `imports/drafts/card-gear/BRIEF.md`; insert-only against 069ba832; the wiki autosave committed them). Mismatches the pass found are C-165 (looks, agent ruling: card and portrait govern new writing) and C-166 (open, small).
+
 ## State on 2026-11-05 (R84 and the Inner World redo)
 
 Isaac's magic system questionnaire is law: R84-1 to R84-24 in `rules/doc-directions-2026-11-05-sheet.yaml`, answers in `imports/drafts/magic-system-questionnaire/answers.json`, Natalie's section THE SHEET AND THE CLIMB. Windows on the page, Stages for sale, Aether Classes, Trait levels, skills, Grade and Rarity on items, dungeons, monster cores, blessings that can lie, named crafts removed. Other rulings the same night in RULINGS.md: the Guild Accord as a coalition of guilds with titles as trust; Fate as the control of Attraction and Obsession and of probability; Wellsprings as lenses.

@@ -1837,3 +1837,93 @@ the author notes."
 **Consequence if unresolved:** A scene or card cannot place the Refusal, the Kōkan's fall or Kharven's founding against Muken's life, and the Concordance of Ages does not date the split at all.
 **Recommendation:** none.
 **Status:** ruled 2026-11-05 by Isaac on the order of Muken and the split. Agent ruling on the rest (Natalie, in RULINGS.md, wiki rewrite): the Concordance dates the split about 740 IC and treats the whole IC count up to then as the Grand World. The Long Reading's split in II to IV is read as a first blow on the white shelf about 310 IC, which the Moto registers call the split; the Reading of it, the Refusal and the Stay fall there, the Long Diminishment follows, and the Recension stays two to four generations before Muken. Kharven-Seat already stands before Muken, who takes its crown and does not build it. The Long Reading, The Moto Bloodline, The Moto Origin, the Kharven page and Sohai are not yet revised to this.
+
+## C-165: Character cards and portraits against older scenes on how people look
+
+**Rules:** R79-10-NUMBERS_AND_SYSTEMS (the card for person facts) vs R82-1-SCENE_WINS (a scene is written back to the card)
+**The clash:** The card gear pass (R85-1) read every card against its portrait and the archived scenes and found looks that disagree. Checked by hand: Amelia Greymane (scene red hair, card gold), Tetsugen Akagane (scenes "broad as a door", card and art a slight man who looks twenty-five), Kiyome Byakuya (scene silver-white hair, card gold), Godfrey Greymane (scene black hair, card pale gold). Reported by the pass and not rechecked: Ulf Stark's beard and hair, Wystan Greymane's and Yusif Stark's hair and beard, Shōki Kurenai Moto's hair and build, Hisae Thornwall's height and age, Edric Ashmore's nose, Naiser Yukari's skin, hair and robe, Vaashuuk Snorr-Khal's coat, eyes and skin.
+**Quotes:** the_grey_wall.md: "at the red hair and the wet scar and the broken nose". Amelia Greymane's card: "hair is a bright warm gold". Chapter Eighteen: "the old copper lord, broad as a door". Chapter Nine notes: "Kiyome's silver-white hair is Yukazuri's white". the_grey_wall.md notes: "Godfrey Greymane's look (black hair, gray eyes".
+**Consequence if unresolved:** A writer cannot tell which face to give these people in new scenes.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (Natalie, in RULINGS.md): the card and its portrait govern looks in new writing, on R79-10's sources by field, which give person facts to the card; the hierarchy ranks archived scenes for events, and R82-1 sits in the abilities law and concerns kit. Archived scenes stay as written (R84-3). Isaac may overturn it.
+
+## C-166: Other mismatches the card gear pass found
+
+**Rules:** none; card against scene or card against itself
+**The clash:** Reported by the pass and not rechecked. Gear, carded so both can stand: two Greymane shields (Wystan's gold sun, Godfrey's ridge device), Ulf Stark's mail worn by two people at once and his sword against an axe in Chapter Five, Amelia's armor and cloak, Wystan's green against gray surcoat, Godfrey's two cloaks, Yukazuri's blue waistcoat from the art. Left as they are: Raizan's Last Thread is on his card though The Last Combustion destroys it (the card's "as of" is earlier), Kiyome's spear and sword after The Owl and the Fox likewise, Tetsugen's war-bow and the Kitsune-ya arrow owed a write-back under R82-1. Person facts, left alone: Raizan nineteen three hundred years ago against seventy-seven on the card, Cozbi's Shell at four hundred years against twenty-five, Gimbzo's Band III named both Sovereign and Ascendant, his chair's forty years of dust against twenty empty years. Stale on the cards: Godfrey's stray wikilinks and THE RIDGE GIVES BACK's "a ton of powder's worth" against the no-gunpowder law; Faisal's card embeds a portrait that is not in the wiki. Raizan's paper cigarettes and matches are carded from archived scenes and read modern for the Dark Ages.
+**Quotes:** none gathered; each item names its card and scene.
+**Consequence if unresolved:** Small: a writer reading one source could contradict another.
+**Recommendation:** none.
+**Status:** open; the look rulings in C-165 do not cover these. Natalie rules each as a scene touches it.
+
+## C-167: Two η ladders give one Stage different η
+
+**Rules:** R42-2 vs R44-4
+**The clash:** A late-Refraction Class III reads η 0.90 to 0.95 by the Class table and 0.60 to 0.70 by the Tier table.
+**Quotes:** Part Seventeen: "Late Refraction, Resonant Crystal. **Five to ten percent loss.**" Part Nineteen: "V–VII Splintering to Refraction | 0.60–0.70". Tier Grade: "Neither has been withdrawn."
+**Consequence if unresolved:** A window or card cannot show a settled η above Glory.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-3).
+
+## C-168: AU/s applies η twice in the Ledger
+
+**Rules:** R44-2 vs Fracture Part Nineteen's gloss
+**The clash:** 290 × 0.89 = 258.1 AU/s, and 258.1 × 0.89 = 229.7 MW delivered, while one line says drain does not depend on the conversion.
+**Quotes:** Part Twenty-Three: "**AU/s = Flux Density × η**"; "258.1 MW spent, 229.7 MW delivered". Part Nineteen: "that figure does not depend on the conversion at all".
+**Consequence if unresolved:** No one can say whether high η spends faster or slower.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-4).
+
+## C-169: The two-Grade cap has three baselines
+
+**Rules:** R78-10, R81-12 and Fracture Part Five
+**The clash:** The cap is stated from the Grade on the card, the sustainable level and what the Crystal holds safely, and a boost passes a Stage ceiling called hard.
+**Quotes:** NATALIE: "two Grades over the Grade on the card". Stacking and Spending: "above what the practitioner's Soul Crystal". Part Five: "Temperance Stage functions as a hard ceiling on every Sub-Stat".
+**Consequence if unresolved:** The same fighter caps at different Grades on different pages.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-5).
+
+## C-170: The Domain road is circular
+
+**Rules:** R78-10, R84-17 vs Fracture of Worlds' Catalysts
+**The clash:** Stage VII's Catalyst is a seed, which only a Second Release opens, and that Release cannot exist below Stage VII; Stage IX and the Realm loop the same way. Grade blurbs also put Domains at C, B and A, and two pages say a Domain is not chosen.
+**Quotes:** The Sixteen Stages: "first Domain seed activation, however fragile or small". Release Forms: "The Second Release opens and powers the Domain". Tier Grade: "a character does not choose to deploy a Domain the way they choose to throw a punch".
+**Consequence if unresolved:** No lived road reaches Stage VII as written.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-6).
+
+## C-171: Vohrin is worked as a Wellspring and is not one
+
+**Rules:** R27-1 vs R82-15 and Fracture Part Thirteen
+**The clash:** Six techniques run on Vohrin as primary and send readers to Caloria entries that do not exist, while the register is sixty and fixed.
+**Quotes:** Part V: "There are sixty, fixed." Hunter's Breath: "**Wellspring** · Vohrin (primary, Caloria)". Rulings: "Vohrin is one power at two levels, Titan and Wellspring".
+**Consequence if unresolved:** A frost working has no signature and no named failure.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-7).
+
+## C-172: Thirty Spirit lines replace Fracture's names
+
+**Rules:** Fracture of Worlds Part Thirteen vs the Family pages
+**The clash:** The Hub says the Fracture gives no name where it gives the confessors' reading; the Fracture names all sixty.
+**Quotes:** Hub: "where the Fracture register gives no such name the entry gives the confessors' reading". Fracture: "Monolithion ... Temperance through memory". Materia page: "Temperance through permanence".
+**Consequence if unresolved:** A Wellspring's Temperance reads differently by source.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-8).
+
+## C-173: Threat Tier read straight as a Grade
+
+**Rules:** R84-14 vs Tier Ladders X
+**The clash:** Tier Ladders says a T is not a Grade, while Monster Cores and The Item Tiers read T straight to Stage and material.
+**Quotes:** Part X: "**The Leviathan and the Kraken show why a T cannot simply be a Grade.**" The Item Tiers: "it assays at about the monster's Threat Tier".
+**Consequence if unresolved:** A D-depth beast yields a Stage VIII stone.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-9).
+
+## C-174: Aura hue at the low Stages
+
+**Rules:** R78-6 and THE TONE vs The Color of Essence
+**The clash:** The Refinement Spectrum gives the low Stages smoke-brown, while the wiki's stories and the law show a Stage III fighter in full color.
+**Quotes:** The Color of Essence: "**Smoke-brown.** The first genuine clearing." How Magic Works: "His fist glows the ember-orange of his aura".
+**Consequence if unresolved:** A low-Stage aura has no settled color.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-05 (R85-10).

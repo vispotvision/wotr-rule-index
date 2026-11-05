@@ -1,0 +1,53 @@
+# Isaac's direction on wild and spiritual Wellsprings, 2026-11-05, in chat, with the agent ruling that sorts the Sixty under it. Both are recorded in RULINGS.md.
+pack: Directions 2026-11-05 (Wellspring kinds)
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-11-05 (Wellspring kinds)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-12-WILD_AND_SPIRITUAL
+  section: wellspring-kinds
+  title: Wild Wellsprings are physical, spiritual Wellsprings are spiritual
+  kind: definition
+  summary: Wild Wellsprings are mostly physical, appearing as alchemical transformations and physical phenomena a practitioner shapes their inner Essence around. Spiritual Wellsprings are purely spiritual, work spiritual transformations and usually have little or no effect on the physical world.
+  verbatim: The idea of wild wellsprings still exist but those are mostly PHYSICAL wellsprings and appear as alchemical transformations and physical phenomena that you shape your inner-essence around. Whilst SPIRITUAL wellsprings are PURELY spiritual and usually have no effect or a lot of influence on the physical world, but have more of spiritual transformations.
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - worldbuilding
+  verification: []
+  notes: Read "no effect or a lot of influence" as no effect or not a lot of influence, since he calls them purely spiritual. Amends R11-4-DIRECTION_AXIS on which Families fall under which type.
+- pack: Directions 2026-11-05 (Wellspring kinds)
+  pack_number: null
+  status: superseded
+  ratified: 'Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  id: R85-13-THE_SORT_OF_THE_SIXTY
+  section: wellspring-kinds
+  title: The sort of the Sixty
+  kind: mandate
+  summary: 37 Wild, 19 spiritual and 4 Medium. A bench operation or a phenomenon you can point at is Wild; a state of the soul with nothing to point at is spiritual. Spirit-type ground adds no fire of its own, so a discharge there is the person's own Essence.
+  verbatim: "Agent ruling. The Sixty sort by kind. Wild (37): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Fixatio, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Tarturon, Transmutatio, Transference, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine, Mortalis. Spiritual (19): Catharsis, Penanceflare, Somnalis, Thaloré, Oblation, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Oblivara, Nyxial, Eclipseron, Absolution, Penance, Benediction, Redemption, Contrition. Medium stays for the Veil-crossing four: Phreatis, Aurevane, Luminalis, Anamnesis. The test: a bench operation or a phenomenon you can point at is Wild; a state of the soul with nothing to point at is spiritual. A spiritual Wellspring pools as Spirit-type ground and adds no fire of its own, so a discharge there is the person's own Essence."
+  amends:
+  - guide: NATALIE.md
+    locus: THE MAGIC FRAME
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - worldbuilding
+  verification: []
+  notes: Sorts under R85-12. The Sixty, their Families and their canon analogues do not change; the analogue of a spiritual Wellspring stays the scholars' account of what happens in the soul (R83-11).

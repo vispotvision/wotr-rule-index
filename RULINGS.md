@@ -3827,3 +3827,9 @@ Context: Supersedes the sheet-at-thresholds and no-readouts parts of R79-6, R81-
 Isaac, 2026-11-05: "dawi is the old name, library names good". Dawi is the old name of the Marrowkin, so archived scenes that say Dawi still read true, and the wiki says Marrowkin from here with Dawi kept as what people once called them. The Disciplines library's grand names are approved as Natalie listed them. Saba no Rosa keeps its name, with "the Reckoning of Roses" as its translation.
 
 Context: Inner World redo and the R82 library rollout.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "the fall doesn't stand, that's old lore". The Fall is old lore: Muken was not taken off the chair after sixteen years by a Tenrai plot, the oaths did not lapse that way, the Greymanes did not hold alone for three years after it, and Sodoku's exile on that account goes with it. Wiki pages lose it. Archived scenes stay as written, and anything in them that rests on it reads as old lore.
+
+Context: Answers the question from the Inner World build. Bears on The Kingdom of Kharven, The Banner Houses of Kharven, The Long Reading, The Moto Bloodline, A Reader's Codex and cards that mention it.

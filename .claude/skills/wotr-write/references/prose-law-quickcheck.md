@@ -18,7 +18,7 @@ grep -nE ' like |the way |as if|as though' "$f"      # similes: welcome when ear
 grep -nEi "(isn't|wasn't|is not|was not|it's not|not just) .{0,40}(but|it's|it was|,)" "$f"   # "not X, Y" family
 grep -nE 'Not [a-z]+\.$|No [a-z]+\. No ' "$f"       # countdown negation
 grep -nEi 'now that|as mentioned|as you know|in other words' "$f"   # signposting
-grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # figures: read each hit. The terms are free and the Working Card needs them; a NUMBER beside them in fight narration is the fault (R79-6, R81-3: eta as an idea and a proportion, exact figures in mouths and notes); blocks only at milestones (R70-80)
+grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # figures: read each hit. The terms are free and the Working Card needs them; a NUMBER beside them in fight narration is the fault (R81-3: eta as an idea and a proportion, exact figures in mouths and notes); windows carry Grades, percentages, bars and levels in their own blocks, and EU, AU/s or eta in a window is the fault (R84-2)
 grep -nEi 'cold glint|sucked in a cold breath|killing intent surged|the steel sang|a grim smile|blood ran cold|every fiber of his being|darkness gathered|power surged through|stronger than ever|a wave of power|stats soared' "$f"  # exact cliché phrases banned (R70-35); bare killing intent and qi rising or flaring are genre vocabulary (R79-5)
 ```
 
@@ -29,8 +29,9 @@ aloud in English (R80-3); wounds plain and anime on the page, clinical names
 welcome when explained (R81-8); every working on the Working Card at first
 display, finisher and change, repeats by what changed (R81-2), the real
 phenomenon and its law named on the page (R81-7); a stated fault per working;
-a findable way out (R71-8). The stats decide out of sight: no Stat Ledger, no
-deciding-row citations (R79-10).
+a findable way out (R71-8); windows often and in detail, each after the blow it
+reports, the owner's only (R84-1, R84-2). The stats decide out of sight: no Stat
+Ledger, no deciding-row citations (R79-10).
 
 ## Reading pass (after every grep is clean)
 

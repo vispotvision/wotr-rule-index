@@ -64,10 +64,12 @@ kind is *First*, *Second* or *Third Release*); the **hook**, one sentence a kid
 could repeat, no system words; the **named moves**, a line each saying what it
 does and looks like in a fight; **How it really works**, the full account with
 the metaphysics and the physics as one story, the glyph's boundary condition,
-its signature sound and, for a Trait, the aura's color, and for a signature or
-release how it plays against a higher Stage; one short **Cost** line and one
-short **Counter** line (individual moves may skip them); and a **Numbers** block
-with the exact figures. Counters and tells are facts ("fails in a warm room",
+for a Trait the aura's color, and for a signature or release how it plays
+against a higher Stage; one short **Cost** line and one short **Counter** line
+(individual moves may skip them); and a **Numbers** block with the exact figures
+and the art's signature sound word as a plain `Sound:` data line, the only place
+an entry spells a sound, because documents carry no onomatopoeia and sound words
+belong to scenes (Isaac, 2026-11-05). Counters and tells are facts ("fails in a warm room",
 "the air shimmers"), never instructions to an opponent. Names follow
 ABILITIES AND THE WORLD in `desktop/NATALIE.md`. An old entry is rewritten into
 this shape the next time it is edited or used, keeping what scenes have shown
@@ -117,9 +119,16 @@ stated fault) stays in the author notes, which never reach the page.
 
 - A **Trait** names the Lattice property it alters, and therefore which
   injuries behave differently and which identically. "Harder to kill" is not a
-  Trait.
+  Trait. It has its own level, which rises with use and grows with overall Level
+  and skill (R84-7).
 - A **Skill** names its operating principle at the body: for a read, the real
-  cognitive cues; for a martial skill, mechanics, measure and tempo.
+  cognitive cues; for a martial skill, mechanics, measure and tempo. It rises
+  with use and shows as a Grade on the sheet; a technique is a named thing done
+  with it, shows no level and takes a bigger name when it jumps (R84-7, R84-8).
+  Drafts, runes, tags and chants are skills and trades anyone can level, with no
+  named craft above them (R84-18).
+- A **class ability** comes from the named class the soul was offered and evolves
+  with it; the one wild concept stays the person's own (R84-10).
 - A **bloodline faculty** states what quantity it acts on, what it costs to
   hold open, and what it cannot resolve. "The Moto see" is not an entry.
 

@@ -49,7 +49,7 @@ Phenomenon line and the physics the three-stratum stack is built on.
    once for the nearest anime, manga, LitRPG or CRPG
    version. Name it so the entry can diverge from it on purpose.
 9. **Hand it to wotr-write / technique-design** as the Phenomenon line.
-   Before a new art, check `wiki/The Disciplines/Techniques/` and `wiki/The Disciplines/Spellcraft/` for
+   Before a new art, check `wiki/The Disciplines/` for
    precedent inside the setting.
 
 ## Output: the Phenomenon line (under 150 words)
@@ -69,7 +69,8 @@ the Counterplay route the physics hands an opponent. See `wotr-write/references/
 
 Never invent a number for a metaphysical quantity. Real-world figures are
 fine (Joules, m/s, degrees) and legal in any diagnostic voice; in a fight,
-figures live in mouths, never narration (R79-6). Narration shows the physical
+narration stays free of figures, which live in mouths and in windows (R84-1, R84-2),
+and EU, AU/s and eta stay in the notes. Narration shows the physical
 effect first, then a trained POV may name it in system and science terms
 (R78-3, R79-4); a working's display carries the full account on the page by the
 Working Card, physics and metaphysics told as one, every term explained on

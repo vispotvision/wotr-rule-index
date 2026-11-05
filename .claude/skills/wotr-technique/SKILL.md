@@ -31,7 +31,8 @@ description: "Design a War of the Realms technique, Trait, art or ability from a
 6. **The entry (R82-20).** Name in caps with its native name (`wotr-name`) and
    kind, the hook a kid could repeat, the named moves a line each, How it really
    works (the full account, technical terms welcome and explained), one Cost
-   line, one Counter line, and a Numbers block at the bottom. Concept first, and
+   line, one Counter line, and a Numbers block at the bottom with the signature
+   sound word as a plain `Sound:` data line; the prose carries no onomatopoeia. Concept first, and
    the names follow ABILITIES AND THE WORLD in `desktop/NATALIE.md`.
 
 The whole card comes back at once. Every choice sticks only when the player

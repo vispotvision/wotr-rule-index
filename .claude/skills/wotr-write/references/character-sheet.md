@@ -53,26 +53,46 @@ can find them.
   725 / SSS 726 to 950 / X 951 to 1200 / EX 1201 to 1500 / EX+ 1501 and up.
 - A Primary Stat is the total of its eight Sub-Stats; points buy Sub-Stats
   only; the Primary's Grade is read off the mean. Throne carries no ceiling and
-  sits outside the Dominion total.
-- Nine Tiers of Standing replace the lettered Coherence Bands as the public
-  scale; eta is set by Aether Class (R78-10). Hollow and F confer no rank.
+  sits outside the Dominion total. Life spends most stat points by what the
+  person does, and a few are theirs to place at each Stage (R84-9).
+- Nine guild titles, Initiate through Paragon, the same in every guild, grade
+  trust in a trade; a fighting guild reads them off the Stage table, and a
+  Grandmaster merchant may not be able to throw a punch. Eta is set by Aether
+  Class (R78-10). Hollow and F confer no rank.
+- Aether Class: at thresholds the soul is offered a named class that fits how
+  the person has lived; it gives abilities, shapes growth and evolves at each
+  tier. The old ladder is its tier, and the one wild concept stays the person's
+  own (R84-10).
+- Traits carry their own levels, rising with use and with overall Level and
+  skill; skills show as Grades; techniques show no level and take a bigger name
+  when they jump (R84-7, R84-8). Race and lineage show on the sheet and shape
+  base stats (R84-9). A blessing is its own line, written by its giver, and can
+  lie (R84-13).
+- A Catalyst may be met by crisis, seclusion or tribulation or supplied by a
+  Draft or blessing, and a Stage can be bought; a bought Stage has no Release
+  until it is found and mastered by fighting (R84-5, R84-6).
 - Eight Essence Families: Caloria, Fulguria, Vectoria, Spatium, Materia,
   Vitalia, Fluxia, Limina.
 - Soul Crystal tiers: Dormant, Awakened, Harmonic, Resonant, Radiant,
   Sovereign, Crystallized Soul, Absolute Crystal.
-- Domain: seed at VII, first stable Domain at VIII, Realm at IX to X, ambient
+- Domain: seed at VII, first stable Domain at VIII, open to anyone at that Stage
+  as their own concept made real (R84-17), Realm at IX to X, ambient
   at XI to XII, Continuum-registered at XIII, indistinguishable from the
   character at XIV.
 
 ## What the card owes (R79-9)
 
 - **The head, required:** the one-screen block at the top of the template
-  (name and moment, stat line, combat grammar, aura and sound, stack, releases
-  and bonded weapon, Traits and techniques by name with tell and counter, the
-  voice line). Natalie fights from it.
+  (name, race and moment, stat line with class, combat grammar, aura and sound,
+  stack, releases and bonded weapon, Traits with their levels and techniques by
+  name with tell and counter, the few skills that matter by Grade, the voice
+  line). Natalie fights from it.
 - **The sections below are a menu,** filled with what the character actually
   has, with no character cap. Stats carry the Primaries and the Sub-Stats in
   use; the rest are derived when a scene needs them.
+- **Old cards convert with the R82 rollout:** each gets concept, moves, class,
+  Trait levels and skills in one pass; other creators' cards stay untouched
+  (R84-24).
 - **The voice block is a menu** with two required slots: a sample line and the
   speaker type. Gloss rights is a voice trait for who explains aloud in
   dialogue, not a gate on narration. Release calls and technique names are
@@ -81,12 +101,15 @@ can find them.
 - **Dropped:** the arc-kind taxonomy. A next-gate line only when the character
   is near a gate.
 - **Figures set when play reaches them:** mastery marks, chant cuts, vows,
-  Readiness.
+  Readiness. A mastery mark is the card's own note and never reaches a window,
+  because techniques show no level (R84-7).
 - **Abilities** follow `references/technique-design.md`: one name and one
   paragraph each (R76), holding mechanism, cost and one fair counter within
   reach at its own Stage; limit and tell where they exist; the before, during
   and after triad only for signatures. Drain as how long a working lasts from
-  full, EU kept on the card as the source of truth (R79-10).
+  full, EU kept on the card as the source of truth (R79-10). A card's prose
+  carries no onomatopoeia; an art's signature sound word is a plain `Sound:` data
+  line in its Numbers (Isaac, 2026-11-05).
 
 Formatting: bold markdown headers, bold field labels, fields as short prose
 lines, not nested bullets.

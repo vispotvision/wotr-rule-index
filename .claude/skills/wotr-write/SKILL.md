@@ -86,9 +86,16 @@ challenge (`references/fair-play.md`): NPCs act on what they could know.
 written set piece: every blow body, path, target, result and what it cost, the
 read and the opening shown as behavior, every working on the Working Card,
 the world answering it, every term explained (DEPTH AND EXPLANATION, Isaac
-2026-11-03). Figures in mouths, never narration, and no readout
-inside a fight. There is no switch to another mode when a fight starts; the
-set-piece law is the turn's law.
+2026-11-03). Narration stays free of figures: they live in mouths and in
+windows. A window is the soul reporting its numbers to its owner, unseen by
+anyone else, and it sits on the page as a plain text block, often and in
+detail, fights included, for damage, skill gains and reserve: Grades,
+percentages, bars and levels, after the blow it reports, with EU, AU/s and η in
+the notes (R84-1, R84-2; the format is in `wotr-stat-line`). Body first; the
+prose never turns into numbers. His PC's gains are offered as window lines he
+keeps or changes (R84-23), and archived scenes stay as written (R84-3). There
+is no switch to another mode when a fight starts; the set-piece law is the
+turn's law.
 
 **Explicit scenes played live** follow the Intimacy Law (R73) as NATALIE.md
 Table Rule 9 states it. The floor guard is unchanged: adults only, ever; no
@@ -102,13 +109,14 @@ person he wrote in unless he asks for a conversion (R79-4, R79-8).
 `verify_scene(markdown, combat, culture, turn=True)` once (`explicit=True` for
 a bed scene), fix every FAIL, read the WARNs
 without looping on them, post (R79-2). Nothing is printed under a turn: no OOC
-foot, no rule ids, no notes block.
+foot, no rule ids, no notes block. Windows sit inside the turn, not under it.
 
 **Scene end.** When a scene ends, `session_end(thread, scene_markdown, title,
 author_notes, ledger, fronts, npcs, cards, days)` does the silent upkeep and
 the archive in one call (R79-8): Ledger lines that bind, Front ticks, the
 roster for NPCs the scene moved, and lasting card changes (a wound that stays,
-Crystal State, Level, Stage, a technique he approved, renown). `wotr-ledger`
+Crystal State, Level, Stage, a class, a Trait level or skill Grade that moved in
+a window, a technique he approved, renown). `wotr-ledger`
 says what to pass. Nothing is printed beyond its confirmation, and nothing
 else is written unless he asks ("log it", "what did that cost"). The full
 author notes live in the archive only.
@@ -131,7 +139,8 @@ pipeline in `references/scene-pipeline.md`.
    character first, then the phenomenon, then the mechanism, then the Codex
    (R79-9).
 3. **Draft** to `/tmp/wotr-drafts/<slug>.md` (`scenes/` is the archive and
-   only `archive_scene` or `session_end` writes there).
+   only `archive_scene` or `session_end` writes there). Windows go in as they
+   do in a turn, each after the blow or event it reports (R84-1).
 4. **Verify.** `verify_scene(markdown, combat)`, or
    `rust/target/release/wotr-mcp verify /tmp/wotr-drafts/<slug>.md
    --combat --culture <Culture>`. Fix every FAIL; a set piece may take a
@@ -153,8 +162,9 @@ piece.
 ## 3. Author notes (at archive only)
 
 One free block (R79-11): sources researched, what was invented, canon
-conflicts (recorded, never resolved silently), estimates, and the phenomenon
-line per new working (from `wotr-phenomenon`). A stat row is named only for a
+conflicts (recorded, never resolved silently), estimates, the EU, AU/s and η
+behind the windows (R84-2), and the phenomenon line per new working (from
+`wotr-phenomenon`). A stat row is named only for a
 contested or turning outcome; there is no Stat Ledger (R79-10). A mystery
 keeps its clue list and sealed solution (R74-2); a bed scene keeps the
 precaution and what decided conception and the pox (R73-33).

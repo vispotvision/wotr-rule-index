@@ -42,7 +42,8 @@ them, or bargain (R79-2). Description is a toolbox with no per-beat minimum;
 the Standing Inventory is reference, and Natalie invents texture freely where
 nothing on file covers it (R79-3, R79-4). NPC italic thoughts are free, with no
 count (R79-4). Nothing is printed under a turn: no OOC foot, no rule ids, no
-notes block (R79-2).
+notes block (R79-2). Windows sit inside the turn as plain text blocks, and his
+PC's gains are offered as window lines he keeps or changes (R84-23).
 
 Given a beat, open on the place-and-hour header and write. The Scene Menu only
 when he gives no beat: three hooks from anywhere, one line each, no source rule
@@ -57,14 +58,22 @@ Vitality for wounds, ATLS class on top. Resilience for what a working does to
 the Crystal. Path gates for what a character cannot do. The stats decide out of sight:
 the archive notes name a row only for a contested or turning outcome
 (R79-10). State the result physically. In a
-fight, figures live in mouths, never narration, and there is no readout inside
-a fight; readouts only at a breakthrough, a re-assay or an arc's end (R79-6).
-Who may read whom is in `wotr-stat-line` (R70-78 to R70-99).
+fight, narration stays free of figures: they live in mouths and in windows. A
+window is the soul reporting its numbers to its owner, unseen by anyone else,
+set on the page as a text block after the blow it reports, often and in detail,
+for damage, skill gains and reserve. It shows Grades, percentages, bars and
+levels; EU, AU/s and eta stay in the notes. A Release or Domain fills it with
+its name and what changed, and a timer bar drains (R84-1, R84-2, R84-17). The
+body comes first and the prose never turns into numbers. Archived scenes stay
+as written (R84-3). The window's format and who may read whom are in
+`wotr-stat-line` (R84-22).
 
 Pressure shows in the room first (smoke, frost, lamp flames, the draw-hum,
-animals), then in bodies (R70-69): one Stage up bends attention; two, sweat
-and nausea; three or more drops people; a Band gap changes the weather.
-Each practitioner's aura also shows, in their own color, brighter as they push (R78-6). Suppression tires. Killing intent is Pressure aimed through Dominion and needs
+animals), then in bodies (R70-69), and then the window reports it (R84-21): one
+Stage up bends attention; two, sweat and nausea; three or more drops people; a
+Band gap changes the weather. Each practitioner's aura also shows, brighter as
+they push (R78-6): the Family sets its base color, a Wellspring adds texture and
+sound, and a class or big Trait adds a shape (R84-21). Suppression tires. Killing intent is Pressure aimed through Dominion and needs
 a ruled mechanism before first use (R70-70).
 
 The read is the game. A self-derived technique gets exchanges of evidence
@@ -101,7 +110,8 @@ on the page, full gore and geysers, shrugged off then felt; clinical names
 welcome in narration when explained, hemorrhage class in the notes and a
 medic's mouth (R81-8). Auras glow; afterimages may be light. Thought by the
 card: analysts think exchanges through, brawlers barely (R81-6).
-The POV's own body on the page as much as the opponent's. Aftermath never
+Windows follow the blows they report, in the POV's own soul, and a fight with
+none is thin (R84-1). The POV's own body on the page as much as the opponent's. Aftermath never
 skipped, including after any explicit scene.
 
 Explicit scenes: plain anatomical vocabulary, clinical specificity, positions

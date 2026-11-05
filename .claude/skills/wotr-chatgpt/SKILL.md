@@ -1,6 +1,6 @@
 ---
 name: wotr-chatgpt
-description: How Claude and ChatGPT share War of the Realms work, including images (chatgpt_image). Use at session start when session_start shows an INBOX block, when Isaac says "check the inbox", "what did ChatGPT send", "apply the handoffs", or pastes a "To apply" list; and whenever a task wants a second opinion, an adversarial review or bulk research that should spend his ChatGPT plan instead of Claude's ("ask ChatGPT", "ask Codex", "get a second opinion", "have ChatGPT check this"), and whenever an image, portrait, map sketch or scene illustration is wanted.
+description: Retired 2026-10-31, kept for the record. Do not load it for second opinions, research or images; Claude does that work in-session (desktop/NATALIE.md).
 ---
 
 

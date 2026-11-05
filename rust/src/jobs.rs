@@ -407,7 +407,7 @@ fn idx<'a>(v: &'a Value, k: &str) -> Result<&'a Value, String> {
 // Wikimedia throttles browser-looking agents (429); its policy wants a named tool with a URL
 const UA: &str = "WOTR-research/1.0 (https://github.com/vispotvision/wotr-rule-index)";
 
-/// lookup's sources (mcp_server.py's LOOKUP_SOURCES): key, label, site. A site is a MediaWiki host;
+/// lookup's sources: key, label, site. A site is a MediaWiki host;
 /// datamuse, jisho and dnd5e are plain JSON APIs.
 const SOURCES: &[(&str, &str, &str)] = &[
     ("superpower", "Superpower Wiki", "https://powerlisting.fandom.com"),

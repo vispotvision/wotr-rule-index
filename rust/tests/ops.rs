@@ -51,6 +51,25 @@ fn validate_passes_clean_rows_and_names_each_fault() {
     fs::remove_dir_all(&root).unwrap();
 }
 
+/// The 1a33d7c defect: a live row citing a ruling nobody logged, with an empty source.
+#[test]
+fn validate_reports_a_ruling_that_is_on_no_record() {
+    let root = scratch("unrecorded");
+    index_repo(&root);
+    let row = |id: &str, quote: &str| format!("rules:\n- id: {id}\n  pack: P\n  section: s\n  title: t\n  status: live\n  kind: mandate\n  summary: s\n  verbatim: {quote}\n  applies_to: [combat]\n  source: {{file: \"\"}}\n");
+    fs::write(root.join("rules/a.yaml"), row("R44-7-INVENTED", "A ruling nobody made.")).unwrap();
+    fs::write(root.join("rules/b.yaml"), row("R44-8-LOGGED", "Isaac ruled this one.")).unwrap();
+    fs::write(root.join("rules/c.yaml"), row("R44-9-WIKI", "The wiki holds this one.")).unwrap();
+    fs::write(root.join("RULINGS.md"), "## Log\n\nIsaac ruled\nthis *one*.\n").unwrap();
+    fs::create_dir_all(root.join("wiki/Deep")).unwrap();
+    fs::write(root.join("wiki/Deep/Page.md"), "The wiki holds this one.\n").unwrap();
+    let (code, out) = run(&root, &["validate"]);
+    assert_eq!(code, Some(0), "report only for now: {out}");
+    assert!(out.contains("unrecorded rulings (1)") && out.contains("R44-7-INVENTED"), "{out}");
+    assert!(!out.contains("R44-8-LOGGED") && !out.contains("R44-9-WIKI"), "{out}");
+    fs::remove_dir_all(&root).unwrap();
+}
+
 #[test]
 fn validate_fails_on_an_empty_index() {
     let root = scratch("empty");

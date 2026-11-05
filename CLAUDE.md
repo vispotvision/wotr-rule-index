@@ -71,4 +71,4 @@ the constraints above still bind anything written to disk.
 
 For rules and code work, read `SHARED_MEMORY.md` after the latest `CONTINUE.md`
 block. Keep durable WOTR working notes there using its update protocol, so
-Claude Code, Codex and Antigravity share the same record.
+every session shares the same record.

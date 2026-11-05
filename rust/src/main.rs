@@ -20,7 +20,6 @@
 //!                                         the players' library and Natalie on their own AI
 //!   wotr-mcp index [-q]                   build/embed_index.py's build(): build/index/ (index.rs)
 //!   wotr-mcp sync                         build/sync.sh: the 15-minute wiki autosave (sync.rs)
-//!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
 mod analysis;
 mod audio;
 mod bot;
@@ -94,7 +93,7 @@ struct Spec {
 
 fn load_spec() -> Spec {
     let p = root("rust/tools.json");
-    serde_json::from_str(&util::read_lossy(&p)).unwrap_or_else(|e| panic!("{}: {e} (run `wotr-mcp dump`)", p.display()))
+    serde_json::from_str(&util::read_lossy(&p)).unwrap_or_else(|e| panic!("{}: {e}", p.display()))
 }
 
 // ---------------------------------------------------------------- the Python worker
@@ -471,10 +470,6 @@ async fn main() {
                 }
             }
             return;
-        }
-        Some("dump") => {
-            let s = std::process::Command::new("bash").args(["build/py.sh", "build/mcp_worker.py", "--dump"]).current_dir(&*util::ROOT).status();
-            std::process::exit(s.map(|s| s.code().unwrap_or(1)).unwrap_or(1));
         }
         Some("embed") => {
             // the query vector as JSON, for checking it against fastembed's

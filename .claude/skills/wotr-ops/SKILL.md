@@ -148,17 +148,16 @@ writes `MANIFEST.md`. Those are do-not-clobber guards protecting hand-reasoned
 content. So: **diff, then append by hand.**
 
 ```bash
-bash build/py.sh -c "
-import os,re
-idx={'MANIFEST.md','CAST.md','ARCS.md','TIMELINE.md','CONTINUITY.md'}
-files={x for x in os.listdir('scenes') if x.endswith('.md')}-idx
-for n in sorted(idx):
-    p=os.path.join('scenes',n)
-    if not os.path.exists(p): print(f'{n:16} MISSING'); continue
-    t=open(p,encoding='utf-8').read()
-    listed={m for m in files if m in t}
-    print(f'{n:16} {len(listed):3}/{len(files)} listed, {len(files-listed)} missing')
-"
+(
+cd scenes || exit 1
+files=$(ls *.md | grep -vxE '(ARCS|CAST|CONTINUITY|MANIFEST|TIMELINE)\.md')
+total=$(printf '%s\n' "$files" | wc -l)
+for n in ARCS.md CAST.md CONTINUITY.md MANIFEST.md TIMELINE.md; do
+  [ -f "$n" ] || { printf '%-16s MISSING\n' "$n"; continue; }
+  listed=$(printf '%s\n' "$files" | while IFS= read -r m; do grep -qF -- "$m" "$n" && echo x; done | wc -l)
+  printf '%-16s %3d/%d listed, %d missing\n' "$n" "$listed" "$total" "$((total - listed))"
+done
+)
 ```
 
 Anything non-zero in the last column is work. A new index file also needs adding

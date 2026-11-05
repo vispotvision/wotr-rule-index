@@ -796,7 +796,7 @@
   },
   {
    "name": "convert_character",
-   "description": "Convert an old character record (a Trello card's JSON or text, an old sheet,\nany prose) into the current system: returns a conversion brief — the source\nmaterial, every old-register name flagged with its Moto-canon form, the\nseventeen-section skeleton with what each section must hold and which rules\ngovern it, the FOW Band / Stage / Tier Grade tables so numbers land on the\nreal scale, and the rule loadout. You write the card from the brief, then\ncreate_character saves it. Never invent a number: anything the source does not\ngive and the tables do not fix is written as 'pending Isaac' in the card.\nsource may be raw text, a JSON string, or a card name when json_path is given.",
+   "description": "Convert an old character record (a Trello card's JSON or text, an old sheet,\nany prose) into the current system: returns a conversion brief — the source\nmaterial, every old-register name flagged with its Moto-canon form, the\nseventeen-section skeleton with what each section must hold and which rules\ngovern it, the FOW Band / Stage / Tier Grade tables so numbers land on the\nreal scale, and the rule loadout. You write the card from the brief, then\ncreate_character saves it. Never invent a number: anything the source does not\ngive and the tables do not fix is written as null in the card, with one line near its top\nsaying that fields the sources do not establish are null.\nsource may be raw text, a JSON string, or a card name when json_path is given.",
    "inputSchema": {
     "properties": {
      "source": {
@@ -1762,11 +1762,11 @@
   "wiki"
  ],
  "skill_hide": [
-  "judger"
+  "judger",
+  "wotr-chatgpt"
  ],
  "ops_skills": [
   "wotr-book",
-  "wotr-chatgpt",
   "wotr-ledger",
   "wotr-ops"
  ],

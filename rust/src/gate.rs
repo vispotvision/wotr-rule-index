@@ -4,7 +4,7 @@
 use crate::pyjson::dumps_unicode;
 use crate::pyyaml;
 use crate::rules::vocab;
-use crate::util::{read_lossy, root};
+use crate::util::{read_lossy, rglob_md, root};
 use regex::Regex;
 use serde_json::{Map, Value};
 use std::collections::{BTreeMap, BTreeSet, HashMap};
@@ -183,6 +183,9 @@ pub fn validate() -> (i32, String) {
     let mut sources: HashMap<String, String> = HashMap::new();
     let mut rx = HashMap::new();
     let fail = |r: &Row, m: String| format!("{} :: {} :: {m}", r.file, r.v.get("id").and_then(Value::as_str).unwrap_or("<no id>"));
+    // a live row with no source file quotes a ruling; that ruling has to be on record somewhere
+    let on_record = normalise(&std::iter::once(root("RULINGS.md")).chain(rglob_md(&root("wiki"))).map(|p| read_lossy(&p)).collect::<Vec<_>>().join("\n"));
+    let mut unrecorded: Vec<String> = Vec::new();
 
     for r in &rules {
         let mut errs = Vec::new();
@@ -213,6 +216,8 @@ pub fn validate() -> (i32, String) {
                     failures.push(fail(r, "verbatim quote not found in source (paraphrase or drift)".into()));
                 }
             }
+        } else if !quote.is_empty() && text(&r.v, "status") == "live" && !on_record.contains(&normalise(quote)) {
+            unrecorded.push(fail(r, "no source file, and the quote is in neither RULINGS.md nor the wiki".into()));
         }
     }
     for id in &id_order {
@@ -261,6 +266,13 @@ pub fn validate() -> (i32, String) {
     let files: BTreeSet<&str> = rules.iter().map(|r| r.file.as_str()).collect();
     let shown: Vec<String> = counts.iter().map(|(k, v)| format!("{k}={v}")).collect();
     let mut out = format!("{} rules across {} files\n  {}\n", rules.len(), files.len(), shown.join("  "));
+    // shortcut: reported, not failed, until the rows it names on 2026-11-04 are sorted; then push these into failures
+    if !unrecorded.is_empty() {
+        out += &format!("\nREPORT, unrecorded rulings ({})\n", unrecorded.len());
+        for u in &unrecorded {
+            out += &format!("  {u}\n");
+        }
+    }
     if !failures.is_empty() {
         out += &format!("\nFAIL ({})\n", failures.len());
         for f in &failures {

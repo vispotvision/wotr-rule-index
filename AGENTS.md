@@ -21,7 +21,7 @@ report that and stop; never substitute remembered WOTR instructions.
 
 ### Law reading before prose (Isaac, 2026-10-17, R79-2; the same for every model)
 
-Claude, ChatGPT and Codex load the law the same lean way. Once a session,
+Every model loads the law the same lean way. Once a session,
 before the first WOTR drafting or revision, read the whole live rulebook in
 brief, one line per rule: `load_rules(tags=[], brief=True)`. Where a client
 truncates long results, take it as `part=1` through the last part the header
@@ -33,7 +33,7 @@ goes on (R79-2). A fetch is not a read; never claim coverage you have not done,
 or a literary pass from the verifier.
 
 After `CLAUDE.md` and the newest `CONTINUE.md` block, read `SHARED_MEMORY.md`.
-Claude Code, Codex and Antigravity use this same file for durable WOTR working
+Every session uses this same file for durable WOTR working
 notes. Follow its update protocol; model-private memory is not the shared record.
 
 ## What this is
@@ -45,8 +45,9 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   from `sources/` (read-only canon), each with a `status`. Rulings Isaac made
   directly (`rules/doc-*-ruling.yaml`) have `source.file: ""` and quote the
   wiki page or the `RULINGS.md` entry that recorded them; `wotr-mcp validate` accepts
-  that and skips the quote-matches-source check for such rows (33 rows in 17
-  files), so those quotes rest on your care alone. `rules/` is the work;
+  that and skips the quote-matches-source check for such rows (1,171 rows in 17
+  files on 2026-11-04). It reports a live one whose quote is in neither
+  `RULINGS.md` nor the wiki; the exact wording otherwise rests on your care. `rules/` is the work;
   `sources/` is untouchable.
 - **The wiki** (`wiki/`, the Obsidian vault and the source since 2026-10-15; Notion
   is retired and frozen, never written) and **the scene
@@ -70,8 +71,7 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
 - **WOTR MCP** (`rust/`, binary `rust/target/release/wotr-mcp`) — what `.mcp.json`, Claude
   Desktop (`build/install_mcp.sh`) and the public route run; every tool is native. All new
   code, fixes and tests go in Rust (`CLAUDE.md`). Tool names, descriptions and schemas live in
-  `rust/tools.json`; a new tool is added there by hand, because `wotr-mcp dump` rewrites the
-  whole file from `build/mcp_server.py` and would drop a Rust-only tool. Any tool runs without
+  `rust/tools.json`, kept by hand (Isaac, 2026-11-04); nothing generates it. Any tool runs without
   an MCP client: `wotr-mcp call TOOL '{json args}'`. `table/*.yaml` is written by
   `rust/src/pyyaml.rs`, byte-identical to PyYAML. The semantic search embeds queries with the
   bge-small ONNX model on the venv's ONNX Runtime and reads `build/index/`. Narration runs

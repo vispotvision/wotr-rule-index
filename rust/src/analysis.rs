@@ -850,7 +850,7 @@ const SHEET_SECTIONS: [(&str, &str); 14] = [
     ("XVII · Fracture Log", "every fracture, consolidated or unconsolidated, with its price — the unconsolidated ones are the character"),
 ];
 const CONVERSION_RULES: [&str; 5] = [
-    "- Old stats map to the Tier Grade table by range; a Stage sets the stat ceiling; a Level sets the Band. If the source gives none of these, write 'Level/Stage/Band: pending Isaac' and do not pick.",
+    "- Old stats map to the Tier Grade table by range; a Stage sets the stat ceiling; a Level sets the Band. If the source gives none of these, write 'Level/Stage/Band: null' and do not pick; say once near the top of the card that fields the sources do not establish are null.",
     "- Names: Moto register for the Moto bloodline and its lines (Kōkan, Byakuya, Kurenai, Tenrai, Shirogane, Akagane, Amagiri); five strata per the Inner World Naming Amendment; naming register is not ethnicity.",
     "- Every technique: summary card + Design Chain + Codex line (glyphs, Wellspring, Family, Physics Domain, Category, Stage) + FOW line; Counter mandatory; name the real phenomenon (R13-3-PHENOMENON_MANDATE).",
     "- Character first: what they refuse, what they survived, what they believe that costs them; then the phenomenon; then the Codex.",
@@ -927,7 +927,7 @@ pub fn convert_character(source: &str, name: &str, json_path: &str, target_volum
         lines.extend(stale.iter().map(|s| format!("- {s}")));
         lines.push(String::new());
     }
-    lines.extend(["## Numbers present in the source (everything else numeric is pending Isaac)".into(), String::new()]);
+    lines.extend(["## Numbers present in the source (everything else numeric is null)".into(), String::new()]);
     if numbers.is_empty() {
         lines.push("- none".into());
     }

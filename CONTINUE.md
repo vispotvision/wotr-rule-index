@@ -6,6 +6,12 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-05 (the Dark Ages; R83-1 to R83-15)
+
+Isaac moved WOTR to a medieval setting: the storyline is the Dark Ages in three arcs (Malphas and the Sins, ending as Malakar splits the continents, which Muken survives; Cozbi; Kujo), the Imperial Age becomes a Renaissance turn of the century, there are no guns in any era, and the draw is gone in favor of Aether pulled from the environment, its types being the Wellsprings. Answers are in `imports/drafts/medieval-setting-questionnaire/`, the rows in `rules/doc-directions-2026-11-05.yaml`, and 27 old rows are superseded. `desktop/NATALIE.md` carries it. 41 of the 42 site paintings were replaced on Higgsfield (6c22ab41); the Zettari banner stays, since that people is another player's.
+
+**Open:** (1) Chapter Eighteen's plot turns on Guild draw-masters cutting the draw to Kharven-Seat, so revising scenes needs Isaac's call; Natalie proposed an Aether vein in the rock with Guild wardens who can choke it. (2) The whole-wiki rewrite he chose: 459 pages, about 1.3 million words, 126 pages naming retired ideas directly; magic pages and Ages first, and it needs his go for a workflow. Until then the law, his word and recent scenes beat the wiki (R83-13). (3) The R82 pilot in `~/wotr-drafts/r82-pilot/` is redone under R83 after (1), then the R82 rollout continues. C-164 records the wiki pages that still put the split before Muken.
+
 ## State on 2026-11-04, late (abilities and the world; R82-1 to R82-47)
 
 Isaac said abilities and techniques no longer reflect the writing and asked for them to feel like One Piece, mythic at the top. A 52-answer questionnaire (`imports/drafts/ability-feel-questionnaire/`) became R82-1 to R82-47 (`rules/doc-directions-2026-11-04.yaml`; RULINGS.md, 2026-11-04). It is law now: `desktop/NATALIE.md` has ABILITIES AND THE WORLD, and the ability pipeline, card template, technique reference, `/ability`, `/fight` and the fight review carry it. Superseded: R81-16, R81-2, R76-4.

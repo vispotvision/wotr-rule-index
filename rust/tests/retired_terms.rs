@@ -13,6 +13,11 @@ const RETIRED: &[(&str, &str)] = &[
     ("Antigravity", "2026-11-04, Claude Code only"),
     ("build/validate.py", "2026-11-04, the gate is wotr-mcp validate"),
     ("wotr-mcp dump", "2026-11-04, rust/tools.json is kept by hand"),
+    ("Draw Age", "2026-11-05, the Dark Ages, R83"),
+    ("standpipe", "2026-11-05, no draw and no mains, R83-9"),
+    ("draw-hum", "2026-11-05, no draw and no mains, R83-9"),
+    ("district main", "2026-11-05, no draw and no mains, R83-9"),
+    ("firearm", "2026-11-05, no guns in any era, R83-5"),
 ];
 
 /// A line that says the thing is gone is the marked notice, not a carrier.

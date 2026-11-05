@@ -28,7 +28,7 @@ MOVE NAME! What it does and looks like in a fight, in a line.
 MOVE NAME! ...
 MOVE NAME! ...
 
-**How it really works.** The full account: the charge and what anyone watching sees coming; the draw; the look and what it does to the room; the real phenomenon named with its law and explained so a reader with no physics can follow, told as one story with the Wellspring's law and the glyph's boundary condition; how it rides a blow; for a signature or release, how it plays against a higher Stage; the named failure mode. Technical terms welcome and explained.
+**How it really works.** The full account: the charge and what anyone watching sees coming; the pull; the look and what it does to the room; the real phenomenon named with its law and explained so a reader with no physics can follow, told as one story with the Wellspring's law and the glyph's boundary condition; how it rides a blow; for a signature or release, how it plays against a higher Stage; the named failure mode. Technical terms welcome and explained.
 
 **Cost.** One line.
 **Counter.** One line.

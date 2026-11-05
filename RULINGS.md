@@ -4055,3 +4055,9 @@ Context: Grounds: R85-29 and R85-22. The wording on Material Force, the three fa
 also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source.
 
 Context: Isaac, 2026-11-05, in chat and by questionnaire. Indexed as R85-31. Takes the Families out of the fixed list in R79-11; the Master Codex's Family column stays as an untouched source.
+
+## 2026-11-05 — new
+
+we can also utilize terms from the superpower wiki api and the vs wiki thing for documents just you know, but we can use that for the next bit and fixing the flow just think its easier to utilize words people are familiar with aether is just mana we've established that essence = spiritual energy. fate we established that as well but you get my point we want the system and the world to have its own style but to be inspo'd and the abilities techinques etc and after this you'll need to rebuild ability creation character etc many other thing as well skills will need to rebuilt but I'll have u bundle into one thing
+
+Context: Isaac, 2026-11-05, in chat. Indexed as R85-32. Applies to documents and the coming fix pass. The ability, character and skill rebuild follows as one bundle.

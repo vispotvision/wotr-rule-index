@@ -18,8 +18,9 @@ Phenomenon line and the physics the three-stratum stack is built on.
    and read its Capabilities, Applications, Techniques, Variations,
    Combinations, Limitations and Known Users. Applications and Combinations
    feed inventive uses; Limitations feed the fault and the counter; Known
-   Users are the precedent in step 8. `research(question, power="<Power Name>")` on the
-   WOTR MCP pulls the page; by hand, the HTML pages 403, so use the API:
+   Users are the precedent in step 8. `lookup("superpower", "<Power Name>")` on the
+   WOTR MCP pulls the page, and the same tool reads the other reference wikis
+   (`vsbattles`, `hxh`, `jjk`, `bleach`, `lotm`, `worm`, `wikipedia` and more); by hand, the HTML pages 403, so use the API:
    search `https://powerlisting.fandom.com/api.php?action=query&list=search&srsearch=<words>&format=json`,
    then page text `https://powerlisting.fandom.com/api.php?action=parse&page=<Title>&prop=wikitext&format=json&redirects=1`.
    WOTR canon (Codex, Wellsprings, glyphs, Fracture of Worlds, cards) still

@@ -1607,8 +1607,30 @@
    }
   },
   {
+   "name": "lookup",
+   "description": "One page or word list from an outside reference, for ideas: never canon, never a rule source, never a\nverbatim field. WOTR canon governs every fact and number; borrowed moves get WOTR's own mechanism and name.\nWikis (query = a page title or search words; the exact title wins):\n  superpower (powers: capabilities, applications, limitations), vsbattles (character kits: abilities,\n  named techniques, weaknesses), powerscaling, hxh (Nen, conditions and vows), jjk (cursed techniques,\n  Domains, binding vows), bleach (releases), naruto (jutsu, combos), dragonball, onepiece, fma (alchemy),\n  finalfantasy, arcane (magitech), lotm (Pathways, a Stage-like ladder), reverend-insanity (costed\n  cultivation), worm (power classes and their strange limits), wiktenauer (historical fencing:\n  guards, measure, plays), tolkien (the land), wikipedia (physics, anatomy, history), wiktionary\n  (definitions, etymology, archaic words), wikisource (public-domain texts: sagas, manuals, period prose).\nWords: datamuse (a bare query finds words meaning like it; Datamuse parameters pass through:\n  rel_jjb=blood adjectives for a noun, rel_jja=sword nouns for an adjective, sl=krang sounds like,\n  rel_rhy=steel rhymes, rel_trg=forge associated words, ml=bright&topics=metal), jisho (Japanese words\n  with readings and senses, for Moto names and manga sound words).\nSpells: dnd5e (an SRD spell by name, for school-of-magic brainstorms).",
+   "inputSchema": {
+    "properties": {
+     "source": {
+      "title": "Source",
+      "type": "string"
+     },
+     "query": {
+      "title": "Query",
+      "type": "string"
+     }
+    },
+    "required": [
+     "source",
+     "query"
+    ],
+    "title": "lookupArguments",
+    "type": "object"
+   }
+  },
+  {
    "name": "research",
-   "description": "Outside research on the open web through Agent Reach (search and page reading on Isaac's machine;\na page it cannot read is opened in a headless browser instead).\nFor real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,\ntrades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page\nin `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own\ntext with their URLs for you to read and cite: outside research, never canon and never a rule source;\nit does not go in a verbatim field. A failed source is named, not retried.",
+   "description": "Outside research on the open web through Agent Reach (search and page reading on Isaac's machine;\n    a page it cannot read is opened in a headless browser instead).\n    For real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,\n    trades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page\n    in `urls`, and when `power` is given pulls that power's Superpower Wiki page (lookup reads the other\nreference wikis and word lists). Returns the sources' own\n    text with their URLs for you to read and cite: outside research, never canon and never a rule source;\n    it does not go in a verbatim field. A failed source is named, not retried.",
    "inputSchema": {
     "properties": {
      "question": {
@@ -1685,6 +1707,7 @@
   "list_conflicts",
   "load_rules",
   "log_ruling",
+  "lookup",
   "natalie",
   "natalie_gpt",
   "npc_set",
@@ -1720,6 +1743,7 @@
   "inbox",
   "list_conflicts",
   "load_rules",
+  "lookup",
   "narrate_scene",
   "narration_status",
   "natalie",

@@ -1,7 +1,7 @@
 //! The tools that start other programs (mcp_server.py, ported line for line): narration
 //! (cast_scene, narrate_scene, narration_status; the render is `wotr-mcp audio`, audio.rs, started
 //! detached), research through the agent-reach
-//! and agent-browser CLIs and the Superpower Wiki's API (curl), and the build/ask_*.sh calls
+//! and agent-browser CLIs, lookup over the reference wikis' APIs (curl), and the build/ask_*.sh calls
 //! (ask_chatgpt, ask_claude, research_chatgpt, chatgpt_image). rust/job_parity.py replays them
 //! against the Python tools with stub programs.
 use crate::analysis::{find_scene, name_of, py_repr, scene_blocks};
@@ -380,12 +380,42 @@ fn idx<'a>(v: &'a Value, k: &str) -> Result<&'a Value, String> {
     }
 }
 
-/// One MediaWiki API call as urllib made it; errors as "Type: message".
-fn api_get(params: &[(&str, &str)]) -> Result<Value, String> {
-    let q: Vec<String> = params.iter().chain(&[("format", "json"), ("formatversion", "2")]).map(|(k, v)| format!("{}={}", util::quote(k, "", true), util::quote(v, "", true))).collect();
-    let url = format!("https://powerlisting.fandom.com/api.php?{}", q.join("&"));
+// Wikimedia throttles browser-looking agents (429); its policy wants a named tool with a URL
+const UA: &str = "WOTR-research/1.0 (https://github.com/vispotvision/wotr-rule-index)";
+
+/// lookup's sources (mcp_server.py's LOOKUP_SOURCES): key, label, site. A site is a MediaWiki host;
+/// datamuse, jisho and dnd5e are plain JSON APIs.
+const SOURCES: &[(&str, &str, &str)] = &[
+    ("superpower", "Superpower Wiki", "https://powerlisting.fandom.com"),
+    ("powerscaling", "Power Scaling Wiki", "https://psbattles.fandom.com"),
+    ("vsbattles", "VS Battles Wiki", "https://vsbattles.fandom.com"),
+    ("hxh", "Hunter x Hunter Wiki", "https://hunterxhunter.fandom.com"),
+    ("jjk", "Jujutsu Kaisen Wiki", "https://jujutsu-kaisen.fandom.com"),
+    ("bleach", "Bleach Wiki", "https://bleach.fandom.com"),
+    ("naruto", "Narutopedia", "https://naruto.fandom.com"),
+    ("dragonball", "Dragon Ball Wiki", "https://dragonball.fandom.com"),
+    ("onepiece", "One Piece Wiki", "https://onepiece.fandom.com"),
+    ("fma", "Fullmetal Alchemist Wiki", "https://fma.fandom.com"),
+    ("finalfantasy", "Final Fantasy Wiki", "https://finalfantasy.fandom.com"),
+    ("arcane", "Arcane Wiki", "https://arcane.fandom.com"),
+    ("lotm", "Lord of the Mysteries Wiki", "https://lordofthemysteries.fandom.com"),
+    ("reverend-insanity", "Reverend Insanity Wiki", "https://reverend-insanity.fandom.com"),
+    ("worm", "Worm Wiki", "https://worm.fandom.com"),
+    ("wiktenauer", "Wiktenauer", "https://wiktenauer.com"),
+    ("tolkien", "Tolkien Gateway", "https://tolkiengateway.net"),
+    ("wikipedia", "Wikipedia", "https://en.wikipedia.org"),
+    ("wiktionary", "Wiktionary", "https://en.wiktionary.org"),
+    ("wikisource", "Wikisource", "https://en.wikisource.org"),
+    ("datamuse", "Datamuse", "https://api.datamuse.com"),
+    ("jisho", "Jisho", "https://jisho.org"),
+    ("dnd5e", "D&D 5e SRD", "https://www.dnd5eapi.co"),
+];
+const W_API: &[&str] = &["en.wikipedia.org", "en.wiktionary.org", "en.wikisource.org", "tolkiengateway.net"];
+
+/// One GET as urllib made it; errors as "Type: message".
+fn get_json(url: &str) -> Result<Value, String> {
     let o = util::command("curl")
-        .args(["-s", "-L", "--http1.1", "--max-time", "30", "-A", "Mozilla/5.0 (X11; Linux x86_64) WOTR-research", "-D", "/dev/stderr", &url])
+        .args(["-s", "-L", "--http1.1", "--max-time", "30", "-A", UA, "-D", "/dev/stderr", url])
         .stdin(Stdio::null())
         .output()
         .map_err(|e| format!("FileNotFoundError: {e}"))?;
@@ -411,41 +441,153 @@ fn api_get(params: &[(&str, &str)]) -> Result<Value, String> {
     pyjson::loads(&body).map_err(|e| format!("JSONDecodeError: {e}"))
 }
 
-fn superpower_page(query: &str) -> Result<String, String> {
-    let found = api_get(&[("action", "query"), ("list", "search"), ("srsearch", query), ("srlimit", "5")])?;
-    let hits = idx(idx(&found, "query")?, "search")?.clone();
-    // the page named exactly as asked wins (its redirects followed); search order only breaks ties
-    let first = api_get(&[("action", "parse"), ("page", query), ("prop", "wikitext"), ("redirects", "1")])?;
-    let page = match &first {
-        Value::Object(m) => m.get("parse").cloned().unwrap_or(Value::Null),
-        o => return Err(format!("AttributeError: '{}' object has no attribute 'get'", pytype(o))),
-    };
-    if !t(Some(&page)) && !t(Some(&hits)) {
-        return Ok(format!("## Superpower Wiki: nothing matches '{query}'"));
-    }
-    let hits = hits.as_array().cloned().unwrap_or_default();
-    let page = if t(Some(&page)) {
-        page
-    } else {
-        let title = s(Some(idx(hits.first().ok_or("KeyError: 0")?, "title")?));
-        idx(&api_get(&[("action", "parse"), ("page", &title), ("prop", "wikitext"), ("redirects", "1")])?, "parse")?.clone()
-    };
-    let title = idx(&page, "title")?;
-    let mut others = Vec::new();
-    for h in &hits {
-        if idx(h, "title")? != title {
-            others.push(s(Some(idx(h, "title")?)));
-        }
-    }
-    let title = s(Some(title));
-    let url = format!("https://powerlisting.fandom.com/wiki/{}", util::quote(&title.replace(' ', "_"), "/", false));
-    let text = wikitext_plain(&s(Some(idx(&page, "wikitext")?)));
-    let also = if others.is_empty() { String::new() } else { format!("also matched: {}\n", others.join(", ")) };
-    Ok(format!("## Superpower Wiki: {title} ({url})\n{also}\n{}{}", head(&text, 9000), if chars(&text) > 9000 { "\n...[truncated]" } else { "" }))
+/// One MediaWiki API call.
+fn api_get(api: &str, params: &[(&str, &str)]) -> Result<Value, String> {
+    let q: Vec<String> = params.iter().chain(&[("format", "json"), ("formatversion", "2")]).map(|(k, v)| format!("{}={}", util::quote(k, "", true), util::quote(v, "", true))).collect();
+    get_json(&format!("{api}{}", q.join("&")))
 }
 
-fn superpower(query: &str) -> String {
-    superpower_page(query).unwrap_or_else(|e| format!("## Superpower Wiki: lookup failed ({e})"))
+/// `x.get(k)` as Python raises it on a non-dict
+fn dict_get(v: &Value, k: &str) -> Result<Value, String> {
+    match v {
+        Value::Object(m) => Ok(m.get(k).cloned().unwrap_or(Value::Null)),
+        o => Err(format!("AttributeError: '{}' object has no attribute 'get'", pytype(o))),
+    }
+}
+
+/// shortcut: numeric references and the entities wiki HTML uses, not all of html.unescape's; add a name if one shows up raw
+fn html_unescape(t: &str) -> String {
+    rx!(r"&(?:#(\d+)|#[xX]([0-9a-fA-F]+)|(amp|lt|gt|quot|apos|nbsp));")
+        .replace_all(t, |c: &fancy_regex::Captures<'_, str>| {
+            let code = c.get(1).and_then(|m| m.as_str().parse().ok()).or_else(|| c.get(2).and_then(|m| u32::from_str_radix(m.as_str(), 16).ok()));
+            match (code, c.get(3).map(|m| m.as_str())) {
+                (Some(n), _) => char::from_u32(n).unwrap_or('\u{fffd}').to_string(),
+                (_, Some("amp")) => "&".to_string(),
+                (_, Some("lt")) => "<".to_string(),
+                (_, Some("gt")) => ">".to_string(),
+                (_, Some("quot")) => "\"".to_string(),
+                (_, Some("apos")) => "'".to_string(),
+                _ => "\u{a0}".to_string(),
+            }
+        })
+        .into_owned()
+}
+
+fn html_plain(h: &str) -> String {
+    let h = rx!(r"(?s)<(style|script)[^>]*>.*?</\1>|<!--.*?-->").replace_all(h, "");
+    let h = rx!(r"<(?:br|/p|/div|/li|/h\d)[^>]*>").replace_all(&h, "\n");
+    let t = html_unescape(&rx!(r"<[^>]+>").replace_all(&h, ""));
+    rx!(r"\n\s*\n\s*(?:\n\s*)+").replace_all(&t, "\n\n").trim().to_string()
+}
+
+/// A wiki page's title and plain text; None when the wiki has no such page.
+fn wiki_page(api: &str, host: &str, title: &str) -> Result<Option<(String, String)>, String> {
+    if host == "en.wikipedia.org" || host == "en.wiktionary.org" {
+        // TextExtracts: templates rendered, not stripped
+        let r = api_get(api, &[("action", "query"), ("prop", "extracts"), ("explaintext", "1"), ("titles", title), ("redirects", "1")])?;
+        let pages = idx(idx(&r, "query")?, "pages")?;
+        let p = pages.get(0).ok_or("IndexError: list index out of range")?;
+        if t(p.get("missing")) || !t(p.get("extract")) {
+            return Ok(None);
+        }
+        return Ok(Some((s(Some(idx(p, "title")?)), s(Some(idx(p, "extract")?)).trim().to_string())));
+    }
+    // Wikisource's texts are transcluded from scans: only the rendered page holds them
+    let prop = if host == "en.wikisource.org" { "text" } else { "wikitext" };
+    let p = dict_get(&api_get(api, &[("action", "parse"), ("page", title), ("prop", prop), ("redirects", "1")])?, "parse")?;
+    if !t(Some(&p)) {
+        return Ok(None);
+    }
+    let body = s(Some(idx(&p, prop)?));
+    Ok(Some((s(Some(idx(&p, "title")?)), if prop == "text" { html_plain(&body) } else { wikitext_plain(&body) })))
+}
+
+fn lookup_in(source: &str, label: &str, site: &str, query: &str) -> Result<String, String> {
+    let q = |x: &str| util::quote(x, "", false);
+    match source {
+        "datamuse" => {
+            // Datamuse's own parameters pass through (rel_jjb=blood, sl=krang); a bare query means "means like"
+            let params = if query.contains('=') { query.to_string() } else { format!("ml={query}") };
+            let qs: Vec<String> = params.split('&').filter_map(|p| p.split_once('=')).map(|(k, v)| format!("{}={}", q(k.trim()), q(v.trim()))).collect();
+            let got = get_json(&format!("{site}/words?{}&max=60", qs.join("&")))?;
+            let words: Vec<String> = got.as_array().into_iter().flatten().map(|w| Ok(s(Some(idx(w, "word")?)))).collect::<Result<_, String>>()?;
+            return Ok(format!("## {label}: {params}\n{}", if words.is_empty() { "(no words)".to_string() } else { words.join(", ") }));
+        }
+        "jisho" => {
+            let got = get_json(&format!("{site}/api/v1/search/words?keyword={}", q(query)))?;
+            let mut lines = Vec::new();
+            for e in idx(&got, "data")?.as_array().into_iter().flatten().take(10) {
+                let j = idx(e, "japanese")?.get(0).ok_or("IndexError: list index out of range")?;
+                let word = if t(j.get("word")) { s(j.get("word")) } else { s(j.get("reading")) };
+                let reading = j.get("reading").map(|r| s(Some(r))).unwrap_or_default();
+                let mut senses = Vec::new();
+                for sn in idx(e, "senses")?.as_array().into_iter().flatten().take(3) {
+                    senses.push(idx(sn, "english_definitions")?.as_array().into_iter().flatten().map(|d| s(Some(d))).collect::<Vec<_>>().join(", "));
+                }
+                lines.push(format!("- {word} ({reading}): {}", senses.join("; ")));
+            }
+            return Ok(format!("## {label}: {query}\n{}", if lines.is_empty() { "(no words)".to_string() } else { lines.join("\n") }));
+        }
+        "dnd5e" => {
+            let got = get_json(&format!("{site}/api/2014/spells?name={}", q(query)))?;
+            let hits = idx(&got, "results")?.as_array().cloned().unwrap_or_default();
+            let Some(first) = hits.first() else {
+                return Ok(format!("## {label}: nothing matches '{query}'"));
+            };
+            let best = hits.iter().position(|h| h.get("name").is_some_and(|n| s(Some(n)).to_lowercase() == query.to_lowercase())).map_or(first, |i| &hits[i]);
+            let sp = get_json(&format!("{site}/api/2014/spells/{}", s(Some(idx(best, "index")?))))?;
+            let others: Vec<String> = hits.iter().filter(|h| !std::ptr::eq(*h, best)).map(|h| Ok(s(Some(idx(h, "name")?)))).collect::<Result<_, String>>()?;
+            let also = if others.is_empty() { String::new() } else { format!("also matched: {}\n", others.join(", ")) };
+            let text: Vec<String> = idx(&sp, "desc")?.as_array().into_iter().flatten().chain(sp.get("higher_level").and_then(Value::as_array).into_iter().flatten()).map(|x| s(Some(x))).collect();
+            return Ok(format!(
+                "## {label}: {} (level {} {}; {}, {})\n{also}\n{}",
+                s(Some(idx(&sp, "name")?)),
+                s(Some(idx(&sp, "level")?)),
+                s(Some(idx(idx(&sp, "school")?, "name")?)),
+                s(Some(idx(&sp, "range")?)),
+                s(Some(idx(&sp, "duration")?)),
+                text.join("\n\n")
+            ));
+        }
+        _ => {}
+    }
+    let host = site.split("//").nth(1).unwrap_or("");
+    let api = format!("{site}{}", if W_API.contains(&host) { "/w/api.php?" } else { "/api.php?" });
+    // a site may fence search behind a bot check (Tolkien Gateway) and still serve pages
+    let hits = api_get(&api, &[("action", "query"), ("list", "search"), ("srsearch", query), ("srlimit", "5")])
+        .ok()
+        .and_then(|f| f.get("query")?.get("search")?.as_array().cloned())
+        .unwrap_or_default();
+    // the page named exactly as asked wins (its redirects followed); search order only breaks ties
+    let got = match wiki_page(&api, host, query)? {
+        Some(g) => Some(g),
+        None => match hits.first() {
+            Some(h) => wiki_page(&api, host, &s(Some(idx(h, "title")?)))?,
+            None => None,
+        },
+    };
+    let Some((title, text)) = got else {
+        return Ok(format!("## {label}: nothing matches '{query}'"));
+    };
+    let mut others = Vec::new();
+    for h in &hits {
+        let n = s(Some(idx(h, "title")?));
+        if n != title {
+            others.push(n);
+        }
+    }
+    let url = format!("{site}/wiki/{}", util::quote(&title.replace(' ', "_"), "/", false));
+    let also = if others.is_empty() { String::new() } else { format!("also matched: {}\n", others.join(", ")) };
+    Ok(format!("## {label}: {title} ({url})\n{also}\n{}{}", head(&text, 9000), if chars(&text) > 9000 { "\n...[truncated]" } else { "" }))
+}
+
+/// One source's best match for `query` as text; a failure is reported, never raised.
+pub fn lookup(source: &str, query: &str) -> String {
+    let (source, query) = (source.trim().to_lowercase(), query.trim());
+    let Some(&(_, label, site)) = SOURCES.iter().find(|x| x.0 == source) else {
+        return format!("## lookup: no source '{source}'; sources: {}", SOURCES.iter().map(|x| x.0).collect::<Vec<_>>().join(", "));
+    };
+    lookup_in(&source, label, site, query).unwrap_or_else(|e| format!("## {label}: lookup failed ({e})"))
 }
 
 /// `x.get(k) or {}`, then its .get(k2): the AttributeError when that is not a dict
@@ -503,7 +645,7 @@ pub fn research(question: &str, read: i64, urls: &[String], power: &str) -> Resu
         }
     }
     if !power.trim().is_empty() {
-        out.push(superpower(power.trim()));
+        out.push(lookup("superpower", power));
     }
     Ok(out.join("\n\n"))
 }

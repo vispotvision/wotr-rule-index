@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """The tools that start other programs, Rust against Python, in writer_parity.py's two scratch clones:
-cast_index, convert_character, cast_scene, narrate_scene, narration_status, research, ask_chatgpt,
+cast_index, convert_character, cast_scene, narrate_scene, narration_status, research, lookup, ask_chatgpt,
 ask_claude, research_chatgpt and chatgpt_image.
 
   bash build/py.sh rust/job_parity.py [scratch-dir]     # exit 1 on any difference
@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import writer_parity as W  # noqa: E402  (reads the scratch dir from argv)
 
 PY = sys.executable
-UA = "Mozilla/5.0 (X11; Linux x86_64) WOTR-research"
+UA = "WOTR-research/1.0 (https://github.com/vispotvision/wotr-rule-index)"
 API = "https://powerlisting.fandom.com/api.php?"
 
 DRIVER = r'''
@@ -187,6 +187,36 @@ def http_table() -> dict:
     ]:
         t[k] = v
     t[search("slow api", [])[0]] = {"error": "timeout"}
+    from urllib.parse import quote, urlencode
+    mw = lambda api, **p: api + urlencode({**p, "format": "json", "formatversion": 2})  # noqa: E731
+    wp, ws, tg = "https://en.wikipedia.org/w/api.php?", "https://en.wikisource.org/w/api.php?", "https://tolkiengateway.net/w/api.php?"
+    extract = lambda title: mw(wp, action="query", prop="extracts", explaintext=1, titles=title, redirects=1)  # noqa: E731
+    five = "https://www.dnd5eapi.co/api/2014/spells"
+    t.update({
+        "https://api.datamuse.com/words?rel_jjb=blood&max=60": ok([{"word": "venous", "score": 3}, {"word": "royal", "score": 2}]),
+        f"https://api.datamuse.com/words?ml={quote('bright steel', safe='')}&topics=metal&max=60": ok([{"word": "lucent"}]),
+        "https://api.datamuse.com/words?ml=zzz&max=60": ok([]),
+        f"https://jisho.org/api/v1/search/words?keyword={quote('雷', safe='')}": ok({"data": [
+            {"japanese": [{"word": "雷", "reading": "かみなり"}], "senses": [{"english_definitions": ["lightning", "thunder"]}, {"english_definitions": ["god of thunder"]},
+                                                                         {"english_definitions": ["anger"]}, {"english_definitions": ["cut"]}]},
+            {"japanese": [{"reading": "ごろごろ"}], "senses": [{"english_definitions": ["rumbling"]}]}]}),
+        "https://jisho.org/api/v1/search/words?keyword=zzz": ok({"data": []}),
+        f"{five}?name=fireball": ok({"results": [{"index": "delayed", "name": "Delayed Blast Fireball"}, {"index": "fireball", "name": "Fireball"}]}),
+        f"{five}/fireball": ok({"name": "Fireball", "level": 3, "school": {"name": "Evocation"}, "range": "150 feet", "duration": "Instantaneous",
+                                "desc": ["A bright streak.", "It blossoms."], "higher_level": ["More dice."]}),
+        f"{five}?name=flame": ok({"results": [{"index": "flame", "name": "Flame Blade"}]}),
+        f"{five}/flame": ok({"name": "Flame Blade", "level": 2, "school": {"name": "Evocation"}, "range": "Self", "duration": "10 minutes", "desc": ["A fiery blade."]}),
+        f"{five}?name=zzz": ok({"results": []}),
+        mw(wp, action="query", list="search", srsearch="Standing wave", srlimit=5): ok({"query": {"search": [{"title": "Standing wave"}, {"title": "Node (physics)"}]}}),
+        extract("Standing wave"): ok({"query": {"pages": [{"title": "Standing wave", "extract": "\nA standing wave oscillates in time.\n"}]}}),
+        mw(wp, action="query", list="search", srsearch="stand wave", srlimit=5): ok({"query": {"search": [{"title": "Standing wave"}]}}),
+        extract("stand wave"): ok({"query": {"pages": [{"title": "Stand wave", "missing": True}]}}),
+        mw(ws, action="query", list="search", srsearch="Laying Plans", srlimit=5): ok({"query": {"search": []}}),
+        mw(ws, action="parse", page="Laying Plans", prop="text", redirects=1): ok({"parse": {"title": "Laying Plans", "text":
+            '<div><style>.x{}</style><p>Sun Tzu said: &amp; &#8212; &#x41;&nbsp;&quot;war&quot;</p><!-- c --><br/>\n\n\n<li>one</li></div>'}}),
+        mw(tg, action="query", list="search", srsearch="Mirkwood", srlimit=5): {"status": 403, "reason": "Forbidden", "body": ""},
+        mw(tg, action="parse", page="Mirkwood", prop="wikitext", redirects=1): ok({"parse": {"title": "Mirkwood", "wikitext": "'''Mirkwood''' was a [[forest]]."}}),
+    })
     t[search("no query key", [])[0]] = ok({"batchcomplete": True})
     t[search("bad json", [])[0]] = {"status": 200, "reason": "OK", "body": "{\"query\": {\"search\": [1,]}}"}
     return t
@@ -341,6 +371,12 @@ def calls(root: Path) -> list:
         ("research", {"question": "nothing stubbed", "power": "unknown power"}),
         ("research", {"question": "thermite", "__env": {"PATH": "/usr/bin:/bin"}}),
         *[("research", {"question": f"bad{i}", "read": 0}) for i in range(14)],
+        *[("lookup", {"source": a, "query": b}) for a, b in [
+            ("superpower", "Fire Manipulation"), (" SuperPower ", "  fire bending "), ("nope", "x"), ("superpower", "down"),
+            ("datamuse", "rel_jjb=blood"), ("datamuse", "bright steel&topics=metal"), ("datamuse", "ml=bright steel&topics=metal"), ("datamuse", "zzz"),
+            ("jisho", "雷"), ("jisho", "zzz"), ("jisho", "unstubbed"),
+            ("dnd5e", "fireball"), ("dnd5e", "flame"), ("dnd5e", "zzz"),
+            ("wikipedia", "Standing wave"), ("wikipedia", "stand wave"), ("wikisource", "Laying Plans"), ("tolkien", "Mirkwood")]],
         ("ask_chatgpt", {"prompt": "first line\nsecond: what is thermite?"}),
         ("ask_claude", {"prompt": "one line é"}),
         ("ask_chatgpt", {"prompt": "please fail"}),

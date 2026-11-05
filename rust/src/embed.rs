@@ -1,6 +1,6 @@
 //! build/embed_index.py's search side: embed a query with the same bge-small ONNX model the index
 //! was built with (the system ONNX Runtime, loaded at run time) and rank build/index's chunks by
-//! cosine. Building the index stays in Python (the hourly sync runs it); this only reads it.
+//! cosine. Building the index is index.rs (`wotr-mcp index`), which batches through embed_docs.
 use crate::util::root;
 use serde::Deserialize;
 use std::path::PathBuf;
@@ -58,9 +58,20 @@ fn load_model() -> Result<Model, String> {
         .and_then(|mut b| b.commit_from_file(dir.join("model_optimized.onnx")))
         .map_err(|e| e.to_string())?;
     let mut tok = tokenizers::Tokenizer::from_file(dir.join("tokenizer.json")).map_err(|e| e.to_string())?;
-    // fastembed's preprocessing: truncate at model_max_length (512); one query needs no padding
-    tok.with_truncation(Some(tokenizers::TruncationParams { max_length: 512, ..Default::default() })).map_err(|e| e.to_string())?;
-    tok.with_padding(None);
+    // fastembed's load_tokenizer: truncate at min(model_max_length, max_length) of tokenizer_config.json,
+    // and pad each batch to its longest (config.json's pad_token_id, tokenizer_config's pad_token)
+    // unless tokenizer.json pads already; a batch of one (a query) pads nothing
+    let json = |f: &str| serde_json::from_slice::<serde_json::Value>(&std::fs::read(dir.join(f)).unwrap_or_default()).unwrap_or_default();
+    let (config, tc) = (json("config.json"), json("tokenizer_config.json"));
+    let max_length = ["model_max_length", "max_length"].iter().filter_map(|k| tc[*k].as_u64()).min().unwrap_or(512) as usize;
+    tok.with_truncation(Some(tokenizers::TruncationParams { max_length, ..Default::default() })).map_err(|e| e.to_string())?;
+    if tok.get_padding().is_none() {
+        tok.with_padding(Some(tokenizers::PaddingParams {
+            pad_id: config["pad_token_id"].as_u64().unwrap_or(0) as u32,
+            pad_token: tc["pad_token"].as_str().unwrap_or("[PAD]").to_string(),
+            ..Default::default()
+        }));
+    }
     Ok(Model { session, tok })
 }
 
@@ -86,6 +97,70 @@ pub fn embed(text: &str) -> Result<Vec<f32>, String> {
     let norm = v.iter().map(|x| x * x).sum::<f32>().sqrt().max(1e-12);
     v.iter_mut().for_each(|x| *x /= norm);
     Ok(v)
+}
+
+/// numpy's float32 pairwise summation (pairwise_sum in loops_utils.h.src): eight accumulators over
+/// blocks of up to 128, halving above that on a multiple of eight. `np.add.reduce` over a contiguous
+/// row adds exactly this to its 0 identity, so np.linalg.norm(axis=1) is its square root.
+pub(crate) fn pairwise_sum(a: &[f32]) -> f32 {
+    let n = a.len();
+    if n < 8 {
+        a.iter().fold(-0.0f32, |r, x| r + x)
+    } else if n <= 128 {
+        let mut r: [f32; 8] = a[..8].try_into().unwrap();
+        let mut i = 8;
+        while i < n - n % 8 {
+            for j in 0..8 {
+                r[j] += a[i + j];
+            }
+            i += 8;
+        }
+        let mut res = ((r[0] + r[1]) + (r[2] + r[3])) + ((r[4] + r[5]) + (r[6] + r[7]));
+        for x in &a[i..] {
+            res += x;
+        }
+        res
+    } else {
+        let n2 = n / 2 - (n / 2) % 8;
+        pairwise_sum(&a[..n2]) + pairwise_sum(&a[n2..])
+    }
+}
+
+/// `row /= np.maximum(np.linalg.norm(row), eps)` in float32, numpy's way (eps a Python float, cast).
+pub(crate) fn normalize(row: &mut [f32], eps: f64) {
+    let sq: Vec<f32> = row.iter().map(|x| x * x).collect();
+    let norm = (0.0f32 + pairwise_sum(&sq)).sqrt().max(eps as f32);
+    row.iter_mut().for_each(|x| *x /= norm);
+}
+
+/// fastembed's TextEmbedding.embed(texts, batch_size): batches in input order, each tokenized and
+/// padded to its longest, CLS pooling, fastembed's normalize (eps 1e-12). Rows flattened, DIM each.
+pub fn embed_docs(texts: &[&str], batch_size: usize) -> Result<Vec<f32>, String> {
+    let mut slot = MODEL.lock().unwrap();
+    if slot.is_none() {
+        *slot = Some(load_model()?);
+    }
+    let m = slot.as_mut().unwrap();
+    let mut out = Vec::with_capacity(texts.len() * DIM);
+    for batch in texts.chunks(batch_size) {
+        let enc = m.tok.encode_batch(batch.to_vec(), true).map_err(|e| e.to_string())?;
+        let (b, l) = (enc.len(), enc.first().map_or(0, |e| e.get_ids().len()));
+        let flat = |f: &dyn Fn(&tokenizers::Encoding) -> &[u32]| enc.iter().flat_map(|e| f(e).iter().map(|x| *x as i64)).collect::<Vec<i64>>();
+        let t = |v: Vec<i64>| ort::value::Tensor::from_array(([b, l], v)).map_err(|e| e.to_string());
+        let inputs = ort::inputs![
+            "input_ids" => t(flat(&|e| e.get_ids()))?,
+            "attention_mask" => t(flat(&|e| e.get_attention_mask()))?,
+            "token_type_ids" => t(vec![0; b * l])?, // fastembed passes zeros, not the encoding's type ids
+        ];
+        let res = m.session.run(inputs).map_err(|e| e.to_string())?;
+        let (_, data) = res["last_hidden_state"].try_extract_tensor::<f32>().map_err(|e| e.to_string())?;
+        for i in 0..b {
+            let mut row = data[i * l * DIM..i * l * DIM + DIM].to_vec(); // output[:, 0]: the CLS vector
+            normalize(&mut row, 1e-12);
+            out.extend(row);
+        }
+    }
+    Ok(out)
 }
 
 /// An .npy file's float data as f32 (np.asarray(x, dtype=np.float32)): '<f4' or '<f8', C order.

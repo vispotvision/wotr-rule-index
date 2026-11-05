@@ -13,12 +13,15 @@
 //!                                         the public route (default ports 8765 and 8767, the Funnel's
 //!                                         / and /ro) gated by the named keys, and the key dashboard on
 //!                                         127.0.0.1 (default 8790); see http.rs
+//!   wotr-mcp index [-q]                   build/embed_index.py's build(): build/index/ (index.rs)
+//!   wotr-mcp sync                         build/sync.sh: the 15-minute wiki autosave (sync.rs)
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
 mod analysis;
 mod audio;
 mod codex;
 mod embed;
 mod http;
+mod index;
 mod jobs;
 mod keys;
 mod kokoro;
@@ -28,6 +31,7 @@ mod pyyaml;
 mod rules;
 mod search;
 mod supertonic;
+mod sync;
 mod table;
 mod util;
 mod writers;
@@ -52,7 +56,7 @@ const NATIVE: &[&str] = &[
     "create_character", "update_character", "advance_front", "set_front_clock", "add_front", "pass_time",
     "ledger_add", "ledger_mark", "fire_trigger", "ledger_collect", "npc_set", "session_end",
     "codex", "codex_check", "stale_names", "scene_brief", "gap_fill", "trello_cards", "scene_text", "timeline", "reconcile", "pack_impact",
-    "cast_index", "convert_character", "cast_scene", "narrate_scene", "narration_status", "research",
+    "cast_index", "convert_character", "cast_scene", "narrate_scene", "narration_status", "research", "lookup",
     "ask_chatgpt", "ask_claude", "research_chatgpt", "chatgpt_image",
 ];
 
@@ -228,6 +232,7 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str, publi
         "narrate_scene" => jobs::narrate_scene(&arg_req(a, "scene")?, &arg_str(a, "voice", "narrator"), &arg_str(a, "engine", "local"), public)?,
         "narration_status" => jobs::narration_status(&arg_str(a, "job", ""), public)?,
         "research" => jobs::research(&arg_req(a, "question")?, arg_int(a, "read", 2), &arg_list(a, "urls").unwrap_or_default(), &arg_str(a, "power", ""))?,
+        "lookup" => jobs::lookup(&arg_req(a, "source")?, &arg_req(a, "query")?),
         "ask_chatgpt" => jobs::ask_chatgpt(&arg_req(a, "prompt")?),
         "ask_claude" => jobs::ask_claude(&arg_req(a, "prompt")?),
         "research_chatgpt" => jobs::research_chatgpt(&arg_req(a, "question")?, &arg_str(a, "thread", "")),
@@ -403,6 +408,8 @@ async fn main() {
     match args.first().map(String::as_str) {
         Some("verify") => std::process::exit(verify_cli(&args[1..])),
         Some("audio") => std::process::exit(audio::main(&args[1..])),
+        Some("index") => std::process::exit(index::main(&args[1..])),
+        Some("sync") => std::process::exit(sync::main()),
         Some("audio-probe") => std::process::exit(audio::probe()),
         Some("dump") => {
             let s = std::process::Command::new("bash").args(["build/py.sh", "build/mcp_worker.py", "--dump"]).current_dir(&*util::ROOT).status();
@@ -470,8 +477,11 @@ async fn main() {
         let dash = values("--dash").first().and_then(|p| p.parse().ok()).unwrap_or(8790);
         let template = Wotr::fixed(true, false);
         std::thread::spawn(warm);
-        let w = template.worker.clone();
-        tokio::spawn(async move { w.warm().await });
+        // the Python worker is only for a tool not yet ported; start it only if there is one
+        if template.spec.tools.iter().any(|t| !NATIVE.contains(&t.name.as_str())) {
+            let w = template.worker.clone();
+            tokio::spawn(async move { w.warm().await });
+        }
         http::serve(template, ports, dash, values("--log").first().cloned()).await;
         return;
     }

@@ -2006,31 +2006,130 @@ def _wikitext_plain(t: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", t).strip()
 
 
-def _superpower(query: str) -> str:
-    """The Superpower Wiki page best matching `query`, through its MediaWiki API: the site's pages sit
-    behind a bot check that Agent Reach cannot pass, and the API answers plain requests."""
-    import urllib.parse
+def _html_plain(h: str) -> str:
+    import html
+    h = re.sub(r"(?s)<(style|script)[^>]*>.*?</\1>|<!--.*?-->", "", h)
+    h = re.sub(r"<(?:br|/p|/div|/li|/h\d)[^>]*>", "\n", h)
+    t = html.unescape(re.sub(r"<[^>]+>", "", h))
+    return re.sub(r"\n\s*\n\s*(?:\n\s*)+", "\n\n", t).strip()
+
+
+# lookup's sources: key -> (label, site). A site is a MediaWiki host (api.php at site + "/api.php", or
+# site + "/w/api.php" for the Wikimedia and Tolkien hosts, pages at site + "/wiki/"); datamuse, jisho and
+# dnd5e are plain JSON APIs. Fandom pages sit behind a bot check that Agent Reach cannot pass; the API
+# answers plain requests.
+LOOKUP_SOURCES = {
+    "superpower": ("Superpower Wiki", "https://powerlisting.fandom.com"),
+    "powerscaling": ("Power Scaling Wiki", "https://psbattles.fandom.com"),
+    "vsbattles": ("VS Battles Wiki", "https://vsbattles.fandom.com"),
+    "hxh": ("Hunter x Hunter Wiki", "https://hunterxhunter.fandom.com"),
+    "jjk": ("Jujutsu Kaisen Wiki", "https://jujutsu-kaisen.fandom.com"),
+    "bleach": ("Bleach Wiki", "https://bleach.fandom.com"),
+    "naruto": ("Narutopedia", "https://naruto.fandom.com"),
+    "dragonball": ("Dragon Ball Wiki", "https://dragonball.fandom.com"),
+    "onepiece": ("One Piece Wiki", "https://onepiece.fandom.com"),
+    "fma": ("Fullmetal Alchemist Wiki", "https://fma.fandom.com"),
+    "finalfantasy": ("Final Fantasy Wiki", "https://finalfantasy.fandom.com"),
+    "arcane": ("Arcane Wiki", "https://arcane.fandom.com"),
+    "lotm": ("Lord of the Mysteries Wiki", "https://lordofthemysteries.fandom.com"),
+    "reverend-insanity": ("Reverend Insanity Wiki", "https://reverend-insanity.fandom.com"),
+    "worm": ("Worm Wiki", "https://worm.fandom.com"),
+    "wiktenauer": ("Wiktenauer", "https://wiktenauer.com"),
+    "tolkien": ("Tolkien Gateway", "https://tolkiengateway.net"),
+    "wikipedia": ("Wikipedia", "https://en.wikipedia.org"),
+    "wiktionary": ("Wiktionary", "https://en.wiktionary.org"),
+    "wikisource": ("Wikisource", "https://en.wikisource.org"),
+    "datamuse": ("Datamuse", "https://api.datamuse.com"),
+    "jisho": ("Jisho", "https://jisho.org"),
+    "dnd5e": ("D&D 5e SRD", "https://www.dnd5eapi.co"),
+}
+_W_API = ("en.wikipedia.org", "en.wiktionary.org", "en.wikisource.org", "tolkiengateway.net")
+
+
+def _get_json(url: str) -> dict | list:
     import urllib.request
-    api = "https://powerlisting.fandom.com/api.php?"
-    def get(params: dict) -> dict:
-        req = urllib.request.Request(api + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2}),
-                                     headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) WOTR-research"})
-        with urllib.request.urlopen(req, timeout=30) as r:
-            return json.loads(r.read().decode("utf-8"))
+    # Wikimedia throttles browser-looking agents (429); its policy wants a named tool with a URL
+    req = urllib.request.Request(url, headers={"User-Agent": "WOTR-research/1.0 (https://github.com/vispotvision/wotr-rule-index)"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def _lookup(source: str, query: str) -> str:
+    """One source's best match for `query` as text (see LOOKUP_SOURCES); a failure is reported, never raised."""
+    import urllib.parse
+    if source not in LOOKUP_SOURCES:
+        return f"## lookup: no source '{source}'; sources: {', '.join(LOOKUP_SOURCES)}"
+    label, site = LOOKUP_SOURCES[source]
+    q = urllib.parse.quote
     try:
-        hits = get({"action": "query", "list": "search", "srsearch": query, "srlimit": 5})["query"]["search"]
+        if source == "datamuse":
+            # Datamuse's own parameters pass through (rel_jjb=blood, sl=krang); a bare query means "means like"
+            params = query if "=" in query else "ml=" + query
+            qs = "&".join("=".join(q(x.strip(), safe="") for x in p.split("=", 1)) for p in params.split("&") if "=" in p)
+            words = [w["word"] for w in _get_json(f"{site}/words?{qs}&max=60")]
+            return f"## {label}: {params}\n" + (", ".join(words) if words else "(no words)")
+        if source == "jisho":
+            data = _get_json(f"{site}/api/v1/search/words?keyword={q(query, safe='')}")["data"][:10]
+            lines = [f"- {(e['japanese'][0].get('word') or e['japanese'][0].get('reading'))} ({e['japanese'][0].get('reading', '')}): "
+                     + "; ".join(", ".join(s["english_definitions"]) for s in e["senses"][:3]) for e in data]
+            return f"## {label}: {query}\n" + ("\n".join(lines) if lines else "(no words)")
+        if source == "dnd5e":
+            hits = _get_json(f"{site}/api/2014/spells?name={q(query, safe='')}")["results"]
+            if not hits:
+                return f"## {label}: nothing matches '{query}'"
+            best = next((h for h in hits if h["name"].lower() == query.lower()), hits[0])
+            sp = _get_json(f"{site}/api/2014/spells/{best['index']}")
+            others = ", ".join(h["name"] for h in hits if h is not best)
+            return (f"## {label}: {sp['name']} (level {sp['level']} {sp['school']['name']}; {sp['range']}, {sp['duration']})\n"
+                    + (f"also matched: {others}\n" if others else "") + "\n" + "\n\n".join(sp["desc"] + sp.get("higher_level", [])))
+        host = site.split("//")[1]
+        api = site + ("/w/api.php?" if host in _W_API else "/api.php?")
+        def get(params: dict) -> dict:
+            return _get_json(api + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2}))
+        def page(title: str) -> tuple[str, str] | None:
+            if host in ("en.wikipedia.org", "en.wiktionary.org"):  # TextExtracts: templates rendered, not stripped
+                p = get({"action": "query", "prop": "extracts", "explaintext": 1, "titles": title, "redirects": 1})["query"]["pages"][0]
+                return None if p.get("missing") or not p.get("extract") else (p["title"], p["extract"].strip())
+            if host == "en.wikisource.org":  # texts are transcluded from scans: only the rendered page holds them
+                p = get({"action": "parse", "page": title, "prop": "text", "redirects": 1}).get("parse")
+                return (p["title"], _html_plain(p["text"])) if p else None
+            p = get({"action": "parse", "page": title, "prop": "wikitext", "redirects": 1}).get("parse")
+            return (p["title"], _wikitext_plain(p["wikitext"])) if p else None
+        try:
+            hits = get({"action": "query", "list": "search", "srsearch": query, "srlimit": 5})["query"]["search"]
+        except Exception:  # noqa: BLE001 - a site may fence search behind a bot check (Tolkien Gateway) and still serve pages
+            hits = []
         # the page named exactly as asked wins (its redirects followed); search order only breaks ties
-        page = get({"action": "parse", "page": query, "prop": "wikitext", "redirects": 1}).get("parse")
-        if not page and not hits:
-            return f"## Superpower Wiki: nothing matches '{query}'"
-        page = page or get({"action": "parse", "page": hits[0]["title"], "prop": "wikitext", "redirects": 1})["parse"]
-        others = ", ".join(h["title"] for h in hits if h["title"] != page["title"])
-        url = "https://powerlisting.fandom.com/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_"))
-        text = _wikitext_plain(page["wikitext"])
-        return (f"## Superpower Wiki: {page['title']} ({url})\n" + (f"also matched: {others}\n" if others else "")
+        got = page(query) or (page(hits[0]["title"]) if hits else None)
+        if not got:
+            return f"## {label}: nothing matches '{query}'"
+        title, text = got
+        others = ", ".join(h["title"] for h in hits if h["title"] != title)
+        url = f"{site}/wiki/" + q(title.replace(" ", "_"))
+        return (f"## {label}: {title} ({url})\n" + (f"also matched: {others}\n" if others else "")
                 + "\n" + text[:9000] + ("\n...[truncated]" if len(text) > 9000 else ""))
     except Exception as e:  # noqa: BLE001 - a failed lookup is reported, never raised
-        return f"## Superpower Wiki: lookup failed ({type(e).__name__}: {e})"
+        return f"## {label}: lookup failed ({type(e).__name__}: {e})"
+
+
+@server.tool()
+def lookup(source: str, query: str) -> str:
+    """One page or word list from an outside reference, for ideas: never canon, never a rule source, never a
+    verbatim field. WOTR canon governs every fact and number; borrowed moves get WOTR's own mechanism and name.
+    Wikis (query = a page title or search words; the exact title wins):
+      superpower (powers: capabilities, applications, limitations), vsbattles (character kits: abilities,
+      named techniques, weaknesses), powerscaling, hxh (Nen, conditions and vows), jjk (cursed techniques,
+      Domains, binding vows), bleach (releases), naruto (jutsu, combos), dragonball, onepiece, fma (alchemy),
+      finalfantasy, arcane (magitech), lotm (Pathways, a Stage-like ladder), reverend-insanity (costed
+      cultivation), worm (power classes and their strange limits), wiktenauer (historical fencing:
+      guards, measure, plays), tolkien (the land), wikipedia (physics, anatomy, history), wiktionary
+      (definitions, etymology, archaic words), wikisource (public-domain texts: sagas, manuals, period prose).
+    Words: datamuse (a bare query finds words meaning like it; Datamuse parameters pass through:
+      rel_jjb=blood adjectives for a noun, rel_jja=sword nouns for an adjective, sl=krang sounds like,
+      rel_rhy=steel rhymes, rel_trg=forge associated words, ml=bright&topics=metal), jisho (Japanese words
+      with readings and senses, for Moto names and manga sound words).
+    Spells: dnd5e (an SRD spell by name, for school-of-magic brainstorms)."""
+    return _lookup(source.strip().lower(), query.strip())
 
 
 @server.tool()
@@ -2039,7 +2138,8 @@ def research(question: str, read: int = 2, urls: list[str] | None = None, power:
     a page it cannot read is opened in a headless browser instead).
     For real-world facts before writing: physics, anatomy and wounds, history, arms and armor, materials,
     trades. Searches the question, reads the top `read` result pages (0 for snippets only) and every page
-    in `urls`, and when `power` is given pulls that power's Superpower Wiki page. Returns the sources' own
+    in `urls`, and when `power` is given pulls that power's Superpower Wiki page (lookup reads the other
+reference wikis and word lists). Returns the sources' own
     text with their URLs for you to read and cite: outside research, never canon and never a rule source;
     it does not go in a verbatim field. A failed source is named, not retried."""
     out = ["[Outside research via Agent Reach; not canon, never a rule source]"]
@@ -2067,7 +2167,7 @@ def research(question: str, read: int = 2, urls: list[str] | None = None, power:
             text = (i.get("text") or "").strip()
             out.append(f"## {i.get('title') or u} ({u})\n\n" + text[:7000] + ("\n...[truncated]" if len(text) > 7000 else ""))
     if power.strip():
-        out.append(_superpower(power.strip()))
+        out.append(_lookup("superpower", power.strip()))
     return "\n\n".join(out)
 
 
@@ -2137,6 +2237,7 @@ READ_ONLY_TOOLS = {
     "session_start", "verify_scene", "codex", "codex_check", "stale_names", "scene_brief",
     "fronts", "due", "roster", "scene_menu", "scene_context",
     "timeline",  # reconcile stays off the public route: minutes of CPU per call
+    "lookup",
     "gap_fill",
     "narrate_scene", "narration_status", "scene_text", "cast_scene",
 }
@@ -2150,7 +2251,7 @@ CORE_TOOLS = {
     "wiki", "wiki_write", "character", "fow_line", "scene_context", "scene_recall",
     "verify_scene", "scene_brief", "archive_scene", "log_ruling", "propose_rule",
     "ledger_add", "roster", "npc_set", "fronts", "advance_front", "pass_time", "due",
-    "scene_menu", "create_character", "update_character", "ask_chatgpt", "ask_claude", "research",
+    "scene_menu", "create_character", "update_character", "ask_chatgpt", "ask_claude", "research", "lookup",
     "natalie", "natalie_gpt", "codex", "timeline", "skill",
 }
 

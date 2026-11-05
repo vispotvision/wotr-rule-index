@@ -800,8 +800,8 @@ pub fn session_end(thread: &str, scene_markdown: &str, title: &str, author_notes
 // ---------------------------------------------------------------- scenes, the wiki, rulings
 const MIRROR_SKIP: [&str; 6] = ["MANIFEST.md", "CONTINUITY.md", "CAST.md", "TIMELINE.md", "README.md", "00_SUPERSEDED_wrong_names.md"];
 
-/// build/scenes_to_wiki.py: scenes/*.md mirrored as private vault pages.
-fn scenes_to_wiki() {
+/// build/scenes_to_wiki.py: scenes/*.md mirrored as private vault pages; returns the line it prints.
+pub(crate) fn scenes_to_wiki() -> String {
     let out = root("wiki/The Scene Archive/Scenes");
     let _ = std::fs::create_dir_all(&out);
     let mut ps: Vec<PathBuf> = std::fs::read_dir(root("scenes")).into_iter().flatten().flatten().map(|e| e.path()).filter(|p| p.extension().is_some_and(|x| x == "md")).collect();
@@ -812,7 +812,7 @@ fn scenes_to_wiki() {
         if MIRROR_SKIP.contains(&fname.as_str()) || fname.starts_with("00_") || fname.starts_with('_') {
             continue;
         }
-        let md = read_lossy(&p);
+        let md = crate::util::read_text(&p);
         let st = crate::util::stem(&p);
         let title = rx!(r"(?m)^#\s+(.+?)\s*$").captures(md.as_str()).ok().flatten().map(|c| c[1].trim().trim_matches('*').to_string()).unwrap_or_else(|| st.replace('_', " "));
         let mut name = rx!(r#"[/\\:*?"<>|]"#).replace_all(title.trim(), "").to_string();
@@ -826,16 +826,19 @@ fn scenes_to_wiki() {
         let body = rx!(r"\A#\s+.+\n+").replace(&md, "").to_string();
         let page = format!("---\ntitle: \"{name}\"\nprivate: true\nsource: scenes/{fname}\n---\n\n> Mirrored from `scenes/{fname}`; edit it there.\n\n{}\n", body.trim());
         let dst = out.join(format!("{name}.md"));
-        if std::fs::read_to_string(&dst).ok().as_deref() != Some(page.as_str()) {
+        if !dst.exists() || crate::util::read_text(&dst) != page {
             let _ = std::fs::write(&dst, page);
         }
     }
+    let mut stale = 0;
     for e in std::fs::read_dir(&out).into_iter().flatten().flatten() {
         let q = e.path();
         if q.extension().is_some_and(|x| x == "md") && !made.contains(&crate::util::stem(&q)) {
             let _ = std::fs::remove_file(q);
+            stale += 1;
         }
     }
+    format!("{} scenes mirrored, {stale} stale removed", made.len())
 }
 
 pub fn archive_scene(title: &str, markdown: &str, author_notes: &str) -> String {
@@ -1091,7 +1094,10 @@ pub fn inbox_done(name: &str, outcome: &str) -> String {
 }
 
 pub fn sync_now() -> String {
-    let out = std::process::Command::new("timeout").args(["--kill-after=10", "900", "bash", "build/sync.sh"]).current_dir(&*ROOT).output();
+    // a child, so the embed model and a stuck push stay out of the server; /proc/<pid>/exe still
+    // runs this binary after a rebuild has replaced the file on disk
+    let exe = format!("/proc/{}/exe", std::process::id());
+    let out = std::process::Command::new("timeout").args(["--kill-after=10", "900", exe.as_str(), "sync"]).current_dir(&*ROOT).output();
     match out {
         Ok(o) => {
             let text = format!("{}{}", String::from_utf8_lossy(&o.stdout), String::from_utf8_lossy(&o.stderr)).trim().to_string();

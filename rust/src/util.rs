@@ -96,6 +96,11 @@ pub fn read_lossy(p: &Path) -> String {
     fs::read(p).map(|b| String::from_utf8_lossy(&b).into_owned()).unwrap_or_default()
 }
 
+/// Path.read_text(errors="replace"): read_lossy with Python's universal newlines.
+pub fn read_text(p: &Path) -> String {
+    read_lossy(p).replace("\r\n", "\n").replace('\r', "\n")
+}
+
 /// mcp_server._read: the page without its YAML frontmatter.
 pub fn read_page(p: &Path) -> String {
     let t = read_lossy(p);

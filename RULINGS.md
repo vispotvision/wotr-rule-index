@@ -3665,3 +3665,9 @@ Context: Inner World redo.
 Isaac, 2026-11-05: "Sumgol once used to be the empire / dynasty of the south but it broke upp just so you know the lore on that also call The North The Northern Empire of Whitemere and Kingdom of Khavern is it's capital". The North is the Northern Empire of Whitemere, with the Kingdom of Kharven as its capital. Sum-gol was once the empire and dynasty of the whole South, and it broke up. This replaces Natalie's draft name, the Ashen Empire of Kharven. AGENT RULING (Natalie, overturnable): the break-up is why the South has several powers now; the Yan and Ryu stayed with the Dynasty, while Lambert, Yukari, Corwen and Marrick stand apart.
 
 Context: Inner World redo. Read "Khavern" as Kharven.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "Muken does thatsd old Lore". Muken builds the Northern Empire of Whitemere. The account in lore/v1/scenes/the_revolution_of_the_inner_world.md, where Sodoku founds it, is old lore. Also from Isaac the same night: "whitemere is moto thing alabaster is fine for the holy sea", both names kept.
+
+Context: Inner World redo. Muken is about 16 at 715 IC on the Concordance's dates, so the empire is built during Arc One.

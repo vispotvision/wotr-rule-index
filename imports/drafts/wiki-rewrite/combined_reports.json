@@ -1,0 +1,947 @@
+{
+ "first-steps": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/Reference and Craft/Reference and Craft.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Disciplines/The Disciplines.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Disciplines/Spellcraft/Spellcraft.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Disciplines/Techniques/Techniques.md"
+  ],
+  "pages_new": [],
+  "inventions": [
+   "Lexicon Section XIV, new street slang: window = 'the numbers' / 'your own slate'; bought Stage = 'a purse Stage' / 'a bought seat'; monster core = 'the stone'; swallowing a core raw = 'going raw'; blessing = 'a thumb' / 'thumbed' (taken from the Anointing art's street name, The Thumb of Heaven); what a blessing did not say = 'the terms'.",
+   "Lexicon Section XVI, 'Timer bar' as a headed term, built from R84-17. Lexicon Section XVIII, 'Token' as the proof of a title.",
+   "Sample windows on the Lexicon and Field Manual: [Reserve: 41% with a bar], [Left forearm: cracked. Grip down.], [Skill risen: Knife Work, Grade C], and a second set with a cracked rib and Haggling, Grade D. 'Knife Work' and 'Haggling' are invented example skill names.",
+   "Dry asides: Hataraki's power over blessings 'makes its people unusually polite company'; forged tokens are 'an old and popular' crime; 'Lucky commoners holding monster cores are the great threat to every house in the realm' is drawn from his questionnaire answer, with the closing aside mine.",
+   "Categories, 'The Filing Table' section and its placements: a dungeon files under Phenomena with a standing dissent for Domain Weaving; a worked Core under Concordia; a monster's core under Drafts once rendered and Crystalia on the slab; a monster's climb and an Aether Class under Viaforma; a window under Aetherica; a skill under no heading.",
+   "Field Manual, the new table row 'Vows and crew bonds', from the questionnaire answers rather than the brief; 'Skill It Rides' and 'Window Line' as new Blank Card fields.",
+   "Working Vocabulary, Next Passes: 'Knacking and the rendering floor' as a proposed future word mine for monster cores."
+  ],
+  "calls": [
+   {
+    "call": "The twenty-six numbered headings stay at twenty-six. New things go in a Filing Table after them plus notes inside the fitting headings.",
+    "grounds": "Other pages cite 'twenty-six categories', and new headings would mean inventing Latin category names. A table classifies chants, runes, tags, Drafts, skills, techniques, blessings, cores and dungeons without the crafts."
+   },
+   {
+    "call": "New Lexicon terms went in as Sections XVI to XIX after Section XV, with the top callout saying those govern. Nothing was renumbered.",
+    "grounds": "Keeps 'Section XV' references good."
+   },
+   {
+    "call": "'Sigilcraft' is kept as an old roll-word for cutting runes on the Lexicon, and removed from the Categories examples.",
+    "grounds": "R84-18 names five crafts and Sigilcraft is not among them. It no longer points at Runecraft. Say if it should go too."
+   },
+   {
+    "call": "The Ritus sequence 'Intention, Space, Circle, Offering, Invocation, Catalyst, Seal' stays.",
+    "grounds": "That Catalyst is a step in a rite, not the Threshold claim the law retired."
+   },
+   {
+    "call": "Crystalia's limit now reads that nucleation cannot be manufactured at the bench: hands and instruments cannot make a true seed, and what the trade sells past that point is a seed out of a bottle.",
+    "grounds": "It rested near the retired Draft claim. The Ladder page already calls a Draft an artificial seed, so this agrees with Drafts and blessings supplying a Catalyst."
+   },
+   {
+    "call": "Hataraki is split off from the 'first five general disciplines'. The Disciplines page now says it stands first and apart as a Fate Art, and the next four are the general ones.",
+    "grounds": "The old sentence called it open to any practitioner, against R84-12 and the law on bloodline Fate Arts. The flowchart and 'read Hataraki first' stay."
+   },
+   {
+    "call": "Reconciled 'the body gains Traits' with 'Traits are not encoded by Temperance': the on-file passage stays whole, with a line that Tempering leaves the body with its Traits written into it.",
+    "grounds": "The brief says both that Traits stay exactly as on file and that the body gains Traits. The page already had Traits laid down in tissue."
+   },
+   {
+    "call": "Removed the Disciplines note that six categories were 'flagged pending ruling', leaving only that the taxonomy page is the authority.",
+    "grounds": "Stale, not in-world, and the taxonomy page carries no flags."
+   },
+   {
+    "call": "Small Accord fixes: the Categories opening asks which hall's token Maud carried, not what license she held; the Cost Wheel's Accord line is now a hall that will not sign with you; the tundish passage has halls and crowns taking their cut, not the Accord taxing. 'Standing' now points at the nine titles.",
+    "grounds": "Cuts the civil-service feel from a body that is now a coalition. The stories themselves are unchanged."
+   },
+   {
+    "call": "Left in place: the school names (Spirit Rune Arts, Cantics), 'Runesmith' as a trade word, 'Drafter', the shelf title 'Reference and Craft' and generic uses of 'craft', and the Lexicon's and Categories' remaining uses of 'certification'.",
+    "grounds": "These are not the removed named crafts, and folder names stay by order. The Spellcraft folder name survives only inside link paths."
+   },
+   {
+    "call": "Grep at the end: the removed crafts appear only in link paths to the kept Spellcraft folder, with no 'four crafts' or 'records what' left, no Dawi, Stannvaard, Ketsuen or the Fall, no Catalyst claim against Drafts, and no sound words or new em dashes. Em dashes remain only in titles and empty table cells.",
+    "grounds": "Required by the task. wiki/, sources/ and RULINGS.md were not edited and nothing was committed. Git shows rules/doc-directions-2026-11-05-sheet.yaml as modified, which is not from this agent."
+   }
+  ],
+  "canon_conflicts": [
+   "The Core Vocabulary (First Steps, another agent's shelf) still read 'Records what has actually happened between things' for the Plane of Fate when checked. My pages follow the new law, so the two disagree until that shelf lands.",
+   "desktop/NATALIE.md still says 'Chantcraft is the fifth craft, the medium-home of Harmonia' in THE MAGIC FRAME, against R84-18. These pages follow R84-18: chants are a skill, with Harmonia their commonest Method.",
+   "Categories and the Trait page list five kinds under Traits (Primary, Secondary, Inherited, Passive and Compound) while the law says 'the Four Reflections'. Compound is a fusion of Reflections. Both wordings are kept, with no change to Trait kinds.",
+   "The Field Manual's 'Abilities are never invented inside a scene' stands beside R82-28's mid-fight new moves. I read them as compatible, because moves are techniques under a known Ability."
+  ],
+  "questions_for_isaac": [
+   "Should 'Sigilcraft' stay as an old roll-word, or go with the five named crafts?",
+   "The Field Manual still carries an authoring note saying Cozbi's refusal to take a vow is 'the most interesting unexploited thing about him', and Arc Two is Cozbi. The page is not marked private. Keep it, or cut it from a public page?"
+  ]
+ },
+ "foundations": {
+  "pages_changed": [
+   "The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System.md: new section The Window with a sample sheet; Short Version rewritten for Tier of Standing as guild trust, bought Stages, Aether Class, Wellspring as lens and Plane of Fate; Soul Crystal gloss; closing line no longer reads 'records what'",
+   "I. Levels, Experience and Stat Points (Parts One–Three).md: experience by danger overcome; life spends most points and a few are placed at each Stage; new subsection The Sheet in the Window. Tables and the validator passage untouched",
+   "II. Grades, Gates and Thresholds (Parts Four–Ten).md: Part Eight rewritten so a Draft or blessing can supply a Catalyst and a bought Stage opens the door and no more; Part Five blockquote makes Tier of Standing the fighting guilds' yardstick; forced-advancement paragraph separated from buying a Threshold; window reads in letters",
+   "III. Physical Force (Part Eleven).md: aura layers (Family, Wellspring, class or Trait), Pressure felt in the room and then reported by the window, reading people, hide or fake; Core gloss now says mostly in dungeons",
+   "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md: normal-look sheet law, Gnosis Perception against Resilience Ward, tempering as melt-down and rebuild, the Fate Sub-Stat reworded. All 64 em-dash lines still parse",
+   "V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md: What a Wellspring Is rewritten to lead with transformation, lens, Typology doubling and how one is got, with Cores and dungeons; new Part Fourteen sections The Plane of Fate and Blessings placing Attraction and Obsession under Fate; Hataraki can remove blessings; runes, tags, Drafts and chants as skills",
+   "VI. The Sixteen Temperance Stages (Part Sixteen).md: intro carries tempering and bought Stages; Wellspring and Aether Class glosses. All 16 Stage headings still parse",
+   "VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md: new section The Class the Soul Is Offered; ladder renamed from 'The Seven Aether Classes' to 'The Tiers of Aether Class' with every η figure unchanged; class evolves at each tier; the lens paragraph in Part Eighteen; what the window shows of the reserve; fighting-guild note on the η table",
+   "VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md: new section Trait Levels with the Four Reflections untouched; Soul Crystal is the soul; Stage VIII Domain law, sample window and timer bar, boost cap; Plane of Fate gloss",
+   "IX. The Essence Ledger (Part Twenty-Three).md: window note in the hook; glosses; a doubled 'the the' typo fixed. All figures unchanged",
+   "X. The Tier Ladders (Part Twenty-Four).md: Monsters climb, and The core and the parts, added to the Bestiary ladder; Commission Tier tied to the adventurer's title; Elixir and Counterplay Catalyst sentences retired; Master Works and Fate Essence Draft on the Drafts ladder; sites paragraph on Wellspring, Cores and dungeons; Grade and Rarity plus Master Works on the Weapons ladder. All tables and the validator sentence unchanged"
+  ],
+  "pages_new": [],
+  "inventions": [
+   "Class names as samples: Bonfire Herald (Sissel Scarbrow) and Wick-Trimmer (Gunnild Scarbrow), with the tiers Muridic and Resonant derived from the losses their story already states; the sample class ability Clean Thread",
+   "Sample windows, all illustrative: the Haymarket groom's sheet (Level 58, Stage IV, Grades costed to fit the point economy, skills Horse-handling and Short Right Hand); Jory Eel-Hand's level-up window; `[Thyra's Rule: Level 6]` and her Domain seed window, naming the seed NOBODY CROSSES WITHOUT PAYING; Wu Jinbao's `[Reserve: 10%]`",
+   "A sample blessing, 'Favor of the Tide-Mother: You will not drown', as a lying or curse-shaped line. The Tide-Mother is an invented giver and not a filed being",
+   "The Ember Stair's floors have turned into landings: a story gloss making that worked Core a long-cleared dungeon",
+   "Dry asides with no law behind them: veterans claiming they can feel a bought Stage inside two exchanges; Measurewrights arguing what the class offer proves; fakers of Pressure; young fighters claiming the Typology doubling to bookies; a shop's best assayer being its most suspicious relative; nobody making a second Master Work by trying harder"
+  ],
+  "calls": [
+   {
+    "call": "The first class offer comes at Glory, Stage VI, and 'at thresholds' is read as each step up the tier ladder.",
+    "grounds": "The page already says Stages I through V are unclassed and the coil reads no Class before Glory, and R84-10 says the class evolves at each tier. The tier and η text stay as they were."
+   },
+   {
+    "call": "'A few' placed points is given no figure, and Threshold bonuses stay Stage x 100 with most landing by life and a few placed by the owner.",
+    "grounds": "R84-9 gives no number and the brief says leave numbers alone. Threshold points are about half the lifetime pool, so they could not all be the free share without breaking 'life spends most'."
+   },
+   {
+    "call": "A bought Threshold still grants the Stage x 100 bonus points.",
+    "grounds": "R84-5 says it simply works and nothing withholds the points. R84-6 limits what comes with the Stage only by Release, Domain, technique, skills and rites."
+   },
+   {
+    "call": "The lived Catalyst list in Part Eight and the Part Eighteen Typology '*Catalyst:*' lines stay, with the Part Eight list framed as transitions as a soul lives them.",
+    "grounds": "Crisis, seclusion and tribulation remain real roads; only the claim that nothing else can supply a Catalyst is retired. The Typology lines name what awakens a bias and make no claim about Drafts. Manganthra's epithet 'the Catalyst of Change' also stays."
+   },
+   {
+    "call": "Forced advancement by alchemical augmentation stays catastrophic, and is defined as a stat dragged past an uncrossed Threshold, separate from a Draft that supplies the Catalyst.",
+    "grounds": "The law buys Stages but does not repeal the fracture rule, which the page ties to stats held above their sustainable grade."
+   },
+   {
+    "call": "A work made for the purpose can supply a Catalyst at the Elixir rung or higher, and the page does not name a lowest rung beyond placing that sentence on Elixir.",
+    "grounds": "The old sentence sat on Elixir, and the law names no rung. The Philter entry stays about the quantitative floor."
+   },
+   {
+    "call": "'The Seven Aether Classes' is retitled 'The Tiers of Aether Class'.",
+    "grounds": "The heading counted seven while listing eight rungs (Ø through Ω), and the ladder is now the class's tier. No page in the combined tree links that heading except this one."
+   },
+   {
+    "call": "A Master Work is written as the one standing exception to the material ceiling on the Weapons ladder.",
+    "grounds": "R84-19 says it does what its Grade and material should not be able to, and that clashes with 'the material fails first' unless it is an exception."
+   },
+   {
+    "call": "The Dungeons page is named in prose, with no wikilink.",
+    "grounds": "It sits only in imports/drafts/wiki-rewrite/inner/, not in the combined tree, so a link could break. Add one when the shelves merge."
+   },
+   {
+    "call": "'Class IV of the Index' is used for the Crystal Draw line.",
+    "grounds": "It keeps that Provenance Class apart from Aether Class IV Luminous on the same shelf."
+   }
+  ],
+  "canon_conflicts": [
+   "These pages mirror Fracture of Worlds. I did not open the canon source file, but anything there matching the old page text now disagrees, and I followed the law: Catalyst as the only road across a Threshold, Aether Class as a Shell measure only, points spent freely, Tier of Standing as a public ladder over the Grades, the Plane of Fate wording.",
+   "RULINGS.md 2026-11-05 has Isaac saying 'traits can be body soul fate', followed by 'traits ARE exactly how they are on file'. The brief says do not invent new Trait kinds, so the Four Reflections stand and Body, Soul and Fate kinds are not written. Isaac's first sentence is still on the record.",
+   "'Up to Five' for a pure alchemist's bench-certified title (VIII, Part Twenty-One; The Tiered Path; The Four Crafts) sits against the same nine titles in every guild. I kept it, because nothing in R84 repeals the Law of Alchemical Independence.",
+   "Validator-locked sentences tie maker and weapon to Essence Grade, while the law caps what a smith makes by her guild title. A Grandmaster smith with a low Ardency is lawful under one and capped under the other. Both stand on the page as written.",
+   "Soulbound's 'never above the bearer's Tier of Standing' and the Standing Index rank gates still read as the fighting table. A merchant's or craftsman's title would misread there. Left as is.",
+   "Other shelves, seen while checking wording and not touched: The Ladder and the Draft still carried 'A Draft has never supplied a Catalyst', and The Core Vocabulary's plane table still said the Plane of Fate 'Records what has actually happened'. Both had not been rewritten when I looked.",
+   "Pre-existing loose ends left alone: IX cites 'the Four Theories of Part Fifteen', which Part Fifteen does not carry; III names Vohrin as a Wellspring, and it is not in Part Thirteen's listing, though it appears in A Reader's Codex and the material indexes.",
+   "Not run: wotr-mcp validate. It checks wiki/, not the staged copies, so it has to be run at merge. My checks were on the staged files: every table line is identical to live wiki/; 64 Sub-Stat lines and 16 Stage headings still match the parser patterns in rust/src/bot/fow.rs and workshop.rs; the Part Five table is untouched; the required passages were not edited.",
+   "Final grep across the shelf: no hits for the retired Catalyst sentence, Spellcraft, Runecraft, Draftcraft, Chantcraft, Magicraft, 'four crafts', 'records what', Dawi, Stannvaard, Ketsuen, Nalūn, Anguz or the Fall. The sound-word pattern hit only italicized culture terms (matoi, kehai, atsu and the like) and an italic unit word, and no onomatopoeia. 'Craftsman' remains, as a plain trade word."
+  ],
+  "questions_for_isaac": [
+   "How high can money reach? As written a Draft or blessing can supply any Catalyst, but XIII to XIV is a Hollow Throne's recognition and XV is exchange with an Archon. The pages leave that unsaid and the Stone rung unfilled, so tell me if you want a stated top.",
+   "Can a soul refuse an offered class, and what happens if it does? The pages say only 'offered'."
+  ]
+ },
+ "climb": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Foundations.md (two blurbs now lead with the idea and the soul's account)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Physical Account Two Sets of Books.md (stratal account before physical; Wellspring stratum first and given as idea and lens; Crystal is the soul, so 'no Crystal at all' became 'never woken'; tempering melts and rebuilds; Catalyst can be bought and a bought Stage has no Release; new 'private report' passage on windows with a sample; proper-entry form now opens on the concept; Accord softened from enforcer to halls and licensing; Four Theories, Four Faults and all strata law kept)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings.md (hub reordered: new 'What a Wellspring Is', 'The lens on your Essence Typology', 'How you come by one'; three readings now spirit, bench, law; all physics moved under 'How the Scholars Explain It'; Cores and dungeons rewritten; Plane of Fate gloss fixed; Wellspring Core density row fixed; entry key reordered; idea column added to the Families table; every table and figure kept)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md (10 entries)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md (6 entries)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md (8 entries)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md (3 entries)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md (9 entries; 'clink' in the opening story replaced)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md (8 entries)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics.md (4 entries, Phreatis cross-listed)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md (13 entries)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms.md (Wellspring gloss; assignment comes after concept and phenomenon; the required [Abys] passage untouched)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands.md (Runecraft and Chantcraft removed; rune-cutting stated as a skill and trade; Wellspring gloss)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun.md (Chantcraft removed; the count stated as a levelable skill; lexicon, seals and sums untouched)"
+  ],
+  "inventions": [
+   "One new 'The idea' line for each of the 60 Wellsprings, in my own words, drawn from its existing name, Spirit, Alchemy and Stat Effect lines. Phreatis has the same line on Vitalia and Fluxia.",
+   "One Family-level idea paragraph and lens paragraph on each of the 8 Family pages, built from Part Eighteen's Typology wording. Includes small asides such as the bath-house trade and the odds on your recovery.",
+   "Wenna Corry of Tallow Row, a Caloria lamp-lighter's girl who bought an Ignivale bottle at sixteen and reached the double after 24 years. Sample figure for the lens.",
+   "Sample window lines: '[Ignivale: harmonized. Lens on Caloria: +8%]' and '+100%', marked on the page as one woman's sheet and no law. The Two Sets of Books sample uses an invented Trait name, Banked Coal, and a Long Breathing skill line.",
+   "A trained eye at fifty paces can judge the Family, guess the Wellspring and tell the age of a lens from how steadily the color sits. Only the base-color, texture and shape rule is law; the age reading is mine.",
+   "Asides: Sealhall Measurewrights arguing what gets doubled; confessors filing physics-only entries under plumbing; a 'warning to the Measurewright' about Absolution; 'Third edition' as the in-world reason for the new order; Sergeant Thorn never holding a title; the Temple of Inscription and the Accord's scribes feuding as what is left of the old craft rank.",
+   "The saying 'What burns in the crucible burns in the one who tends it' was already on the page. I promoted it to the hub's epigraph and called it the bench's oldest saying."
+  ],
+  "calls": [
+   {
+    "call": "Doubling the Typology changes the character of the blow and leaves Grade, joules and stat points where they are.",
+    "grounds": "Fracture Part Eighteen says Typology adds no stat points and changes qualitative character, and the hub says the magnitude stays and the constitutive law changes. It also keeps the two-Grade boost cap out of it. Written as 'the same fist at the same Grade lands with twice the rupture', with Measurewrights arguing the point on the page."
+   },
+   {
+    "call": "A lens from the soul's own Family works straightest; an off-Family lens works at higher cost and lower quality, and whether it can reach double is left an open fight on the page.",
+    "grounds": "The higher-cost, lower-quality part is standing law in Part Eighteen. The law is silent on off-Family doubling, so I invented no rule."
+   },
+   {
+    "call": "Each entry runs: The idea, Spirit, Alchemy, a 'How scholars explain it' line, then Analogue, Mechanism, Stat Effect, Failure.",
+    "grounds": "The task note and the brief's Wellspring law. A line-by-line check against the pre-rewrite copy shows every field line survives on the Family pages. On those pages only the subtitle, the key note and one sound word changed."
+   },
+   {
+    "call": "Kept the First Physical Register's 'neither gift nor spirit' quote, moved to open the scholars' section as the Measurewrights' position.",
+    "grounds": "Reference pages may argue (R83-11), and the brief keeps the physics as how scholars explain it. The newer idea-first law now leads above it."
+   },
+   {
+    "call": "A birth-day name such as 'Fixatio child' is custom, and is separate from being born harmonized.",
+    "grounds": "The hub already had the birth-day custom and the law adds birth as a real road, so the two needed telling apart."
+   },
+   {
+    "call": "Wellspring Core density row now reads rare, mostly unmapped, nearly all at the heart of a dungeon, with the richest untouched ones on the New World's arc. All figures unchanged.",
+    "grounds": "Isaac's 2026-11-05 ruling that Cores are mostly in dungeons, and the staged Dungeons page, which puts the Heart at Wellspring Core density."
+   },
+   {
+    "call": "Kept 'license', the Vaulted Cant, Accord Chancery Hand, writs and the 'under Accord license' lexicon words. Softened only 'enforces' and the documentation-standard language on Two Sets of Books.",
+    "grounds": "The brief keeps Accord law and history where they fit a coalition, and the staged Dungeons and Guild Accord pages still have halls licensing by Sigil. The lexicon is data the law leaves standing."
+   },
+   {
+    "call": "Benediction's mechanism on the Plane of Fate stays as written, and I did not tie Benediction to blessings by name.",
+    "grounds": "The law says Fate can attach to oaths, so the oath-weight line stands. Linking this Wellspring to blessings would be new canon nobody asked for."
+   },
+   {
+    "call": "Left the body of the Master Glyph Index, the Parun hands, lexicon and tables alone apart from the noted lines.",
+    "grounds": "The law does not touch them, and the Glyph Index is fixed by R79-11. A grep of all 14 files for the task's terms (the retired Catalyst line, the five crafts, 'four crafts', 'records what', Dawi, Stannvaard, Ketsuen, Nalūn, Anguz, the Fall, 'soul's organ', the draw) returned nothing. The word Catalyst remains only for the bought Threshold and the Manganthra entry, and a list of common sound words found nothing after the Materia fix."
+   }
+  ],
+  "canon_conflicts": [
+   "The old hub row said Wellspring Cores are 'mostly New World'; Isaac's 2026-11-05 ruling says Cores are mostly in dungeons, also in vast territories. I followed the ruling. The hub's New World density claims in the 'Absence of competing types' row are kept.",
+   "The Wild and Spirit encounter table says 'The fire was not there until the Aether made it', while the same page and Two Sets of Books say 'Nobody makes fire'. This tension is already on file and the law does not touch it, so I left both.",
+   "The First Physical Register's 'neither gift nor spirit. It is a law' reads against Isaac's idea-first Wellspring. Kept as a dated scholars' position under the newer law, as noted in calls.",
+   "The Coherence fault line 'Thresholds refuse to authorize' sits beside bought Stages. Left standing: a Draft or blessing supplies the Catalyst, and I did not rule whether a bought Catalyst overrides a drifted soul.",
+   "The staged Dungeons page, on another shelf, still has an entry for Anguz and for the Amber Cities of Nalūn. Both are outside my files. Nalūn survives as the salt country's name by ruling, but the brief says Nalūn and Anguz are gone as states, so its owner may want to check."
+  ],
+  "questions_for_isaac": [
+   "When a lens doubles a Typology, should it move anything on the sheet? I wrote that it does not: the Grade stays and the blow carries twice the Family's character. If you meant a real number, the hub and the 8 lens paragraphs need changing.",
+   "Can a lens from outside your own Family ever reach double? I left it as an open fight on the page.",
+   "Can a bought Catalyst get past a Coherence fault, where a soul's life and stated law have drifted apart? I left the line as is. If money beats it, Two Sets of Books needs one more sentence."
+  ]
+ },
+ "fracture": {
+  "pages_changed": [
+   "The Magic System/Power in Use/The Four Crafts.md: whole rewrite, retitled The Working Trades, filename kept. Named crafts gone. Sections are The Speaking, The Cutting, Tags, The Pouring, The Singing, plus a side-by-side table (medium, how long it holds, whether it outlives its maker, who can use it, what it bills, how it fails), Skills first, The Examiners and the Workers, and Master Works. Survives: opening story, compilers' note and glyph-role table, Five Levers, register table, delivery vectors, Law V, Law III, lost golden age, Standing Inventory. The Pouring now carries Catalyst by Draft, bought Stages, monster cores, Crystals of the dead and the Fate Essence Draft.",
+   "The Magic System/Power in Use/Power in Use.md: index labels and descriptions updated.",
+   "The Magic System/Power in Use/Reinforcement.md: Soul Crystal gloss; aura law (Family color, Wellspring texture and sound, class or Trait shape); faking a coat and the Gnosis read; window on the cost line and in the example.",
+   "The Magic System/Power in Use/Stacking and Spending.md: Soul Crystal gloss; a bought Stage leaves a gap in the stack line; new window section with a Release block and timer bar; figures kept out of the window.",
+   "The Magic System/Power in Use/Runes and Tags.md: Runecraft removed; the cutting as a skill and trade; Grade, Rarity, stamps, title caps, Appraisal and forgers; only bonded gear grows.",
+   "The Magic System/Power in Use/Counterplay What Beats a Practitioner.md: Four Routes unchanged. Added under Break the Man: check whether he paid for his Stage, faked Pressure, and blessings with Hataraki. Runecraft wording and Crystal gloss fixed; worked Core linked to Dungeons.",
+   "The Magic System/Practice and Institution/Practice and Institution.md: index descriptions updated.",
+   "The Magic System/Practice and Institution/The Standing and the Title — The Three Names.md: filename kept, retitled The Standing and the Title: Guild Titles as Trust. The Second Name rewritten: the same nine titles in every guild as trust, a trust table (merchant Rarity, maker Grade and stamp, adventurer T1 to T9), the fighting guilds' Stage table with its offices, forged and lost tokens, bought Stage on a token. First Name gains the window and the Gnosis read. Third Name, Archetype table and How Titles Are Made kept.",
+   "The Magic System/Practice and Institution/Training and Sects.md: new section on what a sect has that money cannot buy; Level by danger overcome; tempering row added, so cultivation is now five ways; rank table reset to the nine titles; famous monsters and bounties; bought Stage at tournaments; example gains a window and a bought-Stage rival.",
+   "The Magic System/Practice and Institution/The Gate Who May Learn Magic.md: new section IV, The Second Gate: A Purse (buying Stages, the Bench's reservation, the poor's three roads, what money does not buy); later sections renumbered; Accord as coalition; Craft wording removed.",
+   "The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts.md: Core keepers rewritten with the Wellspring lead and worked Core as a cleared dungeon, linked to Dungeons and Hollowhay; companies as Accord signatories; Runecraft removed; core-tenders line.",
+   "The Magic System/Practice and Institution/Mechanica Extraction Without Recognition.md: craft names replaced with the trades; glosses fixed; new paragraph drawing the line between lawful monster-core rendering and a dead practitioner's Crystal, tied to Class IV; chartered Cores as cleared dungeons.",
+   "The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery.md: note on words now leads with the Wellspring as idea; accidental harmonization starts small; dungeons and roaming monsters noted; Core warning extended.",
+   "The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic.md: guild title replaces rank in the measures list; glosses fixed; new section, The Bought and the Blessed; all DI figures and tables unchanged."
+  ],
+  "pages_new": [],
+  "inventions": [
+   "A mapping of the nine titles to the seven Rarities, in the Standing and the Title trust table: Initiate and Apprentice Common, Journeyman Uncommon, Adept and Expert Rare, Master Very Rare, Grandmaster Legendary, Archmaster Mythic, Paragon Unique. The law gives the cap but no mapping. The maker's Grade and stamp column comes from The Item Tiers.",
+   "Dame Ottilie Marsh, Grandmaster of the Mercers' hall at Waxgate, and the two Hundred Crowns kings handing her their jewels.",
+   "Aubrey Vane, the wool factor's son who drank his way to Flourishing, in the Training and Sects example.",
+   "The rich heir at Stage VII handed a broom, and houses that buy the Stage and then send the child to sweep.",
+   "Crowds pelting bought-Stage fighters at tournaments with fruit.",
+   "Guild title lines for couriers (what they may be handed sealed) and healers (what they may be paid to treat).",
+   "A coat flared bigger than the body behind it, as the Reinforcement form of faking.",
+   "The named bottle-raised reading in The Bought and the Blessed: an advancement Draft's single seed makes a soul read narrow. Built from the seed law in The Common Drafts.",
+   "The Measurewrights' argument over a third mode for the bottle-raised.",
+   "More than one house going to war over a rumor of a Fate Essence Draft.",
+   "Sample window lines and names: THE LONG YOKE, Skill: Measure, Skill: Cutting.",
+   "The examiner writing brawl on the form, and the old chart of ranked kinds sold to schools for two centuries, as the in-world residue of the removed crafts."
+  ],
+  "calls": [
+   {
+    "call": "New page title is The Working Trades, filename The Four Crafts.md kept; The Standing page retitled The Standing and the Title: Guild Titles as Trust, filename kept.",
+    "grounds": "Task notes order the retitle and keep filenames for now. The only remaining 'Four Crafts' strings on my shelf are that filename inside two link targets, in Power in Use.md and Runes and Tags.md."
+   },
+   {
+    "call": "Kept the Accord Latin doublet (Ars Vocis, Ars Scripti, Ars Vasis, Ars Cantus) as the examiners' names for trades, and removed Ars Operis and the umbrella heading.",
+    "grounds": "The R84 crafts ruling leaves no ruling category above the skills. The Settled Positions doublet and the Accord Latin grammar page in the rest shelf depend on the trade names."
+   },
+   {
+    "call": "The old status order of the crafts is written as a guild feud, varying by culture.",
+    "grounds": "The brief says old ranks of the crafts become guild feuds at most. The culture table's material reasons survive."
+   },
+   {
+    "call": "A guild title needs no woken Crystal.",
+    "grounds": "Follows from 'a Grandmaster merchant may not be able to throw a punch' and the ruling that titles grade trust in a trade."
+   },
+   {
+    "call": "A bought Stage reads on a fighter's token like a fought one, and crews ask about it in the hall.",
+    "grounds": "Fighting guilds keep the Stage table as their yardstick and nothing exempts bought Stages. A coil cannot tell them apart, which keeps R84-6 meaningful in play."
+   },
+   {
+    "call": "A bought Stage is allowed in tournament brackets, while fight Drafts stay banned as bought power.",
+    "grounds": "A Stage is permanent and unreadable as bought. The existing ban covers power brought into the ring."
+   },
+   {
+    "call": "Monster cores are written as lawful rendering, and a dead practitioner's Crystal as the same procedure under the worst crime, placed under Extraction in Mechanica.",
+    "grounds": "Brief's monster core clause and the agent ruling on the Standing Index; Standing Index already ties extraction to the Class IV surplus."
+   },
+   {
+    "call": "'A few are born without one' in The Gate became a Crystal so slight no coil finds it, with scholars arguing.",
+    "grounds": "The law says the Crystal is literally the soul, so born without one would mean born without a soul. No other wiki page in the combined copy uses the phrase."
+   },
+   {
+    "call": "The shouting ticket licenses a speaker to take hire, and the speaking itself stays unlicensed.",
+    "grounds": "The old pages disagreed: The Four Crafts said the speaking is licensed grudgingly, The Gate said never. This reading keeps both laws."
+   },
+   {
+    "call": "Links to [[The Bestiary/Dungeons]] use the vault path. The page is in the live wiki and the inner shelf and is not yet in the combined copy.",
+    "grounds": "Brief points at inner/wiki/The Bestiary/Dungeons.md and says to keep vault-path links. It resolves on merge."
+   },
+   {
+    "call": "Kept named Accord offices (Research and Archives Division, Bureau of Strategic Assessment, Enforcement Division) where a page leans on them; softened only a few mentions to research halls or guild halls.",
+    "grounds": "The Derivation page and The Gate are built on them, and the Accord shelf holds the coalition rewrite. If that shelf cuts them, these pages need a pass."
+   },
+   {
+    "call": "Kept the compilers' out-of-world note on Tolkien, Martin and Clarke on The Working Trades.",
+    "grounds": "Task notes say keep every useful law, and the glyph-role table and Sealing law sit inside that note."
+   },
+   {
+    "call": "Windows on my pages use the How Magic Works block format with ▓ and ░ bars, and only Grades, percentages, bars and levels. Wil's Level was set from the Stage III range in The Sixteen Stages (51 to 75).",
+    "grounds": "R84-1, R84-2 and the sample window on the staged How Magic Works."
+   }
+  ],
+  "canon_conflicts": [
+   "The Ladder and the Draft, The Common Drafts and The Sixteen Stages in the combined copy still said, when I read them, that no Draft has supplied a Catalyst. Those are other shelves, and my pages follow the law.",
+   "Start Here, The Magic System.md and How Magic Works in combined, plus the Accord Latin page in the rest shelf, still reference The Four Crafts by name. Their labels should change to The Working Trades, and any use of the old craft names there should go.",
+   "Same-night rulings differ on the merchant's cap: one says a merchant deals up to the Tier of his title, a later one says the title caps Rarity. I followed the brief (Rarity) and gave makers Grade and stamp.",
+   "The Item Tiers keeps 'Tier of Standing' as validator-locked wording, while my page speaks of titles. Both are kept and they read as the same nine rungs.",
+   "The Tiered Path in the Guild Accord shelf still carries the old single table, last seen with Stages as the only reading of a title. It needs to match the two tables on The Standing and the Title."
+  ],
+  "questions_for_isaac": [
+   "Keep or cut the title-to-Rarity mapping on The Standing and the Title? It is my draft and sits in one table.",
+   "Does a blessing count as outside help that stacks past the two-Grade cap, or as a self-boost under it? Stacking and Spending stays silent until you say."
+  ]
+ },
+ "practice": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md (rewritten whole: the Catalyst rule is gone. New: both keys can be bought, a table of what a bought Stage gives and lacks, monster cores, raw cores, the great crime, Master Work and Fate Essence Drafts, four uses of a Draft, blessings. Kept: goose story, layer table, Draft type table, Identity Contamination, fight Drafts, melt and seed law, Dead Set, Coherence and Maturity)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge.md (new section VI-a Trait Levels with a sample window. Crystal is the soul. Tempering melts layers and gains Traits. Level moves by danger overcome. Section IX on Drafts rewritten. Four Reflections, the melt, Identity Contamination, failure states and the body section stand)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/The Sixteen Stages.md (new section The Bought Stage. Catalysts reframed as the lived road. Stages II, III, IV, VI, VII, VIII adjusted. Appendix A corrected, Appendix B rewritten from the V to VI row down, with Draft notes added to the III to IV and IV to V rows. Titles explained as trust grades. All ledger lines, stories and tables stand)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/Release Forms.md (a Release is found and mastered by fighting, sects teach the road, a rich Stage IX may have none. The window with timer bar is shown twice. Anyone at Stage VIII can have a Domain. Boost cap and blessings added. Seclusion road reworked to end in a real fight. All tables stand)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell.md (new section The Sheet and the Window. New subsection The Class the Soul Offers, with the ladder as its tier. Level by danger overcome. Titles note, monsters on the scale, Fate wording in Domains, worked Core as a cleared dungeon. Every grade, speed, class and η figure stands)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate.md (Fate as law throughout. Path stated as a route and never a class. New subsection Fate Arts and blessings. Bought Stages leave the gates shut. Drift section adjusted)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/The Color of Essence.md (aura law in three coats: Family, Wellspring, class or big Trait. Pressure then window line. A title lends no Pressure. New How the nose reads paragraph on Gnosis Perception against Resilience Ward, and hiding or faking. Crystal is the soul. Spectrum and Family tables stand)",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/The Soul and the Climb.md (hub descriptions updated)",
+   "The Concordant Crystal.md left untouched, confirmed byte-identical against a backup taken before editing"
+  ],
+  "inventions": [
+   "Class names as samples: Wallbreaker (Gerda Holt), Auditor (Mun Seo-yeon), Ferryman, Gravedigger's Friend, Last Man Standing, Reckoner, Debt Collector",
+   "Mun Seo-yeon's full sample window: Stage VI, Spirit Path, every Grade except the B Ardency already in her story, the Trait Every Column Balances at Level 44, her skills, Human of Mahuo lineage",
+   "Sample windows: Ibbet Lowe's Trait at Level 31, Corra Vell's two Release windows, a marsh drake with question marks, a Pressure line reading Focus down a Grade",
+   "Corra Vell found Kiln Skin in a culvert fight in her fifth year and Smelter's Yard over one winter of contracts and a hard teacher",
+   "What a Trait level does: a higher level presses all four offices harder and grows the Rigidity Effect along with them",
+   "Named classes are first offered at Glory, where Aether Class first emerges, and reoffered when the Shell climbs. A soul with a false account of itself finds the window declining to share that account",
+   "Bought-Stage consequences, extrapolated from each Catalyst: a bought Flourishing has no Spirit Axis, a bought Glory still pays soul-cost without knowing what went, a bought Transcendence carries the wound unprocessed, a bought Ascension still owes its first own technique",
+   "Aura shapes as examples: antlers in the glare, a door-frame around a landlady, a coil of smoke on a shoulder",
+   "Faking and hiding examples: a Moto lord banking his coat to look like a tired Stage VI, a Free Company sergeant running his aura hot, a fighter faking a tremor at half reserve",
+   "Small color: a house child taking the Welling touch off a silver spoon, a duke's daughter at a sect gate asking to be hit, lords burning villages on the rumor of a big core, great families whose fortunes improved abruptly after a war, a cooper who growls at his wife after a raw core",
+   "Hathersage now has no Release to his name, added to the goose story"
+  ],
+  "calls": [
+   {
+    "call": "Catalyst Conditions stay listed per Stage as the lived road, with Drafts and blessings as a second way to turn the same key",
+    "grounds": "The brief retires the rule that a Draft never supplies a Catalyst, and says Drafts and blessings can supply one. It does not retire Catalysts themselves, and the Stage stories rest on them."
+   },
+   {
+    "call": "No upper limit on buying. Appendix B says no shelf above Stage X, with the Drafts in vaults or made as Master Works. Zenith stays conferred by a Hollow Throne on the lived road, and whether a purse can reach it is left as an open Measurewright argument",
+    "grounds": "His answer was 'No limit, just money', while the Zenith Catalyst stands on file. R83-11 lets scholars argue, so neither was overridden."
+   },
+   {
+    "call": "Coherence and Maturity still cannot be drunk. A breakthrough Draft skips consulting them, and the soul comes out reading the same, so Path gates stay shut",
+    "grounds": "R84-6: a bought Stage opens the door and no more. The Path gate tables are left standing."
+   },
+   {
+    "call": "Attraction Path spends Attraction and Obsession Force as they already run, and Fate Path changes how they will run",
+    "grounds": "His ruling says Fate covers both forces, while the Four Paths keep Attraction as its own Path. This reading keeps both without renaming a Path."
+   },
+   {
+    "call": "Fate commitment stays recognized by what a soul refuses to let end, now read as a daily argument with what is likely. Hyeon Do-sun's gate story is the proof, and the Vow Clause stays as the most reliable instrument",
+    "grounds": "His ruling says Fate can attach to oaths and is about probability. The old 'records what happened' wording is gone, and the gate list stands."
+   },
+   {
+    "call": "Monster-core Drafts feed Traits through the existing Secondary and Passive routes, with no new Trait kinds and no Body, Soul and Fate taxonomy written in",
+    "grounds": "His later word: Traits are exactly as on file, and any ruling that reshaped them yields. The brief says do not invent new Trait kinds."
+   },
+   {
+    "call": "Release roads stay crisis, seclusion and tribulation, but seclusion now ends in proving the field against someone who means it, and 'never taught' became sects teach the road while the shape is the fighter's own",
+    "grounds": "R84-6 says found and mastered by fighting and that sects teach Releases. NATALIE keeps release forms as learned shapes."
+   },
+   {
+    "call": "Kept Prime Instructors, the Strategic Division, the Enforcement Division, the Envoy postings and Accord Standard rations on these pages. I softened only the page framing lines",
+    "grounds": "Those Divisions still stand on the staged Guild Accord pages, which another shelf holds. Removing them here would contradict that shelf."
+   },
+   {
+    "call": "Identity Contamination wording changed from 'least used' to 'most carefully counted'",
+    "grounds": "Essence Drafts from monster cores are now mainly for tempering, so Creature-Sourced stock cannot be the least used."
+   },
+   {
+    "call": "Blessings may count as outside help on the two-Grade cap, stated with a dry aside",
+    "grounds": "His batch 6 answer says they could. R84-17 keeps the cap and lets only outside help pass it."
+   }
+  ],
+  "canon_conflicts": [
+   "The Standing Index explains the Class IV shortfall by Extraction and engine work, while the law adds Crystals cut from dead practitioners. These pages say the second without denying the first. That page is on another shelf and should carry both.",
+   "Ruling text says Traits come as Body, Soul and Fate, then a later ruling says Traits are exactly as on file. I followed the later word and the brief.",
+   "R84-6 says sects teach Releases, while the old Release Forms and Trait pages said survived and never taught. I followed the law, and the shape is still the fighter's own.",
+   "The Common Drafts keeps Ladder Dust, described as pushing stats 'without a Catalyst'. That is consistent here as the dishonest use, but I have not checked that page's other Catalyst lines, which belong to another shelf.",
+   "Pre-existing and left as found: the heading says The Seven Classes while the table has eight rows counting Ø; Tier 5 Expert η and Class I Muridic loss are reported side by side on purpose; the Prose Application table in The Color of Essence has no Limina row.",
+   "NATALIE's Progression paragraph says a breakthrough meets its Catalyst by crisis, seclusion or tribulation, with no mention of the bought road. THE SHEET AND THE CLIMB governs where it differs, and I followed that section."
+  ],
+  "questions_for_isaac": [
+   "If Hataraki removes a blessing that supplied a Catalyst or granted Level, does the Stage or Level stay? I left this unsaid.",
+   "Can a Hollow Throne's recognition at Zenith be bought or blessed? It is written as an open Measurewright argument, so keep that or rule it.",
+   "Can a soul refuse an offered class, and what does the window then show? The pages say 'offered' and leave refusal unstated.",
+   "What scale should Trait levels run on? The samples use 31 and 44 with no ceiling stated."
+  ]
+ },
+ "reference": {
+  "pages_changed": [
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Magic System.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/First Steps/First Steps.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/First Steps/How Magic Works.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/First Steps/The Measures at a Glance.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/First Steps/One Exchange, Annotated.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/First Steps/The Core Vocabulary.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/Start Here.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/A Reader's Codex.md"
+  ],
+  "pages_new": [],
+  "inventions": [
+   "All sample windows use the format in the wotr-stat-line skill. Their figures and names are mine. Dunny Thrupp: Level 61 to 68, Trait Stays Tied. Wen Talley: Level 47, Stage III, Trait Hold the Rafter, skills. Garrick Vane: the six Primary Grades not on file, class Hammerhand, Trait The Forge Holds Level 34, skills Showmanship/Brawling/Footwork. Nell Ashby: Level 128 to 129, Trait Look Twice, skills Reading a Fighter and Brawling. Corra Vell: Level 196, class Yard Breaker, Trait Bank the Fire, skills, Primaries. A sample read of a Marsh Drake at T4, and a sample blessing line, The Road Remembers You.",
+   "Example class names in How Magic Works: Doorward and Quartermaster.",
+   "One Exchange, Annotated: Garrick's Resilience Ward set at B, so Nell's Perception B cannot read him and she has to estimate. His technique FURNACE HAMMER 'began as Hot Right Hand'. Both fighters dictated their windows to the Archive for beer.",
+   "In-world conceit: every window in the Archive is a copy dictated by its owner afterward, 'so allow for vanity'.",
+   "New limit on windows: a window reports what the soul has felt so far, so Garrick's names the ribs and misses the spleen ('Windows have killed men who believed them'). The law does not state this; strike it if he wants windows complete.",
+   "New story beat on The Magic System: the fish guild heir who laughed at Gudrun bought Stage VII with most of his father's fleet in Drafts and 'has never put a hole in anything'. It shows a bought Stage on the hub page.",
+   "Term 'Cut Crystal' in The Core Vocabulary, as the entry name for a Crystal taken from a dead practitioner.",
+   "Dry asides: a Grandmaster throwing soup over who built windows; 'Sabeline Oade wrote forty. Her successors could not stop.'; the Accord's old fairness argument about the Catalyst on the hub page; 'the tenth is disproportionately somebody's heir'; the Core Vocabulary epigraph for Section VII.",
+   "Display title 'Spoken, Cut, Poured and Sung' on links to The Four Crafts. The target filename stays until that shelf renames it."
+  ],
+  "calls": [
+   {
+    "call": "The first class is offered at the Threshold into Stage VI, Glory.",
+    "grounds": "R84-10 says 'at thresholds' with no Stage. The file law that Stages I to V read no Aether Class stands (the brief keeps the ladder and all eta law), and Class I emerges at Glory. So Nell at Stage V has no class."
+   },
+   {
+    "call": "The Domain wording keeps both rules: anyone at Stage VIII can have one, but the Second Release opens and powers it, so someone who bought the Stage must find that Release first.",
+    "grounds": "R84-17 and R84-6 read together with the standing line in NATALIE.md, 'the Second opens and powers the Domain', and Release Forms."
+   },
+   {
+    "call": "The Wellspring lens leaves the sheet's magnitude reading where it was, and what doubles over years of mastery is the effect of the person's Essence Typology.",
+    "grounds": "The page's law that harmonization changes what the magnitude means 'without changing the number by a single point' is not retired. The ruling says 'double the effect'."
+   },
+   {
+    "call": "'Sixty types of Aether' is kept as how the old books and scholars explain Wellsprings, under the lens lead.",
+    "grounds": "The brief says to lead with the lens and that the physics and numbers stay as how scholars explain it. NATALIE's Cultivation paragraph still uses 'types'."
+   },
+   {
+    "call": "The Stage-based Catalyst Conditions in the Codex ladder stay as what the Crystal asks for when nobody is paying. The fracturing passage about being pushed past a grade without the Catalyst is cut.",
+    "grounds": "The brief retires the no-Catalyst rule and anything resting on it, and the Stage descriptions themselves do not rest on it. Flourishing changed from 'cannot be reached alone at all' to 'asks for a genuine bond'."
+   },
+   {
+    "call": "The nine titles keep the Stage mapping only as the fighting guilds' yardstick. The Tier of Standing row in Measures is rewritten around trust in a trade, keeping all its old figures.",
+    "grounds": "The brief's Titles entry."
+   },
+   {
+    "call": "The Codex's Keth-Gorrum entry now names the Crimson Isles of Vorruk-Khal in place of the Hobgoblin Expanse.",
+    "grounds": "KINGDOMS.md and the staged inner page 'The Crimson Isles of Vorruk-Khal' use the name. The Keth-Gorrum moot and the forty-three islands stay."
+   },
+   {
+    "call": "The Marrowkin entry leads with living inside a dead god and keeps Varūn and the eight branches, with Dawi as what older people and rolls say.",
+    "grounds": "RULINGS 2026-11-05 and the staged inner page The Marrowkin."
+   },
+   {
+    "call": "The Kharven entry drops the Fall and uses the inner page's Later hand account: Muken builds the Northern Empire of Whitemere out of Kharven. I removed the fourteen-month conquest and sixteen-year figures. Ayame's Saishiki sentence stays.",
+    "grounds": "RULINGS 2026-11-05 on the Fall and on Whitemere. The Saishiki is still on file in the staged Sōhai page, and only the oaths-lapsing-in-a-coup story was struck."
+   },
+   {
+    "call": "The glossary heading drops 'Forty Terms', since the list already held 42 and grows further. The founding story's 'forty terms' stays as history.",
+    "grounds": "The page's own story says each copyist added to the sheet."
+   },
+   {
+    "call": "The live wiki/Start Here.md has an uncommitted table-pipe fix (\\| in the Turtle's Boy link), so I carried it into the staged copy.",
+    "grounds": "Otherwise the install would overwrite another session's fix."
+   }
+  ],
+  "canon_conflicts": [
+   "R84-10 and the file law 'Stages I to V are unclassed' sit awkwardly together, because thresholds occur before Stage VI. I followed the file law for the first offer; see calls.",
+   "The Fracture of Worlds and Lexicon wording on η and Class stands, and the brief keeps it. Other shelves still need the Plane of Fate and Catalyst lines matched where they repeat them. The Sixteen Stages, The Ladder and the Draft, and the Lexicon are outside this shelf, and I did not check whether they now agree.",
+   "Links still target 'The Magic System/Power in Use/The Four Crafts' because the brief keeps filenames. The final grep hits 'Four Crafts' only in those link paths. Spellcraft, Runecraft, Draftcraft, Chantcraft, Magicraft, 'records what', Stannvaard, Ketsuen, the Fall and sound words are all clear on these pages. 'Dawi' appears once, as the old name. 'Living Crafts' stays in a page title.",
+   "One link does not resolve in the staged or live wiki from my check: Start Here's [[The Scene Archive/The Turtle's Boy]]. It was already there, and the live page has it too.",
+   "Em dashes remain only in existing page titles, link targets and scene names, plus one table cell in Core Vocabulary."
+  ],
+  "questions_for_isaac": [
+   "Are windows complete, or do they report only what the soul has felt so far? I wrote the second, so Garrick's window misses his spleen. Strike it if windows should be complete.",
+   "Is Stage VI (Glory) right for the first class offer, or should Stages I to V get classes with no ladder tier?",
+   "Should The Four Crafts page be renamed? Links currently show 'Spoken, Cut, Poured and Sung' over the old path, and a rename is one find-and-replace once its shelf settles."
+  ]
+ },
+ "accord": {
+  "pages_changed": [
+   "Materials, Alchemy & Trade/Materials, Alchemy & Trade.md",
+   "Materials, Alchemy & Trade/Alchemy/Alchemy.md",
+   "Materials, Alchemy & Trade/Alchemy/Alchemetrica.md",
+   "Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md",
+   "Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy.md",
+   "Materials, Alchemy & Trade/Alchemy/The Standing Index.md",
+   "Materials, Alchemy & Trade/Alchemy/The Common Drafts.md",
+   "Materials, Alchemy & Trade/Alchemy/Prepared Tags.md",
+   "Materials, Alchemy & Trade/Materials/Materials.md",
+   "Materials, Alchemy & Trade/Materials/Hide, Horn and Bone.md",
+   "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Master Material Ledger.md",
+   "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Alchemical Index.md",
+   "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T0–T4.md",
+   "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T5–T9.md",
+   "The Bestiary/The Bestiary.md",
+   "The Bestiary/The Corrupted and the Risen/Well-spawn.md"
+  ],
+  "pages_new": [],
+  "inventions": [
+   "Essence Draft prices (The Common Drafts): five times the band a dose, for example 22½ silver at grade IV and 1,350 gold at grade X.",
+   "Vein Essence: a clean Material-Sourced Essence Draft at half effect and twice the band.",
+   "Harmonizing Draught: the Wellspring got from a Draft, at fifty times the band, with a side effect called the ground's stamp.",
+   "Breakthrough Draft price table: a hundred times the band for the Stage it carries you to, 37½ gold to reach IV up to 27,000 to reach X, no shelf above that. The name and the 'first truly ruinous at VI' come from The Ladder and the Draft and The Sixteen Stages; the figures are mine.",
+   "Dead Man's Cordial: the street name for a Draft rendered from a cut Crystal.",
+   "Monster core door prices and dose yields by T-tier (Hide, Horn and Bone): T2 7 to 20 copper, T3 5 silver, T4 22 silver, T5 9 to 30 gold, T6 170 to 500 gold, T7 wyrm 3,000 to 9,000 gold, T8 by private treaty. A house pays about a third of poured value. All of it is derived from the Essence Draft band.",
+   "A Well-spawn carries a core under the mask, so a kill can pay twice (hall on the mask, renderer on the core). A banished deep spawn takes its core down the Well.",
+   "A core keeps far longer than other carcass parts, so crews run the mask and walk the core home.",
+   "What a Kill Makes table in Hide, Horn and Bone: part to gear to what the buyer pays for.",
+   "Aunt Teeth of Hask Moor, a famous she-wolf posted in 702 at T3 and forty silver marks, T5 and three hundred gold by autumn, plum coat, new form 'Moor Tyrant', with a sample window. She appears in the Bestiary hub and Hide, Horn and Bone. Her Level 163, the Trait line Pack Hunter: Level 7, and the bookies' nine to two against the Saffron Hoods are also mine.",
+   "Bench account of the Fate Essence Draft in Alchemetrica: a charge taken to the Wedding with nothing to wed, since Conjunction runs on Attraction; poured wrong it holds Obsession Force.",
+   "The Turned Coin, a named Fate Essence Draft Master Work, by Alchemarch Hesper Vane of Candle Wharf, drunk in 688 by the Thresh horse-coper Oswin Gant.",
+   "Rendering procedure for a core in Alchemetrica: burned, taken and parted through the first Turnings, with washing that trades carry against Essence.",
+   "The Real Alchemy gained a short 'The stone' entry. It uses only sources already on the page and adds no new real-world claim.",
+   "Hunting towns line under 'Where they are sold': a rendering house by the hall, Essence Drafts a third cheaper there."
+  ],
+  "calls": [
+   {
+    "call": "The three old Class IV warrants (consented, judicial, warranted salvage) stay on the Standing Index and on the Render Stock row, but they now reach only the body's Trait tissue and never the Crystal. The monster core stands first as the lawful Crystal Draw.",
+    "grounds": "The law makes the core the lawful Crystal Draw and a cut Crystal the worst crime in every realm, and the note says to keep every row and figure. Alchemetrica already says a dead practitioner's body holds Trait tissue as passive Class IV carry, so the line falls where the file allows it. Judicial render's 'forfeiture of the Crystal' became 'forfeiture of the remains'."
+   },
+   {
+    "call": "The shortfall now says the surplus was cut from the dead. Extraction and engine work stay as lesser feeders. The Ledger's three tells stand, and residue that holds now covers cut Crystals too.",
+    "grounds": "The law says a cut Crystal is why Class IV has never balanced. Alchemetrica already files output taken from a dead donor's Crystal as the Open Shell, Grade V Mechanica, so a cut Crystal fits the never-thinning residue tell. I also filed the cut Crystal at Grade V in the Heresiology."
+   },
+   {
+    "call": "Ascension Ration keeps 'does not supply the Catalyst' on its seal, and the four advancement rows stay floor-and-seed products. The Catalyst moves to the breakthrough Draft. The general claim that no Draft supplies a Catalyst is gone everywhere on the shelf.",
+    "grounds": "This matches The Ladder and the Draft and The Sixteen Stages Appendix B as rewritten by the other shelf, which keep the ration at the floor and name the breakthrough Draft. Every remaining Catalyst hit on my shelf is product-specific."
+   },
+   {
+    "call": "The pure alchemist's hard cap at Expert is now custom, not law. A title is certified on the work and caps what its holder may make, while examiners above Expert still habitually consult Temperance, so hardly any pure alchemist passes higher. The Adept pure alchemists running benches under Grandmaster Crystal-bearers' seals stay.",
+    "grounds": "The law says the nine titles grade trust in a trade and only fighting guilds use the Stage table, so a law-level Temperance gate no longer fits a non-fighting guild. Keeping the custom keeps the Expert figure and the drama."
+   },
+   {
+    "call": "The Harmonizing Draught and the Essence Drafts sit in a new section after the old catalog. The '22 Drafts' count and the 'forty-five entries' and 'sixty-one formulas' counts are untouched, and the Alchemical Index now says why Essence Drafts are not among its sixty-one.",
+    "grounds": "The note says to keep every row and figure, and those counts are quoted on the hub."
+   },
+   {
+    "call": "Bestiary hub count goes from fifty to fifty-four creatures. Lid-crawler, Haze-kite, Stilt and Greywalker are added at the Scourge page's tiers, with a blank dry-bed row and a T1 '(none entered)' row. Scourge-born joins the Type list, filed with the Natural Beasts under protest. Well-spawn gets the breeds-true note, the Scourge exception to 'nothing native eats it', and links to Dungeons.",
+    "grounds": "These are the Scourge-born note and Well-spawn and hub needs from the Dungeons and gazetteer reports. T1 comes from The Tier Ladders."
+   },
+   {
+    "call": "'Does not migrate' on Well-spawn now reads that the line does not migrate as a herd does, though strays follow a pull far.",
+    "grounds": "The law says monsters move and live across the whole Inner World. The shallow spawn behavior on file stays."
+   },
+   {
+    "call": "Spawn power 'starts from' the ground that bred it, with Levels by killing on top. All depth tables stay as what a depth breeds.",
+    "grounds": "The law says monsters level and evolve on the shared scale. The Scourge page already warns of masks brighter than the depth suggests."
+   },
+   {
+    "call": "The T0 to T4 Dustquartz row still says 'collapsed mines of Anguz', and Chainsalt now says 'the salt country of Nalūn'.",
+    "grounds": "The brief removes these as states. The Dungeons page keeps Anguz as a collapsed dead leg with Dustquartz by the sack, and the ruling keeps Nalūn as the name of the salt country. Neither reads as a state."
+   },
+   {
+    "call": "The 'draw' in Vein Draw, Field Draw and Crystal Draw stays, with the newcomer note kept.",
+    "grounds": "The brief itself uses 'lawful Crystal Draw'."
+   },
+   {
+    "call": "The Accord's Divisions, Legion quartermasters and Concord agents stay in table rows, with the Accord and the Bench reintroduced as a coalition and its alchemists' court where they are defined.",
+    "grounds": "The note says to keep every row and figure, and the other shelf's Sixteen Stages still says 'no Division'. A full clean-up would touch forty-five rows for little gain, so I left it."
+   },
+   {
+    "call": "The grep is clean. No crafts words, Dawi, Stannvaard, Ketsuen or the Fall remain, and there are no sound words. The one 'records what' on the hub is about two registers, not Fate. The T5 to T9 validator sentence is intact.",
+    "grounds": "I ran the grep over the whole shelf at the end. Its sound regex threw false positives on bold labels, and none was a real sound word. The rust validate gate was not run, since this is staged wiki text and not a pack."
+   }
+  ],
+  "canon_conflicts": [
+   "The Ladder and the Draft says the cut-Crystal surplus is sold as monster cores, and I wrote the same. Older Hide, Horn and Bone and Standing Index rows, including Refraction Draught and Threshold products above T5, assumed human stock, and I reframed them. Gravemark Ink and Namekeeper's Thread still consume human stock under the old warrants.",
+   "Hide, Horn and Bone holds nineteen rows by my count, while the hub and flowchart say twenty and name 'the twentieth entry'. This predates my pass and I left it. I removed a stray repeated header row inside the Blood and Organ table.",
+   "The Real Alchemy still says the Dark Ages open in 690 IC, while the Dark Ages ruling superseded R63-2 on the Imperial Age. I left it because other shelves own the date and the Well-spawn and Alchemetrica openings use the same count.",
+   "Well-spawn keeps 'Some serve Malphas' on a page that could be public. It predates this pass. Flagged against the no-arc-plot rule and left as is."
+  ],
+  "questions_for_isaac": [
+   "Are the core and Draft prices right? A good wyrm core is 3,000 to 9,000 gold at the door, and a breakthrough Draft to Stage VI is 350 gold. I derived both from the threefold band, and they are easy to rescale.",
+   "Do you want the three human warrants kept for Trait tissue only, or cut entirely so the monster core is the sole lawful Class IV? I kept them because the notes say to keep every row."
+  ]
+ },
+ "items": {
+  "pages_changed": [
+   "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers.md: rewritten as Grade and Rarity (frontmatter title changed, alias The Item Tiers kept, filename and links unchanged). All four protected sentences, the nine-Tier stamp table, kind caps, costs to make and marks survive. New: two ratings, Rarity table, title caps table, monster gear, bonded gear, Master Works, relics, appraisal and forgery, sample windows.",
+   "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Bolt and the Enhanced Weapon.md: three protected sentences intact; added the bonded-weapon ceiling and Appraisal as a way to find an enhancement.",
+   "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture.md: rank token became title token (sect rank separate, forged token a hanging); Stannvaard Bar renamed Quernby Bar; new Hide, Bone and Scale entry, The crew's kit section, Core Box and Appraiser's Bag; cut civil-service wording.",
+   "Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology.md: Soul Crystal and Wellspring glosses brought to law; everyone has a window (sample window), grain sits under the skill; Waking Draft added; The Yard and the Token rewritten around nine titles as trust with a table, sect rank and title separate, Aether Class note; new section The Crew and the Commission (adventuring as a trade, shares, kill argument, crew bond, cores, parts, trade table); Paper Trades re-based on a coalition (Permit Office became Hall Desk; permits and residence entries cut); tournaments, List-Keeper and Fixer added.",
+   "Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard.md: standard made a term of signing on to the coalition; monster cores added to assay weight; worked Core gloss updated; true-hand given a window skill.",
+   "Materials, Alchemy & Trade/Work, Trade and Measure/Work, Trade and Measure.md: hub description updated and Grade and Rarity linked.",
+   "Geography & the Four Quarters/Value, Coin and Trade/What Things Cost.md: new table sections Monster Cores by Threat Tier, Essence Drafts and the Climb by Stage, and Titles; every existing figure kept; retainer table relabeled by title in a fighting guild.",
+   "Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade.md: new section What a Monster's Core Is Worth, and What a Stage Costs (core, Essence Draft, bought Stage, what money cannot reach, how the poor rise, the Crystal crime, Fate Essence Draft); Rank as Property became Title as Property with the coalition premise; rank became title throughout; succession paragraph now includes buying the heir a Stage; Nalūn described as free salt cities; vows as small Fate; Wellspring gloss led with the governing idea; core row added to the reference table."
+  ],
+  "pages_new": [],
+  "inventions": [
+   "All new prices in What Things Cost. Monster cores: T1 3-5 silver, T2 12-18 silver, T3 3-6 gold, T4 8-15 gold, T5 30-300 gold, T6 800-8,000 gold, T7 20,000 gold and up, T8-T9 not quoted. Sized against the Well-spawn mask prices and the Gate page's 'a year's wages'.",
+   "A core renders about a dozen doses at its own grade.",
+   "Essence Draft dose priced at five times the Common Drafts plain band, keeping the threefold-a-Stage law, with a course of twelve doses.",
+   "The Stage bought outright: II 20 gold, tripling to X 135,000 gold; XI and up not for sale. Waking Draft 60-120 gold.",
+   "Title fees: 2 silver, 6 silver, 1½ gold, 5, 15, 50, 150 and 500 gold, no fee for Paragon. Forged token about ten times the fee.",
+   "Hide, bone and scale sell for about as much again as the core while fresh.",
+   "Title to Rarity mapping for merchants: Initiate Common, Apprentice Uncommon, Journeyman and Adept Rare, Expert Very Rare, Master Legendary, Grandmaster and Archmaster Mythic, Paragon Unique.",
+   "Plain-language definitions of each Rarity, and Rarity moving with events while Grade stays fixed unless the piece is bonded.",
+   "Monster parts assay at about the monster's Threat Tier on the day taken, then fall; a little of the beast stays in the gear as Creature-Sourced trouble.",
+   "Master Work examples: Enough, the Greystone doorstep by Aldous Wray at Ambleford; the Cardmere dyers' red; the salt road's knot; the coast's net.",
+   "Story characters: Lord Aubrey Tancred and Jennet Fallow (bought Stage duel, Kingsbridge, Year 709); the Merry Thimbles of Pennycrown and Nan Hobday the cook.",
+   "Sample windows: bonded 'Long Harriet', an Appraisal read, Gammer Thirza's sheet, a 'Carrying: C' porter, a true-hand's Heft skill.",
+   "New trades and objects: Core-Runner, Stair-Sutler, Delver, List-Keeper, Fixer, Hall Desk, Core Box, Appraiser's Bag. A lending Grandmaster who takes a fifth of a sale.",
+   "The name Quernby Bar, taken from its existing maker Aldith Quernby."
+  ],
+  "calls": [
+   {
+    "call": "A bonded piece grows past its maker's title but stops at what its material can hold.",
+    "grounds": "X. The Tier Ladders (combined copy) calls Master Works the one standing exception to the material ceiling, and the Essence in a bonded piece is the owner's under the protected Grade ceiling sentence. So a cheap bonded hatchet hits its limit."
+   },
+   {
+    "call": "Made relics and lesser relics are both written with a Grade, a stamp and Mythic Rarity, so Slyvine's Scarf reads Relic, Proofed (Grade D), Mythic.",
+    "grounds": "R84-35 says lesser relics have a Grade and Mythic Rarity. The page's existing cost table keeps made relics at the maker's whole reserve."
+   },
+   {
+    "call": "A craft title implies the working Grade: nobody passes a smiths' guild title on a weaker hand, because the test piece goes on the coil.",
+    "grounds": "Reconciles the protected sentence on the Grade of whoever put the Essence in with titles graded by trade (the 2026-11-05 ruling on Tier of Standing as craft rank)."
+   },
+   {
+    "call": "The frontmatter title is now Grade and Rarity, with the filename and every link path unchanged and an alias for The Item Tiers.",
+    "grounds": "The task notes say the page becomes Grade and Rarity; the brief says keep filenames and links unless told otherwise. Start Here still labels the link The Item Tiers, on a page outside my shelf."
+   },
+   {
+    "call": "Divisions (Arbitration, Logistics) and the compiling-clerk voice stay; permits, residence entries and the paper-empire framing go.",
+    "grounds": "The combined Guild Accord page keeps the Divisions, and the brief says keep what fits a coalition and cut the civil-service feel."
+   },
+   {
+    "call": "The coil cannot tell a bought Stage from a lived one, and the duel story turns on that.",
+    "grounds": "R84-30 says the sheet shows the same Stage; The Gate Who May Learn Magic (combined copy) says the same of the coil."
+   },
+   {
+    "call": "Grain and the Weathering stay, sitting under the window's skill line.",
+    "grounds": "R84-36 gives everyone a skill and a sheet, and nothing retires the Weathering. Only the sentence that a skill undersells it was rewritten."
+   }
+  ],
+  "canon_conflicts": [
+   "Value, Coin and Trade says the Holy See of Lurien, while The Works and Days says the Holy Sea of Alabaster. I left both as they stood and did not resolve whether they are the same body. Should be logged in CONFLICTS.md, which I may not touch from here.",
+   "The combined Common Drafts page still states 'It has never supplied a Catalyst' and prices advancement Drafts separately. My bought-Stage prices follow the law. That page is off my shelf and may be another agent's; it needs the same fix if it is still unassigned.",
+   "Dungeons.md and Well-spawn price masks and spawn by a commission scale that does not run in step with Grade (D-Grade spawn at T3-T4). My cores follow Threat Tier as the law says, so the same animal's mask and core can look mismatched at the band edges.",
+   "X. The Tier Ladders still says 'The item Tier says what the object may hold', which agrees with this page. No conflict there, but A Reader's Codex and Start Here link labels may still say The Item Tiers.",
+   "No canon source document was opened for this pass. All figures on this shelf that the law leaves standing were kept as they were on the page."
+  ],
+  "questions_for_isaac": [
+   "Are the bought-Stage prices about right? Stage IV costs 180 gold, about two and a half clerk's years, and Stage X costs 135,000 gold. Everything scales from those two figures.",
+   "Do you want the Rarity caps as written, with Unique lawfully saleable only by a Paragon merchant? In practice that means Unique pieces change hands by gift, inheritance or death."
+  ]
+ },
+ "alchemy": {
+  "pages_changed": [
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord.md: rewritten whole. Opens on a Tollgarth fair story, then who is in it, what signing buys, signed vs sworn, circles, the board and Threat Tiers, crews, colors and feuds, and a smaller authority chart",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Dark Ages — Divisions, Companies, Academies and Offices.md: rewritten as a coalition with an old engine. Chandlers and Saddlers story, High Concordant and Great Offices kept; Divisions framed as what a coalition needs; added healers, couriers, free companies, hiring halls, feuds and the Sitting of Halls; Chantcraft removed",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path.md: rewritten. New opening story, the nine titles as trust by trade (table matches the staged Three Names page), silver token, stamps, Master Works, fighting guilds' Stage table with Threat Tiers, the paper Master; every per-Stage section and the pure alchemist bench rule kept",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Merit and Severance.md: rewritten around two payrolls, signed and sworn. Added what a hall can do to you; the Nine Laws, Merit table and redemption kept and bound to the sworn",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem.md: targeted edits. Doctrine stands; windows, the bought-Stage finding, the dead-Crystal margin note, Gnosis vs Ward, the Law of Reversal limited to the sworn",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Black Concord.md: light edits. Archivist's frame, recruited from the sworn only, Obsidian Seal and Crystal Draw gossip",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Structure and Rank.md: index text updated and links reordered",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/Seats and Arms.md: index text updated, points to the Sealed Charter heartland",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Citadel.md: frame added and sight rule agreed with the Charter page; Heart Vault read as a held dungeon; myth voice otherwise kept",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Gate Network.md: added passage by road for all members vs Gates for the sworn; fees and Strategic/Logistics rivalry added; the rest kept",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Military.md: rewritten. Three forces: free companies, a small Legion, Enforcement. Orders, Codex Protocols, Spirit Armory, Oaths, Wars of Wells and heroes kept",
+   "Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity.md: targeted edits. Coalition opening, Title III renamed Of the Trades, new Title VII Of Standing and the Token (Articles XXIX to XXXIII), Arbitration and Trials note; all old Articles and the seven polity forms kept",
+   "Factions, Bloodlines & Institutions/Factions at a Glance.md: rebuilt. New coalition group, Center realms and warlords, Holy Sea, Marrick, Corwen, hobgoblin states, the Turn, Whitemere in the later hand, Marrowkin, Loom and Wellspring glosses updated, Ranks section rewritten; Zettari and Kushara rows unchanged in wording"
+  ],
+  "pages_new": [],
+  "inventions": [
+   "Two kinds of membership: signed (wax, a hall's charter, needs no Crystal, can be left) and sworn (a Crystal fragment in the Lattice, cannot resign). The Lattice laws, Trials, Gates and Black Concord reach only the sworn",
+   "A hall may sign alone and gets rank, courts and road; a circle is a country's halls and crown signing together, and only there do the Articles bind as law",
+   "The Sitting of Halls: Guildlords chosen by a territory's halls, meeting at Sealhall after the Veyra's Day fair, with no vote the Council must count, but able to withhold the hall-fee (done once over seal charges). Guildlord is redefined as the halls' delegate",
+   "The hall-fee, due each quarter day",
+   "New guilds and halls: the Long Rope (Sealhall, yellow, knotted belts, works the Tail), the Red Caps (Verath), the Company of Leeches and Bonesetters called the White Aprons, the Long Relay (couriers in yellow), the beacon wardens as a guild, the Scarlet Tally, the Nine-Fingered Company, the Scriveners of the Long Bench, the Worshipful Company of Drafters as a full guild name, the Salters",
+   "New people and tales: the Nine Bad Ideas crew at Tollgarth in 709 (using Queen Tizz Copperwick from the staged Midmarch page), Mistress Annis Fellowe at the Thornbank ferry in 702, the example bounty the Widow of Lastpenny Ford",
+   "Crew rating: a crew's seal color follows its lowest named title, with one member carried a title below on the bond at a smaller share, called the luggage",
+   "The Wall: each adventurers' hall chalks its crews in order of what they cleared. The Accord's Roll follows R84-31",
+   "Slang: paper Master, for a bought Stage with no Release",
+   "Token detail: numeral on one face, hall's mark on the other, a dab of hall wax at the edge. Silver token and hanging come from the staged Three Names page",
+   "Title VII of the Articles: XXIX De novem titulis, XXX De fide artis, XXXI De signis et raritate, XXXII De tabula, XXXIII De falso nummo, written as forced in by the Sitting",
+   "Legion size: seven Legions on the roll, about forty thousand on paper, two at strength on any morning, with the Fifth carried as a name",
+   "Free companies are signed and rarely sworn, so the Law of Witness and Law of Reversal do not reach them, and a coalition could fight a war of conquest by contract. Flagged on the page as an open point",
+   "If the High Concordant dies unsucceeded, signed tokens stay good and everything sworn fails",
+   "Feuds: White Aprons vs Drafters over the wound Draft; Long Rope vs Red Caps over first bell at the Tail (claim dated Year 640); cutters, pourers and singers as the remnant of the old crafts' ranks; a yearly brawl at the Engravers' feast",
+   "White Aprons' free bench one morning a week; a hall's patronage of promising poor recruits for seven years",
+   "Hooks: the fee strike, and light silver tokens from a salt-road hall",
+   "A sample sworn-oath window on the main Accord page",
+   "Scholars' rival readings of the Lattice: a Wellspring lens, a very old contract, or a debt",
+   "Gossip tying the Obsidian Seal to the unbalanced Crystal Draw, given only as tavern rumor",
+   "Heads and details on Factions rows drawn from staged realm pages, and two rows with no named person: 'The Drop' for Caelward (its head's name was cut off in my grep) and 'The Dyers of the Kingfisher Steps' for Corwen"
+  ],
+  "calls": [
+   {
+    "call": "Kept the Divisions, High Concordant, Citadel, Lattice, Black Concord and Legion as an old engine the guilds signed on to, rather than cutting them",
+    "grounds": "The brief says keep Codex, Lattice, law and history where they fit a coalition, and the staged Sealed Charter page names all of them (Envoy, hard hand, long table, Logistics swing, Legion, High Warden, Null Wardens). Agreement with that page was required"
+   },
+   {
+    "call": "Used the title and Rarity table from the staged The Standing and the Title page word for word, and its silver token and hanged forger",
+    "grounds": "Another agent had already fixed the mapping of nine titles to seven Rarities; a second table would conflict"
+   },
+   {
+    "call": "Kept the pure alchemist cap at Expert unchanged",
+    "grounds": "R61-102 and rulings C-136 and C-142 stand, and R84 did not retire them; Isaac's ruling reads a maker's Tier of Standing as a craft rank"
+   },
+   {
+    "call": "Kept the word 'trades' and the register phrases 'the writing', 'the pouring' and 'the cutting' in the Articles, explained as runes, tags and Drafts",
+    "grounds": "The law removes the named crafts as categories, not the Latin of an old formulary; Title III is renamed Of the Trades and the five craft names are gone"
+   },
+   {
+    "call": "Kept the Great Offices (Grand Mage, Alembic, Engraver, Gauger) and the Precentor as they stand, with the old rank quarrel as a guild feud",
+    "grounds": "The brief allows old craft ranks to survive as feuds at most; the offices are appointments, not craft categories"
+   },
+   {
+    "call": "Tollgarth's ruler in my story is Queen Tizz Copperwick, not a toll-king",
+    "grounds": "The staged Midmarch page holds Tollgarth under Tinker Goblin queens for three generations. Dungeons.md says 'toll-king at Tollgarth' for 708; that page is not mine, so I left it"
+   },
+   {
+    "call": "Named the Northern Empire of Whitemere in Factions at a Glance only in a later-hand note, without saying who builds it",
+    "grounds": "The shelves stand in Year 715, the Charter page uses the same device, and the brief bars arc plot on public pages"
+   },
+   {
+    "call": "Left archaic Codex quotes that use the 'not X, it is Y' shape where they are in-world engravings (for example the first Gate's inscription), and fixed the old-doctrine ones I touched",
+    "grounds": "They are quoted inscriptions rather than narrator prose; the ban is written for new prose"
+   }
+  ],
+  "canon_conflicts": [
+   "Staged Sealed Charter page says 'the Amber Cities of Nalūn' and mentions the older rolls placing the water clock at Stannvaard. I did not touch it. It is within the 'old rolls' framing, but it is the one Stannvaard mention near my shelf",
+   "Staged Dungeons.md says 'the toll-king at Tollgarth' in 708, while the staged Midmarch page has Queen Tizz Copperwick's line holding it for three generations",
+   "The inner copy of The Powers of the Dark Ages says the Accord has no instrument binding in Kharven, Kharven has no working crown, and the Accord is 'a communion of guilds' focused on hunters. That conflicts with the first circle signed at Kharven-Seat and the coalition law, and it is not in my shelf or in combined/wiki",
+   "Practitioner Problem says a Trial of Resonance can read a captured practitioner, while the Trials are now said to bind the sworn. I reconciled this on the Articles page as 'short of a prisoner held down under a Sealwright's hand'",
+   "Old text says the Citadel is visible only to those bound to the Lattice and also 'to mortals, a crystal spire'. Fixed in favor of the Charter page: the sworn see the spire, everyone else sees weather",
+   "Tiered Path old text had the first true Domain at Transcendence; R84-17 says anyone at Stage VIII can have one. Transcendence is Stage VIII, so I restated it to the law's wording"
+  ],
+  "questions_for_isaac": [
+   "Is the signed vs sworn split what you want? It lets a merchant with no Crystal belong while keeping the Lattice's soul-bound law, and it is the biggest call on this shelf",
+   "Do you want the Sitting of Halls, a guild voice with only the power to withhold fees, or should the coalition have a stronger or different governing body?",
+   "Free companies escape the Law of Reversal because they are not sworn, so the Accord could in effect wage war by contract. Keep that loophole?",
+   "The Legion: is about forty thousand on paper and two Legions at strength small enough, or should it shrink further?"
+  ]
+ },
+ "new1": {
+  "pages_changed": [],
+  "pages_new": [
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/Aether Classes.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/Windows and the Sheet.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/The Soul and the Climb/Skills and Trait Levels.md"
+  ],
+  "inventions": [
+   "Aether Classes: Bess Tolliver, the Unforded, and the Threeways story. Her Thaloré ford working (hydrostatic pressure on the shins only), the price (she cannot cross running water, her mother is on the east bank), the king of Pennycrown's nineteen crossings, and her moves Keep Off, Wake Cut, Standing Water and NOTHING CROSSES.",
+   "Aether Classes: Pole-Hand as Tier I under Riverblade, since the questionnaire sample starts at Tier II. Old Latch of Chainbridge, a second Riverblade whose concept is doors, with the move Latch-Lift.",
+   "Aether Classes: the regional class names, all new except Riverblade, Floodbreaker, The Unforded, Toll-Breaker, Oath-Hand, Stormblade and Bone-Reader (questionnaire samples). New: Winter Porter, Pass-Carrier, Last Load; Sekimori, Kimonban; Ridge-Caller, Gale-Over-All; Chain-Thief, Free Water; Word-Kept, The Lord's Last Promise; Rib-Tallier, Full Count; Whale-Caller, Long Water, The Call Comes Back; Contract Hand, Fine Print, Nobody Reads It; Turncoat, Kingmaker's Errand, The Last Loyal Man of Pennycrown; Misfire, On Purpose; Gravemoss, Second Spring; Both Armies' Physician, The Dose Is the Argument; Reads the Wind, Says Which Way It Blows; Nobody's Dog, Off the Roll, Nobody Owns This; Yeombu, Yeomwang; Xiàngmǎ, Reads Men Too; Third Rank, Second Rank, Held the Ford; Mizumori, Still Surface; Line-Holder, Mandate's Hand; Siegebreaker, Gentle Hands; Coward's Patience; Well-Attended, Second Son, Patient of Many Doctors.",
+   "Aether Classes: the 'How the names tend to read' column on the ladder table (job, job with violence, reputation, person, place or law, absence). The page labels it a habit, not a rule.",
+   "Aether Classes: inked class charts sold at fairs that predict nothing, and sect classes clustering because students share a life.",
+   "Windows and the Sheet: Dagny Thorn the Bad Debt, Seo Min-ho, the Waxgate Sweepstakes at Sealhall and the unnamed Measurewright in the stands.",
+   "Windows and the Sheet: King Aldous Fenn of Pennycrown and his blessing 'You will not be unseated', which traps him on his horse and then his throne. Hanne Oster the baker, the retired spearman at Tollgarth, the crew The Wet Sevens, the bound marsh-spirit Old Sorrel, and the Domain name THE WHOLE SHIFT.",
+   "Windows and the Sheet: the slang for reading your window (checking the bill, takes the tally, read their own file, counting his brothers).",
+   "Windows and the Sheet: a Marrowkin window's line order and the sample oath-breach terms ('every chance goes against you until it is unsaid').",
+   "Windows and the Sheet: the Null, Author and Mirror schools on who built the window, the old being who asked what a window was, and each faith's answer as worded. The Hallenfeld and Golden Hollow six-summer war over children reading windows aloud (about 11,000 dead), and the Concord Bench's four-year perjury case.",
+   "Skills and Trait Levels: Marta Kell the butcher, Captain Gorr Ashtooth, later Ashtooth One-Arm, and Tripe Row at Tollgarth. Every sample skill sheet, and the skill-names Being Shouted At, Spending and Lying to Elders.",
+   "Skills and Trait Levels: the rough table of what each skill letter means, and the claim that the Archives list three EX+ claimants.",
+   "Skills and Trait Levels: the four schools of placing points (feed the peak, patch the hole, pay the register, save the gate), and house retainers who stand behind an heir at a Draft to tell him where to place."
+  ],
+  "calls": [
+   {
+    "call": "Read 'the three examples' as Riverblade, Floodbreaker and The Unforded, and also used the other samples (Riverblade, Toll-Breaker and Oath-Hand as a threshold offer; Stormblade and Bone-Reader; the Exuroth aura read).",
+    "grounds": "No examples are stored in imports/drafts/magic-system-questionnaire/: questions.json is a stub and answers.json has none. I recovered them from the question previews in this session's transcript. questions.json calls the samples 'not canon'; they are used because the task asks for them."
+   },
+   {
+    "call": "An offer may carry one name or several and the owner chooses. An unanswered offer keeps the old name at the new tier and goes on waiting. A class cannot be swapped between rungs.",
+    "grounds": "The sample he approved ends '[Choose.]', and he declined the options 'You can change class' and 'Set trees'. The waiting offer is my addition."
+   },
+   {
+    "call": "The coil reads a class's tier but never its name, and does not read blessings. Only a stronger Gnosis read or the owner's word gives the name.",
+    "grounds": "The instrument line on The Measures at a Glance prints only 'Class I Muridic', and windows are private. This is what makes bragging and lying about class possible."
+   },
+   {
+    "call": "A class gives skills, a small lawful ability, an easier road to certain moves, a lean in where life spends points, and an aura shape. It adds no Grade, does not lift the two-Grade cap, and opens no Release or Domain.",
+    "grounds": "R84-10, R84-21 and batch12 say it gives abilities, skills, shapes moves and growth. The 'never gives' list follows from R84-6, R84-17 and the boost cap."
+   },
+   {
+    "call": "A bought Stage opens the offer, but the offer still reads the life, so heirs get names like Well-Attended. A bought Stage's Threshold points land by the life actually lived.",
+    "grounds": "R84-10 says the class fits how the person has lived. Fracture of Worlds Part Three gives the Threshold landing terms. R84-6 says a bought Stage opens the door and no more."
+   },
+   {
+    "call": "Skills have no Stage ceiling, and a skill's Grade adds no force.",
+    "grounds": "R84-42 allows EX trade skills with no Stage. The ceiling law binds Sub-Stats only, and the force tables read stats. Marta Kell's fight also honors 'they usually still lose'."
+   },
+   {
+    "call": "Points left to place show on the window as a bar, not a count, and placing is done by thought. No figure is set for the owner's share.",
+    "grounds": "R84-2 limits windows to Grades, percentages, bars and levels, and the law says only 'a few'. Fracture of Worlds says no one's window shows raw values, so inventing a share would be a new number."
+   },
+   {
+    "call": "A Trait does not show on an unwoken person's window. It works unlisted, then appears with a level already on it at waking. Ibbet Lowe's window read Washing and nothing else before Tub Lane.",
+    "grounds": "R84-40 lists Level, trade skills and health for commoners, with waking opening the rest. The Trait System says Dormant souls carry Traits and refine by the Weathering."
+   },
+   {
+    "call": "Work done under real weight moves a skill faster than idle practice.",
+    "grounds": "This extends R84-4 (danger moves Level) to skills by analogy. R84-8 says only that skills rise with use, so he can strike it."
+   },
+   {
+    "call": "Left out per-Stage η tables and points to the Shell page instead. The ladder table carries only the class-level loss figures, unchanged.",
+    "grounds": "The disputed Expert figures should not be restated on a new page, and the law keeps all η figures standing."
+   }
+  ],
+  "canon_conflicts": [
+   "R84-40 says no class until waking, while the staged Tier Grade and Fracture of Worlds Part Seventeen pages say the first offer comes at Glory, Stage VI, with Stages I to V unclassed. I kept both: waking opens the window, and the first offer waits for Glory.",
+   "Expert η differs by source: .claude/skills/wotr-stat-line/references/fow-anchors.md has 0.50 to 0.60, and the staged Tier Grade page has 0.60 to 0.70 alongside Class I Muridic. I did not touch or restate either figure.",
+   "The Trait System page says 'half a century' and also 'forty-one years' for Ibbet Lowe's clean linen. It predates my work. I used forty-one years for the linen and 'half a century' for her window."
+  ],
+  "questions_for_isaac": [
+   "The Soul and the Climb hub needs three links, which I did not add because I was told not to edit it. All three resolve: `[[The Magic System/The Soul and the Climb/Aether Classes|Aether Classes]]`, `[[The Magic System/The Soul and the Climb/Windows and the Sheet|Windows and the Sheet]]`, `[[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]]`. Suggested one-liners: 'What your soul thinks you are, and what it hands you for it'; 'The soul's private report, and everyone lying about it'; 'What rises by doing it, and the few points that are yours to place'. wiki/INDEX.md will also need the three pages at merge.",
+   "Do you want a fixed figure for the stat points placed at each Stage? The law says 'a few', so the page shows only a bar and leaves it unset."
+  ]
+ },
+ "new2": {
+  "pages_changed": [],
+  "pages_new": [
+   "imports/drafts/wiki-rewrite/combined/wiki/The Magic System/Practice and Institution/Blessings and Curses.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/Materials, Alchemy & Trade/Alchemy/Monster Cores.md",
+   "imports/drafts/wiki-rewrite/combined/wiki/Materials, Alchemy & Trade/Alchemy/Master Works.md"
+  ],
+  "inventions": [
+   "BLESSINGS: written vs poured blessing as the trade's two kinds (written goes through Fate, moves no energy, outlives its author unless the terms say otherwise; poured hands over real Essence or law and usually dies with the giver).",
+   "BLESSINGS: a person needs about three Stages over the receiver for a thumb to hold, tied to the distance where Pressure starts dropping people; the giver's cost table by Stage gap.",
+   "BLESSINGS: a thumb shows as a ribbon of the giver's hue in the aura, or a warm mark on the unwoken. A blessing can wake a Crystal (the waking row). Consent is optional for a giver far enough above you.",
+   "BLESSINGS: Wording Row at Waxgate and the wording-men; the Waxgate assize's split rulings on swearing honestly to a lying line.",
+   "BLESSINGS: the ways a line lies (omission, flattery, false name, false number, later rewriting, no line at all), and the named clauses (rider, collection, heir clause, exclusion, fence, appetite, plain wording).",
+   "BLESSINGS people and stories, all past generations: Dickon Sedley the pie man, Dame Rohese Vaske, King of Little Tolland (661 to 692), Moto Tokiwa the remover; Sabra Haldane and the Good Intent (a story on the existing Tide-Mother line); Piers Aldane (a story on the existing The Road Remembers You line); the Averills of Sheafton; Captain Thorold Gatty's company at Sorley Bridge, tied to the Long Barrow; Selwyn Hay; the Undying Year at Cold Harrow, Year 388, Annot Lorne; Magister Ysolde Corbet's dice demonstration.",
+   "BLESSINGS: how Hataraki removes one, as reading (Work of Knowledge), naming, and discharge (Work of Ruins or Work of Purity); the taken-back vs removed distinction; what falls when a thumb comes off. Built from the public Hataraki page's Works, cost and counter lines; no canon source states the procedure.",
+   "BLESSINGS: the Fate Path can and cannot table beyond what the Four Paths page states: giving cleaner blessings, needing a true claim before moving odds, working over days and years below the very top, not being able to remove another giver's line.",
+   "BLESSINGS: culture words kago, noroi, gaho, jiachi (real words, assigned here).",
+   "MONSTER CORES: the mechanism of a beast with no Shell laying down Essence as bands, like tree rings; the anatomy table for where the stone sits by kind of beast; deep spawn must be killed with the mask whole to keep the core.",
+   "MONSTER CORES: sizes by Tier; the decay table and storage rules (salt and cold double the times, heat halves them, own-Family ground stops the fade, opposed ground doubles it, skin contact leaks); stale stones keep their carry while losing Essence; gray stones go to the ward trade; the skin-against-bulk Measurewright account; the T8 at Sealhall putting on weight.",
+   "MONSTER CORES: heavy, house and light lots with dose counts by washing; the Identity Contamination table by dose count; what each beast's stock brings; the raw-core odds (about 70 dead, 20 wrong, 10 whole of a hundred) as the Verath hall's count; crew share custom.",
+   "MONSTER CORES people and stories: Grandfather Rent the T7 wyrm, the Saffron Lamps, Nem the Bearkin porter and the safe-conduct made out to the rope (677), her inn in Brokencollar; Hob Wendle of Rimward; Sister Wenlyn Oake; Tib Hask.",
+   "MONSTER CORES: dressers, paste men, night-cutters, stone-reeves, tally-men, core-boys and factors as trades; the armed wake; penning, meaning raising a beast in a pit to level it for its stone; most realms hanging for an unchitted raw stone above T4; culture words Tamashii-ishi, Hon-seok, Yaodan.",
+   "MASTER WORKS pieces and makers, all past generations: The Last Lid (Mother Spragg, siege of Pennycrown 672, Ser Lucan Vaye), Majimak Mal (Gang Deok-su), Twice Shy (Hanne Flint), Apology (Ivo Marsh), The Standing Red (Marget Loy, naming the existing Cardmere red), Dunn's Hitch (Mabry Dunn, naming the existing salt road knot), The Patient Net (the existing coast net named), Kindly (Annis Lark), Grandmother (Berta Sowle), The Spare (Tam Ashlock), The Last Verse (Ailith Moor), The True Book (Sorrel Dane), Still Warm.",
+   "MASTER WORKS: most makers die within the year and the rest make only ordinary excellent work after; no maker knows in advance which piece is the one; old-maker's pensions; the grain-as-carry account and Magister Rule's failed predictions.",
+   "MASTER WORKS: the five reasons a Fate Essence Draft is hardest (no Wellspring, no boundary on odds, the maker's wanting goes into the vessel, the double walk of Conjunction, no possible test). The first and fourth extend what Alchemetrica already says; the rest are mine.",
+   "MASTER WORKS Fate lots and the dead: Nine Mornings (Ishbel Tarn), The Even Hand (Wen Baozhi), Bram Sedley at Cutwall, Perpetua Hale on Cobblers' Row, the Carmine Twins, Tobias Wyke, House Morrow and the War of the Stoppered Inch (naming the existing line in The Item Tiers).",
+   "MASTER WORKS: Aldous Wray stayed a Journeyman, Mother Spragg an Apprentice, Goodwife Lark held no token; culture words saigo no shigoto, yujak, juezuo."
+  ],
+  "calls": [
+   {
+    "call": "Core prices and doses on Monster Cores follow What Things Cost: T1 3 to 5 silver up to T7 20,000 gold and up, about a dozen doses at its own grade.",
+    "grounds": "NATALIE.md names What Things Cost as the price table, and the staged Value, Coin and Trade agrees with it. Staged Hide, Horn and Bone disagrees (see canon_conflicts)."
+   },
+   {
+    "call": "The Stage each Tier serves is taken from The Tiered Path: T5 serves V to VII, T6 VIII to X, T7 XI and XII, T8 XIII and XIV, T9 XV and XVI. Rarity by Tier comes from the same table, so a merchant's cap applies to stones.",
+    "grounds": "The Tiered Path's title table, which also matches the What Things Cost note that a T5 runs across three Stages."
+   },
+   {
+    "call": "A house pays between a third and a half of the poured price.",
+    "grounds": "That is what the What Things Cost door prices work out to against its course prices, and the range also covers the one-third figure on Hide, Horn and Bone."
+   },
+   {
+    "call": "A blessing's Grade counts as outside help and may go past the two-Grade cap.",
+    "grounds": "R84-17 plus answers.json batch6 ('blessings could count as outside help')."
+   },
+   {
+    "call": "Written Fate lots count as Mythic rather than Unique, as one family of Master Works.",
+    "grounds": "The Item Tiers says a handful exist at any time, and the law allows Unique or Mythic."
+   },
+   {
+    "call": "Cold Harrow names no Archon or Epoch, and the Archives decline to name the giver.",
+    "grounds": "Archons are fixed and never invented (R79-11), while R84-27 wants the world-shaking example on the page."
+   },
+   {
+    "call": "The Turned Coin keeps its 'forty-one years' and I left its year off my page.",
+    "grounds": "To avoid repeating the date problem listed in canon_conflicts."
+   },
+   {
+    "call": "No hub or index was touched, so the three new pages are not yet linked from Practice and Institution.md, Alchemy.md, wiki/INDEX.md or any other page.",
+    "grounds": "The brief says other agents hold those shelves and to touch only my own files. The merge step needs to add the links."
+   },
+   {
+    "call": "No main-cast material appears: Muken and his art are not named, and no carded character is used except by public family name (Moto).",
+    "grounds": "The task's limit to public material and past-generation figures. Candidate surnames were checked against wiki and scenes, and the ones that collided were swapped."
+   }
+  ],
+  "canon_conflicts": [
+   "Core prices: staged What Things Cost and Value, Coin and Trade give T1 3 to 5 silver, T4 8 to 15 gold, T7 20,000 gold and up, about a dozen doses. Staged Hide, Horn and Bone gives T1 nothing, T4 22 silver, T7 3,000 to 9,000 gold, doses from 1 to 20 by Tier, and a house paying a third. I followed What Things Cost; Hide, Horn and Bone needs conforming, including its wyrm core paragraph.",
+   "Bought Stage prices: What Things Cost gives IV at 180 gold and X at 135,000. Staged The Common Drafts gives IV at 37.5 gold and X at 27,000. My pages quote neither, but the two need reconciling.",
+   "The Turned Coin: Alchemetrica has it drunk in 688, with Oswin Gant living forty-one more years, so he dies in 729. Other staged pages sit around 702 to 719 (the Tiered Path's 702, Hollowhay booked until 719), and his death is told as past. Alchemetrica's date probably needs moving back.",
+   "The Hataraki page lives in wiki/ and has no staged copy under combined. It says nothing about blessings, while the law and the staged pages say Hataraki removes them. My method is built from its public Works, and that page should gain a line linking to Blessings and Curses.",
+   "The Dungeons link on the three pages resolves only through imports/drafts/wiki-rewrite/inner/wiki/The Bestiary/Dungeons.md, because that page has no copy under combined yet. It must land with the merge."
+  ],
+  "questions_for_isaac": []
+ },
+ "cross": {
+  "fixed": [
+   "Rarity caps now agree. Three pages disagreed with the other three. The Item Tiers, The Works and Days and What Things Cost now use the table on The Standing and the Title (also used by The Tiered Path and Monster Cores): Initiate and Apprentice Common, Journeyman Uncommon, Adept and Expert Rare, Master Very Rare, Grandmaster Legendary, Archmaster Mythic, Paragon Unique. I chose it because Dame Ottilie's story (Grandmaster, 'short of a Mythic piece') depends on it. Also fixed The Tiered Path's false Master, who was selling above his cap.",
+   "Monster core prices: Hide, Horn and Bone now follows What Things Cost and Monster Cores. T1 is 3 to 5 silver, T7 is 20,000 gold and up, any core renders about a dozen doses, the Stage mapping is T5 V to VII, T6 VIII to X, T7 XI and XII, and a house pays a third to a half. The wyrm paragraph was rewritten to match.",
+   "Bought Stage prices: The Common Drafts now uses What Things Cost, 20 gold for II up to 135,000 gold for X. The table now shows course and bottle together and has rows for II and III. The multiplier sentence now reads about five hundred times the band, with the course about an eighth. Stage VI now reads 'a clerk's working life'.",
+   "Restored a law the new law left standing: Alchemetrica had turned the pure alchemist's Expert cap into mere custom. It again states the bench certification up to Expert and no higher, which agrees with The Tiered Path and Fracture Part Twenty-One (R61-102, C-136, C-142).",
+   "Date error: Alchemetrica had the Turned Coin drunk in 688 with forty-one more years of life, which ends after the present year of 715. Moved to 661.",
+   "Name collisions fixed. Aubrey Vane is now Rafe Tressilian. Hesper Vane is now Hesper Ludd (she shared a surname with Garrick Vane). King Aldous Fenn is now King Godric Fenn. Ivo Marsh is now Ivo Marl (Ottilie Marsh). Hanne Flint is now Greta Flint (Hanne Oster). Bram Sedley is now Bram Hurst (Dickon Sedley). Sorrel Dane is now Merrin Dane. Saffron Lamps is now Copper Lanterns (the Saffron Hoods already exist). All replacements were checked against wiki/, scenes/ and inner staging; 'Godric' and 'Rafe' each already appear once elsewhere as given names, which I judged harmless.",
+   "Name order: Moto Tokiwa is now Tokiwa Moto, matching Sodoku Moto and Muken Moto. Mun Seo-yeon's 'Mahuo lineage' is now 'Sum-gol lineage' on Windows and the Sheet and the Tier page, so a sample fighter does not claim the great house's blood.",
+   "Old law removed: the Lexicon's 'Sigilcraft' entry is now 'Inscription' (the brief says not to leave the words behind). 'Holy See of Lurien' is now the Holy Sea of Alabaster in Value, Coin and Trade and both Material Indexes, on the RULINGS line that the Holy Sea replaced it. Lurien's Hearthvine stays as an artifact name. The Heresiology's Wellspring gloss now leads with the idea. 'In print' on Windows and the Sheet and 'printed' on Hide, Horn and Bone were removed under THE TEST.",
+   "Main cast: trimmed the Reader's Codex later-hand note so it no longer narrates Muken making the crown mean the whole north and going on past it. It now says Kharven later stands as capital of Whitemere. Removed the authorial line about Cozbi's refused vow from the public Field Manual and kept the law without his name. Zettari, Kushara and other creators' rows are unchanged from live; I checked this with the table diff.",
+   "Terms and labels: The Seven Classes headings on the Tier page became The Tiers of Aether Class, matching Fracture Part Seventeen, and no anchors point at the old heading. Every link label reading 'Spoken, Cut, Poured and Sung' now reads The Working Trades, and every 'The Item Tiers' label reads Grade and Rarity. Stacking and Spending now lists a blessing's Grade as outside help, matching Release Forms and Blessings and Curses. The Magic System hub's Standing line no longer says 'why only the third one is real'.",
+   "Hub and cross links added in staged files. The Soul and the Climb hub and The Magic System hub now link Windows and the Sheet, Aether Classes and Skills and Trait Levels. Practice and Institution and The Magic System link Blessings and Curses. Alchemy links Monster Cores and Master Works. Backlinks added from Hide, Horn and Bone, The Common Drafts, The Item Tiers, The Four Paths and The Bestiary.",
+   "Verified with no change needed. All 12 protected passages are present after normalizing bold and blank lines, and they match live; The Concordant Crystal is byte-identical. All wikilinks resolve except the one already broken (see unfixed). No numeric figure on any changed page was lost from live. Headings and rows that changed were checked: the Sigil table, the five Commission classes, the commission procedure and the fighting guilds' Stage table all survive in their rewritten form. Plane of Fate wording, the Class first offer at Glory, Wellspring doubling, the boost cap and windows (no EU, AU/s or η on any window line added) all agree across pages. Greps of added lines found no onomatopoeia, full plate, pike as a weapon, guns or Paths-as-classes. New-prose em dashes appear only in link targets and titles, table placeholders and the required Sub-Stat lines. No British spelling was found, and the page openings vary in shape. The three 'not X. It is Y' hits are pre-existing or quoted Codex lines."
+  ],
+  "unfixed_problems": [
+   "wiki/INDEX.md is not staged. It needs six new entries at merge: Aether Classes, Windows and the Sheet, Skills and Trait Levels, Blessings and Curses, Monster Cores, Master Works. That is the only hub link still owed; every staged hub now has them.",
+   "wotr-mcp validate has not been run. It reads wiki/, not staging, so it must run at merge.",
+   "Scope gap outside this staging: 83 live pages not in combined still use the crafts' names (most Disciplines technique and spoken-art pages, Accord Latin with 16 hits, Pack Twenty, some Artifacts). Seven or eight live pages say Dawi and need the old-name framing checked. The Powers of the Dark Ages (live, unstaged) still reads 'a communion of guilds', and its inner copy says the Accord has no binding instrument in Kharven. The live Hataraki page has no line on blessings; add a link to Blessings and Curses.",
+   "Not fixed because they are not staged: Dungeons.md says 'the toll-king at Tollgarth' in 708, against Queen Tizz Copperwick's line on the Midmarch page. Start Here's link to The Scene Archive/The Turtle's Boy resolves nowhere; it is already broken live.",
+   "Kept as they stand: Well-spawn's 'Some serve Malphas' on a public-facing page is pre-existing, and you said Malphas waits, so I left it. 'Bureau' on The Derivation of Practice has 40-odd uses, is pre-existing, reads a little modern, and is built into that page's opening story. Hide, Horn and Bone counts nineteen rows while its hub says twenty. The Real Alchemy's 690 IC line stays. The Trait page's 'half a century' and 'forty-one years' for Ibbet Lowe stay.",
+   "NATALIE.md still says 'Chantcraft is the fifth craft' and 'Sigilcraft'-era language in THE MAGIC FRAME, and its Progression paragraph omits the bought road. THE SHEET AND THE CLIMB overrides those lines, but the prompt should be cleaned. I may not edit it from this step.",
+   "Canon source files (Fracture_of_Worlds.md and the like) still carry the retired Catalyst sentence and the old Fate wording. Staged pages follow the law. These should go into CONFLICTS.md and a log_ruling, which this step may not write: the Lurien replacement, the Rarity mapping, the alchemist cap, and first class offer at Glory.",
+   "'A Grandmaster merchant may not be able to throw a punch' repeats nearly verbatim on about a dozen pages. It is the law's own phrase, so I left it, but it reads as a stock line across the shelf."
+  ],
+  "not_read_closely": [
+   "Read in full: Aether Classes, Windows and the Sheet, Blessings and Curses (long paragraphs cut off at the line end).",
+   "Read in part: Monster Cores, most of it. The Ladder and the Draft's new sections. The title and price sections of The Standing and the Title, The Tiered Path, The Item Tiers, The Works and Days, What Things Cost, The Common Drafts, Hide, Horn and Bone, and Value, Coin and Trade. The sample windows in The Measures at a Glance and The Magic System.",
+   "Skills and Trait Levels: first third only. Master Works: greps only, and a planned skim did not reach it.",
+   "Checked only by mechanical diffs and greps (figures, table rows, headings, retired terms, cast names, spelling, sentence-overlap against live), never read as prose: A Reader's Codex; The Core Vocabulary; How Magic Works; One Exchange; all ten Fracture parts; The Sixteen Stages; Tier Grade; Release Forms; The Color of Essence; The Four Paths; The Trait System; all eight Family pages and the Families hub; Two Sets of Books; Parun pages; Glyph Index; The Four Crafts (The Working Trades); Runes and Tags; Reinforcement; Counterplay; The Gate; The Derivation; Training and Sects; Who Pays for the Lamp; Mechanica; On Walking Into the Current; Lexicon; Magical Categories; Field Manual; Working Vocabulary; Disciplines hubs; the Accord pages other than the title tables (The Guild Accord, Divisions, Merit and Severance, The Practitioner Problem, Black Concord, Citadel, Gate Network, Military, Articles); Factions at a Glance; Alchemetrica; Heresiology; The Real Alchemy; The Standing Index; Prepared Tags; Material Ledger and Indexes; The Apparatus of the Age; Weight and Measure; The Bestiary; Well-spawn.",
+   "Gray-register and repeated-opening review was a grep plus a list of changed openings. No page outside those named above had a prose pass for tone."
+  ],
+  "questions_for_isaac": [
+   "Is the Rarity table right? I settled all pages on Grandmaster Legendary, Archmaster Mythic, Paragon Unique, with Unique almost never lawfully sold. It is an agent's draft and sits in six tables.",
+   "Are bought-Stage prices right at 180 gold for IV and 135,000 for X? Every other price scales from those two. A wyrm core at 20,000 gold and up follows from the same table.",
+   "Keep the Accord's split into signed and sworn members? It is the biggest invented structure on the Accord shelf, along with the Sitting of Halls and free companies escaping the Law of Reversal.",
+   "Does a Typology doubled by a Wellspring move anything on the sheet? As written it leaves the Grade alone and changes the character of the blow.",
+   "Are windows incomplete by design? As written they report only what the soul has felt, so Garrick's window misses his spleen.",
+   "Can a soul refuse a class? As written an unanswered offer keeps the old name at the new tier and waits. Can a bought Catalyst override a Coherence fault, and if Hataraki removes a blessing that gave a Stage, does the Stage stay? As written the Crystal is left built to a shape it never earned, and most survive but few fight again.",
+   "Should Nalūn stay? The brief says it is gone as a state, but KINGDOMS.md and the staged pages keep the Amber Cities of Nalūn as free cities with no crown. I left it as free cities. Anguz survives only as dead mines."
+  ]
+ }
+}

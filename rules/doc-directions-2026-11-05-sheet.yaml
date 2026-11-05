@@ -564,3 +564,506 @@ rules:
   applies_to:
   - character-sheet
   notes: Clause (24) of the RULINGS.md paragraph "The sheet and the climb (R84)" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-25-CREW_BONDS
+  section: magic-system-questionnaire
+  title: Crew bonds
+  kind: definition
+  summary: 'Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew''s bars in a fight;
+    it has to be earned, and betrayal breaks it visibly.'
+  verbatim: '(25) Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew''s bars
+    in a fight; it has to be earned, and betrayal breaks it visibly.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - worldbuilding
+  notes: Clause (25) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-26-VOWS_ARE_SMALL_FATE
+  section: magic-system-questionnaire
+  title: Vows are small fate
+  kind: definition
+  summary: 'Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms,
+    and breaking it lands at once. Anyone can make one.'
+  verbatim: '(26) Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its
+    terms, and breaking it lands at once. Anyone can make one.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  notes: Clause (26) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-27-RESURRECTION
+  section: magic-system-questionnaire
+  title: Resurrection
+  kind: definition
+  summary: 'Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking
+    event with a terrible price that comes back as a curse more often than not.'
+  verbatim: '(27) Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking
+    event with a terrible price that comes back as a curse more often than not.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  notes: Clause (27) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-28-SUMMONS
+  section: magic-system-questionnaire
+  title: Summons
+  kind: definition
+  summary: 'Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms
+    show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.'
+  verbatim: '(28) Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows,
+    its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-design
+  - stats
+  notes: Clause (28) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-29-WOUNDS_ON_THE_WINDOW
+  section: magic-system-questionnaire
+  title: Wounds on the window
+  kind: definition
+  summary: 'Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing
+    Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one
+    for life.'
+  verbatim: '(29) Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and
+    healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor
+    one for life.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - combat
+  - stats
+  notes: Clause (29) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-30-BREAKTHROUGHS
+  section: magic-system-questionnaire
+  title: Breakthroughs
+  kind: definition
+  summary: 'Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft
+    in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows
+    the same Stage.'
+  verbatim: '(30) Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a
+    Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet
+    shows the same Stage.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - prose-law
+  notes: Clause (30) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-31-RANKINGS
+  section: magic-system-questionnaire
+  title: Rankings
+  kind: definition
+  summary: 'Rankings: the Accord keeps a roll, heralds cry their own, bookies keep odds, and each realm and sect has its own
+    list. They all disagree, and getting on a list makes you a target.'
+  verbatim: '(31) Rankings: the Accord keeps a roll, heralds cry their own, bookies keep odds, and each realm and sect has
+    its own list. They all disagree, and getting on a list makes you a target.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (31) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-32-MIND_MAGIC_AND_WINDOWS
+  section: magic-system-questionnaire
+  title: Mind magic and windows
+  kind: definition
+  summary: 'Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays
+    a violation with a cost, and Gnosis gives a fair counter.'
+  verbatim: '(32) Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line.
+    It stays a violation with a cost, and Gnosis gives a fair counter.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - adjudication
+  notes: Clause (32) of the RULINGS.md paragraph "The sheet and the climb, continued (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-33-THE_PLANES
+  section: magic-system-questionnaire
+  title: The planes
+  kind: definition
+  summary: 'The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage
+    arts, rarely and at a high price.'
+  verbatim: '(33) The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage
+    arts, rarely and at a high price.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  - magic-mechanism
+  notes: Clause (33) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-34-PEOPLES_AND_CLASSES
+  section: magic-system-questionnaire
+  title: Peoples and classes
+  kind: definition
+  summary: Peoples tend toward classes and Traits of their own, as tendencies and never locks.
+  verbatim: (34) Peoples tend toward classes and Traits of their own, as tendencies and never locks.
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-design
+  - worldbuilding
+  notes: Clause (34) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-35-RELICS
+  section: magic-system-questionnaire
+  title: Relics
+  kind: definition
+  summary: 'Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question
+    marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a
+    Grade and Mythic Rarity.'
+  verbatim: '(35) Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question
+    marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a
+    Grade and Mythic Rarity.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - items
+  - worldbuilding
+  notes: Clause (35) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-36-EVERYONE_HAS_A_WINDOW
+  section: magic-system-questionnaire
+  title: Everyone has a window
+  kind: definition
+  summary: 'Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.'
+  verbatim: '(36) Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - worldbuilding
+  notes: Clause (36) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-37-BUYING_WAKING
+  section: magic-system-questionnaire
+  title: Buying waking
+  kind: definition
+  summary: 'Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich
+    buy one for their children, while commoners sell themselves into guild debt for it.'
+  verbatim: '(37) Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the
+    rich buy one for their children, while commoners sell themselves into guild debt for it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  notes: Clause (37) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-38-SECT_RANK_AND_TITLE
+  section: magic-system-questionnaire
+  title: Sect rank and title
+  kind: definition
+  summary: 'Sect rank and Accord title are separate and both matter: a sect rank says where you stand in that school, and
+    a title says what you are trusted with.'
+  verbatim: '(38) Sect rank and Accord title are separate and both matter: a sect rank says where you stand in that school,
+    and a title says what you are trusted with.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (38) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-39-TOURNAMENTS
+  section: magic-system-questionnaire
+  title: Tournaments
+  kind: definition
+  summary: 'Tournaments are huge and the world''s sport: realms send champions, schools play for colors and Cores, a win can
+    be worth a bought Stage, and fixing fights is a major crime and a major business.'
+  verbatim: '(39) Tournaments are huge and the world''s sport: realms send champions, schools play for colors and Cores, a
+    win can be worth a bought Stage, and fixing fights is a major crime and a major business.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  - combat
+  notes: Clause (39) of the RULINGS.md paragraph "The sheet and the climb, continued further (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-40-COMMONERS_WINDOW
+  section: magic-system-questionnaire
+  title: Commoners window
+  kind: definition
+  summary: 'A commoner''s window is small and useful: Level, a few trade skills and health, with no Essence and no class until
+    waking opens the rest.'
+  verbatim: '(40) A commoner''s window is small and useful: Level, a few trade skills and health, with no Essence and no class
+    until waking opens the rest.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - worldbuilding
+  notes: Clause (40) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-41-SHEET_AND_SOCIETY
+  section: magic-system-questionnaire
+  title: Sheet and society
+  kind: definition
+  summary: 'Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue about
+    it, and parents push their children from the first Grade.'
+  verbatim: '(41) Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue
+    about it, and parents push their children from the first Grade.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (41) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-42-MUNDANE_MASTERS
+  section: magic-system-questionnaire
+  title: Mundane masters
+  kind: definition
+  summary: 'Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such
+    a master is frightening. They usually still lose a fight.'
+  verbatim: '(42) Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and
+    such a master is frightening. They usually still lose a fight.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - stats
+  - worldbuilding
+  notes: Clause (42) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-43-LAW_AND_THE_SHEET
+  section: magic-system-questionnaire
+  title: Law and the sheet
+  kind: definition
+  summary: 'Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is
+    small Fate, and only an assay can check it. Lawyers fight over exact wording.'
+  verbatim: '(43) Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath
+    is small Fate, and only an assay can check it. Lawyers fight over exact wording.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  - adjudication
+  notes: Clause (43) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-44-WAR
+  section: magic-system-questionnaire
+  title: War
+  kind: definition
+  summary: 'War: armies are levies and sworn companies around a few high-Stage champions, and each side''s first job is to
+    pin or kill the other''s. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are
+    war materiel.'
+  verbatim: '(44) War: armies are levies and sworn companies around a few high-Stage champions, and each side''s first job
+    is to pin or kill the other''s. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages
+    are war materiel.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - mass-combat
+  - worldbuilding
+  notes: Clause (44) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-45-FAITH_AND_THE_WINDOW
+  section: magic-system-questionnaire
+  title: Faith and the window
+  kind: definition
+  summary: 'Faith: every faith has its own answer to what the window is, and real wars come of it.'
+  verbatim: '(45) Faith: every faith has its own answer to what the window is, and real wars come of it.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (45) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.
+- pack: Directions 2026-11-05 (the sheet and the climb)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R84-46-POWER_DEBT_AND_DRAFTS
+  section: magic-system-questionnaire
+  title: Power debt and drafts
+  kind: definition
+  summary: 'Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone strong
+    is in somebody''s debt.'
+  verbatim: '(46) Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone
+    strong is in somebody''s debt.'
+  amends:
+  - guide: NATALIE.md
+    locus: THE SHEET AND THE CLIMB
+    operation: extends
+  applies_to:
+  - worldbuilding
+  notes: Clause (46) of the RULINGS.md paragraph "The sheet and the world (R84)" under 2026-11-05.

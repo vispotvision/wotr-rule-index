@@ -3,7 +3,12 @@
   "catalyst_rule": "Option 3: drop it entirely. Drafts and blessings can supply a Catalyst.",
   "batch1": {
     "what_keeps_stages_earned": "No limit, just money: Stages can simply be bought, and the wealthy are stronger because they're wealthy. Class warfare sits at the center of the world, with lucky commoners holding monster cores as the great threat to it.",
-    "how_you_get_a_wellspring": ["At a Core, in a dungeon", "Taught by a school", "From a Draft or blessing", "Born into it"],
+    "how_you_get_a_wellspring": [
+      "At a Core, in a dungeon",
+      "Taught by a school",
+      "From a Draft or blessing",
+      "Born into it"
+    ],
     "typology_doubling": "Grows with mastery: it starts as a small boost and reaches double only for someone who has lived with that lens for years, like a Trait growing.",
     "who_can_use_fate": "Rare, mostly bloodline: Hataraki and a few other bloodlines hold real Fate Arts, some high-Stage masters reach it late, the Fate Path stays very hard, and most people only touch Fate through a blessing or a Master Work Draft."
   },
@@ -11,7 +16,12 @@
     "trait_growth": "Trait levels: each Trait has its own number that goes up with use, like a skill in a LitRPG.",
     "skills": "Yes, skills level with use: every practitioner has skills that rise by doing them and show as Grades on the sheet; techniques are named things done with them.",
     "the_sheet": "Full system windows: level-up notices and sheets on the page in blocks, LitRPG style, even mid-fight.",
-    "how_the_poor_rise": ["Dungeon luck", "Guild patronage", "Blessings", "The houses hoard Drafts"]
+    "how_the_poor_rise": [
+      "Dungeon luck",
+      "Guild patronage",
+      "Blessings",
+      "The houses hoard Drafts"
+    ]
   },
   "batch3": {
     "what_a_window_is": "The Crystal reading itself: the Soul Crystal is the soul and the Continuum measures it, so the window is the soul reporting its numbers to its owner in their own tongue; no one else can see it; scholars argue about who built it.",
@@ -29,7 +39,12 @@
     "window_numbers": "Grades and bars, no raw EU: windows show Grades, percentages and levels; EU, AU/s and eta stay in the notes.",
     "technique_rank": "Names only: techniques do not show levels, only the bigger name when they jump; Traits and skills carry the numbers.",
     "blessings_on_sheet": "Listed, sometimes lying: a blessing shows as its own line, and one that is really a curse may read as a gift for years because the giver wrote the line.",
-    "next_up": ["Domains and Releases", "Crafting", "Stats and Levels", "Aura and Pressure"]
+    "next_up": [
+      "Domains and Releases",
+      "Crafting",
+      "Stats and Levels",
+      "Aura and Pressure"
+    ]
   },
   "batch6": {
     "bought_release": "Release must be learned: a bought Stage opens the door, but you still find and master your own Release by fighting; a rich Stage IX may have none while a poor fighter at the same Stage has all three.",
@@ -54,7 +69,12 @@
     "aether_class": "Named classes on the old ladder: at thresholds the soul is offered a class that fits how the person has lived; it gives abilities and shapes growth; the old ladder stays as its tier.",
     "aura_look": "Family color, Wellspring texture: Family sets the base color, a Wellspring adds texture and sound, a class or big Trait adds a shape.",
     "pressure": "Felt first, window second: the room reacts first as on file, then the window reports a debuff line; a Grandmaster merchant with no fighting Stage has no Pressure at all.",
-    "next": ["Death and the dead", "Archons and Epochs", "Races and Crystals", "Sects and schooling"]
+    "next": [
+      "Death and the dead",
+      "Archons and Epochs",
+      "Races and Crystals",
+      "Sects and schooling"
+    ]
   },
   "batch10": {
     "the_dead": "Yes, and it's the great crime: a dead practitioner's Crystal can be taken and rendered into the strongest Drafts of all; it is the worst crime in every realm and the most profitable, and it is behind the unexplained surplus of Crystal Draw.",
@@ -66,12 +86,60 @@
     "law_timing": "Now, and adjust as we go: index as R84, update Natalie and the pipelines, and the next scene uses windows.",
     "windows_in_rp": "Same blocks, you control your PC's: windows appear in turns and Discord posts as plain text blocks; his PC's gains are offered as window lines he keeps or changes.",
     "cards": "Convert with the R82 rollout: each card gets concept, moves, class, Trait levels and skills in one pass; other creators' cards stay untouched; starts with the pilot three.",
-    "reopen": ["Write it up", "More on blessings and curses", "More on classes", "More on monsters and dungeons"]
+    "reopen": [
+      "Write it up",
+      "More on blessings and curses",
+      "More on classes",
+      "More on monsters and dungeons"
+    ]
   },
   "batch12": {
     "curses": "Same power, wrong terms: a curse is often a blessing with terms you did not read or a giver who does not care what you want; nobody can tell at first, and some are both.",
     "class_trees": "Evolves by how you live it: a class grows at each tier into a form chosen from what you have done, some shared by many and some held by one person; a class gives skills and shapes moves, and the one wild concept stays the person's own.",
     "monster_ranks": "Threat Tier, then a name: monsters are graded T1 to T9 like commissions; a famous one earns a name, an epithet and a bounty.",
     "dungeons_fight_back": "Alive and learning: a dungeon adapts around its Core, moves galleries, breeds what kills crews best and pays attention to who keeps coming back; each has a personality by its Wellspring; scholars argue whether it thinks."
+  },
+  "batch13": {
+    "crews": "Crew bonds show and pay: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.",
+    "vows": "Vows are small Fate: a person binding their own probability; spoken, the window shows the bargain and terms, and breaking it lands at once; anyone can make one.",
+    "resurrection": "Still almost never: deaths stay permanent; a blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.",
+    "summons": "A contract with its own window: a bound spirit or beast has a sheet its holder can read, its Level grows, the contract's terms show, it can evolve and be stolen by contract."
+  },
+  "batch14": {
+    "healing": "Wounds on the window, healing still costs",
+    "breakthroughs": "All three still happen",
+    "rankings": "Many rival lists",
+    "mind_magic": "It can touch your window"
+  },
+  "batch15": {
+    "planes": "Yes, at a high price",
+    "sins": "we will handle malphas later",
+    "races_and_class": "Tendencies, not locks",
+    "relics": "Off the ladder, and they choose"
+  },
+  "batch16": {
+    "unwoken": "Everyone has one",
+    "buying_waking": "Yes, very dear and risky",
+    "sect_ranks": "Separate and both matter",
+    "tournaments": "Huge, and everyone's money is in them"
+  },
+  "batch17": {
+    "bakers_sheet": "Small and useful",
+    "sheet_and_society": [
+      "Hiring asks for proof",
+      "Courts swear on it",
+      "Churches argue about it",
+      "Parents push their kids"
+    ],
+    "mundane_masters": "Yes, a master is frightening",
+    "next": [
+      "More world systems"
+    ]
+  },
+  "batch18": {
+    "law": "Oaths on the sheet, proof by assay",
+    "war": "Levies and champions",
+    "faith": "Every faith has its own answer",
+    "power": "Debts and Drafts"
   }
 }

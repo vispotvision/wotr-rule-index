@@ -3689,3 +3689,9 @@ Context: Inner World redo. Replaces Natalie's first draft of the Central Warlord
 Isaac, 2026-11-05: "Scourge of Hell Inner World's Monster Terrtiroy". The Scourge of Hell, already on file from older scenes as Hell's Scourge, is the Inner World's monster territory and joins the map, with no ruler. His chosen art shows a colossal sword driven into the mountains, its blade a window onto a starfield. AGENT RULING (Natalie, overturnable): the sword is an old work of the Great Spirit War, and who drove it in is an open argument among scholars.
 
 Context: Inner World redo. Imports/drafts/inner-world-redo/KINGDOMS.md carries the entry. Scenes that use the Scourge include lore/v1/scenes/The_Path_of_Sorrow.md.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "nah I want use the art I selected its fine also the Scourge of Hell is in center of the continent it's a vast wasteland that filled with monsters long ago." His selected art goes on the wiki and the public site as chosen. The Scourge of Hell is a vast wasteland at the center of the continent, filled with monsters long ago. AGENT RULING (Natalie, overturnable): artists are credited in a caption where the image shows a name.
+
+Context: Inner World redo. Overrides Natalie's recommendation of generated originals for the site and her placement of the Scourge between the empire and Undaar-Keth.

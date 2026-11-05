@@ -699,3 +699,5 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 ## Counterplay
 
 **The rung tells an opponent what the piece can do and, just as plainly, what it cannot.** A weapon's rung is its maker's ceiling or its wielder's, and the piece says which: a channeled blade is answered by the hand, a made one by its proof, and a relic in a stranger's grip still hits at its maker's Grade. Armor tells its own limit on its mark: **one rung above the proof breaks it, and two go through it as if it were not there.** Every enhancement radiates its working's signature, and a Harmonist reads the rung without touching the piece. The seam, the joint and the material's failure are where the answer lives; which one is the fight's business.
+
+*Back to [[The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System|Fracture of Worlds]]. For what the ladders mean to a living person, see [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]] and [[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]].*

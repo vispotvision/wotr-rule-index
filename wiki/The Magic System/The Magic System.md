@@ -36,7 +36,7 @@ Everything after these is detail.
 | Number | The rule |
 |---|---|
 | **One** | Reality is spoken of as three planes. Matter, soul, and fate: matter and soul are the two lower realities, and fate, a plane by courtesy, stands above them and is everything that can happen in them. Every act of magic crosses all three at once. Remove one and the working fails, without exception and without appeal. |
-| **Two** | Aether is the ocean. Essence is your water. Aether is infinite and belongs to no one. You pull it from the world around you, refine it in your Crystal into Essence, stamp it with your identity, and drive it out through your Shell, and there is only ever as much of it as you have earned or paid for. Essence is your soul's own substance, so spending it is spending yourself. Rich ground fills you faster; thin ground starves you. A Wellspring represents an alchemical and a spiritual transformation and concept. You can see it as a source of power to pull from, and it is more the governing idea that transforms how your soul uses Aether: a lens on magic already potent, which shapes your Essence differently on each Path and in time can double its effect on its home Path, half again at most away from it. There are sixty, and the scholars explain them as sixty types of Aether with one law of physics apiece. |
+| **Two** | Aether is the ocean. Essence is your water. Foreigners say mana and spiritual energy, and they mean the same two things. Aether is infinite and belongs to no one. You pull it from the world around you, refine it in your Crystal into Essence, stamp it with your identity, and drive it out through your Shell, and there is only ever as much of it as you have earned or paid for. Essence is your soul's own substance, so spending it is spending yourself. Rich ground fills you faster; thin ground starves you. A Wellspring represents an alchemical and a spiritual transformation and concept. You can see it as a source of power to pull from, and it is more the governing idea that transforms how your soul uses Aether: a lens on magic already potent, which shapes your Essence differently on each Path and in time can double its effect on its home Path, half again at most away from it. There are sixty, and the scholars explain them as sixty types of Aether with one law of physics apiece. |
 | **Three** | You cast through a Soul Crystal, and the Soul Crystal is your soul, literally. A wand, a word and a will are decoration. The Crystal has three layers, one per plane, and its architecture decides what you are capable of long before your ambition gets a vote. |
 | **Four** | Power is refined. Nothing accumulates, because Temperance is subtraction. Sixteen Stages, each one a structural reorganization of the Crystal: Tempering melts it down and rebuilds each layer, refines your Essence and makes it stronger, and the body gains Traits. Training gets you to the door, and a Catalyst opens it. A crisis, a seclusion or a tribulation can supply one, and so can a Draft or a blessing, so Stages can simply be bought and the wealthy are stronger because they are wealthy. A bought Stage opens the door and no more: a Release must still be found and mastered by fighting. |
 | **Five** | Everything costs. Essence is spent, and nobody has ever summoned any. Domains bleed. Traits fatigue. Overchannel scars. Drafts cost money, and the best of them cost someone else's life. A practitioner who tells you a technique is free is either lying or has not yet paid the invoice. |
@@ -48,7 +48,15 @@ Everything after these is detail.
 
 One number has never described a practitioner. Four independent measurements run alongside each other, and the gaps between them are as diagnostic as the values themselves.
 ![[Assets/Diagrams/four-axes.svg]]
-> Temperance sets the **ceiling**. Tier Grade reports the **magnitude**. The class ladder of the layer in use, Aether, Essence or Thread Class, decides how much of the magnitude actually **arrives**, and a Class, by its name, says what the soul has made of your life. Wellspring harmonization changes what the magnitude **means** without changing the number by a single point: it is a lens, and over years of mastery on its home Path it can double the effect, half again at most away from it, while the reading stands where it was.
+
+| Axis | What it tells you | Where it is read |
+|---|---|---|
+| **Stage** | The **ceiling.** How far the Crystal has been remade: every stat's cap, what can open, and how high a ladder may go. It can be bought | [[The Magic System/The Soul and the Climb/The Sixteen Stages\|The Sixteen Stages]] |
+| **Grade** | The **magnitude.** How much a stat delivers, letter by letter. The Grade of the stat in use decides a contest | [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell\|Tier Grade, Bands & the Aether Shell]] |
+| **Path, with its ladders** | The **road.** Which layer of the Crystal the soul leans on, what that opens and shuts, and how much of the magnitude **arrives**: the ladder of the layer in use, Aether, Essence or Thread Class, sets the share. It cannot be bought | [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate\|The Three Paths]], [[The Magic System/The Soul and the Climb/Classes and the Three Ladders\|Classes and the Three Ladders]] |
+| **The lens** | The **meaning.** The Wellspring a soul has tempered on, and it changes what the magnitude does without changing the number by a single point: over years of mastery on its home Path it can double the effect, half again at most away from it, while the reading stands where it was | [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings\|The Sixty Wellsprings]] |
+
+> The four do not move together, and that is the whole of the diagnosis. Stage opens a ladder's ceiling and practice moves the rung up to it, so a rich heir can stand under a very high roof on a very low rung. Path and lens both apply after the Grade is read, so neither has ever moved a letter. A Class, the name a soul offers from Glory on, sits beside all four and says what it has made of your life.
 >
 > Two practitioners at identical stat values and identical Stage can produce wildly different results if one is Aether III Resonant and the other is Aether I Muridic. The stats are the same. The delivery is not.
 
@@ -56,31 +64,35 @@ One number has never described a practitioner. Four independent measurements run
 
 ## The Grammar of a Working
 
-Newcomers ask how to learn a spell. The question is malformed. Workings are built, through a five-part grammar, and every named discipline in the Continuum decomposes into it.
+Newcomers ask how to learn a spell. The question is malformed. Workings are built, and the building starts with a person: what they refuse, what they survived, and the one wild concept they can explain in a breath, soup or debt or doors. The phenomenon comes after that, and the Codex (the Accord's master register of laws) is only asked at the end what to file it under. Once it is filed, every named art in the Continuum answers the same four lines, and its owner's card answers a fifth.
 
-| Element | What it is |
+| Line | What it says |
 |---|---|
-| **Family** | Which of the eight domains of phenomena the working belongs to. Never invented. Only worked within. |
-| **Affinity** | The specific phenomenon inside that Family. Fire within Caloria. Gravity within Vectoria. |
-| **Method** | How you relate to the phenomenon. Encoded directly in the suffix of every discipline name. |
-| **Ability** | The internalized governing system your Crystal has developed. Pyrokinesis, for instance. It does nothing visible on its own. It is the platform. |
-| **Technique** | A specific, repeatable application within that platform, with defined inputs, outputs, and limitations. This is what you actually do. |
+| **Path** | The layer the art leans on, one or a named pair, and so the ladder that reads it: matter reads Aether, a soul or a meaning reads Essence, a condition reads Thread. A true pull takes Thread on top of whatever else is being paid. |
+| **Lens** | The Wellspring it is worked through, and that Wellspring's kind, which names a home and locks nobody out. |
+| **Form** | What the hands do. Strike and Shape are at home on the Body; Read, Write, Rite and Make on the Spirit; Sing on Spirit and Fate; Brew on Body and Spirit; Call, Bind, Claim and Pull on Fate. A home here is a qualifier too. |
+| **Gates** | The Sub-Stats it needs opened, each with its Path and Stage. |
+| **Source** | On the card and not the art: Lived, Taught, Inherited, Bought or Blessed. The same art can be any of the five in different hands. |
 
-> **The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline.** *The name itself is built on the Affinity: fire, not Caloria, gives Pyromancy its root.*
+Under those lines sit three old words the trade still uses every day. The **Affinity** is the specific phenomenon a person works inside a Wellspring's law, fire within Pyreveil or weight within Petralon. The **Ability** is the internalized governing system a Crystal has developed for it, Pyrokinesis for instance, which does nothing visible on its own: it is the platform. A **Technique** is a specific, repeatable application on that platform, with defined inputs, outputs and limitations, and it is what you actually do.
 
-### The Nine Methods
+And every working, whatever its Form, is at bottom one sentence of [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|Parun]], the language of law, with [[The Magic System/Power in Use/The Working Trades|four roles]]: **Authorization** says by what right a limit is set, **Boundary** sets it, **Direction** says which way the law runs across it, and **Sealing** ends it. The Wellspring supplies the law and the glyph tells it where to stop, and the stopping lands on the layer the Essence leaves through: a physical limit on the Shell, what a thing is taken to be on the Core, a term or a prerequisite on the Attraction Layer. So the same Exuroth in the same hand, with the same boundary, cracks a stone on the Body and proves a liar on the Spirit.
 
-| Method | Suffix | Plane | Relationship to the phenomenon |
+### The Scholars' Nine Methods
+
+Older books sort every working by a Method, encoded in the suffix of its name, and the Guild's clerks still name disciplines that way. A Method is no tier of the grammar above. It is a scholar's name for a road and a trade taken together: Corporis is the Body speaking, Scriptia is cutting, Alchemia is pouring. *The name itself is built on the Affinity: fire, not Pyreveil, gives Pyromancy its root.*
+
+| Method | Suffix | Relationship to the phenomenon | The Form it means |
 |---|---|---|---|
-| **Manteia** | -mancy | Soul | *Perception. Reading and sensing through the element.* |
-| **Kinesia** | -kinesis | Material | *Direct control. Physical manipulation in real time.* |
-| **Turgia** | -turgy | Fate | *Ritual and creation. Forging lasting change.* |
-| **Corporis** | -kinesis (body) | Material | *Martial integration. The body itself is the conduit.* |
-| **Scriptia** | -graphy | Fate | *Inscription. Magic carved permanently into materials.* |
-| **Alchemia** | -genesis / -synthesis | Material + Soul | *Alchemy. Substance transformation, Essence Draft creation.* |
-| **Harmonia** | -phonia / -chord | Soul + Fate | *Resonance. Frequency-based workings.* |
-| **Conjunctia** | (compound roots) | All Three | *Fusion. Simultaneous blending of two or more Families in one practitioner. The alchemical Conjunction is a bench operation, not this Method.* |
-| **Synergia** | (named by working) | Fate-dominant | *Cooperative. Multiple practitioners combining workings.* |
+| **Manteia** | -mancy | *Perception. Reading and sensing through the element.* | Read |
+| **Kinesia** | -kinesis | *Direct control. Physical manipulation in real time.* | Shape |
+| **Turgia** | -turgy | *Ritual and creation. Forging lasting change.* | Rite, Make |
+| **Corporis** | -kinesis (body) | *Martial integration. The body itself is the conduit.* | Strike |
+| **Scriptia** | -graphy | *Inscription. Magic carved permanently into materials. It is Spirit's work, and it touches Fate only when the writing is on Fate itself.* | Write |
+| **Alchemia** | -genesis / -synthesis | *Alchemy. Substance transformation, Essence Draft creation.* | Brew |
+| **Harmonia** | -phonia / -chord | *Resonance. Frequency-based workings.* | Sing |
+| **Conjunctia** | (compound roots) | *Fusion. One working on two or more lenses at once. The alchemical Conjunction is a bench operation, not this Method.* | Any, with a second lens |
+| **Synergia** | (named by working) | *Cooperative. Multiple practitioners combining workings, on bonds that have to be real.* | Any, with a second person |
 
 ---
 
@@ -115,7 +127,7 @@ Sub-Stats are gated behind Path commitment. Every soul has all three layers of t
 
 **No road is better.** Body needs existing substance, must close until very high, pays in recoil and has no purchase on a soul. Spirit needs a soul or a meaning to work on, has a fragile body and dies out of position. Fate is ruinously hard, slow to set, moves only what already has a way of happening and loses a straight exchange, and being above the lower realities makes it harder and never better. So Body beats Spirit by getting there, and Spirit beats Body by going past the Shell. Body beats Fate with force and soundness, and Fate beats Body through what closing depends on. Spirit beats Fate by reaching the hand on the thread, and Fate beats Spirit because one wrong read is enough. Stage, ground and preparation decide which of these holds on the day, and this is why some people combine Paths.
 
-**Mastered, Walked, Studied.** A Path stands on a sheet in one of three ways. Mastered means its gates are no obstacle at the person's Stage. Walked means three parts in ten of their practice or more have gone down it. Studied is knowledge and small uses, open to anyone, and it opens no gates. One Path masters fastest, at the full force bonus and on a clean seat. Two take about two and a half times as long, at three-quarters of the bonus on each for life, on a rough seat. Three take about six times as long, past a mortal span, at half the bonus, with the high Grades shut, and the world looks down on anyone trying.
+**Mastered, Walked, Studied.** A Path stands on a sheet in one of three ways. Mastered means its gates are no obstacle at the person's Stage. Walked means three parts in ten of their practice or more have gone down it. Studied is knowledge and small uses, open to anyone, and it opens no gates. A card carries each road's **Path Stage**, the highest Stage whose gates it has opened, so that Mastered means the Path Stage equals the soul's, and the clerk writes `Body VII Mastered · Fate VI Walked 35%`. One Path masters fastest, at the full force bonus and on a clean seat. Two take about two and a half times as long, at three-quarters of the bonus on each for life, on a rough seat. Three take about six times as long, past a mortal span, at half the bonus, with the high Grades shut, and the world looks down on anyone trying.
 > ***The three-and-four question, settled.*** *Older registers and gate tables name a fourth Path, Attraction. They were looking at the shallow end of Fate and calling it a road of its own, and an Attraction gate in an old table is a Fate gate at the same Stage and Grade.* **Fate takes the smallest line in a table of force modifiers because a real pull goes around force**: the cut that lands is an ordinary cut, and what moved was everything it depended on. Its small line there is a fact about force rather than a fact about Paths.
 >
 > The deeper difference is how commitment is recognized. **Body and Spirit are demonstrated by routing Essence, and the shallow water of Fate by results that keep going your way past what luck allows, by the sworn company that keeps its word and the room that turns.** The far end gates Persistence, Continuity, Ceiling, Sovereignty past A, Stability on Wellspring-absent ground, Fate and Throne, none of which concern output at all, **so deep Fate commitment is recognized by what a soul refuses to let end.** No drill produces it and no instructor assigns it.
@@ -148,7 +160,7 @@ A window is the soul reporting its numbers to its owner, in the owner's own tong
 
 **Class.** At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth and evolves by how it is lived, each time the leading ladder rises. It has no ladder of its own. The one wild concept stays the person's own.
 
-**The three ladders**, one to each layer of the Crystal, read from Glory. **Aether Class** is the Shell and influence on the physical world (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute), and the η tables were drawn up for it first. **Essence Class** is the Core and influence on spiritual reality (Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute). **Thread Class** is the Attraction Layer and how much of Fate a soul can pull down and hold (Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute). It is the steep one: most souls stay Ø for life, and its numeral gives η as two rungs below the same numeral elsewhere. Each ladder sets η for workings through its own layer. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind until mastered, and a Studied one stops at II, or at I for Thread.
+**The three ladders**, one to each layer of the Crystal, read from Glory. **Aether Class** is the Shell and influence on the physical world (Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute), and the η tables were drawn up for it first. **Essence Class** is the Core and influence on spiritual reality (Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute). **Thread Class** is the Attraction Layer and how much of Fate a soul can pull down and hold (Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute). It is the steep one: most souls stay Ø for life, and its numeral gives η as two rungs below the same numeral elsewhere. Each ladder sets η for workings through its own layer. **The Stage sets a ladder's ceiling, and practice moves you up to it**, so a bought Stage opens the ceiling and not the rung. A Walked second road's ladder runs a rung behind until mastered, and a Studied one runs two behind the lead and stops at II, or at I for Thread. Thread has no Stage climb at all: it moves by a grip, from blood or a blessing, plus decades. [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]] has the one table.
 
 **Level** moves by danger overcome. Killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
 
@@ -168,7 +180,7 @@ A monster's [[Materials, Alchemy & Trade/Alchemy/Monster Cores|core]] is in a wa
 
 ## Fate and Blessings
 
-The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths, where it is small and anyone's to use (see [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]), and it is more tied to blessings. Fate Arts are rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Hataraki can take back or remove a blessing, which is a good part of why that bloodline is feared.
+The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths, where it is small and anyone's to use (see [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]]), and it is more tied to blessings. Fate Arts are rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Hataraki can take back or remove a blessing, which is a good part of why that bloodline is feared, though it takes two Works or two Moto, because each Work is an inherited grip on one function, which lowers the chance of failure and never the price.
 
 Vows and blessings are its small uses. People also fight and wage wars with Fate, and the Moto are the model of how deadly a lineage with it is, though it is the hardest thing in the system. Fate is the law and construction of the world itself, most if not all of the Archons and the great principles they embody are Sovereign across all three planes, this one included, and understanding gets no purchase on it, because understanding is made of the thing it would be used against. Some Archons are deemed greater than others, and Uurgath and Urion are unparalleled in Fate, because what they are cannot be conceived. An ordinary Fate Path fighter mostly fights with Range, Aura Pressure, presence and bonds. A real pull moves what a blow depends on, so a guard slips and an ordinary cut is already there, and it is rare, ruinously expensive and often fails. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. It moves only what already has a way of happening, it has a charge and a tell, and it is contested: Dominion's Fate Sub-Stat against the target's Resilience Persistence and Continuity. See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], and [[The Magic System/Power in Use/Counterplay What Beats a Practitioner|Counterplay]] for how such a fighter is beaten.
 
@@ -176,20 +188,20 @@ A blessing grants a power out of a person's natural reach, even in Level. It nee
 
 ---
 
-## What Corruption Looks Like, By Family
+## What Corruption Looks Like, By Law
 
-Every Family has a terminal failure state. The early symptoms are indistinguishable from enthusiasm.
+Every Wellspring has a terminal failure state, and its entry in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] names its own. Physicians see them in a few shapes, by what the law was doing to the person who could not put it down. The early symptoms are indistinguishable from enthusiasm.
 
-| Family | Corruption | Terminal expression |
+| The law at work | Corruption | Terminal expression |
 |---|---|---|
-| **Caloria** | Pyromaniacal fixation | Internal heat exceeds survival |
-| **Fulguria** | Sensory overload | Cognitive dissolution |
-| **Vectoria** | Gravitational isolation | The soul becomes a singularity |
-| **Spatium** | Spatial dissociation | The body sits at ambiguous coordinates |
-| **Materia** | Petrification compulsion | Flesh mineralizes |
-| **Vitalia** | Biological recursion | Growth and decay lock into a loop |
-| **Fluxia** | Dissolution of boundaries | Identity disperses |
-| **Limina** | Existential erosion | Solipsism, negation, or dissociation |
+| **Heat** (Pyreveil, Exuroth, Pyraeon) | Pyromaniacal fixation | Internal heat exceeds survival |
+| **Charge and light** (Judicium, Aurevane, Orrenthal) | Sensory overload | Cognitive dissolution |
+| **Force and weight** (Fractura, Petralon, Abython) | Gravitational isolation | The soul becomes a singularity |
+| **Distance and exchange** (Transmutatio, Transference, Eclipseron) | Spatial dissociation | The body sits at ambiguous coordinates |
+| **Stone and substance** (Monolithion, Basilithe, Fixatio) | Petrification compulsion | Flesh mineralizes |
+| **Blood and growth** (Verdantia, Rebirthine, Mortalis) | Biological recursion | Growth and decay lock into a loop |
+| **Water and memory** (Phreatis, Thaloré, Somnalis) | Dissolution of boundaries | Identity disperses |
+| **Absence and mind** (Nihiloth, Vantabriel, Letheveil) | Existential erosion | Solipsism, negation, or dissociation |
 
 ---
 
@@ -211,7 +223,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 *What a working is, the laws it conditions, and the boundaries every working is written in.*
 
 - [[The Magic System/The Foundations/The Physical Account Two Sets of Books|The Physical Account: Two Sets of Books]]: What a working is. Two complete descriptions of every event, both true, and where the energy actually comes from.
-- [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]]: The laws being conditioned. Read the hub, then whichever Family you need.
+- [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]]: The laws being conditioned. Read the hub, then whichever kind you need: Wild, Spirit, Fate or Medium.
 - [[The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms|The Master Glyph Index — 136 Attested Forms]]: The boundaries imposed on those laws.
 - [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|The Descent of Parun — The Fourteen Hands]]: The fourteen ways of writing a boundary down, and what each one changes. Its child, **[[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun|The Counted Speech]]**, is why almost nobody says it aloud.
 
@@ -230,6 +242,7 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 - [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]]: The First, Second and Third Release: the soul's law let off its limit in a learned shape.
 - [[The Magic System/The Soul and the Climb/Domains|Domains]]: The seed, the true Domain and the Realm: a space where one soul's law outranks the world's, how it is called, and how fields clash.
 - [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]]: What all of the above looks like from outside.
+- [[The Magic System/The Soul and the Climb/The Concordant Crystal|The Concordant Crystal]]: One frame shared by several souls, and what fuses and what does not.
 
 ### IV · [[The Magic System/Power in Use/Power in Use|Power in Use]]
 
@@ -243,10 +256,9 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 
 ### V · [[The Magic System/Practice and Institution/Practice and Institution|Practice and Institution]]
 
-*Who may practice, where their capacity came from, what they are called, how they are trained, and what the practice is set against.*
+*Who may practice, what they are called, how they are trained, and what the practice is set against.*
 
 - [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]: Why nearly everyone carries a Crystal, why about one in ten is taught to wake it, and who holds the door on the rest of the lesson.
-- [[The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic|The Derivation of Practice — Thaumaturgic and Theurgic]]: Where a practitioner's capacity came from, and why the institutions cannot agree.
 - [[The Magic System/Practice and Institution/The Standing and the Title — The Three Names|The Standing and the Title: Guild Titles as Trust]]: The nine titles every guild shares, what each one lets a stranger hand you, and the two other names you carry.
 - [[The Magic System/Practice and Institution/Training and Sects|Training and Sects]]: Schools, disciple ranks, seclusion and the tournament ladder.
 - [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]]: What a thumb grants, how the line on your window lies, and who can take it off again.
@@ -257,12 +269,12 @@ The section is filed in six shelves and a workbook. Each shelf has its own page,
 
 ### VI · [[The Magic System/Reference and Craft/Reference and Craft|Reference and Craft]]
 
-*Consulted rather than read. The Field Manual is author-facing: how magic is written, not what magic is.*
+*Consulted rather than read. The Field Manual is for whoever has to write a working down: how magic is recorded, not what magic is.*
 
 - [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories: Unified Taxonomy]]: Reference. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology|The Lexicon of Magic — Master Terminology]]: Every term, defined. Consulted rather than read.
 - [[The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions|The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]: The trade words of lamp-wardens, assayers and glasshouses, carried over into the metaphysical case.
-- [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]: Author-facing. How magic is written rather than what it is.
+- [[The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge|The Practitioner's Field Manual — The Forge]]: How a working is written down rather than what it is.
 
 ### The Workbook · [[The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System|Fracture of Worlds — The Living System]]
 

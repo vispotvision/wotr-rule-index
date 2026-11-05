@@ -455,4 +455,4 @@ Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings o
 
 ---
 
-**Read next:** [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|The Descent of Parun]], the fourteen ways of writing a limit down. The laws these forms limit are in [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|the Sixty Wellsprings]].
+**Read next:** [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|The Descent of Parun]], the fourteen ways of writing a limit down. The laws these forms limit are in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty Wellsprings]].

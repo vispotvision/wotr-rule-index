@@ -16,7 +16,7 @@ tags:
 
 Surveyor-Major Osric Tallant of the Chainward service was explaining the correct way to pitch a tent, at Cold Kettle Hollow, in full sun, when a bolt of bottle-green lightning left his right hand in the middle of a sentence and took the top off a pine. He looked at the pine. He told the party it had been a demonstration. By nightfall he had given six more demonstrations, each larger than the last, the scorched trees smoking around the camp in a ring and his coat, which had been a respectable plum for twenty years, gone green to the shoulder, and he was happier than anyone had ever seen him, explaining at the top of his voice that a man at last understood his own gifts. His second, a clever young Magister, went forward to read the source, and that is the last the record has of her. It was the porter who ended it. Wat Nettle had carried the tent poles for nineteen seasons, he had noticed that the Major's nose was bleeding and that the Major had not, and at dawn he knocked him down with a tent pole, tied him over a mule, and walked him out of the valley by voice, saying out loud at every step what was actually there: that's a rock, sir, that's a birch, that's your own hand. Tallant lost two fingers and kept the harmonization. He mourned that valley for the rest of his life, and he wrote the preface to the first edition of this register, and he never once named the porter.
 
-> [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families]], with their encounter types and density scale, are written for practitioners who understand the system and are approaching concentrations deliberately. Most Wellspring encounters in unmapped territory are not deliberate. They are accidents.
+> [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], with their encounter types and density scale, are written for practitioners who understand the system and are approaching concentrations deliberately. Most Wellspring encounters in unmapped territory are not deliberate. They are accidents.
 >
 > The surveyor steps across a threshold they did not see, and the first indication that they have entered a concentration is the concentration's effect on their body or their mind or both.
 >
@@ -104,7 +104,7 @@ The common failure is confusion mistaken for illness. They sit down. They wait f
 
 *What happens after the first thirty seconds. You have not withdrawn. You are still inside.*
 
-**Active Concentration · involuntary harmonization.** See the encounter types and density scale in [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families]] for compatible and incompatible outcomes.
+**Active Concentration · involuntary harmonization.** See the encounter types and density scale in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]] for compatible and incompatible outcomes.
 
 **Veil-Thin Nexus · planar bleed.**
 - **Bifold Perception onset:** the Soul Plane perceived simultaneously with the Physical. **You have not been trained for this.** Objects appear as structure and soul-signature at once; people as body and Crystal at once. **The thinning is not selective**, and Gnosis is not built for the volume.

@@ -43,7 +43,7 @@ The Frigorific college held cold a thing to emit and trained to cool at range. T
 
 **Fails against** · A padded jack, dry wool or an air gap; a Pyreveil or Exuroth ward; a cold or warming closed room; a Limina void-momentum working declining the collapse; distance or flight; a broken wrist or broken attention; chained spending.
 
-**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; the Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.
+**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.
 
 ### Numbers
 

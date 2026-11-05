@@ -30,16 +30,16 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 | **Material Plane** (also called the Physical Plane; the two names mean one plane) | Physical Reality, under the Epoch Aegor: physics, matter, force, and biology. Observable reality; magic uses its laws and overrides none of them. | Aether Shell |
 | **Soul Plane** | Spiritual Reality, under the Epoch Ashura: identity, memory, conviction, and Essence. Preserves who a practitioner is and is the plane where Essence originates. | Essence Core |
 | **Plane of Fate** | No reality at all, and a plane by courtesy, under the Epoch Bara: everything that flows, every possibility, idea and concept, anything that can happen in the two lower realities. It sits above them as the law and construction of the world, what has to be so before anything can happen, and most if not all of the Archons are Sovereign here as they are on the two below, some deemed greater than others, with Uurgath and Urion unparalleled in Fate. The control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. All spirits and all physical things have fates. It can attach to oaths and is more tied to blessings. | Attraction Layer |
-| **The Veil** | The liminal interface between the three: the threshold condition where one plane's law softens into another's. Scholars who count it as a fourth plane get corrected, loudly, at dinner. | — |
+| **The Veil** | The skin of the lower realities. Physical and Soul both lie inside it, and so does every realm. Its inner fold runs between those two and is what a crossing crosses, thick or thin by the place; its outer face is where they meet Fate, and a thread pulled down comes in through it. It is a condition with no address. Scholars who count it as a fourth plane get corrected, loudly, at dinner. | — |
 
 ---
 
 ## II. Aether, Essence & Attraction
 
 > *Aether is the ocean. Essence is your water. The ocean is infinite. Your water is yours.*
-**Aether** · The universal medium through which everything exists, following the same laws as observable physics. Infinite and impersonal. Most of what a practitioner uses is pulled from the environment around them (the pull), refined in the Soul Crystal into Essence, given identity, and driven out through the Shell. The old books say it comes in sixty types, which are the Wellsprings (see Section III).
+**Aether** · Mana, to a foreigner. The universal medium through which everything exists, following the same laws as observable physics: what remains of Omnara undivided, which is why it can carry any idea. Infinite and impersonal, and only a body can pull it. Most of what a practitioner uses is drawn in from the environment around them, refined in the Soul Crystal into Essence, given identity, and driven out through the Shell. The old books say it comes in sixty types, which are the Wellsprings (see Section III).
 
-**Aetheric Density** · The concentration of Aether present in a given volume, read in **EU per cubic meter**. Sets the ceiling on the sustained output and refill a practitioner can get in that location, with bursts spent from what they carried in, which is why battles are fought over ground as well as over people. Rich ground fills a practitioner faster and thin ground starves them; the street says fat ground and lean ground. One EU is one megajoule, so a density in EU/m³ is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** So the ceiling is literal. No boundary can be pushed into ground at a pressure the ground does not carry. Ground wins that argument. A site yields at most a thousandth of its density per second, so the ceiling on sustained output is that rate across the volume a practitioner's field reaches. The four conditions are laddered in numbers in [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|The Eight Families & the Sixty Wellsprings]].
+**Aetheric Density** · The concentration of Aether present in a given volume, read in **EU per cubic meter**. Sets the ceiling on the sustained output and refill a practitioner can get in that location, with bursts spent from what they carried in, which is why battles are fought over ground as well as over people. Rich ground fills a practitioner faster and thin ground starves them; the street says fat ground and lean ground. One EU is one megajoule, so a density in EU/m³ is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** So the ceiling is literal. No boundary can be pushed into ground at a pressure the ground does not carry. Ground wins that argument. A site yields at most a thousandth of its density per second, so the ceiling on sustained output is that rate across the volume a practitioner's field reaches. The four conditions are laddered in numbers in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]].
 
 **Aetheric Residue** · Traces left behind by an Essence working. A permanent, if often subtle, change to the location where the working occurred. Always readable by someone patient enough. Residue has a loud phase and a quiet one, and the loud phase has its own name: **Ambient Resonance** is Residue while it is still ringing. The loud phase fades within hours. The quiet residue thins after it on a schedule set by local density, toward a floor it never passes, and the floor is what the patient reader finds.
 
@@ -49,7 +49,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Attraction Force** · The law of recognition governing the Plane of Fate. Allows names, vows, lineages, Domains, and outcomes to be lawfully acknowledged inside reality. Clean techniques are sustained by the Continuum's recognition of the practitioner's intent. With its inversion, Obsession Force, it is what the Plane of Fate controls, and a true Fate Art works both.
 
-**Essence** · The soul's own substance: Aether pulled into the soul, refined and circulated through the Soul Crystal, and stamped with the practitioner's identity. The Essence Core is the center of all identity and the Crystal is the soul, so a practitioner holding a full reserve is holding themselves and a practitioner spending it is spending themselves. A blow's character comes from Wellspring and Path.
+**Essence** · Spiritual energy, in plain words, and the soul's own substance: Aether pulled into the soul, refined and circulated through the Soul Crystal, and stamped with the practitioner's identity. The Essence Core is the center of all identity and the Crystal is the soul, so a practitioner holding a full reserve is holding themselves and a practitioner spending it is spending themselves. Below a tenth of the reserve the Core frays, names first and then memory. A fight Draft's Essence arrives unstamped, and the crash that follows is the stamping. A blow's character comes from Wellspring and Path.
 
 **Essence Quality** · The coherence of a practitioner's Essence imprint.
 
@@ -73,11 +73,11 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 Every soul has all three layers, the unwoken included, and a **Path** (Section VII) is the one its Crystal has learned to lean on: the Body Path on the Shell, the Spirit Path on the Core, the Fate Path on the Attraction Layer.
 
-**Lattice Conductivity** · How easily Essence moves through the Aether Shell without resistance. Low Conductivity produces blockage and backlash; high Conductivity produces smooth passage.
+**Harmonization** · Tuning the Crystal to a Wellspring, said once because the trade says it four ways. The lock happens at the Shell, where Aether enters. The tie is held on the Attraction Layer. The lens shapes Essence in the lead layer. A sealed Shell therefore cannot harmonize at all.
 
-**Resonant Purity** · How closely the Aether Shell's output matches the Essence Core's intention. Low Purity produces static and misfires; high Purity produces near-instant Formation.
+**The Aether Index** · A sum scholars of a certain age still score a Shell by: Lattice Conductivity (how easily Essence moves through it), Resonant Purity (how closely its output matches the Core's intention) and Continuum Retention (how long its coherence endures after strain). It is a fine way to pass a winter, since nothing on any sheet has ever read it.
 
-**Continuum Retention** · How long a Crystal's coherence endures after strain. Low Retention produces brief flares of power; high Retention sustains resonance.
+**Soul Crystal Tier** · What the Crystal as a whole has grown into, read by Stage: Dormant, Awakened, Harmonic, Resonant, Radiant, Sovereign, Crystallized Soul, Absolute. It lags a bought Stage until Level fills it.
 
 **Crystal States** · The three conditions a Soul Crystal can occupy. **Fractured** (split by trauma or overload, producing erratic casting and identity leak), **Refined** (balanced and coherent, the baseline healthy state), and **Overgrown** (power exceeding architecture, producing involuntary discharge). A release's Overgrown clears with a full night's sleep; only the permanent set an overfill leaves (below) stays. Crystallized is not a State; self-as-law belongs to the Crystallized Soul tier alone.
 
@@ -85,7 +85,7 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Overfill** · Carrying a bank above the rated Flux Density. To **one and a half times** rating the Crystal holds and leaks and takes no lasting harm, and that margin is the whole of an absorber's working room. From one and a half to **two and a quarter times** the lattice takes a permanent set and the rating itself falls: the Crystal has gone **Overgrown**. At or past two and a quarter times it bursts. That is a **Crystal Fracture Event**, in the absorber, from energy that was aimed at him and that he chose to take. Feeding an absorber past his margin is the counter to absorption, and it is cheaper than out-hitting him.
 
-**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. Its kind (Wild, Spirit, Fate or Medium) names its home plane and is never a lock, and a Spirit Wellspring gives no fire on any Path: it shows in what a person can bear, know, keep or let go. A soul gets one at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. There are sixty, fixed, and a Soul Crystal harmonizes with them and invents none. Scholars explain the lens as physics: Aether comes in sixty types that affect the Soul Crystal differently, and each carries its own Core Law, Family alignment, and Temperance-range compatibility, and every figure in the tables is that account. Harmonization with the correct Wellspring is one of the four conditions, alongside how its kind sits with the Path, Temperance Stage, and training, that an Ability needs to develop.
+**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. Its kind (Wild, Spirit, Fate or Medium) names its home plane and is never a lock, and a Spirit Wellspring gives no fire on any Path: it shows in what a person can bear, know, keep or let go. A soul gets one at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. There are sixty, fixed, and a Soul Crystal harmonizes with them and invents none. The Titans are the Wellsprings themselves, and each of the Sixty is one way a Titan's law shows up, carried by Aether. Scholars explain the lens as physics: Aether comes in sixty types that affect the Soul Crystal differently, and each carries its own Core Law, Titan, hue, ground it favors and hates, contrary Wellsprings and Temperance-range compatibility, and every figure in the tables is that account. See [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]]. Harmonization with the correct Wellspring is one of the four conditions, alongside how its kind sits with the Path, Temperance Stage, and training, that an Ability needs to develop.
 
 **Core, in common speech** · A site in the world where a Wellspring's Aether pools. Most lie in dungeons, and some are said to lie in vast territories. A worked Core is a dungeon someone cleared and now holds: it recharges and has keepers, who can close it. Scholars keep the word for the Essence Core and say Wellspring site; the street says Core, and context has to do the rest. A monster's core is a third thing (Section VII), and people have died of that confusion too.
 
@@ -93,11 +93,13 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 ## IV. Ability & Technique
 
-**Family** · One of the Continuum's eight domains of magical phenomena. Governs which physics an Ability works. Never invented, only worked within.
+**Kind** · The sort a Wellspring falls under, naming its home plane: Wild (thirty-three, the Physical World), Spirit (fifteen, the Soul Plane), Fate (six, the Plane of Fate) or Medium (six, at home on all three). A qualifier and never a lock. Never invented, only worked within.
 
-**Affinity** · The specific phenomenon within a Family that a practitioner works. Fire within Caloria, Gravity within Vectoria.
+**Affinity** · The specific phenomenon within a Wellspring's law that a practitioner works. Fire within Pyreveil, weight within Petralon.
 
-**Method** · How a phenomenon is practiced, encoded directly into the suffix of every named discipline and into the practitioner's whole relationship to the phenomenon.
+**Form** · What the hands do, one of the lines every art states beside its Path, Lens and Gates: Strike, Shape, Read, Write, Rite, Make, Sing, Brew, Call, Bind, Claim, Pull. Each has a home Path, which is a qualifier too.
+
+**Method** · The scholars' older word for a road and a trade taken together, encoded directly into the suffix of every named discipline: fire plus -mancy. The Guild's clerks still name by it. See [[The Magic System/The Magic System|the Grammar of a Working]].
 
 **Ability** · The internalized governing system a Soul Crystal has developed. Pyrokinesis, for example. The infrastructure. It does nothing visible by itself; it is the platform Techniques are built on.
 
@@ -125,7 +127,7 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Release** · A practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold, on a clock. First from Stage IV, Second from VII, Third from IX, each found and mastered by fighting. See [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]].
 
-**Reserve** · The store of Essence a practitioner carries, counted in EU and shown on their window as a percentage and a bar. Set by Level and capped by Stage, and it refills by the pull.
+**Reserve** · The store of Essence a practitioner carries, counted in EU and shown on their window as a percentage and a bar. Set by Level and capped by Stage, and it refills as Aether is drawn in.
 
 **Temperance** · The refinement of the Soul Crystal under pressure, expressed across sixteen Stages, Murmuring through Apex. Temperance is subtraction and never accumulation: each Stage is a structural reorganization triggered by a Threshold Event, which needs a Catalyst, and banked experience alone has never opened one. A crisis, a seclusion, a tribulation, a Draft or a blessing can supply it, so a Stage can simply be bought.
 
@@ -133,7 +135,7 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Grade** · The letter-ranked output classification, F through EX+ (with Hollow below the letters), attached to a Temperance Stage, marking raw magnitude up to that Stage's Grade cap. Skills show on the same letters, and so does an item's power.
 
-**EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Set by Level and capped by Stage, and the band and benchmark reserve for each of the sixteen Stages are set out in Fracture of Worlds Part Nineteen. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering.
+**EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Set by Level and capped by Stage, and the band and benchmark reserve for each of the sixteen Stages are set out in Fracture of Worlds Part Nineteen. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering, and a Core that frays, names first and then memory.
 
 **Flux Density · EU/g** · The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output from the same reserve.
 
@@ -160,9 +162,9 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Trait tissue** · The bodily expression of a Trait. A Trait biases the Aether Shell's conductivity permanently, and because the Shell is the Material-Plane layer, the bias is laid down in flesh: mineral into bone, altered myelination, rebuilt vasculature, a resting core temperature off the population mean. Trait tissue heals on the wrong schedule in both directions, which is what makes it diagnostic. A body is a Trait record and a corpse is a better one.
 
-**Class Ø · the Dormant** · A soul whose Crystal has not opened and, in the overwhelming majority of cases, never will, because nobody trains it. Class Ø souls carry Traits like anyone else. They lack only a woken Crystal to arm them.
+**The unwoken · Aether Ø, the Dormant** · A soul whose Crystal has not opened and, in the overwhelming majority of cases, never will, because nobody trains it. The unwoken carry Traits like anyone else. They lack only a woken Crystal to arm them.
 
-**The Weathering** · Refinement under strain without a melt. The soul hardens in place along the direction it was already being used, rather than liquefying and recasting. Produces real strengthening of what a person already was and no capacity to become anything else. The universal process for Class Ø souls and the standing background process for everyone.
+**The Weathering** · Refinement under strain without a melt. The soul hardens in place along the direction it was already being used, rather than liquefying and recasting. Produces real strengthening of what a person already was and no capacity to become anything else. The universal process for the unwoken and the standing background process for everyone.
 
 **Grain** · The common word for what the Weathering produces. A man is said to have grain, or to be *set*. Borrowed from the joiners, the same word the halls use for a Crystal's seat.
 
@@ -200,9 +202,11 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Registered card** · The record a guild or assay house keeps on a practitioner: Grades, Traits, each named technique with its cost written as time from full, its tell and its counter, and the stack line. In the Archive's talk "his card" means this paper, and it is only as good as the last reading. The Character Cards in these pages are the Archive's own copies of the same kind of record.
 
-**Practitioner** · A person whose Soul Crystal is awake and working, about one in ten. Everyone else is Class Ø (Aether Ø, the sealed Shell) and touches magic through what they buy.
+**Practitioner** · A person whose Soul Crystal is awake and working, about one in ten. Everyone else is unwoken (Aether Ø, the sealed Shell) and touches magic through what they buy.
 
 **Path** · The layer of the Crystal a soul has learned to lean on, and so the direction advancement actually took: Body (the Aether Shell, in the Physical World), Spirit (the Essence Core, on the Soul Plane) or Fate (the Attraction Layer, on the Plane of Fate). Body is the literal understanding and manipulation of physical reality, climbing from matter as an object to matter as a complete system. Spirit is everything to do with spiritual reality. Fate, the hardest of them, fights with Range, Aura Pressure, presence and bonds, and on rare days moves what a result depends on. It is assessed afterward and recorded whether the person agrees or not, nobody chooses one, and it gates how far a stat may rise. A Path stands as **Mastered** (its gates are no obstacle at the person's Stage), **Walked** (three parts in ten of their practice or more) or **Studied** (knowledge and small uses, open to anyone, opening no gates). No Path is better: each has plain limits, and each can beat each. See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
+
+**Path Stage** · The highest Stage whose gates a road has opened, carried on the card for each road. Mastered means it equals the soul's Stage, read again at each Threshold. The clerk writes `Body VII Mastered · Fate VI Walked 35%`.
 
 **Continuum** · The lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power. A window is that measurement reported to the owner.
 
@@ -219,6 +223,8 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 **Essence Class** · The ladder of the Essence Core: how strong a person's influence on spiritual reality is, and from Glory the η of workings authored in the Core. Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute.
 
 **Thread Class** · The ladder of the Attraction Layer: how much of Fate a person can pull down and hold. Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. The steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral elsewhere, and it opens no earlier than Glory unless a bloodline or a blessing gives a grip.
+
+**Ceiling and rung** · The Stage sets how high a ladder may go, and practice moves a person up to it, so a bought Stage opens the ceiling and not the rung. A Walked second road's ladder runs a rung behind until mastered, and a Studied one runs two behind the lead and stops at II, or at I for Thread. Thread has no Stage climb, only a grip plus decades. Matter reads Aether, a soul or a meaning reads Essence, a condition reads Thread. See [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]].
 
 **Catalyst** · The push that opens a Threshold. The Crystal has a shape it wants for each Stage (see [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]]), and crisis, seclusion and tribulation are the old roads to it. Drafts and blessings can supply it too. The great houses hoard the top Drafts, and the poor rise by dungeon luck, guild patronage and blessings.
 
@@ -240,7 +246,11 @@ Every soul has all three layers, the unwoken included, and a **Path** (Section V
 
 **Curse** · Often a blessing with terms you did not read, or from a giver who does not care what you want.
 
-**Fate Art** · A real working of the Plane of Fate. Rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Most people touch Fate only from the outside, through a blessing or a Master Work Draft. Hataraki can take back or remove a blessing.
+**Fate Art** · A real working of the Plane of Fate. Rare, mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and considered incredibly overpowered. Most people touch Fate only from the outside, through a blessing or a Master Work Draft. Hataraki can take back or remove a blessing, with two Works or two Moto. A card writes it `Fate Art: Work · grip · Thread`.
+
+**Work** · An inherited grip on one function of Fate, the unit of Hataraki. It lowers the chance of failure and never the price, it is no glyph, and one Work does one job. A personal grip, found by nobody's teaching, can be won once.
+
+**Pull** · Reaching a thread of Fate down to move what a result depends on, priced by rung against distance from likely, as a share of the reserve. A vow spends the soul's own share, and a pull reaches above it. Not to be confused with drawing in Aether, which the older books also call the pull.
 
 **Fate fighter** · Someone on the Fate Path. Their everyday weapons are Range, Aura Pressure, presence and bonds. A real pull of a thread moves what a blow depends on, so the result arrives without having been forced, and it is rare, ruinously expensive and often fails. It moves only what already has a way of happening, shows a charge and a tell, and is contested: Dominion Fate against Resilience Persistence and Continuity. Being the hardest road makes it no better, and it loses a straight exchange.
 

@@ -80,7 +80,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 
 **Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
 
-**Look up** · Tenebra's aspect dependence in the Limina entries; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]], and Vohrin among the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
+**Look up** · Tenebra's aspect dependence in the Limina entries; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]], and Vohrin among the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.
 
 ## Numbers
 

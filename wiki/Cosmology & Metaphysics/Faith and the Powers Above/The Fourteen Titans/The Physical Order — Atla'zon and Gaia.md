@@ -22,6 +22,8 @@ He told that story against himself for thirty years, in good inns, and it is the
 
 **Ground**  The Wellspring of Strain, called Temporal Pressure. Governs gravity, linear causality, and the force that pulls Essence toward form.
 
+**Wellsprings**  Four of the Sixty are ways his posture shows up: height paid for by steps, one note held, whatever stays where it was put, and Essence kept in the shape it was poured into. His own art is written in Petralon, which is Kaldrion's, since a load has to have a down to fall toward. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Ascensio]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Basilithe]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Chthonica]]. Medium: [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Fixatio]].
+
 ### Manifestation
 
 A kneeling colossus of marble, obsidian and voidlight at the equatorial core of creation. His spine traces the gravitational lines of every world. His heart is the ticking of the Loom, faintly audible as the Pulse of Time. Once in a thousand years he exhales, and new Wellspring sites do not so much form as get compressed into being by the pressure of it.
@@ -69,6 +71,8 @@ Aegor, Body, Epoch. Grants structure and purpose. Bairos, Fate, Epoch. Imbues in
 **Domain**  Matter, Form, Life, Stability, Evolution
 
 **Ground**  The Wellspring of Form, called Corpus. A labyrinth of glowing strata beneath the crust where Essence condenses into crystalline ore. The source of Soul Crystal latticework.
+
+**Wellsprings**  Four of the Sixty are ways her mantle shows up, every one of them matter finding its way back into a body or a seam. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Coagula]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Coagulatio]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Materia Primordia]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Terranova]].
 
 ### Manifestation
 

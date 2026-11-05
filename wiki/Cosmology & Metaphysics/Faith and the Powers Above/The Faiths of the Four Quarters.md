@@ -152,28 +152,3 @@ Most cults die in obscurity for want of kin and friends to recruit through, and 
 >
 > The doctrine is the least dangerous thing about them. They are right about the ground going thin and everybody can see it going thin, and the Accord's answer to the question they are asking is that the calendar is the calendar.
 
-## Part Four: What To Do With This At The Table
-
-**Name the faith by the practice, never by the creed.** Leave the word Currenter to the clerks. The character is a man who changes the water on the shelf every morning and has not thought about why since he was nine.
-
-**Petition is the tell.** Where a character goes when they want something badly places them faster than any statement of belief. The Sohai bars it, the Scale prices it, the Current is made of it, the Tally has no grammar for it, and the Sky does not consider the sky to be listening.
-
-**Every faith on this page is wrong about something specific**, and the scene is usually in the gap. The Current kills the people who practice it hardest. The Tally has lost a century. The Scale's weights were made by interested parties. The Sohai cannot see Singling in itself. The Sky's competence runs out in exactly the winter that matters.
-
-**The votive is free texture and costs one line.** A shelf of tin hands at a seep. A ribbon at a wellhead. Coins nobody takes.
-
-## Author Notes
-
-Researched rather than recalled.
-
-**Domestic devotion.** Pre-modern religious life ran substantially in the home, with most households holding objects of ritual significance ranging from fine work to cheap mold-made items, and the same devotional practices spanning all social strata. Petitions increasingly moved into the domestic setting, with a promise to visit a shrine with an offering if help arrived.
-
-**Votives.** The vow is the lynchpin of the arrangement between the petitioner and the power, with the ex-voto given in hope or gratitude. Votives were frequently mold-made, inexpensive and used by ordinary people, and anatomical votives shaped like the afflicted body part were widespread across both pagan and later Christian shrines. The shelf of tin hands is this practice, transposed.
-
-**Cult recruitment.** Interpersonal bonds are the essential mechanism, established quantitatively across several very different groups. Doctrine follows attachment rather than preceding it. Recruitment runs along existing networks and works most efficiently on people with few countervailing commitments, a condition the literature calls **structural availability**, and joiners are typically in a life transition and were introduced by somebody they already liked. Most new movements perish in obscurity for want of a recruitment network.
-
-**The three forms** are the standard typology: audience cults transmitting broadly with no membership, client cults built on a personal relationship between practitioner and client, and cultic movements demanding full commitment. Tithing, fundraising, communal living and separation from non-members are the documented commitment mechanisms.
-
-**The caveat, and it belongs on the page.** Nearly all of this literature describes one window, largely Anglo-American movements between the mid-1960s and mid-1980s, examined by sociologists arguing explicitly against the brainwashing accounts then current in the press, and that argument shaped which questions were asked. Within the model the friendship element has held up considerably better than the turning-point element, which was tested against other movement data and found weakly supported. The friendship finding is the one this page leans on.
-
-The Current, the Tally as a named religion, the Sky as a named religion, and all three cults are originated. Sohai and Sancta Lux are summarized from existing canon and not altered.

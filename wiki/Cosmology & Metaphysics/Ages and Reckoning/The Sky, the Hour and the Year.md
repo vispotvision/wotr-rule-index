@@ -137,28 +137,3 @@ The Sohai, being a religion of the Reading, holds that this is not a scheduling 
 | **The Mandate** | Guild hour, adopted instantly and completely | Accord count | A decree read at the same moment everywhere is a better decree |
 | **Kharven** | a fire's length, a broth, the Thin Weeks | the return of the grass | No Guild clock has ever reached the seat |
 
-## IX. Hooks
-
-**The morning nobody watched.** The Sower rises once, briefly, before dawn, and somebody has to be on high ground looking east. A year in which the observation was missed, or was made and suppressed, is a year whose date is contested afterward.
-
-**Munahi and the debt.** A note falls due on the last day of February, and the year is a leap year. The holder swears it fell due on the nameless day and is therefore not a due date at all. He is probably right and the Bench has never enjoyed being asked.
-
-**Two columns, one oath.** A Cask-Oath's term expires on an entry that falls on different sides of the boundary depending on whether hold hour or Guild hour governs. The brew is still alive. Somebody wants it not to be.
-
-**The eleven days.** A Moto household observes the year's turn eleven days before the Accord does, has done for generations, and pays its taxes on the Accord's date while burying its dead on its own. Every year one of those two facts is quietly humiliating.
-
-**Born on the coincidence.** A child born on Munahi when it falls on Tarturon's Wellspring-day. Nobody will say what it means. Everybody treats the child differently.
-
-## Author Notes
-
-**The calendar** is the real one: twenty-four hours, seven weekdays, twelve months and a leap year. Only the year counts are the world's own. Older scenes and papers that use a fourteen-day turn, thirteen months or fourteen divisions of the day stand as written.
-
-**The nameless day** is built on the real leap day and on the Egyptian epagomenal days, a short period reckoned as belonging to none of the months. Everything about the law being asleep on it is originated.
-
-**The sixty-count** is built on the sexagenary cycle, a continuous sixty-unit count running independently of the calendar and used for dating days and years alike. The WOTR version drops the two-part stem-and-branch generator and simply uses the sixty Wellsprings in register order, which the setting already had.
-
-**Era names** are built on the nengo system, in which years are counted within a named era declared on accession and re-declared on auspicious or inauspicious events, so that the date itself carries a judgment about the period. This maps onto the Moto register exactly and is the reason the Moto and the Accord cannot use each other's dates without a table.
-
-**The drift** is built on the Sothic cycle: a civil year of fixed arithmetic length slipping steadily against the observed heliacal rising of a fixed star, with the discrepancy accumulating over centuries and the rising itself serving as the anchor the calendar is supposed to match.
-
-**A spelling note.** The source document renders the religion with a macron. The Tongues framework bars diacritics across the setting without exception, so it is written **Sohai** here and should be written that way going forward.

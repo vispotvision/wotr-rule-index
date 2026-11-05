@@ -20,12 +20,14 @@ The Research and Archives Division explains below what was standing at that trou
 > **The Crystal comes apart**, into three products with three destinations and three separate laws.
 >
 > **Everything difficult about death in the four quarters follows from the fact that they do not leave together.**
+
+A soul has [[Cosmology & Metaphysics/The Making of the World/The Three Epochs|three layers because three hands made it]], and each of the three goes back its own way. **The Essence Core becomes the Echo. The Aether Shell becomes the Temperance residue, which leaves through the body. The Attraction Layer becomes the Name-record.**
 ```mermaid
 flowchart TD
     D["DEATH<br>the lattice disassembles"]
-    D --> E["THE ECHO<br>memory, habit, voiceprint,<br>the texture of how a person moved"]
-    D --> T["THE TEMPERANCE RESIDUE<br>every Threshold crossed, every stage climbed,<br>every seated carry and harmonization"]
-    D --> N["THE NAME-RECORD<br>the bare fact of the person:<br>that they existed, what they were called"]
+    D --> E["THE ECHO, from the Core<br>memory, habit, voiceprint,<br>the texture of how a person moved"]
+    D --> T["THE TEMPERANCE RESIDUE, from the Shell<br>every Threshold crossed, every stage climbed,<br>every seated carry and harmonization"]
+    D --> N["THE NAME-RECORD, from the Layer<br>the bare fact of the person:<br>that they existed, what they were called"]
     E -->|"within hours"| SP["THE SOUL PLANE<br>spirit law"]
     T -->|"nine days, by diffusion<br>through the body"| W["THE WELLSPRING<br>the Wellspring's own law"]
     N -->|"filed permanently"| A["THE ARCHIVE OF NAMES<br>Order"]
@@ -39,7 +41,7 @@ flowchart TD
 
 ### The Echo goes first
 
-Within hours, **and the departure is perceptible to anyone with even passive sensitivity to the Veil (the membrane between the living world and the Soul Plane)**, which is most people at a deathbed even if they have no vocabulary for it.
+Within hours, **and the departure is perceptible to anyone with even passive sensitivity to the Veil (its inner fold is the membrane between the living world and the Soul Plane)**, which is most people at a deathbed even if they have no vocabulary for it. An Echo leaving is the ordinary course of a death. It is the Echo that cannot leave, or will not settle once it has, that gets anyone called out at night.
 
 **This is how death is actually determined in the four quarters.** A body whose Echo has departed is dead in the sense the law means. **A body whose Echo has not is not, whatever the breath and the pulse are doing**, and the practice of sitting with the dying until the room changes is universal, ancient, **and correct.**
 > It is also why the fear that troubles other traditions **runs the opposite direction here.**
@@ -59,6 +61,32 @@ Nine days is the figure. It varies with Stage, with the Wellspring concerned, wi
 ### The Name-record files last and does not close
 
 The Archive receives the Name-record **and the Archive does not release it.** A name entered is entered permanently, which is why the Law of Silence forbids naming captured Outer Realm entities, **and why the destruction of a Name is a category of violence distinct from killing and considerably worse.**
+
+---
+
+## What the Road Changes
+
+*Every soul leaves all three. Which one is heaviest depends on what the soul spent its life leaning on.*
+
+A [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] is the layer a Crystal learned to lean on, and a layer leaned on for fifty years is a heavy thing to set down. **The Path sets the heaviest product.**
+
+| The dead of | Heaviest product | What it means in practice |
+|---|---|---|
+| **The Body Path** | The residue | **These are the dead the renderers race for.** A Body master's corpse is the richest stock in the trade, the family counts days, and the guards at the wake are armed for a reason |
+| **The Spirit Path** | The Echo | **They haunt.** The Echo goes on time and goes heavy and clear, and it does not settle quickly. Nobody buys a Spirit master's house for a generation, and the Melancholic Erosion described below comes on early and comes on hard |
+| **The Fate Path** | The Name-record | **They leave vows still binding.** The name is filed and whatever was tied to it stays tied, with no one left to release it. A dead Moto swore a bridge on the Tobi would never carry a Shirogane, and the Shirogane still go round |
+
+### Who is repaid
+
+**The residue goes to the lens the soul tempered on longest**, whatever else it took up on the way, and it is that [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] which is repaid. A soul with five lenses pays one creditor. **The unlensed, who are most of the world, feed the ground they lie in**, and every parish knows without being told why a good graveyard grows good beans.
+
+### Cutting the Crystal
+
+The lattice takes those nine days to finish coming apart, and for that long it can still be found in the body, **which is why a Crystal can be cut from a corpse inside the window and never after it.** What the cutter takes is the lattice with the residue still in it. The ninth day leaves nothing to cut. [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]] gives the trade's side of this, and the law's side is the worst crime in every realm.
+
+### Rebirth
+
+Rebirth moves pattern and never a person. **Bloodlines repeat, Traits resurface three generations on, and an Echo set into a successor gives the successor a dead woman's reflexes and her grief.** All the faiths have fine words for this, and the Division has no quarrel with the words. The woman is still dead. **Every death in the Division's returns is permanent**, and the roads that claim otherwise are entered under fraud or under [[#Necromancy|the section below]].
 
 ---
 
@@ -144,7 +172,7 @@ An engagement produces several thousand bodies in one place inside one hour, **e
 
 **The nine days** · Varies by Stage, Wellspring and site, **and the variance has never been characterized.** The law uses nine because the practice uses nine **and the practice uses nine because it always has.**
 
-**Cumulative Wellspring shortfall** · Four centuries of Class IV rendering represents Temperance that was not returned. **No estimate exists.** Producing one requires the volume of the trade, **which the Bench has declined four times to establish.**
+**Cumulative Wellspring shortfall** · Four centuries of Class IV rendering represents Temperance that was not returned. **No estimate exists.** Producing one requires the volume of the trade, **which the Bench has declined four times to establish.** One Guild auditor has set the question beside the [[Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages|Withering]] and observed that the two columns look alike. *The Division has noted the observation and holds no position.*
 
 **Constructs whose residue has not completed** · **At least three are known to the Enforcement Division.** The oldest is not dated in the public record. *The entry states that the matter is monitored.*
 

@@ -138,3 +138,5 @@ The owner sees all of this in letters. A normal look at the window shows the Eig
 ```
 
 The raw values above are what a sheet costs out and what a Measurewright reads. Nobody's own window has ever shown them, and Jory could not have told you what a Sub-Stat was on the best day of his life, which this one was.
+
+*Read next: [[The Magic System/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten)|Parts Four to Ten]]. The account in words is [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]] and [[The Magic System/The Soul and the Climb/Skills and Trait Levels|Skills and Trait Levels]].*

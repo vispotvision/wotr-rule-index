@@ -1143,7 +1143,7 @@ She left with a crossbow bolt through the shoulder, in a hay cart, at speed. The
 
 **The idea** · Change without loss. The same thing said another way, so that what looked like a failure turns out to be fuel in an inconvenient form.
 
-**The turn** · Discovering that where you are is a choice. It treats a thing's location as no less governable than its shape.
+**The turn** · Discovering that where you are is a choice. It treats a thing's location as no less governable than its shape. A soul under it is always a little bit somewhere else, and a rough result here is a lost afternoon or a lost foot.
 
 **Kind** · Wild
 

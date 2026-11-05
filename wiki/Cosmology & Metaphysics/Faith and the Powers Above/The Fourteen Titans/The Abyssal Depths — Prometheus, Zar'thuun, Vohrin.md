@@ -22,6 +22,8 @@ The monks of the Abyssal Hymn came up the ridge road in the second week, in long
 
 **Ground**  The Wellspring of Finality, called the Pyric Heart. A burning sphere of liquid Aether that refines unworthy soul fragments into pure Essence vapor.
 
+**Wellsprings**  Six of the Sixty are this fire at a size a soul can use: what it leaves behind, the temper, the go-between, the burn that renews, the change of state, and the remorse that burns in the open. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Cinerion]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Exuroth]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Manganthra]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Pyreveil]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Transmutatio]]. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Penanceflare]].
+
 ### Manifestation
 
 A colossal figure forged of blackened iron and flame, bones molten, breath a storm of sparks. Chains of cooling magma drape from his wrists as symbols of self-restraint. His heart is visible, a radiant core burning with countless faces of the dead, each screaming once before vanishing into white light. Mountains erupt where he walks with no rage in it at all, as cosmic maintenance, vents to keep the world's blood from clotting.
@@ -69,6 +71,8 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 **Domain**  Void, Cosmic Dread, Silence, Non-Existence, Reflection through Terror
 
 **Ground**  The Wellspring of Dread, called Null Essence. Inverted. It absorbs where every other Wellspring radiates, and appears as a sphere of absolute black ringed by dissolving starlight.
+
+**Wellsprings**  Three of the Sixty are ways his boundary shows up: peace with the deep, the hollow law, and a name that has stood at the edge and come back. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Abython]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Nihiloth]]. Fate: [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Oblivara]].
 
 ### Manifestation
 
@@ -118,6 +122,8 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 **Domain**  Oblivion, Frost, Stasis, Memory Erosion, Eternal Sleep
 
 **Ground**  The Wellspring of Oblivion, called the Stillwater Core. A frozen motionless ocean of Aether that neither emits nor absorbs and simply holds absence in shape.
+
+**Wellsprings**  None of the Sixty. Thirteen Titans hold all sixty between them, and this one holds none: his frost is a Titan's own power worked at Wellspring level, drawn on directly by the northern arts and written up in a note at the foot of [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|the Wild register]].
 
 ### Manifestation
 

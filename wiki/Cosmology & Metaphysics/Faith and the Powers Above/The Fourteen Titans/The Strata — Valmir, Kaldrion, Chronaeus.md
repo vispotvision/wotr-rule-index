@@ -22,6 +22,8 @@ The Ledger Monks came up from Hallow Reach within the week. The new Margrave had
 
 **Ground**  The Wellspring of Collapse, called Entropic Equilibrium. A vast canyon of floating crystal slabs over a molten abyss, which exists to ensure no energy anywhere stagnates.
 
+**Wellsprings**  Five of the Sixty are ways his permission shows up: the instant a thing changes in kind, the bond let go, the place it will break, pressure never saved up, and the gate itself looked at squarely. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Cataclysm]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Dissolution]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Fractura]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Solfatara]]. Medium: [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Mortalis]].
+
 ### Manifestation
 
 A colossal being of cracked glass and lava whose body splits and reforms continuously along golden seams. Stars flicker inside his fractures like trapped souls. His voice is a deep seismic hum heard through bone rather than ear. Gravity behaves erratically where he walks, bending upward and inward as though the world were exhaling. To look at him is to watch the architecture of collapse, each break a syllable in the divine language of endings.
@@ -70,6 +72,8 @@ Aegor, Body, Epoch. Stabilizes the form before it shatters. Bairos, Fate, Epoch.
 
 **Ground**  The Wellspring of Foundation, called the Deep Grid. A hexagonal lattice of mineralized Aether beneath the oldest crust that distributes pressure instead of flowing or storming.
 
+**Wellsprings**  Three of the Sixty are ways his grid shows up, each of them a soul learning to carry: the monument, the thing that bends and keeps its word, and the floor. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Monolithion]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Orrenthal]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Petralon]].
+
 ### Manifestation
 
 A colossal seated titan half-fused with a throne of black stone and pale crystal, his body carved from layered strata rather than flesh. His shoulders are mountain ridges. His ribs stand exposed like buttresses under cracked marble skin, and from his back rise six immense crystalline pillars like the teeth of a buried crown. His face carries no anger, only impossible concentration, the look of something forever listening to the groan of worlds under load. He moves with devastating slowness, each gesture preceded by grinding bedrock and followed by the realignment of stress-lines across vast distance. His voice arrives as strain before it arrives as sound: the creak of timber, the sigh of a bridge, the subterranean moan before a faultline goes.
@@ -117,6 +121,8 @@ Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion,
 **Domain**  Inevitability, Timeflow, Historical Momentum, Accumulated Consequence, Pace of Eras
 
 **Ground**  The Wellspring of Continuum, called the Fossil Ring. A toroidal band of condensed fossilized time encircling the outermost Celestial strata, regulating the rise and fall of every other Wellspring.
+
+**Wellsprings**  Four of the Sixty are ways his pace shows up: the ember kept for a lifetime, the night that puts nothing down, the cup that settles old pain on its own schedule, and the past compacted where a soul can read it. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Pyraeon]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Vantabriel]]. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Lethegraal]]. Medium: [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Anamnesis]].
 
 ### Manifestation
 

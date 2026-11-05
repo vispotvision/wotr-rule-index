@@ -197,3 +197,5 @@ At low Grades, Dominion is mild ambient influence, the instinctive way a strong 
 **Throne** — Latent compatibility between accumulated doctrine and the Hollow Thrones of defunct Archons. Not a measure of power. A measure of destiny. **Throne carries no Temperance ceiling and is excluded from the Dominion total and the Dominion mean**, since its floor sits above every ceiling in the Stage table and including it would distort the Primary beyond use. Dominion's mean is the total divided by seven. It is carried as its own line on the character sheet.
 
 ---
+
+*Read next: [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|Parts Thirteen to Fifteen]]. For which road opens which Sub-Stat, see [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] and [[The Magic System/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten)|the gate table]].*

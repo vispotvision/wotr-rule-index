@@ -75,6 +75,30 @@ The scholars have an account of every one, in the plain words below, and two of 
 
 **Zenkō** is what all of it looks like with no door to come through. Nobody has seen it who is alive. The old accounts of the Third Epoch's first mornings say Ashura looked at a battle once, from a kitchen step, and that it stopped until she had finished what she was doing.
 
+### How the seven stand to one another
+
+| Regard | Its labor in one line | What answers it | What a Yukari of this Regard tends to temper on |
+|---|---|---|---|
+| **Mushō** | knows what is there | Resilience Ward, as any read is answered | Eclipseron · Mirithane · Oneirion · Anamnesis |
+| **Jōshi** | keeps it as it is | Integrity and Anchoring | Fixatio · Mortalis · Nyxial · Basilithe |
+| **Ruten** | lets it finish | Integrity and Anchoring, and being sound | Lethegraal · Mortalis · Dissolution · Cataclysm |
+| **Kagenashi** | lets nothing happen to it unseen | Nothing on the soul; a spear in the body | Oblivara · Mirithane · Nyxial · Absolution |
+| **Ninshiki** | says what it is | Being what you say you are | Judicium · Penanceflare · Aurevane · Anamnesis |
+| **Mugan** | stops knowing it | Anchoring, while it lasts | Nihiloth · Letheveil · Eclipseron |
+| **Zenkō** | all of it, at once | Unknown | None on record |
+
+The lens lists show what a holder of that Regard has usually lived with, and a Regard does not depend on any of them. Three pairs are worth knowing. Mushō and Ninshiki are one act in two tenses, since one knows what you are and the other says so, and a holder of the Reading alone has to find somebody else to do the saying. Jōshi and Ruten are one look at two rhythms, and a Yukari who holds both can run a wound forward and stop it at the hour of her choosing, which is the most feared thing a physician of the house can do and also the most useful. Kagenashi and Mugan stand opposite: one gives a soul everything it could need to stay itself, and the other takes that away, and nobody has ever held both and stayed in the room with them.
+
+## Known, and Kept
+
+Attraction Force, the third of the great forces, is the law of recognition: one presence acknowledges another, and the acknowledgment persists as continuity. Null-Light looks very like it from outside, and the Measurewrights have spent a good deal of ink on the difference. Attraction runs on the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Attraction Layer]] and goes both ways, so that whatever is bound to you has you too. A Regard runs on the Core and goes one way. Nothing arrives and nothing comes back, and a soul can be kept for years by someone it would not know on the road.
+
+Obsession Force is what recognition becomes when the bond is no longer honestly witnessed, and a Regard has its own version with no thread in it. The house calls it **keeping**, and it says the word as other families say the name of a drinking uncle.
+
+In the east wing of the Cedar Enclave there is a clean room with a good view of the cedars, and in it a man named Yukari Tadashi has been in the middle of a sentence for thirty-one years. He had a stroke at his own table in the year of the second Mashi drought, saying something to his wife about the price of seed. His wife, Hisano, is a Shepherd of the house and holds the Fixed Regard, and she looked up. She has not looked anywhere else since. She takes her meals in that room and has her hair done there, she runs the Enclave's whole silk accounts from a low desk with her eyes on him, and his mouth is still a little open. Under [[The War Cycle/The Wounded and the Dead/The Crossing|the Crossing's]] plain law a body whose Echo has not left is not dead, so he is alive in every court in the south. He has been re-elected twice to the Mashi grain board by proxy. His heirs have sued four times, the Null Wardens have come up the hill twice with their throats sealed and gone down again with nothing to break, because the three products of a death have to part before anyone can hold them together, and these have never parted.
+
+Every Yukari child is walked past that door before their first Telling. They are told he has thirty-one years of a stroke waiting for him, that she knows it to the hour, that it will all land on him in one breath the moment she looks away, and that she is by every measure the kindest woman in the house. Then they are asked what they would do. The house does not give an answer, and it has heard a great many.
+
 ## The Climb
 
 The Regards climb on [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Essence Class]], the ladder of the Essence Core, and the blood's only gift here is that the ladder opens early for a Yukari. Stage sets the ceiling, practice moves you up to it, and no purse has ever bought the rung, so a Yukari who buys a Stage has bought a higher room to be just as bad in.
@@ -88,6 +112,31 @@ The Regards climb on [[The Magic System/The Soul and the Climb/Classes and the T
 | **V · Ferryman** | Holds many. A line of the dying, a company, a field |
 
 The hard part of this climb is plain. A hitter gets stronger and stays more or less the person who started. Each rung here means knowing more people more completely, for good.
+
+On a card the art takes one line, `Null-Light: Regard · Essence Class`, beside the eye. A Moto's card has its own line for a Work, and the two houses have been known to read each other's aloud at weddings.
+
+## In a Fight
+
+Most of the time they only read. A Yukari in a duel sees your hurts, your lies and your next step, and then puts a very ordinary knife or a thrown line where you are about to be, as a Moto reads a seam and puts a sword in it. Add what the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Spirit Path]] gives anyone, force that holds together at range and a body nobody would pay to insure, and you have a frightening person who has not yet done anything difficult.
+
+A Regard proper is the difficult thing, and it works by rules a fighter can use.
+
+- **It wants a looker with the thing in mind.** Line of attention is the whole of its range, and the climb sets how far that goes: a room at Confessor, a field at Ferryman. A wall does not stop it, and a good blow to the concentration does.
+- **It is answered on the soul.** Armor and Durability never come into it. A read tests against Ward, and a Hold or a Slip tests against Integrity and Anchoring, Grade against Grade, with Stage setting the Pressure and the upset limit as it does for anyone.
+- **A Release can be caught on the way up.** Jōshi stops a rising transformation at the stage it has reached, with the body half changed and the strain of the rise still running, and few fighters have enjoyed that. A Release already risen is a finished thing and much harder to hold, since nothing in it is on its way anywhere.
+- **A Domain has to be named to form,** and in the moment of naming it is on its way somewhere too. Past that moment a Hold has no purchase on a claim made on the Layer. Only Mugan can take a formed Domain apart, by no longer recognizing its law, and the two rooms at the back of the Enclave are where that road ends.
+- **Each thing held takes attention from the next.** Past what her rung can hold, a Holder who turns to a second fight is letting go of the first, and everything she was holding slips at once. Good fighters arrange a second fight.
+- **Spending shows in the Core and nowhere else.** No heat, no glow and no roar. A Null-Light fighter at a tenth of reserve has only the reserve's ordinary tells in the body, and the fray begins, and she may start getting your name wrong.
+
+### The tooth at Sealhall
+
+The Regard's most famous bout was lost. Yukari Ren, nineteen, a Confessor with the Slip and the Reading both, had gone through the Refraction bracket at Sealhall in a season like a dose of salts, her crow-black sash and her small polite bow becoming the most frightening sight on the Accord's sporting calendar, because every fighter alive has been hit in the last ten years and she only had to look at where. In the quarterfinal the bookmakers gave her at one to nine against a Red Anvil named Big Aldous Harrow, who had read the counter and taken it seriously. He had spent six months and his mother's house on physicians. Every old break was reset, every scar seen to, and a Vitalia woman from the Rose Coils had gone over him for a month. He came out into forty thousand people in new yellow boots with a surgeon's certificate of soundness pinned to his chest, and he read it aloud.
+
+She looked. Nothing happened, and a noise went round the stands that the old men still talk about. He crossed the sand at his leisure and broke her left collarbone with one open hand, a sound like a green branch going, and she went down and got up with her arm hanging and went on looking, because the Reading goes all the way down and physicians do not. On the far side of his jaw, under a crown of good Hallenfeld silver, was a back molar with a small soft place in it that would have troubled him in about twelve years. She slipped it.
+
+Twelve years of tooth went by in one breath. The root went, the abscess came up through the bone and his whole left face filled like a wineskin, tight and purple, until his eye shut and a rope of pus and black blood burst out of the gum and down the certificate. He screamed so that they heard him at the Sealhall clock, and all the betting stopped. A tooth is no part of a man's reach, though, and a Slip can only finish what is already going wrong. Big Aldous Harrow, weeping, with half a head the size of a melon, walked the rest of the way across the sand and broke her other collarbone, and she yielded with her chin, which was what she had left.
+
+He took the bracket. She has the Slip still, and a way of looking at people's jaws when they smile. The real winners were the tooth-drawers, since within the year every Body fighter in the four quarters who could afford it had a mouth like a cellar door, and the certificate of soundness is now a trade with guild marks and forgers and a very good living in it. Every Yukari child hears this one too, for the part about how a sound body outlasts a slip, and for the part about how nobody is.
 
 ## At War
 
@@ -121,7 +170,7 @@ Holders also grow shadowless themselves. It comes on by inches. People forget th
 
 **Counter** · Break the line of attention: it needs a looker and not an eye, so a sack over the head does nothing and a blow to the concentration does a great deal. Fill the field with more souls than can be held, which is the oldest Vermilion answer and the reason they bring so many spears. Use the target's own contrary Wellspring, since a soul whose lens runs against the look is harder to keep still. Fate can move what the look depends on, and every Regard depends on something: a wind that puts the smoke in her cousin's eyes, a messenger who arrives at the right moment. And a sound body simply outlasts a slip, because a Slip can only finish what is already going wrong, so the man to send against the Crow is the one who has never been hurt and is wearing good boots.
 
-The Paths come round as they always do. A hitter who reaches her finds a fragile body and no heat in it. A Spirit fighter is the one person who can feel the Long Look on the Core and go for the hand behind it. The Moto can read a Yukari's threads as she can read theirs, and each house has spent a thousand years wishing it could not.
+The three roads come round as they always do. A hitter who reaches her finds a fragile body and no heat in it. A Spirit fighter is the one person who can feel the Long Look on the Core and go for the hand behind it. The Moto can read a Yukari's threads as she can read theirs, and each house has spent a thousand years wishing it could not.
 
 **Tell** · The courtyard stones. Near a working Regard, things stop casting shadows.
 
@@ -129,7 +178,7 @@ The Paths come round as they always do. A hitter who reaches her finds a fragile
 
 Ashura held it whole. The [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye|Ketsumyōgan]] carries a fragment of it, which is why a Yukari look leaves a room as it found it and why the third Yukari teaching is *see without taking*. The Seikai had the Null without the Light: they could cancel a boundary and look through the hole, and every look they took cut what it looked at. No living Yukari holds Null-Light whole. The house's deepest meditation reaches toward it, and the house says plainly that nobody has arrived.
 
-The eye and the instrument are different things, and people outside the house confuse them constantly. The eye sees the threads, and an editing Yukari is working Fate on top and paying for it. Null-Light works on what is known and pulls no thread at all. The fragment can be pushed, and the people who have pushed it are written down. It will ride a good blade for one plane and one stroke, canceling a working it matches along the line of the cut, though on plain matter that blade is only an edge. On the Kessen road Lord Naiser Yukari is said to have thrown it over a whole stretch of road at once, a man-shaped dark at the middle, with every cedar, carriage and crow around him gone shadowless, and the only shadow left in the valley lying under him and stretching toward the thing he meant to kill. The house has declined to discuss what that cost.
+The eye and the instrument are different things, and people outside the house confuse them constantly. The eye sees the threads. Its Perceive types run on the Core at Essence Class, while its Edit types are true pulls at [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Thread Class]], so an editing Yukari is working Fate on top and paying for two roads. Null-Light works on what is known and pulls no thread at all. The fragment can be pushed, and the people who have pushed it are written down. It will ride a good blade for one plane and one stroke, canceling a working it matches along the line of the cut, though on plain matter that blade is only an edge. On the Kessen road Lord Naiser Yukari is said to have thrown it over a whole stretch of road at once, a man-shaped dark at the middle, with every cedar, carriage and crow around him gone shadowless, and the only shadow left in the valley lying under him and stretching toward the thing he meant to kill. The house has declined to discuss what that cost.
 
 **Path** · Spirit. **Lens** · A Yukari of this art tends to temper on Nihiloth, Mortalis and Oneirion, and a Regard does not depend on the lens. **Form** · Read, and at the far end Write. **Gates** · Essence Class, as above; Source is Inherited, by the blood or by the Telling.
 
@@ -138,6 +187,30 @@ The eye and the instrument are different things, and people outside the house co
 **Folk belief** · Southern commons say you cannot feel a Yukari looking at you. Half true: you cannot feel the good ones.
 
 **What nobody knows** · Why recognition needs nothing to arrive in order to be complete.
+
+## The Three Instruments
+
+Every Epoch left its line an eye and a way of using it, and each one is the far end of a road. None of them is better than the others, and the houses have spent a very long time testing that.
+
+| | [[The Disciplines/Named Arts/Matla\|Matla]] | **Null-Light** | [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate\|Hataraki]] |
+|---|---|---|---|
+| **Epoch** | Aegor | Ashura | Bara |
+| **Line and eye** | Zettari, the Everlasting Eye | Yukari, the Ketsumyōgan | Moto, the Shingan |
+| **Road and ladder** | Body, Aether Class | Spirit, Essence Class | Fate, Thread Class |
+| **Parts** | Nine Practices | Seven Regards | Seven Works |
+| **In a line** | To exist is to bear | To be known is to be held | Tells the world its job |
+| **Needs** | Existing substance | A soul or a thing to know, and a looker | A way for it to happen already |
+| **Price** | Recoil through body and Crystal | The Long Look | Blood, reserve and the odds of failing |
+
+## Discrepancies of Record
+
+*Attested, not reconciled.*
+
+**The Seikai count.** The one Seikai document the Archive holds lists six looks, with Mugan first and no Zenkō at all, and it calls the Yukari's seventh a kitchen story. The house's position is that the Seikai would say that.
+
+**The Kessen road.** Lord Naiser's dark on that road matches no Regard on the stones. The Guild has filed it as a pushed fragment of the eye, the house has filed it nowhere, and three Measurewrights who have walked the road since have come back with three opinions.
+
+**Numbers.** Seven Regards, one normal to a person, two rare, all seven held by nobody living. Five working rungs of Essence Class, Listener through Ferryman. Three stones at the Cedar Enclave. No EU figures live here: a Hold is priced on its holder's card, as how long it lasts from full.
 
 ---
 

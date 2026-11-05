@@ -80,7 +80,7 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 **Fails against** · Distance beyond six meters, and bolts from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
 
-**Look up** · The Counterplay register for anchors; the Caloria entry for Cinerion and the Vohrin note on the same [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|page]], and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.
+**Look up** · The Counterplay register for anchors; the Caloria entry for Cinerion and the Vohrin note on the same [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|page]], and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.
 
 ## Numbers
 

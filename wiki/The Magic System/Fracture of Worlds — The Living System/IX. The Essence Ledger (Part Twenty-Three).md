@@ -395,3 +395,5 @@ Every figure in this Part is a figure someone can use against the person it desc
 **Its numbers stay in band.** Every reserve stands against its Stage's band (see “Where a reserve sits against its band”), including those that sit under it and those that stand past the gate.
 
 **And it is findable.** Part Four gives the Grade ladder. Part Five gives the Stage gates. Part One gives the Level gates. Part Nineteen gives η and the Starvation floor. The Counterplay page gives the four routes. This Part joins them and adds nothing that cannot be derived from them with a calculator. **Nobody has to be told the answer, and the answer is there for anyone who looks.**
+
+*Read next: [[The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four)|Part Twenty-Four]]. For what a spend looks like on the body, see [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]].*

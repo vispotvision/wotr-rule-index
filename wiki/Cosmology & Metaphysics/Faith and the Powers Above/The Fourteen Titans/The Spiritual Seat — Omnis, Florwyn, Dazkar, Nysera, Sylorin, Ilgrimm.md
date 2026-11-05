@@ -22,6 +22,8 @@ She died on the fifth day with the bidding at nine hundred in silver, holding up
 
 **Ground**  The Wellspring of Breath, called Motion and Ascension. The spiritual equivalent of respiration. Governs vitality, aspiration, and metaphysical ascent.
 
+**Wellsprings**  Six of the Sixty are ways his breath shows up: a whole body answering, the open ways of the air, the first spark, rising by degrees and rising at a stroke, and light that arrives as it was sent. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Anima Spirare]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Cymorath]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Ignivale]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Sublimare]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Sublimatio]]. Medium: [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Aurevane]].
+
 ### Manifestation
 
 A celestial dragon stretched horizon to horizon, scales an aurora of gold and blue flame. Each scale is a realm. Each breath is a constellation. Comets ignite when he exhales and stars fade when he draws in. His wingspan measures the spiritual distance between the Divine Realm and the lowest abyss, and he is the only thing that crosses both without distortion. Mortals see him only as dragons, since every draconic lineage is one facet of his breath condensed into flesh.
@@ -69,6 +71,8 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 **Domain**  Renewal, Growth, Resurrection, Organic Memory, Wellspring Harmony
 
 **Ground**  The Wellspring of Renewal, called Verdance and Memory Reclamation. Regenerates spent Essence into coherent harmonic states. It underlies what the faiths call reincarnation, which is pattern carried forward and never a person, and bloodline Trait inheritance both.
+
+**Wellsprings**  Four of the Sixty are ways her law shows up, in three kinds: the cycle and the green, the wound remembered into strength, and grace given without counting. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Rebirthine]], [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Verdantia]]. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Redemption]]. Fate: [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Benediction]].
 
 ### Manifestation
 
@@ -118,6 +122,8 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 **Ground**  The Wellspring of Equilibrium, called Judgment and Penance. The Purganeth Wellspring mirrors all incoming energy back in kind. It is the metaphysical basis of karma and the only Titanic ground that produces no output of its own.
 
+**Wellsprings**  Seven of the Sixty are ways his proportion shows up, the most of any Titan and every one of them some form of the account coming due. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Judicium]]. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Absolution]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Contrition]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Mirithane]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Penance]]. Fate: [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Oblation]], [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Tarturon]].
+
 ### Manifestation
 
 A colossal armored figure of radiant obsidian, face behind a mirrored helm. From his chest hang scales suspended on chains of light, one pan holding eternal flame and the other eternal shadow. His voice goes unheard and arrives as a vibration, shaking the soul into confession. Purganeth mirrors him. Endless halls of reflective obsidian where souls walk alone and their steps echo their truths back at them.
@@ -165,6 +171,8 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 **Domain**  Dreams, Imagination, Illusion, Thought, Subconscious Creation
 
 **Ground**  The Wellspring of Veils, called Dream and Perception. Governs imagination and self-image. The Somnum Flow runs through its harmonic pool.
+
+**Wellsprings**  Four of the Sixty are ways her boundary shows up: a thing imagined until it stands, the sleep that sets a soul in order, dream as a place, and the line between seen and there. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Eidolyn]]. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Hypnather]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Oneirion]]. Medium: [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Luminalis]].
 
 ### Manifestation
 
@@ -214,6 +222,8 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 **Ground**  The Wellspring of Etherea, called Continuance and Passage. A translucent river of light running through all planes, visible at the instant of death and in deep meditation and at no other time.
 
+**Wellsprings**  Six of the Sixty are ways the river shows up, and none of them is Wild, which is about right for something that never touches the bank: the load set down, what the water takes off, the charge a soul carries, the near branches, the exchange between two souls, and the memory that reaches the well decades late. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Catharsis]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Letheveil]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Thaloré]]. Fate: [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Somnalis]], [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings|Transference]]. Medium: [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings|Phreatis]].
+
 ### Manifestation
 
 A tall spectral mariner wrapped in flowing gray bands resembling smoke and silk. Where his face should be, a void ripples with faint constellations. In his hand rests the Oar of Echo, carved from petrified starlight, and each stroke across the river releases a chord that guides souls onward. Those who glimpse him report overwhelming calm, as though the concept of fear had been temporarily excised rather than overcome.
@@ -261,6 +271,8 @@ Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch.
 **Domain**  Shadow, Fear, Revelation through Darkness, Secrets, Survival Instinct
 
 **Ground**  The Wellspring of Shadow, called Fear and Revelation. A bottomless abyss lit by beams of memory that illuminate terror for an instant before extinguishing.
+
+**Wellsprings**  Four of the Sixty are ways the abyss shows up: going unseen, a soul stretched to take in too much, truth read off what is missing, and one small flame kept level in the dark. Wild: [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Tenebra]]. Spirit: [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Abyntheus]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Eclipseron]], [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings|Nyxial]].
 
 ### Manifestation
 

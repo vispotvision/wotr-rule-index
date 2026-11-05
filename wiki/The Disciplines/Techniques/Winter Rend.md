@@ -43,7 +43,7 @@ The Antiperistatic school holds that air closing in behind a stroke drives the c
 
 **Fails against** · Padded jack, wool, leather or felt; insulated or flame-forged armor; heat into the arc, such as Pyreveil; anything beyond two meters; a warm closed room and repeated sweeps; a broken or bound drawing arm; the arc itself, readable after the first.
 
-**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; the Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
+**Look up** · The Caloria and Limina favor lists; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; the Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.
 
 ### Numbers
 

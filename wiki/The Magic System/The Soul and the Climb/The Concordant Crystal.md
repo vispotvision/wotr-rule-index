@@ -15,11 +15,11 @@ A Concordant Crystal is a Soul Crystal (the soul itself, in its working form) sh
 
 A soul has three layers, one to each plane: the Essence Core holds identity on the Soul Plane, the Aether Shell meets the Physical World, and the Attraction Layer is a soul's own share of fate on the Plane of Fate. In a shared frame the three behave three different ways, and the whole of the art is in the difference.
 
-**The Essence Cores never fuse.** Each donor keeps a Core of their own, with their own identity, memory and Traits, and only one of them holds the frame's single point of outward control at a time. The hand-off between donors costs something the Continuum recognizes: it pulls down Dexterity and the Reflex family of Sub-Stats, however well the frame is built. That is the stumble the market saw.
+**The Essence Cores never fuse.** Each donor keeps a Core of their own, with their own identity, memory and Traits, and only one of them holds the frame's single point of outward control at a time. The hand-off between donors costs something the Continuum recognizes: it pulls down Dexterity and the Sub-Stats of reflex, however well the frame is built. That is the stumble the market saw.
 
 **The Aether Shell fuses, without exception.** One frame produces exactly one Aether Class and one η (eta, the share of each spend that arrives as effect) for whatever goes out through the Shell, however many donors it carries, because a body has one nervous system to conduct through. A Concordant Crystal does not multiply a Shell's ceiling by its donors. It gives five people the throughput of one Shell.
 
-**The Attraction Layer alone is plural.** It carries one Wellspring harmonization per donor, each running beside the others without blending, which is how one frame can show several Wellsprings where a single Crystal shows a compatible few. Donors whose Wellsprings are opposed cannot anchor one Layer, and the frame will not form or will not hold.
+**The Attraction Layer alone is plural.** A harmonization locks at the Shell, where Aether enters, and its tie is held on the Layer, so the one Shell does all the locking and the Layer carries one tie per donor, each running beside the others without blending, which is how one frame can show several Wellsprings where a single Crystal shows a compatible few. Donors whose Wellsprings stand contrary to each other, which each entry in [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|the Sixty]] names, cannot anchor one Layer, and the frame will not form or will not hold.
 
 Coherence and the Shell's η are read once off the shared Shell. Essence Class and Thread Class do not pool, since neither the Cores nor the Layer's harmonizations have fused, so a working authored in one donor's Core reads that donor's own rung. Tempering Coherence, the Sub-Stat, stays with each donor because it lives in the Essence Core, and a frame is exactly as stable as its least coherent donor, and not as stable as their average.
 
@@ -35,13 +35,13 @@ Coherence and the Shell's η are read once off the shared Shell. Essence Class a
 
 Watch for the hand-off and hit the stumble. Find the least coherent donor and press there, because the whole frame stands on that one. Failing that, kill one of them, then say the name, and wait.
 
-*Read next: [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]], for the other way a soul binds itself past taking back.*
+*Read next: [[The Magic System/Practice and Institution/Vows and Oaths|Vows and Oaths]], for the other way a soul binds itself past taking back; [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]], for the rungs the frame shares and the rungs it does not.*
 
 ---
 
 ## The mechanism as entered
 
-*The Measurewrights keep the entry on the shelf in the words it was filed in.*
+*The Measurewrights keep the entry on the shelf in the words it was filed in, older words and all. Where it says Houses, read Wellsprings that stand contrary to each other.*
 
 A Concordant Crystal is the standing mechanism for a Soul Crystal shared across multiple donors. It is Synergia -- several Soul Crystals briefly sharing one Essence Core, Shell and Layer -- made permanent by Concordia instead of left momentary, ordinarily sealed through a Ritus such as the Rite of Hollow Union rather than held open by anyone's ongoing concentration. Formation requires that the donors already carry an Attraction-recognized bond strong enough for the Continuum to read them as one Attraction signature; kinship, oath, or shared catastrophe qualify, strangers do not.
 

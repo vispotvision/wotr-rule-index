@@ -45,7 +45,7 @@ A warning on figures, from the Guild's own [[Cosmology & Metaphysics/Ages and Re
 
 ## The Seating
 
-The orders describe what layer of the world the Titan is holding rather than any rank between them, and each one's law reaches past its order: the Bonds that tie a Titan to Bairos are how it reaches Fate. Nothing in the register establishes a hierarchy and the Guild has repeatedly declined to invent one.
+The orders describe what layer of the world the Titan is holding rather than any rank between them, and each one's law reaches past its order: the Bonds that tie a Titan to Bairos are how it reaches Fate. There is no Fate order among them, because nothing bears weight on what is no reality. Nothing in the register establishes a hierarchy and the Guild has repeatedly declined to invent one.
 
 A word on the **Ground** field in each entry. It names what the old registers call that Titan's Wellspring, and the old registers are right: a Ground is the Titan's law at full scale, a law and a place at once. The [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|sixty Wellsprings]] proper are that law in portions a soul can use. Each is a kind of Aether, acting on a Soul Crystal in its own way and standing for a principle and a transformation, and each has sites where its Aether pools (a Core, in common speech). So the Measurewrights no longer argue over whether Grounds should be counted among the Sixty. You can temper on Ignivale, and you can no more temper on Omnis's Breath than you can drink a sea. The Codex line closing each entry seats the working on one of the Sixty by name, which is the part a practitioner can use. Vohrin is the register's one exception: its line names the Titan's own power, worked at Wellspring level, with the northern frost arts drawing on it directly and outside the Sixty, and the Sixty stay sixty.
 
@@ -69,6 +69,27 @@ The old registers are also loose with the word **Essence**, and I have kept thei
 | **VOHRIN** | *The Titan of Niflheim* | Abyssal Depths | Entropy's peace, the settling of endings |
 
 > Call the Abyssal Depths the back of the house, whatever the shrine schools say about an enemy quarter of the pantheon. The order in which the three operate is fixed. **Prometheus burns what is false. Zar'thuun unmakes what is excess. Vohrin stills what is left so it can be built upon.**
+
+### The Sixty, Titan by Titan
+
+Thirteen Titans hold the Sixty between them. The fourteenth, Vohrin, holds none, since his frost is his own power worked at Wellspring level. The orders do not sort the kinds: a Spiritual Seat Titan can show up as a Wild Wellspring, and an Abyssal one as a Wellspring of Fate, because a Titan's law goes on past the place where it is holding. Each Titan's own entry links every name below to its place in the register.
+
+| Titan | [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings\|Wild]] | [[The Magic System/The Foundations/The Sixty Wellsprings/Spirit Wellsprings\|Spirit]] | [[The Magic System/The Foundations/The Sixty Wellsprings/Fate Wellsprings\|Fate]] | [[The Magic System/The Foundations/The Sixty Wellsprings/Medium Wellsprings\|Medium]] |
+|---|---|---|---|---|
+| **Prometheus** | Cinerion, Exuroth, Manganthra, Pyreveil, Transmutatio | Penanceflare | · | · |
+| **Omnis** | Anima Spirare, Cymorath, Ignivale, Sublimare, Sublimatio | · | · | Aurevane |
+| **Florwyn** | Rebirthine, Verdantia | Redemption | Benediction | · |
+| **Dazkar** | Judicium | Absolution, Contrition, Mirithane, Penance | Oblation, Tarturon | · |
+| **Nysera** | Eidolyn | Hypnather, Oneirion | · | Luminalis |
+| **Sylorin** | · | Catharsis, Letheveil, Thaloré | Somnalis, Transference | Phreatis |
+| **Ilgrimm** | Tenebra | Abyntheus, Eclipseron, Nyxial | · | · |
+| **Valmir** | Cataclysm, Dissolution, Fractura, Solfatara | · | · | Mortalis |
+| **Kaldrion** | Monolithion, Orrenthal, Petralon | · | · | · |
+| **Chronaeus** | Pyraeon, Vantabriel | Lethegraal | · | Anamnesis |
+| **Gaia** | Coagula, Coagulatio, Materia Primordia, Terranova | · | · | · |
+| **Atla'zon** | Ascensio, Basilithe, Chthonica | · | · | Fixatio |
+| **Zar'thuun** | Abython, Nihiloth | · | Oblivara | · |
+| **Vohrin** | Outside the Sixty | · | · | · |
 
 ---
 

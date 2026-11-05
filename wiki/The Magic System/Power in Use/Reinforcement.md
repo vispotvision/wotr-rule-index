@@ -67,4 +67,4 @@ The thief has a partner at the door, Stage V like her and swinging a coated maul
 
 From here she has a little under four minutes of focused coat from what is left in her, and she knows it.
 
-*Read next: [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]].*
+*Read next: [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]. For what each road pays on top of the coat, see [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].*

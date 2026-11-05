@@ -56,7 +56,7 @@ The technique has a single known bearer; no derivation, teacher, location, or or
 
 **Fails against** · Slow, low-energy movement that gives it nothing; a Knot or chaos-aligned disturbance; several exclusive threats at once; no target to discharge into (retreat, cover, a decoy); its own cold, which slows the holder.
 
-**Look up** · Lock and Knot in the Counterplay register; Caloria terrain; the Vohrin note on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics|Caloria page]]; Fixatio and Judicium failures; Materia phase locking; the Invocation Stage table and the S Grade row.
+**Look up** · Lock and Knot in the Counterplay register; Caloria terrain; the Vohrin note on the [[The Magic System/The Foundations/The Sixty Wellsprings/Wild Wellsprings|Wild page]]; Fixatio and Judicium failures; Materia phase locking; the Invocation Stage table and the S Grade row.
 
 ## Numbers
 

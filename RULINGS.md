@@ -3833,3 +3833,9 @@ Context: Inner World redo and the R82 library rollout.
 Isaac, 2026-11-05: "the fall doesn't stand, that's old lore". The Fall is old lore: Muken was not taken off the chair after sixteen years by a Tenrai plot, the oaths did not lapse that way, the Greymanes did not hold alone for three years after it, and Sodoku's exile on that account goes with it. Wiki pages lose it. Archived scenes stay as written, and anything in them that rests on it reads as old lore.
 
 Context: Answers the question from the Inner World build. Bears on The Kingdom of Kharven, The Banner Houses of Kharven, The Long Reading, The Moto Bloodline, A Reader's Codex and cards that mention it.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "but some Summoners can summon Infinitely through fate itself". Some summoners can summon without limit through Fate itself, an exception to contracts carrying ordinary terms. Their summons draw on the possibility of the thing rather than a bound creature.
+
+Context: Adds to the questionnaire answer that a bound spirit or beast is a contract with its own window. Read with The Infinite Summoning Arts page and Hataraki. The last sentence is Natalie's reading of his line, overturnable.

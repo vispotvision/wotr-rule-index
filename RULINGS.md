@@ -3617,3 +3617,9 @@ Context: The canon source is unedited. These pages now differ from it on the set
 Isaac, 2026-11-05: "dont use onomatopoeia ESPECIALLY Not these documents". Wiki and reference documents carry no onomatopoeia: no written sound effects, stretched noises or comic word-sounds. Applied to the magic pages and Ages pages at once and to every later section of the R83-13 rewrite.
 
 Context: Said about the rewritten magic pages. Whether it also retires sound words in scenes (NATALIE's Onomatopoeia section, R81-10) has been put to him and is not yet answered.
+
+## 2026-11-05 — R45-4
+
+AGENT RULING (Natalie, wiki rewrite, overturnable). R45-4 and R45-5 are read for bolts and arrows under R83-5, as R45-1, R45-2 and R46-4 already are. The wiki drops the word "round", and these are the rows' original sentences, kept here so the rows still trace: "An enhanced round is dodged at its actual velocity, not at its shooter's Grade." and "An enhanced round or arrow is paid for per shot and consumed when fired,". On the wiki they now say bolt. The law is unchanged: an enhanced bolt is dodged at its actual velocity, and it is paid for per shot and consumed when loosed.
+
+Context: Second section of the R83-13 rewrite: Shot and the Enhanced Weapon. Without this, rewording that page would break the validation gate, which requires a row's quote to stand in RULINGS.md or the wiki.

@@ -56,7 +56,7 @@ The Shell holds the wall (Class Radiant), the Attraction Layer authorizes a five
 | Critical-radius relation at 5 km | R_c = 3σ/ε | σ/ε = 1,667 m |
 | Collapse time | 5 km at near light speed | about 17 µs |
 
-**Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.2, Spirit Path; Grade EX, stated in joules. Sovereignty capped at SSS without Fate, Radius at A without Attraction, so the field spreads rather than snaps.
+**Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.2, Spirit Path; Grade EX, stated in joules. Without Fate, Sovereignty is capped at SSS and Radius at A, so the field spreads rather than snaps.
 
 | Quantity | Working | Result |
 |---|---|---|

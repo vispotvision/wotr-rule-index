@@ -51,7 +51,7 @@ Additional courses of Essence laid over an existing form to raise an attribute w
 
 ### IV · Elemental Imbuement
 
-A form given a typology trait it did not originally carry, matched to terrain or opposition.
+A form given a Wellspring trait it did not originally carry, matched to terrain or opposition.
 
 **Cost** · Imbuement overwrites. The form's original resonance is suppressed while the imbuement holds, and some of it does not come back.
 

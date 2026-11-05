@@ -46,7 +46,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Grade required** · A-Grade for Bifold Perception; S-Grade for crossings; SS-Grade for sustained liminal work; SSS-Grade for carrying others.
 
-**Path gate** · Attraction Path for Projection past C and Synergy past S; Body Path for Yield past C.
+**Path gate** · Fate Path for Projection past C and Synergy past S; Body Path for Yield past C.
 
 ### FOW line
 
@@ -56,7 +56,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Grade required** · A for Bifold, S for crossings and sustained Bifold, SS for sustained liminal work, SSS for carrying.
 
-**Path gate** · Attraction at Ascension and Glory for Projection past C and A; Attraction at Splintering for Synergy past S; Body at Ascension for Yield past C.
+**Path gate** · Fate at Ascension and Glory for Projection past C and A; Fate at Splintering for Synergy past S; Body at Ascension for Yield past C.
 
 **Resonant Pair** · None
 
@@ -137,7 +137,7 @@ In the bracket towns a crossing is called stepping out, a Thick zone is a wall, 
 
 **Practitioner** · Bifold: Refraction, Expert, 51,800 to 961,000 EU, η 0.60 to 0.70. Crossings: Transcendence to Realization, Master, 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80. Carrying: Emanation, Grandmaster, 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90.
 
-**Paths** · Projection needs Attraction at Ascension to pass C (else a containment share carries no weight) and at Glory to pass A for reach; Synergy needs Attraction at Splintering to pass S; Yield needs Body at Ascension to pass C, or reserve refills slowly.
+**Paths** · Projection needs Fate at Ascension to pass C (else a containment share carries no weight) and at Glory to pass A for reach; Synergy needs Fate at Splintering to pass S; Yield needs Body at Ascension to pass C, or reserve refills slowly.
 
 | Operation | Thin Zone | Baseline | Thick Zone |
 |---|---|---|---|

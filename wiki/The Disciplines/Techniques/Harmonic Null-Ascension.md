@@ -86,7 +86,7 @@ This working has one practitioner, its author. It has no filed counter beyond wh
 
 **Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90. SSS standing (726 to 950) buys the lock, not the energy.
 
-**Paths** · Spirit Path: Ardency Penetration past C needs the Body Path at Ascension and Depth past B the Attraction Path at Flourishing, so the drive cannot push through shielding above C and the secondaries layer no deeper than B; Harmonics Breadth carries the same cap.
+**Paths** · Spirit Path: Ardency Penetration past C needs the Body Path at Ascension and Depth past B the Fate Path at Flourishing, so the drive cannot push through shielding above C and the secondaries layer no deeper than B; Harmonics Breadth carries the same cap.
 
 | Quantity | Working | Result |
 |---|---|---|

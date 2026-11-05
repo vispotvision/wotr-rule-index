@@ -37,8 +37,8 @@ For two summers the lamp-wardens and the hedge-workers of Aldwick fought their f
 | **Physics Domain** | Entropy, Void and Mind |
 | **Phenomenon** | Destructive interference, Meissner-effect field exclusion, noise cancellation |
 | **Output Cap** | Uncapped. Scales with Dominion and Resilience |
-| **Prerequisites** | Limina-dominant Typology. The Crystal must carry **Void as its primary affinity**, not as a secondary or trained harmonization. *Talos cannot be learned. It can only be expressed by a Crystal that was built for it* |
-| **Rarity** | Extreme. Void-primary Typology occurs in **under one percent** of Awakened practitioners; of those, **fewer than one in twenty** develop Talos rather than conventional Kenokinesis |
+| **Prerequisites** | A soul tempered on Limina's Wellsprings, Nihiloth first. The Crystal must carry **Void as its primary affinity**, not as a secondary or trained harmonization. *Talos cannot be learned. It can only be expressed by a Crystal that was built for it* |
+| **Rarity** | Extreme. A Void-primary Crystal occurs in **under one percent** of Awakened practitioners; of those, **fewer than one in twenty** develop Talos rather than conventional Kenokinesis |
 
 ---
 
@@ -176,7 +176,7 @@ The three expressions are Temperance-gated progressions of one Nihiloth-mediated
 
 ## Numbers
 
-- **Rarity:** Void-primary Typology in under one percent of the Awakened, and fewer than one in twenty of those develop Talos.
+- **Rarity:** Void-primary Crystals in under one percent of the Awakened, and fewer than one in twenty of those develop Talos.
 - **Passive:** Stage V (Splintering) and above. 5–15 meters. 200–500 EU/s at idle.
 - **Active:** Stage VIII (Transcendence). 30–100 meters. 80,000–200,000 EU to activate, 8,000–20,000 EU/s to maintain. 30–90 seconds before incapacitation at full intensity. Roughly 15–30% of the user's own function retained.
 - **True:** Stage X (Realization) minimum, usually stable at Stage XI or XII. 1,000–3,000 EU/s at Active's peak intensity. Fewer than a dozen documented in the Concordance of Ages.

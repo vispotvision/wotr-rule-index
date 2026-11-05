@@ -54,7 +54,7 @@ The inherited failures are Oneirion's projection error, which is the phase error
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Grade A.
 
-**Paths** · Declares the Spirit Path, opening Analysis and Perception; Attunement above D needs the Attraction Path, so a working met before is answered more cleanly than a new one.
+**Paths** · Declares the Spirit Path, opening Analysis and Perception; Attunement above D needs the Fate Path, so a working met before is answered more cleanly than a new one.
 
 **Anchor** · Glory is below Refraction, so an anchor is required, and the Codex is it.
 

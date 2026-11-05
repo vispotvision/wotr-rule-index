@@ -23,7 +23,7 @@ Every Trait forms when four harmonics fall into coherence: the **Essence Core** 
 
 ### The Four Reflections
 
-**Primary Trait, the Innate Reflection.** Formed from soul Typology (the soul's natural bias toward one of eight elemental Families), origin and first Temperance imprint. Instinct, disposition, natural affinity. A modest but constant boost in the aligned facet. Primary Traits answer what your soul does even before it tries.
+**Primary Trait, the Innate Reflection.** Formed from origin, first Temperance imprint and the lived Path (the layer of the Crystal a life has come to lean on). Instinct, disposition, natural affinity. A modest but constant boost in the aligned facet. Primary Traits answer what your soul does even before it tries.
 
 **Secondary Trait, the Tempered Reflection.** Forged through trauma, revelation, sustained Wellspring (one of the sixty governing ideas that transform how a soul uses Aether, each with its own type of Aether and its own law) exposure, or a decisive moral or existential choice. Often conditional, activating under emotional or situational pressure. Strong boost while active, balanced by fatigue or emotional cost. Scar-tissue turned into weapon or shield.
 
@@ -85,7 +85,7 @@ The Stage sets what a Trait is permitted to be, and its level says how far the b
 
 *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
 
-The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (named classes, tiered by how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds is certified at the bench and never read off the Crystal.
+The Soul Crystal is literally the soul, and tempering melts it down and rebuilds each layer. It evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (named classes, tiered by how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. The three layers are the **Aether Shell**, which meets the Physical World; the **Essence Core**, which holds identity, memory and Traits on the Soul Plane; and the **Attraction Layer**, a soul's own share of fate on the Plane of Fate. Every soul has all three, and a Path is the one its Crystal leans on. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of the Accord's nine titles, which fighting guilds read off the sixteen Stages) such an alchemist holds is certified at the bench and never read off the Crystal.
 
 | Tier | Description | Corresponds to |
 |---|---|---|
@@ -112,7 +112,7 @@ The Soul Crystal is literally the soul, and tempering melts it down and rebuilds
 
 ### What a Domain Is
 
-A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests and where Attraction and Obsession are controlled) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained.
+A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests and where Attraction and Obsession are controlled) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained. Because the claim is the Attraction Layer's, a Domain belongs to Fate's authority whichever Path its holder walks: the Fate Path has the most say inside one, and the Body Path fighter's Domain is a Domain all the same.
 
 A Domain is grown before it is called, and it is no technique to be learned off a wall. The Stage grants it and a Grade never does, and the growing is done by living: Temperance, Dominion (the stat for presence and pressure on others) and Aether Class clarity climb until the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent. Once a soul has grown one, the Second Release opens it and powers it, it is called aloud at the fighter's choosing, and it forms as it is named; what nobody has ever done is call a Domain the soul has not grown.
 

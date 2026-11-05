@@ -26,7 +26,7 @@ The physics is selective permeability, like a membrane or tuned filter: a crysta
 
 The glyphs are Balance, equalizing the opposing forces; Boundary, setting the surface; Truth, setting the standard. The boundary condition is a surface's single transmission number becoming a function of what is arriving, and every law downstream runs unchanged. Judicium, the Wellspring of Truth (Fulguria): every element shows only its own spectrum, so the shell reads what arrives truly, and the verdict is how much it resembles the holder. Sublimatio, the Ascending Breath (Vectoria): solid to vapor with no liquid phase, so what matches passes cleanly and what cannot sublime stays as residue in the holder. They hand down Judicium's spectral overload under a long siege of arrivals, and Sublimatio's residue, the arrested energy piling up in the holder's Crystal.
 
-In doctrine it is the Consent Doctrine in its cleanest form: a toll gate built as a wall, authorizing crossings against a sworn standard, and it fails as a warrant fails when it stops matching the speaker. The Aether Shell is projected out and held as a standing Density working, with a continuous bleed and a declaration of intent the Continuum reads for drift the whole time. Ardency (Density) governs, with Resilience (Integrity, Anchoring). On the Attraction Path Density is capped at B (1 to 5 GN) and inscription durability at C; A-Grade arrest needs the Body Path at Flourishing; memory defense is capped at C, the illusion blind spot as a gate.
+In doctrine it is the Consent Doctrine in its cleanest form: a toll gate built as a wall, authorizing crossings against a sworn standard, and it fails as a warrant fails when it stops matching the speaker. The Aether Shell is projected out and held as a standing Density working, with a continuous bleed and a declaration of intent the Continuum reads for drift the whole time. Ardency (Density) governs, with Resilience (Integrity, Anchoring). On the Fate Path Density is capped at B (1 to 5 GN) and inscription durability at C; A-Grade arrest needs the Body Path at Flourishing; memory defense is capped at C, the illusion blind spot as a gate.
 
 The true failure is a Coherence fault: if the holder's stated and actual intent part while it stands, the shell stops being selective everywhere at once. It also fails to speed, to a point load, and to anything under its threshold, and it cannot stop a purely emotional attack, fear or despair with no carrier. Forcing it to arrest something large sends a tremor through her own Soul Crystal. Between 30 and 40 percent of the spend leaves the Shell as heat continuously while it stands, so a low-η holder is loud, warm and easy to find. The Ordeal courts built wards into gates, reasoning a wall cannot be bribed; what the ward cannot detect it certifies, so their immaculate archive is a list of everything that crossed unregistered.
 
@@ -81,14 +81,14 @@ The true failure is a Coherence fault: if the holder's stated and actual intent 
 - **Skill** · Speaking, with the spoken declaration as anchor below Refraction, and held inwardly from Refraction up
 - **Stage floor** · VI, Glory
 - **Grade required** · A-Grade
-- **Path gate** · Attraction Path
+- **Path gate** · Fate Path
 
 ### FOW line
 
 - **Governing Primary** · Ardency (Density), secondary Resilience (Integrity, Anchoring)
 - **Stage floor** · VI, Glory
 - **Grade required** · A-Grade
-- **Path gate** · Attraction Path
+- **Path gate** · Fate Path
 - **Resonant Pair · None**
 
 ### Origin

@@ -38,7 +38,7 @@ The failure is Coherence fault by design. The construct is lived behavior drifti
 
 **Practitioner** · Glory, Expert, A-Grade (276 to 400), reserve 51,800 to 961,000 EU, η 0.60 to 0.70.
 
-**Paths** · Attunement needs Attraction at Welling to pass D, or the likeness is poor; Density needs Body at Flourishing to pass B; Retention needs Spirit at Welling to pass D, or the template will not hold; Cascade's spread needs Attraction at Flourishing to pass B. Coherence is open.
+**Paths** · Attunement needs Fate at Welling to pass D, or the likeness is poor; Density needs Body at Flourishing to pass B; Retention needs Spirit at Welling to pass D, or the template will not hold; Cascade's spread needs Fate at Flourishing to pass B. Coherence is open.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -80,7 +80,7 @@ The failure is Coherence fault by design. The construct is lived behavior drifti
 
 **Grade required** · A-Grade
 
-**Path gate** · None to raise one; the Attraction, Spirit and Body Paths decide how good the likeness, template and spread can be.
+**Path gate** · None to raise one; the Fate, Spirit and Body Paths decide how good the likeness, template and spread can be.
 
 ### FOW line
 
@@ -90,7 +90,7 @@ The failure is Coherence fault by design. The construct is lived behavior drifti
 
 **Grade required** · A-Grade
 
-**Path gate** · Attraction at Welling for Attunement past D and at Flourishing for Cascade past B; Spirit at Welling for Retention past D; Body at Flourishing for Density past B; Coherence open.
+**Path gate** · Fate at Welling for Attunement past D and at Flourishing for Cascade past B; Spirit at Welling for Retention past D; Body at Flourishing for Density past B; Coherence open.
 
 **Resonant Pair** · None
 

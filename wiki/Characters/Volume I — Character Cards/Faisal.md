@@ -6,7 +6,7 @@
 # Faisal
 
 **Faisal** · the Grand Angel of Servitude · the Bound Flame · He Who Kneels at Creation's Edge · Celestial, the Midreach Choir, the Oath-Keepers · as of the Plane of Fate, the day he taught Muken the sixth Work and withheld the seventh
-**Stat line** · Level 396 · Band IV, Mythic · Stage XII, Emanation, the highest a Celestial can stand · Path Attraction 65% / Spirit 25% / Body 10% · Grandmaster · η 0.85 · Aether Class V, Radiant · Crystal Sovereign, Strained under the Lawbell's weight
+**Stat line** · Level 396 · Band IV, Mythic · Stage XII, Emanation, the highest a Celestial can stand · Path Fate 65% / Spirit 25% / Body 10% · Grandmaster · η 0.85 · Aether Class V, Radiant · Crystal Sovereign, Strained under the Lawbell's weight
 **Combat grammar** · Open hand; he catches, holds and presses, and he has never once closed a fist to strike first
 **Aura and sound** · Vow-Light, a warm heavy gold like late sun through honey, with a pale silver line under it where his wings meet his back · sound: a great bell heard from very far off, under water, and under that a held breath
 **Releases** · none; a Celestial's Crystal was anchored, not grown, and his Domain is the only thing in him that grew · bonded weapon: none; he carries no weapon and has not since the Bell cracked

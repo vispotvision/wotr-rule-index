@@ -3,7 +3,7 @@
 # Yukazuri Moto
 
 **Yukazuri Moto** · Surgeon of the North · Kōkan and Byakuya, raised in the Orrel Cuttings · as of the morning of the Skeldmere, at the Foot's gate, counting linen
-**Stat line** · Level 22 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Body 25% / Attraction 15% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
+**Stat line** · Level 22 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Body 25% / Fate 15% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
 **Combat grammar** · Expenditure; she does not fight, and nothing she has is aimed at anyone
 **Aura and sound** · frost-pale, almost white, with a faint rose coming into it when she is working; most people never see it at all · sound: a long, slow out-breath
 **Stack** · sustainable F · cap +2 Grades · layers: none
@@ -36,13 +36,12 @@
 **Level** · 22
 **Band** · I, Murmuring
 **Temperance Stage** · II, Welling
-**Path** · Spirit 60%, Body 25%, Attraction 15%. Spirit carries the gift that hears; Body carries her hands; Attraction carries her brother
+**Path** · Spirit 60%, Walked; Body 25%, Studied; Fate 15%, Studied. Spirit carries the gift that hears; Body carries her hands; Fate carries her brother
 **Tier of Standing** · 2, Apprentice
 **η** · 0.35
 **Soul Crystal Tier** · Awakened
 **Crystal State** · Refined; whatever she felt she put into her hands
 **Aether Class** · Unclassed
-**Essence Typology** · Fluxia: breath, flow, what moves through a body and how to slow it
 
 ## III. Wellspring Harmonizations
 

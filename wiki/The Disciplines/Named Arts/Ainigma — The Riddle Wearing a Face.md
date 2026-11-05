@@ -39,7 +39,7 @@ The suit of *Penhallow against the Widow Ilvane* is still read aloud to Measurew
 | **Physics Domain** | Entropy, Void and Mind |
 | **Phenomenon** | Quantum superposition, the measurement problem, decoherence resistance |
 | **Output Cap** | Uncapped. Scales with Harmonics Attunement and Gnosis Cognition |
-| **Prerequisites** | Limina-dominant Typology with secondary Fulguria harmonization. **Stage VI (Glory) minimum.** The practitioner must hold enough architectural self-awareness to project multiple valid Crystal states without losing track of which one they are |
+| **Prerequisites** | Limina-dominant harmonization with Fulguria secondary. **Stage VI (Glory) minimum.** The practitioner must hold enough architectural self-awareness to project multiple valid Crystal states without losing track of which one they are |
 
 ---
 
@@ -56,7 +56,7 @@ A Gnosis-user who reads an Ainigma practitioner receives a complete, high-fideli
 
 Quantum superposition applied to Crystal state architecture.
 
-In normal operation a Soul Crystal occupies a single definite state: one Stage, one dominant Family, one Crystal State, one set of harmonizations, one Typology. These are structural facts, and any instrument reading them receives a consistent singular answer.
+In normal operation a Soul Crystal occupies a single definite state: one Stage, one dominant Family, one Crystal State, one set of harmonizations, one lean among the Paths. These are structural facts, and any instrument reading them receives a consistent singular answer.
 
 **Ainigma teaches the Crystal to occupy multiple definite states simultaneously.** The Crystal is genuinely configured in two or more valid states at once, the way a particle genuinely occupies two positions until measured.
 > **Observation does not collapse the superposition.** In physics, measurement forces a single state. In Ainigma, measurement returns one of the superposed states at random, and the next measurement, same observer, same distance, a fraction of a second later, returns a different one.
@@ -158,7 +158,7 @@ Cataloged as a diagnostic-saturation concealment discipline within Limina, opera
 
 ## Numbers
 
-- **Floor:** Stage VI (Glory), Limina-dominant Typology with secondary Fulguria harmonization. Output uncapped.
+- **Floor:** Stage VI (Glory), Limina-dominant harmonization with Fulguria secondary. Output uncapped.
 - **Drain:** 5,000–15,000 EU/s, by states maintained.
 - **States held:** two is baseline, four the practical maximum, seven or more documented and rare.
 - **Collapse window:** 3–8 seconds of readability, from Coherence failure or from Oblivara exhaustion.

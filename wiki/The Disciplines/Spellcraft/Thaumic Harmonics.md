@@ -42,7 +42,7 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Practitioner** · Perception: Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Lock and stabilization: Transcendence or Realization, Master, 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80.
 
-**Paths** · Attunement needs Attraction Path at Welling to pass D and Spirit at Ascension to pass C, or it caps at C (175) and cannot hold a frequency; external Analysis needs Spirit at Flourishing to pass B; Suppression needs Spirit at Splintering to pass A, or locks run at A.
+**Paths** · Attunement needs Fate Path at Welling to pass D and Spirit at Ascension to pass C, or it caps at C (175) and cannot hold a frequency; external Analysis needs Spirit at Flourishing to pass B; Suppression needs Spirit at Splintering to pass A, or locks run at A.
 
 | Target Working | Counter's Size | Cycles to Lock |
 |---|---|---|
@@ -83,7 +83,7 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Grade required** · A-Grade for perception; S-Grade for Interference Lock; SS-Grade for ritual stabilization.
 
-**Path gate** · Attraction and Spirit Paths for Attunement past C; without them it caps at C and cannot hold a frequency.
+**Path gate** · Fate and Spirit Paths for Attunement past C; without them it caps at C and cannot hold a frequency.
 
 ### FOW line
 
@@ -93,7 +93,7 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Grade required** · A for perception, S for Interference Lock, SS for ritual stabilization.
 
-**Path gate** · Attraction at Welling and Spirit at Ascension for Attunement past C; Spirit at Flourishing for Analysis past B; Spirit at Splintering for Suppression past A.
+**Path gate** · Fate at Welling and Spirit at Ascension for Attunement past C; Spirit at Flourishing for Analysis past B; Spirit at Splintering for Suppression past A.
 
 **Resonant Pair** · None
 
@@ -113,4 +113,4 @@ The failure is Echo Fracture. A counter on the wrong harmonic or a phase error o
 
 **Below hearing** · Workings hidden by Tenebra or Luminalis are too quiet for the branch to grip.
 
-**Look up** · The Counterplay register for Lock and Knot; the Basilithe, Nihiloth, Aurevane, Tenebra and Luminalis entries; Veil thickness zones; the Glory, Transcendence and Realization Stage tables; the Spirit and Attraction Path gates.
+**Look up** · The Counterplay register for Lock and Knot; the Basilithe, Nihiloth, Aurevane, Tenebra and Luminalis entries; Veil thickness zones; the Glory, Transcendence and Realization Stage tables; the Spirit and Fate Path gates.

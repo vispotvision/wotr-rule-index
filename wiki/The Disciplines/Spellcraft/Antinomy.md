@@ -43,7 +43,7 @@ The dialectical school holds that a demonstrable thesis and antithesis mean the 
 
 **Practitioner** · Dissonance, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90, SS-Grade (551 to 725; 750 unstable, fracture risk above 700).
 
-**Paths** · Attraction Path dominant; Persistence needs the Fate Path at Refraction to pass S and at Transcendence to pass SS, or any SS forced-cessation effect breaks the Lock.
+**Paths** · Fate Path dominant; Persistence needs it at Refraction to pass S and at Transcendence to pass SS, or any SS forced-cessation effect breaks the Lock.
 
 **Suppression** · Needs the Spirit Path at Splintering to pass A, or the rings are heard across a room.
 
@@ -86,11 +86,11 @@ The dialectical school holds that a demonstrable thesis and antithesis mean the 
 
 **Grade required** · SS-Grade.
 
-**Path gate** · Attraction, dominant.
+**Path gate** · Fate, dominant.
 
 ### FOW line
 
-Governing Primary Harmonics and Gnosis, per Limina's Stat Affinity, with Dominion from Spatium; Sub-Stats Harmonics Suppression, Gnosis Cognition, Dominion Sense and Resilience Persistence from Oblivara. Stage floor XI, Dissonance. Grade SS. Path gate Attraction, dominant. No Resonant Pair documented.
+Governing Primary Harmonics and Gnosis, per Limina's Stat Affinity, with Dominion from Spatium; Sub-Stats Harmonics Suppression, Gnosis Cognition, Dominion Sense and Resilience Persistence from Oblivara. Stage floor XI, Dissonance. Grade SS. Path gate Fate, dominant. No Resonant Pair documented.
 
 ### Origin
 

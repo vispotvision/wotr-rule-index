@@ -3,7 +3,7 @@
 # Lorn Stark
 
 **Lorn Stark** · The Sword · Kharven, House Stark · as of the morning of the seven lines in the Hall of Verdicts
-**Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Attraction 30% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
+**Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
 **Combat grammar** · Blade
 **Aura and sound** · the Stark cold rather than a Family hue: a warm dark gray at Flourishing's clarity with a hard white rime over it that silvers timber and stiffens snow round his boots; sound: the creak of a frozen lake taking weight
 **Stack** · sustainable B in Penetration, Fortitude and Constitution · cap +2 Grades · layers: FROSTFALL when called, a sworn vow when spoken
@@ -37,17 +37,16 @@
 **Level** · 150
 **Band** · II, Awakened
 **Temperance Stage** · IV, Flourishing
-**Path** · Body 70%, Attraction 30%. Body opens his sword-arm and his footing; Attraction opens the line he draws and the oaths he keeps
+**Path** · Body 70%, Mastered; Fate 30%, Walked. Body opens his sword-arm and his footing; Fate opens the line he draws and the oaths he keeps
 **Tier of Standing** · 4, Adept
 **η** · 0.45, the Adept band
 **Soul Crystal Tier** · Awakened
 **Crystal State** · Refined, and cold to the touch of anyone who reads it
 **Aether Class** · Unclassed; the Class emerges at Glory
-**Essence Typology** · Caloria, worked in the Stark way: the house's blood moves heat out, not in
 
 ## III. Wellspring Harmonizations
 
-**The Stark cold** · not a Wellspring · an inheritance older than the Moto and older than the Starks' own records, which works outside the Wellspring framework and which the Starks do not discuss with outsiders; it draws heat out of everything near the bearer and drives it down through his heels into the ground, harder the more he feels
+**The Stark cold** · not a Wellspring · an inheritance older than the Moto and older than the Starks' own records, which works outside the Wellspring framework and which the Starks do not discuss with outsiders; it draws heat out of everything near the bearer and drives it down through his heels into the ground, harder the more he feels; the house's blood moves heat out, not in
 
 ## IV. Primary Stats
 

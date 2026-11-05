@@ -14,11 +14,11 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **The idea** · Momentum, the breaking point and the long climb. Its eight Wellsprings are eight ways a soul can be changed by load, by breaking, bearing it, climbing out from under it, or forgiving what it did.
 
-**The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Vectoria is a thing under pressure and knows it. One of these eight brings that forward: a little at first, and after years of mastery up to double, so that the same shoulder at the same Grade drives twice the momentum's character into what it meets, and the same stance sends twice as much of a blow into the ground. Another Typology can take them too, at a higher Essence cost and with a rougher result, which is how a bridge gets knocked down badly. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
+**The lens** · Vectoria holds that a soul is a thing under pressure and ought to know it. Six of these eight are Wild, at home in the Physical World, and Absolution and Penance are Spirit, at home on the Soul Plane. Any one of them brings its idea forward: a little at first, and after years of mastery at its home Path up to double, so that a Body Path fighter on one of the Wild six, at the same Grade, drives twice the momentum's character into what they meet with the same shoulder, and sends twice as much of a blow into the ground with the same stance. Any Path can take any of them, and away from home it costs more Essence, resonates worse and reaches half again at most, which is how a bridge gets knocked down badly. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
 **Stat Affinity** · *Tempering (Clarity, Maturity, Coherence) · Resilience (Integrity, Fortification, Persistence) · Vitality (Constitution, Threshold, Tolerance) · Dominion (Gravity)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Kind** its home plane, which is a qualifier and never a lock, and **On the Body**, **On the Spirit** and **On Fate** what its lens does to Essence on each Path: through the Aether Shell (the layer of the soul that meets matter), the Essence Core (the layer that holds identity and authors what a working is) and the Attraction Layer (a soul's own share of fate, its bonds, oaths, claims and odds). **Spirit** is the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -27,6 +27,12 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 **The idea** · The breaking point. Everything has a place where it will go, and this lens shows it to you, in bridges, in friends and in your own left wrist.
 
 **Kind** · Wild
+
+**On the Body** · The eye finds the flaw and the fist goes to it, so a Fractura blow lands on the one grain in a shield boss or a shinbone that was already going to fail. The same sight runs down the fighter's own skeleton and tells them which of their bones is next.
+
+**On the Spirit** · A thrown working hunts the crack in what a thing claims to be, and a ward or a technique comes apart at the one assumption it never checked. Finding that assumption across a room takes longer and costs far more than finding the weak grain in a bridge.
+
+**On Fate** · The holder feels where a bond, an oath or the terms of a Domain (a region where the world runs on a practitioner's terms) are going to give, and can lean there: the friend with one betrayal left in him, the alliance one insult from the end. It is a miserable gift at a wedding.
 
 **Spirit** · Temperance through failure.
 
@@ -50,6 +56,12 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Kind** · Wild
 
+**On the Body** · Every blow that lands is handed down through the skeleton and into the floor, so the fighter grows harder to shift with each year and slower to turn. The stance sinks a little with every fight and does not always come back up.
+
+**On the Spirit** · A projected working sets where it lands and stays set, so an inscription on a threshold goes on bearing weight for a generation and grows steadily harder to lift. It throws poorly, and what it says a thing is it goes on saying long after anyone wants it said.
+
+**On Fate** · The holder becomes what others build on: debts, households and whole companies come quietly to rest on one name, and the room reads firmer underfoot when they walk in. They bear whatever is put on them, and they find out late that they cannot walk out from under it.
+
 **Spirit** · Temperance through endurance.
 
 **Alchemy** · Salt in its fixed office: the foundation that bears the whole vessel and never rises. *(the trade's reading)*
@@ -71,6 +83,12 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 **The idea** · The ladder. The whole height climbed by steps, with no single step large enough to break you.
 
 **Kind** · Wild
+
+**On the Body** · The body takes its load in steps. A fighter climbs a long fight by small increases of force, each one inside what the joints will bear, and arrives at a blow that would have torn them apart had they opened with it.
+
+**On the Spirit** · A working is authored in stages, each inscription standing on the last, until a long prepared piece reaches a height no single casting could survive. Anyone who interrupts it on the fourth step has saved themselves a great deal of trouble.
+
+**On Fate** · A standing is raised by small favors and small keepings of one's word, each too slight for any rival to object to, until the porter's nephew is somehow dining with the harbor court. It hardly moves the odds on any given day, and thirty years of days is another matter.
 
 **Spirit** · Temperance through rising.
 
@@ -94,6 +112,12 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Kind** · Wild
 
+**On the Body** · Force goes from stillness to full delivery with no wind-up in between, so the tell an opponent reads for never appears. There is also no halfway at which the fighter could change their mind and pull the blow.
+
+**On the Spirit** · A working leaves the hand already finished, never passing a stage where it could be read, countered or corrected. The part of its author that would not make the leap stays behind and goes on complaining.
+
+**On Fate** · A person changes station in one step, and the oath-bound squire is a free lord by morning with no interval in which anyone could object. What did not rise with them stays behind with their name on it, and it tends to send a bill.
+
 **Spirit** · Temperance through refinement.
 
 **Alchemy** · One of the six named operations, mirrored in the bench's Sublimation: it elevates without passing through the states between, with no stage at which the working can be inspected or corrected. Gold carries it.
@@ -115,6 +139,12 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 **The idea** · Purification by rising. What is light goes up, what remains is purer, and the soul goes on refining itself toward one clear thing.
 
 **Kind** · Wild
+
+**On the Body** · Hard drilling boils the waste out of a fighter's movement in a faint silver haze, and what stays in the hands is one motion, very pure. Ask that fighter for a different motion and watch them think about it.
+
+**On the Spirit** · A working run through the soul's column parts a thing into its fractions for a moment, and what rises shows what the thing was mostly made of. It is a better assay than it is a weapon.
+
+**On Fate** · Ties part by how lightly they were held, so hangers-on and fair-weather oaths drift off the person and what stays is a short list of people who would die for them. Nobody gets to choose the names on it.
 
 **Spirit** · Temperance through ascent.
 
@@ -138,6 +168,12 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Kind** · Wild
 
+**On the Body** · Flesh stops holding a difference against the world, so a crushing blow finds less to crush and Aether-starved ground does not suffocate the fighter who walks onto it. The same body hurried back into a rich hall comes apart in ways a diver would recognize.
+
+**On the Spirit** · The soul matches whatever is pressed on it, and a rival's Aura Pressure (the felt weight of another's power) meets nothing pushing back and little to grip. The trouble comes when it is time to throw something, since a Core with no difference in it has very little to push with.
+
+**On Fate** · Presence drops to exactly what the room already has, so the holder can stand unremarked in a hall full of people hunting them. Matching everyone means pulling on no one, and old friends somehow stop writing.
+
 **Spirit** · Temperance through void.
 
 **Alchemy** · The balanced vessel: pressure inside matched to pressure outside, so the glass has nothing to resist. *(the trade's reading)*
@@ -156,9 +192,15 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 ## Absolution · *The Cleansing Current*
 
-**The idea** · Forgiveness. The history stays and the shape stays, and the old poison stored in them is let out.
+**The idea** · Forgiveness. A soul's history stays and its shape stays, and the old poison stored in them is let out.
 
-**Kind** · Spiritual
+**Kind** · Spirit
+
+**On the Body** · Old injuries stop costing what they cost: the knee keeps its scar and its bad angle and no longer charges the fighter for them. There is no heat and no glow, only a body that has stopped carrying its history.
+
+**On the Spirit** · At home it lets the old poison out of a soul, one's own or a willing other's. The memory and the shape it left stay exactly where they were, and what they had been leaking into everything else stops.
+
+**On Fate** · A debt or grudge held on the Attraction Layer can be let go, and the thing it was pulling on stops pulling. Whether the creditor feels the line go slack or merely forgets to call is an old quarrel among confessors.
 
 **Spirit** · Temperance through forgiveness.
 
@@ -168,7 +210,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Analogue** · Stress-relief annealing. Removal of residual stress without change of form.
 
-**Mechanism** · A worked component carries locked-in stresses from its own manufacture, invisible, dimensionally irrelevant, and entirely capable of causing failure under a load the part should have carried. Heat treatment relaxes them while leaving the shape untouched. Absolution does exactly this to old fractures: the history stays, the geometry stays, and the stored energy that made the history dangerous is released.
+**Mechanism** · A worked component carries locked-in stresses from its own manufacture, invisible, dimensionally irrelevant, and entirely capable of causing failure under a load the part should have carried. Heat treatment relaxes them while leaving the shape untouched. Absolution does exactly this to the old fractures in a soul: the history stays, the geometry stays, and the stored energy that made the history dangerous is released. Reports of it easing anything outside a soul, a cracked bell or an unwilling stranger, are rare and argued over.
 
 **Stat Effect** · Strengthens Tempering Clarity, Harmonics Attunement, Resilience Fortification. Old fractures lose their toxicity.
 
@@ -178,9 +220,15 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 ## Penance · *The Atoning Path*
 
-**The idea** · Discipline. Strength earned on purpose, blow by blow, in exactly the places where you did wrong or were hurt.
+**The idea** · Discipline. A soul made stronger on purpose, by going back again and again to exactly the places where it did wrong or was hurt.
 
-**Kind** · Spiritual
+**Kind** · Spirit
+
+**On the Body** · What the fighter has chosen to endure stops being the worst of it, and the old pain in the old place is borne further each year than any trainer says it should be. A sword cuts them exactly as it cuts anyone else, and they keep walking.
+
+**On the Spirit** · Each deliberate return to a fault leaves the Core harder at that point, so the place where a soul once lied or broke becomes the place it cannot be made to do so again. The Crystal is not fooled about which faults are real.
+
+**On Fate** · A self-imposed vow bites sooner and holds longer, and an old wrong can be worked off on the Attraction Layer one hard year at a time. Only the penitent's end of the line is theirs to pay, so a wronged man may stay wronged as long as he likes.
 
 **Spirit** · Temperance through discipline.
 
@@ -190,7 +238,7 @@ Two hundred years of bridge sat down in the river, threw a brown wave over the f
 
 **Analogue** · Work hardening. Dislocation multiplication under plastic strain.
 
-**Mechanism** · Bend a metal past yield and it becomes harder to bend again, because plastic deformation multiplies dislocations until they obstruct one another. The material is strongest exactly where it was most abused. Penance imposes that constitutive behavior on the Crystal, so deliberate strain accumulates strength, and the strength is honest because it is located precisely at the sites of prior failure.
+**Mechanism** · Bend a metal past yield and it becomes harder to bend again, because plastic deformation multiplies dislocations until they obstruct one another. The material is strongest exactly where it was most abused. Penance imposes that constitutive behavior on the Crystal, so deliberate strain accumulates strength, and the strength is honest because it is located precisely at the sites of prior failure. What it hardens is the soul, and claims that a penitent's skin has turned a blade are rare and argued over in every order that keeps one.
 
 **Stat Effect** · Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behavior.
 

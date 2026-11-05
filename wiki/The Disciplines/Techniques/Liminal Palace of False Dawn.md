@@ -45,7 +45,7 @@ The Cave school rightly teaches that being turned toward the truth hurts, but pr
 - **Skill:** Speaking, gestured: a line in the air and a doorway stepped or gestured through
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 
 ### FOW line
 
@@ -54,7 +54,7 @@ The Cave school rightly teaches that being turned toward the truth hurts, but pr
 - **Secondary Primary:** Harmonics, Sub-Stat Projection (how far the overlay's field reaches before it can no longer be sustained)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 - **Resonant Pair:** None attested in the source card.
 
 ### Origin
@@ -84,7 +84,7 @@ The Palace is a self-derived technique and requires Stage XII; anyone unfamiliar
 
 ### Essence
 
-**Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; Grade SSS (726 to 950) in Harmonics Projection and Gnosis Cognition, on the Attraction Path.
+**Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; Grade SSS (726 to 950) in Harmonics Projection and Gnosis Cognition, on the Fate Path.
 
 **Paths** · Gnosis Retention needs the Spirit Path at Glory to pass A, so only one full overlay is held ready; Gnosis Cognition's resistance to glamour needs Spirit at Flourishing to pass B, so the caster's own defense stays at B.
 

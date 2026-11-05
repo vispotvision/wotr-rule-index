@@ -38,7 +38,7 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 
 **Practitioner** · Listening: Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Therapy: Invocation, Master, η 0.70 to 0.80. Fell Chord surgery: Dissonance, Grandmaster, η 0.85 to 0.90.
 
-**Paths** · Analysis of the living needs the Spirit Path at Flourishing to pass B; Attunement needs the Attraction Path at Welling to pass D; Suppression needs the Spirit Path at Splintering to pass A. Off it, Suppression caps at A and reads are shorter.
+**Paths** · Analysis of the living needs the Spirit Path at Flourishing to pass B; Attunement needs the Fate Path at Welling to pass D; Suppression needs the Spirit Path at Splintering to pass A. Off it, Suppression caps at A and reads are shorter.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -87,7 +87,7 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 
 **Grade required** · A-Grade to listen, S-Grade for therapy at Invocation, SS-Grade for Fell Chord surgery at Dissonance.
 
-**Path gate** · Spirit Path at Flourishing to pass B in Analysis and at Splintering to pass A in Suppression; Attraction Path at Welling to pass D in Attunement.
+**Path gate** · Spirit Path at Flourishing to pass B in Analysis and at Splintering to pass A in Suppression; Fate Path at Welling to pass D in Attunement.
 
 ### FOW line
 
@@ -97,7 +97,7 @@ The failure is Echo Fracture. A tone at the wrong frequency is an undamped forci
 
 **Grade required** · A-Grade to listen; S-Grade for therapy; SS-Grade for surgery.
 
-**Path gate** · Spirit Path for Analysis past B and Suppression past A; Attraction Path for Attunement past D.
+**Path gate** · Spirit Path for Analysis past B and Suppression past A; Fate Path for Attunement past D.
 
 **Resonant Pair** · None
 

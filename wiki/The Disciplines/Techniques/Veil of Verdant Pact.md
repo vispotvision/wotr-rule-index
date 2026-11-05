@@ -24,7 +24,7 @@ The physics is indeterminate growth used as an energy sink: a wooden dome with n
 
 The glyphs are Renewal for the growth law and Form for the re-latticing. Two boundaries move: the size at which growth stops is removed, and which lattice the Essence may occupy is freed. Verdantia, the Green Pulse (Vitalia): carbon fixation and indeterminate growth, so the dome may be extended without limit. Materia Primordia, the First Substance (Materia): allotropy, the same Essence re-latticed as wood outside and mineral bracing inside, which also sets the rate. Old mineral seams turn up threaded through its roots on every occasion anyone has checked. Verdantia's etiolation is the first failure: on starved ground the dome grows long, thin and unable to stand. Materia Primordia's phase locking is the second: a heavy enough strike commits the practitioner's lattice for good.
 
-In doctrine it is Domain Weaving, read as Debt: every unit converted is logged against the practitioner's own capacity to heal, with Residue beneath since the growth is the record. The Attraction Layer pays, projected outward as grown matter, with a continuous bleed shed into a structure made of fuel. Ardency (Density) governs whether a ward outlasts what hits it, with Vitality (Regeneration, Hemostasis). On the Fate Path with Attraction second, nothing binds at B-Grade; thickening past B meets the Body Path gates, Flourishing for Density and Splintering for Regeneration.
+In doctrine it is Domain Weaving, read as Debt: every unit converted is logged against the practitioner's own capacity to heal, with Residue beneath since the growth is the record. The Attraction Layer pays, projected outward as grown matter, with a continuous bleed shed into a structure made of fuel. Ardency (Density) governs whether a ward outlasts what hits it, with Vitality (Regeneration, Hemostasis). On the Fate Path nothing binds at B-Grade; thickening past B meets the Body Path gates, Flourishing for Density and Splintering for Regeneration.
 
 Every burn, break and poison it absorbs is felt in full by whoever raised it for the second before the wood catches up. While it stands, hairline Crystal fractures inside slowly close. The Field fault comes on depleted ground, where it rises taller and thinner and cannot hold; the other failures are closure lag, Exuroth's drying, Nihiloth's null (the absence of what growth needs, which the dome cannot convert), phase locking and heavy-metal poison. Between 30 and 40 percent of the spend leaves the Shell as heat, continuously.
 
@@ -89,7 +89,7 @@ The Greening healers read the flow of life as a stock, raising the Veil early an
 
 **Grade required** · B-Grade.
 
-**Path gate** · Fate, secondary Attraction.
+**Path gate** · Fate.
 
 ### FOW line
 
@@ -99,7 +99,7 @@ The Greening healers read the flow of life as a stock, raising the Veil early an
 
 **Grade required** · B-Grade.
 
-**Path gate** · Fate, secondary Attraction.
+**Path gate** · Fate.
 
 **Resonant Pair** · None attested.
 

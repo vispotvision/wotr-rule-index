@@ -3,7 +3,7 @@
 # Hisae Thornwall
 
 **Hisae Thornwall** · the Lady of Thornwall · House Thornwall of Thornhaven, a Banner House of the north; Byakuya-born · as of the ratification in the Hall of Verdicts, sworn for Thornhaven and the Thornwood and the corridors
-**Stat line** · Level 120 · Band II, Awakened · Stage V, Splintering · Path Attraction 45% / Spirit 35% / Body 20% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
+**Stat line** · Level 120 · Band II, Awakened · Stage V, Splintering · Path Fate 45% / Spirit 35% / Body 20% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
 **Combat grammar** · Command; she does not fight, she sends twelve hundred pikes up a stair nobody knew was there
 **Aura and sound** · near-white with a deep red line under it, the Byakuya colors, banked so low for forty years that a Tenrai factor could sit across a table from her and never see them · sound: dry leaves moving on a forest floor
 **Traits** · THE RED BEFORE THE WHITE (Inherited) · tell: her lips moving over the oath, with the doors shut · counter: make the Kōkan the knife / SMILE AND PAY (Primary) · tell: the dry smile · counter: none the Tenrai found in forty years / THE BACK DOOR (Secondary) · tell: she looks at a map for the way nobody uses · counter: a man who already knows the corridors

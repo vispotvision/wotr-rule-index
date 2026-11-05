@@ -3,7 +3,7 @@
 # Gimbzo Kōkan Moto
 
 **Gimbzo Kōkan Moto** · the Kōkan King · Kōkan, the red line of the Moto · as of the morning of Shimane, the last field of the forty-year war, the hour before he went into the mud
-**Stat line** · Level 296 · Band III, Sovereign · Stage X, Realization · Path Body 65% / Attraction 35% · Master · η 0.70 · Aether Class IV, Luminous · Crystal Sovereign, Fractured
+**Stat line** · Level 296 · Band III, Sovereign · Stage X, Realization · Path Body 65% / Fate 35% · Master · η 0.70 · Aether Class IV, Luminous · Crystal Sovereign, Fractured
 **Combat grammar** · Percussion
 **Aura and sound** · black, like his coat, with ember-red running through it the way fire runs under a burned field; at full push the black splits and the red comes up through every crack · sound: a forest fire, the roar and the crack of green wood going
 **Stack** · sustainable S in Penetration and Pressure, A across the body · cap +2 Grades · layers: ENJŌ, NOBI, the vow of the black, and whatever the Tenrai put in his ear that night
@@ -36,13 +36,12 @@
 **Level** · 296
 **Band** · III, Ascendant
 **Temperance Stage** · X, Realization
-**Path** · Body 65%, Attraction 35%. Body for the blow; Attraction for the oaths of the lines and the levies, which bound to him by fear more than faith, and for the Domain
+**Path** · Body 65%, Mastered; Fate 35%, Walked. Body for the blow, with a heat in it that no Kōkan before him had carried; Fate for the oaths of the lines and the levies, which bound to him by fear more than faith, and for the Domain
 **Tier of Standing** · 6, Master
 **η** · 0.70, the floor of the Master band; he never once in forty years spent quietly
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Fractured: split by grief, and by the night in the cellars, along a crack that ran from his breastbone to the back of his left eye and that he handed down to his son
 **Aether Class** · IV, Luminous; his Aether answered his moral alignment with unnerving precision, and his moral alignment was a burning field
-**Essence Typology** · Vectoria, the force and the blow, with a Caloria heat in it that no Kōkan before him had carried
 
 ## III. Wellspring Harmonizations
 

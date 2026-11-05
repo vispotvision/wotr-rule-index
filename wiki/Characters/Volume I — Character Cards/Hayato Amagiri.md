@@ -3,7 +3,7 @@
 # Hayato Amagiri
 
 **Hayato Amagiri** · the Keeper of the Roads · Amagiri, the indigo line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing at the indigo chair in his uncle's place
-**Stat line** · Level 380 · Band IV, Mythic · Stage XI, Dissonance · Path Spirit 60% / Attraction 30% / Body 10% · Grandmaster · η 0.90 · Aether Class III, Resonant · Crystal Sovereign, Refined under mist
+**Stat line** · Level 380 · Band IV, Mythic · Stage XI, Dissonance · Path Spirit 60% / Fate 30% / Body 10% · Grandmaster · η 0.90 · Aether Class III, Resonant · Crystal Sovereign, Refined under mist
 **Shown** · Level 95 · Band I · Stage IV, Flourishing · unclassed: the weather RAIN MIST lays over his Crystal, and the figure every assessor in the north has entered for him
 **Combat grammar** · Blade, the Amagiri draw: one cut, from a sword he carries for show, drawn once in front of witnesses, at the Skeldmere, and nobody there understood what they saw
 **Aura and sound** · a thin blue-gray haze, the color of rain coming off a lake at dusk, that thickens round him at night on a road and thins to nothing in a hall; released, it is indigo to the horizon, a whole valley gone to evening, with gold flecks moving in it like moths round a lamp · sound: rain on a cape; released, rain on a whole forest at once
@@ -38,13 +38,12 @@
 **Level** · 380
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance. The fracture runs along the Verdict of Six: the strongest man in the Hall, voting for a good man's head because he was frightened of what it would cost to show what he was
-**Path** · Spirit 60%, Attraction 30%, Body 10%. Spirit carries the read, the memory and the mist; Attraction carries his word, and the people he has given it to; Body is a horseman's seat and one movement of the sword-arm
+**Path** · Spirit 60%, Mastered; Fate 30%, Walked; Body 10%, Studied. Spirit carries the read, the memory and the mist; Fate carries his word, and the people he has given it to; Body is a horseman's seat and one movement of the sword-arm
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.90
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, under mist
 **Aether Class** · III, Resonant; the conductor Shell, where power moves even in silence; the Class came the year he rode the passes, and no coil has ever read it, since RAIN MIST shows him unclassed
-**Essence Typology** · Fluxia: flow, passage, the way water and mist find the low road round a hill
 
 ### The Veil
 
@@ -52,7 +51,7 @@ The Amagiri name means rain-mist, and the oldest thing the line does is make wha
 
 ## III. Wellspring Harmonizations
 
-**Phreatis** · the Waters of Memory · Depth governing · cross-listed Fluxia and Vitalia; what flows remembers the shape of what it flowed through, and so does he: every road he has walked, every ford, every herders' shoulder, is in him the way a riverbed is in the river
+**Phreatis** · the Waters of Memory · Depth governing · cross-listed Fluxia and Vitalia; what flows remembers the shape of what it flowed through, and so does he: every road he has walked, every ford, every herders' shoulder, is in him the way a riverbed is in the river, and what he does goes the way water and mist find the low road round a hill
 **Transference** · Spatium · Depth deep · the current that carries a thing from one position to another; on a road he has walked, the distance between its ends answers to him
 
 ## IV. Primary Stats

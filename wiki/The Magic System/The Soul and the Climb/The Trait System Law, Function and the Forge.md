@@ -31,7 +31,7 @@ What determines the outcome is Traits.
 
 ## II. What a Trait Is
 
-A Trait is a standing law held in the Essence Core (the soul's inner layer, holding identity, memory and Traits). It forms when lived experience hardens into a statement the Continuum (the lawful fabric of reality) accepts as reliable, and thereafter the soul runs on that statement the way a body runs on a heartbeat, without deliberation and without pause.
+A Trait is a standing law held in the Essence Core (the soul's inner layer, holding identity, memory and Traits). It forms when lived experience hardens into a statement the Continuum (the lawful fabric of reality) accepts as reliable, and thereafter the soul runs on that statement the way a body runs on a heartbeat, without deliberation and without pause. The Core sits on the Soul Plane, inside the two layers that carry a Trait out into the world: the Aether Shell, which meets the Physical World, and the Attraction Layer, a soul's own share of fate on the Plane of Fate.
 
 A Trait is survived into existence, never taught, and a course of Essence Drafts can feed what is being survived without changing that. **Tempering both raises the Traits a soul already has and can leave it with new ones, because a melt is itself something survived:** a new Trait comes out of the heat when what the soul endured there hardens into law, and the Draft that took it to the melt fed the fire without writing the law. The four harmonics that must fall into coherence for one to form are the Essence Core holding the emotional truth, the Attraction Layer bending recognition toward it, the Aether Shell expressing force born from it, and the Temperance Field keeping the whole arrangement from collapsing under its own weight.
 
@@ -67,7 +67,7 @@ The political weight here is the important part. The elite hold no advantage in 
 
 ## V. What a Trait Does to the Body
 
-A Trait held in the Essence Core is a permanent bias written into the Aether Shell's conductivity map. Essence passing through the biased region does not behave as it does elsewhere in the Shell. Because the Shell is the Material-Plane layer, the bias does not stay metaphysical. It expresses in tissue.
+A Trait held in the Essence Core is a permanent bias written into the Aether Shell's conductivity map. Essence passing through the biased region does not behave as it does elsewhere in the Shell. Because the Shell is the layer that meets the Physical World, the bias does not stay metaphysical. It expresses in tissue.
 
 The practical result is that **a Trait edits the body's baseline rather than adding an effect to it.** Nothing is bolted on. The organism is quietly rewritten toward the law, over years, in the ordinary currency of biology.
 
@@ -76,7 +76,7 @@ What this looks like at autopsy and under a physician's hand:
 - **Speed Traits** show as tendon elasticity outside normal range, unusually heavy myelination on motor tracts, and a lactate handling curve that does not match the muscle mass.
 - **Endurance and thermal Traits** rebuild the vasculature: shunt architecture in the extremities, altered brown-fat distribution, a resting core temperature offset from the population mean.
 - **Perception Traits** thicken the relevant sensory apparatus and, more tellingly, reorganize the tissue behind it. The eye is ordinary. The tract is not.
-- **Attraction and Fate-seeded Traits** are the hardest to read on a table and never absent. They show as vascular and neural asymmetry with no traumatic cause, laid down along the lines the bond ran.
+- **Fate-seeded Traits** are the hardest to read on a table and never absent. They show as vascular and neural asymmetry with no traumatic cause, laid down along the lines the bond ran.
 Trait tissue does not heal on the ordinary schedule. It is being maintained against a standing law rather than a healing plan, so it either restores itself faster than it has any right to or refuses to restore at all. Both are diagnostic.
 
 **A body is a Trait record.** Anyone who handles the dead as a profession can read a fair portion of what a person was off the corpse, and a good death-house keeper can do it better than a living practitioner's own instructor. 
@@ -85,7 +85,7 @@ Trait tissue does not heal on the ordinary schedule. It is being maintained agai
 
 As [[The Magic System/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|Fracture of Worlds, Part Twenty]] sets them down, with function and bodily signature added.
 
-**Primary, the Innate Reflection.** Formed from soul Typology, origin, and the first Temperance imprint. Always running, never removable, modest and constant. Function: it sets the direction of least resistance for everything the soul will ever do. Bodily signature: constitutional, present from childhood, indistinguishable from temperament until someone measures it.
+**Primary, the Innate Reflection.** Formed from origin, the first Temperance imprint and the lived Path. Always running, never removable, modest and constant. Function: it sets the direction of least resistance for everything the soul will ever do. Bodily signature: constitutional, present from childhood, indistinguishable from temperament until someone measures it.
 
 **Secondary, the Tempered Reflection.** Forged by trauma, revelation, sustained Wellspring exposure, or a decisive choice. Conditional and triggered. Function: it is the soul's scar turned into an instrument. Bodily signature: acute. Activation is a physiological event, with vascular and thermal signs, a catecholamine-shaped surge, and a debt afterward that must be paid in fatigue whether or not the bearer is willing to stop.
 
@@ -148,7 +148,7 @@ When a character reaches a Band ceiling without the Threshold, the level counter
 
 **This is the whole explanation of the Level 200 wall.** The world has plenty of people who can grind pressure and very few who can produce the Catalyst for Stage VII, Refraction, the Threshold at which Traits externalize and dual sight opens, or who can pay a house's price for the Draft that does it for them. Most of those who ever reach Band II spend the back half of their careers stalled in the high hundred-and-nineties, accumulating Residual Strain, becoming slowly more dangerous to themselves, and dying of something unrelated before the Threshold ever arrives. That population, stalled and straining and loudly bitter about it, buying rounds and naming names, is the ordinary composition of every veteran corps in every army on the continent.
 
-Aptitude decides whether a Threshold happens cleanly, catastrophically, or at all. Tempering Maturity smooths the ascent. On the lived road Tempering Coherence is the structural prerequisite for eligibility, the Crystal's honest scale, and a practitioner whose stated Path (the route, body, spirit, bond or fate, their Crystal works through) and lived behavior have drifted apart will be quantitatively ready for years and never authorized. Maturity is also what the Crystal actually consults.
+Aptitude decides whether a Threshold happens cleanly, catastrophically, or at all. Tempering Maturity smooths the ascent. On the lived road Tempering Coherence is the structural prerequisite for eligibility, the Crystal's honest scale, and a practitioner whose stated Path (the route, body, spirit or fate, their Crystal works through) and lived behavior have drifted apart will be quantitatively ready for years and never authorized. Maturity is also what the Crystal actually consults.
 
 A soul advances when it has genuinely changed, or when somebody has paid to have the change delivered. Effort alone gets it to the door and holds it there.
 
@@ -190,4 +190,4 @@ Draft brokers sell nucleation and describe it as strength, and for a practitione
 
 The Weathering has no institution at all, which is the most telling fact about it. Nothing screens for grain, nothing certifies it, and nothing trades in it. A weathered soul produces no fee.
 
-*Read next: [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]], for the direction a soul's Traits turn out to point.*
+*Read next: [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for the direction a soul's Traits turn out to point.*

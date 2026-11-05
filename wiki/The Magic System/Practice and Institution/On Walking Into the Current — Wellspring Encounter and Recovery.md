@@ -26,7 +26,7 @@ Surveyor-Major Osric Tallant of the Chainward service was explaining the correct
 
 A note on words, for the new reader. A Wellspring represents an alchemical and a spiritual transformation: it is the governing idea that changes how a soul uses Aether, a lens set on magic already potent, and the scholars' account of it is sixty different types of Aether that affect the Soul Crystal (the soul itself) differently. A concentration is a place where one of them pools, thick enough to act on whoever is standing in it, and surveyors call the way it moves through such a place the current. Rich ground fills a practitioner faster, and this page is what happens when the ground is richer than you are. Most concentrations of any size have a [[The Bestiary/Dungeons|dungeon]] around them or will shortly, and monsters move across the whole Inner World, so an encounter in the field rarely stays the only thing happening to you.
 
-A harmonization caught by accident is as real as one got at a school's rites, out of a Draft, from a blessing or by birth. It starts small, like any of them, and reaches its full effect on a person's natural Essence Typology only with years of mastery. Surveyors who come out convinced they have doubled overnight are running a Spirit-type symptom.
+A harmonization caught by accident is as real as one got at a school's rites, out of a Draft, from a blessing or by birth. It starts small, like any of them, and it reaches double only with years of mastery on its home Path, and half again at most away from it. Surveyors who come out convinced they have doubled overnight are running a Spirit-type symptom.
 
 ---
 
@@ -66,6 +66,21 @@ The first symptom is physiological, and it comes before anything you could call 
 
 **The common failure is self-trust.** By the time they suspect the effects are not their own, the effects have been running long enough that the distinction is no longer available to them. The Crystal that would make the distinction is the Crystal that has been compromised.
 
+### Fate-Type Onset
+
+**Nothing reports at all.** The landscape looks normal and the instruments read normal. The feet agree with the eyes, Gnosis reads clean, the hands are the temperature they were, and there is no taste in the throat. The first thirty seconds of a Fate-type encounter are the most comfortable thirty seconds in this register.
+
+What changes is how the week goes. Luck goes strange: a mule that has never gone lame goes lame on the one morning it matters, and the same man draws the short straw three times running. Oaths bite: a cook who swore at breakfast he would sooner lose a thumb than carry that kettle another league is short a thumb by the following noon, and nobody can quite say how. Strangers keep meeting: the peddler on the ridge turns out to be owed money by the guide's brother, and the woman at the next ford knew the peddler. And the surveyor's plans keep working out, in ways the surveyor did not plan.
+> Neither the body nor the Crystal's working layers have anything to tell you, because this current works on the Attraction Layer, the part of a soul that holds its bonds, oaths, claims and odds.
+>
+> The critical diagnostic is repetition. If your body feels normal, your Crystal feels normal, the world looks normal and you are on your third coincidence of the day, the concentration is Fate-type.
+>
+> A Fate-type concentration makes no attack and authors nothing. It collects.
+
+**Response time is long and useless.** You have days, sometimes weeks, and almost nobody spends them, because a strange run of luck is a story you tell at dinner and no one has ever withdrawn a survey over a good story.
+
+**The common failure is the lucky streak.** The surveyor whose plans keep coming off is the last person in the party who wants to leave, and the debts come due after they have made camp on the strength of it. Stay anyway and what you carry out will not show as a new color in the Shell. It will show as a bond you did not have when you walked in, to someone you have not met yet.
+
 ### Medium-Type Onset
 
 Both report simultaneously, and neither report is trustworthy.
@@ -77,7 +92,9 @@ The stream is flowing the wrong direction **and** childhood memories are surfaci
 >
 > Both are symptoms of one cause operating on two planes, and you have no instrument that reads both planes at once unless you are a Ketsumyōgan bearer or a Transference-trained Bifold Perception specialist.
 
-Response time is the worst of the three. The body says the world is wrong. The Crystal says the body is wrong. Both are correct. The surveyor inside a Medium-type concentration at Active density has lost their reference frame, and restoring it requires an external observer standing outside the effect radius.
+A Medium current is at home on the Plane of Fate as well, so there is often a third report coming, days late, in the form described above.
+
+Response time is the worst of the four. The body says the world is wrong. The Crystal says the body is wrong. Both are correct. The surveyor inside a Medium-type concentration at Active density has lost their reference frame, and restoring it requires an external observer standing outside the effect radius.
 
 The common failure is confusion mistaken for illness. They sit down. They wait for the symptoms to pass. The symptoms do not pass, because they are harmonization in progress and no illness at all, and sitting down inside the concentration gives the current more time to complete the process.
 
@@ -116,6 +133,11 @@ The common failure is confusion mistaken for illness. They sit down. They wait f
 
 Post-exit assessment requires a Gnosis specialist. The self-report cannot be trusted, because the Crystal that would produce the self-report has been altered. An external reader performs a full inventory and compares against the pre-deployment baseline.
 
+**Fate-type** · Withdraw, and do not take leaving for being out. Distance ends the pull and does nothing about what has already been bound. Leave by the route that has been going badly, since the current favors the road toward its center. On the way out swear nothing, promise nothing and accept no gift, favor or courtesy you would have to repay.
+> The external reader works from the log and the baseline, and the question is simple: what does this person owe, and whom, that they did not owe at the gate? Anything on the list that did not come in with them came out of the ground.
+>
+> A bond caught this way is a real bond, and it does not lift because the Guild has filed it. Some are paid off, some are outlived, and a few run on after the surveyor stops believing in them. This is normal. It is also why the older surveyors do not take lifts from strangers for a year afterward.
+
 **Medium-type** · Treat as Spirit-type until proven otherwise. The unique complication is **memory contamination**: Phreatis or Anamnesis content can introduce memory material the surveyor experiences as their own. Post-exit they may report memories of events that did not happen to them, or fail to report events that did. Disentangling requires a Mnemata specialist and is frequently incomplete.
 
 **Core** · Transference-assisted re-anchoring by a specialist outside the radius. Requires Stage IX or above; no field surveyor carries the training.
@@ -140,6 +162,8 @@ A Class Ø soul's Shell is sealed and cannot phase-lock, so no harmonization occ
 >
 > The recorded presentation is a porter who was cheerful on the outbound leg and is never cheerful again. It reads as ordinary hardship and it is filed as ordinary hardship.
 
+**Fate-type.** Identical, and this is the one current a sealed Shell does nothing about. Every soul has an Attraction Layer, the unwoken included, and a porter's oaths are as good as a Magister's. Nobody in the party will connect the thumb to the kettle. A village on Fate ground is a place with a reputation: marriages that arrange themselves, a family whose debts always find them, and a market where nobody has gone back on a handshake in living memory because of what happened to the last man.
+
 **Medium-type.** Fully applicable and fully undocumented. Anamnesis and Phreatis content acts on the Essence Core, and the Essence Core is what an unawakened soul has. Memory contamination in an unawakened bearer is indistinguishable from confabulation to every physician who will ever examine them.
 
 **Long exposure.** Residence at Active Concentration or above, sustained over seasons rather than hours, produces a **Trait by Wellspring Convergence.** It is real, it is lawful, it is heritable, and it is in a body nobody will screen. Villages downwind of a concentration produce a family that has been strange for six generations, and the strangeness is a Wellspring's law running quietly in people who have no word for any of this.
@@ -156,12 +180,14 @@ A Class Ø soul's Shell is sealed and cannot phase-lock, so no harmonization occ
 | # | Protocol |
 |---|---|
 | **I** | Assume Spirit-type until proven otherwise. The cost of treating a Wild site as Spirit is unnecessary caution. The cost of treating a Spirit site as Wild is a surveyor whose Crystal has been forcibly rewritten before they identified the perimeter |
-| **II** | Monitor the surveyor, not the landscape. A surveyor trained to watch the ground will miss Spirit-type and Medium-type onset. A surveyor trained to watch their own body will not |
+| **II** | Monitor the surveyor, not the landscape. A surveyor trained to watch the ground will miss Spirit-type and Medium-type onset. A surveyor trained to watch their own body will not. Neither of them will catch a Fate-type onset, which is what Protocol IX is for |
 | **III** | Deploy in pairs with one member outside the estimated effect radius. The interior surveyor reports what they experience. The observer confirms or contradicts. ***The contradiction is the diagnosis*** |
 | **IV** | Carry pre-deployment Crystal baselines for every team member. Without a baseline the assessor cannot distinguish native architecture from the concentration's additions. Taken before entering unmapped territory, not after the first day's march |
 | **V** | Do not carry Object Wellsprings into Site Wellsprings. A surveyor wearing a forged ward and stepping into an Active Concentration is asking two Wellspring laws to share a Shell that was built for one |
 | **VI** | **Withdrawal is no retreat.** Marking the perimeter from safe distance **completes the survey.** The Guild has buried enough surveyors who decided that the interior documentation could not wait |
 | **VII** | Report Medium-type sites as priority. A surveyor who identifies one and reports location, density and dominant Family has done more for the survey than a surveyor who maps the interior of a Wild-type site that was going to be found anyway |
 | **VIII** | Watch the unawakened members of the party. They will not report onset, because they have no vocabulary for it and no reason to think it applies to them. A porter who stops talking is a reading. Baseline them before departure by any means available, even if it is only a note on how they were |
+| **IX** | Keep a dated written log on every site that reads normal: who was met, what was sworn, what fell out well and what fell out badly. A Fate-type site reads as nothing on every instrument and reads plainly on paper. ***Three coincidences in a day is a reading*** |
+| **X** | Swear nothing on ground that has not been typed: no oaths, no wagers, no promises, no courtesies that could be taken for one. The oath sworn lightly on Fate-type ground is the one that holds |
 
 *Read next: [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica]], for the people who take from the current without asking.*

@@ -107,7 +107,7 @@ Their seasonal movement through forest territory has nothing of homelessness in 
 | **Ardency** | −05 | Output is depth, not volume; a Varrisak spends less because their Essence is rarely fully separate from the forest supplying it |
 | **Gnosis** | +15 | Ecological and historical memory at extraordinary depth within bonded territory; **shallow outside it** |
 | **Dexterity** | +05 | Certainty over speed: Economy high, Celerity middling |
-| **Harmonics** | **+30** | **Definitive stat.** Attraction-Path-heavy resonance; in bonded territory a Varrisak's Harmonics are read as **the forest's own** |
+| **Harmonics** | **+30** | **Definitive stat.** Fate-Path-heavy resonance; in bonded territory a Varrisak's Harmonics are read as **the forest's own** |
 | **Resilience** | +20 | Damage distributes across bonded territory rather than localizing, so a deeply rooted Varrisak is genuinely harder to finish than to merely wound |
 | **Tempering** | +05 | Efficient through depth rather than discipline; Coherence is high specifically because behavior, Path, and Crystal have never been asked to disagree |
 | **Dominion** | +25 | Territory-as-self Domain law, the most literal of any elven lineage; in the most bonded cases, **simply how far the forest currently breathes** |
@@ -139,9 +139,9 @@ Standing among Drow is built through what has been given away and accounted for,
 
 ### Soul architecture
 
-**Essence Typology** · Mortis (primary): **debt-Mortis specifically**, the obligation an ending creates, a long way from nihilistic Mortis. Abyssal (secondary): the authority of having stood in the dark and mapped it.
+**Soul Habit** · **Debt first**, the obligation an ending creates, a long way from nihilism. Second, the authority of having stood in the dark and mapped it.
 
-**Soul Path Bias** · Spirit 60% / Attraction 30% / Body 10%, **the highest Attraction Path expression of any elven lineage**, and the structural source of their unusual spatial and Domain authority. (Soul Path is the share of a person's power that runs through body, spirit, attraction or fate.)
+**Soul Path Bias** · Spirit 60% / Fate 30% / Body 10%, **the highest Fate Path expression of any elven lineage**, and the structural source of their unusual spatial and Domain authority. (Soul Path is the share of a person's power that runs through body, spirit or fate.)
 > **Advantages**
 >
 > **Shadow Parallax**: passive three-layer Aetheric perception, physical, Aetheric, and Veil-sheen simultaneously.

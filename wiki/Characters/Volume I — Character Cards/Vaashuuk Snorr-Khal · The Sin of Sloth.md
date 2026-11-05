@@ -3,7 +3,7 @@
 # Vaashuuk Snorr-Khal
 
 **Vaashuuk Snorr-Khal** · The Sin of Sloth · Goblin, the Hobgoblin Expanse · as of the bottom of the Pit, the hour the Wrath woke
-**Stat line** · Level 380 · Band IV, Mythic · Stage X, Realization · Path Attraction 55% / Spirit 45% · Master · η 0.94 · Aether Class V, Radiant · Crystal Sovereign, Refined
+**Stat line** · Level 380 · Band IV, Mythic · Stage X, Realization · Path Fate 55% / Spirit 45% · Master · η 0.94 · Aether Class V, Radiant · Crystal Sovereign, Refined
 **Combat grammar** · Expenditure
 **Aura and sound** · Limina at Realization's clarity, pale and clean, the drowsy lavender end of the Family's range, a syrupy shimmer like heat-haze gone thick, droplets hanging in it; sound: a long jaw-cracking yawn, then a low hum like a pane of glass ringing very slowly
 **Stack** · sustainable SS in Projection and Longevity · cap +2 Grades · layers: FEATHERBED, the Snooze-Glass charge, TAR TIME or the Lie-In when called
@@ -38,13 +38,12 @@
 **Level** · 380
 **Band** · IV, Mythic
 **Temperance Stage** · X, Realization. He reached the Level where he should push for Dissonance decades ago and has been lying there since
-**Path** · Attraction 55%, Spirit 45%. No Body Path at all: the gates hold his Fortitude, Celerity, Grapple and Penetration in the low hundreds or below
+**Path** · Fate 55%, Mastered; Spirit 45%, Walked. No Body Path at all: the gates hold his Fortitude, Celerity, Grapple and Penetration in the low hundreds or below
 **Tier of Standing** · 6, Master
 **η** · 0.94. Far above the Master band and standing as recorded. He wastes nothing, because wasting would mean working
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined. The calmest Crystal in the Sins, and the most worrying for it
 **Aether Class** · V, Radiant
-**Essence Typology** · Limina
 **Attraction / Obsession** · Obsession Force with nothing to grip on: he never commits, so there is no gap between what he is and what he thinks he must be. The cost of that is everything else on this card
 
 ## III. Wellspring Harmonizations

@@ -61,7 +61,7 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade A; the late push toward S needs Transcendence or above, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80.
 
-**Paths** · Declares the Spirit Path: Cognition and Retention run at full Grade; Cascade and Density above B need the Attraction and Body Paths, so the chamber's spread and solidity cap at B, and without Attraction the seal is renewed by hand.
+**Paths** · Declares the Spirit Path: Cognition and Retention run at full Grade; Cascade and Density above B need the Fate and Body Paths, so the chamber's spread and solidity cap at B, and without Fate the seal is renewed by hand.
 
 **Anchor** · From Refraction no anchor is required, yet it keeps one: the spoken name and the glyph in the air, a retained weakness.
 
@@ -101,7 +101,7 @@ The Oneirocritics read whatever fills a thin template as diagnostic of the man. 
 
 **Grade required** · A-Grade; the late push toward S needs Transcendence.
 
-**Path gate** · Spirit Path; Cascade and Density past B need the Attraction and Body Paths, so without them the chamber's spread and solidity cap at B.
+**Path gate** · Spirit Path; Cascade and Density past B need the Fate and Body Paths, so without them the chamber's spread and solidity cap at B.
 
 **Resonant Pair** · None
 

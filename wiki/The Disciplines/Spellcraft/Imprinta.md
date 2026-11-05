@@ -36,7 +36,7 @@ The failure is structural and permanent: each write subtracts from the layer tha
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, B-Grade (176 to 275).
 
-**Paths** · Retention needs the Spirit Path at Welling to pass D, Attunement the Attraction Path at Welling to pass D; off them the medium keeps a shape and a charge with no intention in it, and the waking is a feeling with no named person behind it.
+**Paths** · Retention needs the Spirit Path at Welling to pass D, Attunement the Fate Path at Welling to pass D; off them the medium keeps a shape and a charge with no intention in it, and the waking is a feeling with no named person behind it.
 
 | Quantity | Working | Result |
 |---|---|---|

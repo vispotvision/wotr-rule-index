@@ -14,11 +14,11 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · Conviction, rupture and transformation. Its ten Wellsprings are ten ways a soul can be changed by burning, from the ember that never goes out to the blast that ended the tollhouse.
 
-**The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Caloria has this burn in everything it does. One of these ten brings the burn forward: a little at first, and after years of mastery up to double, so that the same fist at the same Grade lands with twice the rupture in it. Another Typology can take them too, at a higher Essence cost and with a rougher result, and the bath-house trade will tell you it shows in the water. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
+**The lens** · A soul tempered on one of these ten carries the burn in everything it does: a little at first, and after years of mastery at the lens's home Path up to double, so that the same fist at the same Grade lands with twice the rupture in it. Eight are Wild, at home in the Physical World, and two are Spirit, at home on the Soul Plane. Away from home half again is the most anyone has got out of one, at a higher Essence cost and with a rougher result, and the bath-house trade will tell you it shows in the water. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
 **Stat Affinity** · *Ardency (Flux, Overchannel, Depth, Cascade, Compression) · Vitality (Tolerance, Threshold, Constitution) · Tempering (Overflow, Yield, Clarity, Longevity)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether. **Kind** names its home plane, and never locks it: Wild for the Physical World, Spirit for the Soul Plane, Fate for the Plane of Fate, Medium for all three. **On the Body**, **On the Spirit** and **On Fate** say what the lens does to Essence on each Path, through the Aether Shell, the Essence Core and the Attraction Layer in turn. After those, **Spirit** is the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -27,6 +27,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 **The idea** · Fire that renews. Whatever this lens touches it burns down so that something can stand up in its place, and the burning stays in the soul as strength where it would otherwise have left as smoke.
 
 **Kind** · Wild
+
+**On the Body** · The heat lives in the tissue, so the blow burns on contact and the body stops minding fire, having taken it in as a lodger.
+
+**On the Spirit** · Thrown from the Core, it burns what is false in a thing before what is solid, so a forged seal will char on a letter whose paper stays cool.
+
+**On Fate** · It makes a claim that burns its way through: oaths and rivalries consume what stands in them, and the ground catches around the person who holds them.
 
 **Spirit** · Temperance through burning; destruction reborn as creation.
 
@@ -50,6 +56,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Kind** · Wild
 
+**On the Body** · Every beating and every recovery sets the Shell harder than the last, so that a fighter's third bad season leaves a forearm that turns a blade and a threshold of pain their physician declines to test.
+
+**On the Spirit** · A working must fail and be thrown again before it takes an edge, and an inscription that has cracked twice and been recut holds where a clean first draft would split.
+
+**On Fate** · An oath under this lens hardens each time it is nearly broken, which is why its holders' troubles arrive in evenly spaced helpings, with just enough of an interval to recover for the next.
+
 **Spirit** · Temperance through ordeal.
 
 **Alchemy** · The assayer's trial: quench and temper, the bench's proof by ordeal. *(the trade's reading)*
@@ -71,6 +83,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 **The idea** · The spark. The smallest beginning that goes on to pay for itself, so that the gap between wanting a thing and doing it closes to almost nothing.
 
 **Kind** · Wild
+
+**On the Body** · The gap between wanting the blow and throwing it all but closes, and the fist has left before the shoulder has told anyone.
+
+**On the Spirit** · A speck of Essence is enough to start a projection that then pays for itself out of whatever it lands on, so a one-stroke mark can go on working long after its writer would have liked it to stop.
+
+**On Fate** · First impressions catch. A handshake becomes an alliance by supper, a stranger's idle promise turns out binding, and the rumor of the person reaches the next town ahead of their horse.
 
 **Spirit** · Temperance through ignition.
 
@@ -94,6 +112,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Kind** · Wild
 
+**On the Body** · The Shell eats its own leavings, turning spent Essence and burned-off effort into second wind, so the practitioner looks worst and feeds best at the end of a long fight.
+
+**On the Spirit** · What a working leaves behind feeds the next one, and the practitioner can read a thing by its residue, getting from a burned letter some of what it said.
+
+**On Fate** · Lost causes and dead men's debts settle on the holder like ash in a low place, and a claim other people wrote off as ruined turns out to have some pull left in it.
+
 **Spirit** · Temperance through aftermath.
 
 **Alchemy** · The law Calcination draws on, the Burning of the bench: strong dry heat drives off what is volatile and leaves what is fixed.
@@ -115,6 +139,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 **The idea** · The fuming earth. Pressure let out forever and never saved up, so the soul stops building toward a blow and becomes a steady force in the room.
 
 **Kind** · Wild
+
+**On the Body** · The Shell never stops venting, so the body stands in a fight the way a hot spring stands in a field, pushing steadily at whatever comes close and never winding up to do it.
+
+**On the Spirit** · A working seeps where others would throw, and a line inscribed on a doorstep goes on breathing its meaning into the house for years at a cost nobody notices paying.
+
+**On Fate** · Presence with no peak to it: the weight in the room arrives when they do and leaves some while after, and a grudge held this way neither flares nor goes out.
 
 **Spirit** · Temperance through pressure.
 
@@ -138,6 +168,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Kind** · Wild
 
+**On the Body** · The flesh becomes a surface where things that should never meet can meet, and one arm will carry a poison and its cure, or two Wellsprings' quarrel, without the limb being torn by it.
+
+**On the Spirit** · Two workings that would wreck each other can be held side by side in the Core until they do what neither could alone, and the strange part is that the practitioner comes out of it unchanged.
+
+**On Fate** · Enemies end up at this person's table. Bargains get struck across them that could not have been struck without them, and the go-between takes nothing from the deal and is seldom thanked.
+
 **Spirit** · Temperance through transformation.
 
 **Alchemy** · The go-between that stays out of the product: two reagents held side by side until they will do what neither would alone. *(the trade's reading)* Iron conducts it.
@@ -159,6 +195,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 **The idea** · Upheaval. The moment a fire stops being a fire and becomes a blast, a change in kind as well as size, and the soul that has learned to call that moment.
 
 **Kind** · Wild
+
+**On the Body** · Given confinement behind it, a set stance or a wall at the enemy's back, a blow stops being a push and goes over into a blast, and the pressure crosses the target faster than the target can flinch.
+
+**On the Spirit** · A projected working can change in kind partway across the distance, leaving as one thing and arriving as a rupture, and the people it arrives on rarely get to learn what it was meant to be.
+
+**On Fate** · Slow quarrels near this person pass a point and go off all at once, so that a ten-year feud ends in a night and a Domain widens by whole streets as everyone picks a side.
 
 **Spirit** · Temperance through upheaval.
 
@@ -182,6 +224,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Kind** · Wild
 
+**On the Body** · The flare goes and the heat stays, so the practitioner hits a little softer than anyone expects, and exactly that hard at dusk after a day of it, and again at seventy.
+
+**On the Spirit** · Workings burn low and very long, and a mark left on a thing stays faintly live in it, still quietly arguing about what that thing is a year after the fight is forgotten.
+
+**On Fate** · A claim kept banked: a house's right, a vow or an old love held at low heat for a lifetime, still warm when the grandchildren come to collect.
+
 **Spirit** · Temperance through endurance.
 
 **Alchemy** · The Long Furnace's fire: slow heat kept for months, with the charge never once flaring. *(the trade's reading)*
@@ -202,7 +250,13 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **The idea** · Letting go. A load set down so completely that the setting down spends it, and the soul comes out on the other side lighter and changed.
 
-**Kind** · Spiritual
+**Kind** · Spirit
+
+**On the Body** · It gives a fighter nothing to throw. Terror, exhaustion and the shaking after a kill go out of the limbs in one long breath, and hands that could not close an hour ago close.
+
+**On the Spirit** · Grief and rage held in the Core are spent by the letting go of them and take the old order of the soul along, so the person who stands up afterward is calmer and honestly somewhat different from the one who sat down.
+
+**On Fate** · A grudge or a bond can be put down so completely that the line goes slack, and the people who came to collect on an old hatred find themselves looked at with mild interest.
 
 **Spirit** · Temperance through letting go: release, purgation, true clearing. The Heresiology's warning stands beside it, that nothing is purified by being merely emptied.
 
@@ -212,7 +266,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Analogue** · Latent heat of phase change. Enthalpy absorbed at constant temperature.
 
-**Mechanism** · Melting ice at zero degrees absorbs three hundred and thirty-four joules per gram and the temperature does not move a fraction. The energy goes entirely into breaking the ordered structure. Catharsis routes accumulated emotional load into a phase transition instead of into output, so enormous internal pressure is consumed by the change of state itself and the practitioner arrives on the other side measurably calmer and structurally different.
+**Mechanism** · Melting ice at zero degrees absorbs three hundred and thirty-four joules per gram and the temperature does not move a fraction. The energy goes entirely into breaking the ordered structure. Catharsis routes accumulated emotional load in the Essence Core into a phase transition instead of into output, so enormous internal pressure is consumed by the change of state itself and the practitioner arrives on the other side measurably calmer and structurally different. The ice is the scholars' comparison and all of this happens in the soul: nothing outside the practitioner changes by a degree, unless you count the chill reported in a few confessionals, which the trade is still arguing about.
 
 **Stat Effect** · Strengthens Harmonics Empathy, Tempering Maturity, Resilience Fortification. Emotional weight converts into structural clarity.
 
@@ -222,9 +276,15 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 ## Penanceflare · *The Light of Contrition*
 
-**The idea** · Burning in the open. Remorse that shines, so that what the soul is and what it means can be read by anyone looking, and honesty costs nothing because nothing is hidden anymore.
+**The idea** · Burning in the open. Remorse that shines on the Soul Plane, so that what the soul is and what it means can be read by anyone able to look at a soul, and honesty costs nothing because nothing is hidden anymore.
 
-**Kind** · Spiritual
+**Kind** · Spirit
+
+**On the Body** · No fire comes of it, only a body that has learned to bear being seen: a wound or a fear left unhidden stops costing Essence to hide, and the fighter's tells, being plain to everyone, stop being any use to anyone.
+
+**On the Spirit** · The Core shows what it is and what it means, so every working wears its maker's intent on its face, and the remorse that lights it is very hard to argue with.
+
+**On Fate** · Everything the holder owes stands in plain view on the Attraction Layer, which carries an odd safety, since a debt openly owned cannot be called in by surprise or used for blackmail.
 
 **Spirit** · Temperance through remorse.
 
@@ -234,7 +294,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Analogue** · Blackbody radiation. Planck's law and the emissivity of a body that cannot hide its temperature.
 
-**Mechanism** · Every body above absolute zero radiates, and the spectrum of that radiation reports its temperature to anyone with an instrument. Penanceflare raises the Shell's emissivity toward unity. The practitioner's workings become brilliantly legible, their intent readable in the emission, and concealment becomes impossible in exactly the measure that honesty becomes free.
+**Mechanism** · Every body above absolute zero radiates, and the spectrum of that radiation reports its temperature to anyone with an instrument. The scholars' account is that Penanceflare does this to the Essence Core, raising its emissivity toward unity so that remorse shows on the Soul Plane at its true heat. The practitioner's workings become brilliantly legible to any Gnosis (the stat of reading and knowing) that can look at a soul, their intent readable in the emission, and concealment becomes impossible in exactly the measure that honesty becomes free. Almost none of this reaches the physical world, and a hand held near a penitent feels nothing. Whether the faint light some witnesses swear to on the skin is really there, and whether the burning of the Failure below is heat at all or a body agreeing with its soul, the Measurewrights have been arguing for a long time.
 
 **Stat Effect** · Strengthens Ardency Compression inversely, raising a working's visibility rather than lowering it, and Gnosis Vigilance. Workings become more visible and more honest in expression.
 
@@ -251,6 +311,12 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 **The idea** · The cold that stills. Prometheus burns what is false, Zar'thuun unmakes what is excess, and Vohrin stills what is left so it can be built upon. Cold here is no fire of its own. It is a deficit, heat let go of and held as a discipline.
 
 **Kind** · Wild
+
+**On the Body** · Heat leaves the tissue along a held gradient, so the blow carries a deficit into the wound and the holder's own blood runs slow and steady under it.
+
+**On the Spirit** · Projected from the Core, the cold stills what it reaches and holds a thing at what it already is, and a hurrying thought or a half-finished working simply stops where it stood.
+
+**On Fate** · What is held stays held: a claim under this lens neither grows nor lapses, a bond stops moving in either direction, and a quarrel going on around the holder loses the will to continue.
 
 **Two levels** · One power, worked two ways. The frost arts of the hunters and the northern schools work it at Wellspring level or as a Titan-derived current, each at the Stage floor its own entry states. The Titan-Keyed Stillwater Rite works it at the Titan's level and is gated at Revelation.
 

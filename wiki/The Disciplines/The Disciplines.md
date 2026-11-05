@@ -89,7 +89,7 @@ Every act of structured magic passes through five steps, whatever discipline is 
 |---|---|---|
 | **1 · Intent** (Volition) | — | The practitioner fixes the purpose. Guard. Strike. Scout. Heal. Carry. Witness. Intent shapes what the Essence Core will donate. |
 | **2 · Pattern** (Glyphica) | — | The Crystal selects or improvises a Parunic Draft. All four Glyph Roles must be addressed, even if compressed into instinctive shorthand at high Temperance. |
-| **3 · Essence Donation** | Soul Plane | The Core releases a shaped fragment of itself into the Shell. Essence Typology becomes visible here. |
+| **3 · Essence Donation** | Soul Plane | The Core releases a shaped fragment of itself into the Shell. The Wellspring that shaped it becomes visible here. |
 | **4 · Aether Formation** | Physical Plane | The Shell conducts the fragment outward and gives it form. Aether Class determines how clean this step is. |
 | **5 · Attraction Anchoring** | Plane of Fate | The Attraction Layer claims the working as a recognized presence. This is the step that grants **duration**. Without it, the form dissolves the instant concentration lapses. |
 

@@ -89,7 +89,7 @@ Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, r
 
 **Practitioner** · Splintering, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; B-Grade (176 to 275) on the Spirit Path, allocation stopping at 275, instability above 320, ceiling 350 only under strain.
 
-**Caps** · Harmonics Attunement needs the Attraction Path past D, so it runs capped at D and returns what arrives without tuning to it; retention of frequencies already met opens on the Spirit Path above C.
+**Caps** · Harmonics Attunement needs the Fate Path past D, so it runs capped at D and returns what arrives without tuning to it; retention of frequencies already met opens on the Spirit Path above C.
 
 | Quantity | Working | Result |
 |---|---|---|

@@ -60,7 +60,7 @@ A Collegium figure school, from sand drawing mode shapes on a bowed plate, holds
 | Air-Step | along an existing gradient | 30 to 60 m/s, two-beat recovery |
 | Lie warble | a half-step flat | about 6% in frequency |
 
-**Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade A; ascending to Transcendence, Master, 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S. Attraction Path; Air-Step Celerity capped at B.
+**Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade A; ascending to Transcendence, Master, 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S. Fate Path; Air-Step Celerity capped at B.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -75,11 +75,11 @@ A Collegium figure school, from sand drawing mode shapes on a bowed plate, holds
 
 ### Codex line
 
-Wellspring Judicium (primary, Fulguria, Electromagnetism), Cymorath (secondary, Fulguria, Electromagnetism), Anamnesis (tertiary, Limina; Entropy, Void and Mind). Category Harmonia. Skill Chanting, held as long as the pattern is breathed. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Attraction Path.
+Wellspring Judicium (primary, Fulguria, Electromagnetism), Cymorath (secondary, Fulguria, Electromagnetism), Anamnesis (tertiary, Limina; Entropy, Void and Mind). Category Harmonia. Skill Chanting, held as long as the pattern is breathed. Stage floor VII, Refraction. Grade required A-Grade (late push toward S-Grade). Path gate Fate Path.
 
 ### FOW line
 
-Governing Primary Harmonics (Attunement) and Dexterity (Celerity, Finesse). Stage floor VII, Refraction, ascending to VIII, Transcendence. Grade required A-Grade at floor, S-Grade at apex. Path gate Attraction Path. Resonant Pair none on the roll.
+Governing Primary Harmonics (Attunement) and Dexterity (Celerity, Finesse). Stage floor VII, Refraction, ascending to VIII, Transcendence. Grade required A-Grade at floor, S-Grade at apex. Path gate Fate Path. Resonant Pair none on the roll.
 
 ### Origin
 

@@ -3,7 +3,7 @@
 # Amelia Greymane
 
 **Amelia Greymane** · the Grey Wall · Kharven, House Greymane of the Ridgewall · as of the king's chambers at the top of the east tower, Kharven-Seat, spring, six months after the Great War of the North, the hour before the spar
-**Stat line** · Level 110 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Attraction 30% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
+**Stat line** · Level 110 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Aether Class unclassed until Glory · Crystal Awakened, Refined
 **Combat grammar** · Shield and axe in the line; the longsword at court; she fights to take your head off and says so
 **Aura and sound** · rust and gold, a warm red-brown with a gold edge that rises off her shoulders when she sets her feet · sound: a struck shield-rim, ringing and fading out
 **Stack** · sustainable C in Anchoring · cap +2 Grades · layers: STONEFAST when called
@@ -36,13 +36,12 @@
 **Level** · 110
 **Band** · II, Awakened
 **Temperance Stage** · IV, Flourishing
-**Path** · Body 70%, Attraction 30%. Body carries the shield and the axe; Attraction carries the line, the man on her left and the man on her right
+**Path** · Body 70%, Walked; Fate 30%, Walked. Body carries the shield and the axe; Fate carries the line, the man on her left and the man on her right
 **Tier of Standing** · 3, Adept
 **η** · 0.45
 **Soul Crystal Tier** · Awakened
 **Crystal State** · Refined; it took a hairline on the Thornwall and holds, like the pauldron
 **Aether Class** · Unclassed until Glory
-**Essence Typology** · Materia: stone, weight and the load carried down into the ground
 
 ## III. Wellspring Harmonizations
 

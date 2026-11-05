@@ -36,7 +36,7 @@ The other half of the price is clarity of soul. The working reads the caster's c
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, A-Grade (276 to 400; 475 under strain).
 
-**Paths** · Sovereignty needs the Fate Path at Glory to pass A, so off it Sovereignty caps at 400; Command needs the Attraction Path at Transcendence to pass SS and caps at 400 for any Refraction speaker.
+**Paths** · Sovereignty needs the Fate Path at Glory to pass A, so off it Sovereignty caps at 400; Command needs the Fate Path at Transcendence to pass SS and caps at 400 for any Refraction speaker.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -106,4 +106,4 @@ Urion originates the form at the cosmological scale; mortal derivations of the s
 
 **Fails against** · A hand over the speaker's mouth; a Lock placed beforehand; a target who outranks the speaker; a seal forced early, which bills the speaker; shielding or fog that mis-locates the edge; a judge who has stopped believing their bench.
 
-**Look up** · The Judicium entry and Fulguria's terrain; the Lock glyph in the Counterplay register; the Fate and Attraction Path gates for Sovereignty and Command; the Consent Doctrine; the Refraction Stage table.
+**Look up** · The Judicium entry and Fulguria's terrain; the Lock glyph in the Counterplay register; the Fate Path gates for Sovereignty and Command; the Consent Doctrine; the Refraction Stage table.

@@ -35,9 +35,9 @@ The failure is no precedent: an exchange the ledger has never met gets an empty 
 
 ## Numbers
 
-**Practitioner** · Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, SS-Grade (551 to 725); Body Path primary, Attraction secondary.
+**Practitioner** · Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, SS-Grade (551 to 725); Body Path primary, Fate secondary.
 
-**Paths** · Gravity needs the Attraction Path at Splintering to pass A, or blades arrive at A weight.
+**Paths** · Gravity needs the Fate Path at Splintering to pass A, or blades arrive at A weight.
 
 **Retention** · Needs the Spirit Path at Welling to pass D and at Glory to pass A; off it the loaded count caps at A and each further blade is a fresh, risky read.
 
@@ -95,7 +95,7 @@ The failure is no precedent: an exchange the ledger has never met gets an empty 
 
 **Grade required** · SS-Grade.
 
-**Path gate** · Body Path, primary; Attraction Path, secondary, consistent with its bearer's 25% Attraction weighting.
+**Path gate** · Body Path, primary; Fate Path, secondary, consistent with its bearer's 25% Fate weighting.
 
 **Resonant Pair** · None.
 

@@ -64,7 +64,7 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade A. Transcendence to Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S.
 
-**Paths** · No Path declared: layering three Wellsprings in one working above A needs the Attraction Path, so an S release carries Fixatio alone; the seated-Domain release also needs the Attraction Path.
+**Paths** · No Path declared: layering three Wellsprings in one working above A needs the Fate Path, so an S release carries Fixatio alone; the seated-Domain release also needs the Fate Path.
 
 **Anchor** · From Refraction no anchor is required, but the discipline keeps its gesture-keys (kneeling, raising a shield, touching the brand), re-committed each time.
 
@@ -96,7 +96,7 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 
 **Grade required** · A-Grade at Refraction; S-Grade from Transcendence to Realization.
 
-**Path gate** · None for an A release; the Attraction Path for a layered release above A and for the seated-Domain release.
+**Path gate** · None for an A release; the Fate Path for a layered release above A and for the seated-Domain release.
 
 ### FOW line
 
@@ -106,7 +106,7 @@ The Impetists hold that impressed impetus never decays, so spending an oath is a
 
 **Grade required** · A at Refraction; S from Transcendence.
 
-**Path gate** · None for an A release; the Attraction Path for layered S releases and the seated-Domain release.
+**Path gate** · None for an A release; the Fate Path for layered S releases and the seated-Domain release.
 
 **Resonant Pair** · None
 

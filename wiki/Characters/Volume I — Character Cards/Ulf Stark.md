@@ -3,7 +3,7 @@
 # Ulf Stark
 
 **Ulf Stark** · the Warlord of House Stark · Kharven, House Stark of Hollenmark · as of the gatehouse at Kharven's Foot, the morning he swore the house to the Tokenless and rode south
-**Stat line** · Level 185 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Attraction 35% / Spirit 5% · Expert · η 0.62 · Aether Class I, Muridic · Crystal Harmonic, Refined
+**Stat line** · Level 185 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Fate 35% / Spirit 5% · Expert · η 0.62 · Aether Class I, Muridic · Crystal Harmonic, Refined
 **Combat grammar** · Blade, heavy; the great sword two-handed, point down when he is thinking
 **Aura and sound** · the Stark cold at Glory's clarity: dark gray under a hard white rime that frosts the fur of his hood and silvers the snow for yards round him · sound: a frozen lake taking weight, deeper than his son's
 **Traits** · STARK RIME (Inherited) · tell: his breath stops steaming and the wolf-fur goes white · counter: heat, and keeping him calm / THE MAKING OF A GENERAL (Primary) · tell: the long look, then "Ah. So there he is." · counter: a man who shows him nothing / WE GIVE (Secondary) · tell: "That's just the way this life is, lad" · counter: something he will not give, which nobody has found

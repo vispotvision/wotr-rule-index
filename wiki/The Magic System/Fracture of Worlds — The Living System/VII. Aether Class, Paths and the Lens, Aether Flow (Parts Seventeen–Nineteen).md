@@ -1,11 +1,11 @@
 ---
-title: VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)
+title: VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)
 tags:
   - Magic System
   - Reference Table
 ---
 
-# VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)
+# VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)
 
 Nobody at the Saltgate Cod Fair had ever seen a line like it, because the bookies had never been asked to price a coin toss with fists. Sissel and Gunnild Scarbrow were twin sisters out of the Tar Street Bellows, a fire school with yellow-and-black colors and a song about its own bad manners, and they stood at the seventh of the sixteen Stages (the rungs of the soul's refinement), both of them. The Guild's Measurewright (an assayer of souls and workings) had read them that morning in front of a paying crowd and called out two sheets that matched to the last figure. Even money, then, on the strangest card of the summer. Sissel went first, because Sissel always went first: she planted her boots, filled her chest and threw a fire the color of a ripe persimmon, a great roaring sheaf of it that came with a fistful of sparks and a stink of scorched hair and set the Chandlers' Guild's bunting alight twenty paces off. The crowd howled with joy. Gunnild answered from the hip with a thread of white flame no wider than a bootlace and no louder than a kettle, which crossed the ring without lighting anything at all until it reached the oak post behind her sister's shoulder, and the post fell over in two pieces.
 
@@ -91,35 +91,76 @@ A character at B-Grade Ardency Flux with a Class II Harmonic Shell produces roug
 
 The interaction is not linear. **II to III** produces the largest single improvement in stat-to-output fidelity. **V to VI** produces the most dramatic qualitative shift, from conventional force expression to inverted and negation-based expression. The jump to **Ω** produces output the stat system can no longer meaningfully track.
 
-## Part Eighteen — Essence Typology and the Eight Families
+## Part Eighteen — Paths, the Lens and the Eight Families
 
-*"The element does not choose you. It remembers you."*
+*"The element does not choose you. You temper yourself on it, and it remembers you."*
 
-Essence Typology is a Soul Crystal's natural bias toward one of the eight Families. Not an element controlled, but a disposition expressed. Typology determines which Wellsprings harmonize without tearing the lattice, how Traits (a belief hardened into a personal law of the soul) form and behave, what Aether Class trajectory the Shell tends toward, and the qualitative character of every stat expression the character produces. Most souls carry one dominant Family bias with a secondary undertone.
+Older books sort souls by an inborn bias toward one of the eight Families. The trade has given that up. Nobody is a Caloria soul: there are only people who have tempered themselves on a Caloria Wellspring. What gives a blow its character is the Wellspring a soul has tempered on and the Path it comes out by, and both of those can be read off a life. Which Wellsprings sit easily with a soul follows from how each one's kind sits with the Path. How a Primary Trait (a belief hardened into a personal law of the soul, the first and quietest of them) forms is a matter of origin, first imprint and the lived Path, by Part Twenty. Where a class is going is a matter of how the person has lived, by Part Seventeen.
 
-**Caloria:** Conviction, rupture, transformation. The burn that clears ground for something new. *Catalyst:* the moment anger becomes purpose rather than destruction.
+### The Three Paths
 
-**Fulguria:** Perception, revelation, precision. Reads a room, a wound or a lie before it finishes forming. *Catalyst:* seeing a truth no one else could see, and being right.
+A soul meets the world through three layers, and every soul has all three, the unwoken included. **A Path is the layer a Crystal has learned to lean on.** The full account is [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
 
-**Vectoria:** Momentum, the breaking point, the long climb. Pressure that either shatters or refines. *Catalyst:* the moment catastrophe becomes clarity.
+| Path | Plane | Layer | Who | Buys | Costs |
+|---|---|---|---|---|---|
+| **Body** | The Physical World | Aether Shell | Hitters | Strike, Durability, Lifting, in full at contact | Range and Aura Pressure. Must close |
+| **Spirit** | The Soul Plane | Essence Core | Throwers | Force at range through projection and inscription, and a say on what a thing is | Durability. Survives by being right |
+| **Fate** | The Plane of Fate | Attraction Layer | Talkers and stayers | Bonds, oaths, Range, Aura Pressure and Domain authority, with true Fate Arts at the rare far end | Raw output. Strongest at home |
 
-**Spatium:** Distance, absence, the space between. Always already somewhere else. *Catalyst:* discovering that where you are is a choice, not a fact.
+Attraction Force and Obsession Force are what the Plane of Fate runs on, and the Attraction Layer is a soul's own share of fate, so older registers that list Attraction as a road of its own were looking at the shallow end of Fate. An Attraction gate in an old table is a Fate gate at the same Stage and Grade.
 
-**Materia:** Endurance, structure, grounding. The slowest Typology to awaken and the most resistant to Catalytic Collapse once it does. *Catalyst:* choosing to remain when every instinct demands flight.
+**What is being routed.** Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
 
-**Vitalia:** Growth, generosity, rhythm. Discovers itself through accumulation rather than rupture. *Catalyst:* giving without counting, and finding the count was always in your favor.
+### One Path, Two or Three
 
-**Fluxia:** Empathy, reflection, adaptation. Most prone to Synergia and Echo Bonds. *Catalyst:* discovering that surrender and strength are the same posture.
+A soul has one life's time to spend. A Path on a card is **Mastered**, **Walked** (at least thirty percent of a person's practice) or **Studied**. Anyone may study any Path, which gives knowledge and small uses and opens no gates. The percentages on a card are the record of time spent.
 
-**Limina:** Endings, dissolution, the truth found in what is missing. Surfaces when denial costs more than acceptance. *Catalyst:* accepting that something is over, and meaning it.
+| | One Path | Two Paths | Three Paths |
+|---|---|---|---|
+| **Time to master** | The base time | About two and a half times that, for the pair | About six times that, beyond a mortal span |
+| **Gates** | Open at the Stage written | The Path behind opens a Stage late until it is mastered | Open two Stages late, and the high Grades stay shut |
+| **Force modifier** | In full | Three-quarters on each, for life | Half on each |
+| **Seat** (how the lattice sets at a Threshold) | Clean | Rough | Rough, with a high risk of a Dead Set |
 
-### Typology and the Stat System
+Time closes the gap in the gates and never the gap in the modifier. A two-Path fighter has real holes at times and breaks an opponent's read of them. Three Paths is rare and looked down on by nearly everyone.
 
-Typology does not add stat points. It changes the qualitative character of stat expression. Two characters with identical Ardency Flux at S-Grade produce radically different combat output if one is Caloria-dominant and the other Limina-dominant. The Caloria practitioner's Flux burns, ruptures and catalyzes. The Limina practitioner's Flux ends, quiets and unmakes. The Joule rating may be identical. The experience of being hit by either is not.
+### The Kinds of Wellspring
 
-Typology also determines Wellspring compatibility, which determines which Sub-Stats receive qualitative enhancement through harmonization. A Caloria soul harmonizing with Caloria Wellsprings receives stronger Ardency and Vitality enhancement than a Materia soul attempting the same. The Materia soul's Crystal does not reject Caloria Wellsprings, but the lattice works harder to integrate them, producing lower-quality resonance at higher Essence cost.
+Every one of the Sixty has a kind, and the kind names its home plane. **A kind is a qualifier and never a lock: any Path can use any Wellspring.**
 
-**The lens.** A Wellspring is a lens on magic already potent, and what it can focus is this bias. Harmonized well, it highlights a person's natural Typology and can even double its effect, starting small and reaching double only with years of mastery. No stat points change hands. The number stays where it was, and the Caloria soul on a Caloria Wellspring simply burns, ruptures and catalyzes twice as much like itself, once the years have been put in. Young fighters who claim the doubling are generally claiming it to a bookie.
+**Wild (33)** are at home in the Physical World: physical phenomena and alchemical transformations a practitioner shapes their inner Essence around. **Spirit (15)** are at home on the Soul Plane. They are purely spiritual, their ground looks ordinary, they usually do little or nothing to the physical world and they give a fighter no fire to throw, showing instead in what a person can bear, know, keep or let go. **Wellsprings of Fate (6)** are at home on the Plane of Fate and work on bonds, debts, names and odds; on their ground luck goes strange, oaths bite, and strangers keep meeting. **Medium (6)** are at home on all three. The sort itself is in [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|Part Thirteen]].
+
+### The Lens
+
+**A Wellspring is the lens a soul bases its tempering on**, a lens on magic already potent, and it shapes Essence differently on each Path. Take Pyreveil, a Wild Wellspring. On the Body Path the heat lives in the tissue and the blow burns on contact. On the Spirit Path it is thrown, and it burns what is false in a thing before what is solid. On the Fate Path it is a claim that burns its way through, and rivalries and oaths catch around the person who holds it. Absolution, a Spirit Wellspring, gives no fire on any of them: on the Body Path old injuries stop costing what they cost, at home it lets the old poison out of a soul, and on the Fate Path a held grudge can be let go, and the thing it was pulling on stops pulling.
+
+**At its home Path** a Wellspring harmonizes cleanly and can even double its effect, starting small and reaching double only with years of mastery. **Away from home** it works in that layer's terms, at lower-quality resonance and higher Essence cost, and half again is the most anyone has got out of it. No stat points change hands either way. The number stays where it was, and the Body Path fighter on Pyreveil simply burns twice as much like herself, once the years have been put in. Young fighters who claim the doubling are generally claiming it to a bookie.
+
+### Wellspring, Path and the Stat System
+
+Neither a Wellspring nor a Path adds stat points. They change the qualitative character of stat expression. Two characters with identical Ardency Flux at S-Grade produce radically different combat output if one has tempered on a Caloria Wellspring and the other on a Limina one. The Caloria practitioner's Flux burns, ruptures and catalyzes. The Limina practitioner's Flux ends, quiets and unmakes. The Joule rating may be identical. The experience of being hit by either is not. The Path changes it again, since the same Flux may arrive by the fist, by a line thrown across a yard, or by way of a claim on the thing struck.
+
+How a Wellspring's kind sits with the Path determines compatibility, which determines which Sub-Stats receive qualitative enhancement through harmonization. A Body Path fighter harmonizing with Pyreveil receives stronger Ardency and Vitality enhancement than a Spirit Path fighter attempting the same. The Spirit Path fighter's Crystal does not reject Pyreveil, but the lattice works harder to integrate it, producing lower-quality resonance at higher Essence cost.
+
+### The Eight Families
+
+A Family is a house of Wellsprings sorted by physics, and each one carries an idea its Wellsprings have in common. The idea belongs to the Family and says nothing about who may temper on it. Each also has a turn, the moment its idea comes clear to someone working inside it.
+
+**Caloria:** Conviction, rupture, transformation. The burn that clears ground for something new. *Its turn:* the moment anger becomes purpose rather than destruction.
+
+**Fulguria:** Perception, revelation, precision. Reading a room, a wound or a lie before it finishes forming. *Its turn:* seeing a truth no one else could see, and being right.
+
+**Vectoria:** Momentum, the breaking point, the long climb. Pressure that either shatters or refines. *Its turn:* the moment catastrophe becomes clarity.
+
+**Spatium:** Distance, absence, the space between. Always already somewhere else. *Its turn:* discovering that where you are is a choice, not a fact.
+
+**Materia:** Endurance, structure, grounding. The slowest Family to take hold in a soul and the most resistant to Catalytic Collapse once it does. *Its turn:* choosing to remain when every instinct demands flight.
+
+**Vitalia:** Growth, generosity, rhythm. It comes through accumulation rather than rupture. *Its turn:* giving without counting, and finding the count was always in your favor.
+
+**Fluxia:** Empathy, reflection, adaptation. The Family most prone to Synergia and Echo Bonds. *Its turn:* discovering that surrender and strength are the same posture.
+
+**Limina:** Endings, dissolution, the truth found in what is missing. It surfaces when denial costs more than acceptance. *Its turn:* accepting that something is over, and meaning it.
 
 ## Part Nineteen — Aether Flow and Essence Economy
 

@@ -26,7 +26,7 @@ The Accord's Register asks for both from any hall that wants a working entered i
 
 ## II. What the Strata Actually Measure
 
-**The Wellspring stratum.** Aether comes in sixty types, and each is first an idea: an alchemical principle and a spiritual transformation, a governing concept that changes how a soul uses what it pulls. A Wellspring is a lens on magic already potent, and it can highlight and in time even double the effect of the soul's natural Essence Typology (its lean toward one of the eight Families); [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|the Sixty]] have the full account. The stratal reading names which lens was in use and how long it has been lived with.
+**The Wellspring stratum.** Aether comes in sixty types, and each is first an idea: an alchemical principle and a spiritual transformation, a governing concept that changes how a soul uses what it pulls. A Wellspring is a lens on magic already potent, and it shapes Essence differently on each Path, in time even doubling its effect on its home Path and reaching half again at most away from it; [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|the Sixty]] have the full account. The stratal reading names which lens was in use and how long it has been lived with.
 
 Scholars write each of those ideas down as a Core Law, and each Core Law states a real regularity of the world. The glyph does not create the law. The glyph is a boundary condition imposed on a law that was already running, and the working is what the law does once the boundary has moved.
 

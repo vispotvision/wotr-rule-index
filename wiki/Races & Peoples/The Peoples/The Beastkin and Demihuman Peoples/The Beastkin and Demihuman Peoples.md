@@ -65,7 +65,7 @@ A note on the columns below, which are the Guild's measure of what a lineage add
 
 Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellspring territories. Born from the spiritual overlap of Elven soul-depth and Human glyph flexibility, **not fully either, genuinely both**, navigating the friction between two Crystal architectures that were not designed to occupy the same body.
 
-**Soul Path** · Spirit 55% / Body 30% / Attraction 15%. Dual affinity: spatial Elven resonance plus adaptive Human Essence. **High conductivity, internal friction as the structural cost.**
+**Soul Path** · Spirit 55% / Body 30% / Fate 15%. Dual affinity: spatial Elven resonance plus adaptive Human Essence. **High conductivity, internal friction as the structural cost.**
 
 | Stat | Mod | Note |
 |---|---|---|
@@ -90,7 +90,7 @@ Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellsprin
 
 Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility during the Great Concord Splintering. **Anyone who takes them for the weakest expression of either lineage tends to learn better at close quarters.** They are a third expression: Stone-Blood's kinetic inheritance running through a human body that has **the glyph-processing capacity the pure Orcish lineage lacks.**
 
-**Soul Path** · Body 60% / Spirit 30% / Attraction 10%. Stone-Blood provides the kinetic expression; Human inheritance provides the structural processing capacity **that allows it to be directed rather than just released.**
+**Soul Path** · Body 60% / Spirit 30% / Fate 10%. Stone-Blood provides the kinetic expression; Human inheritance provides the structural processing capacity **that allows it to be directed rather than just released.**
 
 | Stat | Mod | Note |
 |---|---|---|
@@ -112,7 +112,7 @@ Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility dur
 
 Produced through high-level magical grafting, alchemical transmutation, or Soul-Forge processes. **Most are crafted, and few are born.** Second-generation Chimerics can reproduce through volatile magical inheritance. Their lineage is a fractured mosaic (Fleshshapers, Ascendant Alchemists, failed divine imitations), and some trace partial lineage to primordial beasts whose Essence was harvested.
 
-**Soul Path** · Variable. No fixed distribution. Their souls function as **Variable Conductors**, capable of containing and channeling contradictory Essence types simultaneously. **This produces unstable or morphic glyph behavior as the structural cost.**
+**Soul Path** · Variable. No fixed distribution. Their souls function as **Variable Conductors**, capable of containing and channeling contradictory Wellspring qualities simultaneously. **This produces unstable or morphic glyph behavior as the structural cost.**
 
 No fixed stat modifier set: each has a unique distribution dependent on component lineages. Three universal markers only: **Adaptability** (resistance to environmental Essence stress), **Morphic Instability** (variable reliability of complex technique execution), and **Binding Scar** (the permanent inscription required to prevent physical and spiritual unraveling).
 > **Binding Scars are mandatory.** Removal or damage risks catastrophic Crystal and physical dissolution.

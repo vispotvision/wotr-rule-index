@@ -37,13 +37,12 @@
 **Level** · 276
 **Band** · III, Sovereign
 **Temperance Stage** · IX, Invocation
-**Path** · Spirit 50%, Fate 30%, Body 20%. Spirit opens his reading and his concealment; Fate opens Dominion Fate and the reach of his doom-sight; Body keeps the hand and the feet honest
+**Path** · Spirit 50%, Mastered; Fate 30%, Walked; Body 20%, Studied. Spirit opens his reading and his concealment; Fate opens Dominion Fate and the reach of his doom-sight; Body keeps the hand and the feet honest
 **Tier of Standing** · 6, Master
 **η** · 0.96. Far above the Master band and standing as recorded. Waste is heat and noise and light, and he has spent fifty years teaching his Crystal to make none
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, and narrowing: the Tengan shows him his own futures fewer every year
 **Aether Class** · V, Radiant
-**Essence Typology** · Limina
 
 ## III. Wellspring Harmonizations
 

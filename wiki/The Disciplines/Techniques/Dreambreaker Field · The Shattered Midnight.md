@@ -54,7 +54,7 @@ The Equal-Frames school of the Limina houses reads the field as proof that the w
 
 **Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade)
 
-**Path gate** · Spirit Path, with drift toward Attraction Path
+**Path gate** · Spirit Path, with drift toward Fate Path
 
 ### FOW line
 
@@ -66,7 +66,7 @@ The Equal-Frames school of the Limina houses reads the field as proof that the w
 
 **Grade required** · A-Grade
 
-**Path gate** · Spirit Path, drift toward Attraction Path
+**Path gate** · Spirit Path, drift toward Fate Path
 
 **Resonant Pair · None.**
 
@@ -104,7 +104,7 @@ Self-derived by its author, from the concept of a zone where dream and waking ph
 
 **Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70 (0.65 used). Grade A, allocation stopping at 400, 475 under strain only.
 
-**Paths** · On a Spirit Path the radius is capped at forty meters and the hold at A-Grade Sovereignty; Dominion Radius past A needs the Attraction Path, Dominion Sovereignty the Fate Path.
+**Paths** · On a Spirit Path the radius is capped at forty meters and the hold at A-Grade Sovereignty; Dominion Radius past A and Dominion Sovereignty both need the Fate Path.
 
 | Quantity | Working | Result |
 |---|---|---|

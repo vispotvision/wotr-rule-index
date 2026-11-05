@@ -25,7 +25,7 @@ Every category carries an alignment tag: **Body**, **Spirit**, **Attraction**, *
 - **Attraction-Aligned** leans on the **Plane of Fate** (the control of Attraction Force and Obsession Force and the workings of reality itself, where probabilities are moved and the fates of spirits and of things are held) and **Resonance**. Essence as reach, recognition, binding.
 - **Triadic** categories don't lean. They're what happens when all three Disciplines, anchored by **Equilibrium**, operate as one movement, the practice-form of **Formation**.
 - **Combination** tags mark categories operating at the seam between two Planes, neither fully arrived nor fully departed.
-A practitioner's primary Path (which of the four Paths a soul's growth leans along) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
+A practitioner's primary Path (which of the three Paths a soul's growth leans along: Body, Spirit or Fate, the last of which leans on the Attraction Layer and takes every Attraction-aligned category as its home ground) determines which categories feel *native* versus *learned*. A Body Path soul can practice Mnemata, but it will always feel like a second language.
 
 ---
 
@@ -71,7 +71,7 @@ Attraction-aligned because compatibility is fundamentally about *recognition*: t
 
 Emergent resonance from multiple souls, Wellsprings, or Domains interacting, birthing shared Temperance (the soul's refinement under pressure) fields and collective intent. **Echo Bond** scaled from two Crystals to many.
 
-Triadic because no single Discipline governs it. A Synergia field is several Soul Crystals briefly sharing one Essence Core, Shell, and Layer, which is why Aqua-Typology souls anchor these fields most easily.
+Triadic because no single Discipline governs it. A Synergia field is several Soul Crystals briefly sharing one Essence Core, Shell, and Layer, which is why souls harmonized to the water Wellsprings anchor these fields most easily.
 
 **Examples:** Affinity Fields · Aversion Nets · Severance Choirs · Magnum Opus Works
 
@@ -145,7 +145,7 @@ Sits between Body and Spirit because the trigger is always Spirit (emotional/Ess
 
 **Triadic Axis**
 
-The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance, the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
+The lived evolution along the three Paths: Body, Spirit and Fate. Viaforma is how a soul's Aether behavior reshapes over time through Temperance, the practice-name for the Three Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).
 
 Nobody casts it. It is the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognized by what a soul refuses to let end, it stays very hard, and the few high-Stage masters who reach real Fate Arts without the blood for them reach them late, along this road.
 
@@ -187,7 +187,7 @@ Tagged Attraction-**corrupted** deliberately. Every other category involves reco
 
 **Body ↔ Spirit**
 
-The engineering, forging, and refinement of Soul Crystals and related lattices, underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment, and the Coherence Ladder. The practiced discipline behind the **Crystalia Constraint**: harmonization with three relevant Wellsprings, certified understanding of the subject's Essence Typology (a Crystal's natural bias toward one of the eight Families), sufficient Temperance to survive exposure to another soul's Essence Core.
+The engineering, forging, and refinement of Soul Crystals and related lattices, underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment, and the Coherence Ladder. The practiced discipline behind the **Crystalia Constraint**: harmonization with three relevant Wellsprings, certified understanding of the subject's Path and Wellsprings, sufficient Temperance to survive exposure to another soul's Essence Core.
 
 Sits between Body and Spirit because its *object* is the Essence Core but its *method* is physical: forging and tempering done with hands and instruments on a lattice that happens to also be a soul.
 
@@ -201,7 +201,7 @@ The discipline's hard limit is that **nucleation cannot be manufactured at the b
 
 **Triadic System**
 
-The Sixty Wellsprings. A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, a type of Aether affecting the Soul Crystal in its own way, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural Essence Typology (a Crystal's own bias toward one phenomenon), starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
+The Sixty Wellsprings. A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, a type of Aether affecting the Soul Crystal in its own way, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
 
 The physics and the numbers are how scholars explain it. Cosmic dialects of transformation, sorted into the **eight Families** by Physics Domain: Caloria, Fulguria, Vectoria, Spatium, Materia, Vitalia, Fluxia, Limina. Temperance governs how much of each process a soul can bear; Wellsprings define what law and emotional grammar are available. A Wellspring also has sites where its Aether pools, and common speech calls such a site a Core; most lie in dungeons, and the rest are said to lie in vast territories.
 

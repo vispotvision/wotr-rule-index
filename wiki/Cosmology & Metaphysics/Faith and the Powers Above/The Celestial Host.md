@@ -95,14 +95,14 @@ flowchart TD
 
 | Choir | Function | Soul Path Bias | Domain Law |
 |---|---|---|---|
-| **Midreach** · Oath-Keepers | Oath & Contract Enforcement | Attraction 65% · Spirit 25% · Body 10% | Covenant Domains |
-| **Highspire** · Verdict-Bearers | Judgment & Martial Law Enforcement | Body 45% · Attraction 35% · Spirit 20% | Verdict Domains |
-| **Lowmere** · Sealkeepers | Sealing, Exile & Forbidden Law | Spirit 50% · Attraction 40% · Body 10% | Redaction Domains |
-| **Bellwrought** · Witness-Choir | Memory, Record & Archive | Spirit 70% · Attraction 25% · Body 5% | Archive Domains |
+| **Midreach** · Oath-Keepers | Oath & Contract Enforcement | Fate 65% · Spirit 25% · Body 10% | Covenant Domains |
+| **Highspire** · Verdict-Bearers | Judgment & Martial Law Enforcement | Body 45% · Fate 35% · Spirit 20% | Verdict Domains |
+| **Lowmere** · Sealkeepers | Sealing, Exile & Forbidden Law | Spirit 50% · Fate 40% · Body 10% | Redaction Domains |
+| **Bellwrought** · Witness-Choir | Memory, Record & Archive | Spirit 70% · Fate 25% · Body 5% | Archive Domains |
 
-> **A note on the Path figures.** Older Host registers give these as *Spirit, Mind and Body*, which is a Choir vocabulary and not the Accord's. **The four canonical Paths are Body, Spirit, Attraction and Fate.** The Host's *Spirit* is the Accord's **Attraction**: bond, recognition, reach, the architecture an oath is actually made of. The Host's *Mind* is the Accord's **Spirit**: perception, inscription, clarity, processing. The figures above are converted.
+> **A note on the Path figures.** Older Host registers give these as *Spirit, Mind and Body*, which is a Choir vocabulary and not the Accord's. **The three canonical Paths are Body, Spirit and Fate.** The Host's *Spirit* is the Accord's **Fate**, at its shallow end: bond, recognition, reach, the architecture an oath is actually made of. The Host's *Mind* is the Accord's **Spirit**: perception, inscription, clarity, processing. The figures above are converted.
 >
-> **No Choir carries Fate Path at any weight, and the omission is structural.** Fate's terminal Sub-Stats do not open below Stage XIII, and a Celestial's Crystal is externally anchored rather than grown. *A being living on power handed down from somebody else's Throne never develops the interior architecture Fate requires, which is the same fact that keeps most of the Host from individuating at all, stated in the vocabulary of the stat framework.*
+> **No Choir walks far down the Fate Path, and the omission is structural.** A Choir may bond for ever, and the figures above show how much of the Host lives in that shallow water, but Fate's terminal Sub-Stats do not open below Stage XIII, and a Celestial's Crystal is externally anchored rather than grown. *A being living on power handed down from somebody else's Throne never develops the interior architecture the far end requires, which is the same fact that keeps most of the Host from individuating at all, stated in the vocabulary of the stat framework.*
 
 ### 1. The Midreach Choir: Oath-Keepers
 
@@ -112,7 +112,7 @@ flowchart TD
 |---|---|
 | **Origin** | Sung at Midreach, Utopia's arbitration realm, in answer to unwitnessed Vows |
 | **Metaphysical Anchor** | Grace (Harmony) · Voice (Contract Law) · Fixatio (Anchoring) |
-| **Soul Path Bias** | Attraction Path 65% · Spirit Path 25% · Body Path 10% |
+| **Soul Path Bias** | Fate Path 65% · Spirit Path 25% · Body Path 10% |
 
 **Domain Law Tendencies** · Covenant Domains, for the rare Midreach individual who develops one. Within the territory every spoken commitment becomes visibly, physically binding: the air thickens fractionally each time an oath is sworn, and breaking one produces an audible snap, like a cord parting, that everyone present can hear whether or not they were party to the vow.
 
@@ -141,7 +141,7 @@ flowchart TD
 |---|---|
 | **Origin** | Sung at Highspire, Utopia's realm of unflinching proclamation |
 | **Metaphysical Anchor** | Judicium (Judgment) · Ignivale (Sanctioned Flame) · Absolution (Final Verdict) |
-| **Soul Path Bias** | Body Path 45% · Attraction Path 35% · Spirit Path 20% |
+| **Soul Path Bias** | Body Path 45% · Fate Path 35% · Spirit Path 20% |
 
 **Domain Law Tendencies** · Verdict Domains. Every act committed within the territory is subject to instant moral accounting: violence produces a visible ledger-mark in the air above the offender, legible to anyone literate in Parunic, that persists until the offense is answered.
 
@@ -166,7 +166,7 @@ flowchart TD
 |---|---|
 | **Origin** | Sung at Lowmere, Utopia's realm of buried statute and redacted history |
 | **Metaphysical Anchor** | Oblivara (Erasure) · Fixatio (Anchoring) · Nihiloth (Silence / Resonance Denial) |
-| **Soul Path Bias** | Spirit Path 50% · Attraction Path 40% · Body Path 10% |
+| **Soul Path Bias** | Spirit Path 50% · Fate Path 40% · Body Path 10% |
 
 **Domain Law Tendencies** · Redaction Domains. Named things forget their names within the territory: Aetheric anchors that depend on being called something specific by someone who remembers them weaken measurably the longer they remain inside a Lowmere Celestial's ward.
 
@@ -191,7 +191,7 @@ Individual Lowmere Celestials are, by design, almost never named in surviving re
 |---|---|
 | **Origin** | Sung directly at the Lawbell's own strike-point in Highspire, closer to raw tone than to any specific sub-realm |
 | **Metaphysical Anchor** | Anamnesis (Memory) · Fixatio (Anchoring) · Verdantia (Pattern / Growth) |
-| **Soul Path Bias** | Spirit Path 70% · Attraction Path 25% · Body Path 5% |
+| **Soul Path Bias** | Spirit Path 70% · Fate Path 25% · Body Path 5% |
 
 **Domain Law Tendencies** · Archive Domains, rare among the Bellwrought and correspondingly prized: recent events replay as visible after-image within the territory, available for review by anyone with the Choir's sanction and inaccessible to anyone without it.
 

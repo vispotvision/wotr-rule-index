@@ -90,7 +90,7 @@ Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 **Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.2; Grade EX (1,201 to 1,500) in Ardency Density; Fate Path, Dominion Sovereignty gate met.
 
-**Command cap** · Dominion Command needs the Attraction Path at Transcendence to pass SS; the working is declared on Fate, so its authority to compel thins above SS.
+**Command cap** · Dominion Command needs the Fate Path at Transcendence to pass SS, and the holder has that; the working is declared on the Sovereignty gate alone, so its authority to compel still thins above SS.
 
 | Quantity | Working | Result |
 |---|---|---|

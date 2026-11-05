@@ -12,11 +12,11 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **The idea** · Perception, revelation and precision. Its six Wellsprings are six ways a soul can be changed by knowing, from the truth that parts a lie from its maker to the vastness that no mortal head was built to hold.
 
-**The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Fulguria reads a room, a wound or a lie before it finishes forming. One of these six brings that reading forward: a little at first, and after years of mastery up to double, so that the same glance at the same Grade carries twice the knowing and a blow finds twice the precision. Another Typology can take them too, at a higher Essence cost and with a rougher result, and Fulguria's own will tell you how rough, at length and uninvited. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
+**The lens** · A soul tempered on one of these six reads a room, a wound or a lie before it finishes forming: a little at first, and after years of mastery at the lens's home Path up to double, so that the same glance at the same Grade carries twice the knowing and a blow finds twice the precision. Three are Wild, at home in the Physical World, two are Medium, at home on all three Paths, and one is Spirit, at home on the Soul Plane. Away from home half again is the most anyone has got out of one, at a higher Essence cost and with a rougher result, and the Family's practitioners will tell you how rough, at length and uninvited. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
 **Stat Affinity** · *Gnosis (Perception, Acuity, Analysis, Cognition) · Dexterity (Celerity, Feint) · Dominion (Sovereignty, Sense)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether. **Kind** names its home plane, and never locks it: Wild for the Physical World, Spirit for the Soul Plane, Fate for the Plane of Fate, Medium for all three. **On the Body**, **On the Spirit** and **On Fate** say what the lens does to Essence on each Path, through the Aether Shell, the Essence Core and the Attraction Layer in turn. After those, **Spirit** is the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -25,6 +25,12 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 **The idea** · Truth told apart. Discernment that knows what a thing is made of, and whether it is lying, from the mark it cannot help leaving.
 
 **Kind** · Wild
+
+**On the Body** · The hands learn what a thing is made of on contact, so the fist goes to the crack under the paint, the old break in the rib, the flawed link in the mail.
+
+**On the Spirit** · Thrown as a line of reading across a room, it parts a thing from what it claims to be, and a lie under that line comes away from its maker in front of everyone.
+
+**On Fate** · Sworn words feel weighed around this person. A false oath sits visibly wrong on the Attraction Layer, and a claim that cannot show its mark begins losing its hold on the people it was holding.
 
 **Spirit** · Temperance through discernment: order, measure and consequence.
 
@@ -48,6 +54,12 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Kind** · Medium
 
+**On the Body** · The eye resolves a fight down to the grain of a wrist, and what the limb sets out to do arrives with no slop in it, every ounce landing on the span of skin it was meant for.
+
+**On the Spirit** · What leaves the Core goes out in phase and arrives exactly as it was meant, and whatever stands in that light shows what it is without flattery.
+
+**On Fate** · A word or an oath sent under this lens arrives with its whole meaning intact, and the speaker's presence carries across a square so clearly that nobody there can later claim to have misheard.
+
 **Spirit** · Temperance through illumination.
 
 **Alchemy** · The clear light of the watched vessel: the color that tells the worker the truth about the charge. *(the trade's reading)* Iron conducts it.
@@ -69,6 +81,12 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 **The idea** · Freedom in the air. The world read as a set of open ways, so that moving becomes a matter of noticing which way is already open.
 
 **Kind** · Wild
+
+**On the Body** · The body reads the air as a set of open ways, and the next step, leap or slip is already there to be taken, so the fighter seems to fall upward through a fight without ever pushing.
+
+**On the Spirit** · A working thrown on this lens finds its own road around a ward the way spirit of wine finds the neck of a still, taking whatever way lies open, which is sometimes the way it was aimed.
+
+**On Fate** · Chances drift within reach, and the holder drifts toward them: the open door, the ship with one berth left. This is also why they so seldom end up where they promised to be.
 
 **Spirit** · Temperance through freedom.
 
@@ -92,6 +110,12 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Kind** · Wild
 
+**On the Body** · A load struck on one point is borne by the whole frame, so a blow that should crack a forearm spends itself through the back and legs, and the body bends and comes back.
+
+**On the Spirit** · Essence held in common across the Core carries a working through itself with hardly any loss, and with no part of the person arguing with the rest they are very hard to inscribe on or to talk round.
+
+**On Fate** · Everything is owned together: a sworn company on this lens shares a debt and shares a hurt, its oath bends a long way before it breaks, and when it fails it fails at the seams between people.
+
 **Spirit** · Temperance through integrity.
 
 **Alchemy** · The metal as a commonwealth: a body whose parts hold everything in common and so bends without breaking. *(the trade's reading)*
@@ -114,6 +138,12 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Kind** · Medium
 
+**On the Body** · The eye moves past the visible band and the Shell turns a look aside at its surface, so the fighter sees the warmth of a man behind a screen, and the man's eyes slide off the place where the fighter is standing.
+
+**On the Spirit** · The soul sees what hides and hides what it shows, and one working run in either direction will turn up a concealed Trait or bury its maker's from anyone reading.
+
+**On Fate** · A bond or a claim can be kept out of every reckoning and produced at the right moment, and secret loyalties show to the holder like a second color on the people in a room.
+
 **Spirit** · Temperance through perception.
 
 **Alchemy** · The hidden tincture: the color present in the charge that no eye reads until the right light finds it. *(the trade's reading)* Quartz amplifies it.
@@ -134,7 +164,13 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **The idea** · Vastness. The great scale read off the small vessel, a mortal soul stretched to take in things far too large for it.
 
-**Kind** · Spiritual
+**Kind** · Spirit
+
+**On the Body** · It lends the arm nothing. It gives a frame that can stand under things too big to look at, so the fighter keeps their feet and their breakfast when a far higher Stage's Pressure or the sky over a Well comes down on them.
+
+**On the Spirit** · The Core's aperture widens past what a mortal head was built to hold, and a Principle or an Archon's working becomes something the practitioner can read and, at some cost to their sanity, engage.
+
+**On Fate** · The holder feels very long ties, the bond laid down before they were born or the debt that runs to the far side of the world, and can put the slightest of tugs on something far too large to notice it.
 
 **Spirit** · Temperance through vastness.
 
@@ -144,7 +180,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Analogue** · Very-long-wavelength propagation and interferometry. Resolution from baseline, not aperture.
 
-**Mechanism** · Long wavelengths travel enormous distances, penetrate what shorter ones cannot, and carry the oldest signals in existence. Resolution at that scale comes from separating two small instruments by a continental baseline and reconciling their phase, and a larger instrument would not help. Abyntheus expands the practitioner's conceptual aperture by the same trick, letting a mortal Crystal engage phenomena whose scale should render them illegible.
+**Mechanism** · Long wavelengths travel enormous distances, penetrate what shorter ones cannot, and carry the oldest signals in existence. Resolution at that scale comes from separating two small instruments by a continental baseline and reconciling their phase, and a larger instrument would not help. Abyntheus expands the conceptual aperture of the Essence Core by the same trick, letting a mortal Crystal engage phenomena whose scale should render them illegible. All of it happens in the soul. It throws nothing and moves nothing, and the reports of far-off bells heard and floors felt to tilt around an old Abyntheus master are argued over at every Measurewright's dinner.
 
 **Stat Effect** · Strengthens Dominion Sovereignty, Sense, Gnosis Cognition. The conceptual ceiling expands to engage Archon-tier and Principle-level phenomena.
 

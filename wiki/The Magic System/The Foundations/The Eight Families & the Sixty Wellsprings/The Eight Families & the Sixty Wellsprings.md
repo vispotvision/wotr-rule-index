@@ -33,28 +33,37 @@ You can see a Wellspring as a source of power you pull from, and on the street e
 
 That is why the Sixty matter more than almost anything else on a sheet. A Stage says how far up a soul has climbed. A Wellspring says what the climb is doing to it, and two fighters of one Stage and one Grade can stand on one bridge and be two entirely different weather systems. The Wellspring also sets the bill, because a law taken up as your way of living goes on charging you in its own coin.
 
-### The lens on your Essence Typology
+### The lens by Path
 
-Every soul leans before anyone has trained it. **Essence Typology** is a Soul Crystal's natural bias toward one of the eight Families, usually with a second undertone behind it, and it is a disposition rather than an element controlled: it colors everything the person does with power. Give a Caloria soul and a Limina soul the same Flux at the same Grade and the Caloria blow burns and ruptures, while the Limina blow ends and quiets things. [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|Part Eighteen of the Fracture]] gives all eight.
+**A soul meets the world through three layers, and a Path is the one it has learned to lean on.** The Body Path leans on the Aether Shell and the Physical World, the Spirit Path on the Essence Core and the Soul Plane, and the Fate Path on the Attraction Layer and the Plane of Fate. [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] has the whole account. A Wellspring is the lens a soul bases its tempering on, and **it shapes Essence differently on each Path**, in the terms of whichever layer is doing the work. One Aether in three people makes three different fighters, and every entry in this register says how.
 
-**The lens brings that lean forward.** It can highlight a person's natural Typology and it can even double the effect of it, so that more of what the soul already is arrives in every blow and every working. The Grade on the sheet does not move and no stat points appear, because a Typology never added any. What grows is how much of the burn, or the ending, or the stubborn weight is in the thing that hits you.
+| Wellspring | On the Body | On the Spirit | On Fate |
+|---|---|---|---|
+| **Pyreveil** (Wild) | The heat lives in the tissue, blows burn on contact and the body stops minding fire | Thrown fire that burns what is false in a thing before what is solid | A claim that burns its way through: oaths and rivalries consume what stands in them, and ground catches around the person |
+| **Absolution** (Spirit) | Old injuries stop costing what they cost. No heat and no glow, only a body that has stopped carrying its history | Lets the old poison out of a soul, one's own or a willing other's | A debt or grudge held on the Attraction Layer can be let go, and the thing it was pulling on stops pulling |
+| **Benediction** (Fate) | A bond freely given lends the one blessed a real measure of steadiness, felt in the hands and the footing | A working carries the weight of the bond behind it | A bond the world weighs as a real thing, and an oath under it bears load |
 
-**It starts small, and only years reach double.** Wenna Corry of Tallow Row, a lamp-lighter's girl with a Caloria soul, paid a year's wages for a bottle of Ignivale at sixteen, and for her first year the lens gave her about what a good pair of bellows gives a smith: her wicks caught a shade sooner and a shade hotter than her arm alone could have managed. She lived with it for twenty-four years. By forty she could break a man's jaw on the Tallow Row steps and his beard would be alight before his teeth landed, and the bookies stopped asking whether she had been drinking and started asking what she charged. Her soul has said the same thing throughout, in the window nobody else can see (the soul's report of its own numbers to its owner, in square brackets on the page), and this is how the two ends of it read:
+**A blow's character comes from Wellspring and Path.** Give two hitters the same Flux at the same Grade, one under Pyreveil and one under Nihiloth, and the first blow burns and ruptures while the second ends and quiets things. Hand that Pyreveil to a thrower on the Spirit Path and it is a third blow again, arriving from sixty paces. The older books put all of this down to an inborn bias in the soul toward one Family or another. The trade has given that up, having never once found the bias in anyone who had not already spent ten years under the Wellspring it was supposed to explain.
+
+**Every Wellspring has a home, and a home is never a lock.** A Wellspring's kind is a qualifier naming the plane it belongs to, so the home Path of a Wild Wellspring is the Body, of a Spirit Wellspring the Spirit, and of a Wellspring of Fate the Fate Path, while a Medium Wellspring is at home on all three (the [[#The Four Encounter Types|four kinds]] are set out further down). Any Path can use any Wellspring. **At home it harmonizes cleanly and can reach double the effect with years of mastery. Away from home it works in that layer's terms, at lower-quality resonance and higher Essence cost, and reaches half again at most.** Such a lens still changes how that soul uses Aether, and plenty of famous fighters are famous for exactly that clash. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear. The benches keep a standing bet on the first soul to pass half again away from home, and it has never paid out.
+
+**The lens brings forward what is already there.** More of the idea arrives in every blow and every working. The Grade on the sheet does not move and no stat points appear, because a lens never added any. What grows is how much of the burn, or the ending, or the stubborn weight is in the thing that hits you.
+
+**It starts small, and only years reach double.** Wenna Corry of Tallow Row, a lamp-lighter's girl who went down the Body Path with her fists, paid a year's wages for a bottle of Ignivale at sixteen, and for her first year the lens gave her about what a good pair of bellows gives a smith: her wicks caught a shade sooner and a shade hotter than her arm alone could have managed. She lived with it for twenty-four years. By forty she could break a man's jaw on the Tallow Row steps and his beard would be alight before his teeth landed, and the bookies stopped asking whether she had been drinking and started asking what she charged. Her cousin Perrin took the same Ignivale down the Spirit Path, throwing sparks across the Row for a living, and has been stuck at half again since before she caught up with him, paying more for each spark than she pays for a jaw. Each soul has said so throughout, in the window nobody else can see (the soul's report of its own numbers to its owner, in square brackets on the page), and this is how it reads:
 
 ```
-[Ignivale: harmonized. Lens on Caloria: +8%]
-[Ignivale: harmonized, 24 years. Lens on Caloria: +100%]
+[Ignivale: harmonized. Lens on the Body, at home: +8%]
+[Ignivale: harmonized, 24 years. Lens on the Body, at home: +100%]
+[Ignivale: harmonized, 31 years. Lens on the Spirit, away: +50%]
 ```
 
-Those figures are a sample from one woman's sheet and no law, and every soul's road runs at its own speed. The rule under them is plain: **a lens grows the way a Trait grows, by being lived with.** A Draft can hand you the lens. The years are yours to live.
-
-**A lens from your own Family works straightest.** A Caloria soul under a Caloria Wellspring takes stronger enhancement than a Materia soul attempting the same. The Materia soul's Crystal does not reject the Wellspring, but its lattice works harder to integrate it, for lower-quality resonance at higher Essence cost. Such a lens still changes how that soul uses Aether, and plenty of famous fighters are famous for exactly that clash. Whether an off-Family lens can ever reach the double is an open fight, and the benches keep the bets.
+Those figures are a sample from two sheets, every soul's road runs at its own speed, and only the two ceilings are law. The rule under them is plain: **a lens grows the way a Trait grows, by being lived with.** A Draft can hand you the lens. The years are yours to live.
 
 **Each lens grows on its own.** A soul with three Wellsprings has three lenses at three stages of mastery, all under the Capacity rules further down this page, and compounding within a Family is described there.
 
 **You can see it.** A Family sets the base color of a person's aura, a Wellspring adds its texture and its own sound and smell, and an Aether Class or a big Trait adds a shape. A trained eye at fifty paces can tell you the Family, make a good guess at the Wellspring, and tell you from how steadily the color sits whether the lens is two years old or twenty.
 
-*Measurewrights at Sealhall have spent a long time arguing about what exactly gets doubled, since the Grade holds still and no fork rings a disposition. Their working answer is to ask the person who got hit.*
+*Measurewrights at Sealhall have spent a long time arguing about what exactly gets doubled, since the Grade holds still and no fork rings a lens. Their working answer is to ask the person who got hit.*
 
 ### How you come by one
 
@@ -70,9 +79,9 @@ There are four roads, and most people who have more than one Wellspring have wal
 
 ### One Aether, three readings
 
-Every one of the sixty can be read three ways, and each reading is a whole profession that thinks the other two are amateurs.
+Every one of the sixty can be read three ways, and each reading is a whole profession that thinks the other two are amateurs. These are readings and not Paths: a confessor, a bench hand and a Measurewright can all stand around one Body Path hitter and describe three different things, none of which is her Path.
 
-**As a spiritual transformation.** The confessor's reading, and the oldest: what taking this Aether into the soul does to the person who survives it. Temperance is the climb of a soul from Stage to Stage, and every Wellspring is a road on that climb, so the Fracture register names Pyreveil *Temperance through burning* and Absolution *Temperance through forgiveness*, and it gives all sixty such a name. Where the confessors read a road otherwise, the entry sets their reading beside the name, marked as such and argued over at every deathbed. To pass through a Wellspring is to be unmade just enough to keep going. Every Wellspring touches all three layers of the Crystal, rarely evenly. The **Essence Core** decides how the soul burns, heals or empties under that law, the **Aether Shell** how the law moves through and around the body, and the **Attraction Layer** how reality, memory and people bind to the soul once the law has taken hold.
+**As a spiritual transformation.** The confessor's reading, and the oldest: what taking this Aether into the soul does to the person who survives it. Temperance is the climb of a soul from Stage to Stage, and every Wellspring is a road on that climb, so the Fracture register names Pyreveil *Temperance through burning* and Absolution *Temperance through forgiveness*, and it gives all sixty such a name. Where the confessors read a road otherwise, the entry sets their reading beside the name, marked as such and argued over at every deathbed. To pass through a Wellspring is to be unmade just enough to keep going. Every Wellspring touches all three layers of the Crystal, rarely evenly, whichever Path the soul is on. The **Essence Core** decides how the soul burns, heals or empties under that law, the **Aether Shell** how the law moves through and around the body, and the **Attraction Layer** how reality, memory and people bind to the soul once the law has taken hold.
 
 **As an alchemical principle.** The bench's reading: what that same idea does to matter in a vessel. Each of the sixty is a living process, a law of transformation, and the discipline of Alchemetrica (the working of Wellspring law upon matter) is built on that fact. The reagents are the nouns and the Wellspring is the verb. Six of the sixty are at once Wellspring, cosmic principle and named bench operation, and four more lend their law to a stage of the Great Work (the seven-stage discipline an alchemist lays on the matter and on himself at once). The rest have no operation filed under their name at the Bench, though every working alchemist has an opinion about what each of them is the principle of, and those opinions appear in the entries, marked as the trade's reading and open to a fight.
 
@@ -122,8 +131,10 @@ In the scholars' terms a Wellspring is **a type of Aether that carries a fixed l
 
 The old registers call each type a **current**, and the trade still does, because Aether moves over ground the way wind moves over a field. Keep the word and lose any picture of a pipe. Nobody has ever laid a Wellspring on or shut one off at a valve, and the Measurewright who tells you otherwise is about to send you a bill.
 
-**The road through the soul** is the same for all sixty. Aether is pulled in from the world, refined in the Soul Crystal into Essence (a soul's own share of Aether, the thing a fighter holds and spends), and driven out through the Aether Shell (the Crystal's outer layer, which turns inner power into outward force). What differs is the type. Where you stand therefore matters twice: rich ground fills you faster and thin ground starves you, and the ground decides which of the sixty is on offer. On the street this is plain sense. A brawler will say she has the ember in her, or the stone, or that she took the water at Saint Orrin's pond, and she will say he only fights like that on hot ground. On a Guild roll all of that is harmonization, which comes next.
+**The road through the soul** is the same for all sixty. Aether is pulled in from the world, refined in the Soul Crystal into Essence (Aether stamped with identity, the soul's own substance, the thing a fighter holds and spends), and driven out through the Aether Shell (the Crystal's outer layer, which turns inner power into outward force). What differs is the type. Where you stand therefore matters twice: rich ground fills you faster and thin ground starves you, and the ground decides which of the sixty is on offer. On the street this is plain sense. A brawler will say she has the ember in her, or the stone, or that she took the water at Saint Orrin's pond, and she will say he only fights like that on hot ground. On a Guild roll all of that is harmonization, which comes next.
 > **Harmonization is phase-locking.** The Aether Shell adopts the characteristic behavior of one type of Aether so that Essence passing outward through the Shell is shaped by that law before it reaches the world. Nothing is added to the practitioner. The conduit is retuned, and everything that passes through it afterward carries the retuning. This is the lens, in the scholars' words.
+
+The Shell is only where the instruments catch it, since all Essence leaves that way. On the Spirit Path and the Fate Path the law seats hardest in the Essence Core or the Attraction Layer, which is the lens working in that layer's terms.
 
 This is why harmonization changes what a number means without changing the number. A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude. It becomes a Fortitude that behaves like a load-bearing mass rather than like tissue, with the failure curve of stone rather than the failure curve of flesh. **The magnitude stays where it was and the constitutive law changes.**
 
@@ -180,18 +191,19 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 
 ---
 
-## The Three Encounter Types
+## The Four Encounter Types
 
-*The physics-first sorting tells the practitioner which Family governs their output. The encounter-type classification tells the surveyor which direction the danger arrives from.*
+*The physics-first sorting tells the practitioner which Family governs their output. The encounter-type classification tells the surveyor which direction the danger arrives from. It is also the kind on every entry below, which names the plane a Wellspring is at home on and locks nobody out of it.*
 > **The classification rests on a single question: where does the effect originate, and where does it arrive?**
 
-**Most of the Sixty are physical, and the rest are not physical at all.** A Wild Wellspring is a thing in the world: fire in the ground, stone that moves, lightning, a solution crystallizing out of itself on the bench. You can point at it, and a practitioner who takes it up shapes their inner Essence around it. A spiritual Wellspring is a change in a soul: forgiveness, forgetting, a failure owned. There is nothing to point at, and it gives its bearer no fire to throw. It usually does little or nothing to the physical world, though an edge case will always find a Measurewright: a Thaloré grief can be felt across a room, and the argument over whether that counts is older than the Guild. Every one of the sixty changes the soul that takes it up; the difference is whether the world shows it too. A spiritual entry below still carries an analogue, which is the scholars' picture of what is happening in the soul, and no one has yet watched a forgiveness anneal.
+**More than half of the Sixty are physical, and most of the rest are not physical at all.** A Wild Wellspring is a thing in the world: fire in the ground, stone that moves, lightning, a solution crystallizing out of itself on the bench. You can point at it, and a practitioner who takes it up shapes their inner Essence around it. A Spirit Wellspring is a change in a soul: forgiveness, forgetting, a failure owned. There is nothing to point at, and it gives its bearer no fire to throw. It usually does little or nothing to the physical world, though an edge case will always find a Measurewright: a Thaloré grief can be felt across a room, and the argument over whether that counts is older than the Guild. A Wellspring of Fate is a change in what holds: a bond, a debt, a name, the odds. There is nothing to point at there either, only what keeps happening afterward. A Medium Wellspring is at home on all three planes and crosses the Veil between them as it works. Every one of the sixty changes the soul that takes it up; the difference is whether the world shows it too, and how soon. A spiritual entry below still carries an analogue, which is the scholars' picture of what is happening in the soul, and no one has yet watched a forgiveness anneal.
 
 | Type | Mechanism | Which Wellsprings |
 |---|---|---|
-| **Wild** *Physical Plane dominant* | The Aether appears as **a physical phenomenon or an alchemical transformation.** The stone was there. The water was there. The metal was there. **The Aether reshapes it, moves it, compresses it, grows it, burns it**, and whoever harmonizes with it shapes their Essence around the thing itself. *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | **Thirty-seven.** All of Materia. Caloria but for Catharsis and Penanceflare. Vectoria but for Absolution and Penance. Judicium, Cymorath, Orrenthal; Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel; Transmutatio, Transference; Anima Spirare, Verdantia, Rebirthine, Mortalis |
-| **Spirit** *Soul Plane dominant* | The Aether works **on the soul and nowhere else. It has no fire to give.** The Essence Core is the active layer. A discharge on this ground is the person's own Essence, driven out by a soul that is being changed. *The landscape looks entirely normal. The surveyor's environment is a reliable instrument. The surveyor is not* | **Nineteen.** Catharsis, Penanceflare; Somnalis, Thaloré, Oblation; Abyntheus; Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Oblivara, Nyxial; Eclipseron; Absolution, Penance; Benediction, Redemption, Contrition |
-| **Medium** *Veil-crossing* | The Aether operates **in both directions simultaneously**, in the liminal threshold between planes. **Water and Light are the primary Medium elements.** *A Phreatis practitioner at a riverbank is simultaneously reshaping the physical water and being reshaped by what the water remembers. The observer is altered by the observation. Neither body nor Crystal provides a stable reference point* | **Four.** Phreatis, Aurevane, Luminalis, Anamnesis |
+| **Wild** *Physical Plane dominant* | The Aether appears as **a physical phenomenon or an alchemical transformation.** The stone was there. The water was there. The metal was there. **The Aether reshapes it, moves it, compresses it, grows it, burns it**, and whoever harmonizes with it shapes their Essence around the thing itself. *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | **Thirty-three.** Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon; Judicium, Cymorath, Orrenthal; Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel; Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica; Transmutatio; Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython; Anima Spirare, Verdantia, Rebirthine |
+| **Spirit** *Soul Plane dominant* | The Aether works **on the soul and nowhere else. It has no fire to give.** The Essence Core is the active layer. A discharge on this ground is the person's own Essence, driven out by a soul that is being changed. *The landscape looks entirely normal. The surveyor's environment is a reliable instrument. The surveyor is not* | **Fifteen.** Catharsis, Penanceflare; Thaloré; Abyntheus; Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial; Eclipseron; Absolution, Penance; Redemption, Contrition |
+| **Fate** *Plane of Fate dominant* | The Aether works **on what binds: bonds, debts, names and odds.** The Attraction Layer is the active layer, and there is no burn in the hands and nothing on the ground to see. *The landscape looks normal and the instruments read normal. But luck goes strange, oaths bite, strangers keep meeting, and the surveyor's plans keep working out in ways the surveyor did not plan. Neither body nor environment is a reliable instrument, and the only one that reads this ground is a written log kept over days* | **Six.** Somnalis, Oblation; Benediction; Oblivara; Transference; Tarturon |
+| **Medium** *At home on all three, Veil-crossing* | The Aether is at home on all three planes and still crosses the Veil, operating **in every direction simultaneously**, in the liminal threshold between planes. **Water and Light are the primary Medium elements.** *A Phreatis practitioner at a riverbank is simultaneously reshaping the physical water and being reshaped by what the water remembers. The observer is altered by the observation. Neither body nor Crystal provides a stable reference point* | **Six.** Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis |
 
 ### The nested depth model
 
@@ -200,13 +212,15 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 >
 > *Fate is a precursor. A tide that falls. What is decided at Fate-depth cascades through the Soul Plane and manifests on the Physical Plane as event.*
 >
-> This is why the three types produce different threat profiles.
+> This is why the four types produce different threat profiles.
 >
 > **Wild** operates at the surface. The danger is physical and legible.
 >
 > **Spirit** operates from the middle layer, **and the cascade runs upward**: the Crystal fires, the Shell expresses, the body manifests what the Soul Plane authored. *What reaches the surveyor comes from no outside blow. They are being authored from inside.*
 >
-> **Medium** operates at the Veil itself, **the threshold where one plane's law softens into another's.** Both layers move at once, **and the movement is reciprocal.**
+> **Fate** operates from the deepest layer, **and the cascade has to climb through both of the others.** *By the time the surveyor can see what was decided, it has already happened to them, and it looks like luck.*
+>
+> **Medium** operates at the Veil itself, **the threshold where one plane's law softens into another's.** Every layer moves at once, **and the movement is reciprocal.**
 
 ---
 
@@ -217,7 +231,7 @@ Aether of one type captured, bound, or naturally accumulated inside a vessel pro
 | Density | Condition |
 |---|---|
 | **Ambient Saturation** | The most common condition across the mapped world, and no kin to Aetheric Saturation, the lethal flood. **A Sage can tune to it. An ordinary person feels vaguely uneasy or peaceful.** The landscape carries subtle signs |
-| **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary physiological or psychological change; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most concentrations on the New World's arc were found during the Voyager Era; the elven old-ground's have been pulled on since the first Eon* |
+| **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary physiological or psychological change; Fate sites produce runs of coincidence that nobody believes before the third; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most concentrations on the New World's arc were found during the Voyager Era; the elven old-ground's have been pulled on since the first Eon* |
 | **Veil-Thin Nexus** | **The Veil between planes thins.** Spiritual entities become visible. Causal threads are perceptible. **Time feels wrong.** Bifold Perception onset without training, involuntary Soul Drift, Echo Beast manifestation |
 | **Wellspring Core** | **The Aether's origin point. The aquifer's source.** Extraordinarily rare, and mostly unmapped. Nearly all of them lie at the heart of a dungeon, and the richest untouched ones are on the New World's arc. **The physical and metaphysical environments are indistinguishable, and the law the Wellspring carries is the only law operating.** *Walking into a Core unprepared is Wellspring Baptism at maximum intensity with no exit plan* |
 
@@ -257,7 +271,10 @@ One EU is one megajoule, so a density in EU per cubic meter is an energy density
 
 | **The idea** | The concept the Wellspring lays over a soul's Aether, in plain words. Start here. |
 |---|---|
-| **Kind** | Wild, Spiritual or Medium: a thing in the world, a change in the soul, or both at once across the Veil. |
+| **Kind** | Wild, Spirit, Fate or Medium: the plane the Wellspring is at home on, which is the Physical World, the Soul Plane, the Plane of Fate, or all three across the Veil. A qualifier and never a lock. |
+| **On the Body** | What the lens does on the Body Path, in the terms of the Aether Shell: blows, tissue, what the flesh can bear. |
+| **On the Spirit** | What the lens does on the Spirit Path, in the terms of the Essence Core: projection, inscription, what a thing is. The line called Spirit below is another matter, the confessor's reading of the Wellspring whatever the Path. |
+| **On Fate** | What the lens does on the Fate Path, in the terms of the Attraction Layer: bonds, oaths, claims and odds. |
 | **Spirit** | The transformation it works on the soul, the road on the Temperance climb: the Fracture's "Temperance through" name, with the confessors' reading beside it where they read it otherwise. |
 | **Alchemy** | The principle it stands for at the bench: its operation or stage of the Work where it has one, otherwise the trade's reading of what its law does to matter in a vessel. |
 | **Analogue** | How scholars explain it, part one. The specific real phenomenon the Wellspring's behavior matches. Named precisely, not gestured at. This is the Mechanism field's source when the Wellspring appears in a technique's first display. |
@@ -296,13 +313,13 @@ Because each Family answers to a real physical domain, each Family answers to re
 | **Caloria** | **Wild** · **Spirit** (Catharsis, Penanceflare) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
 | **Fulguria** | **Wild** · **Medium** (Aurevane, Luminalis) · **Spirit** (Abyntheus) | Dry air, conductive substrate, clear line of sight | Iron-caged interiors, heavy ferrous shielding, dense fog |
 | **Vectoria** | **Wild** · **Spirit** (Absolution, Penance) | Structural mass, elevation, brittle or pre-stressed material | Loose sediment, free fall, uniform soft ground |
-| **Spatium** | **Wild** · **Spirit** (Eclipseron) | Veil-thin zones, established Realmgates (standing doorways between Realms), surveyed ground | Warp scarring, contested Domains (spaces where one practitioner's law outranks local physics), unmapped terrain |
-| **Materia** | **Wild** | Mineral-rich rock, worked stone, deep foundation | Open water, high altitude, moving platforms |
-| **Vitalia** | **Wild** · **Medium** (Phreatis) · **Spirit** (Benediction, Redemption, Contrition) | Living biomass, temperate conditions, proximity to blood | Sterile ground, extreme cold, Essence-depleted soil |
-| **Fluxia** | **Spirit** (Somnalis, Thaloré, Oblation) · **Medium** (Phreatis) | Standing or moving water, humidity, pressure differential | Arid terrain, vacuum, thermally locked air |
-| **Limina** | **Spirit** · **Wild** (Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel) · **Medium** (Anamnesis) | Darkness, silence, Aether-thin ground, ruins | Saturated Aether, crowd density, active Domains |
+| **Spatium** | **Wild** (Transmutatio) · **Spirit** (Eclipseron) · **Fate** (Transference) | Veil-thin zones, established Realmgates (standing doorways between Realms), surveyed ground | Warp scarring, contested Domains (spaces where one practitioner's law outranks local physics), unmapped terrain |
+| **Materia** | **Wild** · **Medium** (Fixatio) · **Fate** (Tarturon) | Mineral-rich rock, worked stone, deep foundation | Open water, high altitude, moving platforms |
+| **Vitalia** | **Wild** · **Medium** (Phreatis, Mortalis) · **Spirit** (Redemption, Contrition) · **Fate** (Benediction) | Living biomass, temperate conditions, proximity to blood | Sterile ground, extreme cold, Essence-depleted soil |
+| **Fluxia** | **Fate** (Somnalis, Oblation) · **Spirit** (Thaloré) · **Medium** (Phreatis) | Standing or moving water, humidity, pressure differential | Arid terrain, vacuum, thermally locked air |
+| **Limina** | **Spirit** · **Wild** (Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel) · **Medium** (Anamnesis) · **Fate** (Oblivara) | Darkness, silence, Aether-thin ground, ruins | Saturated Aether, crowd density, active Domains |
 
-These conditions bind what acts on the world, the Wild and the Medium. A spiritual Wellspring has no phenomenon for the ground to favor or smother, and it answers to where you stand only through Aetheric Density.
+These conditions bind what acts on the world, the Wild and the Medium. A Spirit Wellspring or a Wellspring of Fate has no phenomenon for the ground to favor or smother, and it answers to where you stand only through Aetheric Density.
 
 > None of this is a prohibition. A Caloria practitioner in saturated cold still works. They simply pay a larger fraction of their reserve to overcome the gradient they are fighting rather than riding, and their efficiency figure falls accordingly. **Terrain is a modifier on η (efficiency: the share of spent power that arrives as effect), and anyone who calls it flavor has not yet paid for it.**
 
@@ -341,7 +358,7 @@ These conditions bind what acts on the world, the Wild and the Medium. A spiritu
 
 ## The Register
 
-Each Family carries its own entry, with every Wellspring given its idea, Spirit and Alchemy first, and then its Analogue, Mechanism, Stat Effect, Glyph and Failure as the scholars explain them.
+Each Family carries its own entry, with every Wellspring given its idea, its Kind and what it does on each Path, its Spirit and Alchemy, and then its Analogue, Mechanism, Stat Effect, Glyph and Failure as the scholars explain them.
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism]]
 - [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics]]

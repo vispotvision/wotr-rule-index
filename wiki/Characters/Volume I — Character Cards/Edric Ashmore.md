@@ -3,7 +3,7 @@
 # Edric Ashmore
 
 **Edric Ashmore** · Lord of the Ashmore Marches · House Ashmore, a Banner House of the north · as of the morning of the seven lines in the Hall of Verdicts, sworn with his hand on the black stone of the dais
-**Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body 50% / Attraction 40% / Spirit 10% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
+**Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body 50% / Fate 40% / Spirit 10% · Expert · η 0.60 · Aether Class unclassed until Glory · Crystal Harmonic, Refined
 **Combat grammar** · Blade, from the saddle; a lancer's lord
 **Aura and sound** · brown and russet, the color of autumn bracken against snow · sound: hoofbeats a long way off, coming closer
 **Traits** · THE UNTOUCHED WINE (Primary) · tell: he looks at an offer for exactly as long as it takes a cup to go cold · counter: make him decide before the wine is poured / THE JUNCTION STONE (Secondary) · tell: his hand flat on stone when he swears · counter: put two oaths on the same stone

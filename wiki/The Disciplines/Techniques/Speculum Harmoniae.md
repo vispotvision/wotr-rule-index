@@ -62,7 +62,7 @@ Both are Correspondence: a faithful likeness is treated as presence. The Speculu
 
 **Practitioner** · Speculum: Splintering, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Grade B (unstable above 320). Nexus: Transcendence, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, Grade S.
 
-**Paths** · Attunement above D, allied gain above A and Radius above A need the Attraction Path, so without it the Nexus holds at A's 200 m; Concordia needs Spirit and Attraction; Nexus Sovereignty above A needs the Fate Path.
+**Paths** · Attunement above D, allied gain above A and Radius above A need the Fate Path, so without it the Nexus holds at A's 200 m; Concordia needs Spirit and Fate; Nexus Sovereignty above A needs the Fate Path too.
 
 **Anchors** · The Speculum is a circle traced in the air around the target, required below Refraction; the Nexus is spoken, gestured and carried through a staff, three anchors it does not need, each takeable.
 
@@ -93,7 +93,7 @@ Both are Correspondence: a faithful likeness is treated as presence. The Speculu
 
 **Grade required** · B-Grade for the Speculum, unstable above 320; S-Grade for the Nexus.
 
-**Path gate** · Spirit Path for the Speculum; Fate Path for the Nexus, whose Concordia needs Spirit and Attraction as well.
+**Path gate** · Spirit Path for the Speculum; Fate Path for the Nexus, whose Concordia needs Spirit as well.
 
 ### FOW line
 
@@ -103,7 +103,7 @@ Both are Correspondence: a faithful likeness is treated as presence. The Speculu
 
 **Grade required** · B for the Speculum; S for the Nexus.
 
-**Path gate** · Spirit for the Speculum; Fate for the Nexus, which holds at 200 meters without the Attraction Path.
+**Path gate** · Spirit for the Speculum; Fate for the Nexus, which holds at 200 meters without it.
 
 **Resonant Pair** · None
 

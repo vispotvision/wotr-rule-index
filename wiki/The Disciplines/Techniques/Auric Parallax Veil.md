@@ -47,7 +47,7 @@ The argument is Correspondence against Consent as a question of evidence: whethe
 - **Skill:** Speaking, gestured, with an internal chain and no anchor
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 
 ### FOW line
 
@@ -56,7 +56,7 @@ The argument is Correspondence against Consent as a question of evidence: whethe
 - **Secondary Primary:** Harmonics, Sub-Stat Attunement (holding three primary and seven secondary Wellsprings in one working without resonance conflict)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 - **Resonant Pair:** None attested in the source card.
 
 ### Origin
@@ -75,7 +75,7 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 
 **Body** · The practitioner stands at the far end of a plane they must keep in sight; distance and numbers do not care which branch they prefer.
 
-**Look up** · The Counterplay register for Lock and Knot; the Materia, Vectoria and Limina Failures; Null-Law fields and the Silence Realm register; Eclipseron's reading of absences; SSS in the Grade bands; the Emanation Stage table and Attraction Path gates.
+**Look up** · The Counterplay register for Lock and Knot; the Materia, Vectoria and Limina Failures; Null-Law fields and the Silence Realm register; Eclipseron's reading of absences; SSS in the Grade bands; the Emanation Stage table and Fate Path gates.
 
 ## Numbers
 
@@ -92,7 +92,7 @@ Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone w
 
 **Practitioner** · Emanation, Grandmaster (Band IV, Levels 301 to 400), SSS required (726 to 950), reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90. Gnosis governs: Forecast, Analysis, Cognition, and Harmonics Attunement.
 
-**Paths** · Attraction: Radius needs it at Splintering to pass A and Refraction to pass S; Pressure at Glory to pass A; Forecast at Splintering to pass S. Off Attraction, Forecast caps at S and the selectable ceiling falls to S.
+**Paths** · Fate: Radius needs it at Splintering to pass A and Refraction to pass S; Pressure at Glory to pass A; Forecast at Splintering to pass S. Off Fate, Forecast caps at S and the selectable ceiling falls to S.
 
 | Quantity | Working | Result |
 |---|---|---|

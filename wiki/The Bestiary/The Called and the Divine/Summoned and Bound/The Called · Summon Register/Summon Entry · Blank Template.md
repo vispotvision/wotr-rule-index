@@ -51,7 +51,7 @@ title: Summon Entry · Blank Template
 | **House Resonance** | *What that House does to the form: anchored and slow to dissolve, elevated and judgmental, vital and restorative, and so on* |
 | **Essence Family** | *Caloria · Fulguria · Vectoria · Spatium · Materia · Vitalia · Fluxia · Limina* |
 | **Physics Domain** | *Per the Master Codex. This is what every Mechanism field in section VIII must trace back to* |
-| **Essence Typology** | *What the donation visibly burns, flows or weighs as* |
+| **The Donation** | *What it visibly burns, flows or weighs as* |
 
 ---
 

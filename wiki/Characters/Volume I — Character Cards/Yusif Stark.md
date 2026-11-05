@@ -3,7 +3,7 @@
 # Yusif Stark
 
 **Yusif Stark** · the Quiet Man · Kharven, House Stark of Hollenmark · as of the last season he came down four galleries, the year the boy was thirteen
-**Stat line** · Level 160 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Attraction 30% / Spirit 10% · Expert · η 0.62 · Aether Class I, Muridic · Crystal Harmonic, Refined
+**Stat line** · Level 160 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Fate 30% / Spirit 10% · Expert · η 0.62 · Aether Class I, Muridic · Crystal Harmonic, Refined
 **Combat grammar** · Blade; edge, weight and the long clean line of the cut
 **Aura and sound** · the Stark cold, a hard white rime over gray, quieter than any Stark's before him · sound: an ash stick tapping once on a salt floor
 **Traits** · LET YOUR FEET DO IT (Primary) · tell: none; that is the point · counter: a fight you have to think through / STARK RIME (Inherited) · tell: his breath stops steaming · counter: heat / THE THING NOBODY WROTE DOWN (Secondary) · tell: he says nothing at all · counter: ask him in front of the one he is keeping it from

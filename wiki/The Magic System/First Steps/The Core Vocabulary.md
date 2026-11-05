@@ -49,13 +49,12 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Attraction Force** · The law of recognition governing the Plane of Fate. Allows names, vows, lineages, Domains, and outcomes to be lawfully acknowledged inside reality. Clean techniques are sustained by the Continuum's recognition of the practitioner's intent. With its inversion, Obsession Force, it is what the Plane of Fate controls, and a true Fate Art works both.
 
-**Essence** · Personal Aether: pulled into the soul, refined and circulated through the Soul Crystal, and imprinted with the practitioner's identity.
+**Essence** · The soul's own substance: Aether pulled into the soul, refined and circulated through the Soul Crystal, and stamped with the practitioner's identity. The Essence Core is the center of all identity and the Crystal is the soul, so a practitioner holding a full reserve is holding themselves and a practitioner spending it is spending themselves. A blow's character comes from Wellspring and Path.
 
 **Essence Quality** · The coherence of a practitioner's Essence imprint.
 
 **Essence Signature** · The unique trace a practitioner's Essence leaves, readable through Gnosis-based perception. You cannot forge one and you cannot fully hide one, only muddy it.
 
-**Essence Typology** · A Soul Crystal's natural bias toward one of the eight Families. Determines which Family's Abilities develop instinctively rather than through deliberate effort. A Wellspring set over it as a lens can highlight it and even double its effect, starting small and reaching double only with years of mastery.
 > **Obsession Force** · The corrupted inversion of Attraction Force. When a practitioner cannot release judgment, lineage, memory, or revelation, recognition curdles into fixation, sustaining corrupted techniques through refusal rather than harmony, at escalating soul-cost.
 
 ---
@@ -68,9 +67,11 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 | Layer | Function | Failure state |
 |---|---|---|
-| **Essence Core** | The Soul-Plane layer. Holds identity, memory, and Traits. | Fracture into Shards |
-| **Aether Shell** | The Material-Plane layer. Converts inner truth into outward force. | Clouding or Rupture |
-| **Attraction Layer** | The Fate-Plane layer. Holds bonds, Domains, and Wellspring harmonizations. | Obsession Force |
+| **Essence Core** | The Soul-Plane layer. The center of all identity: holds identity, memory, and Traits. | Fracture into Shards |
+| **Aether Shell** | The Material-Plane layer, meeting the Physical World. Converts inner truth into outward force. | Clouding or Rupture |
+| **Attraction Layer** | The Fate-Plane layer, a soul's own share of fate. Holds bonds, oaths, Domains, and Wellspring harmonizations. | Obsession Force |
+
+Every soul has all three layers, the unwoken included, and a **Path** (Section VII) is the one its Crystal has learned to lean on: the Body Path on the Shell, the Spirit Path on the Core, the Fate Path on the Attraction Layer.
 
 **Lattice Conductivity** · How easily Essence moves through the Aether Shell without resistance. Low Conductivity produces blockage and backlash; high Conductivity produces smooth passage.
 
@@ -84,7 +85,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Overfill** · Carrying a bank above the rated Flux Density. To **one and a half times** rating the Crystal holds and leaks and takes no lasting harm, and that margin is the whole of an absorber's working room. From one and a half to **two and a quarter times** the lattice takes a permanent set and the rating itself falls: the Crystal has gone **Overgrown**. At or past two and a quarter times it bursts. That is a **Crystal Fracture Event**, in the absorber, from energy that was aimed at him and that he chose to take. Feeding an absorber past his margin is the counter to absorption, and it is cheaper than out-hitting him.
 
-**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural Essence Typology, starting small and reaching double only with years of mastery. A soul gets one at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. There are sixty, fixed, and a Soul Crystal harmonizes with them and invents none. Scholars explain the lens as physics: Aether comes in sixty types that affect the Soul Crystal differently, and each carries its own Core Law, Family alignment, and Temperance-range compatibility, and every figure in the tables is that account. Harmonization with the correct Wellspring is one of the four conditions, alongside Essence Typology, Temperance Stage, and training, that an Ability needs to develop.
+**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. Its kind (Wild, Spirit, Fate or Medium) names its home plane and is never a lock. A soul gets one at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. There are sixty, fixed, and a Soul Crystal harmonizes with them and invents none. Scholars explain the lens as physics: Aether comes in sixty types that affect the Soul Crystal differently, and each carries its own Core Law, Family alignment, and Temperance-range compatibility, and every figure in the tables is that account. Harmonization with the correct Wellspring is one of the four conditions, alongside how its kind sits with the Path, Temperance Stage, and training, that an Ability needs to develop.
 
 **Core, in common speech** · A site in the world where a Wellspring's Aether pools. Most lie in dungeons, and some are said to lie in vast territories. A worked Core is a dungeon someone cleared and now holds: it recharges and has keepers, who can close it. Scholars keep the word for the Essence Core and say Wellspring site; the street says Core, and context has to do the rest. A monster's core is a third thing (Section VII), and people have died of that confusion too.
 
@@ -201,7 +202,7 @@ Every gull on the wharf went up at once. Bartle lived, a good deal quieter, and 
 
 **Practitioner** · A person whose Soul Crystal is awake and working, about one in ten. Everyone else is Class Ø and touches magic through what they buy.
 
-**Path** · The direction advancement actually took: Body, Spirit, Attraction or Fate. It is assessed afterward and recorded whether the person agrees or not, nobody chooses one, and it gates how far a stat may rise. See [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]].
+**Path** · The layer of the Crystal a soul has learned to lean on, and so the direction advancement actually took: Body (the Aether Shell, in the Physical World), Spirit (the Essence Core, on the Soul Plane) or Fate (the Attraction Layer, on the Plane of Fate). It is assessed afterward and recorded whether the person agrees or not, nobody chooses one, and it gates how far a stat may rise. A Path stands as **Mastered** (its gates are no obstacle at the person's Stage), **Walked** (three parts in ten of their practice or more) or **Studied** (knowledge and small uses, open to anyone, opening no gates). See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
 
 **Continuum** · The lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power. A window is that measurement reported to the owner.
 

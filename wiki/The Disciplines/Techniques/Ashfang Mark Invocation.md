@@ -97,7 +97,7 @@ Self-derived by its author during the Vorynn Trials, the Catalyst Event of "cons
 
 **Practitioner** · Glory, Expert, Max Grade A (ceiling 400), B-Grade (176 to 275) Tempering required, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70. Tempering Maturity and Gnosis Perception govern.
 
-**Paths** · Body: Constitution needs Body Path at Welling to pass D, or the frame and heart stay untrained and fail sooner; the gravitational part of Tolerance needs Attraction Path at Glory.
+**Paths** · Body: Constitution needs Body Path at Welling to pass D, or the frame and heart stay untrained and fail sooner; the gravitational part of Tolerance needs Fate Path at Glory.
 
 | Quantity | Working | Result |
 |---|---|---|

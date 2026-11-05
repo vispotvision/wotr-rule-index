@@ -99,7 +99,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 
 **Practitioner** · Splintering, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70 (0.65 used). Grade B, allocation stopping at 275, instability above 320, 350 under strain only.
 
-**Paths** · Harmonics Projection past C needs the Attraction Path at Ascension; without it the coupling carries only C-Grade weight against anything loading the line, with it B.
+**Paths** · Harmonics Projection past C needs the Fate Path at Ascension; without it the coupling carries only C-Grade weight against anything loading the line, with it B.
 
 | Quantity | Working | Result |
 |---|---|---|

@@ -79,7 +79,7 @@ A Tier Grade is the letter that says what size of thing a stat can meaningfully 
 
 > **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU (Essence Units, a soul's stored power). **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. It is worked end to end, EU to joules to Grade to tons of TNT, in [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
 >
-> **Inside one Grade.** Two fighters on the same letter settle it by technique, wits, position and how their Sub-Stats are built. A fighter at the top of B-Grade, stat value 275, hits roughly **five times** as hard as one at the bottom, stat value 176, and both are B-Grade. That is a real gap and not always a decisive one, because technique, a Wellspring's lens (one of the Sixty, the governing idea that changes how a soul uses its power) and Path bonuses can close it or turn it round. A Wellspring can highlight and even double a person's natural Essence Typology (the kind of Essence their soul makes on its own), starting small and reaching double only with years of mastery, and that shows up here as a fighter whose row on the table undersells them.
+> **Inside one Grade.** Two fighters on the same letter settle it by technique, wits, position and how their Sub-Stats are built. A fighter at the top of B-Grade, stat value 275, hits roughly **five times** as hard as one at the bottom, stat value 176, and both are B-Grade. That is a real gap and not always a decisive one, because technique, a Wellspring's lens (one of the Sixty, the governing idea that changes how a soul uses its power) and Path bonuses can close it or turn it round. At its home Path a Wellspring can even double its effect, starting small and reaching double only with years of mastery, and half again is the most it reaches away from home, and that shows up here as a fighter whose row on the table undersells them.
 
 ### The Sharp-Blunt Asymmetry
 
@@ -233,6 +233,15 @@ The Shell's tier ascends through refinement, and conquest has never moved it, th
 
 > *"To refine the soul is to remove everything that was never truly part of the design, and polish has nothing to do with it."*
 The Crystal is the soul. It evolves through Developmental Tiers representing the synthesis of all three layers at once, each Threshold melting a layer down and rebuilding it. These Tiers are **correlated with but not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
+
+| Layer | Plane | What it does | The Path that leans on it |
+|---|---|---|---|
+| **Aether Shell** | The Physical World | Meets matter: the blow, the block, the weight, the heat | **Body** |
+| **Essence Core** | The Soul Plane | Holds identity, memory and Traits, and authors what a working is | **Spirit** |
+| **Attraction Layer** | The Plane of Fate | A soul's own share of fate: its bonds, its oaths, its claims and its odds | **Fate** |
+
+Every soul has all three layers, the unwoken included, and a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] is the one its Crystal has learned to lean on. **Essence** is Aether refined in the Crystal and stamped with identity. The Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance, and spending it is spending yourself.
+
 
 | Tier | Condition | Corresponds to |
 |---|---|---|

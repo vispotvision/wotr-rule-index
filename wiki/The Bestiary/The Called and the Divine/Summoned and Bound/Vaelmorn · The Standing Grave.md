@@ -60,7 +60,7 @@ I have stood inside the ninety meters for an afternoon with a cut thumb, and it 
 | **House Resonance** | House of the Green Pulse. Vital warmth, restorative capacity, empathic response. **The Codex's stated risk for this House is spirits that resist dissolution.** He is the risk with four legs under it |
 | **Essence Family** | **Vitalia** |
 | **Physics Domain** | **Biochemistry.** Every Mechanism below runs on preservation chemistry and metabolic suppression, and the real-world reading is the peat bog |
-| **Essence Typology** | Accretion. **His donation does not burn, discharge or flow.** It settles, it binds, and it makes the thing it settles on stop changing |
+| **The Donation** | Accretion. **His donation does not burn, discharge or flow.** It settles, it binds, and it makes the thing it settles on stop changing |
 
 ---
 

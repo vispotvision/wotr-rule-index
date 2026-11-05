@@ -42,7 +42,7 @@ An **Aether Class** has two halves that the taverns run together and the assayer
 
 **The name** is what the soul makes of a life. It is offered at thresholds, it fits how the person has lived, and it arrives on the window in the owner's own tongue. It gives abilities, shapes growth and evolves at each tier by how it is lived. No coil has ever read one. A class name is known to its owner, to anyone with Gnosis Perception (the stat of sensing what a soul is) strong enough to read it off them, and to everyone else exactly as far as the owner cares to tell it, which is why half the Wallbreakers in the Midmarch are something else.
 
-The Archives file the full law of the Shell under [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], with its three constants and its anomalies, and in [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|Fracture of Worlds, Part Seventeen]]. This page is about the name, and about what people do once they have one.
+The Archives file the full law of the Shell under [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]], with its three constants and its anomalies, and in [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)|Fracture of Worlds, Part Seventeen]]. Every soul has the Shell, whichever [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] it leans on: the Shell meets the Physical World, the Essence Core holds identity on the Soul Plane, the Attraction Layer is a soul's own share of fate, and the tier reads the first of those on a Fate Path auditor as readily as on a Body Path brawler. This page is about the name, and about what people do once they have one.
 
 ---
 
@@ -77,7 +77,7 @@ The name carries real goods. In rough order of how often they turn up:
 - **An ability of the class's own.** A small lawful trick that fits the name, listed on the window when gained, the kind of thing a person might have spent years failing to learn. It runs on the owner's reserve at the owner's η and costs what it costs.
 - **An easier road.** Certain kinds of move come quicker, and the teachers notice. A Wallbreaker's elbows learn in a month what a Bookkeeper's elbows will never learn.
 - **A lean in growth.** Life spends most of a person's stat points by what they do, and a class leans on that: what the name is about grows a little faster, and what it ignores a little slower. Every Wallbreaker in the four quarters has roughly the same shoulders.
-- **A shape in the aura.** The Family sets a person's base color, a Wellspring adds texture and sound, and a class or a big Trait adds a shape, which a good eye can spot at fifty paces. People read strangers off it in every market on the continent, or think they can:
+- **A shape in the aura.** The Family of the Wellspring a person has tempered on sets their base color, the Wellspring adds texture and sound, and a class or a big Trait adds a shape, which a good eye can spot at fifty paces. People read strangers off it in every market on the continent, or think they can:
 
 > *Caloria, ember-orange. An Exuroth lens, temper-blue at the edges, smelling of quench oil. A Riverblade's shape, running in a flowing band around the shoulders.*
 >

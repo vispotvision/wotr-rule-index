@@ -49,6 +49,8 @@ Domains are grown, and then they are called. No technique stands in for one and 
 
 **The Stage grants a Domain, and a Grade never does.** A ten-year veteran with a magnificent Dominion at Stage VI has a very heavy presence and no Domain. A Stage VIII with a modest one can have a small, bad, real Domain. Dominion and the Shell's clarity decide how wide it runs and how steady it stands. The Stage decides whether it can stand at all, and anyone at Stage VIII can have one, their own concept made real, with the fame, the rivals and the bounties that follow it around.
 
+**A Domain is Fate's business, whoever holds it.** The claim is made by the Attraction Layer, a soul's own share of fate, so every Domain stands under the authority of the Plane of Fate, whichever [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path]] its owner came up by. A hitter at Stage VIII can have one as surely as anyone. What the Fate Path buys is more say inside it, and that is the whole of the advantage.
+
 Any concept will serve. The Archives hold a Domain of closing time, one of a toll bridge, one of a shut door, one in which the bell decides who may rest, and one that has never been described by anybody who agreed to go back.
 
 ---
@@ -101,7 +103,7 @@ So a person reaches Stage VII on one involuntary flash and may then spend twenty
 | **Construct Sustain** | What was summoned stays without attention | Dominion Gravity, Ardency Density |
 | **Inertial Dominion** | Moving things stop, turn or leap at the holder's word | Dominion Sovereignty, Vitality Absorption |
 
-The Long Sitting is Inertial Dominion with a docket, and an Attraction Path holder gains the most from any of them: inside a formed Domain, that [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|Path's]] amplification can pass a Body Path fighter's raw advantage outright.
+The Long Sitting is Inertial Dominion with a docket, and a Fate Path holder gains the most from any of them: inside a formed Domain, that [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Path's]] amplification can pass a Body Path fighter's raw advantage outright.
 
 ---
 

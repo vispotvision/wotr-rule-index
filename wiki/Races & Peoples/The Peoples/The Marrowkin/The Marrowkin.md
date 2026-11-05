@@ -166,7 +166,7 @@ Every branch talks about the shared arts in the same flat words, and they are th
 
 ## The Three Deep Lineages
 
-A note on terms for readers from the surface. **Essence Typology** names the kind of power a soul refines from the Aether it pulls; **Soul Path** gives the share of a person's power running through body, spirit, attraction or fate; a **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way, and a lineage may be able to harmonize with it, or may reject it outright. **Stage** is a rung of the sixteen-step climb. A **Domain** is the territory in which a high-Stage practitioner's own law holds.
+A note on terms for readers from the surface. **Soul Habit** names what a lineage's souls tend toward, a thing of blood and upbringing and never a lock; **Soul Path** gives the share of a person's power running through body, spirit or fate; a **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way, and a lineage may be able to harmonize with it, or may reject it outright. **Stage** is a rung of the sixteen-step climb. A **Domain** is the territory in which a high-Stage practitioner's own law holds.
 
 ### The High Line: Rune-Forgers of the Bound Geometry
 
@@ -174,9 +174,9 @@ Varūn's geometric will given biological form, and the Ribs' own builders, who c
 
 A High Line inscription has nothing decorative in it. It is the actual Aetheric vibration a concept is made of, rendered so exactly that **reality stops needing to be told what to do.**
 
-**Essence Typology** · Terra (primary, geometric permanence) / Speculum (secondary, reflection: pattern revealing structure)
+**Soul Habit** · Geometric permanence first; reflection second, pattern revealing structure
 
-**Soul Path Bias** · Spirit 70% / Body 20% / Attraction 10%
+**Soul Path Bias** · Spirit 70% / Body 20% / Fate 10%
 
 **Wellsprings** · Monolithion (primary), Judicium (strong secondary), Fixatio and Basilithe (accessible). **Rejects Nyxial, Tenebra, and Void-aspected Wellsprings outright**: Geometric Cohesion is constitutionally antithetical to Void
 > **Advantages** · The most corruption-resistant Crystal architecture in the Continuum; hostile intrusion shatters against its lattice the way glass shatters against stone.
@@ -193,7 +193,7 @@ Where the High Line is Varūn's geometry, the Cask Line is his fermentation: **t
 
 Kegshard Hold's Deepvault, in the hollow of the Twelfth Rib, and the Great Cask-Oath are the same instinct in two forms: the conviction that **the most dangerous and the most precious things both deserve to be aged, watched, and never rushed.**
 
-**Essence Typology** · Terra (primary, alchemical transmutation) / Manganthra (secondary, transformation through contradiction)
+**Soul Habit** · Alchemical transmutation first; transformation through contradiction second
 
 **Soul Path Bias** · Body 85% / Fate 15%, **the only Fate Path access in the Continuum to emerge from watching barrels rather than the sky**
 

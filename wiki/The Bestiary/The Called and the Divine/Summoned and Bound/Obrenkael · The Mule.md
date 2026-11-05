@@ -54,7 +54,7 @@ So that is the entry: a beast that weighs as much as an ox and a half, walks at 
 | **House Resonance** | Fluxia carries it, and Fluxia produces forms that move and do not stop. Nothing about the Mule is anchored. Everything about it is transport, and the Mortalis secondary is what keeps the transport from being merely mechanical, since Vitalia insists that what is being moved was recently a person |
 | **Essence Family** | **Fluxia**, with an attested Mortalis-Vitalia secondary |
 | **Physics Domain** | **Fluid Dynamics.** Every Mechanism field below is gradient, pressure, or drag. Nothing in the kit is impact and nothing in it is heat |
-| **Essence Typology** | The donation runs as weight. Witnesses reach for weight rather than for light or heat when they describe the calling: the sensation of something heavy being set down nearby, felt in the knees and the base of the spine before the eyes find anything |
+| **The Donation** | The donation runs as weight. Witnesses reach for weight rather than for light or heat when they describe the calling: the sensation of something heavy being set down nearby, felt in the knees and the base of the spine before the eyes find anything |
 
 ---
 

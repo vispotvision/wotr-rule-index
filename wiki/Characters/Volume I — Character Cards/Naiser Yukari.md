@@ -44,13 +44,12 @@ private: true
 **Level** · 395
 **Band** · IV, Mythic
 **Temperance Stage** · XII, Emanation. He did not reach it through fervor or spectacle. He reached it through synthesis, forcing two bloods into one count, and then six Stages laid over a long road, each one owed in full
-**Path** · Spirit 40%, Body 35%, Fate 25%
+**Path** · Spirit 40%, Mastered; Body 35%, Walked; Fate 25%, Studied
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.89. Top of the Grandmaster band, 0.85 to 0.90, and standing as recorded; almost all of what he commits lands where he meant it
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, held in balance by constant labor
 **Aether Class** · V, Radiant. His Crystal's Attraction Layer carries territorial durability, which is why the Corridor forms round him without being called
-**Essence Typology** · Limina
 
 ## III. Wellspring Harmonizations
 

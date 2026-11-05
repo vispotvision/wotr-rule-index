@@ -37,7 +37,7 @@ The real failure is backlash through the mirror. An oath sworn under Purganeth-w
 
 **Practitioner** · Invocation, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S-Grade (401 to 550; 625 under strain).
 
-**Paths** · Persistence needs the Fate Path at Refraction to pass S and at Transcendence to pass SS against Oblivion-class pressure; off it Persistence caps at 550. Oath needs the Attraction Path at Flourishing to pass B, or the toll's pool is shallow.
+**Paths** · Persistence needs the Fate Path at Refraction to pass S and at Transcendence to pass SS against Oblivion-class pressure; off it Persistence caps at 550. Oath needs the Fate Path at Flourishing to pass B, or the toll's pool is shallow.
 
 | Quantity | Working | Result |
 |---|---|---|

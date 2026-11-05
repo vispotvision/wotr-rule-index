@@ -28,7 +28,7 @@ Descended from the ancient **Clawbound Accord** formed during the Watcher's Ecli
 
 ### Soul architecture
 
-**Essence Typology** · Emotive (Reflex / Shadow), Fulmen undertone for kinetic release. Their souls function as **Kinetic Reservoirs**: raw emotion stored in muscle memory, released as Aetheric force through physical acceleration. **Where most practitioners channel Aether deliberately, they embody it, and then they move.**
+**Soul Habit** · Emotion, reflex and shadow, with a kinetic edge on the release. Their souls function as **Kinetic Reservoirs**: raw emotion stored in muscle memory, released as Aetheric force through physical acceleration. **Where most practitioners channel Aether deliberately, they embody it, and then they move.**
 
 **Soul Path** · Body 62% / Spirit 38%. *Their Aura lays no claim to the space around it. It is the absence of spatial presence, the way a room changes when something very fast has just passed through it.*
 
@@ -93,7 +93,7 @@ Born from the **Great Hunt Pact** during the First Moonfall, when wild spirits a
 
 ### Soul architecture
 
-**Essence Typology** · Instinctual (Lunar / Primal), Viridian undertone. Their souls **oscillate with the lunar cycle**; the internal lattice is Reactive, triggering Aetheric bursts through physical reflex rather than cognitive calculation. *They feel the technique happen before they decide to use it.*
+**Soul Habit** · Instinct, lunar and primal, with something green and living under it. Their souls **oscillate with the lunar cycle**; the internal lattice is Reactive, triggering Aetheric bursts through physical reflex rather than cognitive calculation. *They feel the technique happen before they decide to use it.*
 
 **Soul Path** · Body 60% / Spirit 40%. At depth, **the Spirit Path component is distributed across the pack as a shared architecture, and no one Lupine holds all of it.**
 > **Isolation Decay** produces Crystal **compression rather than fracture**, a slow fading that reads as emotional shutdown before it reads as spiritual damage. Lupine who have been isolated long enough describe feeling *"too quiet for too long."* **The recovery requires pack proximity, and no physician can substitute.**
@@ -156,7 +156,7 @@ Formed during the **Age of Glacial Memory** when the Titan of Endurance drew mou
 
 ### Soul architecture
 
-**Essence Typology** · Terra primary: geological permanence, **the specific weight of things that refuse to end.** Viridian secondary. *Their souls are old-growth heavy.*
+**Soul Habit** · Geological permanence first, **the specific weight of things that refuse to end.** Green and living growth second. *Their souls are old-growth heavy.*
 
 **Soul Path** · Body 70% / Spirit 30%. The Spirit component expresses through environmental attunement and the Stillness Trial discipline: **the spiritual practice of holding while everything around you fails is both a combat technique and a soul architecture.**
 > **Crystal fracture pattern · Subtle-Blindness amplification.** The Crystal resists abstract and illusory architecture so fundamentally that exposure to high-tier Illusion or Dream workings produces **confusion fractures**, a specific Crystal disorientation with no physical damage in it.
@@ -221,9 +221,9 @@ Every tavern from the Salt Road to the sea calls trained sensing *the nose* (the
 
 ### Soul architecture
 
-**Essence Typology** · Viridian primary: life as warmth, **the specific quality of choosing openness as a position.** Aqua secondary: empathic, tidal, memory of felt things. **Their souls are permeable in a way that other beastkin souls are not: they receive environmental Aether rather than just projecting into it.**
+**Soul Habit** · Life as warmth first, **the specific quality of choosing openness as a position.** Second, the water in it: empathic, tidal, memory of felt things. **Their souls are permeable in a way that other beastkin souls are not: they receive environmental Aether rather than just projecting into it.**
 
-**Soul Path** · Spirit 78% / Attraction 18% / Body 4%. *Do not look for a combat lineage here.*
+**Soul Path** · Spirit 78% / Fate 18% / Body 4%. *Do not look for a combat lineage here.*
 > Fox-spirit Crystal fracture is rare and typically associated with **sustained olfactory overload**: exposure to extreme Aetheric event residue without adequate processing time. **The Crystal's porosity, which makes the nose function, also makes it vulnerable to saturation.** Practitioners in high-Aether environments need periodic Somnalis-integration sleep to process accumulated intake.
 >
 > **Stage III is the stage most affected by captivity and environmental suppression.** Fox-spirit Crystal requires conditions of reasonable safety, or the kind of danger that pushes outward. **Inward-pressing danger, meaning captivity, sustained threat, isolation from sensory richness, stalls Stage III at the threshold.**
@@ -286,9 +286,9 @@ Second Eon, Dissolution Period. Formed near the Scorchline Wellsprings when memo
 
 ### Soul architecture
 
-**Essence Typology** · Memory-Aligned (Reflection / Adaptation / Temperature Sync), Speculum primary. Their souls function as **Aetheric mirrors**, capable of reflecting and storing complex historical data within the spiritual lattice. *What they touch, they remember. What they remember, they can use.*
+**Soul Habit** · Memory: reflection, adaptation and temperature sync, the mirror before anything. Their souls function as **Aetheric mirrors**, capable of reflecting and storing complex historical data within the spiritual lattice. *What they touch, they remember. What they remember, they can use.*
 
-**Soul Path** · Spirit 65% / Attraction 25% / Body 10%. The Attraction component expresses through historical Domain formation: **territories where Serpentkin have practiced become living archives.**
+**Soul Path** · Spirit 65% / Fate 25% / Body 10%. The Fate component expresses through historical Domain formation: **territories where Serpentkin have practiced become living archives.**
 > Their Crystal is architecturally unusual: **memory imprints accumulate as structural layers rather than as stored data.** An old Serpentkin Crystal, viewed with sufficient Gnosis, **looks like sedimentary rock**, each layer a period of their life, compacted into the substrate.
 >
 > **Stall potential at Stage VIII.** Transcendence requires genuine change, and the Coiling Memory architecture is oriented toward preservation. **The Crystal resists restructuring because it contains too much it doesn't want to lose.**

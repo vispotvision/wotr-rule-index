@@ -18,7 +18,7 @@ Every scarf on the road lifted. Her aura, a respectable brick red for sixteen ye
 
 ### What a Wellspring Is
 
-A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. Captain Marl came down the Ember Stair with every number the same and a boulder running like tallow, and that is what a lens does. It can highlight a person's natural Essence Typology (the soul's own bias toward one Family, in Part Eighteen) and can even double its effect, starting small and reaching double only with years of mastery. There are sixty, fixed. Every few years some Measurewright announces a sixty-first, and he has generally retracted it by the next fair.
+A Wellspring represents an alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. Captain Marl came down the Ember Stair with every number the same and a boulder running like tallow, and that is what a lens does. A soul bases its tempering on one, it shapes Essence differently on each Path (the layer of the Crystal a soul leans on, in Part Eighteen), and at its home Path it can even double its effect, starting small and reaching double only with years of mastery. There are sixty, fixed. Every few years some Measurewright announces a sixty-first, and he has generally retracted it by the next fair.
 
 A person gets one at a Core in a dungeon, from a school, from a Draft or a blessing, or by birth.
 
@@ -35,6 +35,25 @@ A character with Fortitude at B-Grade who harmonizes with Monolithion does not g
 Every Wellspring touches all three layers of the Crystal, rarely evenly. The **Essence Core** determines how the soul burns, heals or empties under that law. The **Aether Shell** determines how the law moves through and around the body. The **Attraction Layer** determines how reality, memory and people bind to the soul once the law has taken hold.
 
 Most practitioners awaken three to five Wellsprings in a lifetime. Serious adepts may harmonize with twelve or more. Those rare beings who embody all Sixty are called **Principals of Temperance**.
+
+### The Kinds of Wellspring
+
+A Wellspring's kind names its home plane. **A kind is a qualifier and never a lock: any Path can use any Wellspring.** The sort runs across the Families, which are sorted by physics, so Catharsis sits among the Caloria entries below and is a Spirit Wellspring all the same.
+
+| Kind | Home | The Wellsprings |
+|---|---|---|
+| **Wild (33)** | The Physical World | Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Transmutatio, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine |
+| **Spirit (15)** | The Soul Plane | Catharsis, Penanceflare, Thaloré, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial, Eclipseron, Absolution, Penance, Redemption, Contrition |
+| **Fate (6)** | The Plane of Fate | Somnalis, Oblation, Benediction, Oblivara, Transference, Tarturon |
+| **Medium (6)** | All three | Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis |
+
+**Wild** Wellsprings are physical phenomena and alchemical transformations a practitioner shapes their inner Essence around. **Spirit** Wellsprings are purely spiritual: their ground looks ordinary, they usually do little or nothing to the physical world, and they give a fighter no fire to throw, showing instead in what a person can bear, know, keep or let go. A spiritual entry below keeps its physics as the scholars' account of what happens in the soul. **Wellsprings of Fate** work on bonds, debts, names and odds, and on their ground luck goes strange, oaths bite, and strangers keep meeting. **Medium** Wellsprings are at home on all three.
+
+### The Lens
+
+A Wellspring is the lens a soul bases its tempering on, and it works in the terms of whichever layer the soul leans on. On the Body Path, by way of the Aether Shell, it changes what the body does and bears. On the Spirit Path, by way of the Essence Core, it changes what the working is and what it carries across a distance. On the Fate Path, by way of the Attraction Layer, it changes what the soul's bonds, oaths and claims will hold. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear.
+
+**At home** a Wellspring harmonizes cleanly and can reach double its effect with years of mastery. **Away from home** it works at lower-quality resonance and higher Essence cost, and reaches half again at most. Part Eighteen sets out the Paths.
 
 ### The Eight Families
 
@@ -228,6 +247,8 @@ The maximum number of simultaneous harmonizations is governed by **Tempering Cap
 
 The Plane of Fate is the control of Attraction Force and Obsession Force and the workings of reality itself: manipulating probabilities to work outside what reality already knows, to control the fate or predestiny of something. Fate covers both forces below. It represents the possibility of all things, so it reaches the Spiritual and the Physical World alike, because all spirits and all physical things have fates. It can attach to oaths, and it is more tied to blessings.
 
+A soul's own share of this plane is its Attraction Layer, and a soul that leans on that layer is on the Fate Path. The two forces below are what the plane runs on, and they stay forces whoever is spending them. Most of the Path spends them the way they already run, in bonds, oaths, Range, Aura Pressure and Domain authority, and at its far end it changes how they are going to run.
+
 Real Fate Arts are rare and mostly by bloodline. Some high-Stage masters reach them late along the Fate Path, and everyone else touches Fate through a blessing or a Master Work Draft, if at all. They are considered incredibly overpowered, and the people who consider them so are mostly the ones who have met one.
 
 ### Blessings
@@ -299,7 +320,7 @@ Five-step sequence: Intent, Pattern, Essence Donation, Aether Formation, Attract
 
 **Secondary:** Gnosis Retention sets how many summon patterns can be held loaded. Tempering Yield sets how much Essence can be donated without depleting combat reserves. Dexterity Sequence sets command speed during engagement.
 
-**Wellspring inheritance.** Summons inherit their creator's alignment. A Materia-Family summoner produces anchored, durable, slow-to-dissolve constructs. A Limina-Family summoner produces absence-constructs, void-forms and negation agents. The spirit's behavior is a function of the summoner's Harmonics profile, not a separate system.
+**Wellspring inheritance.** Summons inherit their creator's alignment. A summoner tempered on a Materia Wellspring produces anchored, durable, slow-to-dissolve constructs. A summoner tempered on a Limina one produces absence-constructs, void-forms and negation agents. The spirit's behavior is a function of the summoner's Harmonics profile, not a separate system.
 
 ### Spirit Rune Arts
 

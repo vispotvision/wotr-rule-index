@@ -70,9 +70,9 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 | Clearing that record | 1.7 × 10³¹ × 2.87 × 10⁻²¹ J | 49 GJ, four orders below the SSS floor |
 | SSS band, Strike Force | Grade table | 1 to 5 PN; 418 TJ to 4.184 ZJ |
 
-**Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU (ceiling 6.70 × 10⁹), η 0.85 to 0.90, Attraction Path; Grade SSS.
+**Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU (ceiling 6.70 × 10⁹), η 0.85 to 0.90, Fate Path; Grade SSS.
 
-**Paths** · Depth and Breadth open on Attraction Path; Density above B needs Body Path, so the lattice's Density is capped at B and Petralon carries its mass.
+**Paths** · Depth and Breadth open on Fate Path; Density above B needs Body Path, so the lattice's Density is capped at B and Petralon carries its mass.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -98,7 +98,7 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 - **Skill:** Speaking, internalized: she stills her Essence and commits, with no outside chain to interrupt
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 
 ### FOW line
 
@@ -106,7 +106,7 @@ Each Wellspring bequeaths its fault: Basilithe's resonant catastrophe, where a m
 - **Governing Sub-Stats:** Density (whether the Obelisk is a participant or a suggestion), Compression (how cleanly six Wellspring signatures refine into one stable lattice), Depth (how many Wellspring qualities the working holds without resonance conflict)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 - **Resonant Pair:** None attested on the roll.
 
 ### Origin

@@ -1,7 +1,7 @@
 ![[Shōki Kurenai Moto — portrait.jpg]]
 
 **Shōki Kurenai Moto** · The Sin of Wrath · Moto, Kurenai line · as of the present reckoning, three centuries after the Hall
-**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body 70% / Attraction 30% · Grandmaster · η 0.71 · Aether Class V, Radiant, Rot-Born · Crystal Sovereign, Overgrown over an open fracture
+**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body 70% / Fate 30% · Grandmaster · η 0.71 · Aether Class V, Radiant, Rot-Born · Crystal Sovereign, Overgrown over an open fracture
 **Combat grammar** · Percussion
 **Aura and sound** · Caloria ember-orange at Dissonance clarity, brilliant and grained like a filament overdriven, rimmed black-violet where Vantabriel keeps what it takes; sound: a blast-furnace roar under a ringing of iron
 **Stack** · sustainable SS · cap +2 Grades · layers: SHAKUNETSU always standing; ABI or ENMA-CHŌ when called; the grudge bank
@@ -35,13 +35,12 @@
 **Level** · 398
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance. Trapped in it: he entered at the block and never passed through
-**Path** · Body 70%, Attraction 30%. No Spirit, no Fate; the gates hold Alacrity, Clarity, Ward and Retention low, and Sovereignty under A
+**Path** · Body 70%, Mastered; Fate 30%, Walked. No Spirit, and none of the far end of Fate; the gates hold Alacrity, Clarity, Ward and Retention low, and Sovereignty under A
 **Tier of Standing** · 7, Grandmaster, on any Accord ledger that would still examine him
 **η** · 0.71. Below the Grandmaster band and standing as recorded. Twenty-nine parts in every hundred leave him as heat
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Overgrown, over an open Dissonance fracture along the line of the block. His moods stain the air; the fracture never closes into a feature
 **Aether Class** · V, Radiant, of the Rot-Born variant: a corrupted Shell that amplifies and corrodes with every working
-**Essence Typology** · Caloria
 **Attraction / Obsession** · Obsession Force at full purchase. The gap the Unburied fills is the whole of him
 
 ## III. Wellspring Harmonizations

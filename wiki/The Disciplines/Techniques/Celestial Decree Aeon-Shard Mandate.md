@@ -47,7 +47,7 @@ It has hard edges against the great. No peer overwrite without harmonic superior
 - **Skill:** Speaking, a raised hand and an internalized commitment, with no anchor
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 
 ### FOW line
 
@@ -56,7 +56,7 @@ It has hard edges against the great. No peer overwrite without harmonic superior
 - **Secondary Primary:** Ardency, Sub-Stat Density (whether the shard is a construct that acts, not merely a light show)
 - **Stage floor:** Stage XII, Emanation
 - **Grade required:** SSS-Grade
-- **Path gate:** Attraction Path
+- **Path gate:** Fate Path
 - **Resonant Pair:** None attested in the source card.
 
 ### Origin
@@ -87,7 +87,7 @@ The Mandate is a self-derived technique and requires Stage XII; anyone who has n
 
 ### Essence
 
-**Practitioner** · Emanation, Grandmaster, Levels 301 to 400, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; SSS (726 to 950) Harmonics Breadth on the Attraction Path, ten Wellsprings at once.
+**Practitioner** · Emanation, Grandmaster, Levels 301 to 400, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; SSS (726 to 950) Harmonics Breadth on the Fate Path, ten Wellsprings at once.
 
 **Density** · Ardency Density is Body-gated above B, so the shard's Density runs capped at B and the lattice spreads its output rather than packing it.
 

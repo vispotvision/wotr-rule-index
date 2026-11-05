@@ -57,7 +57,7 @@ The inherited failures are the two ways this art kills its owner. Exuroth's quen
 | Detonation, if it completes | Chapman–Jouguet | about 1,800 m/s; about 18 bar |
 | Reflected shock | normal reflection | up to about 8× incident |
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Spirit and Body Paths; Grade A, the Stage's ceiling. Cascade spread capped at B without Attraction.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, Spirit and Body Paths; Grade A, the Stage's ceiling. Cascade spread capped at B without Fate.
 
 | Quantity | Working | Result |
 |---|---|---|

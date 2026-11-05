@@ -74,7 +74,7 @@ The technique has a single known bearer; no derivation, teacher, location, or or
 
 **Practitioner** · Invocation, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80; S-Grade (401 to 550) on the Spirit Path, pushing toward SS at apex, 551 to 625 strain-only.
 
-**Caps** · Dominion Radius is capped at A off the Attraction Path, keeping the Bloom at combat scale; on Wellspring-absent ground Harmonics Stability holds at S and no higher.
+**Caps** · Dominion Radius is capped at A off the Fate Path, keeping the Bloom at combat scale; on Wellspring-absent ground Harmonics Stability holds at S and no higher.
 
 | Quantity | Working | Result |
 |---|---|---|

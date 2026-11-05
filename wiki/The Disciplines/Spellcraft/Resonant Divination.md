@@ -43,7 +43,7 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 
 **Practitioner** · Transcendence to Realization, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S then SS. Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90, SSS.
 
-**Paths** · Forecast needs the Attraction Path at Splintering to pass S, so off it Forecast caps at 550 at any Stage; Attunement needs Attraction at Welling to pass D.
+**Paths** · Forecast needs the Fate Path at Splintering to pass S, so off it Forecast caps at 550 at any Stage; Attunement needs Fate at Welling to pass D.
 
 **Gates** · Sense needs the Spirit Path at Ascension to pass C; Continuity needs the Fate Path at Refraction to pass S.
 
@@ -89,7 +89,7 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 
 **Grade required** · S-Grade for Bond Reading and Tracking; SS-Grade at Realization for Fate Entanglement and Forecasting; SSS-Grade at Emanation for Dissonance Warning.
 
-**Path gate** · Attraction Path at Splintering to pass S in Forecast and at Welling to pass D in Attunement; Spirit Path for Sense past C; Fate Path for Continuity past S.
+**Path gate** · Fate Path at Splintering to pass S in Forecast, at Welling to pass D in Attunement and for Continuity past S; Spirit Path for Sense past C.
 
 ### FOW line
 
@@ -99,7 +99,7 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 
 **Grade required** · S-Grade, rising to SS-Grade and SSS-Grade.
 
-**Path gate** · Attraction Path for Forecast past S.
+**Path gate** · Fate Path for Forecast past S.
 
 **Resonant Pair** · None
 
@@ -117,4 +117,4 @@ Two things go wrong. The first is the wrong line: a read locked on the wrong res
 
 **Fails against** · A Thick Veil zone; decorrelation by Knot or concealment by Tenebra; a courier with no bonds; a bought loyalty, which it confirms as true; a projection into its band that closes the loop; a decision made in the morning; an administrative answer to the Conclave.
 
-**Look up** · The Transference and Benediction entries and Benediction's failure; the Knot glyph and Tenebra's Suppression; the Thick Veil; the Attraction Path gate for Forecast; the Sonochoral Conclave's charter; the Transcendence, Realization and Emanation Stage tables.
+**Look up** · The Transference and Benediction entries and Benediction's failure; the Knot glyph and Tenebra's Suppression; the Thick Veil; the Fate Path gate for Forecast; the Sonochoral Conclave's charter; the Transcendence, Realization and Emanation Stage tables.

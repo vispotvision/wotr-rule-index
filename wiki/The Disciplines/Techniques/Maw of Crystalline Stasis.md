@@ -100,7 +100,7 @@ As with Vorynn Execution Strike, no teacher or site is recorded for this techniq
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70; Grade A (276 to 400) in Ardency Density, with Vitality Tolerance, Vitality Absorption and Resilience Fortification at A; Body Path.
 
-**Dominion** · Dominion Radius past A needs the Attraction Path at Splintering, so the radius is capped at A; each turn past the first at high output costs a Resilience Fortification check at knuckles and knees.
+**Dominion** · Dominion Radius past A needs the Fate Path at Splintering, so the radius is capped at A; each turn past the first at high output costs a Resilience Fortification check at knuckles and knees.
 
 | Quantity | Working | Result |
 |---|---|---|

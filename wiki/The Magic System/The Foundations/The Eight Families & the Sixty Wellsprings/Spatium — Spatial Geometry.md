@@ -12,11 +12,11 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **The idea** · Distance, absence and the space between. Its three Wellsprings are three ways a soul can be changed by what lies between things: the same thing said from another place, two souls with nothing carried between them, and the shape of what is not there.
 
-**The lens** · A soul whose Essence Typology (its natural lean toward one of the eight Families) is already Spatium is always a little bit somewhere else. One of these three brings that forward: a little at first, and after years of mastery up to double, so that the same Sovereignty at the same Grade holds twice the strangeness and the room gets twice as bad at saying where you are. Another Typology can take them too, at a higher Essence cost and with a rougher result, and a rough result in this Family is a lost afternoon or a lost foot. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
+**The lens** · A soul tempered on one of these three is always a little bit somewhere else: a little at first, and after years of mastery at the lens's home Path up to double, so that the same Sovereignty at the same Grade holds twice the strangeness and the room gets twice as bad at saying where you are. One is Wild, one is Spirit and one is a Wellspring of Fate, so the smallest Family keeps a home on every plane. Away from home half again is the most anyone has got out of one, at a higher Essence cost and with a rougher result, and a rough result in this Family is a lost afternoon or a lost foot. The full account of the lens is on the [[The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings|hub]].
 
 **Stat Affinity** · *Dominion (Sense, Radius) · Harmonics (Synergy, Suppression) · Tempering (Yield, Maturity) · Gnosis (Analysis)*
 
-*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether, **Spirit** the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
+*Each Wellspring below opens on what it is. **The idea** is the concept it lays over a soul's Aether. **Kind** names its home plane, and never locks it: Wild for the Physical World, Spirit for the Soul Plane, Fate for the Plane of Fate, Medium for all three. **On the Body**, **On the Spirit** and **On Fate** say what the lens does to Essence on each Path, through the Aether Shell, the Essence Core and the Attraction Layer in turn. After those, **Spirit** is the transformation it works on the soul, one road of Temperance (the climb of a soul from Stage to Stage), and **Alchemy** the principle it stands for at the bench. Then comes how scholars explain it: Analogue and Mechanism give the physics of what that type of Aether does to a Soul Crystal, Stat Effect what shifts on the sheet, Glyph the forms the Index seats on it, and Failure how it goes wrong.*
 
 ---
 
@@ -25,6 +25,12 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 **The idea** · Change without loss. The same thing said another way, so that what looked like a failure turns out to be fuel in an inconvenient form.
 
 **Kind** · Wild
+
+**On the Body** · A missed fist or a failed block is still energy, and the Shell says it over in another form, so the stumble becomes the next step and the broken punch comes back through the other hand.
+
+**On the Spirit** · A working gone wrong can be restated from the Core in another basis, the same quantity said another way, and a thing described from far enough round starts to answer to the new description.
+
+**On Fate** · A broken oath or a bad debt can be carried over into other terms, and a lost claim turns up as a useful one under a different name, to the admiration of lawyers and the distress of creditors.
 
 **Spirit** · Temperance through motion.
 
@@ -44,9 +50,15 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 ## Transference · *The Living Exchange*
 
-**The idea** · The living exchange. Two souls in tune, giving and taking with nothing carried between them, so that what one holds the other can use.
+**The idea** · The living exchange. Two souls bound on the Plane of Fate and in tune, giving and taking with nothing carried between them, so that what one holds the other can use.
 
-**Kind** · Wild
+**Kind** · Fate
+
+**On the Body** · Strength moves along a bond between two tuned bodies, so one fighter's rested legs turn up under another's tired ones across a short gap, and the body itself can be carried down the line after its energy.
+
+**On the Spirit** · Two Cores in tune can pass a working hand to hand with nothing carried between them, so what one has learned or written the other can use for as long as the tuning holds.
+
+**On Fate** · The bond itself is the road: Essence, fortune and place run along it toward whoever has less, by a gradient neither party agreed to in so many words, and the coupling falls off so sharply that partners on this lens learn not to travel apart.
 
 **Spirit** · Temperance through empathy.
 
@@ -56,7 +68,7 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **Analogue** · Resonant energy transfer between coupled oscillators. Flow along a potential gradient.
 
-**Mechanism** · Two oscillators tuned to the same frequency and held near each other exchange energy without a conductor between them, and the coupling strength falls off sharply with separation. Transference makes the Attraction Layer such an oscillator. Essence moves to an ally because the two Crystals are in tune and near, with nobody pushing, and a gradient does the rest. What the tuning swaps is potential, and it does not have to stop at Essence. Tune the Layer to a mass in place of a Crystal and the two ends become exchangeable: the energy passes first along the line, and the body it belonged to is carried after it by the gradient, in real continuous travel that is merely very fast. Set two bodies in tune with an anchor between them and they trade places. The coupling falls off so sharply that thirty meters is a long crossing, and this is the whole of how the Family's arts get from here to there.
+**Mechanism** · Two oscillators tuned to the same frequency and held near each other exchange energy without a conductor between them, and the coupling strength falls off sharply with separation. That is the scholars' account of a bond on the Plane of Fate. Transference makes the Attraction Layer such an oscillator. Essence moves to an ally because the two Crystals are in tune and near, with nobody pushing, and a gradient does the rest: the tuning is the bond, and Attraction Force running along it does the carrying. What the tuning swaps is potential, and it does not have to stop at Essence. Tune the Layer to a mass in place of a Crystal and the two ends become exchangeable: the energy passes first along the line, and the body it belonged to is carried after it by the gradient, in real continuous travel that is merely very fast. Set two bodies in tune with an anchor between them and they trade places. The coupling falls off so sharply that thirty meters is a long crossing, and this is the whole of how the Family's arts get from here to there.
 
 **Stat Effect** · Strengthens Harmonics Synergy, Projection, Tempering Yield. Essence routes to allies and absorbs ambient Wellspring energy through relational proximity.
 
@@ -68,7 +80,13 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **The idea** · Reading what is missing. The shape of an absence taken as knowledge of the thing that cast it.
 
-**Kind** · Spiritual
+**Kind** · Spirit
+
+**On the Body** · The body learns to bear what has been taken from it, with no fire or force added: a missing finger, a deaf ear or a dead leg stops throwing the fighter, whose limbs now know the exact shape of what is gone and work around it.
+
+**On the Spirit** · The practitioner reads a soul by what it withholds, and derives from the shape of a silence, or of a memory cut out with a clean edge, the thing that used to be there.
+
+**On Fate** · The bond that is not there has a shape too, and the holder reads who is absent from the table, which oath was left out of the contract, and what the odds have stopped mentioning.
 
 **Spirit** · Temperance through eclipse.
 
@@ -78,7 +96,7 @@ The Lantern Run is forty leagues of road in two days with a lit lamp in your han
 
 **Analogue** · Occultation and transit photometry. The information carried by absorption lines.
 
-**Mechanism** · A hidden planet is found by the dip in its star's brightness long before anyone sees it, and a spectrum's dark lines carry more composition data than its bright continuum. Eclipseron tunes perception to the negative: the practitioner reads what has been blocked, subtracted, or withheld, and derives from the shape of the absence the shape of the thing casting it.
+**Mechanism** · A hidden planet is found by the dip in its star's brightness long before anyone sees it, and a spectrum's dark lines carry more composition data than its bright continuum. Eclipseron tunes the perception of the Essence Core to the negative: the practitioner reads what has been blocked, subtracted, or withheld in a soul, and derives from the shape of the absence the shape of the thing casting it. It casts no shadow and dims no lamp, and whether a master can read a sealed box the same way, from the hole it leaves in a room, is claimed by some and argued over by the rest.
 
 **Stat Effect** · Strengthens Gnosis Analysis, Harmonics Suppression, Dominion Sense. The practitioner reads reality by what is missing from it.
 

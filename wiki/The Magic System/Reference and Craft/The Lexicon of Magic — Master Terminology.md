@@ -280,7 +280,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Release** · A practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold, on a clock. First from Stage IV, Second from VII, Third from IX, each found and mastered by fighting. See [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]].
 
-**Path** · The direction advancement actually took: Body, Spirit, Attraction or Fate. Assessed afterward and recorded whether the person agrees or not. It gates how far a stat may rise. See [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]].
+**Path** · The layer of the Crystal a soul has learned to lean on, and so the direction advancement actually took: Body (the Aether Shell, in the Physical World), Spirit (the Essence Core, on the Soul Plane) or Fate (the Attraction Layer, on the Plane of Fate). Assessed afterward and recorded whether the person agrees or not. It gates how far a stat may rise. A Path stands as **Mastered** (its gates are no obstacle at the person's Stage), **Walked** (three parts in ten of their practice or more) or **Studied** (knowledge and small uses, open to anyone, opening no gates). See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
 
 **Continuum** · The lawful fabric of reality, which measures a soul and permits as much as its architecture will bear. It grants no power.
 
@@ -294,7 +294,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 **Tempering** · The Soul Crystal is literally the soul. Tempering melts it down and rebuilds each layer, refines the Essence and makes it stronger, and the body gains Traits.
 
-**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It can highlight and even double a person's natural **Essence Typology** (a Crystal's own bias toward one of the eight Families), starting small and reaching double only with years of mastery. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The physics and every number on the Wellspring pages stand, as how scholars explain it.
+**Wellspring** · An alchemical and a spiritual transformation and concept. It can be seen as a source of power to pull from, and it is more the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It shapes Essence differently on each Path, starting small and reaching double only with years of mastery on its home Path, and half again at most away from it. Its kind (Wild, Spirit, Fate or Medium) names that home and is never a lock. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The physics and every number on the Wellspring pages stand, as how scholars explain it.
 
 **Catalyst** · The event or change a Crystal needs before it will pass a Threshold: a crisis, a long seclusion, a tribulation. **Drafts and blessings can supply one.**
 

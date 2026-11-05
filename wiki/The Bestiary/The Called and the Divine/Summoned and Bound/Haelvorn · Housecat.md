@@ -54,7 +54,7 @@ Bette Quill considered this for some time. "Housecat," she said. "Wants in, want
 | **House Resonance** | Caloria is heat and its absence and the transfer between them, and the Family's own definition is what makes this entry legal rather than perverse. Everything here is a fire power running the current the other way, with no ice power anywhere in it, and the reason the construct is white is that white is what the far end of a fire looks like. Materia arrives underneath and makes the result bear weight |
 | **Essence Family** | **Caloria**, with a declared **Materia** secondary through Basilithe |
 | **Physics Domain** | **Thermodynamics**, with **Material Science** on the load-bearing side only. Every Mechanism field below is heat transport, phase change, or the mechanical consequences of both. Nothing in the kit is a projectile |
-| **Essence Typology** | The donation runs as thirst. Witnesses within the radius describe a sensation of being pulled from rather than pressed on, and several have reached for the word *drinking* independently and then apologized for it |
+| **The Donation** | The donation runs as thirst. Witnesses within the radius describe a sensation of being pulled from rather than pressed on, and several have reached for the word *drinking* independently and then apologized for it |
 
 ---
 

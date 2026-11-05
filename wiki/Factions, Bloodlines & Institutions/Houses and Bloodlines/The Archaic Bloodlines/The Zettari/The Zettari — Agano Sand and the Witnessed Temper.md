@@ -48,7 +48,7 @@ Carried in the Standing Index's T4–T5 table, in that index's own format.
 | Axis | Dawi Cask-Oath | Zettari Witnessed Temper |
 |---|---|---|
 | Governing metaphor | Brewed patience | Witnessed inheritance |
-| Where the magic comes from | Alchemical Essence typology — a chemistry problem | Material Covenant Resonance and the Ancestral Dominion Frame — a lineage and law problem |
+| Where the magic comes from | Alchemical Essence, by Wellspring and Path — a chemistry problem | Material Covenant Resonance and the Ancestral Dominion Frame — a lineage and law problem |
 | The Vow Clause instance | Breaking it costs the oath-breaker's own Crystal Coherence | Breaking it costs the object's recognition of the new holder |
 | The material | Pitch, cured in a fixed hold | Sand from an ascension plane — access-gated, not time-gated |
 | The unexplained mystery | Will not cure outside the hold it was sworn in | Will not "listen" to a claim spoken anywhere but before something older than the speaker |

@@ -42,7 +42,7 @@ Every clause of the subject is in that story, and this page takes them in order.
 
 ## At a Glance
 
-**What it is.** A **vow** is small Fate: a person binding their own probability, spoken aloud, with a price on it. It is anyone's to make. An **oath** is the same small Fate attached to a promise before someone with the standing to hold you to it.
+**What it is.** A **vow** is small Fate: a person binding their own probability, spoken aloud, with a price on it. It is the shallow end of the Fate Path, and it is anyone's to make, because every soul has the layer it is made on. An **oath** is the same small Fate attached to a promise before someone with the standing to hold you to it.
 
 **How it looks.** A line on the window with the bargain and its terms, and a price that shows on the body at once.
 
@@ -57,6 +57,8 @@ Every clause of the subject is in that story, and this page takes them in order.
 ## What a Vow Is
 
 A person says aloud what they will do or will not do, and what it costs them if they fail. Fate attaches. The [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|Essence Core]] takes the restriction up as a standing law, and from then on the odds around that person lean, by a small and exact amount, toward its being kept. A vow is the only part of the Plane of Fate that needs no bloodline, no Stage and no permission. Real Fate Arts are rare and mostly run in the blood. Everybody has a mouth.
+
+**It is made on the Attraction Layer.** That is the part of the Soul Crystal that holds a soul's own share of fate, its bonds, oaths, claims and odds, and every soul has one whatever Path it walks, the unwoken included. A hitter who swears is working the same plane as a nun who swears, with less practice. The Fate Path is what you call it when a soul has learned to lean on that layer: there the binding bites harder and a kept vow pays more, and everybody else makes do with what a mouth and a price can buy.
 
 **It needs no witness.** The stair at Cask Row was empty. The Continuum (the whole lawful order of reality) is the audience, and it does not need to be told twice. A witness is for the person who wants to be held to it, or wants the crowd to know, and the priest Sigrun Ox-Hand swore in front of at Cullen Fair was there to make it a better show.
 
@@ -74,7 +76,9 @@ A person says aloud what they will do or will not do, and what it costs them if 
 
 **Each vow counts on the stack.** Vows are self-boosts, so every one counts against the two-Grade cap, read from the sustainable Grade on the card. See [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]]. They do one thing nothing else in a fighter's own hands does: a vow, or a breakthrough, is the only way across a gap of two Stages, and it still shows in the room first.
 
-**A kept vow pays twice.** Tempering Coherence is the match between a person's stated law and how they live, and it is the Crystal's honest scale at every [[The Magic System/The Soul and the Climb/The Sixteen Stages|Threshold]]. A vow kept buys that with conduct and not with money, so it is the cheapest advancement in the world, priced in the rest of your life. It clusters where Drafts do not reach: soldiers, hedge-workers, the orders and the poor. It is also the most reliable way ever found to grow a [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|Fate Path]], since Hyeon Do-sun sitting at the fourth gate at Kell Harbor was a vow being kept, daily, for seven years, in front of a Crystal that was counting.
+**A kept vow pays twice.** Tempering Coherence is the match between a person's stated law and how they live, and it is the Crystal's honest scale at every [[The Magic System/The Soul and the Climb/The Sixteen Stages|Threshold]]. A vow kept buys that with conduct and not with money, so it is the cheapest advancement in the world, priced in the rest of your life. It clusters where Drafts do not reach: soldiers, hedge-workers, the orders and the poor. It is also the most reliable way ever found to grow a [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Fate Path]], since Hyeon Do-sun sitting at the fourth gate at Kell Harbor was a vow being kept, daily, for seven years, in front of a Crystal that was counting.
+
+**Enough of them is a Path.** The Crystal goes by what a life has been spent on, and it does not ask what you thought you were doing. A hitter with three great vows and twenty years on them may read as having Walked the Fate Path on an honest assay, three parts in ten of her practice gone down that road, and she gets the force bonus and the rough seat that go with two roads, having never once intended either. Plenty of old soldiers discover this at a Threshold.
 
 The filing clerks keep two drawers for all this. On the Unified Taxonomy a vow's working is **Votia**, a working whose currency is a declared price, and the seal it sets on the soul is **Claustra**, the only seal whose anchor is the bearer's own behavior. See [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories]].
 
@@ -175,7 +179,7 @@ Every vow can be answered, and the price of knowing one is usually a round of dr
 
 **The Ox at Cullen Fair.** Sigrun Ox-Hand swore she would not set the ox down till the sun went behind the church, having looked at the sun first. It took four minutes and nearly killed her, and the priest has told it at every wedding since. See [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]].
 
-**The Fourth Gate.** Hyeon Do-sun swore at nineteen that he would walk through Kell Harbor's gate on the day his brother's ship came home. He let his mother die to keep it, One-Ear Pask refused to pay on it, and the Crystal entered it as Fate. See [[The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate|The Four Paths]].
+**The Fourth Gate.** Hyeon Do-sun swore at nineteen that he would walk through Kell Harbor's gate on the day his brother's ship came home. He let his mother die to keep it, One-Ear Pask refused to pay on it, and the Crystal entered it as Fate. See [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].
 
 **Old Gammer Pell.** At the sack of Ostley a very small woman told a Free Company captain she would not die in that house. He set fire to it, with some ceremony. She was found the next morning in the road outside, burned to the waist, having crawled two hundred yards to be right, and she lived another eleven days to enjoy it.
 

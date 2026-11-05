@@ -82,7 +82,7 @@ A Collegium ideomotor school reads it as imagined movement discharging with its 
 
 **Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade)
 
-**Path gate** · Spirit Path, with drift toward Attraction Path
+**Path gate** · Spirit Path, with drift toward Fate Path
 
 ### FOW line
 
@@ -94,7 +94,7 @@ A Collegium ideomotor school reads it as imagined movement discharging with its 
 
 **Grade required** · A-Grade
 
-**Path gate** · Spirit Path, drift toward Attraction Path
+**Path gate** · Spirit Path, drift toward Fate Path
 
 **Resonant Pair · None.**
 

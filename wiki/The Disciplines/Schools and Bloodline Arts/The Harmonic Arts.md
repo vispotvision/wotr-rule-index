@@ -61,7 +61,7 @@ This requires training the Shell's Gate Cycling into a receptive mode: resonance
 | Depth | What it registers |
 |---|---|
 | **Shallow** | The dominant Wellspring frequency of nearby Crystals and the gross tonal output of active workings. |
-| **Deep** | **Overtones.** Secondary and tertiary frequencies revealing Essence Typology, Temperance Stage, Trait architecture, emotional state, Wellspring compatibility, and the subtle harmonic shifts that precede Trait Awakening, Crystal cracking, or Overcast Collapse. |
+| **Deep** | **Overtones.** Secondary and tertiary frequencies revealing Path, Temperance Stage, Trait architecture, emotional state, Wellspring compatibility, and the subtle harmonic shifts that precede Trait Awakening, Crystal cracking, or Overcast Collapse. |
 | **Deepest** | **Attraction Force resonance.** The tonal signatures of connections on the Plane of Fate: the hum of bonds, oaths, Domains, and recognition currents. |
 
 **Temperance Gate** · Stage V (Splintering) for rudimentary perception · Stage VII (Refraction) for overtone differentiation · Stage IX (Invocation) for Attraction Force resonance.
@@ -90,7 +90,7 @@ An Anima Harmonist learns to read this chord the way a physician reads vital sig
 **Trait Identification** · Every Trait hums at the frequency of the law it embodies. A Fixatio Trait gives a quiet, repeating click, bonds setting. A Transmutatio Trait gives a soft rotating hum that keeps shifting key. A Verdantia Trait pulses with organic rhythm. **Compound Traits produce complex harmonic interaction between their component frequencies**, which is how Crystalia specialists identify fusion instability before it becomes dangerous.
 
 **Damage Detection** · Crystal cracking, Trait inversion, Resonance Shear, Triadic Drift, Microfacet Fracturing, and Overcast fatigue all produce characteristic distortions. A trained Harmonist can detect incipient Crystal collapse before the subject experiences symptoms, because **the harmonic distortion precedes the structural failure the way a stress-groan precedes a bridge collapse.**
-> **Fell Chords.** Foreign frequencies embedded in a Crystal's Anima by Mechanica exposure, Veilborne contact, parasitic Wellspring attachment, or involuntary Conjunction. They are audible as tones that do not match the subject's Typology, alignment, or Stage: **notes that should not be in this chord.** Their identification is the first step in spiritual surgery.
+> **Fell Chords.** Foreign frequencies embedded in a Crystal's Anima by Mechanica exposure, Veilborne contact, parasitic Wellspring attachment, or involuntary Conjunction. They are audible as tones that do not match the subject's Wellsprings, alignment, or Stage: **notes that should not be in this chord.** Their identification is the first step in spiritual surgery.
 
 ### Therapeutic applications
 

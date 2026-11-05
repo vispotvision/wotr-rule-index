@@ -228,7 +228,7 @@ Gimbzo is the proof against calling this delusion. **It is simply the direction 
 
 **Practitioner** · Worked for a Master bearer at Transcendence: reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S-Grade (401 to 550).
 
-**Paths** · Hardening needs the Body Path at Ascension to pass C, Fortification at Flourishing to pass B; Gravity needs the Attraction Path at Splintering to pass A.
+**Paths** · Hardening needs the Body Path at Ascension to pass C, Fortification at Flourishing to pass B; Gravity needs the Fate Path at Splintering to pass A.
 
 **Continuity** · Needs the Fate Path at Glory to pass A against displacement and at Refraction to pass S against causal disruption; off it, a teleport at S takes the coupling away.
 
@@ -283,7 +283,7 @@ Gimbzo is the proof against calling this delusion. **It is simply the direction 
 
 **Grade required** · Set by each bearer's own card; a Master bearer at Transcendence strikes at S-Grade.
 
-**Path gate** · Body Path for Hardening and Fortification, Attraction Path for Gravity, Fate Path for Continuity.
+**Path gate** · Body Path for Hardening and Fortification, Fate Path for Gravity and Continuity.
 
 ### FOW line
 
@@ -293,7 +293,7 @@ Gimbzo is the proof against calling this delusion. **It is simply the direction 
 
 **Grade required** · Per bearer.
 
-**Path gate** · Body, Attraction or Fate Path by Sub-Stat.
+**Path gate** · Body or Fate Path by Sub-Stat.
 
 **Resonant Pair** · None
 

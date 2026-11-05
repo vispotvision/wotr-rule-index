@@ -84,7 +84,7 @@ Its author devised this working alone. It carries no filed counter beyond what a
 
 **Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; SSS (726 to 950) on the Spirit Path, which opens Harmonics Suppression above A.
 
-**Caps** · Ardency Penetration is Body-gated above C, so plain matter is left standing; Harmonics Breadth runs capped at B off the Attraction Path, so only three of the nine secondaries do work.
+**Caps** · Ardency Penetration is Body-gated above C, so plain matter is left standing; Harmonics Breadth runs capped at B off the Fate Path, so only three of the nine secondaries do work.
 
 | Quantity | Working | Result |
 |---|---|---|

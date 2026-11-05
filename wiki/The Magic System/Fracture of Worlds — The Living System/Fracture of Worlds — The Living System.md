@@ -50,7 +50,7 @@ The full system is split across child pages below, grouped by what a session act
 1. [[The Magic System/Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)|IV. The Eight Primaries and the Sixty-Four Sub-Stats]], Part Twelve.
 1. [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|V. Wellsprings, Attraction and Obsession, Magic Integration]], Parts Thirteen through Fifteen.
 1. [[The Magic System/Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen)|VI. The Sixteen Temperance Stages]], Part Sixteen.
-1. [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|VII. Aether Class, Essence Typology, Aether Flow]], Parts Seventeen through Nineteen.
+1. [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)|VII. Aether Class, Paths and the Lens, Aether Flow]], Parts Seventeen through Nineteen.
 1. [[The Magic System/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|VIII. Traits, Soul Crystal Tiers, Domains]], Parts Twenty through Twenty-Two.
 1. [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|IX. The Essence Ledger]], Part Twenty-Three. What an EU buys in joules, what a reserve costs to spend, and how fast it comes back.
 1. [[The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four)|X. The Tier Ladders]], Part Twenty-Four.
@@ -71,6 +71,8 @@ Ringside, nobody says any of this. They ask what letter a fighter is and what he
 
 **A Wellspring** is an alchemical and a spiritual transformation, the governing idea that transforms how a soul uses Aether: a lens on magic already potent. It is got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth.
 
+**A Path** is the layer of the Crystal a soul leans on, and there are three: Body (the Physical World, through the Aether Shell), Spirit (the Soul Plane, through the Essence Core) and Fate (the Plane of Fate, through the Attraction Layer). One Path masters fastest. Two take about two and a half times as long and three about six.
+
 **The Plane of Fate** is the control of Attraction Force and Obsession Force and the workings of reality itself. Real Fate Arts are rare and mostly by bloodline, and most people only touch it through a blessing.
 
 **Eight Primary Stats:** Vitality, Ardency, Gnosis, Dexterity, Harmonics, Resilience, Tempering, Dominion. Eight Sub-Stats each, sixty-four in total.
@@ -82,7 +84,7 @@ Ringside, nobody says any of this. They ask what letter a fighter is and what he
 - [IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)](Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md)
 - [V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)](Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md)
 - [VI. The Sixteen Temperance Stages (Part Sixteen)](Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md)
-- [VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)](Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md)
+- [VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen)](Fracture of Worlds — The Living System/VII. Aether Class, Paths and the Lens, Aether Flow (Parts Seventeen–Nineteen).md)
 - [VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)](Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md)
 - [X. The Tier Ladders (Part Twenty-Four)](Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md)
 - [IX. The Essence Ledger (Part Twenty-Three)](Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md)

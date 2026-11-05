@@ -39,7 +39,7 @@ The failure is false degeneracy: the ends were less alike than the tuning claime
 
 **Practitioner** · Splintering or Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; B-Grade (276 to 350 under strain) for swaps, A-Grade (401 to 475 under strain) for identity trades.
 
-**Paths** · Projection needs Attraction at Ascension to pass C, or the coupling is shallow, and at Glory to pass A, or no identity trade at range; Synergy needs Attraction at Glory to pass A; Yield needs Body at Ascension to pass C, or reserve refills slowly.
+**Paths** · Projection needs Fate at Ascension to pass C, or the coupling is shallow, and at Glory to pass A, or no identity trade at range; Synergy needs Fate at Glory to pass A; Yield needs Body at Ascension to pass C, or reserve refills slowly.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -80,7 +80,7 @@ The failure is false degeneracy: the ends were less alike than the tuning claime
 
 **Grade required** · B-Grade for a swap; A-Grade, with a late push toward S-Grade, for an identity trade.
 
-**Path gate** · Attraction Path for deep coupling and for identity trades at range; Body Path for refill.
+**Path gate** · Fate Path for deep coupling and for identity trades at range; Body Path for refill.
 
 ### FOW line
 
@@ -90,7 +90,7 @@ The failure is false degeneracy: the ends were less alike than the tuning claime
 
 **Grade required** · B for swaps; A, late push toward S, for identity trades.
 
-**Path gate** · Attraction at Ascension for Projection past C; Attraction at Glory for Projection and Synergy past A; Body at Ascension for Yield past C.
+**Path gate** · Fate at Ascension for Projection past C; Fate at Glory for Projection and Synergy past A; Body at Ascension for Yield past C.
 
 **Resonant Pair** · None
 
@@ -108,4 +108,4 @@ The failure is false degeneracy: the ends were less alike than the tuning claime
 
 **Fails against** · Distance with nothing left on the ground between; a broken anchor; detuning by Family, saturation or noise; a wrong thing to couple to, left to complete; a Silenced chamber; at Splintering, a lost hand or voice.
 
-**Look up** · The Spatium entries for Transference and Transmutatio Failures; Fixatio's irreversibility; Overchannel's Overflow and Backlash risks; the Silence Realm register; the Splintering and Refraction Stage tables and Attraction and Body Path gates.
+**Look up** · The Spatium entries for Transference and Transmutatio Failures; Fixatio's irreversibility; Overchannel's Overflow and Backlash risks; the Silence Realm register; the Splintering and Refraction Stage tables and Fate and Body Path gates.

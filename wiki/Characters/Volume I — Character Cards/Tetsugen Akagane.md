@@ -3,7 +3,7 @@
 # Tetsugen Akagane
 
 **Tetsugen Akagane** · the Fox · Akagane, the copper line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing beside the copper chair
-**Stat line** · Level 365 · Band IV, Mythic · Stage XI, Dissonance · Path Body 50% / Spirit 30% / Attraction 20% · Grandmaster · η 0.80 · Aether Class II, Harmonic · Crystal Sovereign, Refined, held at the hour
+**Stat line** · Level 365 · Band IV, Mythic · Stage XI, Dissonance · Path Body 50% / Spirit 30% / Fate 20% · Grandmaster · η 0.80 · Aether Class II, Harmonic · Crystal Sovereign, Refined, held at the hour
 **Shown** · Level 190 · Band II · Stage VII, Refraction: the face THE COPPER HEART has held over his Crystal since the year he took the copper chair, and the figure every Hall assessor has entered for forty years
 **Combat grammar** · Percussion: the open hand, the clinch and the heart under it; he has not fought in front of anyone living
 **Aura and sound** · copper and raw red-bronze, like a banked forge under the lamps, with a slow pulse in it that keeps time with his heart; released, the pulse becomes a drum and the copper goes red as fresh blood in a basin · sound: a heartbeat, low, felt in the floor; released, a war-drum under it
@@ -38,13 +38,12 @@
 **Level** · 365
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance; he can see his own Crystal, and has looked, and does not like it. The fracture runs along the Sennen road
-**Path** · Body 50%, Spirit 30%, Attraction 20%. Body holds the heart and the blood; Spirit holds the long read and the books; Attraction holds very little, because he has never sworn to anything he could not walk away from, until the woodpile
+**Path** · Body 50%, Mastered; Spirit 30%, Walked; Fate 20%, Studied. Body holds the heart and the blood; Spirit holds the long read and the books; Fate holds very little, because he has never sworn to anything he could not walk away from, until the woodpile
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.80
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined; old, and kept, and held at the hour
 **Aether Class** · II, Harmonic
-**Essence Typology** · Vitalia: blood, breath, the heart's beat, the body kept
 
 ### The Veil
 

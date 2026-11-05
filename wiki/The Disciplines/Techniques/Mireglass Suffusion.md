@@ -78,7 +78,7 @@ Mireglass Suffusion is filed in the Iridescent Archive, a cataloged repository r
 
 **Fails against** · A read image: a memory has the wrong spectrum for a body (Judicium), and recognition un-splits attention; crowds; Absolution, which empties the traps; Luminalis, which leaves nothing to return; a silenced anchor; bolts from off the glass.
 
-**Look up** · The Iridescent Archive's entry for this working; the Limina entries for Oblivara and Anamnesis Failures; Judicium, Absolution and Luminalis; the Glory Stage table and the Attraction gates.
+**Look up** · The Iridescent Archive's entry for this working; the Limina entries for Oblivara and Anamnesis Failures; Judicium, Absolution and Luminalis; the Glory Stage table and the Fate gates.
 
 ## Numbers
 
@@ -95,7 +95,7 @@ Mireglass Suffusion is filed in the Iridescent Archive, a cataloged repository r
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; Grade B (176 to 275) in Harmonics Attunement and Ardency Cascade; Spirit Path.
 
-**Paths** · Attunement needs the Attraction Path at Welling to pass D, so the silhouette's likeness is coarse and holds only on a target who does not look closely; Cascade stays at B and the film still reaches full radius.
+**Paths** · Attunement needs the Fate Path at Welling to pass D, so the silhouette's likeness is coarse and holds only on a target who does not look closely; Cascade stays at B and the film still reaches full radius.
 
 **Grade** · Read on the Sub-Stats, not the blows: only against three or more standing targets does the room hold a B-Grade strike, and it is paid for by spending them.
 

@@ -225,7 +225,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### Sight Through the Glass · *Signature*
 
-**Gates** · Stage XII, Grade SS Gnosis, Fulguria typology. Anchored to the single Diagnostic Lens, **if the lens is lost or destroyed, the technique is unusable until he consecrates a replacement.**
+**Gates** · Stage XII, Grade SS Gnosis, Fulguria harmonization. Anchored to the single Diagnostic Lens, **if the lens is lost or destroyed, the technique is unusable until he consecrates a replacement.**
 
 **Trigger** · Removes and holds his spectacles.
 

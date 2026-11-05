@@ -69,7 +69,7 @@ The company named the bear Nine Seconds, and it was never a compliment. The rest
 | **House Resonance** | Elevated and judgmental. **Constructs and correspondences under this current develop conviction that outlasts their authorization**, which is the polite Codex phrasing for a Divine Beast that has stopped taking suggestions |
 | **Essence Family** | **Fulguria** |
 | **Physics Domain** | **Electromagnetism.** Every Mechanism field below traces here except Report, which traces to Thermodynamics and says so |
-| **Essence Typology** | Discharge. His donation neither burns nor flows. It accumulates until the potential is intolerable and then equalizes in one event, and there is no partial version of him |
+| **The Donation** | Discharge. His donation neither burns nor flows. It accumulates until the potential is intolerable and then equalizes in one event, and there is no partial version of him |
 
 ---
 

@@ -242,8 +242,8 @@ Practitioners talk exact numbers, so they insult in them. Commons round, and mos
 | Swear | Literal meaning | Strength | Who says it |
 |---|---|---|---|
 | Undeclared. | Climbed without a Path. | firm | Of a dilettante, a man who never committed to anything; the practitioner's form of "pathless," without the theology |
-| Mason. | Body Path: works like a forty-year mason. | firm | Spirit and Attraction men of a Body Path brawler |
-| Midwife. | Attraction Path: works like a forty-year midwife. | firm | Body Path men of an Attraction practitioner, meaning soft; midwives would disagree |
+| Mason. | Body Path: works like a forty-year mason. | firm | Spirit and Fate men of a Body Path brawler |
+| Midwife. | Fate Path: works like a forty-year midwife. | firm | Body Path men of a Fate practitioner, meaning soft; midwives would disagree |
 | Graded hollow. | Below F in the thing that matters. | firm | "Graded hollow in Gnosis" is "stupid" among the ranked |
 | An F. | Lowest lettered Grade. | mild | Any ranked speaker, of any weak showing |
 | Dropped. | Fell to Pressure in front of people. | hard | Of a man who went to his knees at a Stage gap of three or more; said of a practitioner it is a humiliation that follows him |

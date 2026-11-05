@@ -13,7 +13,7 @@ A Concordant Crystal is a Soul Crystal (the soul itself, in its working form) sh
 
 ## What fuses, and what does not
 
-The three layers behave three different ways, and the whole of the art is in the difference.
+A soul has three layers, one to each plane: the Essence Core holds identity on the Soul Plane, the Aether Shell meets the Physical World, and the Attraction Layer is a soul's own share of fate on the Plane of Fate. In a shared frame the three behave three different ways, and the whole of the art is in the difference.
 
 **The Essence Cores never fuse.** Each donor keeps a Core of their own, with their own identity, memory and Traits, and only one of them holds the frame's single point of outward control at a time. The hand-off between donors costs something the Continuum recognizes: it pulls down Dexterity and the Reflex family of Sub-Stats, however well the frame is built. That is the stumble the market saw.
 

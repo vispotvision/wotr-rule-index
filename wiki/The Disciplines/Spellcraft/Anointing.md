@@ -35,7 +35,7 @@ The failure is the empty rite: correct words with no current behind them make a 
 
 **Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70, A-Grade (276 to 400).
 
-**Path** · Oath and Axis need the Attraction Path at Flourishing to pass B, Empathy at Ascension to pass C; off it the mark has low affinity and any A-Grade claim displaces it.
+**Path** · Oath and Axis need the Fate Path at Flourishing to pass B, Empathy at Ascension to pass C; off it the mark has low affinity and any A-Grade claim displaces it.
 
 | Quantity | Working | Result |
 |---|---|---|
@@ -75,7 +75,7 @@ The failure is the empty rite: correct words with no current behind them make a 
 
 **Grade required** · A-Grade
 
-**Path gate** · Attraction Path at Flourishing to pass B in Oath and Axis, and at Ascension to pass C in Empathy.
+**Path gate** · Fate Path at Flourishing to pass B in Oath and Axis, and at Ascension to pass C in Empathy.
 
 ### FOW line
 
@@ -85,7 +85,7 @@ The failure is the empty rite: correct words with no current behind them make a 
 
 **Grade required** · A-Grade
 
-**Path gate** · Attraction Path
+**Path gate** · Fate Path
 
 **Resonant Pair** · None
 
@@ -103,4 +103,4 @@ The failure is the empty rite: correct words with no current behind them make a 
 
 **Fails against** · A Judicium practitioner or a Measurewright at the rite; a higher-affinity claim; a reader who refuses to honor it; a lying officiant's own drift in Coherence; Scission, for a forced one.
 
-**Look up** · The Benediction, Fixatio and Judicium entries and their failures; the Attraction Path gates for Oath, Axis and Empathy; Scission's complication rate; Coronation for rule; the Glory Stage table.
+**Look up** · The Benediction, Fixatio and Judicium entries and their failures; the Fate Path gates for Oath, Axis and Empathy; Scission's complication rate; Coronation for rule; the Glory Stage table.

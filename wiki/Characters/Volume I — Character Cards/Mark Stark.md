@@ -3,7 +3,7 @@
 # Mark Stark
 
 **Mark Stark** · the Boy Who Kept Hold · Kharven, House Stark of Hollenmark · as of the Tenrai keep at Kharven-Seat, the night he sat beside his brother's body under a Stark cloak
-**Stat line** · Level 55 · Band I, Mortal Foundation · Stage II, Welling · Path Body 70% / Attraction 30% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
+**Stat line** · Level 55 · Band I, Mortal Foundation · Stage II, Welling · Path Body 70% / Fate 30% · Apprentice · η 0.35 · Aether Class unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade and shield; the short sword and the round limewood shield on the road, his brother's long northern sword since the Seat
 **Aura and sound** · the Stark cold, thin and bright, a pale gray with a coppery shimmer at its edge like frost on a rust-red leaf · sound: a man talking under his breath, steady and fast, and then stopping
 **Traits** · STARK RIME (Inherited) · tell: frost on the fur at his collar · counter: heat / KEPT HOLD (Primary) · tell: his knuckles white on the hilt · counter: take the hand, not the sword / THE MUTTER (Secondary) · tell: a steady stream of words under his breath · counter: make him stop talking

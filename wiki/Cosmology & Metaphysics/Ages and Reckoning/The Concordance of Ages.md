@@ -160,8 +160,8 @@ Five hundred and seventy-five years, the body of the count, and the era in which
 | Ceiling | Held at | Fell |
 |---|---|---|
 | **Water** | Sixty fathoms below the adit line, held everywhere, under every flag, in every age preceding | Year 90 to 130, to Phreatis-fed lift arrays |
-| **Air** | Depth kills by atmosphere before it kills by roof | Year 150 to 175, to Vectoria draught arrays, funded by the bodies the pumps had already produced |
-| **Heat** | Charcoal will not liquefy iron, and had not, in any age | Year 260 to 310, to Ignivale and Pyraeon forge-arrays, Caloria family, Thermodynamics. Everything above the fourth tier of making comes out of that window, Aethersteel first among it |
+| **Air** | Depth kills by atmosphere before it kills by roof | Year 150 to 175, to worked draught arrays, funded by the bodies the pumps had already produced |
+| **Heat** | Charcoal will not liquefy iron, and had not, in any age | Year 260 to 310, to Ignivale and Pyraeon forge-arrays, by way of plain thermodynamics. Everything above the fourth tier of making comes out of that window, Aethersteel first among it |
 | **Haulage** | Rock is heavy and ropes have a limit | **Never fell.** Was merely lied to, by Weight Ablation glyphwork that misreports the load to the rope rather than lightening it. The industry is built around that lie rather than through it |
 
 What the era built was a dependency. A pumped shaft must be pumped forever, since the array does not stop when the ore stops and the water returns at the rate it always wanted to the moment the array does. An array wants feeding, and the feeding is done by array-keepers, practitioners on a shift who pull from the ground under the pit head, refine it and drive it into the contacts, and who are paid by the hour and may decline to come in. A modern western pit is a permanent argument with the water table conducted at a fixed hourly cost, and the west lost the ability to walk away from that argument some time around Year 140 without noticing it had happened.

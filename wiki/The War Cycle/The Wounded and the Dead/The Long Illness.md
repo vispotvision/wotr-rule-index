@@ -66,7 +66,7 @@ The Research and Archives Division consolidated what follows from four registers
 
 **What goes wrong** · Obstruction, malpresentation, hemorrhage, **and the fever afterward, which is the one that takes the woman who survived the birth.**
 
-**The Wellspring dimension** · **A birth is the formation of a Crystal**, and thin-Veil districts record what the Accord's literature describes as *an elevated incidence of complication* **and what the districts describe considerably more precisely.** Nobody has studied it. **The proposal has been made three times by midwives and has never been made by a physician.**
+**The [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] dimension** · **A birth is the formation of a Crystal**, and thin-Veil districts record what the Accord's literature describes as *an elevated incidence of complication* **and what the districts describe considerably more precisely.** Nobody has studied it. **The proposal has been made three times by midwives and has never been made by a physician.**
 > **What the Accord counts** · Nothing.
 >
 > **Maternal death does not appear in any Accord register because no Division holds the file.**

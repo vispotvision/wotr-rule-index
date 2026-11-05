@@ -24,7 +24,7 @@ Mass ~2.2 kg (hollowed ironwood body plus stretched hide; not stated on the card
 
 ### Codex line
 
-**Benediction** (Vitalia · Biochemistry) primary, the covenant-resonance that lets the beat carry to many Shells at once. **Verdantia** (Vitalia · Biochemistry) secondary, the terrain growth the Domain rhythm moves. Category: **Harmonia** primary (the synchronized cohesion effect), **Domain Weaving** secondary (the terrain-rhythm effect). Glyphs: **Ur** (Balance), attested unchanged; **Ye** (Unity) and **Vor** (Return) in place of the card's unattested "Sa (Rhythm)" and "Vaa (Flow)."
+**Benediction** (Fate · Biochemistry) primary, the covenant-resonance that lets the beat carry to many Shells at once. **Verdantia** (Wild · Biochemistry) secondary, the terrain growth the Domain rhythm moves. Category: **Harmonia** primary (the synchronized cohesion effect), **Domain Weaving** secondary (the terrain-rhythm effect). Glyphs: **Ur** (Balance), attested unchanged; **Ye** (Unity) and **Vor** (Return) in place of the card's unattested "Sa (Rhythm)" and "Vaa (Flow)."
 
 ### Bond and cost
 

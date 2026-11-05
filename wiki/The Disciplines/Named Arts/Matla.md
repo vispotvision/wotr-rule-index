@@ -13,12 +13,12 @@ Everything below is the older reading. What the schools have long taught as the 
 >
 > Where elemental disciplines command fire, water, wind, lightning, or earth, the Material Force governs the deeper principle beneath them all: **why does matter remain matter?**
 
-| **Primary Categories** | Arts · Domain-Weaving · Material Manipulation · Structural Authority · Manifestus Disciplines |
+| **Path** | Body. Matla is the far end of this road, and the Material Force is the road as outsiders climb it. A royal Zettari may have Walked Fate besides, for Matla's jurisdictional side |
 |---|---|
-| **Secondary Categories** | Draft-Compatible · Conjunction-Compatible · Aspect Sovereignty Adjacent · Anti-Structure Phenomena · Totality-Class Frameworks |
-| **Path Alignment** | Primary: Arts / Body-Aligned · Secondary: Conjunction / Attraction-Aligned · Tertiary: Drafts / Spirit-Aligned |
-| **Wellspring Home** | **Materia Primordia** — primal materiality, physical law, form-bearing substance, mass, density, physical presence, and matter's right to endure within Creation |
-| **Secondary Affinity** | Monolithion · Chthonica · Fixatio · Dissolution · Judicium · Absolution · Luminalis · Anamnesis · Cataclysm · Fractura |
+| **Lens** | **Materia Primordia** (Wild): primal materiality, physical law, form-bearing substance, mass, density, physical presence, and matter's right to endure within Creation |
+| **With it** | Monolithion · Chthonica · Fixatio · Dissolution · Judicium · Absolution · Luminalis · Anamnesis · Cataclysm · Fractura |
+| **Form** | Shape, with Strike and, high up, Claim |
+| **Gates** | Matla itself: Zettari blood, and recognition before a Practice is truly theirs. The Material Force: the Aether Class ladder, object to system, by Stage and practice |
 
 ---
 

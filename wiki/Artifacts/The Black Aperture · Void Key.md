@@ -14,7 +14,7 @@ Divine Tool, Domain Anchor (a fixed point that holds a Domain, ground obeying it
 
 ### Physical account
 
-The blade proper reads no mass on any instrument, a documented property of Limina Void-class condensations rather than an oversight; the hilt-and-ring shell alone masses approximately 0.5 kg. Overall length approximately 90 cm, the hilt ring adding roughly 14 cm of diameter (both estimates; the card gives no figures). Because the blade itself carries no weight, the balance point sits inside the ring rather than along the blade, giving it a grip-heavy handling profile unlike any bladed weapon with mass. It does not beat armor by Strike Force at all: Topology Collapse unthreads whatever it touches regardless of proofed Grade, so no harness, however heavily proofed, offers a defense against contact. It fails only against a Class V Radiant Aether Shell or an active, stabilized Domain ward, either of which can resist or dissipate the collapse before it completes.
+The blade proper reads no mass on any instrument, a documented property of Nihiloth condensations rather than an oversight; the hilt-and-ring shell alone masses approximately 0.5 kg. Overall length approximately 90 cm, the hilt ring adding roughly 14 cm of diameter (both estimates; the card gives no figures). Because the blade itself carries no weight, the balance point sits inside the ring rather than along the blade, giving it a grip-heavy handling profile unlike any bladed weapon with mass. It does not beat armor by Strike Force at all: Topology Collapse unthreads whatever it touches regardless of proofed Grade, so no harness, however heavily proofed, offers a defense against contact. It fails only against a Class V Radiant Aether Shell or an active, stabilized Domain ward, either of which can resist or dissipate the collapse before it completes.
 
 ### Operation line
 
@@ -28,11 +28,11 @@ The blade proper reads no mass on any instrument, a documented property of Limin
 
 ### Codex line
 
-Wellspring: Nihiloth (primary), Letheveil (secondary, memory-erasure). Family: Limina. Physics Domain: Entropy, Void and Mind. Category: Silentia, for the Silence Field; Claustra, for the sealed threefold-vow gating. Glyphs, Master Glyph Index attested: *Uur* (Disruption), *Ur* (Balance, used inverted here), *Ie* (Perception, corrected from the card's "Insight").
+Wellspring: Nihiloth (primary), Letheveil (secondary, memory-erasure). Kind: Wild. Physics Domain: Entropy, Void and Mind. Category: Silentia, for the Silence Field; Claustra, for the sealed threefold-vow gating. Glyphs, Master Glyph Index attested: *Uur* (Disruption), *Ur* (Balance, used inverted here), *Ie* (Perception, corrected from the card's "Insight").
 
 ### Bond and cost
 
-Not soulbound to any one bearer; it is held under a threefold vow and Black Concord custody rather than a personal bond. Breaking any clause of the vow triggers a Pressure Reversal that folds the wielder's own Essence inward, a self-directed Crystal Fracture Event. Each Event-Edge strike costs an estimated 80 to 120 EU (the measure of Essence a working spends), consistent with the higher drain Limina Void-class workings carry as a Family. Every use of the Void Gate exacts a separate toll outside the EU economy: one spoken name, forgotten by the opener until the next moonrise. Prolonged gating additionally risks a Vector Collapse of the wielder's own Temperance State, and the corona destabilizes into Cascade Overrun if the blade is held near a high-output Wellspring.
+Not soulbound to any one bearer; it is held under a threefold vow and Black Concord custody rather than a personal bond. Breaking any clause of the vow triggers a Pressure Reversal that folds the wielder's own Essence inward, a self-directed Crystal Fracture Event. Each Event-Edge strike costs an estimated 80 to 120 EU (the measure of Essence a working spends), consistent with the higher drain Nihiloth workings carry. Every use of the Void Gate exacts a separate toll outside the EU economy: one spoken name, forgotten by the opener until the next moonrise. Prolonged gating additionally risks a Vector Collapse of the wielder's own Temperance State, and the corona destabilizes into Cascade Overrun if the blade is held near a high-output Wellspring.
 
 ### Counterplay
 

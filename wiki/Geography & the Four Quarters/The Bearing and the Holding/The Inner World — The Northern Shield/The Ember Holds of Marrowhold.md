@@ -264,7 +264,7 @@ More in the [[Geography & the Four Quarters/The Bearing and the Holding/The Inne
 
 ---
 
-## Flagged Gaps
+## What This Shelf Does Not Have
 
 | Gap | Standing |
 |---|---|

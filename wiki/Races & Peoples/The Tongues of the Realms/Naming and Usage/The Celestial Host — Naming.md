@@ -15,7 +15,7 @@ Everything not marked *attested* is **coined**.
 1. **Function-name**: what the Celestial was Sung to do. The personal identifier; it
 never changes. Two elements: a *function root* and a *measure root*.
 1. **Rank-suffix**: where it sits in its Choir. Changes with every promotion; a
-Celestial that loses it has been stripped (the amendment's own rule).
+Celestial that loses it has been stripped.
 1. **Lawbell-name**: the Archonic principle it is an instrument of. Permanent; losing
 it is the Severance. It is the Archon's own name, unmodified, carried as a third
 

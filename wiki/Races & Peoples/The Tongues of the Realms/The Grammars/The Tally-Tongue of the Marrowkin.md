@@ -269,10 +269,6 @@ The wall never states the offense. It states the grade and the count of unentere
 
 **Marrowkin speakers of Common** state the copula every time, name the doer every time, mark every act as entered or unentered, and refuse to express intention without swearing, so their Common reads as pedantic, over-precise and evasive in turn. The speaker is using the only distinctions they have, in a voice with a floor under it.
 
-## Provenance
-
-Attested in canon: the Tally and the Tally's Weight, the Great Cask-Oath and the Kegshard record, the Oath-Breakers' public wall, Old High Runic as pre-Rite-of-Bound-Geometry sacred inscription, the Barkstone dialect as the working language, the external register, Old Alchemic Song as the tonal brewing register, the Hollow Dialect and the physical cause of its vocal quality, Mirror-Sign as the Deepkin operational language, Mathematical Cadence in formal speech, Soul-Rune inscription as a lifetime record on the body, and the Rite of Bound Geometry. From the naming canon: Norse dithematic compounding over Finnic phonology, consonant gradation as the signature, and the oath-name as a genuine slot whose loss is structurally identical to breaking the oath. All of it was first recorded under the names Runic Dawi, Common Dawi and Low Dawi, and the words stand.
-
-**Names retired.** The Tongues framework once called this tongue *Khazalid*, a placeholder no source used; it later stood as *Runic Dawi*. Nothing in the grammar depended on either.
+## Notes on the Sources
 
 **On Lattice Tongue.** Varun sources describe Lattice Tongue as foundational Parunic access rather than a language of the people, and it is treated that way here. It belongs with the Descent of Parun, not with this grammar. The Varun claim that Old High Runic is a parallel access to the Lattice rather than an ancestor of the spoken tongue is recorded as their position and is not adopted, since no other lineage accepts it and the numeral cognates point the other way.

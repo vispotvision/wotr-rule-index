@@ -52,7 +52,7 @@ An entry describes a line, and the animal in front of you has been eating. The H
 | **T3** | Moderate Threat | Greater Wolf · Sasquatch · Dryads · Lid-crawler |
 | **T4** | High Threat | Unicorn · Harpy · Skeletal Folk · Neiman Lion · Psy-Apes · Ghouls · Bai Ze · Hippogrif · Siren · Pegasus · Glarewing · Reaching Briar · Haze-kite · Stilt |
 | **T5** | Extreme Threat | Bicorn · Griffon · Goliath · Raiju · Lamia · Living Armor · Minotaur · Cyclops · Basilisk · Cockatrice · Hellhound · Manticore · Sump-toad · Tolling Crab · Mourning Pike · Greywalker |
-| **T6** | Domain Threat | Wyvern · Sea Serpent · Arachne · Wendigo · Lamp-drinker |
+| **T6** | [[The Magic System/The Soul and the Climb/Domains\|Domain]] Threat | Wyvern · Sea Serpent · Arachne · Wendigo · Lamp-drinker |
 | **T7** | Realm Hazard | Wyrm · Night Gaunt · Gorgon · Phoenix |
 | **T8** | Cataclysmic Entity | Hydra · Voidwyrm · Cerberus |
 | **T9** | Apocalyptic Beast | **Leviathan · Lich · Kraken** |
@@ -107,7 +107,7 @@ The last line is the one to read, because an ordinary wolf has no reserve to rep
 
 ## Who to Bring
 
-A creature's Leans on line reads the same way a person's Path does, and the three roads beat one another the way [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] says they do. Each entry below gives the short form. Stage, ground and preparation decide which of it holds on the day.
+A creature's Leans on line reads the same way a person's Path does, and the three roads beat one another the way [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] says they do. Each entry below gives the short form. [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]], ground and preparation decide which of it holds on the day.
 
 | It leans on | Bring | Why | What goes wrong |
 |---|---|---|---|

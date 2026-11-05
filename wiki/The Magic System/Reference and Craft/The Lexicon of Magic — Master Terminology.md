@@ -144,7 +144,7 @@ A role left wholly empty does nothing: no seal, no working, no cost. Only a sent
 
 ## XI · Failure, damage and pathology
 
-> The most-used vocabulary in the project, and the least standardized. Everything here describes a way a working, a Crystal or a region goes wrong.
+> The most-used vocabulary on these shelves, and the least standardized. Everything here describes a way a working, a Crystal or a region goes wrong.
 **Crystal Fracture Event** · A Soul Crystal splitting under trauma or overload. Produces erratic casting and identity leak.
 
 **Dead Set** · A Threshold melt that cools with no adequate Trait seed to nucleate around. The Stage does not advance, Clarity and Compression fall, and a Trait is commonly lost outright. In the halls, a seat that never took. **Slag** in every other register. Three names, one failure, and Dead Set is the name on the record; said of a district rather than a man, slag means Residue.
@@ -259,7 +259,7 @@ A role left wholly empty does nothing: no seal, no working, no cost. Only a sent
 | **Page** | Phenomenon, mechanism and the system and science words that name it, what the body and the blade did, the tell, the fault, injury by named structure, what the character cannot do next, what a room smells like afterward |
 | **A window** | The bearer's own Grades, percentages, bars and levels: damage, reserve, skill gains, Trait levels, a class's name, a blessing's line, a Release or Domain with what it changed. EU, AU/s and η stay out of it and live in the notes |
 | **A mouth, an instrument, a document, a private count** | Stage, Band, Grade, Class, η, EU, AU/s, Sub-Stat names, Path, Form, Wellspring assignments |
-| **Workbook only** | The Design Chain as a form, the Codex assignment line, stat ledgers, the author's own arithmetic |
+| **Workbook only** | The Design Chain as a form, the Codex assignment line, stat ledgers, the compiler's own arithmetic |
 
 > **The explaining voices.** The point-of-view character's own read, capped at their competence and frequently wrong, with a confident wrong answer set right on the page before the scene moves on. The knowledgeable second. The opponent, using contempt as instruction. The wielder, bragging. The document at a scene's threshold. **Any of them may explain in any engagement, and narration explains the rest** in the POV's own words, a trained POV in the terms of the art and an untrained one in plainer, more wondering ones.
 

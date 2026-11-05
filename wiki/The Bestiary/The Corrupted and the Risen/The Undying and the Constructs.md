@@ -10,7 +10,7 @@ Dob Tanner of Grey Marsh sat up at his own wake, in the second verse of the bury
 
 The hedge-worker had nothing to do with the rising, as it turned out, and was hanged anyway. The trouble lay in the marsh, and it lay in what a corpse is supposed to do.
 
-> Four of the five are **holes in the Crossing** (the nine days after a death, in which a person comes apart into three things that go their separate ways: the Echo, the residue that goes home to its Wellspring, and the Name-record). A Skeletal Folk, a Zombie, a Ghoul and a Lich are all bodies whose three products **have been prevented from parting**, which is exactly the configuration the necromancy prohibition exists to describe.
+> Four of the five are **holes in the Crossing** (the nine days after a death, in which a person comes apart into three things that go their separate ways: the Echo, the residue that goes home to its [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]], and the Name-record). A Skeletal Folk, a Zombie, a Ghoul and a Lich are all bodies whose three products **have been prevented from parting**, which is exactly the configuration the necromancy prohibition exists to describe.
 >
 > **Living Armor is the exception, and Living Armor is the exception because there was never a body.**
 
@@ -24,7 +24,7 @@ The hedge-worker had nothing to do with the rising, as it turned out, and was ha
 
 **Leans on** · the Shell, by a Medium Mortalis and a Wild Nihiloth working what is left of the flesh. *Body:* the head, the knees and a good pitchfork. *Spirit:* nothing is home, and a priest can tell the ground so. *Fate:* they follow the last thing they were told, so change it.
 
-Corpses reanimated by corrupted Wellspring energies, necromantic ritual, or abyssal taint. **Unlike Skeletal Folk they retain decayed flesh and sluggish motor function**, driven by primal hunger or necromantic command. **Their numbers swell rapidly in plague zones and on battlefields scarred by Abyssal or Corrupted Essence.**
+Corpses reanimated by corrupted Wellspring energies, necromantic ritual, or abyssal taint. **Unlike Skeletal Folk they retain decayed flesh and sluggish motor function**, driven by primal hunger or necromantic command. **Their numbers swell rapidly in plague zones and on battlefields scarred by Abyssal or Corrupted [[The Magic System/First Steps/The Core Vocabulary|Essence]].**
 
 Decaying corpses with rotting flesh, exposed bone and festering wounds. Jerky uncoordinated movement, **eyes glowing faintly with corrupted Essence or pale blue light.** *Clothing and armor remnants hint at their past lives*, and a practiced crew checks the purse before the head, since the dead pay no fees and the living do.
 
@@ -88,7 +88,7 @@ Relentless and unyielding, operating in packs or under command, **driven by bind
 
 **Undying, Archmage Undead · T9, Apocalyptic Threat · Mortalis, Nihiloth and Anamnesis, intertwined through powerful necromantic rites · ruined fortresses, ancient crypts, shadowed sanctums**
 
-**Leans on** · all three, since it used to be a person, and a Spirit Path one by long habit, on Mortalis, Nihiloth and Anamnesis. *Body:* the bones are the least of it, and getting there is still how most of them die. *Spirit:* the phylactery holds the Crystal, and a soul can be reached in it. *Fate:* it has outlasted a great many reasons to die, and each of them is a thread somebody can look for.
+**Leans on** · all three, since it used to be a person, and a Spirit Path one by long habit, on Mortalis, Nihiloth and Anamnesis. *Body:* the bones are the least of it, and getting there is still how most of them die. *Spirit:* the phylactery holds the [[The Magic System/The Soul and the Climb/The Soul and the Climb|Crystal]], and a soul can be reached in it. *Fate:* it has outlasted a great many reasons to die, and each of them is a thread somebody can look for.
 
 > **Powerful necromancers who have bound their souls to phylacteries**, transcending mortality through dark Wellspring rituals.
 >

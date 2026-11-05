@@ -26,7 +26,7 @@ Not a weapon; the Item Guide's proof-mark and armor-tier fields do not apply. Ov
 
 ### Codex line
 
-Wellspring: Verdantia (primary), Benediction (secondary, wards). Family: Vitalia. Physics Domain: Biochemistry. Category: Aetherica (light-projection effects), with a Concordia reading for the Domain-anchor bond itself. Glyphs, Master Glyph Index attested: *Ur* (Balance, Root, Urion), *On* (Light, Root, Maelor), *Yn* (Bloom, attested under Pair VI). *Lu* and *Fa* as originally written on the card are not attested forms and do not appear in the final Codex line.
+Wellspring: Verdantia (primary), Benediction (secondary, wards). Kind: Wild. Physics Domain: Biochemistry. Category: Aetherica (light-projection effects), with a Concordia reading for the Domain-anchor bond itself. Glyphs, Master Glyph Index attested: *Ur* (Balance, Root, Urion), *On* (Light, Root, Maelor), *Yn* (Bloom, attested under Pair VI). *Lu* and *Fa* as originally written on the card are not attested forms and do not appear in the final Codex line.
 
 ### Bond and cost
 

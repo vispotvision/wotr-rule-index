@@ -70,7 +70,7 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 
 **The Physical layer** · What the surgeon can see. Torn tissue, broken bone, opened vessel. **Treated conventionally and successfully, and this is the majority of the work.**
 
-**The Essence layer** · What the surgeon infers. Conduction channels cut, resonance nodes disrupted, **the patient reporting that a technique they have used for twenty years does not answer.** Not visible, not treatable by the knife, **and frequently the injury the patient actually cares about.**
+**The [[The Magic System/First Steps/The Core Vocabulary|Essence]] layer** · What the surgeon infers. Conduction channels cut, resonance nodes disrupted, **the patient reporting that a technique they have used for twenty years does not answer.** Not visible, not treatable by the knife, **and frequently the injury the patient actually cares about.**
 > **A practitioner who has lost a hand and lost a harmonization will grieve the harmonization.**
 **The Hermetic layer** · The fragment. **The layer that will kill a patient the surgeon has otherwise saved.**
 

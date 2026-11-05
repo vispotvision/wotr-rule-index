@@ -52,7 +52,7 @@ The tollhouse roof came down in the harbor with the tollkeeper's best hat still 
 
 **Stat Effect** · Strengthens Resilience Persistence, Harmonics Stability, Vitality Tolerance. The character operates where other practitioners suffocate.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Rapid ascent. Return to ordinary Aetheric density too fast and the equalized interior comes out of solution, which is as unpleasant metaphysically as it is in a diver.
 
@@ -128,7 +128,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Stat Effect** · Strengthens Tempering Maturity, Harmonics Attunement. Stage transitions become smoother and less violent.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Deferred load. The work is redistributed and none of it is reduced. Practitioners mistake the absence of crisis for the absence of cost and arrive at the next Stage owing the difference.
 
@@ -272,7 +272,7 @@ Bertil Ashgrove kept a barber's chair on Mill Gate with a red-striped pole and a
 
 **Stat Effect** · Strengthens Tempering Yield, Harmonics Stability. The residue of destruction becomes recovery material.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Fouling. Accumulated residue eventually coats the conduit rather than feeding it, and recovery rate collapses precisely when the practitioner has spent the most.
 
@@ -651,7 +651,7 @@ No dice yard between Marrowhold and the sea will seat Lu Qinghe, the Scalpel of 
 
 **Stat Effect** · Strengthens Ardency Depth, Gnosis Acuity. The practitioner integrates contradictory Wellspring energies without resonance conflict.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Catalyst poisoning. One strongly-binding contaminant occupies the active sites permanently, and the practitioner loses not one harmonization but the capacity to hold any pair at all.
 
@@ -911,7 +911,7 @@ Ingrid Stenhammar fought the Stage brackets at Tollgate for six summers as the C
 
 **Stat Effect** · Strengthens Ardency Flux, Ardency Depth, Vitality Tolerance. Output burns hotter. The body stops minding heat.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Thermal debt. The energy that stayed resident has to leave eventually, and it leaves through whatever tissue is nearest when the working ends.
 

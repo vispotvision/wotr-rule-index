@@ -26,7 +26,7 @@ A katana-form blade: plausible mass 950 g, blade length 85 cm, overall length wi
 
 ### Codex line
 
-Wellspring: **Mortalis**, primary (Vitalia · Biochemistry). Secondary: **Verdantia**. Category: **Vocatia** (Native Crystal Provenance, per the Called Summon Register), with an **Animatria** facet for the manifested companion shape. Glyphs: `Ma` (Memory), attested; `Ur` (Balance), independently confirmed, Root, Urion; `Ci` (Order, corrected from the card's "Cycle"), attested.
+Wellspring: **Mortalis**, primary (Medium · Biochemistry). Secondary: **Verdantia**. Category: **Vocatia** (Native Crystal Provenance, per the Called Summon Register), with an **Animatria** facet for the manifested companion shape. Glyphs: `Ma` (Memory), attested; `Ur` (Balance), independently confirmed, Root, Urion; `Ci` (Order, corrected from the card's "Cycle"), attested.
 
 ### Bond and cost
 

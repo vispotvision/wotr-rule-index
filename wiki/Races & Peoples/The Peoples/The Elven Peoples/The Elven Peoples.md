@@ -40,7 +40,7 @@ Florwyn sang the Realmsong of Edenis and the **Vey-Elarin** were tuned into bein
 >
 > **The Ice-Voice Conflict** and **the Celestial Accord refusal** are what happens when the first of those three turns out not to be able to hold all of its own children either.
 
-A note on the tables below. The stat columns are the Guild's measure of what a people's soul architecture adds to or takes from a practitioner: **Vitality** for wounds, **Ardency** for output and the punch through worked armor, **Gnosis** for knowledge and the read, **Dexterity** for measure and reaction, **Harmonics** for attunement and the pull of Aether from the ground, **Resilience** for what a working does to the Crystal, **Tempering** for control and how long a working can be pushed, **Dominion** for spatial authority and Pressure. A **Domain** is the territory in which a high-Stage practitioner's own law holds, and a **glyph** or phoneme is a unit of Parunic, the script that writes boundaries onto laws. The elves will tell you the Guild's measure misses the point. It does, and it also predicts who wins.
+A note on the tables below. The stat columns are the Guild's measure of what a people's soul architecture adds to or takes from a practitioner: **Vitality** for wounds, **Ardency** for output and the punch through worked armor, **Gnosis** for knowledge and the read, **Dexterity** for measure and reaction, **Harmonics** for attunement and the pull of Aether from the ground, **Resilience** for what a working does to the Crystal, **Tempering** for control and how long a working can be pushed, **Dominion** for spatial authority and Pressure. A **Domain** is the territory in which a high-[[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] practitioner's own law holds, and a **glyph** or phoneme is a unit of Parunic, the script that writes boundaries onto laws. The elves will tell you the Guild's measure misses the point. It does, and it also predicts who wins.
 
 ---
 
@@ -51,7 +51,7 @@ The branch that answered the Great Spirit War **by tightening.** Where the High 
 From the Eressean's own perspective this betrays nothing of the Kinship Doctrine. It is the Doctrine taken with maximum seriousness: if the land is owed a promise, the promise should be kept in exactly the same words, exactly the same order, every single time, **because a people who improvise their reverence are a people already halfway to abandoning it.**
 > Visitors take Velthaeir, the Floating Archive-City, for a monument to Eressean vanity. **It is a monument to Eressean terror of forgetting anything correctly.**
 
-Its seat is **Vaelmarr**, where the **Sunroot Court**, Saeloria's court, sits and votes; Velthaeir keeps the record apart from it, entering everything and giving out nothing. The whole of it, and every daughter-branch below, stands on the elven old-ground of the **New World**, the Eastern Rise, the older of its two grounds, and nowhere in the Old World *(ruled 2026-09-12)*.
+Its seat is **Vaelmarr**, where the **Sunroot Court**, Saeloria's court, sits and votes; Velthaeir keeps the record apart from it, entering everything and giving out nothing. The whole of it, and every daughter-branch below, stands on the elven old-ground of the **New World**, the Eastern Rise, the older of its two grounds, and nowhere in the Old World.
 
 ### Cultural traits
 
@@ -109,7 +109,7 @@ Their seasonal movement through forest territory has nothing of homelessness in 
 | **Dexterity** | +05 | Certainty over speed: Economy high, Celerity middling |
 | **Harmonics** | **+30** | **Definitive stat.** Fate-Path-heavy resonance; in bonded territory a Varrisak's Harmonics are read as **the forest's own** |
 | **Resilience** | +20 | Damage distributes across bonded territory rather than localizing, so a deeply rooted Varrisak is genuinely harder to finish than to merely wound |
-| **Tempering** | +05 | Efficient through depth rather than discipline; Coherence is high specifically because behavior, Path, and Crystal have never been asked to disagree |
+| **Tempering** | +05 | Efficient through depth rather than discipline; Coherence is high specifically because behavior, [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate\|Path]], and Crystal have never been asked to disagree |
 | **Dominion** | +25 | Territory-as-self Domain law, the most literal of any elven lineage; in the most bonded cases, **simply how far the forest currently breathes** |
 
 ### Relations

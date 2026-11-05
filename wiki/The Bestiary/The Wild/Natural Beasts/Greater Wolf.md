@@ -14,7 +14,7 @@ The reeve of Ebbe's Fold posted two silver a pelt one hard winter, on the church
 
 **Leans on** · the Layer, by Transference, Fate, and the Pack Bond is what it does with it. *Body:* stand sound, stand together and kill the alpha pair, and a pack is some large wolves. *Spirit:* the Essence signals pass soul to soul, and a Listener can hear the flank before it comes. *Fate:* cut the bond and lose a week. Most of a pack's own Fate is the reason it found you.
 
-Greater Wolves are natural-born hunters, evolved from mortal wolf stock but heavily shaped by Transference's Aether, which granted them heightened intelligence, endurance, and pack coordination. Their line traces to the primal forests of the Innerworld and Material World borderlands, where Wellspring energy runs richest through the wilds.
+Greater Wolves are natural-born hunters, evolved from mortal wolf stock but heavily shaped by Transference's Aether, which granted them heightened intelligence, endurance, and pack coordination. Their line traces to the primal forests of the Innerworld and Material World borderlands, where [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] energy runs richest through the wilds.
 
 Larger and more muscular than ordinary wolves, with dense fur ranging from silver-gray to deep charcoal, often mottled with patches of white or black. Their eyes gleam intelligent amber or icy blue, and their movement is fluid and predatory. Some packs bear faint Essence markings that glow subtly during a hunt.
 

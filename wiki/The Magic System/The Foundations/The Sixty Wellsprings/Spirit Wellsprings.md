@@ -158,7 +158,7 @@ Dame Hesketh Rook, the Mallet of Copper Row, fought nine summers in the Tollgate
 
 **Stat Effect** · Strengthens Tempering Maturity, Resilience Integrity. Past failures become structural reinforcement.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Autoimmunity. The record generalizes past its target and the practitioner begins answering their own tissue as though it were the original insult.
 
@@ -376,7 +376,7 @@ Dame Hesketh Rook, the Mallet of Copper Row, fought nine summers in the Tollgate
 
 **Stat Effect** · Strengthens Harmonics Stability, Dominion Gravity, Vitality Constitution. Baseline output does not fluctuate with environmental pressure.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Integral windup. A regulator held against a load it cannot overcome accumulates correction, and when the load lifts the correction discharges all at once.
 
@@ -448,7 +448,7 @@ Dame Hesketh Rook, the Mallet of Copper Row, fought nine summers in the Tollgate
 
 **Stat Effect** · Strengthens Vitality Threshold, Tempering Coherence, Resilience Integrity. The Crystal aligns more honestly with lived behavior.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Strain embrittlement. Past a certain dislocation density the material has no ductility left, and the next load does not deform it. It ends it.
 
@@ -520,7 +520,7 @@ Dame Hesketh Rook, the Mallet of Copper Row, fought nine summers in the Tollgate
 
 **Stat Effect** · Strengthens Tempering Maturity, Resilience Integrity, Dominion Fate. Past trauma sites become the strongest points in the Crystal's architecture.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Stress shielding. Load bypasses the reinforced region entirely, and everything adjacent to the old wound quietly demineralizes for want of use.
 

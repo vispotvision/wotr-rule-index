@@ -16,7 +16,7 @@ Nobody ever wrote down how he sounded, and that is the first thing to know about
 
 ## The Rule That Governs Everything Below
 
-**Nothing here is spelled.** (This page's rule on spelling has been overtaken at the table: R79-5 writes accents in full phonetic spelling, with each card setting how heavy. The levers below carry a speaker either way.)
+**Accents go down in full phonetic spelling, each speaker as heavy as the ear finds them.** The levers below carry a speaker either way.
 
 Eye-dialect, rendering a speaker's vowels phonetically on the page, is barred outright. It slows the reader, it makes the speaker look stupid, and it is never applied evenly, because nobody ever spells the duke. A page that writes *'appen* for a Northern soldier and prints the Palatine's vowels in standard orthography has made an argument the author did not intend to make and cannot take back.
 
@@ -122,19 +122,3 @@ Two or three fixed habits each, consistently used. Not spelling.
 **Pietro.** Cant, fluently, in rooms where cant is a provocation. Uses the Latin column mockingly and correctly, which is the tell: he can do the high register and chooses not to, and the choosing is the contempt. *Attest* in his mouth means to lie for a friend.
 
 **Kharven commons.** Not a Concord accent at all and should never be written as one. The Standing Inventory carries the idiom: the forearm grip, *how's your stack*, *wet wood*, the fixed proverbs. A Kharven speaker's Common is placed by which proverbs he translates and which he leaves in the original.
-
-**Still owed a pass:** Wren and Bram Greymane, Charles Lambert, Tabitha Hallenfeld, Osric, Torven Greis, and the Kharven-seat household around Hild.
-
-## Author Notes
-
-Real-world substrate, named per the research rule.
-
-**Style-shifting and hypercorrection.** Labov's 1966 New York department-store study: prestige forms stratified by store rank and rising with attention to speech, with hypercorrection concentrated in the group immediately below the one being imitated.
-
-**Covert prestige.** Trudgill's Norwich work, with the standard critique attached: that it can romanticize constraint, since vernacular forms are sometimes maintained for want of access to the standard rather than from positive valuation.
-
-**Accommodation.** Giles's communication accommodation theory, including the upward and downward axis, over-accommodation as perceived condescension, and objective convergence carrying divergent intent, illustrated by the Catalan and Castilian norm.
-
-**Indexicality and linguistic capital.** Silverstein and Bourdieu, and the third-wave move associated with Eckert that treats variation as deliberate stylistic practice rather than a passive readout of social category. This is the license for characters who *use* their accents rather than merely having them, and it is what keeps this page from being a table of stereotypes.
-
-**Shibboleths.** The Sicilian Vespers of 1282, the Matins of Bruges of 1302, Kraków in 1312, and the eighteenth-century runaway advertisements identifying absconders by regional accent. The historicity of the medieval anecdotes is disputed in each case, which does not matter for the craft point: what recurs is the shape, an ordinary word chosen because it cannot be faked.

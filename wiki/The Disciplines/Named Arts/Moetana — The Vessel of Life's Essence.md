@@ -4,7 +4,7 @@ title: Moetana — The Vessel of Life's Essence
 
 # Moetana — The Vessel of Life's Essence
 
-**MOETANA** (燃器 · Moetana) (Conjunctia-class transformation state)
+**MOETANA** (燃器 · Moetana) (transformation state; all three layers at once; Sing, Strike)
 
 They buried Hana Sekiguchi at forty-one with the hands of a grandmother, and four hundred came down the hill in orange sashes to see it done properly. She had asked for no sermon, so her steward stood on a rice barrel and read out her ledger instead: every fight she had ever spent the state on, the minutes, and the days of life it had cost her. At each entry the crowd bellowed the name of the fight and drank. A Measurewright in the back row kept the sum on his sleeve and got to eleven years. Her widower, asked about it, said she had always been bad at haggling and that he had seen what she bought.
 
@@ -32,13 +32,13 @@ They buried Hana Sekiguchi at forty-one with the hands of a grandmother, and fou
 
 | Field | Value |
 |---|---|
-| **Ability** | Moetana: Conjunctia-class transformation state |
-| **Family** | Cross-Family. Vitalia primary, Fluxia secondary, **all eight Families accessed through triaxial resonance during activation** |
+| **Ability** | Moetana: transformation state, every harmonized lens at once |
+| **Path** | Any. The lock asks all three layers to agree, whichever one the person has lived on, and the layer they lean on hardest sets how it goes wrong (below) |
+| **Lens** | Coagula (Wild) for the alignment, Anima Spirare (Wild), Oblation (Fate), Mirithane (Spirit), and **every Wellspring the practitioner has harmonized during activation** |
 | **Affinity** | Unitary. **Not a single Affinity: the alignment of every Affinity the practitioner has harmonized** |
-| **Method** | Harmonia, with Corporis integration (the body is restructured by the alignment) |
-| **Physics Domain** | Biochemistry primary, Fluid Dynamics secondary |
+| **Form** | Sing, with Strike where the body is restructured by the alignment |
 | **Phenomenon** | Coherent phase-locking of coupled oscillators. Constructive interference across three resonant systems |
-| **Prerequisites** | Harmonization across a minimum of three Families. Crystal in **Refined** state. Emotional, physical and cognitive equilibrium sufficient to initiate phase-lock |
+| **Gates** | Harmonization with at least three unlike Wellsprings. Crystal in **Refined** state. Emotional, physical and cognitive equilibrium sufficient to initiate phase-lock |
 
 > **Rarity: extreme.** The prerequisites are individually common but conjunctively demanding. Most who meet the harmonization requirement lack the equilibrium. Most who possess the equilibrium lack the breadth.
 >
@@ -61,10 +61,10 @@ Identical frequency, identical phase, identical priority. The output is no longe
 
 | Wellspring | Function |
 |---|---|
-| **Coagula** *The Unifying Pulse, Materia · Primary* | Unity drawn from dissolution. **The alignment mechanism.** Treats the three layers as fragments that were always meant to be one thing, and pulls them toward phase-lock the way gravity pulls mass toward center. **With it, synchronization becomes a gravitational tendency rather than an act of will** *Strengthens Resilience Integrity, Tempering Coherence* |
-| **Anima Spirare** *The Soul's Breath, Vitalia · Secondary* | **The vitality engine that sustains the lock.** Triaxial alignment is metabolically expensive: body, spirit and relational architecture all running at maximum coherence at once. The cooperative curve steepens delivery to match demand, **keeping fuel ahead of burn for as long as reserves hold** *Strengthens Vitality Hemostasis, Regeneration, Harmonics Synergy* |
-| **Oblation** *The Offering Flame, Fluxia · Tertiary* | **The cost mechanism.** Willingness to pay soul-cost, measured as actual vital expenditure, not EU, translates directly into duration and intensity. Bernoulli's principle: what is surrendered in one term appears in another, **and the sacrifice adds nothing to the total. Lifespan given up buys no new power: it is traded, at an exact rate** *Strengthens Harmonics Axis, Dominion Command, Tempering Yield* |
-| **Mirithane** *The Wellspring of Reflection, Limina · Support* | **The equilibrium diagnostic that permits activation.** Any self-deception, any gap between who the practitioner is and who their Shell is expressing, prevents synchronization. Mirithane closes the gap by making the mirror accurate, **which is why Moetana requires not calm, not serenity, but honesty** *Strengthens Harmonics Attunement, Tempering Coherence* |
+| **Coagula** *The Unifying Pulse, Wild · Primary* | Unity drawn from dissolution. **The alignment mechanism.** Treats the three layers as fragments that were always meant to be one thing, and pulls them toward phase-lock the way gravity pulls mass toward center. **With it, synchronization becomes a gravitational tendency rather than an act of will** *Strengthens Resilience Integrity, Tempering Coherence* |
+| **Anima Spirare** *The Soul's Breath, Wild · Secondary* | **The vitality engine that sustains the lock.** Triaxial alignment is metabolically expensive: body, spirit and relational architecture all running at maximum coherence at once. The cooperative curve steepens delivery to match demand, **keeping fuel ahead of burn for as long as reserves hold** *Strengthens Vitality Hemostasis, Regeneration, Harmonics Synergy* |
+| **Oblation** *The Offering Flame, Fate · Tertiary* | **The cost mechanism.** Willingness to pay soul-cost, measured as actual vital expenditure, not EU, translates directly into duration and intensity. Bernoulli's principle: what is surrendered in one term appears in another, **and the sacrifice adds nothing to the total. Lifespan given up buys no new power: it is traded, at an exact rate** *Strengthens Harmonics Axis, Dominion Command, Tempering Yield* |
+| **Mirithane** *The Wellspring of Reflection, Spirit · Support* | **The equilibrium diagnostic that permits activation.** Any self-deception, any gap between who the practitioner is and who their Shell is expressing, prevents synchronization. Mirithane closes the gap by making the mirror accurate, **which is why Moetana requires not calm, not serenity, but honesty** *Strengthens Harmonics Attunement, Tempering Coherence* |
 
 ---
 
@@ -127,20 +127,20 @@ A young practitioner's first Moetana is a faint glow, a slight lift, a few minut
 
 ## Corruption Vector
 
-Moetana does not follow a single Family's terminal path. **The vector depends on which layer the practitioner leans on most heavily.**
+Moetana does not follow a single lens's terminal path. **The vector depends on which layer the practitioner leans on most heavily.**
 
-**Soul-dominant use** (Essence Perception) risks Fulguria's cognitive dissolution. Triaxial perception becomes addictive; **normal single-Plane sight feels blind by comparison.** The practitioner starts activating for non-combat diagnosis, paying the lifespan cost for the privilege of seeing clearly, **without the urgency of combat to justify the debt.**
+**Soul-dominant use** (Essence Perception) risks cognitive dissolution. Triaxial perception becomes addictive; **normal single-Plane sight feels blind by comparison.** The practitioner starts activating for non-combat diagnosis, paying the lifespan cost for the privilege of seeing clearly, **without the urgency of combat to justify the debt.**
 
-**Material-dominant use** (Harmonious Strike) risks Vectoria's gravitational isolation. Single-Plane strikes cannot match the feedback reward, and conventional combat begins to feel **hollow, a performance missing its own point.**
+**Material-dominant use** (Harmonious Strike) risks gravitational isolation. Single-Plane strikes cannot match the feedback reward, and conventional combat begins to feel **hollow, a performance missing its own point.**
 
-**Fate-dominant use** (Ethereal Communion) risks Limina's existential erosion. **The practitioner's identity begins to include things that are not them**, and the lock, which requires self-honesty, becomes progressively harder to achieve because the self is no longer a singular reference.
+**Fate-dominant use** (Ethereal Communion) risks existential erosion. **The practitioner's identity begins to include things that are not them**, and the lock, which requires self-honesty, becomes progressively harder to achieve because the self is no longer a singular reference.
 > In all three cases the terminal expression is the same: **a practitioner who can no longer deactivate**, because the triaxial state has become their baseline, and the debt runs continuously, and **the lifespan burns down at a rate they can feel and cannot stop, because stopping would mean returning to a mode of existence that no longer feels like living.**
 
 ---
 
 ## Archival Note
 
-Cataloged as a **Conjunctia-class transformation state rather than a discipline.** It belongs to no single Family, Method or Affinity.
+Cataloged as a **transformation state rather than a discipline.** It belongs to no single lens, Form or Affinity.
 > **Closest systemic analogue: the Zenith threshold** (Stage XIV, the moment of perfect triaxial alignment). **The difference is duration.** Zenith is an instantaneous spike that collapses in seconds. Moetana is the sustained, Oblation-fed version that holds the alignment open through continuous vital expenditure.
 >
 > *Zenith is free and brief. Moetana is expensive and extended. The same alignment, two different relationships with time.*
@@ -149,7 +149,7 @@ Cataloged as a **Conjunctia-class transformation state rather than a discipline.
 
 ## Numbers
 
-- **Prerequisites:** harmonization across at least three Families, Crystal in Refined state.
+- **Prerequisites:** harmonization with at least three unlike Wellsprings, Crystal in Refined state.
 - **Window:** 2–8 minutes of typical engagement.
 - **Price:** five minutes at full intensity costs days or weeks of life.
 - **Recovery:** hours of rest and meditation, and each activation in a day costs more than the last.

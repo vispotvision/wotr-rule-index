@@ -4,7 +4,7 @@ title: Ken — The Fist That Fights the Architecture
 
 # Ken — The Fist That Fights the Architecture
 
-**KEN** (拳 · Ken) (diagnostic-strike discipline, two modes: Ken and Psychiken)
+**KEN** (拳 · Ken) (diagnostic-strike discipline, two modes: Ken and Psychiken; Body; Strike)
 
 Every bathhouse in Kawabe sings the verse: *One touch, the big man's arm is tired. Two touch, the big man's legs are old. Three touch, the big man's gone to sleep, and nothing on him hurts.* It is about Tsuruhei, a bathhouse masseur with a yellow towel over his shoulder, and Goro the Quarry Bull, who came in roaring on festival night to settle a debt with his fists. Thirty people in the steam watched the Bull swing, miss, swing slower, and lie down on the wet boards without a mark on him. He woke half a minute later with a clear head and a puzzled look, and the next morning he came back and paid for lessons in advance.
 
@@ -35,13 +35,13 @@ Every bathhouse in Kawabe sings the verse: *One touch, the big man's arm is tire
 | Field | Value |
 |---|---|
 | **Ability** | Ken: diagnostic-strike discipline, two modes |
-| **Family** | Fulguria (Electromagnetism) primary, Vectoria secondary, Vitalia tertiary (Psychiken mode) |
-| **Affinity** | Composite. Perception (Fulguria) for the read. Force (Vectoria) for the strike. Mind (Vitalia) for the Psychiken extension |
-| **Method** | Corporis. Hand-strike delivery. **The fist is the instrument** |
-| **Physics Domain** | Electromagnetism primary, Mechanics secondary, Biochemistry tertiary (Psychiken mode) |
+| **Path** | Body. Psychiken reaches across to the Core, and a fighter who wants both modes has Walked Spirit besides and paid for it |
+| **Lens** | Judicium (Wild) first, Fractura (Wild) second, Mortalis (Medium) for Psychiken |
+| **Affinity** | Composite. Perception for the read. Force for the strike. Mind for the Psychiken extension |
+| **Form** | Strike, with Read for the diagnosis. Hand-strike delivery. **The fist is the instrument** |
 | **Phenomenon** | Resonance disruption at characteristic frequencies. Pressure-point neurology. Interface degradation |
 | **Output Cap** | Uncapped. Scales with Gnosis (diagnostic resolution) and Dexterity (strike precision) |
-| **Governing Stat** | Gnosis (Analysis) for targeting. Dexterity (Finesse) for delivery. **Ardency governs the strength-dependent fallback** when the diagnostic requirement is not met |
+| **Gates** | C-Grade Gnosis for broad regions, A-Grade for single sub-stats. Gnosis (Analysis) for targeting. Dexterity (Finesse) for delivery. **Ardency governs the strength-dependent fallback** when the diagnostic requirement is not met |
 
 ---
 
@@ -110,11 +110,10 @@ A chop to the side of the neck at the frequency that disrupts the Cognition inte
 
 | Wellspring | Function |
 |---|---|
-| **Judicium** *The Wellspring of Truth, Fulguria · Primary* | Emission and absorption spectroscopy. Every interface has a characteristic frequency the way every element has a characteristic spectrum. **Ken without Judicium is guesswork. Ken with Judicium is surgery.** *Strengthens Gnosis Acuity, Analysis* |
-| **Fractura** *The Breaking Point, Vectoria · Secondary* | Stress concentration and crack propagation at pre-existing flaws. Supplies the targeting logic: **strike the coordinate where the interface was already under the most internal stress**, which is why a light tap can equal a heavy blow delivered to a lower-stress site. *Strengthens Gnosis Analysis, Ardency Penetration, Resilience Integrity* |
-| **Mortalis** *The Black Gate, Vitalia · Tertiary, Psychiken mode* | Surrender; ending becomes passage. Supplies the capacity to read and target the consciousness interface: **the junction where awareness lives.** Psychiken's knockout operates at the boundary Mortalis has learned to navigate. *Strengthens Resilience Persistence, Gnosis Cognition* |
+| **Judicium** *The Wellspring of Truth, Wild · Primary* | Emission and absorption spectroscopy. Every interface has a characteristic frequency the way every element has a characteristic spectrum. **Ken without Judicium is guesswork. Ken with Judicium is surgery.** *Strengthens Gnosis Acuity, Analysis* |
+| **Fractura** *The Breaking Point, Wild · Secondary* | Stress concentration and crack propagation at pre-existing flaws. Supplies the targeting logic: **strike the coordinate where the interface was already under the most internal stress**, which is why a light tap can equal a heavy blow delivered to a lower-stress site. *Strengthens Gnosis Analysis, Ardency Penetration, Resilience Integrity* |
+| **Mortalis** *The Black Gate, Medium · Tertiary, Psychiken mode* | Surrender; ending becomes passage. Supplies the capacity to read and target the consciousness interface: **the junction where awareness lives.** Psychiken's knockout operates at the boundary Mortalis has learned to navigate. *Strengthens Resilience Persistence, Gnosis Cognition* |
 
-> **For readers of older copies.** Some shelf copies give Psychiken's tertiary Family as *Limina*. The Sixty place Mortalis, *The Black Gate*, under *Vitalia: Biochemistry*, and so Psychiken's tertiary Family is **Vitalia**.
 
 ---
 
@@ -133,7 +132,7 @@ Ken's effects are recoverable. The disrupted interface is not destroyed: it is t
 
 ## Counters
 
-**Armor and distance** · Ken requires contact at anatomically specific sites. Harness, Recarvu hardening, Materia-reinforced barriers: **the counter-frequency impulse disperses before reaching the interface.**
+**Armor and distance** · Ken requires contact at anatomically specific sites. Harness, Recarvu hardening, matter-reinforced barriers: **the counter-frequency impulse disperses before reaching the interface.**
 
 **High Resilience Anchoring** · Immune to Psychiken outright. Physical Ken still functions, but the discipline loses its most dangerous mode.
 
@@ -158,7 +157,7 @@ A fighter with two broken ribs is in pain, compensates around the injury, and fi
 
 ## Archival Note
 
-Cataloged as a diagnostic-strike Corporis discipline spanning Fulguria (Judicium), Vectoria (Fractura) and Vitalia (Mortalis) for Psychiken mode. The two modes are the same read-and-strike mechanism applied to different layers of the Crystal's stat architecture. Character-specific expressions, preferred targets, diagnostic specialization, Psychiken qualification status, are recorded in the relevant character's codex entry.
+Cataloged as a diagnostic-strike Body discipline running on Judicium and Fractura, with Mortalis for Psychiken mode. The two modes are the same read-and-strike mechanism applied to different layers of the Crystal's stat architecture. Character-specific expressions, preferred targets, diagnostic specialization, Psychiken qualification status, are recorded in the relevant character's codex entry.
 > Ken's closest systemic relatives are Fractura-based fault-reading and Judicium-based diagnostic disciplines. **Ken is distinguished by its target, the interface between the Crystal and the body. No other cataloged discipline operates at that junction.**
 
 ---

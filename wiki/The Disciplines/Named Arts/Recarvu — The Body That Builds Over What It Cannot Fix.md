@@ -4,7 +4,7 @@ title: Recarvu — The Body That Builds Over What It Cannot Fix
 
 # Recarvu — The Body That Builds Over What It Cannot Fix
 
-**RECARVU** (再彫身 · Recarvu) (Biokinesis sub-discipline, Vitalia)
+**RECARVU** (再彫身 · Recarvu) (Biokinesis sub-discipline; Body; Shape)
 
 Tamsin Gull ran opals past the toll-reeves of the Long Pass for eleven years inside her own left forearm. She had broken it young and grown a sheath of horn over the break, and there was room under the horn for forty stones if she packed them while the ridge was still soft. The reeves turned out her saddlebags and tapped her boots while she leaned on their counter with a fortune under a lump of scar. The trade ended the summer the lump reached the thickness of a fence post, because it had never once stopped growing. A surgeon sawed it open on a tavern table in front of a paying crowd and kept two opals for his fee. It had closed again by harvest, with the other thirty-eight still in it.
 
@@ -37,12 +37,12 @@ Tamsin Gull ran opals past the toll-reeves of the Long Pass for eleven years ins
 | Field | Value |
 |---|---|
 | **Ability** | Recarvu: Biokinesis sub-discipline |
-| **Family** | Vitalia (Biochemistry), with Materia cross-reference for mineralization |
+| **Path** | Body |
+| **Lens** | Verdantia (Wild) first, Terranova (Wild) second, Anima Spirare (Wild) third, Materia Primordia (Wild) in support |
 | **Affinity** | Growth |
-| **Method** | Corporis. **Self-targeted only.** The body is both conduit and material |
-| **Physics Domain** | Biochemistry, with Material Science |
+| **Form** | Shape. **Self-targeted only.** The body is both conduit and material |
 | **Phenomenon** | Histology, keratinization, osteogenesis, wound hemostasis, biomineralization |
-| **Prerequisites** | C-Grade Vitality minimum (Fortitude). **The body must be structurally sound enough to survive what Recarvu adds to it** |
+| **Gates** | C-Grade Vitality minimum (Fortitude, which needs Body at Stage III to pass C). **The body must be structurally sound enough to survive what Recarvu adds to it** |
 | **Governing Weakness** | Dexterity. Every layer increases mass, reduces joint range and degrades reaction speed. **Practitioners become harder to kill and harder to move in direct proportion** |
 
 ---
@@ -64,7 +64,7 @@ A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue arou
 | **Verdantia** *The Green Pulse · Primary* | Carbon fixation and indeterminate meristematic growth. **A plant does not have a final size.** Meristem tissue stays embryonic for the organism's whole life. Tissue added by Recarvu does not follow the body's blueprint: it follows Verdantia's logic: **grow until told to stop, and if not told to stop, keep growing** *Strengthens Vitality Regeneration, Tempering Yield, Harmonics Synergy* | **Etiolation.** Growth continues without ambient input, producing length without substance until the structure cannot hold itself up |
 | **Terranova** *The Living Earth · Secondary* | Biomineralization and self-healing composite. Nacre deposition; bacterial concrete. **Some structures do not get repaired: they grow their repair in place.** Converts soft growth into keratin, calcium phosphate, hydroxyapatite. **The Wellspring that turns flesh into bone-analogue and skin into plate** *Strengthens Vitality Regeneration, Harmonics Synergy* | **Overgrowth.** Deposition does not know when to stop, and the hardened region accretes past the original geometry |
 | **Anima Spirare** *The Soul's Breath · Tertiary* | The coagulation cascade and cooperative oxygen binding. An amplifying cascade producing a large, precisely localized response from a small injury signal. Governs emergency application: instant clotting, scarification, rapid sealing before deeper growth begins *Strengthens Vitality Hemostasis, Regeneration, Harmonics Synergy* | **Disseminated activation.** The cascade runs everywhere at once, consuming its own factors until nothing is left |
-| **Materia Primordia** *The First Substance · Cross-Family support* | Allotropy: one element, several lattices, radically different materials. Grafts carbon and metalloids into living tissue by treating the body's material as a substance that can be re-latticed. **Skin infused with carbon is still skin. It is also something closer to a ceramic** *Strengthens Vitality Fortitude, Dominion Gravity* | **Phase locking.** The lattice commits to one allotrope permanently, and the practitioner keeps whichever form they were wearing when the pressure came |
+| **Materia Primordia** *The First Substance · Support* | Allotropy: one element, several lattices, radically different materials. Grafts carbon and metalloids into living tissue by treating the body's material as a substance that can be re-latticed. **Skin infused with carbon is still skin. It is also something closer to a ceramic** *Strengthens Vitality Fortitude, Dominion Gravity* | **Phase locking.** The lattice commits to one allotrope permanently, and the practitioner keeps whichever form they were wearing when the pressure came |
 
 ---
 
@@ -88,7 +88,7 @@ A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue arou
 | **Bone Density** *Kotsumitsudo* | Mineral deposited along existing architecture following Wolff's law. **The bone keeps its shape and becomes harder to break along it** | 2,000–5,000 EU per bone group. **Permanent once deposited**, no maintenance | Denser bone is heavier bone. Repeated application increases mass with no increase in muscle output. **Increasingly difficult to move and to maneuver** |
 | **Bone Growth** *Kotsuzou* | New bone grows outward from a terminus or fracture site. Extends beyond original length, produces spurs, spines and ridges through the skin, or bridges a fracture gap. **Follows directed intent rather than the body's blueprint** | 3,000–8,000 EU. **Significant pain during growth** as periosteal nerves fire continuously | New bone beyond original geometry has **no tendons to articulate it.** A spur extending six inches from the forearm is a fixed projection, not a limb |
 | **Muscle Growth** *Kinniku Zousei* | Accelerated myogenesis: real new myofibrils integrated into existing architecture. **The muscle grows the way it grows from progressive overload, compressed into seconds rather than months** | 2,000–6,000 EU per group. 300–500 EU/s during growth | The new mass requires proportional metabolic support. **Profound hunger, dehydration and lactate accumulation within minutes. The body was not prepared to feed what Recarvu built** |
-| **Fire Resistance** *Taika Hifuku* | The mineralized outer layer acts as a thermal insulator by the mechanism that makes ceramic tile a heat shield. **It chars rather than burns, and the charring insulates what is beneath** | Requires active Hardening. 3,000–6,000 EU for full coverage | Radiant and conductive heat only. **No protection against convective transfer through airways or Caloria-family techniques that heat the body from within** |
+| **Fire Resistance** *Taika Hifuku* | The mineralized outer layer acts as a thermal insulator by the mechanism that makes ceramic tile a heat shield. **It chars rather than burns, and the charring insulates what is beneath** | Requires active Hardening. 3,000–6,000 EU for full coverage | Radiant and conductive heat only. **No protection against convective transfer through airways or thermal techniques that heat the body from within** |
 | **Poison Resistance** *Dokutai* | Poisoned cells are sloughed and replaced faster than the toxin propagates. **The toxin stays live, buried under new tissue it has not yet reached** | Passive. Metabolic cost only: elevated protein and mineral consumption | Resists slow poisons well, fast poisons moderately, **injected neurotoxins poorly. The central nervous system cannot be outgrown in time** |
 | **Tumor Growths** *Shuyo* | Undifferentiated mass with no functional structure. Neither muscle, bone, skin nor organ: **it is material.** Deliberately: ablative padding, sacrificial mass, a grotesque but functional plug for a wound too large to scarify | 1,000–4,000 EU per mass. Pain proportional to growth rate | ⚠️ **This is the early symptom of Biological Recursion.** The discipline does not distinguish between a tumor grown deliberately and one grown because the growth signal lost its specificity. **By the time the distinction matters it is too late to recover** |
 
@@ -108,7 +108,7 @@ A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue arou
 
 ## Corruption Vector
 
-Vitalia's terminal corruption is **Biological Recursion**: growth and decay locked into a loop the practitioner can no longer interrupt. Recarvu sits on the growth side.
+The terminal corruption of the living lenses is **Biological Recursion**: growth and decay locked into a loop the practitioner can no longer interrupt. Recarvu sits on the growth side.
 
 A practitioner deep into the discipline has trained Verdantia to answer every stimulus, every stress, every injury the same way: **grow more.** The early symptoms are indistinguishable from competence. Faster scarification. Denser bone. Harder skin. More material between the practitioner and whatever is trying to kill them.
 > **The late symptoms are not indistinguishable from anything else.** Growth stops being directed. Tumors form at sites never targeted. Spurs emerge from joints never stressed. Keratin plates thicken past functional density and crack under their own internal pressure.
@@ -123,7 +123,7 @@ A practitioner deep into the discipline has trained Verdantia to answer every st
 
 ## Archival Note
 
-Cataloged as a specialist Biokinesis sub-discipline within Vitalia, with a Materia cross-reference for mineralization and carbon-grafting. Uncapped: it scales with Vitality and Temperance without a fixed Grade ceiling. **The C-Grade prerequisite is a structural minimum, not a performance floor.** Technique names use Yukari-register Japanese to match the ability's naming convention. Character-specific expressions live in the relevant character's codex entry.
+Cataloged as a specialist Biokinesis sub-discipline on the Body Path, with Terranova and Materia Primordia for mineralization and carbon-grafting. Uncapped: it scales with Vitality and Temperance without a fixed Grade ceiling. **The C-Grade prerequisite is a structural minimum, not a performance floor.** Technique names use Yukari-register Japanese to match the ability's naming convention. Character-specific expressions live in the relevant character's codex entry.
 
 ---
 

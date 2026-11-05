@@ -86,7 +86,7 @@ Jory Quill of Long Sallow found water for a living, a penny a well and a penny m
 
 **Stat Effect** · Strengthens Gnosis Perception, Vigilance, Harmonics Attunement. What you see becomes truer. What you express becomes more accurate.
 
-**Glyph** · None attested in the Index (see Discrepancies of Record on the hub).
+**Glyph** · None attested in the Index (see Where the Registers Disagree on the hub).
 
 **Failure** · Glare. Coherent output is also a beacon, and Aurevane practitioners are the easiest people in any engagement to locate. Pushed too hard it turns on its own optics: past the Shell's damage threshold the coherent front burns the conduit it leaves by, and the eyes go first.
 

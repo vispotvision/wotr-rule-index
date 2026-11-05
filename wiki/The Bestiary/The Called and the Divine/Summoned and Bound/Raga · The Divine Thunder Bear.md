@@ -32,10 +32,10 @@ The company named the bear Nine Seconds, and it was never a compliment. The rest
 |---|---|
 | **Field Name** | **Raga.** Among Accord line infantry, **the Count**, and among the two companies that have stood inside his field, **Nine Seconds**, which is a complaint rather than a title |
 | **Type** | Divine Beast · Archonic Witness. One of a kind, forged by will rather than born |
-| **Summoner** | *Unassigned. See Open Rulings* |
+| **Summoner** | *Unassigned* |
 | **Lineage · School** | No school holds the pattern. **Raga is no pattern.** He is contacted, and the contact is either recognized or it is refused |
 | **Loanable** | No. A summoner who has been recognized cannot transfer the recognition, and three attempts to broker one are recorded in Arbitration filings without a single success |
-| **Category** | **Vocatia**, with Concordia active only where the summoner sustains him past the first hour |
+| **Form** | **Call**, with Sing active only where the summoner sustains him past the first hour |
 | **Summon Tier** | **III · Greater** in still air. **V · World-Tethered** in the presence of a live storm cell, which supplies an anchor he did not have to be given |
 | **Temperance Gate** | Stage X Realization for stable contact. **Stage XII Emanation for sustained presence.** Below X the invocation is heard and declined |
 | **Danger Tier** | **T7 · Realm Hazard.** Rated loose and hostile. The leash is a fact about the summoner |
@@ -71,7 +71,7 @@ The company named the bear Nine Seconds, and it was never a compliment. The rest
 | **Kind Resonance** | Wild, the storm's own, and elevated and judgmental by his Judicium. **Constructs and correspondences under this current develop conviction that outlasts their authorization**, which is the polite Codex phrasing for a Divine Beast that has stopped taking suggestions |
 | **Kind** | **Wild** |
 | **Leans on** | The Aether Shell, as hard as anything on this register. *Body:* bring something that is not lightning. *Spirit:* past the rack to a single function, which can be read and cannot be argued with. *Fate:* a very sound thing, and what he depends on is the name he has refused to answer to |
-| **Physics Domain** | **Electromagnetism.** Every Mechanism field below traces here except Report, which traces to Thermodynamics and says so |
+| **Scholars' Account** | **Electromagnetism.** Every Mechanism field below traces here except Report, which traces to Thermodynamics and says so |
 | **The Donation** | Discharge. His donation neither burns nor flows. It accumulates until the potential is intolerable and then equalizes in one event, and there is no partial version of him |
 
 ---

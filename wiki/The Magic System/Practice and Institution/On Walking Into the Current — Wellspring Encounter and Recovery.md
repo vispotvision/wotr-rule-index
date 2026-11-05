@@ -50,7 +50,7 @@ Stay anyway and the Crystal stops being unaffected. A Wild Wellspring is a thing
 
 The Crystal knows first, and the Crystal does not report to the conscious mind at the speed the conscious mind requires.
 
-The first symptom is physiological, and it comes before anything you could call a perception. Thermal change in the hands or face with no external heat source. A sudden emotional shift, grief or elation or rage, that does not connect to any stimulus you can identify. An involuntary discharge, a technique half-forming in the Shell without the practitioner having decided to cast it. Nosebleed. The headache behind the eyes specific to Gnosis overload. The taste of your own Essence in the back of the throat, which most practitioners describe as metallic and which experienced surveyors describe as the taste of the Wellspring's Family.
+The first symptom is physiological, and it comes before anything you could call a perception. Thermal change in the hands or face with no external heat source. A sudden emotional shift, grief or elation or rage, that does not connect to any stimulus you can identify. An involuntary discharge, a technique half-forming in the Shell without the practitioner having decided to cast it. Nosebleed. The headache behind the eyes specific to Gnosis overload. The taste of your own Essence in the back of the throat, which most practitioners describe as metallic and which experienced surveyors describe as the taste of the Wellspring itself.
 > The landscape is unchanged. Trees are trees. Stone is stone. Sky is sky. Nothing in the environment is wrong. The instruments read normal.
 >
 > You are the instrument that is reading wrong, and you frequently will not recognize this, because the Crystal's activation feels, from the inside, like your own decision.
@@ -151,7 +151,7 @@ Post-exit assessment requires a Gnosis specialist. The self-report cannot be tru
 
 A survey party is a practitioner or two and eight other people. Porters, guides, mule-handlers, the cook. Settlements sit downwind of concentrations for generations without anyone in them ever being screened. A current does not check for a Crystal before it acts, and the register has been written for a decade as though it did.
 
-A Class Ø soul's Shell is sealed and cannot phase-lock, so no harmonization occurs. This is the whole of the good news. The Essence Core is present, furnished, and fully exposed.
+An unwoken soul's Shell is sealed and cannot phase-lock, so no harmonization occurs. This is the whole of the good news. The Essence Core is present, furnished, and fully exposed.
 
 **Wild-type.** Identical in every respect, and the unawakened are frequently better at it. The body is the instrument, the instrument is unimpaired, and a porter has no Gnosis reading to argue with when the ground starts lying. Experienced survey leads have known for years that the man who says *this is wrong* first is usually the one carrying the tent poles, and the published curriculum does not mention it.
 

@@ -187,14 +187,12 @@ The third clause is the one novices are made to sit with. The orders do not glos
 
 **Eressean speakers** handle the meter easily and the invocation register with visible distaste, because *Vox* has no first person and no witness slot, and an Eressean is being asked to speak a sentence that names nobody and stands for nothing. Most simply decline to use it, which the Accord records as a preference and which is, in Eressean terms, closer to a refusal.
 
-## Provenance and Rulings Applied
+## Notes on the Count
 
-Attested in canon: the four Accord craft names *Ars Operis*, *Ars Vocis*, *Ars Scripti* and *Ars Vasis*, the Latinate and vernacular doublet with its contempt column, Spellcraft as the craft of the poor and the desperate requiring no substrate or guild, Draftcraft as the commercial craft, Runecraft as the high craft, and the Accord's role as the neutral instrument nobody dreams in.
-
-**Chantcraft is accepted, as a fifth craft.** *Ars Cantus* stands. The alternative was folding it into Spellcraft with tone as a delivery vector, and that loses the institutional reading, which is the most valuable thing in it: a craft that scales with throats cannot be practiced alone, and a craft that cannot be practiced alone must have orders, rosters and a novice-master, and can be destroyed by a fever. Nothing else in the system produces that.
+**Chantcraft counts as a fifth craft.** *Ars Cantus* stands. The alternative was folding it into Spellcraft with tone as a delivery vector, and that loses the institutional reading, which is the most valuable thing in it: a craft that scales with throats cannot be practiced alone, and a craft that cannot be practiced alone must have orders, rosters and a novice-master, and can be destroyed by a fever. Nothing else in the system produces that.
 
 **The count stays four in the Accord's own mouth**, and the reason is jurisdictional rather than arithmetical. Chantcraft has never been an Accord examination category, because the orders examine their own in office books older than the chancery, and the Accord has never pressed a claim it expected to lose in public. The document called *The Working Trades* is therefore correctly named from the Accord's side and undercounts from everyone else's, which is exactly the kind of thing the Accord does.
 
 **The doublet takes the wider scope.** It governs every craft term, not the five names alone.
 
-**Latin is now both a written and a spoken register.** The Tongues framework previously held it document-only. That is superseded here: *Vox* and *Cantus* are spoken registers with their own grammar and their own failure modes, and the chancery register remains document-only within its own domain.
+**Latin is both a written and a spoken register.** *Vox* and *Cantus* are spoken registers with their own grammar and their own failure modes, and the chancery register remains document-only within its own domain.

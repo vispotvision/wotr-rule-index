@@ -144,7 +144,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 **The gates below are written for one Path.** A soul on one Path opens them at the Stage written. A soul on two Paths opens the gates of the Path behind a Stage late until that Path is mastered. A soul on three opens every gate two Stages late, and the high Grades (SSS and up) stay shut. The highest Stage whose gates a Path has opened is its Path Stage on the card, and Mastered means it equals the soul's Stage, read again at each Threshold. Studying a Path, which anyone may do, opens no gates at all. A gate asks for the road and never for a rung on a class ladder: Fate gates open from Stage II though Thread Class is not read before Glory, and a Fate Path fighter clears them on Range, presence, bonds and oaths without ever having pulled a thread.
 
-Older registers list Attraction as a road of its own. They were looking at the shallow end of Fate, and an Attraction gate in an old table is a Fate gate at the same Stage and Grade. Obsession Force satisfies a Fate gate the same way clean Attraction Force does, every corrupted practitioner in the setting included.
+Older registers list Attraction as a road of its own. They were looking at the shallow end of Fate, and an Attraction gate in an old table is a Fate gate at the same Stage and Grade. Obsession Force satisfies a Fate gate the same way clean Attraction Force does, every corrupted practitioner in the four quarters included.
 
 ### Vitality Gates
 

@@ -41,7 +41,7 @@ A realm is a region inside the Veil, on one plane or across the fold. People wri
 | **The Crevice** | Across the inner fold, a permanent scar joining the two sides | Valmir |
 | **Theros, Abythron, Niflheim** | The deep end of both sides, under the Crevice, felt in rock and in soul alike | The Abyssal Depths |
 | **Utopia** (Highspire, Midreach, Lowmere) | Soul Plane, hard against the outer face, which is why its law reads so much like a contract | The [[Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host\|Celestial Host]] |
-| **The Sands** | The Zettari's plane, which their own texts call [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Paths\|the Paths]]. They place it themselves, and the Guild has no survey | The Zettari |
+| **The Sands** | The Zettari's plane, which their own texts call [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Paths\|the Sands]]. They place it themselves, and the Guild has no survey | The Zettari |
 
 The Loom of Stars is on no such list, being what the whole lattice looks like from the outer face. Nor is Fate, which has no regions, and "plane" is a courtesy.
 

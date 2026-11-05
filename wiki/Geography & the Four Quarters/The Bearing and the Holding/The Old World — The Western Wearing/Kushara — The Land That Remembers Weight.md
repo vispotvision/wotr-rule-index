@@ -7,7 +7,7 @@ title: Kushara — The Land That Remembers Weight
 **Say it** · koo-SHAH-rah
 
 *The Land That Remembers Weight*
-> 🌐 An ancient Aether-dense supercontinent of desert, rainforest, savanna and rift, ruled from Kushara by eight houses, containing no elves or dwarves at all. Split out of *The Old World — The Western Wearing* by Isaac's ruling, 2026-09-12: this material was never the western quarter of the four-quarter ledger, it is a different landmass that had been carrying the wrong name.
+> 🌐 An ancient Aether-dense supercontinent of desert, rainforest, savanna and rift, ruled from Kushara by eight houses, containing no elves or dwarves at all. It is no part of the western quarter of the four-quarter ledger: a different landmass, which spent a long time carrying the wrong name.
 
 ---
 

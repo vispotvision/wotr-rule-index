@@ -30,9 +30,9 @@ Street register calls it what the sigils promise. When Banisher points, the door
 
 ### Operation line
 
-**Exile Mark.** It scores a boundary condition onto the struck target's lattice at the point of contact. On the third heartbeat that condition collapses the local topology along a bound vector, which under Transference's living-exchange law ejects the target's position for a locus already fixed by the wielder: outside the active Domain, or through a standing Concord Gate. It does this to *position*, under Spatium's law, and produces displacement rather than damage.
+**Exile Mark.** It scores a boundary condition onto the struck target's lattice at the point of contact. On the third heartbeat that condition collapses the local topology along a bound vector, which under Transference's living-exchange law ejects the target's position for a locus already fixed by the wielder: outside the active Domain, or through a standing Concord Gate. It does this to *position*, under Transference's law, and produces displacement rather than damage.
 
-**Jurisdiction Chains.** The three rings pay out black oath-chain that binds limbs on contact. On the wielder's word the chains draw taut, imposing a boundary on any Teleport or Phase working already running in the bound target: a severed vector, not a physical hold, laid on top of the physical one. It does this to *motion*, under the same Spatium/Judicium pairing, and produces arrest of movement, physical and metaphysical both.
+**Jurisdiction Chains.** The three rings pay out black oath-chain that binds limbs on contact. On the wielder's word the chains draw taut, imposing a boundary on any Teleport or Phase working already running in the bound target: a severed vector, not a physical hold, laid on top of the physical one. It does this to *motion*, under the same Transference and Judicium pairing, and produces arrest of movement, physical and metaphysical both.
 
 **Gate-Nail.** Driven into a threshold, the prong pins the local lattice in place, which under the Domain Anchor mechanism seals whatever boundary was open there, a rift, an unlicensed Domain, for one full day and night. It does this to *the local boundary itself*, and produces closure, not destruction. What was open stops being open.
 
@@ -42,7 +42,7 @@ Street register calls it what the sigils promise. When Banisher points, the door
 
 ### Codex line
 
-**Primary Wellspring** Judicium: order, measure, consequence. Family **Fulguria**, Physics Domain **Electromagnetism**. **Secondary Wellspring** Transference, The Living Exchange. Family **Spatium**, Physics Domain **Spatial Geometry**, carrying the Exile Mark's displacement specifically.
+**Primary Wellspring** Judicium: order, measure, consequence. Kind **Wild**, Physics Domain **Electromagnetism**. **Secondary Wellspring** Transference, The Living Exchange. Kind **Fate**, Physics Domain **Spatial Geometry**, carrying the Exile Mark's displacement specifically.
 
 **Category** Claustra (primary: the confinement and exclusion functions, Jurisdiction Chains, Gate-Nail, Articles of Exclusion). Transitus (secondary: the Exile Mark's translocation).
 

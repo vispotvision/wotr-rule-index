@@ -6,7 +6,7 @@ title: The Infinite Summoning Arts
 
 The *Merry Wager*, a wine galley sixty souls strong, broke her back on the Thole skerries in a black gale, with Yselle Ambrel asleep in the bilge sleeping off a bad oyster. Everything after that is testimony, and the testimony is the problem. The bosun swore on his mother that a green-gold eel as long as the ship came up out of the surf and held the hull on the rocks in one coil. The cook said it was a bridge of white hands, passing people along. The purser said gulls, a hundred of them the size of ponies, flying lines ashore. A deckhand told the Commission's clerk, under oath, that he had been carried up the beach by a fat man telling jokes. All four were telling the truth, in order, because Ambrel had drafted four different answers to four different problems inside an hour, and sixty people walked off that rock at dawn past a woman who had lost a stone in weight in a night and could not have told you what any of those things were. The Commission spent three years trying to enter them in the register. It fined her for failure to file.
 
-### THE INFINITE SUMMONING ARTS (school art; Vocatia and Animatria past the register, and in a rare few, Fate itself)
+### THE INFINITE SUMMONING ARTS (school art; Make and Call past the register, and in a rare few, a Pull on the Fate road)
 They never call the same thing twice, because they never write anything down.
 
 THREAD DRAFT! One soul split into threads, each thread holding up something you have never seen before.  

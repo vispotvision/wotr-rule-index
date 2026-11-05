@@ -4,7 +4,7 @@ title: The Open Crucible — Kwon Mu-jin's Book of Summons
 
 # The Open Crucible — Kwon Mu-jin's Book of Summons
 
-**THE OPEN CRUCIBLE** (Kwon Mu-jin's personal art, a Vocatia-Alchemetrica hybrid of Legion-capable summoning)
+**THE OPEN CRUCIBLE** (Kwon Mu-jin's personal art, a Vocatia-Alchemetrica hybrid of Legion-capable summoning; Spirit; Call, Brew)
 
 **A Ledger of Called Things** · *Kwon Mu-jin, Book of Summons and Techniques*
 > Every called thing that answers him arrives already annotated: readable, gradeable, correctable, the same way he has been since he was fourteen.
@@ -33,6 +33,12 @@ title: The Open Crucible — Kwon Mu-jin's Book of Summons
 
 ## The Method
 
+| **Path** | Spirit, with the shallow end of Fate for what answers. A form reads his Aether for the crossing and his Essence for what it is |
+|---|---|
+| **Lens** | Anamnesis (Medium) for the read, Fixatio (Medium) for the authorization, and whatever each form below names |
+| **Form** | Call for the asking and Brew for the body, with Write for the glyphs under both |
+| **Gates** | Each form's own, listed below, up to Stage XII and Grade SS Gnosis |
+
 Mu-jin does not summon the way court Vocatia is taught, and he does not summon the way the Aperture branch of his own family does either. There is no negotiation with an unwilling higher presence here, and no soul population to call on. His branch of the Mahuo line kept the ancestral Vocatia aptitude but lost, generations back, whatever let the Aperture branch host a soul population directly. What is left is smaller and stranger: **a trained correspondence with the Continuum's own archived intention**, read through Anamnesis, given a working body through Alchemetrica's four Draft operations, and held together by an Attraction Layer clean enough that the Continuum answers rather than resists.
 > He explains it to first-years like this, and resents that he still explains it like a first-year.
 >
@@ -45,7 +51,7 @@ The Guild Accord classifies him as a Legion-capable Vocatia-Alchemetrica hybrid,
 |---|---|
 | **Cost** | 5–15% of his 850,000,000 EU reserve per construct, roughly 42.5 to 127.5 million EU |
 | **Simultaneous sustain** | Up to three called forms in coordinated Concordia network before synchronization strain degrades coherence. A fourth is possible, but costs the diagnostic clarity Sight Through the Glass depends on for the rest of the engagement |
-| **Signature** | Every construct carries his Fulguria resonance and Fixatio glyph-authorization, readable and trackable by any Perception-comparable practitioner. **This is the standing counterplay against the entire roster** |
+| **Signature** | Every construct carries his own resonance and Fixatio glyph-authorization, readable and trackable by any Perception-comparable practitioner. **This is the standing counterplay against the entire roster** |
 | **Invocation register** | Guild Accord liturgical Latin layered atop the Parunic glyph-authorization every Draft technically requires. Parunic supplies the technical grammar, and its Authorization carries the warrant; the spoken Latin gives the order over that Authorization, in a phrase a human throat can actually manage under battlefield stress |
 | **Attraction Force** | Clean, recognition-sustained. The corrupted mirror of the entire roster, **The Unopen Crucible**, is a Mu-jin who no longer asks the Continuum for a lawful shape and simply takes one. Exactly the failure Vocatia calls Usurpation |
 
@@ -57,7 +63,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Marginal Note · *Scout, Greater Summon*
 
-**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ma]` Recall: Anamnesis-linked, Fulguria-carried
+**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ma]` Recall: Anamnesis-linked
 > *"Oculus in margine maneat."*: Let the eye remain in the margin.
 **Trigger** · A single drop of ink touched to the back of his left hand, spoken over an open Draft.
 
@@ -225,7 +231,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### Sight Through the Glass · *Signature*
 
-**Gates** · Stage XII, Grade SS Gnosis, Fulguria harmonization. Anchored to the single Diagnostic Lens, **if the lens is lost or destroyed, the technique is unusable until he consecrates a replacement.**
+**Gates** · Stage XII, Grade SS Gnosis, harmonization with a truth or light lens. Anchored to the single Diagnostic Lens, **if the lens is lost or destroyed, the technique is unusable until he consecrates a replacement.**
 
 **Trigger** · Removes and holds his spectacles.
 

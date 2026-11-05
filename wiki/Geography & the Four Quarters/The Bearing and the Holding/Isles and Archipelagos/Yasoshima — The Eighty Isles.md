@@ -43,7 +43,7 @@ This is why Yuno rites hold across generations without correction, why the house
 
 ## What the Research Division Was Not Told
 
-> 💡 **Reader's knowledge, not table knowledge.** Nobody outside the Kagura officiant line knows what follows, and no Accord clerk has ever been told. *Ratified 2026-09-12 as written (R36-1); closes the Research Division ruling below.*
+> **What the Accord was never told.** Nobody outside the Kagura officiant line knows what follows, and no Accord clerk has ever been told.
 Yasoshima's Essence is not stable because the islands got lucky. **It is stable because House Yuno has spent two hundred thousand years making it a drain.** Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. **It is where a portion of the world's disorder goes to stop being disorder.**
 
 The islands are the correct vessel for this precisely because of what the Bearing Stock entry treats as their poverty: no ore, no reactive mineral wealth, nothing conductive or catalytic to distort what is poured into them. *A bowl with nothing in it holds cleanest.*
@@ -82,23 +82,13 @@ A confederation of aiga governed by **fono**, with no king, no standing army, an
 
 ## The Queen
 
-> **Ruling in effect, reversed 2026-09-12.** The Queen of Kharven is **Ayame Yuno.** *Isaac: "Ayame Yuno over Filemu Agamalu we retconned the Agamalu register." She is exactly who her own Volume I card already has her as; the Agamalu identity below is superseded.*
+> The Queen of Kharven is **Ayame Yuno.**
 
 | Name | Standing |
 |---|---|
-| **Personal name** *Ayame* | Given at birth by the Yuno family. **Japonic register. The Samoan register once proposed here does not stand.** |
-| **Aiga** *Yuno* | **Kagura Branch**: per her own Volume I card. *The Manono attribution below was part of the Agamalu retcon and is superseded.* |
-| **Matai title** *Zenma no Mamori* | Keeper of the Whole Vā, her own card's title, **and a literal description of the White Concord** |
-| **Saimei** *Okurareta Nishiki* | The fine mat that was given away, as her own card already has it. **Kharven's records call her Queen, and the Yuno house calls her the same.** |
+| **Personal name** *Ayame* | Given at birth by the Yuno family. **Japonic register.** |
+| **Aiga** *Yuno* | **Kagura Branch** |
+| **Matai title** *Zenma no Mamori* | Keeper of the Whole Vā, **and a literal description of the White Concord** |
+| **Saimei** *Okurareta Nishiki* | The fine mat that was given away. **Kharven's records call her Queen, and the Yuno house calls her the same.** |
 
 > *Yuno means gentle. It is a warning wearing a soft word. A woman named Peace who receives thirty hostile clans alone in a courtyard and has them rethreaded into three coalitions by dawn is that thesis walking around.*
-
----
-
-## Open Rulings
-
-| Ruling | Standing |
-|---|---|
-| **The island name** | **Yasoshima** confirmed, or **Vāitele** (the great space), or **Tuāoi** (the boundary) |
-| **Ayame's voice** | The sentence arrives with the weight of something already decided, quietly, **because of who says it.** She almost never raises her voice and almost never repeats herself. *Distinguishes her cleanly from Muken's iron silences* |
-| **The Research Division** | **Written, 2026-09-12.** What the Yuno declined to disclose, four times, is now set down above under *What the Research Division Was Not Told*, ratified as written, R36-1 |

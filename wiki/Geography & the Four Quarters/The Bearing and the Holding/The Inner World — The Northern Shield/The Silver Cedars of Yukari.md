@@ -66,7 +66,7 @@ Beyond the valleys, north and east, the Reach proper runs out through long lakes
 | **Vaeloris** *the Carver's Seat* | A warm geothermal basin fed by an old vent, built in quarried stone where the rest of the land builds in cedar. **The proving-house for new work**, where techniques are developed and standardized before they go out on the road, in the structural grammar of the master Dhaerin, who taught there | ~10,000 |
 | **The Frontier Marches** *contested border* | The most unstable province, full of people who chose the frontier to avoid being governed by anyone and tolerate the Council only because the wards work. *Its Warden is typically the Council's most diplomatic member* | ~16,000 |
 
-The Mahuo province that the older pages list here is gone from this table: Sum-gol is sovereign southern ground, as it always maintained, and the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Vermilion Dynasty of Sum-gol|Dynasty's page]] has its people.
+The Mahuo province that the older surveys list here is gone from this table: Sum-gol is sovereign southern ground, as it always maintained, and the [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Vermilion Dynasty of Sum-gol|Dynasty's page]] has its people.
 
 ---
 

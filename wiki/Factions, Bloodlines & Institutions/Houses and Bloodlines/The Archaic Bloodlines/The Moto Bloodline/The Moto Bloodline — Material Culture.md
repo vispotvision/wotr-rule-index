@@ -11,8 +11,6 @@ The most expensive coat in the history of the north was worn for about two hours
 So you will want to know what the enamel says.
 
 > **The dress of the house reads the way the house reads: an outsider's formal law laid over a native people's practical toughness, never fully assimilating into either.** *Kharven is Concord-stock northern clans governed by a bloodline that arrived, enforced, and did not assimilate. A Moto in full dress carries the severity of both and the softness of neither.*
-*Canon ruling, 2026-09-12. Answers the open item on Moto material culture; the Visual Aesthetic Guide has no separate Moto pass; this page is it.*
-
 **The crown-line pattern is six things worn together: red enamel over dark steel, a beast-face boss, a knotwork belt, a fur mantle, a robe-over-harness silhouette, and a split between court dress and campaign dress that never collapses into one outfit with the accessories taken off.** The pattern in full belongs to Kōkan. The other six Great Lines carry it in their own metal and palette, set out below.
 
 ---

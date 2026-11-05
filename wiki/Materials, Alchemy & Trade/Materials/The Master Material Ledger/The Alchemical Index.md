@@ -15,7 +15,7 @@ Sloe took six days to die and spent them dictating a complaint against the apoth
 
 > **Every entry carries an analogue, a mechanism stated in the analogue's own terms, and a failure that falls out of the mechanism rather than out of the mood.** The alchemy here is literal.
 > 
-> **Nothing in an ingredient list is symbolic filler.** Each component supplies a catalytic surface, a nucleation site, a stabilizing lattice, or a Wellspring-resonant trace. Where a step specifies darkness, silence or a season, **it is specifying a physical condition and not a mood**, and this edition says which.
+> **Nothing in an ingredient list is symbolic filler.** Each component supplies a catalytic surface, a nucleation site, a stabilizing lattice, or a [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]]-resonant trace. Where a step specifies darkness, silence or a season, **it is specifying a physical condition and not a mood**, and this edition says which.
 > 
 > **Provenance Class (the mark of where a stock came from, from Class I, taken off a Wellspring site and carrying nothing, up to Class VI, found and unlocatable) is now stated on every row**, because the Standing Index prices on it and this index has been silent on it since compilation. *Twelve entries below are Class IV or above, and eight of them were carried for years without the column that would have said so. Four more reach Class IV when their source bore a Crystal, and a source that bore a Crystal is lawful when it was a monster's core and a hanging when it was a person's.*
 >

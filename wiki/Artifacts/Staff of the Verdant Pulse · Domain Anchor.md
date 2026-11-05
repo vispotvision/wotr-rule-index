@@ -24,7 +24,7 @@ Mass ~1.6 kg (living wood is lighter than seasoned hardwood of the same girth; e
 
 ### Codex line
 
-**Verdantia** (Vitalia · Biochemistry) primary, the growth and healing amplification. **Eidolyn** (Limina · Entropy, Void and Mind) secondary, the Verdant Phantoms' templated bodies. Category: **Domain Weaving**, primary; **Vocatia**, secondary for the summoned phantoms. Glyphs: **Ur** (Balance), **Ie** (Insight), **Ma** (Memory), all three attested unchanged in the Master Glyph Index.
+**Verdantia** (Wild · Biochemistry) primary, the growth and healing amplification. **Eidolyn** (Wild · Entropy, Void and Mind) secondary, the Verdant Phantoms' templated bodies. Category: **Domain Weaving**, primary; **Vocatia**, secondary for the summoned phantoms. Glyphs: **Ur** (Balance), **Ie** (Insight), **Ma** (Memory), all three attested unchanged in the Master Glyph Index.
 
 ### Bond and cost
 

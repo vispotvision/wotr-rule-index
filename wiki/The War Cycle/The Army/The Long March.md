@@ -25,7 +25,7 @@ An army requires two things it cannot manufacture in the field, **and they behav
 
 The first is food, fodder, bolts, iron and cloth. Heavy, dull, **and perfectly transportable.** They can be stockpiled, requisitioned, seized, spoiled and counted. **Their arithmetic is unforgiving and entirely soluble by anyone willing to do it.**
 
-**The second is Essence, and it cannot be supplied at all in the sense a quartermaster means.**
+**The second is [[The Magic System/First Steps/The Core Vocabulary|Essence]], and it cannot be supplied at all in the sense a quartermaster means.**
 
 ### Why Essence cannot be shipped
 
@@ -37,7 +37,7 @@ The first is food, fodder, bolts, iron and cloth. Heavy, dull, **and perfectly t
 
 > The conclusion has governed Accord strategy for four centuries and is stated in the Division's manuals in one line. **A practitioner is refilled by the ground they stand on, or not at all.**
 
-A practitioner pulls Aether out of the world around them, refines it in the Soul Crystal into Essence, and holds that Essence as reserve, so where they stand decides how fast they fill. A Wellspring is one of the sixty types of Aether, and a site where one type pools is called a Core in common speech, fed by a channel the surveys call a vein. Rich ground fills a fighter in hours and thin ground starves them for days. The ranks say fat ground and lean ground, and any sergeant can tell you which he is standing on by how his practitioner's temper is holding. A fight Draft (a bottled working) is the one exception anybody has found, and it is a loan: one fighter, one bad minute, and a crash that collects with interest. No quartermaster has ever supplied a march on them, though several have died trying.
+A practitioner pulls Aether out of the world around them, refines it in the Soul Crystal into Essence, and holds that Essence as [[The Magic System/Power in Use/Stacking and Spending|reserve]], so where they stand decides how fast they fill. A Wellspring is one of the sixty types of Aether, and a site where one type pools is called a Core in common speech, fed by a channel the surveys call a vein. Rich ground fills a fighter in hours and thin ground starves them for days. The ranks say fat ground and lean ground, and any sergeant can tell you which he is standing on by how his practitioner's temper is holding. A fight [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|Draft]] (a bottled working) is the one exception anybody has found, and it is a loan: one fighter, one bad minute, and a crash that collects with interest. No quartermaster has ever supplied a march on them, though several have died trying.
 
 ---
 

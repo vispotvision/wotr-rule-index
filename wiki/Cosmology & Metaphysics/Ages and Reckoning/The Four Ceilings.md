@@ -216,7 +216,7 @@ This is the five hundred and seventy-five years that made the modern world, and 
 ```mermaid
 flowchart TD
     W["Circa 90-130 IC<br>WATER CEILING FALLS<br>Phreatis-fed lift arrays"]
-    W -->|"deeper shafts, and men<br>suffocating in them"| A["Circa 150-175 IC<br>AIR CEILING FALLS<br>Vectoria draught arrays"]
+    W -->|"deeper shafts, and men<br>suffocating in them"| A["Circa 150-175 IC<br>AIR CEILING FALLS<br>Worked draught arrays"]
     A -->|"deep ore now reachable<br>and worth melting"| H["Circa 260-310 IC<br>HEAT CEILING FALLS<br>Ignivale and Pyraeon forge-arrays"]
     H -->|"the problem becomes<br>the vessel, not the fire"| T["Circa 380 IC<br>CONTACT TINNING"]
     T --> O["Circa 420 IC<br>OPTICAL ASSAY<br>Clearbeam beryl lenses"]
@@ -232,11 +232,11 @@ It also introduced the dependency that now defines the western quarter. A pumped
 
 #### Circa 150 to 175 · The air ceiling falls
 
-Vectoria draught arrays. Because the water ceiling had fallen and a great many men had subsequently suffocated. Funded, in the plainest possible sense, by the bodies the pumps had already produced.
+Worked draught arrays. Because the water ceiling had fallen and a great many men had subsequently suffocated. Funded, in the plainest possible sense, by the bodies the pumps had already produced.
 
 #### Circa 260 to 310 · The heat ceiling falls
 
-Ignivale and Pyraeon forge-arrays, Caloria family, Thermodynamics. Iron becomes liquid. Everything above T4 becomes possible. **Aethersteel** is tempered from condensed Aether in Wellspring forges for the first time. **Wolfram**, which had been a heavy black nuisance in the tin districts for four centuries, becomes the most strategic ore in the four quarters overnight, because the problem immediately stopped being the fire and became the vessel.
+Ignivale and Pyraeon forge-arrays, by way of plain thermodynamics. Iron becomes liquid. Everything above T4 becomes possible. **Aethersteel** is tempered from condensed Aether in Wellspring forges for the first time. **Wolfram**, which had been a heavy black nuisance in the tin districts for four centuries, becomes the most strategic ore in the four quarters overnight, because the problem immediately stopped being the fire and became the vessel.
 
 > The consequence nobody planned: the entire high-temperature capability of the modern world now rests on **Blacktooth wolfram** from the western granite cupolas and **Ashfast chromite** from the southern serpentine belt, two ores that occur in two places. The Logistics Division has said so in every annual report for nineteen years and has been thanked for its diligence nineteen times.
 
@@ -290,9 +290,9 @@ No counted ceiling has fallen in seventy years. The Guild records this without c
 
 Five ceilings and the reasons they fell are given above. **There is a sixth and nobody counted it, because for eleven centuries it did not look like a ceiling. It looked like the road.**
 
-**Traction.** An array is fixed work. It is fed from the ground beneath it, tended in place by people who go home at night, and **nothing that moves can be kept fed unless somebody walks beside it.** Weight Ablation lies to a rope about a load and supplies no motive power whatsoever. Spatial translation of ore was tried, costed and abandoned, and moving rock through Spatium remains dearer per ton than moving it up a rope. So the problem of shifting a great weight a long distance overland stayed exactly where it had been since the first cart: horses, the road, and the weather.
+**Traction.** An array is fixed work. It is fed from the ground beneath it, tended in place by people who go home at night, and **nothing that moves can be kept fed unless somebody walks beside it.** Weight Ablation lies to a rope about a load and supplies no motive power whatsoever. Spatial translation of ore was tried, costed and abandoned, and moving rock across distance by working remains dearer per ton than moving it up a rope. So the problem of shifting a great weight a long distance overland stayed exactly where it had been since the first cart: horses, the road, and the weather.
 
-> **It was attacked once in earnest, in Year 683, and the Guild would like that recorded as a success.** Master Konrad Brandt of the Marrowhold wrights laid three leagues of tuned stone in the bed of the Harrow Road and hung an ore-sledge a hand's breadth above it, coupled to the stone by Transference, the Spatium law of two tuned oscillators exchanging energy across a gap with no conductor between them. He shouted the thing's name at the opening, the Harrow Drag, with his guild mark a yard high on its nose.
+> **It was attacked once in earnest, in Year 683, and the Guild would like that recorded as a success.** Master Konrad Brandt of the Marrowhold wrights laid three leagues of tuned stone in the bed of the Harrow Road and hung an ore-sledge a hand's breadth above it, coupled to the stone by Transference, the law of two tuned oscillators exchanging energy across a gap with no conductor between them. He shouted the thing's name at the opening, the Harrow Drag, with his guild mark a yard high on its nose.
 >
 > It ran for eleven days. It sang the whole time, a rising glassy whine that set every dog in three leagues howling, and on the twelfth morning a keeper's shift ran long and the stone took a double feed, and forty tons of galena left the Harrow Road at the pace of a galloping horse and went through the chapel at Ansby.
 >
@@ -328,7 +328,7 @@ So the settlement is jurisdictional rather than technical. **Crowns field massed
 |---|---|---|---|
 | **Assay** | From the First Eon | Antediluvian Calendar, the coil, built to price a person | Made the Holding trade possible and every market after it |
 | **Water** | Sixty fathoms, a thousand years | Circa 90 to 130 IC, Phreatis lift arrays | Opened the deep ore and created the western dependency in one stroke |
-| **Air** | Wherever water no longer did | Circa 150 to 175 IC, Vectoria draught arrays | Funded by the bodies the pumps produced |
+| **Air** | Wherever water no longer did | Circa 150 to 175 IC, worked draught arrays | Funded by the bodies the pumps produced |
 | **Haulage** | Since the first rope | **Never fell** | Weight Ablation glyphwork lies about the load; the industry is built around it |
 | **Heat** | At the charcoal limit, every age preceding | Circa 260 to 310 IC, Ignivale and Pyraeon forge-arrays | Produced everything above T4, and the wolfram and chromite dependency beneath it |
 | **Traction** | Since the first cart. Never named as a ceiling | **Has not fallen.** Tried in 683 IC with the Harrow Drag, Transference between tuned road-stone and a sledge, and abandoned | Bulk overland stays at the pace of a horse, which leaves every town in the hands of the keepers nearest it. Uncosted |

@@ -35,7 +35,7 @@ Every faith below is written to the same six questions, and the last one matters
 1. Its clergy, if any, and how they eat.
 1. Its heresies.
 1. What it costs to belong.
-1. **What it is wrong about.** A religion nobody in the setting can be wrong about is decoration.
+1. **What it is wrong about.** A religion nobody can be wrong about is decoration.
 
 ## Part Two: The Majors
 

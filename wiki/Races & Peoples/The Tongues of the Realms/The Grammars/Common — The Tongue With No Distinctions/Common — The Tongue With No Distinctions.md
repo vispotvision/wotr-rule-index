@@ -20,9 +20,9 @@ That is the tongue this whole archive is written in. Keep one hand on your purse
 
 ## Why This One Gets a Document
 
-The framework's test is whether a reader will see the language untranslated on the page. Common fails that test completely, because Common **is** the page. Every scene is already in it.
+These shelves give a tongue its own grammar when a reader will meet it untranslated. Common fails that test completely, because Common **is** the page. Everything on these shelves is already in it.
 
-It earns an entry for a different reason. Its central feature is a live prose instrument in every conversation anyone in the four quarters has, and getting it wrong flattens a character's class, origin and education into nothing. The other grammars exist so that a foreign line lands. This one exists so that an ordinary line does.
+It earns an entry for a different reason. Its central feature is alive in every conversation anyone in the four quarters has, and getting it wrong flattens a speaker's class, origin and education into nothing. The other grammars exist so that a foreign line lands. This one exists so that an ordinary line does.
 
 ## I. What Common Is
 
@@ -164,11 +164,7 @@ The Latin behind that is *Solutum et transitum, in registro relatum*. The corpor
 > "...Are we agreed?"
 The easterner has answered. The westerner has now asked twice and conceded the room.
 
-## Provenance and Notes
+## Notes
 
-Attested in canon: the Latinate and vernacular doublet as the register lever, with the craft names in both columns and the contempt column beside them; the rule that nobody in WOTR calls it magic; the Accord's role as the neutral instrument nobody dreams in; and the Concord human naming register as medieval European byname freezing.
-
-**The framework exception.** The Tongues of the Realms says a language earns a grammar only when the reader will see it untranslated. Common is exempted on the opposite ground: it is the medium the reader sees everything in, and its doublet is live in every line of dialogue in the project. The exemption is recorded here rather than smuggled.
-
-**The names other peoples use.** *Kha-Vaross*, the weightless tongue, from *kha*, that which has no load-bearing capacity, and *vaross*, the tongue that carries law. Both roots are canon and the compound is the Mandate's own joke: a tongue that carries nothing. *Kielnur*, the unentered tongue, Tally-Tongue, from *-nur*, the completed but unrecorded act. *Aureth*, the unwitnessing, Eressean, from *ureth*, the office of standing witness, with the privative. Three peoples arrived independently at the same complaint, which Concord scholars note with some pride and no reflection.
+**The names other peoples use.** *Kha-Vaross*, the weightless tongue, from *kha*, that which has no load-bearing capacity, and *vaross*, the tongue that carries law. Both roots are old and the compound is the Mandate's own joke: a tongue that carries nothing. *Kielnur*, the unentered tongue, Tally-Tongue, from *-nur*, the completed but unrecorded act. *Aureth*, the unwitnessing, Eressean, from *ureth*, the office of standing witness, with the privative. Three peoples arrived independently at the same complaint, which Concord scholars note with some pride and no reflection.
 - [[Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth]]

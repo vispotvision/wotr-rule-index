@@ -15,7 +15,7 @@ She made it in the first mornings of the Third Epoch and gave it to her family t
 - **The head: Null-Light.** Pale stone, close-grained and faintly luminous, that casts no shadow, the same as the three stones in the Enclave court. Closing it asks for [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]] understood whole.
 - **The foot: the teachings of the Yukari.** Cedar heartwood turned to stone, darker than iron, its grain still plain under the polish. Closing it asks for the six teachings understood as lived things.
 - **The left arm: the nature of the Seikai.** Black glass, cold at every hour, its edges so clean that a stare slides off them. Closing it asks for an understanding of what a mortal can reach alone, and why reaching alone ended in a cut.
-- **The right arm: the nature of the Zettari.** Iron-dark stone from the Paths, far heavier than its size, that warms in a hand that has been witnessed. Closing it asks for an understanding of what endures by witness and inheritance.
+- **The right arm: the nature of the Zettari.** Iron-dark stone from the Sands, far heavier than its size, that warms in a hand that has been witnessed. Closing it asks for an understanding of what endures by witness and inheritance.
 - **The heart.** A ring of the pale stone with nothing in it. The four arms seat into it, and when all four are seated, Null-Light is held in the empty socket, and the one who closed it is held with it.
 
 ## How it closes
@@ -54,7 +54,7 @@ With the seam open, the Soul Plane's recognition stutters, and the house holds t
 
 **Wellsprings** · Nihiloth (primary), Anamnesis, Mortalis, Fixatio
 
-**Family** · Limina · **Physics Domain** · Abstract/Entropic Systems
+**Kind** · Wild · **Physics Domain** · Abstract/Entropic Systems
 
 **Category** · Claustra · **Craft** · none of the five; Epoch-made
 

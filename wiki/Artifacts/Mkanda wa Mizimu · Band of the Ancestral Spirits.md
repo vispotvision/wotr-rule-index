@@ -24,7 +24,7 @@ Mass ~0.9 kg (torque plus discs and beads; not stated on the card, conservative 
 
 ### Codex line
 
-**Anamnesis** (Limina · Entropy, Void and Mind) primary, the standing communion and the Echo-Visions. **Eidolyn** (Limina · Entropy, Void and Mind) secondary, the templated chorus that lets many bound voices chant as one. Category: **Vocatia** primary (communion with bound ancestral identity), **Mnemata** secondary (the Echo-Visions). Glyphs: **Ma** (Memory), **Ie** (Insight), attested unchanged; **Vo** (Voice) in place of the card's unattested "Ta."
+**Anamnesis** (Medium · Entropy, Void and Mind) primary, the standing communion and the Echo-Visions. **Eidolyn** (Wild · Entropy, Void and Mind) secondary, the templated chorus that lets many bound voices chant as one. Category: **Vocatia** primary (communion with bound ancestral identity), **Mnemata** secondary (the Echo-Visions). Glyphs: **Ma** (Memory), **Ie** (Insight), attested unchanged; **Vo** (Voice) in place of the card's unattested "Ta."
 
 ### Bond and cost
 

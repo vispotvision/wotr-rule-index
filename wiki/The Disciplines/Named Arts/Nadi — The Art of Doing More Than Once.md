@@ -4,7 +4,7 @@ title: Nadi — The Art of Doing More Than Once
 
 # Nadi — The Art of Doing More Than Once
 
-**NADI** (ナディ · Nadi) (Inertiokinesis and Dynamokinesis hybrid, Vectoria)
+**NADI** (ナディ · Nadi) (Inertiokinesis and Dynamokinesis hybrid; Body; Strike)
 
 Anyone in the river towns will tell you about the year Mokichi Hamano, a ferry-poler with no ear at all, got drunk and entered the midsummer drum contest at Hanamatsu. For one verse he beat the great red drum like any other fool. Then he reached for the trick he kept for river thieves, his hands went out of sight, the crowd heard a single unbroken note, the paper lanterns along the bank shook on their strings, and the oxhide split from rim to rim. He won. The prize had to be carried to him, since his wrists had swollen to the size of gourds and for three weeks he could not hold a cup.
 
@@ -34,12 +34,12 @@ Anyone in the river towns will tell you about the year Mokichi Hamano, a ferry-p
 | Field | Value |
 |---|---|
 | **Ability** | Nadi: Inertiokinesis / Dynamokinesis hybrid |
-| **Family** | Vectoria (Mechanics) |
+| **Path** | Body |
+| **Lens** | Sublimatio (Wild) first, Ascensio (Wild) second, Cymorath (Wild) in support |
 | **Affinity** | Inertia / Force |
-| **Method** | Corporis. No projection, no construct. **Nadi operates entirely within the practitioner's own biomechanical architecture** |
-| **Physics Domain** | Mechanics |
+| **Form** | Strike. No projection, no construct. **Nadi operates entirely within the practitioner's own biomechanical architecture** |
 | **Phenomenon** | Frequency multiplication, harmonic series, superposition of discrete impulses |
-| **Governing Stat** | Dexterity (Sequence, Celerity). **Sequence is load-bearing**: it sets how many distinct actions fit inside one engagement window without mechanical degradation |
+| **Gates** | Stage III for x1 to x10, rising to Stage IX for 500x. Dexterity (Sequence, Celerity). **Sequence is load-bearing**: it sets how many distinct actions fit inside one engagement window without mechanical degradation |
 | **Governing Weakness** | Ardency. Every action compressed into the same window shares that window's total force. **Dexterity controls how many actions fit. Ardency controls how little each one hurts** |
 
 > **Nadi is not speed.** A fast practitioner crosses distance quickly. A Nadi practitioner stands still and performs a hundred actions in the time another performs one.
@@ -69,7 +69,7 @@ Nadi treats the combat body as the string. A baseline strike is the fundamental.
 |---|---|---|
 | **Sublimatio** *The Ascending Breath · Primary* | The phase transition that skips the intermediate state. The wind-up, the transition, the recovery are the intermediate states of a strike: **Nadi skips them.** The fist goes from chambered to landed without occupying the positions between, because Sublimatio has declared those positions unnecessary. *Strengthens Ardency Compression, Tempering Clarity* | **Over-refinement.** So much intermediate motion is stripped that the body loses the feedback it needs to correct mid-strike. **The fist arrives where calculation said the target would be, not where the target is** |
 | **Ascensio** *The Ladder of Ascent · Secondary* | Compresses the gap **between** one completed action and the initiation of the next. Under augmentation the gap approaches zero and the sequence blends from discrete events into a continuous stream. *Strengthens Tempering Maturity, Harmonics Attunement* | **Sequence collapse.** Acceleration outpaces the body's capacity to complete each action. The second strike initiates before the first has landed **and both cancel each other's force vector** |
-| **Cymorath** *The Air of Ascent, Fulguria · Support, cross-Family* | Vector fields and the Lorentz force. At x100 the limbs execute faster than proprioceptive feedback can update, so **Cymorath replaces proprioception with vector-field awareness**: the body reads its own position as a function of velocity and ambient geometry, correcting at frequencies biological perception cannot match. *Strengthens Dexterity Celerity, Gnosis Perception* | **Assumes a stable ambient field.** Against Gravikinesis, Domain pressure or environmental disruption, the corrections diverge from reality |
+| **Cymorath** *The Air of Ascent, Wild · Support* | Vector fields and the Lorentz force. At x100 the limbs execute faster than proprioceptive feedback can update, so **Cymorath replaces proprioception with vector-field awareness**: the body reads its own position as a function of velocity and ambient geometry, correcting at frequencies biological perception cannot match. *Strengthens Dexterity Celerity, Gnosis Perception* | **Assumes a stable ambient field.** Against Gravikinesis, Domain pressure or environmental disruption, the corrections diverge from reality |
 
 ---
 
@@ -131,7 +131,7 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 
 **Environmental disruption** · A Nadi practitioner fighting inside someone else's Domain is fighting with degraded precision.
 
-**Armor** · Harness, hardened Recarvu tissue, Materia-reinforced shielding. **Anything that can absorb 1% hits indefinitely negates the discipline entirely.** *Devastating against unarmored opponents and nearly useless against armored ones.*
+**Armor** · Harness, hardened Recarvu tissue, matter-reinforced shielding. **Anything that can absorb 1% hits indefinitely negates the discipline entirely.** *Devastating against unarmored opponents and nearly useless against armored ones.*
 
 **Single decisive force** · The inverse philosophy. If one strike ends the fight, the hundred micro-dodges were irrelevant. **Iron Bison practitioners, who compound force into a single catastrophic release, are the direct counter-doctrine.**
 

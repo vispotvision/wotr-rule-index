@@ -65,7 +65,7 @@ So the line's errors are honest ones, the specific errors of compression followe
 
 A message arrives at a beacon-house and is carried the last stretch by hand, by boys, on foot, within about three miles of the house. Beyond that radius delivery is a further charge or is not offered. They are paid by the message rather than by the day, and a fast boy clears thirty in a shift.
 
-They are the most underused characters in the setting. **A boy who runs beacon messages knows, before anyone in the street does, who has had a death in the family, whose credit has failed, and which house has been summoned to the Bench.** He cannot read most of it. He does not need to. He can read a face at a door.
+Nobody thinks about them, and everyone should. **A boy who runs beacon messages knows, before anyone in the street does, who has had a death in the family, whose credit has failed, and which house has been summoned to the Bench.** He cannot read most of it. He does not need to. He can read a face at a door.
 
 ### The hour
 
@@ -135,7 +135,7 @@ Use this to answer, on the spot, when a Front's news reaches a given place.
 
 **Two.** When a Front advances, decide the true version once, then decide separately what the line carried, what the herald cried, what the song says and what the tap-room says. They will differ, and a character's decisions should be made on whichever one reached him.
 
-**Three.** The Guild reads everything. Anything a character genuinely needs kept is sent by hand, which costs days, and the choice between speed and secrecy is one of the few clean decisions the setting offers.
+**Three.** The Guild reads everything. Anything a person genuinely needs kept is sent by hand, which costs days, and the choice between speed and secrecy is one of the few clean decisions the age offers.
 
 ## V. Hooks Sitting Here Unused
 
@@ -154,13 +154,3 @@ Use this to answer, on the spot, when a Front's news reaches a given place.
 **The price that moved.** The odds on a siege shift hard at noon with no news in town. Somebody knows something, the bookie will not say who, and half the street is already selling up.
 
 **The song that will not die.** A minstrel's mistake has made a respectable family into murderers, in four hundred taverns, and the only person who can sing it right is the one who was paid to sing it wrong.
-
-## Author Notes
-
-**The beacon line** is built on real fire chains. The Byzantine beacon line of the ninth century, credited to Leo the Mathematician, ran some 450 miles across Asia Minor from the fortress of Loulon on the Cilician frontier to the palace lighthouse at Constantinople, and modern experiment suggests a signal could cross it in about an hour. Identical water clocks at the two ends assigned a different message to each of twelve hours, so the hour a fire was lit said what had happened. Later chroniclers claim Michael III shut it down so that news of an invasion would not spoil his chariot racing, which scholars usually treat as propaganda and this page treats as an idea for a hook. The Mamluk post in Syria and Egypt ran fire signals and carrier pigeons beside its relay horses, and Greek writers describe older hilltop chains. The real chains sent a few agreed signals. Sending words by shuttered color is this setting's own step past them, and the price per word, the heralds' rate, the deposit and the night watch all follow from that step.
-
-**The distortion mechanic** is the plain arithmetic of any short signal sold by the word, and it has a cousin in the merchants' newsletters of the Italian towns, where news went from hand to hand and each writer summarized the last.
-
-**The bag** is built on the relay systems: the Mongol yam, whose stations stood about 20 to 40 miles apart with spare horses, food and shelter, and the Persian royal road before it, for the riders; and for everything else the way medieval letters really moved, in the care of whoever was going that way, with the Florentine merchants' own courier service of the fourteenth century as the model for the merchant houses' riders.
-
-The substitution of wardened fire-towers for the plain beacon is originated, and so is everything downstream of it, including the Withering-era contraction of the line and the four peoples' different responses to Guild hour.

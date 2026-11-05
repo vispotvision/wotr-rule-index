@@ -4,9 +4,9 @@ title: Alchemy
 
 ![[Assets/Paintings/alchemy.webp]]
 
-*The working of Wellspring law (the sixty alchemical and spiritual transformations, each the governing idea of a type of Aether) upon matter: the trade, its heresies, its register, and the Drafts and tags it sells.*
+*The working of [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] law (the sixty alchemical and spiritual transformations, each the governing idea of a type of Aether) upon matter: the trade, its heresies, its register, and the Drafts and tags it sells.*
 
-When a Riser (the tall earthen vessel of sublimation) let go at Pomfret Row in the second year of the Dark Ages, it snowed sky-blue salt on three parishes for an afternoon, and by supper the children who had caught it in their aprons were selling it back to the house that lost it, at forty coppers the sack. This shelf is the long account of that trade, kept by a Guild archivist who has been on both ends of the sack. Its money runs on monster cores, rendered into Essence Drafts for tempering, and its worst crime and its one great prize are both written down here.
+When a Riser (the tall earthen vessel of sublimation) let go at Pomfret Row in the second year of the Dark Ages, it snowed sky-blue salt on three parishes for an afternoon, and by supper the children who had caught it in their aprons were selling it back to the house that lost it, at forty coppers the sack. This shelf is the long account of that trade, kept by a Guild archivist who has been on both ends of the sack. Its money runs on monster cores, rendered into [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|Essence Drafts]] for tempering, and its worst crime and its one great prize are both written down here.
 
 - [[Materials, Alchemy & Trade/Alchemy/The Real Alchemy|The Real Alchemy]]: What the laboratory did, from the fourteenth century to the end of the nineteenth, with the figures the sources give. An out-of-world reference page.
 - [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]]: The Working of Wellspring Law Upon Matter

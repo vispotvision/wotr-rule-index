@@ -28,7 +28,7 @@ A war bow: plausible mass 0.9 kg (living wood runs lighter than seasoned yew), d
 
 ### Codex line
 
-Wellspring: **Verdantia**, primary (Vitalia, Biochemistry). Category: **Harmonia**, per the card's own alignment, confirmed a live Category. Glyphs: `Ur` (Balance), `Wy` (Motion), `Ma` (Memory), all three confirmed Root forms in the Master Glyph Index; `Ur`'s attested spread already runs to nine Wellsprings across six Families, so its presence on a Vitalia item is unremarkable.
+Wellspring: **Verdantia**, primary (Wild, Biochemistry). Category: **Harmonia**, per the card's own alignment, confirmed a live Category. Glyphs: `Ur` (Balance), `Wy` (Motion), `Ma` (Memory), all three confirmed Root forms in the Master Glyph Index; `Ur`'s attested spread already runs to nine Wellsprings of every kind, so its presence on a Verdantia item is unremarkable.
 
 ### Bond and cost
 

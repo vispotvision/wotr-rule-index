@@ -20,7 +20,7 @@ The Research and Archives Division compiled what follows, the consent schedules 
 > **Seven traditions, one problem. The body has nine days of work to do and somebody has to see that it is left alone to do it.**
 >
 > Every funerary practice in the four quarters is a technology for managing the diffusion window, **and every one of them was arrived at before anybody could have explained it in those terms.**
-The practices differ enormously. **The function does not.** Keep the body undisturbed, keep it in a place the Wellspring can reach, keep somebody watching, **and do not let anyone take it before the ninth day.**
+The practices differ enormously. **The function does not.** Keep the body undisturbed, keep it in a place the [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] can reach, keep somebody watching, **and do not let anyone take it before the ninth day.**
 
 Traditions that fail any of those four produce the same complaints, in the same order, in every quarter, and the folk accounts of what goes wrong are **causally confused and predictively exact**, which by now should surprise nobody.
 

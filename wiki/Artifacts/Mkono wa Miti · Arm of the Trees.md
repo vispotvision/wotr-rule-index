@@ -24,7 +24,7 @@ Mass ~0.7 kg (living bark and amber inlay over a forearm's length; not stated on
 
 ### Codex line
 
-**Verdantia** (Vitalia · Biochemistry), sole harmonization, governs all three workings. Category: **Traitus** primary (the bracer is a standing, passive mark of what Chimwala's Crystal has become rather than a fired tool), **Viaforma** secondary (the temporary bark-shield shape). Glyphs: **Ur** (Balance), **Ma** (Memory), attested unchanged; **Th** (Foundation) in place of the card's unattested "Lo (Shield)."
+**Verdantia** (Wild · Biochemistry), sole harmonization, governs all three workings. Category: **Traitus** primary (the bracer is a standing, passive mark of what Chimwala's Crystal has become rather than a fired tool), **Viaforma** secondary (the temporary bark-shield shape). Glyphs: **Ur** (Balance), **Ma** (Memory), attested unchanged; **Th** (Foundation) in place of the card's unattested "Lo (Shield)."
 
 ### Bond and cost
 

@@ -482,7 +482,7 @@ Every power on this page has a position on that unrest. Most of them would call 
 
 ## Where the Seams Are
 
-*Every power above has an interest a player can find and use, and every one of them shows it in the open.*
+*Every power above has an interest an outsider can find and use, and every one of them shows it in the open.*
 - **Starve one House and turn another.** Drakyssia's Houses depend on each other by design. Cut what one supplies and a second House is hurt, and it knows exactly whom to blame.
 - **Enter through Jomari.** Every foreign cargo into the Old World passes House Jomari's harbors. The Pillars who lose by it resent Jomari first.
 - **Buy a Kharven house.** Ashmore sells grain, Thornwall sells timber, Hallenfeld wants a center. The Northern Road Company is buying all three, and none of the three has told the others.

@@ -27,12 +27,12 @@ By that test there are five, and one script system. Common is the fifth and is a
 
 | Tongue | Status | Why it earns a grammar |
 |---|---|---|
-| **Old Vaross** | Built | Already on the page untranslated. Canon roots exist. Its morphology carries the goblinoid worldview: no adjectives, weight-and-cost verb pairs, emphasis by vowel length. |
-| **Eressean and Varrisak** | Built | The Korvaeth arc turns on what constitutes valid transfer of a name. The schism is a *linguistic* dispute before it is a legal one. |
-| **The Tally-Tongue**, the tongue of the holds | Built | Oath-names are a real morphological slot. Consonant gradation means a Marrowkin name changes shape by grammatical case, which is a naming problem and a prose problem at once. |
+| **Old Vaross** | Built | Already met untranslated, and its old roots survive. Its morphology carries the goblinoid worldview: no adjectives, weight-and-cost verb pairs, emphasis by vowel length. |
+| **Eressean and Varrisak** | Built | The Korvaeth quarrel turns on what constitutes valid transfer of a name. The schism is a *linguistic* dispute before it is a legal one. |
+| **The Tally-Tongue**, the tongue of the holds | Built | Oath-names are a real morphological slot. Consonant gradation means a Marrowkin name changes shape by grammatical case, which is a naming problem and a clerk's problem at once. |
 | **Accord Latin** | Built | Real Latin, assembled rather than descended. Needs a fixed formula set rather than a grammar, plus the two spoken registers. |
-| **Common** | Built | The exception. The reader never sees it untranslated because the reader sees everything in it. Its Latinate and vernacular doublet is a live prose instrument in every line of dialogue in the project. |
-| **The Fourteen Hands** | Built, as **The Descent of Parun** under The Magic System | Each Archon reads the lattice from a different station and produces a different daughter script, and a document written in the wrong hand is void rather than incorrect. |
+| **Common** | Built | The exception. The reader never sees it untranslated because the reader sees everything in it. Its Latinate and vernacular doublet is alive in every line anyone speaks. |
+| **The Fourteen Hands** | Built, as **The Descent of [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands\|Parun]]** under The Magic System | Each Archon reads the lattice from a different station and produces a different daughter script, and a document written in the wrong hand is void rather than incorrect. |
 
 ## The Seven Shared Conventions
 

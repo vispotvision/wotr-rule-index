@@ -17,7 +17,7 @@ Every academy yard in the Quarters skips rope to it, and the children have the c
 
 Mnirah Valein wrote four hundred pages on it and the rhyme has never been caught in an error.
 
-### THE TWELVE STAGES OF SPIRIT INFUSION (school art; the Valein curriculum)
+### THE TWELVE STAGES OF SPIRIT INFUSION (school art; the Valein curriculum; any Path; Make)
 You can make your summon into anything if you climb the ladder in order, and every rung takes something from you and keeps it.
 
 The moves are the rungs, below, each with its own price: BASIC FUSION! TRAIT TRANSFER! LAYERED AMPLIFICATION! ELEMENTAL IMBUEMENT! HYBRID FUSION! CONCEPTUAL INFUSION! REACTIVE EVOLUTION! SYMBIOTIC LINK! MULTI-ENTITY FUSION! SPIRIT BINDING! OMNIPRESENT FORM! SPIRIT SOVEREIGN!

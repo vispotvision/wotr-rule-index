@@ -12,7 +12,7 @@ That is a wyrm being patient. The rest of this entry explains why you should pre
 
 > All four descend from Omnis' first sky-breath. **Two of them no longer do so honestly.**
 >
-> The Hydra is a wyrm bloodline **fractured by void-tainted Wellsprings.** The Voidwyrm is draconic blood crossed with raw Crevice essence. *Draconic cultures regard both as tragic: reminders of what happens when a draconic soul fractures beyond repair.*
+> The Hydra is a wyrm bloodline **fractured by void-tainted [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellsprings]].** The Voidwyrm is draconic blood crossed with raw Crevice essence. *Draconic cultures regard both as tragic: reminders of what happens when a draconic soul fractures beyond repair.*
 
 ---
 

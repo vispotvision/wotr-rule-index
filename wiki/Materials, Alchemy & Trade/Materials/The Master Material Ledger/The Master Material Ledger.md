@@ -46,7 +46,7 @@ This is the dullest book the Guild of Measurewrights (the assayers and scholars 
 
 *How the trade kills the people who work it.*
 
-An array is a working laid out in glyph and substrate to run in place, kept by hired tenders, and a deep mine's pumps and air both hang on one. A Core, in common speech, is a worked Wellspring site, and its keepers can close it.
+An array is a working laid out in glyph and substrate to run in place, kept by hired tenders, and a deep mine's pumps and air both hang on one. A Core, in common speech, is a worked [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] site, and its keepers can close it.
 
 | Hazard | Onset | Effect | Recorded position |
 |---|---|---|---|

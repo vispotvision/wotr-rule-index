@@ -6,6 +6,23 @@ title: Named Arts
 
 *Arts one person or one line derived and named, each on its own page. Children know these names, bookies quote them, and a Measurewright will argue with you about every one.*
 
+Every one of them answers the same [[The Magic System/Reference and Craft/Forms|four lines]]: a Path (the layer it leans on), a Lens (the Wellspring it runs on), a Form (what the hands do) and its Gates, which the page has in full.
+
+| Art | Path | Form |
+|---|---|---|
+| Ainigma | Spirit | Sing, Read |
+| Kami no Kobushi | Body and Fate | Strike, Claim |
+| Ken | Body, with Spirit for Psychiken | Strike, Read |
+| Matla | Body | Shape, Strike |
+| Moetana | Any, all three layers at once | Sing, Strike |
+| Nadi | Body | Strike |
+| Recarvu | Body | Shape |
+| Rusashin | Body | Shape, Strike |
+| Solution | Spirit | Read |
+| Talos | Body | Claim |
+| The Iron Bison | Body | Strike |
+| The Open Crucible | Spirit, with shallow Fate | Call, Brew |
+
 - [[The Disciplines/Named Arts/Ainigma — The Riddle Wearing a Face|Ainigma — The Riddle Wearing a Face]]: Αἴνιγμα. Every answer you get about them is true, and no two agree.
 - [[The Disciplines/Named Arts/Kami no Kobushi — The God Fist|Kami no Kobushi — The God Fist]]: they plant their feet, and the fight is already decided.
 - [[The Disciplines/Named Arts/Ken — The Fist That Fights the Architecture|Ken — The Fist That Fights the Architecture]]: 拳. One little tap, nothing hurts, and your arm stops being strong.

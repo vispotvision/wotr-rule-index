@@ -53,6 +53,5 @@ Carried in the Standing Index's T4–T5 table, in that index's own format.
 | The material | Pitch, cured in a fixed hold | Sand from an ascension plane — access-gated, not time-gated |
 | The unexplained mystery | Will not cure outside the hold it was sworn in | Will not "listen" to a claim spoken anywhere but before something older than the speaker |
 | Who can make one | Any Barrel Dwarf smith with nine years and a hold | Only smiths sponsored by a lineage-acknowledged Zettari |
-| Cross-culture parallel | Tallow Clans' Verse-Bound Coherence — sung, not vesseled | None yet — **deliberately left open as a future gap** |
+| Cross-culture parallel | Tallow Clans' Verse-Bound Coherence — sung, not vesseled | None yet |
 
-> Ruled by Isaac, 2026-09-12, as written (R33-1, R33-2). Answers Docket 18, the Zettari forge-culture substrate.

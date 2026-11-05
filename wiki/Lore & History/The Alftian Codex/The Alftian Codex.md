@@ -9,7 +9,7 @@ title: The Alftian Codex
 *Being the Recovered Journal of Vis Trismegistus, Alftian Savant · in three volumes*
 > Transcribed by the Silent Archivists of Naln, Era of Voyagers. **Recovered from the sealed lower stacks of the Herald's Archivum, Urbis.**
 >
-> *Classification: Hermetic Lore, Restricted Access, High Wellspring Sensitivity*
+> *Classification: Hermetic Lore, Restricted Access, High [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] Sensitivity*
 > 
 > > *"That which courseth above is as that which courseth below. That which burneth in Tempus burneth also in the Soul Crystal. There is but one law, and it is everywhere."*
 

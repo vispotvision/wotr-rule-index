@@ -6,9 +6,9 @@ title: Moto Element Inventory — Japonic Stratum
 
 Some generations back a retainer of the Akagane named his firstborn Tendoku, heaven and alone, at the spring naming, in a forge-yard hung with so much red-bronze cloth that the sparrows would not land in it. The Kōkan's envoy, in red enamel, asked over the rice whom exactly the sky had left standing, and whether the sky had been consulted. The boy had a new name by supper, kept the old one anyway, and fought six duels across forty years over which of the two would be read at Ice-out. A Moto element weighs that much.
 
-Moto naming is Japonic, and this is its element bank. Same shape as the Yukari inventory: thirty elements in five categories, two-element compounds, two to four syllables, vowel-forward, no clusters (Naming Guide §5.1). Nothing here changes a name already on the page.
+Moto naming is Japonic, and this is its element bank. Same shape as the Yukari inventory: thirty elements in five categories, two-element compounds, two to four syllables, vowel-forward, no clusters. Nothing here changes a name already on the record.
 
-**Attested, not coined:** the elements marked *attested* are lifted from names and terms already in canon. Every other element and every gloss is **coined**.
+**Attested and coined:** the elements marked *attested* are lifted from names and terms already in use. Every other element and every gloss is **coined**.
 
 ## Slot structure (attested)
 

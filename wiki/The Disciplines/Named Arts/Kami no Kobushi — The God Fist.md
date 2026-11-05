@@ -4,7 +4,7 @@ title: Kami no Kobushi — The God Fist
 
 # Kami no Kobushi — The God Fist
 
-**KAMI NO KOBUSHI** (神の拳 · Kami no Kobushi) (bloodline and personal art, one Anchor across seven Labor-Forms)
+**KAMI NO KOBUSHI** (神の拳 · Kami no Kobushi) (bloodline and personal art, one Anchor across seven Labor-Forms; Body and Fate; Strike, Claim)
 
 *Scholars' term: Kami no Kobushi, or the Labor-Forms of the Anchor.*
 
@@ -45,7 +45,7 @@ The charge is the stopping. The Anchor has chosen ground and stopped: a weapon b
 
 A blow carries the mass of everything coupled to the fist at contact, so a rooted stance hits far harder than an arm alone, and a body coupled to something immovable hits with that thing's mass. That is effective mass. The law is conservation of momentum with effective mass set by the coupling, and impedance matching at the interface deciding how much energy crosses and how much reflects. A body that does not accelerate returns the whole applied force, so an attacker striking a perfectly anchored defender receives their own blow. Transmission is fixed by what the two bodies are before contact, so the exchange is decided before it lands, and speed is not in the equation. Everything fails at a pre-existing flaw (Griffith's criterion), so a strike that finds the oldest flaw need only load it and need not supply the failure. The limit is honest: nothing has infinite mass. Effective mass is bounded by what the coupling carries before it fails, so everything that beats an Anchor beats the coupling and leaves the man for later. Nothing is granted from outside, either, only what the bearer has become able to carry.
 
-There is one Anchor across seven Labor-Forms, one for each Work of Hataraki, and each form runs its own five or six Wellsprings, listed under each form below. Fixatio, the Binding Flame (Materia), makes the unmoved configuration the only reachable one, and this is the Anchor. Fractura, the Breaking Point, gives sight of a structure's flaws and the precision to load exactly one. Cataclysm, the Shattered Law, has a confined flame front couple to a shock and change kind. Basilithe, the Stone Will, stiffens ground so it will not accept a borrowed rhythm. Petralon, the Foundation Stone, routes every load into compression, accepting creep over any tensile crack. The glyph is Order, for the verdict before the blow, laid under Boundary, for the coordinate that will not move. The boundary is what the practitioner's position is a property of: the coordinate is pinned to something other than the floor, so the coupling is a shared coordinate and more than a contact. The Shell (the Crystal's outer skin) carries the load path, the Attraction Layer holds the coordinate, and the Essence Core holds the doctrine as a Trait. Developmental Tier is Radiant at Transcendence, Sovereign from Invocation, where Trait law and Domain law merge.
+There is one Anchor across seven Labor-Forms, one for each Work of Hataraki, and each form runs its own five or six Wellsprings, listed under each form below. Fixatio, the Binding Flame (Medium), makes the unmoved configuration the only reachable one, and this is the Anchor. Fractura, the Breaking Point, gives sight of a structure's flaws and the precision to load exactly one. Cataclysm, the Shattered Law, has a confined flame front couple to a shock and change kind. Basilithe, the Stone Will, stiffens ground so it will not accept a borrowed rhythm. Petralon, the Foundation Stone, routes every load into compression, accepting creep over any tensile crack. The glyph is Order, for the verdict before the blow, laid under Boundary, for the coordinate that will not move. The boundary is what the practitioner's position is a property of: the coordinate is pinned to something other than the floor, so the coupling is a shared coordinate and more than a contact. The Shell (the Crystal's outer skin) carries the load path, the Attraction Layer holds the coordinate, and the Essence Core holds the doctrine as a Trait. Developmental Tier is Radiant at Transcendence, Sovereign from Invocation, where Trait law and Domain law merge.
 
 Pushed, the push comes back entire. Struck from, the blow carries the coupling's mass. Each bearer's figures come off their own card; there is no Stage floor, since this is a bloodline and personal art and the lineage decides who can use it. The largest Works run fewer than four to a reserve.
 
@@ -269,15 +269,14 @@ Gimbzo is the proof against calling this delusion. **It is simply the direction 
 
 ### Codex line
 
-**Wellspring** · Each Labor-Form runs its own five or six, listed under each form above.
+**Path** · Body and Fate, the blow that always arrives. The blood gives neither, and a bearer who has only one reads as that one.
 
-**Family** · Several by design, with the two best-known forms anchored on Materia.
+**Lens** · Fixatio (Medium) under all of it. Each Labor-Form runs its own five or six, listed under each form above.
 
-**Physics Domain** · Material Science for the two best-known forms; each Labor-Form adds its own.
 
 **Phenomenon** · Effective mass and impedance matching at contact, with fracture at a pre-existing flaw.
 
-**Category** · Arts, a structured discipline of movement, form and Essence flow; nothing about it is involuntary.
+**Form** · Strike, a structured discipline of movement, form and Essence flow, with Claim for the Anchor and its ground; nothing about it is involuntary.
 
 **Skill** · Bodily speaking: a martial doctrine carried in the body, holding while the coupling is paid for.
 
@@ -285,7 +284,7 @@ Gimbzo is the proof against calling this delusion. **It is simply the direction 
 
 **Grade required** · Set by each bearer's own card; a Master bearer at Transcendence strikes at S-Grade.
 
-**Path gate** · Body Path for Hardening and Fortification, Fate Path for Gravity and Continuity.
+**Gates** · Body Path for Hardening and Fortification, Fate Path for Gravity and Continuity.
 
 ### FOW line
 
@@ -313,4 +312,4 @@ Gimbzo is the proof against calling this delusion. **It is simply the direction 
 
 **Fails against** · Tension: a pull, lift, hook or drag; a confined space, where the blast returns; displacement above its Continuity, a Silence, or ground that will not hold, any of which severs the coupling; Obsession; spending.
 
-**Look up** · The Materia entries for Fixatio and Petralon and the Cataclysm, Fractura and Basilithe failures; the Continuity and Gravity gates; the bearer's card and lineage; the Transcendence and Emanation Stage tables.
+**Look up** · The Wellspring entries for Fixatio and Petralon and the Cataclysm, Fractura and Basilithe failures; the Continuity and Gravity gates; the bearer's card and lineage; the Transcendence and Emanation Stage tables.

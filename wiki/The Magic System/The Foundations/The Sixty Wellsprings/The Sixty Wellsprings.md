@@ -354,7 +354,7 @@ These conditions bind what acts on the world, the Wild and the Medium. A Spirit 
 
 ---
 
-## Discrepancies of Record
+## Where the Registers Disagree
 
 *Attested, not reconciled.*
 

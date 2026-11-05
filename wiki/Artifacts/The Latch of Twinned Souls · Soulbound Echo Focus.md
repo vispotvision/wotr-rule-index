@@ -26,11 +26,11 @@ A silver ring, roughly 9 g, about 2 cm across the interlocked loops, worn consta
 
 ### Codex line
 
-Wellspring: **Anamnesis** (primary; the tether itself is an Attraction Layer bond, the same architecture that lets any Echo carry his Anamnesis read), **Fixatio** (secondary; the pre-anchoring of both loops). Family: **Limina, Entropy, Void and Mind** (primary); **Materia, Material Science** (secondary). Category: **Animatria**; the Latch governs the identity-layer construct itself, the fielded Echo, more directly than it governs memory storage. Glyphs: `Wy`, Motion, confirmed attested (appears across multiple current character sheets as a legitimate Parun form); `Ma`, Memory, carried from the legacy card but **not verified** in the Master Glyph Index, the same open flag Karo's own sheet carries for this chain.
+Wellspring: **Anamnesis** (primary; the tether itself is an Attraction Layer bond, the same architecture that lets any Echo carry his Anamnesis read), **Fixatio** (secondary; the pre-anchoring of both loops). Kind: **Medium, Entropy, Void and Mind** (primary); **Medium, Material Science** (secondary). Category: **Animatria**; the Latch governs the identity-layer construct itself, the fielded Echo, more directly than it governs memory storage. Glyphs: `Wy`, Motion, confirmed attested (appears across multiple current character sheets as a legitimate Parun form); `Ma`, Memory, carried from the legacy card but **not verified** in the Master Glyph Index, the same open flag Karo's own sheet carries for this chain.
 
 ### Bond and cost
 
-Soulbound to Karo, worn constantly. It functions only for a bearer whose Attraction Layer already forms Echo-type tethers, which in current canon means Karo alone. The cost is severe and direct: dual-tether mode makes him feel, in real time, whatever his own fragment suffers, and prolonged use measurably increases the odds of a fragment that will not consent to recall, the exact uncertainty his own sheet admits it has no instrument to resolve.
+Soulbound to Karo, worn constantly. It functions only for a bearer whose Attraction Layer already forms Echo-type tethers, which at present means Karo alone. The cost is severe and direct: dual-tether mode makes him feel, in real time, whatever his own fragment suffers, and prolonged use measurably increases the odds of a fragment that will not consent to recall, the exact uncertainty his own sheet admits it has no instrument to resolve.
 
 ### Counterplay
 

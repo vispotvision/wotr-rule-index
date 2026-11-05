@@ -124,7 +124,7 @@ The Accord's calendar is arithmetic, and its year begins on the first of January
 
 The rising has slipped **eleven days** against the Accord date since the seal. The Accord's position is that eleven days is within tolerance and the calendar is the calendar. The Moto position is that the Accord's year no longer begins when the year begins, and that a people who will not correct their count against the sky have said something about themselves.
 
-The Sohai, being a religion of the Reading, holds that this is not a scheduling dispute. **A thing read correctly is not gone. A thing read incorrectly is being got wrong on purpose, daily, by an institution that has the means to check.** That is the sharper end of the same argument the house already makes against the Scale, and it is one of the few doctrinal quarrels in the setting that could be settled by anybody willing to get up early enough, which is why nobody has.
+The Sohai, being a religion of the Reading, holds that this is not a scheduling dispute. **A thing read correctly is not gone. A thing read incorrectly is being got wrong on purpose, daily, by an institution that has the means to check.** That is the sharper end of the same argument the house already makes against the Scale, and it is one of the few doctrinal quarrels in the four quarters that could be settled by anybody willing to get up early enough, which is why nobody has.
 
 ## VIII. Who Uses What
 

@@ -12,7 +12,7 @@ Long Sim Tupper smuggled the egg into Harl's Cross in a crate of speckled hens, 
 
 A cockatrice was a hen and a serpent before it was a calamity, and that is the whole reason it has a place on this shelf.
 
-> Every entry here was **something else first.** Serpent Essence and corrupted human souls. Cursed unions. Mortals who succumbed to hunger. Draconic bloodlines that fractured.
+> Every entry here was **something else first.** Serpent [[The Magic System/First Steps/The Core Vocabulary|Essence]] and corrupted human souls. Cursed unions. Mortals who succumbed to hunger. Draconic bloodlines that fractured.
 >
 > **Aberration is a verdict on a lineage, and the word has never once described a species.**
 
@@ -96,7 +96,7 @@ Cold, predatory, relentless. **They stalk in darkness before striking with letha
 
 **Leans on** · the Core, by Anamnesis, Medium, with Oneirion and Nihiloth. *Body:* she is close and she is flesh, once you can find which one. *Spirit:* a contest, and she has eaten better minds. *Fate:* her enchantments survive by reading you correctly, and they can be spoiled.
 
-**Ancient spirit-touched beings born from the fusion of serpent Essence and corrupted human souls.** Legend places their origin in **forbidden rituals attempting to bind primal Wellspring serpents with mortal will**, producing creatures that blur the line between flesh and otherworldly Essence.
+**Ancient spirit-touched beings born from the fusion of serpent Essence and corrupted human souls.** Legend places their origin in **forbidden rituals attempting to bind primal [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] serpents with mortal will**, producing creatures that blur the line between flesh and otherworldly Essence.
 
 The upper body a hauntingly beautiful human female, pale or iridescent, **with faint scale patterns along arms and neck.** The lower body a sinuous serpent tail in dark shimmering scale. *Their movements are hypnotic and unnervingly graceful, accompanied by faint whispers.*
 

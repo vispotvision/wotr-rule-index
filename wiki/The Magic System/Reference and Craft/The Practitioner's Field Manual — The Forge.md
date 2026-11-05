@@ -33,7 +33,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
 >
-> *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behavior and physics, and the window right after it. What the numbers do is make sure the behavior was earned.*
+> *Every outcome should trace to a specific row, and the working notes should say which. What the reader receives is behavior and physics, and the window right after it. What the numbers do is make sure the behavior was earned.*
 
 ---
 
@@ -49,7 +49,7 @@ That slate is the Delivery Rate Law, below, and this manual is what the Guild's 
 [Skill risen: Haggling, Grade D]
 ```
 
-A called Release or Domain fills the window with its name and what changed, and a timer bar drains. Pressure is felt in the room first, and then the window reports it. At a table or on Discord, windows are plain text blocks, and a player's gains are offered as window lines they keep or change.
+A called Release or Domain fills the window with its name and what changed, and a timer bar drains. Pressure is felt in the room first, and then the window reports it.
 
 | On the sheet | How it moves | What to do with it |
 |---|---|---|
@@ -80,13 +80,13 @@ A called Release or Domain fills the window with its name and what changed, and 
 >
 > **Techniques** are moves: a specific repeatable application within an Ability already established, a named thing done with a skill. **These may be invented at speed, mid-scene, without stopping**, provided they are built through the Forge and logged afterward.
 >
-> ***Invent freely downward, never upward. A new Technique under a known Ability is craft. A new Ability under a known character is a canon decision wearing a technique's coat.***
+> ***Invent freely downward, never upward. A new Technique under a known Ability is craft. A new Ability under a known character is a decision about the whole person wearing a technique's coat.***
 
 ---
 
 ## The Forge
 
-**Before the first step, the concept.** A kit starts as one wild idea you can explain in a breath, soup, debt, doors, boredom, anything, so long as the character can push it somewhere terrifying. Character first, then the concept, and only then the phenomenon, the Wellspring and the glyph that explain it and the Path it goes out by; the Sixty and the Glyphs stay fixed and the idea finds its place among them. A major character starts with three to five named moves and adds one when a fight or scene earns it. An NPC may invent and name a new move in the middle of a fight, and it is canon on use. The Forge below takes that idea and makes it hold.
+**Before the first step, the concept.** A kit starts as one wild idea you can explain in a breath, soup, debt, doors, boredom, anything, so long as the character can push it somewhere terrifying. Character first, then the concept, and only then the phenomenon, the Wellspring and the glyph that explain it and the Path it goes out by; the Sixty and the Glyphs stay fixed and the idea finds its place among them. A major character starts with three to five named moves and adds one when a fight or scene earns it. A fighter may invent and name a new move in the middle of a fight, and it stands from then on. The Forge below takes that idea and makes it hold.
 
 *Seven steps at the desk. Steps one through four are structural and cannot be skipped. Five through seven are what separate a technique from a special effect.*
 
@@ -135,7 +135,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ## The Delivery Rate Law
 
-*Ratified. It generalizes across every phenomenon a working can touch as one rule and resolves the recurring problem of every escalation reading as simply larger.*
+*It generalizes across every phenomenon a working can touch as one rule and resolves the recurring problem of every escalation reading as simply larger.*
 > **Every working has a delivery rate. Rate decides whether the effect pushes or shatters. Magnitude does not.**
 **The same Essence (the soul's own stuff of power), the same Wellspring, the same practitioner, delivered slow or delivered instantaneously, produce two entirely different injuries.** *This is the correct way to escalate a character without inflating a number, and it is available at every Stage from Murmuring upward.*
 
@@ -161,7 +161,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 |---|---|
 | **Physical toll** | Exhaustion, injury, aging, organ damage. **Reliable. Overused** |
 | **Resource depletion** | **The weakest category available.** *Only a real cost if scarcity bites outside a fight* |
-| **Corruption** | **WOTR's default for anything Wellspring-adjacent, which is precisely why it should not be the default here** |
+| **Corruption** | **The usual default for anything Wellspring-adjacent, which is precisely why it should not be the default here** |
 | **Sanity** | A large lever. **Sparingly** |
 | **Memory** | Trading recall for capability. **Underused across the whole cast, and it fits the Anima Spirare register exactly** |
 | **Time** | Cast duration, cooldown, or lifespan spent |
@@ -173,7 +173,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 ## The Vow Clause
 
-*Ratified. Lives in Votia; sealed as Claustra.*
+*Lives in Votia; sealed as Claustra.*
 
 **A practitioner may bind a technique under a stated condition, sworn into the Lattice or into their own Crystal. The narrower the condition and the heavier the forfeiture, the greater the output.**
 > *"Against those who deserve it" buys nothing. "Only against the Zettari, and if I break it my Crystal shatters" is a vow.*
@@ -202,14 +202,14 @@ A called Release or Domain fills the window with its name and what changed, and 
 
 | Phenomenon | What it cannot do | Signature cost |
 |---|---|---|
-| **Heat** *and its absence* | **Cannot create energy.** Every degree added is a degree taken from somewhere, **and the practitioner must name the source or become it.** Cannot sustain combustion without an oxidizer: *sealed rooms, deep water and the high thin air of the Reach are Caloria-hostile ground* | **Physical toll, sink-side.** *A thirty-year adept has hands that no longer sweat, corneas gone slightly opaque, and a resting body temperature nobody wants to shake hands with* |
-| **Lightning** *the work of the differential* | **Cannot arc across a gap it has not prepared.** Useless against wood, ceramic, dry rope, ungirded stone, *which is why the counter-lightning kit is boiled leather and fired clay and always has been.* **Falls off with the square of distance,** so every Fulguria threat is a threat about closing range | **Sanity-adjacent, sensory.** The nervous system is the instrument, **and instruments detune.** *Early signs read as brilliance: he answers before you finish, he notices everything, he has not slept and does not think that is strange* |
+| **Heat** *and its absence* | **Cannot create energy.** Every degree added is a degree taken from somewhere, **and the practitioner must name the source or become it.** Cannot sustain combustion without an oxidizer: *sealed rooms, deep water and the high thin air of the Reach are hostile ground for any fire* | **Physical toll, sink-side.** *A thirty-year adept has hands that no longer sweat, corneas gone slightly opaque, and a resting body temperature nobody wants to shake hands with* |
+| **Lightning** *the work of the differential* | **Cannot arc across a gap it has not prepared.** Useless against wood, ceramic, dry rope, ungirded stone, *which is why the counter-lightning kit is boiled leather and fired clay and always has been.* **Falls off with the square of distance,** so every lightning threat is a threat about closing range | **Sanity-adjacent, sensory.** The nervous system is the instrument, **and instruments detune.** *Early signs read as brilliance: he answers before you finish, he notices everything, he has not slept and does not think that is strange* |
 | **Force** *and motion* | **Cannot create momentum.** Every push has an equal push on the practitioner, **and the only question is which of his joints receives it.** *Resonance requires knowing the frequency, and knowing it requires time the fight may not give* | **Physical toll, reaction-side, and it is skeletal.** *Shoulders that come out of socket in cold weather. A spine that has been used as a bracing member for twenty years.* **Corruption is gravitational isolation:** the early symptom is that people stop being able to stand near him comfortably and cannot say why |
 | **Distance** *and position* | **Cannot fold to a place it has not measured**, *and the failure state for blind translocation is arriving somewhere occupied.* **Cannot move what it cannot fully bound,** so a partial working takes a partial man | **Time and proprioception.** *Long before terminal dissociation, the practitioner reaches for a cup and misses by a hand's width, and stops trusting stairs* |
 | **Matter** *and substance* | **Cannot make matter. Conservation is absolute here and there are no exceptions**, *which is why a matter-worker on bare ice or open water is a man with opinions and no tools.* Loses every exchange decided in under two seconds and wins every one that lasts a week | **Escalating dependency, mineral.** Petrification compulsion, terminating in mineralized flesh. *It shows first in the nail beds and the whites of the eyes, the only corruption in the manual a physician can diagnose by looking* |
-| **Biology** *and anatomy* | **Healing eats mass, and the mass comes from the patient, the caster, or something the caster brought**, *and a healer who will not say which is a healer who is lying.* **Cannot restore what has lost its pattern;** the dead stay dead, and the attempt to argue with that is Limina's crime, not this House's | **Memory and metabolic debt.** *A Vitalia healer at the end of a long campaign is a man who can name every wound he closed and not the wife he closed them to get home to* |
+| **Biology** *and anatomy* | **Healing eats mass, and the mass comes from the patient, the caster, or something the caster brought**, *and a healer who will not say which is a healer who is lying.* **Cannot restore what has lost its pattern;** the dead stay dead, and the attempt to argue with that is the void's crime and no healer's | **Memory and metabolic debt.** *A healer at the end of a long campaign is a man who can name every wound he closed and not the wife he closed them to get home to* |
 | **Fluid** *and pressure* | **Cannot act without a medium**: deep vaults, sealed reliquaries and the dry Undaar deeps are deliberately hostile ground. **Cannot hold a boundary indefinitely, because fluids want to mix and the working is always spending Essence to disagree** | **Dissolution of boundaries, and it is the eeriest corruption in the register.** *The tell is grammatical and should be written that way: an adept who has gone too far starts saying* we *about himself, without noticing, and gets irritated when corrected* |
-| **Entropy, Void, Mind** | **Cannot create. Every working of this kind is subtractive and there are no exceptions**, *the single most useful clarifying sentence in the manual.* Cannot act on what has no pattern, **so raw undifferentiated matter is nearly immune and a rock is a better Limina shield than a ward** | **Existential erosion, and it is reflexive: the practitioner pays in the same currency he spends.** *A man who erases memory loses memory. A man who nulls loses the ability to feel Aether at all in a widening radius around his own skin* |
+| **Entropy, Void, Mind** | **Cannot create. Every working of this kind is subtractive and there are no exceptions**, *the single most useful clarifying sentence in the manual.* Cannot act on what has no pattern, **so raw undifferentiated matter is nearly immune and a rock is a better shield against it than a ward** | **Existential erosion, and it is reflexive: the practitioner pays in the same currency he spends.** *A man who erases memory loses memory. A man who nulls loses the ability to feel Aether at all in a widening radius around his own skin* |
 
 > **Standing prohibition.** *Chronokinesis is Forbidden beyond Stage X. Chronoturgy is Forbidden outright.*
 >
@@ -270,7 +270,7 @@ The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Att
 
 **IV · Make the filing political.** The Forms, and every older sorting of magic before them, are **an Accord publication before they are a law of physics.** *Documents serve the people who publish them. Somebody's trade was reclassified as Mechanica on grounds that were political before they were metaphysical.*
 
-**V · Move cost from the ledger to the page.** EU (Essence Units, the measure of a reserve), Flux Density (how densely Essence packs into the Crystal) and η (efficiency, the share of spent power that does its work) remain author-facing and unchanged, and even a person's own window (the soul reporting its numbers to its owner, unseen by anyone else) shows only Grades, percentages, bars and levels. **What a reader sees is the Cost Wheel: the years, the memory, the sanction, the debt, the man who knows what you bought.**
+**V · Move cost from the ledger to the page.** EU (Essence Units, the measure of a reserve), Flux Density (how densely Essence packs into the Crystal) and η (efficiency, the share of spent power that does its work) remain the compilers' business and unchanged, and even a person's own window (the soul reporting its numbers to its owner, unseen by anyone else) shows only Grades, percentages, bars and levels. **What a reader sees is the Cost Wheel: the years, the memory, the sanction, the debt, the man who knows what you bought.**
 
 ### Prose cues, trade by trade
 

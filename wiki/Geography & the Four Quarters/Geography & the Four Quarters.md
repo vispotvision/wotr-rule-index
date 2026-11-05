@@ -92,3 +92,7 @@ Read **The Bearing and the Holding** for what the ground is and what may be made
 > Three channels. **The beacon line** is near-instant, priced by the word, read by the Guild, and runs from hilltop to hilltop, which means it reaches exactly as far as somebody will pay a warden to stand on a hill and no further. A district past the last tower is deaf, and a Withering-era quarter loses its towers at the same rate it loses density. **The post** is cheap, prepaid, and the only channel still serving a deaf district. **The mouth** (heralds, minstrels, bounty bills, bookies' boards and the tap-room) is free, faster over short distances, and wrong.
 >
 > Carries a distance-and-channel table for answering on the spot when a Front's news reaches a given place, plus the standing rule that follows from all of it: **ask whether the destination is on the line before asking how far it is.**
+
+---
+
+**Read beside this.** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]] for what each kind of ground favors and hates, [[The Bestiary/Dungeons|Dungeons]] for what grows on it, and [[Cosmology & Metaphysics/The Making of the World/The Veil|The Veil]] for why some places are thinner than others.

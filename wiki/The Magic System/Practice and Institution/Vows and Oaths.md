@@ -80,7 +80,7 @@ A person says aloud what they will do or will not do, and what it costs them if 
 
 **Enough of them is a Path.** The Crystal goes by what a life has been spent on, and it does not ask what you thought you were doing. A hitter with three great vows and twenty years on them may read as having Walked the Fate Path on an honest assay, three parts in ten of her practice gone down that road, and she gets the force bonus and the rough seat that go with two roads, having never once intended either. Plenty of old soldiers discover this at a Threshold.
 
-The filing clerks keep two drawers for all this. On the Unified Taxonomy a vow's working is **Votia**, a working whose currency is a declared price, and the seal it sets on the soul is **Claustra**, the only seal whose anchor is the bearer's own behavior. See [[The Magic System/Reference and Craft/The Magical Categories — Unified Taxonomy|The Magical Categories]].
+The filing clerks keep two old drawers for all this, and both now sit under the one Form, Bind. A vow's working is **Votia**, a working whose currency is a declared price, and the seal it sets on the soul is **Claustra**, the only seal whose anchor is the bearer's own behavior. See [[The Magic System/Reference and Craft/Forms|Forms]].
 
 ---
 

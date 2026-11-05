@@ -12,7 +12,7 @@ The register enters the Droval as an animal, and the Measurewrights who keep the
 
 > **Type:** Natural Beast / Spirit-Touched Behemoth
 >
-> Rare elder specimens and Titan-class Droval cross into Elemental Behemoth classification due to extreme Wellspring saturation.
+> Rare elder specimens and Titan-class Droval cross into Elemental Behemoth classification due to extreme [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] saturation.
 >
 > **Danger Tier:** T2–T9 (variable by age, lineage, environment, and specialization)
 >
@@ -92,7 +92,7 @@ Droval do not cast spells, invoke Wellsprings, or refine Essence through a Soul 
 
 Their Essence expression is entirely **passive and environmental**. Their presence lowers ambient temperature. Their proximity suppresses natural sound through Harmonic resonance. Their vocalizations carry a sub-audible component that produces instinctive dread in nearby creatures. No mind control and no working is involved, only a primal terror sharpened by Wellspring resonance until it operates below conscious thought and above the threshold of physiological response. The body reacts before the mind identifies the threat. Heart rate rises, sweat comes, fine motor control degrades. At its root the terror is thermoregulatory: the body recognizing, at the deepest level of its survival, that the thing nearby is the cold itself, which is what the body evolved to flee.
 
-Titan Droval intensify every passive effect to catastrophic levels. A Titan's presence freezes standing water, cracks exposed stone, disrupts weaker fire-aligned manifestations, and produces the **ice-crystal orbiting phenomenon** that makes a Titan identifiable at distance. The Titan's Harmonic output is sufficient to suppress the morale of trained military formations and to destabilize the Essence coherence of practitioners below Stage IV.
+Titan Droval intensify every passive effect to catastrophic levels. A Titan's presence freezes standing water, cracks exposed stone, disrupts weaker fire-aligned manifestations, and produces the **ice-crystal orbiting phenomenon** that makes a Titan identifiable at distance. The Titan's Harmonic output is sufficient to suppress the morale of trained military formations and to destabilize the Essence coherence of practitioners below [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] IV.
 
 ---
 

@@ -166,7 +166,7 @@ Every branch talks about the shared arts in the same flat words, and they are th
 
 ## The Three Deep Lineages
 
-A note on terms for readers from the surface. **In the blood** names what a lineage's souls tend toward, a thing of blood and upbringing and never a lock; **Untrained lean** gives the tilt of the three layers before anyone has trained them, and never sets Mastered or Walked ([[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]); a **Wellspring** is one of the sixty types of Aether, each working on the Soul Crystal in its own way, and a lineage may be able to harmonize with it, or may reject it outright. **Stage** is a rung of the sixteen-step climb. A **Domain** is the territory in which a high-Stage practitioner's own law holds.
+A note on terms for readers from the surface. **In the blood** names what a lineage's souls tend toward, a thing of blood and upbringing and never a lock; **Untrained lean** gives the tilt of the three layers before anyone has trained them, and never sets Mastered or Walked ([[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]]); a **[[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]]** is one of the sixty types of Aether, each working on the Soul Crystal in its own way, and a lineage may be able to harmonize with it, or may reject it outright. **[[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]]** is a rung of the sixteen-step climb. A **Domain** is the territory in which a high-Stage practitioner's own law holds.
 
 ### The High Line: Rune-Forgers of the Bound Geometry
 
@@ -257,13 +257,13 @@ Their spoken language is produced by vocal cords that operate within the Aura De
 |---|---|---|---|
 | **The High Line** | **Suora Viiva, the True Line:** a single rune spoken along the path of your blow, after which your blow may travel that line and no other | Iron rings, squared beards, a rule at the belt in place of a dagger, and they will measure you with it | "A Cask Line oath is good until the cask is empty" |
 | **The Cask Line** | **Ninety-Year Pour:** the reserve they have been sitting on since their grandmother's day, let out all at once, gold and steaming, over you | Leather aprons, copper hoop-bracelets, a smell of malt from across the market | "The High Line has never once been drunk, and it has never once helped" |
-| **Deepkin** | **You Are Still Here:** they walk up. Your coat goes out, your fire goes out, your Trait stutters, and they are still walking | Gray on gray, no metal that rings, and no one has ever asked them to dance | They sign it. You will not see what they said, and it was about you |
+| **Deepkin** | **You Are Still Here:** they walk up. Your coat goes out, your fire goes out, your [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge\|Trait]] stutters, and they are still walking | Gray on gray, no metal that rings, and no one has ever asked them to dance | They sign it. You will not see what they said, and it was about you |
 
 Everyone else's opinion of the Marrowkin is a variation on one line, and it goes round every tavern from Hallenfeld to Sum-gol: lovely steel, read the bottom of the sale.
 
 ---
 
-## Discrepancies of Record
+## Where the Registers Disagree
 
 *Attested, not reconciled.*
 

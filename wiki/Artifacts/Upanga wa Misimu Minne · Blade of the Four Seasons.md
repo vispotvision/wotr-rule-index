@@ -20,7 +20,7 @@ Mass approximately 1.6 kg; overall length approximately 110 cm, of which the bla
 
 **Season Shift, Spring.** The Verdantia Aether runs through *Yn* (Bloom), so a cut sealed immediately regrows tissue at the wound edge as living scar rather than an open injury; it heals flesh, not Essence, and spends from the wielder's own reserve to do it.
 
-**Season Shift, Summer.** Rebirthine Aether, the Wellspring of the cycle, briefly phase-locks to whatever ambient heat is present, a documented but unusual cross-Family Resonant Pair rather than a Family change, and the blade's strikes carry that heat forward into the target.
+**Season Shift, Summer.** Rebirthine Aether, the Wellspring of the cycle, briefly phase-locks to whatever ambient heat is present, a documented but unusual Resonant Pair across two laws rather than a change of Wellspring, and the blade's strikes carry that heat forward into the target.
 
 **Season Shift, Autumn.** *Wy* (Motion) redirects Essence carried in a struck target back along the blade into the wielder's own reserve on contact, a direct transfer rather than a stored or shipped one.
 
@@ -30,7 +30,7 @@ Mass approximately 1.6 kg; overall length approximately 110 cm, of which the bla
 
 ### Codex line
 
-Wellspring: Verdantia (primary), Rebirthine (secondary, cycle). Family: Vitalia. Physics Domain: Biochemistry. Category: Domain Weaving (the Cycle Severance rite), with a Wellsprings reading for the basic seasonal strikes. Glyphs, Master Glyph Index attested: *Ur* (Balance, Root, Urion), *Wy* (Motion, Root, Auren), *Yn* (Bloom), *Ka* (Cycle). *Fa* and *Sa* as originally written are not attested forms and do not appear in the final Codex line.
+Wellspring: Verdantia (primary), Rebirthine (secondary, cycle). Kind: Wild. Physics Domain: Biochemistry. Category: Domain Weaving (the Cycle Severance rite), with a Wellsprings reading for the basic seasonal strikes. Glyphs, Master Glyph Index attested: *Ur* (Balance, Root, Urion), *Wy* (Motion, Root, Auren), *Yn* (Bloom), *Ka* (Cycle). *Fa* and *Sa* as originally written are not attested forms and do not appear in the final Codex line.
 
 ### Bond and cost
 

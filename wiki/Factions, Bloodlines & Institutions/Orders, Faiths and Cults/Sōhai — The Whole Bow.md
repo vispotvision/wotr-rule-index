@@ -73,7 +73,7 @@ Fate, to the Sōhai, has nothing to do with prediction. Fate is work: the contin
 | **Selhar** | Harmony | **The Tuning.** Voices matched to another voice. Singing with, never at. A household that cannot sing together is diagnosed, never scolded. |
 | **Elyndra** | Life | **The Feeding.** Something fed that is not yourself and cannot repay it. |
 
-**The consequence for prose and for governance:** the Sōhai has no congregation, no clergy in the ordinary sense, and no building. It has households, and the household is the unit of observance, and a kingdom's piety is measurable by walking into its kitchens. This is why the Moto have never built a temple and have never understood why anybody else does.
+**The consequence for daily life and for governance:** the Sōhai has no congregation, no clergy in the ordinary sense, and no building. It has households, and the household is the unit of observance, and a kingdom's piety is measurable by walking into its kitchens. This is why the Moto have never built a temple and have never understood why anybody else does.
 
 ---
 

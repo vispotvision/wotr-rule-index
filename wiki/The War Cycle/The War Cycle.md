@@ -47,7 +47,7 @@ flowchart TD
 | **IV · Walls and What Beats Them** | Strategic | **No practitioner has ever invested a fortress.** Investment is time converted into ground and there is no other instrument for it |
 | **V · The Camp** | — | *Cited by every other volume. Not held here* |
 | **VI · Sack and Contribution** | Arbitration. **Strategic was invited to comment and declined** | **A legal standard which cannot reach the conduct it exists to govern describes where the record stops, and does nothing else** |
-| **VII · The Crossing** | Research and Archives | **Class IV (Crystal Draw, the stock rendered from what carried a Soul Crystal) is intercepted from the Wellspring, in transit, before arrival, and the dead lose nothing by it** |
+| **VII · The Crossing** | Research and Archives | **Class IV (Crystal Draw, the stock rendered from what carried a Soul Crystal) is intercepted from the [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings\|Wellspring]], in transit, before arrival, and the dead lose nothing by it** |
 | **VIII · The Rites** | Research and Archives, **over the objection of the Bench** | **Seven traditions, one problem.** The body has nine days of work to do and somebody has to see it is left alone to do it |
 | **IX · The Physician's Eye** | Legion surgeons and Anima Harmonic assessors | **The wound is an instruction, partially executed, still executing** |
 | **X · The Long Illness** | Research and Archives | Every occupational mechanism has been understood for a century **and no polity operates a scheme** |

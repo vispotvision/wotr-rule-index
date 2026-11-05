@@ -62,3 +62,7 @@ The codices in this section are partisan, and I would distrust any that claimed 
 >
 > *Two more are known from outside and have never been written down by anyone who would talk: Drow Shadow-Veil notation, and Mirror-Sign, a full manual language with its own grammar.*
 - [[Races & Peoples/The Peoples/The Ashkaru]]
+
+---
+
+**Read beside this.** Every people here has a soul with the same three layers, and [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] says what they are. A lineage tilts them and gives no Path. [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]] is where a people's favored Wellsprings are entered, and [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]] covers what a bloodline gives.

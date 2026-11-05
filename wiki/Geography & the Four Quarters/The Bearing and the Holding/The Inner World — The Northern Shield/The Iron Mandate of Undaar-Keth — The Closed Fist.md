@@ -312,7 +312,7 @@ Then there are the ridge-men, who are the Mandate's quietest export. On the west
 
 ---
 
-## Flagged Gaps
+## What This Shelf Does Not Have
 
 | Gap | Standing |
 |---|---|

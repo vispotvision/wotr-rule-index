@@ -29,7 +29,7 @@ Every institution in the four quarters is an answer to one question: **on what g
 |---|---|---|
 | **The Guild Accord** | Legitimacy by measurement. It recognizes no bloodline, honors rank in every member polity, and issues the only portable legal identity most people will ever hold | It is a bureaucracy that compresses what it administers, and **it has a sixth Division whose existence the public Codex does not acknowledge** |
 | **The archaic bloodlines** | Legitimacy by descent, and the descent is meant literally: three of them trace to the three Epochs directly | A crown passes to a body. **A kingdom whose heir assays weak has a strategic problem no amount of ancestry solves** |
-| **The third parties** | Sancta Lux, the Bench of Attribution, and the Paths each claim an authority that answers to neither crown nor coil | Being answerable to no one is only an advantage until somebody asks who audits you |
+| **The third parties** | Sancta Lux, the Bench of Attribution, and the Zettari of the Sands each claim an authority that answers to neither crown nor coil | Being answerable to no one is only an advantage until somebody asks who audits you |
 
 ---
 
@@ -49,7 +49,7 @@ Every institution in the four quarters is an answer to one question: **on what g
 
 **Sancta Lux** is the order that does not worship and says so in the first line of its own catechism. **The Bench of Attribution** is the most consequential body in the four quarters and the only one with no seat on the Concord Council.
 
-**The Archaic Bloodlines** carries the Moto, the Zettari with the Paths beneath them, the Yukari, and the Agamalu: three Epochs, three inheritances, and a fourth house that inherited the harder portion.
+**The Archaic Bloodlines** carries the Moto, the Zettari with the Sands beneath them, the Yukari, and the Agamalu: three Epochs, three inheritances, and a fourth house that inherited the harder portion.
 
 **The Powers of the Dark Ages** sets the crowns, the great houses, the orders, the guilds, the sects and the chartered companies side by side: what each wants, what it holds, how it fights, who it is set against, and where the three layers of rule meet and quarrel.
 

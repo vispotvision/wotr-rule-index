@@ -26,7 +26,7 @@ A crystal shard roughly 6 cm across the long axis, about 140 g. It is carried, n
 
 ### Codex line
 
-Wellspring: **Fixatio** (primary), **Anamnesis** (secondary). Family: **Materia, Material Science** (primary); **Limina, Abstract/Entropic** (secondary). Category: **Mnemata**; the Prism is, functionally, a personal Echo Archive. Glyphs: `Ur`, Balance, confirmed attested (Urion, nine-Wellspring spread including Fixatio); `Ma`, Memory, carried from the legacy card but flagged **not verified** against the Master Glyph Index, Karo's own sheet raising the identical flag for this same chain.
+Wellspring: **Fixatio** (primary), **Anamnesis** (secondary). Kind: **Medium, Material Science** (primary); **Medium, Abstract/Entropic** (secondary). Category: **Mnemata**; the Prism is, functionally, a personal Echo Archive. Glyphs: `Ur`, Balance, confirmed attested (Urion, nine-Wellspring spread including Fixatio); `Ma`, Memory, carried from the legacy card but flagged **not verified** against the Master Glyph Index, Karo's own sheet raising the identical flag for this same chain.
 
 ### Bond and cost
 

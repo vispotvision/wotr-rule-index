@@ -9,8 +9,6 @@ tags:
 
 *The Moto at Alabaster · The Refusal · The Stay · The Recension*
 > An ancient history of the house, from Bara to the birth of Muken.
->
-> **Amendment status: complete.** This page uses the R20C-1 names throughout: **Kōkan** and **Tenrai** (the Moto Cultural Amendment's Altan/Khökh forms are superseded). The original source file in `sources/` has not been updated but is read-only; this wiki entry is the governing text. Updated 2026-09-15, and to C-164 on 2026-11-05: the "split" of these registers is the first blow on the white shelf, about 310 IC.
 
 ---
 
@@ -191,18 +189,3 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 
 ---
 
-## Open Rulings
-
-| Ruling | Standing |
-|---|---|
-| **The true name** | The seat's own name is recorded in a glyph the Continuum cannot classify: **one of the thirty unassigned entries in the Master Glyph Index.** Left blank deliberately. **It is the oldest proper noun in the project and it should be Isaac's** |
-| **Dating** | No absolute years given. The Concordance closes the First Eon at Year −900; current reckoning is Year 715 In Concordance, the twenty-fifth year of the Dark Ages. **The first blow, the Refusal and the Stay sit at about 310 IC, on the Holy Sea's four centuries of testimony counted back (Concordance, Section VI); the Long Diminishment follows; the great split proper comes about 740 IC, after Muken, who survives it** |
-| **The Recension's date** | Proposed at two to four generations before Muken. **Near enough that living memory of it exists in the hinterland and nowhere else** |
-| **Bonded labor in Nalūn** | If the salt cuttings run on the undocumented **as an institution rather than an abuse**, it goes into the Nalūn codex and changes how every scene set there reads. *Recommended* |
-| **Sancta Lux** | The Seventh Objection now has an obvious content: **the sacraments are a Moto Work, the Wellspring is a Moto residue, and the Grand Church is a tenant.** Three living readers, one no longer sleeping |
-| **Does Sodoku know** | His father put a hand on his head at a dinner table and said nothing. **If the nothing included this, the Kōkan Butcher has been carrying an inheritance he cannot see the shape of** |
-| **The six lines' registers** | Whether any northern line preserved an honest account of the window, **and where it is, and who has read it** |
-
-> *All content originated in this document is proposed canon pending ratification.*
->
-> Anchored to: The Moto Bloodline · The Archonic Codex · The Bearing and the Holding · The Amber Cities of Nalūn · the Vaeloris Sequence · Sancta Lux · Muken and Yukazuri character records.

@@ -62,7 +62,7 @@ flowchart TD
     A["AEGOR · SECOND EPOCH<br>built form, weight, the Physical Plane"]
     AS["ASHURA YUKARI · THIRD EPOCH<br>the Breath, awareness, the Soul Plane awakened"]
     B -->|"mortal manifestation<br>in human form"| M["THE MOTO<br>Bara and Mizuki<br>THE LOOM · administration"]
-    A -->|"forged in the Paths<br>from his own substance"| Z["THE ZETTARI<br>Aegor → Shaka-Al → the royal line<br>THE ANVIL · sovereignty"]
+    A -->|"forged in the Sands<br>from his own substance"| Z["THE ZETTARI<br>Aegor → Shaka-Al → the royal line<br>THE ANVIL · sovereignty"]
     AS -->|"born to her<br>her own children and chosen kin"| Y["THE YUKARI<br>Ashura → Senri → the present house<br>THE THRESHOLD · recognition"]
 ```
 

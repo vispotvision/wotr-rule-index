@@ -18,11 +18,11 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 *Read this page even if you read nothing else. Six things carry the entire system. Everything after them is detail.*
 > **One.** Reality is spoken of as three planes. Matter, soul, and fate, the last by courtesy, since it is everything that can happen in the other two. **Every act of magic crosses all three at once. Remove one and the working fails, without exception and without appeal.**
 >
-> **Two.** Aether is the ocean. Essence is your water. *Aether is infinite and belongs to no one. Essence is Aether you have pulled in from the world around you, refined in your Crystal, circulated, and stamped with your identity, and there is only ever as much of it as you have earned.*
+> **Two.** Aether is the ocean. Essence is your water. *Aether is infinite and belongs to no one. Essence is Aether you have pulled in from the world around you, refined in your [[The Magic System/The Soul and the Climb/The Soul and the Climb|Crystal]], circulated, and stamped with your identity, and there is only ever as much of it as you have earned.*
 >
 > **Three.** You cast through a Soul Crystal, not through a wand, a word, or a will. **Its architecture decides what you are capable of long before your ambition gets a vote.**
 >
-> **Four.** Power is refined, not accumulated. **Temperance is subtraction.** *You do not climb the Stages by training. You climb them by surviving something that changes you.*
+> **Four.** Power is refined, not accumulated. **Temperance is subtraction.** *You do not climb the [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stages]] by training. You climb them by surviving something that changes you.*
 >
 > **Five.** Everything costs. Essence is spent, not summoned. Domains bleed. Traits fatigue. Overchannel scars. ***A practitioner who tells you a technique is free is either lying or has not yet paid the bill.***
 >
@@ -34,22 +34,22 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 
 ## The Three Planes and the Veil
 
-**Reality is not layered like sediment. It is nested.** Three sovereign planes coexist at every point in space, **and your Crystal has one layer standing in each.**
+**Reality is not layered like sediment. It is nested.** Two realities and what stands over them coexist at every point in space: the Material Plane, which is Aegor's; the Soul Plane, which is Ashura's; and Fate, which is Bara's, and which we call a plane by courtesy. **Your Crystal has one layer standing in each.**
 
 | Plane | Governs | Crystal layer | Stats it feeds |
 |---|---|---|---|
 | **Material** | Physics, matter, force, energy, biology | Aether Shell | Vitality · Ardency · Dexterity |
 | **Soul** | Identity, memory, conviction, Essence | Essence Core | Tempering · Resilience · Gnosis |
-| **Fate** | Connection, recognition, consequence | Attraction Layer | Harmonics · Dominion |
+| **Fate** | What can happen and what must be so first: connection, recognition, consequence | Attraction Layer | Harmonics · Dominion |
 
 > **Magic does not override the Material Plane's laws. It uses them.** *A fire technique still obeys thermodynamics; the practitioner simply supplies the energy from somewhere the physicist did not expect.*
 >
-> The Plane of Fate lies deepest, **and it is the one newcomers underestimate.** It is the ledger of what has actually happened between things — *every bond, oath, grudge, debt and act of recognition runs as a live current there.*
+> The Plane of Fate stands over the other two, **and it is the one newcomers underestimate.** It is no place and no reality. It is every possibility and every idea, the law the world is built from, and what has to be so before anything can happen: *every bond, oath, grudge, debt and act of recognition runs as a live current there.*
 
 ### The Veil
 
-**Not a fourth plane. The threshold condition where one plane's law softens into another's** — and not a place you travel to.
-> ***You have already touched it.*** Anyone who has felt a Wellspring under the ground, dreamed of a person who then arrived, sensed the weight of a Domain before seeing its effects, **or heard a room go quiet in a way that had nothing to do with sound** has had Veil contact and probably did not name it.
+**Not a fourth plane. The skin of the two lower realities**, and not a place you travel to. It is a condition, everywhere, and thinner in some places. Its inner fold runs between matter and soul, and that fold is what a crossing crosses. Its outer face is where both of them meet Fate, and nothing pulled down from Fate comes in by any other way.
+> ***You have already touched it.*** Anyone who has felt a [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] under the ground, dreamed of a person who then arrived, sensed the weight of a Domain before seeing its effects, **or heard a room go quiet in a way that had nothing to do with sound** has had Veil contact and probably did not name it.
 >
 > *The regulation carries an irony worth holding onto. The Veil is not foreign territory requiring permission. It is the threshold every soul already touches by existing.*
 >
@@ -71,8 +71,8 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 | Layer | Function | Failure mode |
 |---|---|---|
 | **Essence Core** | Identity, memory, Traits | Fracture into Shards |
-| **Aether Shell** | Turns inner truth into outward force | Clouding, then Rupture |
-| **Attraction Layer** | Bonds, Domains, harmonization | **Capture by Obsession Force** |
+| **Aether Shell** | Takes Aether in, where a harmonization locks to its Wellspring, and turns inner truth into outward force | Clouding, then Rupture |
+| **Attraction Layer** | Bonds, Domains, and the holding of a harmonization's tie | **Capture by Obsession Force** |
 
 > Learning which failure you are looking at is the difference between treating a wound and finishing a corpse.
 **Crystal States** · **Fractured:** split by trauma or overload; erratic casting and identity leak. *Not always fatal. Frequently permanent.* **Refined:** the healthy baseline, ***and rarer among veterans than recruiting sergeants suggest.*** **Overgrown:** power exceeding architecture; this is what forced advancement produces. **Crystallized:** the self has become law. *Very few reach this. Fewer remain recognizable afterward.*
@@ -88,7 +88,7 @@ title: The Apprentice's Primer — A First Reader for the Newly Registered
 |---|---|---|---|---|
 | I | Murmuring | E | 50 | Essence as noise. Mood-driven, undirectable |
 | II | Welling | D | 100 | Output stabilizes. First affinities surface |
-| III | Ascension | C | 175 | Path becomes visible. Technique turns deliberate |
+| III | Ascension | C | 175 | [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate\|Path]] becomes visible. Technique turns deliberate |
 | IV | Flourishing | B | 275 | Identity stable. First Spirit Axis bonds form |
 | V | **Splintering** | B* | 350 | **CRISIS. Fractures open along emotional lines** |
 | VI | Glory | A | 400 | Aura begins generating environmental effect |
@@ -255,7 +255,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 | **Domain** | Territory where your law outranks ambient physics |
 | **Attraction Force** | Working sustained by recognition. **Clean** |
 | **Obsession Force** | Working sustained by refusal. **Escalating soul-cost** |
-| **The Veil** | The threshold condition between planes. **Not a place** |
+| **The Veil** | The skin of the lower realities. **Not a place** |
 
 > *The system does not lie, does not forget, and does not forgive.*
 >

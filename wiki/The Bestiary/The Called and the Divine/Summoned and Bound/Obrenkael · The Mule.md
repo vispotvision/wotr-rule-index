@@ -23,7 +23,7 @@ So that is the entry: a beast that weighs as much as an ox and a half, walks at 
 | **Summoner** | **Kwon Hae-ryu of Yeol-gol.** Level 355 / 500, Band IV Warlord, Temperance Stage X Realization |
 | **Lineage · School** | Mahuo line, **Aperture branch.** Held as household pattern rather than school instruction. Yeol-gol seat, seven generations attested, the first four undocumented |
 | **Loanable** | Structurally, no. The pattern will accept a second voice only if Hae-ryu names that voice aloud in the construct's hearing before dissolution of a prior calling. She has done this twice. Both borrowers returned it early and neither has requested it since |
-| **Category** | Vocatia · Animatria · Arts, in that order of load. Vocatia does the work; Animatria supplies the interface; the Arts hold the Draft-circle open long enough for a Native form to consent |
+| **Form** | Call · Make · Bind, in that order of load. Call does the work; Make supplies the interface; Bind holds the Draft-circle open long enough for a Native form to consent |
 | **Summon Tier** | **III · Greater** |
 | **Danger Tier** | **T7**, rated loose and hostile. The rating assumes it has been given a name and cannot be talked out of the carriage. Loose and *un*-named it rates T4 and mostly stands |
 | **Accord Classification** | Registered, Division of Concordia, filed under a Native-Consenting exception. The Arbitration Division's objection, that an entity which accrues its own strength from its summoner's failures cannot lawfully be described as bound, is entered before the Bench of Attribution as a Reservation, which withholds the entry's standing pending determination. The Bench hears it in a three-chair session, the Doctrine chair reading the Wellspring-authorization question and Arbitration sitting as both objector and Ruling chair. No determination has issued |
@@ -56,7 +56,7 @@ So that is the entry: a beast that weighs as much as an ox and a half, walks at 
 | **Kind Resonance** | Oblation carries it, a Fate Wellspring, the law of what is given up, and it produces forms that carry a debt and do not stop. Nothing about the Mule is anchored. Everything about it is transport, and the Mortalis secondary is what keeps the transport from being merely mechanical, since Mortalis insists that what is being moved was recently a person |
 | **Kind** | **Fate**, with a Medium secondary in Mortalis |
 | **Leans on** | The Attraction Layer. *Body:* take the road away, since a thing that carries a debt along a road needs the road. *Spirit:* the hand on the debt shows on its Core, and it is carrying a great many Cores besides. *Fate:* what it owes can be argued, at length, by someone with standing |
-| **Physics Domain** | **Fluid Dynamics.** Every Mechanism field below is gradient, pressure, or drag. Nothing in the kit is impact and nothing in it is heat |
+| **Scholars' Account** | **Fluid Dynamics.** Every Mechanism field below is gradient, pressure, or drag. Nothing in the kit is impact and nothing in it is heat |
 | **The Donation** | The donation runs as weight. Witnesses reach for weight rather than for light or heat when they describe the calling: the sensation of something heavy being set down nearby, felt in the knees and the base of the spine before the eyes find anything |
 
 ---

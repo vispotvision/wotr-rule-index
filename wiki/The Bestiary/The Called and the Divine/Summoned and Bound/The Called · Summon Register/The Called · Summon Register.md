@@ -11,7 +11,7 @@ title: The Called · Summon Register
 >
 > **An entry that records what a called thing can do without recording what is paying for it has recorded a rumor.**
 
-Dame Isaude Tarn died in her bed at Heronsey at eighty-one with her boots off, the only Stage XI practitioner of that river anyone can remember doing so, and the whole town turned out to bury her in her own kingfisher blue, seven hundred mourners and two rival schools weeping loudly at each other across the nave. They had reached the second hymn when the west doors came open and a heron the height of the rood screen walked up the aisle, wading on dry flagstones, with river water running off legs that had no business being wet. Nobody had called her. She was the thing Isaude had called for fifty years, anchored in the old woman's youth to the Wellspring site under Heronsey Ford, three streets away, and she stepped up onto the bier, turned one yellow eye on the heirs, and asked in a clerk's flat voice who now held the debt, there being forty-one crossings still owing. The nephew fainted. The Accord's man, who had come for the free funeral meats, spent three weeks trying to enter her and found his ledger had no column for what she was, and within the month the Bench had before it a suit for Wellspring parasitism against a corpse.
+Dame Isaude Tarn died in her bed at Heronsey at eighty-one with her boots off, the only Stage XI practitioner of that river anyone can remember doing so, and the whole town turned out to bury her in her own kingfisher blue, seven hundred mourners and two rival schools weeping loudly at each other across the nave. They had reached the second hymn when the west doors came open and a heron the height of the rood screen walked up the aisle, wading on dry flagstones, with river water running off legs that had no business being wet. Nobody had called her. She was the thing Isaude had called for fifty years, anchored in the old woman's youth to the [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] site under Heronsey Ford, three streets away, and she stepped up onto the bier, turned one yellow eye on the heirs, and asked in a clerk's flat voice who now held the debt, there being forty-one crossings still owing. The nephew fainted. The Accord's man, who had come for the free funeral meats, spent three weeks trying to enter her and found his ledger had no column for what she was, and within the month the Bench had before it a suit for Wellspring parasitism against a corpse.
 
 The form below is what grew out of that funeral and a dozen like it. A called thing has to be written from the inside out: what holds it together, who pays, what happens when the person who spoke it stops speaking. Get those down first, and the teeth can wait for the end of the page.
 
@@ -22,16 +22,16 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Names** | The High or Old Parunic form, plus whatever the summoner actually calls it on the field. **Roster names are frequently insults** and the insult is usually the truer entry |
 |---|---|
 | **Summoner · Lineage** | Who holds the pattern, which branch or school it descends from, and **whether it can lawfully be lent** |
-| **Category** | Vocatia (contacting something that already exists) · Animatria (shaping a construct from a fragment of the summoner's own Essence Core) · Arts (holding the circle and the form in being) · Concordia (holding a form open inside a shared field), in whatever combination is actually active. Most entries run two |
+| **Form** | [[The Magic System/Reference and Craft/Forms|Call]] (the old Vocatia, contacting something that already exists) · Make (the old Animatria, shaping a construct from a fragment of the summoner's own Essence Core) · Bind (the old Arts, holding the circle and the form in being) · Sing (the old Concordia, holding a form open inside a shared field) · Read (the old Mnemata, keeping what the thing remembers), in whatever combination is actually active. Most entries run two |
 | **Summon Tier** | I Ephemeral through V World-Tethered. Sets the Temperance Gate and the honest ceiling on duration |
 | **Crystal Provenance** | Donated · Analog · Native · Anchored. **This is the operative field.** Everything the thing can refuse, survive, or become follows from it |
 | **Soul Architecture** | The three layers as they exist in this construct: Essence Core, Aether Shell, Attraction Layer. **Record which are genuine and which are analog** |
-| **Crystal Grade · State** | Developmental Tier reached, plus State: Fractured · Refined · Overgrown · Crystallized. Donated forms inherit the summoner's and carry none of their own |
+| **[[The Magic System/The Soul and the Climb/The Soul and the Climb\|Crystal]] Grade · State** | Developmental Tier reached, plus State: Fractured · Refined · Overgrown · Crystallized. Donated forms inherit the summoner's and carry none of their own |
 | **Aether Class** | Ø through Ω. Its hold on the physical world, and how much of the donated Essence survives the crossing into form |
 | **Essence Class** | Ø through Ω. Its reach on souls and meanings: what it can read, carry and keep. Core work, Echo-keeping and anything a called thing does to the dead reads here |
 | **Thread Class** | Ø through Ω. How much of Fate it can pull down and hold. Most called things stand at Ø, and a bond to a route, an office or a promise shows here. The [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Three Ladders]] say what each rung means |
 | **Wellspring Inheritance** | Primary and secondary, per the Master Codex. **A summon is a Wellspring spoken as a verb** and cannot inherit what the summoner has not harmonized |
-| **Kind · Physics Domain** | Codex assignment. The Physics Domain is what makes every Mechanism field below write itself |
+| **Kind · Scholars' Account** | Codex assignment. The law the scholars read it under is what makes every Mechanism field below write itself |
 | **Glyph Chain** | All four roles addressed: **Authorization · Boundary · Direction · Sealing.** A chain missing a role is Mechanica (forbidden working that takes power without lawful consent) by definition, whatever the practitioner calls it |
 | **Invocation** | The spoken line in Guild Accord liturgical Latin, with the Parunic chain sitting underneath it |
 | **Readiness · Duration** | Seconds to full form, and the honest persistence window before the tether or the anchor thins |
@@ -49,13 +49,13 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 
 ## The Five Summon Tiers
 
-| Tier | Categories Active | Temperance | Duration | Stability Facet |
+| Tier | Forms Active | Temperance | Duration | Stability Facet |
 |---|---|---|---|---|
-| **I · Ephemeral** | Animatria | IV to VI | 1 to 10 seconds | None recorded |
-| **II · Basic** | Animatria + Arts | VI to VIII | Seconds to minutes | E to D |
-| **III · Greater** | Vocatia + Animatria + Arts | IX to XI | Minutes to hours | C to B |
-| **IV · Legion** | Animatria + Concordia | X to XII | Minutes to indefinite with Domain anchor | B to A |
-| **V · World-Tethered** | Vocatia + Concordia + Mnemata | XII to XIV | Indefinite | S and above |
+| **I · Ephemeral** | Make | IV to VI | 1 to 10 seconds | None recorded |
+| **II · Basic** | Make + Bind | VI to VIII | Seconds to minutes | E to D |
+| **III · Greater** | Call + Make + Bind | IX to XI | Minutes to hours | C to B |
+| **IV · Legion** | Make + Sing | X to XII | Minutes to indefinite with Domain anchor | B to A |
+| **V · World-Tethered** | Call + Sing + Read | XII to XIV | Indefinite | S and above |
 
 ---
 
@@ -65,11 +65,11 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 >
 > **Only two of the four can refuse an order, and only one of them can outlive the person who spoke it.**
 
-| Provenance | Category | What holds it together | Consequence |
+| Provenance | Form | What holds it together | Consequence |
 |---|---|---|---|
-| **Donated** | Animatria | A shaped fragment of the summoner's own Essence Core on a live tether | No Crystal of its own. Record the summoner's. **Dies instantly in Harmonic Silence.** Cannot refuse anything |
-| **Analog** | Concordia | A synthetic three-layer architecture held open inside the summoner's Concordia field | Owns Core, Shell and Layer analogs. **Sufficient coherence lets it resist dissolution**, which is the failure state the Accord actually fears |
-| **Native** | Vocatia | Its own Crystal, which it possessed before anyone called it and will possess after | Graded exactly as a person is. **Answers by recognition, never by compulsion**, and refuses orders contrary to its nature |
+| **Donated** | Make | A shaped fragment of the summoner's own Essence Core on a live tether | No Crystal of its own. Record the summoner's. **Dies instantly in Harmonic Silence.** Cannot refuse anything |
+| **Analog** | Sing | A synthetic three-layer architecture held open inside the summoner's Concordia field | Owns Core, Shell and Layer analogs. **Sufficient coherence lets it resist dissolution**, which is the failure state the Accord actually fears |
+| **Native** | Call | Its own Crystal, which it possessed before anyone called it and will possess after | Graded exactly as a person is. **Answers by recognition, never by compulsion**, and refuses orders contrary to its nature |
 | **Anchored** | World-Tethered | Crystal function borrowed from the node: a worked Wellspring site, a bloodline lattice, a Domain | Persists because the Continuum recognizes the node. **Outlives its summoner.** Unlawful anchoring is prosecuted as Wellspring parasitism |
 
 ---
@@ -104,7 +104,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Trigger** | What initiates it. Physical action, spoken invocation, or condition met |
 |---|---|
 | **Function** | What it does, in one plain sentence |
-| **Mechanism** | How, traced to the Codex Physics Domain for its Wellspring |
+| **Mechanism** | How, traced to the law its Wellspring runs on in the scholars' account |
 | **Numerical Effect** | Real units where they earn their place |
 | **Target Response** | What it does to a body, a structure, the air |
 | **Limitation** | What it structurally cannot do |
@@ -112,7 +112,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Cost** | Which taxonomy category, and **how it shows outside combat** |
 | **Vow** | Optional. Any binding condition and what forfeiting it costs |
 | **Counterplay** | Mandatory. How a competent opponent answers it |
-| **Codex Assignment** | Glyph combination, primary and secondary Wellspring, kind, Physics Domain |
+| **Codex Assignment** | Glyph combination, primary and secondary Wellspring, kind |
 | **First Display** | Where the mechanic is planted before it pays off |
 | **Sensory Description** | What the opponent sees, what the summoner's body does |
 

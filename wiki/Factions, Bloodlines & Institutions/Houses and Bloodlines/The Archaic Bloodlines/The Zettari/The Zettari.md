@@ -446,7 +446,7 @@ Names are responsibilities. Titles are heavier. *Dawn Guard*, *The Remover*, *Th
 
 ### **Register**
 
-The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
+The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line.
 
 ## **VI. Limitations & Soul-Costs**
 

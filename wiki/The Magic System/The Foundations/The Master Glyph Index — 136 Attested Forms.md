@@ -449,7 +449,7 @@ Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings o
 
 *The 136 stay fixed, and a form's attested lists can still grow at the edges when a working on file shows the reach. Each extension is entered here with its reason, so that a reader checking a Codex line finds it, and it is entered in the Codex's own columns, since the Codex is what it amends.*
 
-**[Abys] Deep · Oblation and Fluxia added.** Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
+**[Abys] Deep · Oblation added.** [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus row. Its attested reach now includes Oblation, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Its primary Wellspring is unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended.
 
 *In this index's terms: `[Abys]` Deep stays seated on Abyntheus (Spirit), and its reach now includes Oblation (Fate).*
 

@@ -222,7 +222,7 @@ Songscript is reserved for law and consecration. Ordinary Eressean correspondenc
 > Self-witnessed name. The old growth, seen-and-dreamed. The old growth, witness.
 >
 > **I hold my name and the forest stood for it. You were not asked because you were not there.**
-**Echo Elf ratification.**
+**Echo Elf assent.**
 > *Ie-sae. Zo ie-sae. Uren zo.*
 >
 > Granted in season. Restated: granted in season. Witnessed, restated.
@@ -243,8 +243,6 @@ Songscript is reserved for law and consecration. Ordinary Eressean correspondenc
 
 **Eressean speakers of Common** over-specify provenance, name their witnesses unprompted, and produce sentences that read to Concord ears as either aristocratic or paranoid. They also refuse to give orders and issue schedules instead, which has cost at least two joint campaigns their opening week.
 
-## Provenance
-
-Attested in canon: the Vey-Elarin, the Realmsong of Edenis, Florwyndic Songscript as directive-force writing reserved for law and consecration, the Varrisak refusal of script by doctrine, the Dream Groves as literal Aetheric archive, the Eladrin use of prolonged silence as high courtesy, the Echo Elf *zo* phonemes and the Recitation, Drow Shadow-Veil notation, and the Eressean efficiency on *Ma*, *Ur* and *Ie* phoneme chains, which is why those three roots carry the legal system. The witness split between the branches is the naming canon's own: both hold that names are property, and they disagree on what constitutes valid transfer.
+## Notes on Names
 
 **On Varrisak against Vassirak.** Both are Eressean coinages and neither is an endonym. *Vassirak* is the older, from *vassir*, to go out without a return date, and it fell out of use because it concedes that leaving was a journey. *Varrisak* replaced it, from *varris*, to be unfixed, and it concedes nothing. **Varrisak is the current form and Vassirak is archaic**, which means a character who uses *Vassirak* is either very old, quoting a very old document, or making a point. The Varrisak call themselves **Sylvaaren**, the old growth's own, and have never once used either name for themselves in a document they wrote.

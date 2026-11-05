@@ -55,7 +55,7 @@ The Crown's coin, reduced in fineness, minted in greater number from the same me
 
 **Debasement is a fiscal weapon, chosen on purpose, and it works.** The Great Debasement financed a real war effectively, and the tell separating an aggressive debasement from a defensive one sits in the mint accounts: **mintage fees run high on an aggressive debasement and low on a defensive one.** Anybody with the mint rolls can tell which one the Crown is running, and the assay houses always find out.
 
-And the setting has its own trap already built. Silver is the accounting unit of every serious ledger in the four quarters, and **the western silver mark is the standard the Accord quotes everything against.** A Kharven mark that no longer holds its fineness is a mark the assay houses will discount, and a discounted coin buys less from exactly the merchants a besieged capital needs most.
+And the four quarters have their own trap already built. Silver is the accounting unit of every serious ledger in the four quarters, and **the western silver mark is the standard the Accord quotes everything against.** A Kharven mark that no longer holds its fineness is a mark the assay houses will discount, and a discounted coin buys less from exactly the merchants a besieged capital needs most.
 
 **Cost next season:** the discount is permanent and arrives faster than the benefit. Grain sellers reprice within a turn. Wages reprice within three.
 
@@ -77,7 +77,7 @@ The mechanism that makes the fisc a timer rather than a background fact.
 
 Pay must reach the men **across distance, with sufficient regularity to prevent mutiny, and in denominations small enough to spend locally.** All three conditions, every time. Failure of any one is failure of all.
 
-**The third is the one that will bite Kharven**, because the setting already has the mechanism. Copper is the money of ordinary life and the only metal money most people ever hold. Copper is also the windings of every great array (a standing runed working), laid by hand and worth more by weight melted than struck, and every great array raised in two centuries has produced a copper famine within three years. **A siege raises arrays, on both sides of the wall.** The Seat can hold silver and still be unable to pay a soldier, because there is nothing in the chest a soldier can buy bread with.
+**The third is the one that will bite Kharven**, because the mechanism is already there. Copper is the money of ordinary life and the only metal money most people ever hold. Copper is also the windings of every great array (a standing runed working), laid by hand and worth more by weight melted than struck, and every great array raised in two centuries has produced a copper famine within three years. **A siege raises arrays, on both sides of the wall.** The Seat can hold silver and still be unable to pay a soldier, because there is nothing in the chest a soldier can buy bread with.
 
 What keeps an army fed in the meantime is short-term credit: **unpaid bills to suppliers, advances made by officers out of their own pockets, and temporary loans arranged by intermediaries.** That is the life thread of army finance and it is invisible until it snaps. Long before a mutiny there is a captain who has been paying his own company for six weeks and has stopped sleeping.
 
@@ -133,19 +133,3 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 **The instrument on the table.** The factor's clerk has waited three days and is in no hurry. The security named is the Wellspring beneath the Kharven-Seat itself. Everyone in the room understands that signing ends something and that not signing ends something else.
 
 **The exemption.** A household bought its way out of the levy. The household beside it did not, gave up its stack, and is now the household with the low stack, and the greeting has already changed.
-
-## Author Notes
-
-**The pay conditions.** Military payment had to be organized across great distances, **with sufficient regularity to prevent mutiny, and in denominations small enough to be used by soldiers in local transactions.** The life thread of army finance was short-term credit: unpaid bills to suppliers, payments advanced by officials and officers, temporary loans contracted by intermediaries, and bills of exchange used to transfer funds.
-
-**Mutiny.** Desertion and mutiny were frequent among troops paid late or not at all, and unpaid soldiers have marched leaderless on a city to obtain what they were owed and sacked it.
-
-**Debasement** was an effective aggressive fiscal policy for financing war rather than merely a monetary accident, and the diagnostic separating aggressive from defensive debasement lies in the mint accounts: **mintage fees run high on aggressive debasements and low on defensive ones.**
-
-**Purveyance**, the compulsory taking of goods for military use, generated corruption and abuse severe enough to force nationwide investigation and the removal of most purveyors from office; it was surrendered for military purposes under sustained pressure and revived at the next war with instructions to be fair, to avoid church property, and to pay a fair price.
-
-**Other instruments** in the record include emergency borrowing from temple treasuries, borrowing from factor houses and money-changers with the attendant risk that a crown simply will not pay, and the fact that representative institutions grew out of rulers needing authority to tax for war.
-
-**Setting canon used.** The western silver mark as the accounting standard; copper as the money of ordinary life and the only metal money most people hold; the copper famine, in which array windings are worth more by weight than struck coin and small coin is melted within three years of any great array; salt bars of fixed weight circulating at a mark and edible, which no other money is; the Sky faith's treatment of a low stack as a moral condition; and contribution and sack from the existing war-cycle material.
-
-The jurisdiction trap, the dissolution schedule and the presentation are originated.

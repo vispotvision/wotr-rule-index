@@ -4,7 +4,7 @@ title: Rusashin — The Dust That Remembers What It Touched
 
 # Rusashin — The Dust That Remembers What It Touched
 
-**RUSASHIN** (粒壇身 · Rusashin) (Hylekinesis sub-discipline, Materia, ten Forms)
+**RUSASHIN** (粒壇身 · Rusashin) (Hylekinesis sub-discipline, ten Forms; Body; Shape)
 
 The spice galley *Salt Heron* went onto the rocks off Ushio Point with forty pirates in scarlet sashes climbing her sides and one hired guard aboard. The guard, a short bad-tempered woman called Otsuya, had spent the whole night watch walking the ship with her hands out, seeding grit into the hold, the rigging and the air above the deck. She waited until the last sash was over the rail, and then she set off every grain of it. The cloud of brown dust and cinnamon could be smelled three villages inland, and the cooks of Ushio Point claim it seasoned the bay for a month. Otsuya floated ashore on the rudder, shaking from head to foot, and asked who was going to pay her.
 
@@ -40,13 +40,13 @@ The spice galley *Salt Heron* went onto the rocks off Ushio Point with forty pir
 | Field | Value |
 |---|---|
 | **Ability** | Rusashin: Hylekinesis sub-discipline |
-| **Family** | Materia (Material Science) |
+| **Path** | Body |
+| **Lens** | Coagulatio (Wild) first, Fractura (Wild) second, Fixatio (Medium) third, Petralon (Wild) in support |
 | **Affinity** | Matter |
-| **Method** | Kinesia (Direct Control), with **Corporis integration at Form VI and above** |
-| **Physics Domain** | Material Science |
+| **Form** | Shape, with **Strike from the art's Form VI and above** |
 | **Phenomenon** | Powder metallurgy, sintering, particulate aggregation, phase-state control |
 | **Output Cap** | **B Grade (176–275) per individual particle.** Aggregate constructs exceed this through structural composition, not per-unit density |
-| **Prerequisites** | C-Grade Gnosis (Analysis). Dexterity Economy sufficient to maintain hand-contact nucleation under combat conditions |
+| **Gates** | C-Grade Gnosis (Analysis). Dexterity Economy sufficient to maintain hand-contact nucleation under combat conditions |
 
 > Where a generalist Hylekinetic reshapes existing matter in place, a Rusashin practitioner **creates new matter from Essence, holds it in temporary existence, and uses its brief lifespan as a weapon.**
 >
@@ -103,7 +103,7 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 | **III · Calmness** *Seijaku* | Stage V | The first Form that is a state rather than a technique. Autonomous reactive nucleation activates. **The dust begins to think for the practitioner, and the practitioner begins to trust the dust.** Jabs replace haymakers, deflections replace blocks. *Continuous low-frequency crackle, like static. Clusters appear at impact sites a fraction of a second before contact* | 400–600 EU/s continuous. **Cannot be switched off once the Trait crystallizes** |
 | **IV · Trailing** *Rusashin no Kiseki* | Stage VI | A cloud of loose dust pulled together behind a moving object and compressed into hailstone-dense aggregate. **Coagulatio run in reverse order**: solution nucleated from scattered solid, then re-nucleated denser. Each pass increases density; a pebble becomes a stone becomes a ball carrying the accumulated momentum of every grain in it. *Audible grinding compression. Impact sounds like a hammer on stone* | 3,000–6,000 EU per ball. Forearm and shoulder fatigue |
 | **V · Shield** *Rusashin no Tate* | Stage VI–VII | **First Fixatio integration.** Load-bearing structures: walls, barriers, hemispherical shields, shaped bolts the weight of a ballista's, persisting 10–30 seconds beyond the grain lifespan. Petralon activates: the wall bears force the way an arch bears weight, strongest under compression. *On shield-break the wall detonates along pre-seeded fault lines, with no crumbling first* | 8,000–15,000 EU per wall; 5,000–8,000 per bolt. Full-body fatigue from sustained curing |
-| **VI · Weapon** *Rusashin no Ken* | Stage VII | **Corporis integration threshold**: prior Forms manipulated matter external to the body; Form VI fuses matter to it. User-specific weapons and knuckle-plates that coat the hands in compressed aggregate. **Each weapon is shaped by the practitioner's own combat architecture**, because the nucleation pattern follows their trained movement vocabulary. *Impact sounds ceramic: a sharp, high crack* | 1,500–3,000 EU per weapon. Joint strain from striking with fused mass |
+| **VI · Weapon** *Rusashin no Ken* | Stage VII | **Strike threshold**: prior Forms manipulated matter external to the body; Form VI fuses matter to it. User-specific weapons and knuckle-plates that coat the hands in compressed aggregate. **Each weapon is shaped by the practitioner's own combat architecture**, because the nucleation pattern follows their trained movement vocabulary. *Impact sounds ceramic: a sharp, high crack* | 1,500–3,000 EU per weapon. Joint strain from striking with fused mass |
 | **VII · Mines** *Rusashin no Oshi* | Stage VII–VIII | Particles held stagnant: suspended in air, embedded in surfaces, floating at calculated distances, **cured in place by Fixatio so they do not dissolve. They wait.** Any or all can be triggered simultaneously from any angle of the body. *Opponents who enter the field discover, too late, that every surface they touched and every volume of air they moved through was seeded* | 6,000–12,000 EU to seed; 200–400 per trigger. Gnosis strain from tracking all dormant charges |
 | **VIII · Armor** *Rusashin no Yoroi* | Stage VIII–IX | Particles pulled inward by the practitioner's own Shell suction, cured to the Shell's outer surface, then re-extruded as a carapace that **moves with the body because it is bonded to the body's metaphysical surface rather than its physical one.** Rating is a function of compression cycles run before curing: hasty is ceramic plate, careful approaches forged alloy. **Can be shed explosively as omni-directional shrapnel** | 20,000–40,000 EU to form; 2,000–4,000 EU/s. Restricted mobility until segmented; elevated body temperature |
 | **IX · The Dragon** *Russa* | Stage IX–X | A semi-autonomous construct of thousands of interlocking grains. **It is not alive. It is a sculpture that moves because every grain carries a fragment of the practitioner's Coagulatio intent.** Reforms from ambient Rusashin when damaged. Its striking force is the cumulative output of every grain along a single vector. *On impact it does not strike and withdraw.* *It detonates on contact**, every grain in the impact zone triggering its fault simultaneously* | 60,000–120,000 EU. **Single use at Form IX.** Full-body tremor; risk of uncontrolled nucleation if concentration breaks during formation |
@@ -115,7 +115,7 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 
 ## Counters
 
-**Aerokinetic displacement** · Sustained high-velocity wind scatters loose particles before they aggregate and displaces dormant mines from their seeded positions. **Fluxia-dominant opponents are the discipline's natural predators.**
+**Aerokinetic displacement** · Sustained high-velocity wind scatters loose particles before they aggregate and displaces dormant mines from their seeded positions. **Wind and water fighters are the discipline's natural predators.**
 
 **Water saturation** · Wet particles nucleate poorly. Rain and Hydrokinetic fields degrade crystallization fidelity, producing disordered mass instead of ordered crystal. **Rusashin in rain is Rusashin at half strength.**
 

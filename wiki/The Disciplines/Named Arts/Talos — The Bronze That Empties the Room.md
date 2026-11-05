@@ -4,7 +4,7 @@ title: Talos — The Bronze That Empties the Room
 
 # Talos — The Bronze That Empties the Room
 
-**TALOS** (Τάλως · Talos) (Kenokinesis sub-discipline, Domain-class, Limina)
+**TALOS** (Τάλως · Talos) (Kenokinesis sub-discipline, Domain-class; Body; Claim)
 
 For two summers the lamp-wardens and the hedge-workers of Aldwick fought their feud with a carter. Cob Hobnail was a big cheerful man with a red neckcloth who had no idea what he was, only that lamps went dark as his cart came on and hedge-charms stopped working as it went by. The hedge-workers paid him to drive under the wardens' lamps on fair night. The wardens paid him double to park outside the hedge-workers' stalls. He was thrown out of three temples and a bathhouse and thought the town remarkably generous about carting rates, until a searcher (the Guild's sworn finder of faults) with an assay fork stood beside him in a tavern, watched the fork go dead in her hand, and explained it to him over his fourth ale. His only complaint was that he should have charged more.
 
@@ -31,13 +31,13 @@ For two summers the lamp-wardens and the hedge-workers of Aldwick fought their f
 | Field | Value |
 |---|---|
 | **Ability** | Talos: Kenokinesis sub-discipline, Domain-class |
-| **Family** | Limina (Entropy, Void and Mind) |
+| **Path** | Body, as the only road left: a walking dead zone fights with what the field does not touch. The field itself is a claim by the Layer, and like every Domain it runs at Thread Ø and pulls no thread |
+| **Lens** | Nihiloth (Wild), and it was not chosen |
 | **Affinity** | Void |
-| **Method** | Kinesia primary (null-zone creation, Aether suppression). Turgia secondary at True expression (permanent null-anchors, sovereign-grade Domain law) |
-| **Physics Domain** | Entropy, Void and Mind |
+| **Form** | Claim (Silentia, the removal of magical possibility). Rite at True expression, for permanent null-anchors |
 | **Phenomenon** | Destructive interference, Meissner-effect field exclusion, noise cancellation |
 | **Output Cap** | Uncapped. Scales with Dominion and Resilience |
-| **Prerequisites** | A soul tempered on Limina's Wellsprings, Nihiloth first. The Crystal must have taken **the Hollow Law as its first imprint**, before anything else was there to argue with it, not as a later or trained harmonization. Older books call this being born Void-primary. Nobody is born anything of the kind: it is what happened to the soul first, and usually nobody noticed. *Talos cannot be learned. It can only be expressed by a Crystal that was built for it* |
+| **Gates** | Stage V for Passive, VIII for Active, X for True, with Dominion and Resilience behind them. A soul tempered on the void Wellsprings, Nihiloth first. The Crystal must have taken **the Hollow Law as its first imprint**, before anything else was there to argue with it, not as a later or trained harmonization. Older books call this being born Void-primary. Nobody is born anything of the kind: it is what happened to the soul first, and usually nobody noticed. *Talos cannot be learned. It can only be expressed by a Crystal that was built for it* |
 | **Rarity** | Extreme. A Crystal so imprinted occurs in **under one percent** of Awakened practitioners; of those, **fewer than one in twenty** develop Talos rather than conventional Kenokinesis |
 
 ---
@@ -82,7 +82,7 @@ A permanent low-intensity anti-phase field extending **5–15 meters** depending
 > The cancellation is indiscriminate. The practitioner cannot use Wellspring-based techniques, cannot sustain Traits, cannot form or maintain a conventional Domain, and cannot benefit from allied support while standing inside their own field. **Their Crystal generates a null zone and then sits inside it.**
 **Cost** · Low, precisely because the field is unrefined. The Crystal is not performing targeted cancellation: it is leaking anti-phase Essence into the environment and letting the interference handle itself. **200–500 EU/s at idle**, a background metabolic process comparable to breathing.
 
-**Combat profile** · A walking dead zone. They fight with body, training and raw stats, nothing else. Against ability-dependent opponents this levels the field by reducing both parties to baseline architecture. **Against Body-Path specialists and Corporis practitioners whose techniques are physically instantiated, it provides no advantage and actively disadvantages the user** by suppressing their own defensive options.
+**Combat profile** · A walking dead zone. They fight with body, training and raw stats, nothing else. Against ability-dependent opponents this levels the field by reducing both parties to baseline architecture. **Against Body-Path specialists whose techniques are physically instantiated, it provides no advantage and actively disadvantages the user** by suppressing their own defensive options.
 > **Long-term cost.** Permanent ambient suppression of the practitioner's own development. Harmonizations that others deepen over years stay shallow, because the field degrades the harmonization process at the same rate it is built.
 >
 > **Veterans of Passive Talos are structurally weaker than their Stage suggests, because they have spent their entire career training inside their own null field.**
@@ -158,8 +158,8 @@ To cancel external Essence, the Crystal must produce Essence perfectly antiphase
 
 ## Corruption Vector
 
-Limina's terminal corruption is **Existential Erosion**: solipsism, negation, dissociation. Talos does not approach it from the usual direction.
-> Most Limina practitioners erode by losing connection to external reality. **Talos practitioners erode by canceling it.** A standard Limina corruption feels like the world becoming distant. A Talos corruption feels like **the world becoming unnecessary.**
+The terminal corruption of the void lenses is **Existential Erosion**: solipsism, negation, dissociation. Talos does not approach it from the usual direction.
+> Most practitioners on the void lenses erode by losing connection to external reality. **Talos practitioners erode by canceling it.** A standard void corruption feels like the world becoming distant. A Talos corruption feels like **the world becoming unnecessary.**
 The terminal practitioner does not lose the ability to feel the way Nirvana's terminal state produces flatness. **They lose the conviction that feeling is relevant.** They know the world is full of power, connection, Wellspring Aethers, bond-formation, the entire living machinery of the Continuum. They cannot remember why any of it was important, because they have spent their career standing in spaces where none of it existed, **and those spaces felt honest in a way the functioning world does not.**
 > The vein runs from neck to ankle. The nail holds it shut. Remove the nail and the ichor drains.
 >

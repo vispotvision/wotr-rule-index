@@ -133,13 +133,13 @@ The Accord has to reach across states that do not resemble each other at all, an
 
 **Composite monarchy.** Several countries under one crown, each keeping its own law. The Concord, whose regalia sit in pledge to the chancery that lends them back for coronations. Chancery theorists hold that similarity of language and custom decides whether such a state holds together, which is precisely the argument the Accord makes for its own standards and its own tongue.
 
-**Oligarchic republic.** Rule by a closed body of chartered houses, self-perpetuating, with formal offices and real elections among a tiny electorate. **Marrowhold.** It is rigidly oligarchical, and nobody in it pretends otherwise. (*Out of the world, for the table: the historical models are Venice and Genoa.*)
+**Oligarchic republic.** Rule by a closed body of chartered houses, self-perpetuating, with formal offices and real elections among a tiny electorate. **Marrowhold.** It is rigidly oligarchical, and nobody in it pretends otherwise.
 
 **Mandate.** Rule by standing decree, read aloud daily at every garrison, with no assembly and no appeal outside the decree archive. **Undaar-Keth.** Its strength is that everybody knows the law because everybody hears it every day. Its weakness is that the law is whatever was read this morning.
 
 **Sealed moot.** An assembly whose rulings are issued in a register requiring interpreters, and whose interpreters are a hereditary profession. **The Keth-Gorrum.** Formally the most representative body in the four quarters and functionally readable by about two hundred people.
 
-**Rotating crown.** An elective or rotating headship on a fixed cycle, designed so that no single will outlasts a season. **Iampu**, where the Crown passes at each solstice and equinox under the Treaty of Four Courts. (*Out of the world, for the table: real elective monarchies paired lifetime or fixed terms with senatorial oversight to prevent concentration.*) Such crowns characteristically drift toward capture by the electing body, which is a live risk in Iampu and is what the Frost Council actually is.
+**Rotating crown.** An elective or rotating headship on a fixed cycle, designed so that no single will outlasts a season. **Iampu**, where the Crown passes at each solstice and equinox under the Treaty of Four Courts. Such crowns characteristically drift toward capture by the electing body, which is a live risk in Iampu and is what the Frost Council actually is.
 
 **Confederation.** No monarch, binding decisions requiring consensus across every represented house. **The Echo Elves' Longhouse Accord**, and behind it **Altherion's River Crown Council**. Confederations are ramshackle, slow, and remarkably durable, and the Echo Elf version is slower than any other by design.
 

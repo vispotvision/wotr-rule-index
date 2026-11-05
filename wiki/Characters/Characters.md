@@ -38,4 +38,3 @@ The character record runs on a seventeen-part skeleton, and the order of the par
 
 ---
 
-- [[Characters/Mara Venn]]

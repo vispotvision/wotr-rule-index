@@ -4,7 +4,7 @@ title: Solution — The Mind That Solves Itself
 
 # Solution — The Mind That Solves Itself
 
-**SOLUTION** (解決) (Gnosis-dominant transformation state, Fulguria and Limina)
+**SOLUTION** (解決) (Gnosis-dominant transformation state; Spirit; Read)
 
 Jeong Hae-rim, arbitrator of the cloth towns, caught a forged dowry contract at her own wedding, and she went silver at the high table to be sure of it. White light poured off her face over two hundred guests and nine hundred lanterns. In the time it took her wine to stop moving she named the forger, his partner, and the cousin with a knife in his sleeve, and then she turned to her groom and informed him, in a carrying voice, that his love for her stood at sixty-one chances in a hundred. All of it proved correct. The groom laughed first, to his great credit, and she spent the wedding night with a wet cloth over her eyes, asking him to remind her how the joke had gone.
 
@@ -33,12 +33,12 @@ Jeong Hae-rim, arbitrator of the cloth towns, caught a forged dowry contract at 
 | Field | Value |
 |---|---|
 | **Ability** | Solution: Gnosis-dominant transformation state |
-| **Family** | Fulguria (Electromagnetism) primary, Limina (Entropy, Void and Mind) secondary |
-| **Affinity** | Mind (Limina register), Light / Perception (Fulguria register) |
-| **Method** | Corporis (self-targeted cognitive restructuring), Manteia secondary |
-| **Physics Domain** | Electromagnetism primary; Entropy, Void and Mind secondary |
+| **Path** | Spirit |
+| **Lens** | Judicium (Wild) first, Aurevane (Medium) second, Mirithane (Spirit) third, Hypnather (Spirit) in support |
+| **Affinity** | Mind, with light and perception |
+| **Form** | Read, turned inward on the reader (self-targeted cognitive restructuring) |
 | **Phenomenon** | Neural synchronization, gamma-band oscillation, coherent signal processing |
-| **Prerequisites** | B-Grade Gnosis minimum across at least **four** sub-stats. **A practitioner with a single dominant sub-stat and weak supporting architecture cannot achieve Solution, because the synchronization has nothing to lock to** |
+| **Gates** | B-Grade Gnosis minimum across at least **four** sub-stats. **A practitioner with a single dominant sub-stat and weak supporting architecture cannot achieve Solution, because the synchronization has nothing to lock to** |
 
 ---
 
@@ -57,10 +57,10 @@ Perception and Analysis share a single stream rather than passing data between t
 
 | Wellspring | Function | Failure mode |
 |---|---|---|
-| **Judicium** *The Wellspring of Truth, Fulguria · Primary* | Emission and absorption spectroscopy. **No substance can present another's spectrum.** Inside Solution, Judicium operates without the bandwidth constraint that normally limits reads to one target at a time: **everything in range is read simultaneously** *Strengthens Gnosis Acuity, Analysis* | **Spectral overload.** Every object in view reports its composition at once and the practitioner loses the ability to prioritize any of it |
-| **Aurevane** *The Wellspring of Light, Fulguria · Secondary* | Optical resolution and coherence. The Rayleigh criterion; phase-locked emission. **Supplies the coherence that holds the architecture in lockstep**, without it the sub-stats drift back to their natural cadences within seconds *Strengthens Gnosis Perception, Vigilance, Harmonics Attunement* | **Glare.** Coherent output is also a beacon. **A Solution practitioner is the most readable person in any engagement**, broadcasting at maximum coherence on every Fulguria band at once |
-| **Mirithane** *The Wellspring of Reflection, Limina · Tertiary* | Stillness; the self mirrored into truth. Suppresses confirmation bias, pattern-completion error and motivated reasoning by holding the mirror steady. **Produces a discomfiting clarity: the practitioner sees exactly what is true, including truths about themselves they would prefer not to see** *Strengthens Harmonics Attunement, Tempering Coherence* | **The mirror does not look away.** Sustained exposure to one's own internal state under total coherence surfaces memories, traumas and self-knowledge the practitioner has spent years successfully avoiding. **Solution does not guarantee they can handle what Solution shows them** |
-| **Hypnather** *The Sleep Crown, Limina · Support* | Rest; consciousness folded in safety. **Micro-recovery cycles running beneath the synchronized surface**, replenishing what the coherence consumes. *The practitioner feels the opposite of rested during Solution. But the architecture is restoring itself fast enough to extend the window from seconds to minutes* *Strengthens Vitality Regeneration, Tempering Yield, Gnosis Retention* | **The recovery cycles are cannibalistic.** They feed on the same reserve the synchronization is consuming, **and when the reserve empties both systems fail simultaneously** |
+| **Judicium** *The Wellspring of Truth, Wild · Primary* | Emission and absorption spectroscopy. **No substance can present another's spectrum.** Inside Solution, Judicium operates without the bandwidth constraint that normally limits reads to one target at a time: **everything in range is read simultaneously** *Strengthens Gnosis Acuity, Analysis* | **Spectral overload.** Every object in view reports its composition at once and the practitioner loses the ability to prioritize any of it |
+| **Aurevane** *The Wellspring of Light, Medium · Secondary* | Optical resolution and coherence. The Rayleigh criterion; phase-locked emission. **Supplies the coherence that holds the architecture in lockstep**, without it the sub-stats drift back to their natural cadences within seconds *Strengthens Gnosis Perception, Vigilance, Harmonics Attunement* | **Glare.** Coherent output is also a beacon. **A Solution practitioner is the most readable person in any engagement**, broadcasting at maximum coherence on every electrical band at once |
+| **Mirithane** *The Wellspring of Reflection, Spirit · Tertiary* | Stillness; the self mirrored into truth. Suppresses confirmation bias, pattern-completion error and motivated reasoning by holding the mirror steady. **Produces a discomfiting clarity: the practitioner sees exactly what is true, including truths about themselves they would prefer not to see** *Strengthens Harmonics Attunement, Tempering Coherence* | **The mirror does not look away.** Sustained exposure to one's own internal state under total coherence surfaces memories, traumas and self-knowledge the practitioner has spent years successfully avoiding. **Solution does not guarantee they can handle what Solution shows them** |
+| **Hypnather** *The Sleep Crown, Spirit · Support* | Rest; consciousness folded in safety. **Micro-recovery cycles running beneath the synchronized surface**, replenishing what the coherence consumes. *The practitioner feels the opposite of rested during Solution. But the architecture is restoring itself fast enough to extend the window from seconds to minutes* *Strengthens Vitality Regeneration, Tempering Yield, Gnosis Retention* | **The recovery cycles are cannibalistic.** They feed on the same reserve the synchronization is consuming, **and when the reserve empties both systems fail simultaneously** |
 
 ---
 
@@ -81,7 +81,7 @@ Solution activates from **concentration, not equilibrium.** Where Moetana requir
 | **Total Recall** | Retention without the encoding delay that separates experience from retrievable memory. Any moment replayable at full resolution, indefinitely. **The retained memories are sometimes a burden.** Details normal cognition would have filtered are stored at full fidelity: a dying opponent's final micro-expression, the exact sound of a bone breaking under the practitioner's hands. **They remember everything. They cannot choose not to** |
 | **Predictive Modeling** | Forecast operating at a resolution approaching genuine probability calculation. **Not prescience: statistics performed at a speed and resolution that makes it look like prescience.** *The limitation is data quality. A hidden combatant, an unknown ability, a fact not yet perceived: gaps the practitioner cannot fill by thinking harder.* *Solution makes them the best possible analyst of the information they have. It does not give them information they lack* |
 | **Emotion Regulation** | The Gnosis architecture subsumes the Harmonics architecture. Emotional processing does not stop: **it is reclassified as data.** Anger becomes a measurable spike with known effects on decision quality. Fear becomes a threat-response pattern with calculable impact on motor precision. **They feel everything. They feel it as information rather than as experience.** Immune to emotional manipulation, intimidation, rage provocation and empathic attack. **The cost is human connection**: a practitioner in Solution who looks at someone they love sees a bond-strength figure and a probability-weighted trajectory. *They know they love this person. They cannot, during Solution, experience what that knowledge means* |
-| **Telepathic Resonance** *Stage IX+ for stable function* | High-resolution Manteia rather than true telepathy. **The practitioner is not reading minds. They are reading the noise that minds produce**, and the synchronized architecture resolves that noise into signal. Range 10–30 meters, degrading with distance and with the target's Warding. **Probabilistic, not certain**: what the target is most likely thinking, not what they definitively are |
+| **Telepathic Resonance** *Stage IX+ for stable function* | High-resolution reading rather than true telepathy. **The practitioner is not reading minds. They are reading the noise that minds produce**, and the synchronized architecture resolves that noise into signal. Range 10–30 meters, degrading with distance and with the target's Warding. **Probabilistic, not certain**: what the target is most likely thinking, not what they definitively are |
 
 ---
 
@@ -112,7 +112,7 @@ Sustained by **neural Essence, the fastest-burning share of the self the Crystal
 
 ## Corruption Vector
 
-Fulguria's terminal corruption is **Sensory Overload leading to Cognitive Dissolution**, and Solution is the discipline most directly pointed at that destination.
+The terminal corruption of the truth and light lenses is **Sensory Overload leading to Cognitive Dissolution**, and Solution is the discipline most directly pointed at that destination.
 
 The practitioner develops a tolerance for the synchronized state and a corresponding intolerance for the unsynchronized one. **They know what their mind is capable of. They have seen it operate as a single instrument.** Returning to the partitioned default feels diminished, and the feeling worsens with each use.
 

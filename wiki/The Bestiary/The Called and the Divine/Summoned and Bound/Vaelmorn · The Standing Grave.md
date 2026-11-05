@@ -23,10 +23,10 @@ I have stood inside the ninety meters for an afternoon with a cut thumb, and it 
 |---|---|
 | **Field Name** | **Morn.** Among the bog villages of the thinning belt, **the Standing Grave**. Among Accord foresters, **the Slow One**, which is a working description and not a joke |
 | **Type** | Divine Beast · Archonic Bearer. One of a kind. **Credited to Elyndra by tradition and by nothing in the record** |
-| **Summoner** | *Unassigned. See Open Rulings* |
+| **Summoner** | *Unassigned* |
 | **Lineage · School** | Held loosely by bog-country hedge practice and by nobody with a charter. **The invocation has never been suppressed because it has never needed to be** |
 | **Loanable** | Functionally yes, and this is the entry's most dangerous line. **He answers almost anyone who speaks it correctly.** The Accord has not worked out how to restrict a thing that does not require standing |
-| **Category** | **Vocatia and Mnemata.** Concordia never engages, because there is nothing to hold open |
+| **Form** | **Call and Read.** Sing never engages, because there is nothing to hold open |
 | **Summon Tier** | **V · World-Tethered.** He takes nothing from the summoner at any point. **The ground holds him and the summoner is a formality** |
 | **Temperance Gate** | Stage XII Emanation by doctrine. **Stage VII in practice**, on eleven attested occasions, all of them hedge practitioners in bog country, all of them successful, and the discrepancy is an open Arbitration matter |
 | **Danger Tier** | **T6 · Domain Threat.** Contested. He affects a regional ecosystem and has no attested kill |
@@ -62,7 +62,7 @@ I have stood inside the ninety meters for an afternoon with a cut thumb, and it 
 | **Kind Resonance** | Wild, the Green Pulse. Vital warmth, restorative capacity, empathic response. **The Codex's stated risk for this current is spirits that resist dissolution.** He is the risk with four legs under it |
 | **Kind** | **Wild** |
 | **Leans on** | The Aether Shell, for what he does to matter, and the Core for what he keeps. *Body:* a hitter has nothing to hit that minds, so walk away, and most do. *Spirit:* the passengers are the way in, and a hand that recognizes one can ask it to leave. *Fate:* he has no threads to pull, having stopped everything that might have happened |
-| **Physics Domain** | **Biochemistry.** Every Mechanism below runs on preservation chemistry and metabolic suppression, and the real-world reading is the peat bog |
+| **Scholars' Account** | **Biochemistry.** Every Mechanism below runs on preservation chemistry and metabolic suppression, and the real-world reading is the peat bog |
 | **The Donation** | Accretion. **His donation does not burn, discharge or flow.** It settles, it binds, and it makes the thing it settles on stop changing |
 
 ---

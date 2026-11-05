@@ -4,7 +4,7 @@ title: Spirit Beasts
 
 # Spirit Beasts
 
-*Eleven entries · creatures formed from Wellspring resonance rather than born of flesh*
+*Eleven entries · creatures formed from [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] resonance rather than born of flesh*
 
 Brother Cuthwin Tace had a choir of forty, a very patient abbot and a theory, which was that a siren's song could be beaten by a better one, in four parts, properly pitched. He put it to the test in high summer aboard the cog *Pious Alys*, bound through the Wailing Reefs with a hold full of the dyers' guild's saffron and his singers lined up along the rail in new scarlet, and for the first mile he was right. The sirens came up on the rocks with their hair moving like weed and listened, courteous as a paying audience, through the whole of the first verse and the second. On the third they took up the tenor line and gave it back a shade sweeter. The choir went over the side in order of voice, smiling, basses last, with Brother Cuthwin still beating time, and the *Pious Alys* opened on the reef with nobody at the steering oar. The saffron went into the sea, and for nine days the whole bay ran as gold as a coronation. The coast has held a festival there ever since. On clear nights the fishermen swear the rocks still sing that hymn in four parts, with Cuthwin's own ornament in the last bar, which he never wrote down.
 
@@ -28,7 +28,7 @@ They travel in loose herds of four to six under an elder mare called a **Moonkee
 
 | Abilities | Weaknesses |
 |---|---|
-| **Harmonic Healing** · purifies Essence corruption, mends wounds, calms emotional unrest **Moonveil Step** · short-range teleportation through dreamlight, leaving an aurora shimmer **Wellspring Guard** · speed and magic resistance greatly amplified within reach of a Wellspring site **Horn of Binding** · channels a Conjunction of `Ma` Memory + `Ur` Balance to seal a corrupted being temporarily | Cannot survive heavily corrupted or void-aspected zones; **prolonged exposure sickens them** Trust is hard to earn: hostility meets immediate evasion or overwhelming defense **Horn shattering removes most of their magical ability**, and is considered sacrilege in many cultures |
+| **Harmonic Healing** · purifies [[The Magic System/First Steps/The Core Vocabulary\|Essence]] corruption, mends wounds, calms emotional unrest **Moonveil Step** · short-range teleportation through dreamlight, leaving an aurora shimmer **Wellspring Guard** · speed and magic resistance greatly amplified within reach of a Wellspring site **Horn of Binding** · channels a Conjunction of `Ma` Memory + `Ur` Balance to seal a corrupted being temporarily | Cannot survive heavily corrupted or void-aspected zones; **prolonged exposure sickens them** Trust is hard to earn: hostility meets immediate evasion or overwhelming defense **Horn shattering removes most of their magical ability**, and is considered sacrilege in many cultures |
 
 > During the Withering Age several herds guarded Wellspring sites that kept whole forest realms from falling. **The Siege of Moonveil Grove** records a single Moonkeeper **halting a Crevice-born horror for three days** until Concord forces arrived.
 >

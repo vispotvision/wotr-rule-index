@@ -2,7 +2,7 @@
 title: Prepared Tags
 ---
 
-*The common tags of the field kit, as cut by licensed hands, copied by unlicensed ones and guarded by the schools · prices in Accord marks*
+*The common [[The Magic System/Power in Use/Runes and Tags|tags]] of the field kit, as cut by licensed hands, copied by unlicensed ones and guarded by the schools · prices in Accord marks*
 
 > A wall cut by an Engraver holds for three hundred years. A tag holds for three weeks and fires once, and in a fight that is the better bargain. Twelve tags make up most of what is carried into battle.
 
@@ -28,7 +28,7 @@ A tag is also why low-Stage fighters love them. Below Refraction (Stage VII, the
 
 | Fuel | Where the power comes from | What it means in a fight |
 |---|---|---|
-| **Ambient Aether** | The magic in the air around it, at the room's Density (how much Aether, the raw stuff of magic, a place holds) | Cheap and never stale. **Fails in dead ground** (salted ground, worked by hedge-workers so Aether will not pool on it; bled ground, pulled empty; a place beside a Core, a worked Wellspring site, whose keepers have closed it; or a place no Wellspring's Aether reaches) and weakens anywhere thin |
+| **Ambient Aether** | The magic in the air around it, at the room's Density (how much Aether, the raw stuff of magic, a place holds) | Cheap and never stale. **Fails in dead ground** (salted ground, worked by hedge-workers so Aether will not pool on it; bled ground, pulled empty; a place beside a Core, a worked [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings\|Wellspring]] site, whose keepers have closed it; or a place no Wellspring's Aether reaches) and weakens anywhere thin |
 | **The user's reserve** | The Essence the person firing it can spend before running dry | As strong as the user, up to the maker's Stage. **It costs the user**, and the more they feed it the longer it holds |
 | **The maker's stored charge** | Reserve the cutter poured into the tag when it was made | Works anywhere and for anyone who can fire it. **Goes stale**: strongest the day it is cut, weaker each week, dead in a season |
 

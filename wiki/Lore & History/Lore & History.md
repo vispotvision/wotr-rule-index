@@ -35,7 +35,7 @@ The Alftian Codex is **what it looks like from inside a life.** A terrace-farmer
 | Feature | What it means for reading it |
 |---|---|
 | **First person, retrospective, unreliable by construction** | Vis Trismegistus is writing about his own errors and **does not know he is in one until the third volume.** The Codex's most important finding is a correction to something it asserted with confidence two volumes earlier |
-| **Transcribed by the Silent Archivists of Naln** | All three volumes carry the same transcription line. **The Archivists are not otherwise described anywhere in this wiki** |
+| **Transcribed by the Silent Archivists of Naln** | All three volumes carry the same transcription line. **The Archivists are not otherwise described anywhere on these shelves** |
 | **Classified Restricted Access, High Wellspring Sensitivity** | Volume One is Hermetic Lore. Volume Two adds **Mortalis-Adjacent.** Volume Three is filed and sealed at the Urbis Archivum, cross-referencing a Level IV clearance case file |
 | **It names the Seven Cacodaemonic Corruptions before the Heresiology exists** | Vis writes the first three from his own experience and **flags the remaining four as work he has not yet done.** *The Heresiology of Alchemy is the completed version of a book a dead man left unfinished* |
 

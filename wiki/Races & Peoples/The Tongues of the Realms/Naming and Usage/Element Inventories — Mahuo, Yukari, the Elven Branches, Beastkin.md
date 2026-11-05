@@ -12,7 +12,7 @@ Four element inventories: Mahuo, Yukari, the Elven branches, Beastkin. Read alon
 
 ## I. Mahuo — Breath, Soul and the Ledger *(Korean stratum)*
 
-*Two-syllable given names built from a fixed inventory. One syllable is the generation-syllable, shared by every child of one generation within a line; the other is the personal syllable. Either syllable may occupy either position — canon shows both "Ara Min" and "Mu-jin" orderings. Family name attaches per the existing pattern; canon shows it both preceding (Kwon Mu-jin) and following (Cozbi Mahuo) the given name, and this inventory does not resolve which is "correct" — both are attested.*
+*Two-syllable given names built from a fixed inventory. One syllable is the generation-syllable, shared by every child of one generation within a line; the other is the personal syllable. Either syllable may occupy either position: the records show both "Ara Min" and "Mu-jin" orderings. The family name attaches per the existing pattern; the records show it both preceding (Kwon Mu-jin) and following (Cozbi Mahuo) the given name, and this inventory does not resolve which is "correct" — both are attested.*
 
 | Category | Elements |
 |---|---|
@@ -28,7 +28,7 @@ Four element inventories: Mahuo, Yukari, the Elven branches, Beastkin. Read alon
 
 *Two-element compounds. A full name carries up to five life-stage forms: childhood name, adult name (taken at the Telling), calling-name (used by intimates), true name (taboo — spoken only among family or before Senri's stone), and posthumous name.*
 
-Only *Ketsu*, *En*, *Jin*, and *Mu* are canon-attested; every other element is newly coined to fit the register.
+Only *Ketsu*, *En*, *Jin*, and *Mu* are attested in the old records; every other element is a compiler's reconstruction to fit the register.
 
 | Category | Elements |
 |---|---|

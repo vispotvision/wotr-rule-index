@@ -32,7 +32,7 @@ Mad Dunna Quillon ran Bloodsilver past the harbor searchers of three kingdoms fo
 > Measured on the coil (the great brass assay instrument; a practitioner stands inside it to be read, and a sample sits where the practitioner would).
 **The two do not track each other.** Forge-Iron bears magnificently and holds nothing. Gloomhide is spiritually inert and physically superb. Mireclay holds a totem for one night and cannot hold a roof for one hour. A material's tier says what it can hold; a finished piece also carries a Grade for its power and a Rarity for its scarcity, and those belong to [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]].
 
-**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty alchemical and spiritual transformations, each the governing idea that shapes how a soul uses Aether and each a type of Aether as well). **Kind** names the plane that Wellspring is at home on: Wild, Spirit, Fate or Medium. **Physics Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a thermal refractory is not ordered for an electrical duty by a clerk who never went underground.*
+**Resonance** names the Wellspring or Wellsprings a substrate is naturally sympathetic to (the Wellsprings are the sixty alchemical and spiritual transformations, each the governing idea that shapes how a soul uses Aether and each a type of Aether as well). **Kind** names the plane that Wellspring is at home on: Wild, Spirit, Fate or Medium. **Domain** names the real-world law it answers to underneath the Parunic dressing (Parun being the glyph-tongue a working is written in), recorded so that *a thermal refractory is not ordered for an electrical duty by a clerk who never went underground.*
 > Blank cells in those three columns mean **the Ledger is silent, not that the material is inert.** An Engraver (the craftsman who cuts a working into a substrate) who fights his substrate pays for it in the lifespan of the inscription.
 
 ---
@@ -146,3 +146,7 @@ Value, Coin and Trade
 >
 > Two things worth having in any market scene. A **cased** weight is a bronze shell filled with lead and gives a dull note instead of ringing, so every market searcher taps before he does anything else. And the whole grain trade turns on one word, **level or heaped**, which makes the strike-board the most political object in the market.
 - [[Materials, Alchemy & Trade/Alchemy/The Real Alchemy]]
+
+---
+
+**Read beside this.** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]] for what a material's Resonance and Kind mean, [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] for the three layers a Draft feeds and a harness does or does not cover, and [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]] for what a bought [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] does not buy.

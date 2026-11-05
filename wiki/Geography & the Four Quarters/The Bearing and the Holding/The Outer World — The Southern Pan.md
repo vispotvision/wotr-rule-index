@@ -276,14 +276,6 @@ See [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Ten Great Ho
 
 ---
 
-> **Reconciliation note: the test the Archives asked for, run against the Old World's.**
+> **Why the ledger and the land disagree.** The ledger is an **Accord document about ground Accord surveyors can reach.** Everything it records for this quarter is dry, low, treeless and westward-facing, which is precisely the Dust Coast, the Varakh Drylands and the Ashen South. If eighty percent of the quarter is draconic and issues no survey permits, then the Measurewrights never wrote the wet half **because they were never let in**, and the ledger is not wrong so much as it is a partial survey wearing the confidence of a complete one.
 >
-> **What matches, and matches closely.** The defining condition is identical in both: Aether-exhausted ground, practitioners running on their own reserves, no array work, and the whole political order shaped by who holds the few places where Essence still gathers. The rainless nitrate coast is in both: *Palebed Nitre, caliche in basins that have not seen rain in living memory*, set against the Aurelian Dust Coast's nitrate and lithium salts under multi-year drought. Flood basalt is in both. Bone-beds and fossil wealth are in both. So is a cold fractured southern extremity of fjord and island. **Hollow Wellsprings and Dead Zones are the same idea the Crevice belongs to.**
->
-> **What does not match.** The ledger describes almost no water and almost no wood; the document puts the largest rainforest in the world in the same quarter. The ledger names no mountain chain; the document is spined by a volcanic cordillera running its full length. And the ledger's polities, Braqth, Dorrosfenn and Epprenea, do not appear in the document at all, which is held four parts in five by dragons the ledger never mentions.
->
-> **A fourth resolution, available here and possibly upstream.** The ledger is an **Accord document about ground Accord surveyors can reach.** Everything it records for this quarter is dry, low, treeless and westward-facing, which is precisely the Dust Coast, the Varakh Drylands and the Ashen South. If eighty percent of the quarter is draconic and issues no survey permits, then the Measurewrights never wrote the wet half **because they were never let in**, and the ledger is not wrong so much as it is a partial survey wearing the confidence of a complete one. *That is diegetically better than any of the three exits offered on the Old World page, and it costs no canon.*
->
-> **Whether it rescues the Old World too is a separate question and my answer is no.** Coal foreland, karst, coppiced woodland on eleven-hundred-year rotation and orange acid drainage are not an unsurveyed corner of an African-register country; they are different ground entirely. The partial-survey reading works here and does not work there, which is itself evidence the two documents are misfiled differently.
->
-> **Ruled 2026-09-12.** The Marrowchalk entry cited the Holy See of Lurien, dead canon, retconned and replaced by the Holy Sea of Alabaster. **Alabaster inherits the jurisdiction** over southern phosphate law, along with everything else it replaced. Fixed above.
+> Southern phosphate law falls under the Holy Sea of Alabaster.

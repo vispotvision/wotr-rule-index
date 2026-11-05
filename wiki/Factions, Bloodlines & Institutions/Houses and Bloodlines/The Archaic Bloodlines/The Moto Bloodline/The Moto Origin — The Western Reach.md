@@ -10,9 +10,9 @@ tags:
 **Say it** · MOH-toh
 
 *The western reach of the northern shield.*
-> **Ruling in effect.** The Moto origin is **the western reach of the Inner World's northern shield, and the Old World has no claim on it.**
+> The Moto origin is **the western reach of the Inner World's northern shield, and the Old World has no claim on it.**
 >
-> **Sātūlagi is struck from canon.** The Malō of Sātūlagi does not exist and never did. **The Moto hold one seat and it is Kharven.**
+> **There is no Sātūlagi.** The Malō of Sātūlagi does not exist and never did. **The Moto hold one seat and it is Kharven.**
 
 Hrolf Oddway, a chartered surveyor with a loud mouth and a good red cloak, bet a whole inn at Kessen a month of his wages that he could spend one night leaning on the old Moto gatepost and come back bored. He came back on the third day in the same cloak with frost in his beard, swearing oaths under his breath in a phonology nobody at the inn could place, and he swore them for the rest of his life, in his sleep and at his own wedding. His wife paid the bet. The ground he had leaned on is the subject of this page.
 

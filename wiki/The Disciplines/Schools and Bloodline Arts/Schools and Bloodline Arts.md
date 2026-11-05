@@ -8,6 +8,19 @@ title: Schools and Bloodline Arts
 
 A school is a club: it has colors, a song nobody can sing sober, a grudge older than anyone holding it, and a style you can spot at fifty paces, and two parishes have gone to war over less at a fair. The bloodline arts are worse, because you cannot change sides.
 
+| School or line | Path | Form |
+|---|---|---|
+| The Sage Arts | Spirit, and Fate as it deepens | Sing, Call, Claim |
+| The Spirit Rune Arts | Spirit | Write |
+| The Harmonic Arts | Spirit and Fate | Sing, Read |
+| The Spirit Summoning Arts | Whichever the summoner lived | Make, Call |
+| Hataraki | Fate, wherever a Work takes hold | Pull |
+| The Ketsumyōgan | Spirit to perceive, Fate to edit | Read, Pull |
+| Null-Light | Spirit | Read, Bind |
+| Asami and Gisei | Whichever the person lived | None, Bind |
+
+A Path here is what the art leans on. Blood gives no Path, as [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|the Archaic Bloodlines]] sets out, and [[The Magic System/Reference and Craft/Forms|Forms]] says what the Forms are.
+
 - [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto|Asami and Gisei — The Two States of the Moto]]
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki — The Works of the Plane of Fate]]: Hataraki, literally translated as Work, is the governing function of the Plane of Fate.
   - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works|Hataraki no Sho — The Martial Application of the Works]]

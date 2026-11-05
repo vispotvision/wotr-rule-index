@@ -57,7 +57,7 @@ The west is the crowded quarter, the one with the guild halls, the law and the b
 
 *Bearing is what a material does under load, Holding is what working it will keep. T0 to T9 is the Accord's Tier ladder, and a Resonance and Domain name the Wellsprings a material answers to, and the branch of natural law they work through.*
 
-**Forge-Iron** · *T2 · Metal · Altherion, Inner World, northern rim (ruled 2026-09-12)*
+**Forge-Iron** · *T2 · Metal · Altherion, Inner World, northern rim*
 
 The standard armament and structural iron of the western kingdoms. Durable against blades, poor Essence retention, made in quantity and to a specification that has not meaningfully changed in three hundred years. Bearing good, Holding poor.
 
@@ -135,14 +135,4 @@ Exports finished goods, worked metal, wolfram, tin, expertise, and credit. Impor
 
 ---
 
-> **Resolved: the two Old Worlds.** Three ways out; option two taken:
->
-> **One.** The four-quarter ledger is older and the geography document supersedes it. Then this page's Formation, Ground and stock sections are dead canon, and Varūn needs rehousing in another quarter.
->
-> **Two.** The geography document describes a **different country** that has been carrying the wrong name. Cheapest fix: rename it and give it its own page. The Outer World doc and *The Outer World — The Southern Pan* rhyme closely enough that the same test should be run there before assuming the whole doc set is misfiled.
->
-> **Three.** Two scales, one name: the quarter and the larger country are different objects that happen to collide in the word. Untenable as written; would need one of the two renamed regardless.
->
-> *The read here: option two. The Kushara material is internally coherent, has eight houses, a named sovereign and twelve regions built out to wildlife level, and does not want to be a quarter of anything. The four-quarter ledger is load-bearing for the Inner World and the whole materials system. Cheaper to move the continent than the ledger.*
->
-> **Ruled 2026-09-12.** Kushara, with the continental orientation, the Twelve Great Regions, the city of Kushara, its mountain systems, and the Eight Great Houses, has been split out to its own page: [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/Kushara — The Land That Remembers Weight]]. This page keeps only the actual Old World quarter above: Formation, The Ground Itself, Bearing Stock, Holding Stock, The Works, What It Costs, Trade Posture, Varūn. *Eresse and Iampu are not Old World polities either: ruled 2026-09-12, they and every elven branch, Rovann, the Sylvaar Dream Groves and the Echo Elves' Longhouse Accord with them, sit in the New World's elven old-ground, beside the arc the Accord chartered. Ironwood and Glacium go with them; both are now entered on the New World page.* *Altherion is not an Old World polity: ruled 2026-09-12, it sits on the Inner World's northern rim, under Stannvaard.* See also [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Eight Great Houses of Kushara]] for the Sovereign House and Seven Pillars in full.
+> Older books also call [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/Kushara — The Land That Remembers Weight|Kushara]] the Old World. It is a different landmass entirely, and the two were long confused for carrying one name.

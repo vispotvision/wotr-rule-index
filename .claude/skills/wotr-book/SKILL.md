@@ -89,7 +89,7 @@ itself if he wants to read it here. Then his call, one of four:
   characters; 85-115% words; at least 70% of dialogue lines
   and paragraphs kept). His note is the only finding. Save as the next
   `draft_rN.md`/`notes_rN.md`, run
-  `build/verify.py chNN/draft_rN.md --culture <C> --echoes [--combat]`,
+  `rust/target/release/wotr-mcp verify chNN/draft_rN.md --culture <C> --echoes [--combat]`,
   copy to `final.md`/`final_notes.md`, append an "Instructed round" section to
   `GATE.md`, and put it back in front of him. Still his gate.
 - **Re-brief** (the beat was wrong: "the clerk asks the king, not the

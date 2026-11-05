@@ -23,13 +23,11 @@ The same for every model, Claude, ChatGPT and Codex alike:
 Without the MCP:
 
 ```bash
-bash build/py.sh build/query.py --format brief                                   # the brief rulebook
-bash build/py.sh build/query.py --applies-to <tag> <tag> ... --format full       # a domain in full
-bash build/py.sh build/query.py --applies-to <tags> --status pending proposed --format brief   # the docket
-bash build/py.sh build/query.py --id R79-6-FIGHTS_ON_THE_PAGE                     # one rule
+rust/target/release/wotr-mcp call load_rules '{"tags":[],"brief":true}'            # the brief rulebook
+rust/target/release/wotr-mcp call load_rules '{"tags":["<tag>","<tag>"]}'          # a domain in full
+rust/target/release/wotr-mcp call check_docket '{"tags":["<tag>"]}'                # the docket
+rust/target/release/wotr-mcp call rule '{"id":"R79-6-FIGHTS_ON_THE_PAGE"}'          # one rule
 ```
-
-Bare `python build/query.py` prints a missing-pyyaml error; use `build/py.sh`.
 
 ## Domain tags (closed list; `schema/applies_to.md` is canonical)
 
@@ -53,7 +51,7 @@ Bare `python build/query.py` prints a missing-pyyaml error; use `build/py.sh`.
 | `items` | weapons, armor, artifacts, consumables |
 | `character-sheet` | the card, entry format, technique entries |
 | `documents` | in-world documents, deliverable format |
-| `verification` | `verify_scene` / `build/verify.py`, the self-review pass |
+| `verification` | `verify_scene` / `wotr-mcp verify`, the self-review pass |
 | `session-protocol` | session start and scene end, the Ledger, the Fronts |
 
 ## Loadouts by task

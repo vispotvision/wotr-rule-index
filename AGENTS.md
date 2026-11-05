@@ -67,36 +67,30 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   more than one card in play (Sodoku Moto: the Volume I card and the Level-500
   "Arctic Lion" page); the thread's latest archived scene says which; check
   before you trust `fow_line`.
-- **WOTR MCP in Rust** (`rust/`, binary `rust/target/release/wotr-mcp`, since 2026-11-04) —
-  what `.mcp.json` now launches. Every one of the 58 tools runs natively (since 2026-11-04);
-  `build/mcp_worker.py` (which imports `mcp_server.py`) is only the fallback for a tool added to
-  the Python server and not yet ported, and the source of `rust/tools.json` (`wotr-mcp dump`).
-  Narration runs in Rust too (`wotr-mcp audio`, same arguments as `build/audio_export.py`, which
-  stays as the reference): Kokoro and Supertonic in-process on the venv's ONNX Runtime, MP3s
-  through the venv's lameenc LAME (byte-identical; it loads libpython3.14 for that library's
-  symbols, so a Python upgrade drops narration to WAV until fixed). Still Python, run as
-  programs: the Chatterbox and Qwen GPU workers, the Whisper read-back check, `--qwen` runs
-  (handed to audio_export.py), the search index build (`build/embed_index.py`), `build/sync.sh`, and
-  the external CLIs research calls (Agent Reach, agent-browser). table/*.yaml is written by
-  `rust/src/pyyaml.rs`, byte-identical to PyYAML. The checks, all must pass after a change:
-  `rust/parity.py` (read tools), `rust/yaml_parity.py`, and in scratch clones with scratch
-  remotes `rust/writer_parity.py`, `rust/audit_parity.py`, `rust/job_parity.py` and `rust/audio_parity.py`. The semantic search embeds queries with the same bge-small ONNX
-  model and the wotr venv's ONNX Runtime, reading `build/index/`, which Python still builds); every other
-  tool goes to one long-lived `build/mcp_worker.py`, which imports `mcp_server.py`. Tool names,
-  descriptions and schemas come from `rust/tools.json`: after changing a Python tool's
-  signature or docstring run `rust/target/release/wotr-mcp dump`. After changing a native tool
-  in either language run `bash build/py.sh rust/parity.py` (exit 0 = byte-identical output).
-  The public route is Rust too (`wotr-mcp http`, the `wotr-mcp-public` unit): named API keys, each
-  with its own token and tool permissions, made and watched at the dashboard
+- **WOTR MCP** (`rust/`, binary `rust/target/release/wotr-mcp`) — what `.mcp.json`, Claude
+  Desktop (`build/install_mcp.sh`) and the public route run; every tool is native. All new
+  code, fixes and tests go in Rust (`CLAUDE.md`). Tool names, descriptions and schemas live in
+  `rust/tools.json`; a new tool is added there by hand, because `wotr-mcp dump` rewrites the
+  whole file from `build/mcp_server.py` and would drop a Rust-only tool. Any tool runs without
+  an MCP client: `wotr-mcp call TOOL '{json args}'`. `table/*.yaml` is written by
+  `rust/src/pyyaml.rs`, byte-identical to PyYAML. The semantic search embeds queries with the
+  bge-small ONNX model on the venv's ONNX Runtime and reads `build/index/`. Narration runs
+  through `wotr-mcp audio`: Kokoro and Supertonic in-process, MP3s through the venv's lameenc
+  LAME (it loads libpython3.14 for that library's symbols, so a Python upgrade drops narration
+  to WAV until fixed). The public route is `wotr-mcp http` (the `wotr-mcp-public` unit): named
+  API keys, each with its own token and tool permissions, made and watched at the dashboard
   http://127.0.0.1:8790/ (this PC only, never funneled); keys in `~/.config/wotr/mcp_keys.json`.
-- **WOTR MCP** (`build/mcp_server.py`, 45 tools) — what Claude Desktop
-  ("Natalie"), Claude Code (`.mcp.json`), the Discord bot and the book pipeline
-  use. **Without an MCP client, 21 of the read-only tools are a command line:**
-  `python build/book_tools.py <tool> …` (bare = the list; `verify_scene` is
-  `verify` there). `stale_names`, `scene_text`, `cast_index`, `pack_impact`,
-  `narration_status`, `trello_cards` and every writer need the MCP. One
-  command-line tool writes: `voice_fingerprints` rebuilds `table/voices.yaml`,
-  which the sync commits — don't run it idly.
+  **The check after a change:** `cargo test --release --bins --tests` in `rust/`. The
+  `rust/*_parity.py` harnesses compare Rust against the old Python tools, so a Rust-only fix
+  shows there as an expected difference: read the diff, and don't port the fix back.
+- **Not ported yet, still Python: run it, don't extend it.** The index tools (`validate.py`,
+  `resolve.py`, `query.py`); the automation (`build/sync.sh` with `embed_index.py`,
+  `nightly.py`, `backup.py`, `book_next.py`, `jobs_server.py`); the site builders
+  (`site_*.py`); `book_tools.py`, which the nightly's headless Claude uses; the Discord bot
+  (`bot/`) and the Workshop (`app/`), which import `build/mcp_server.py`, so that file stays
+  in place for them; `natalie_hook.py`, which runs `build/verify.py` and so misses Rust-only
+  verify fixes; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen`
+  runs. Research also calls external CLIs (Agent Reach, agent-browser).
 - **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
   dispatcher, Sunday backup, the Discord bot, a job runner n8n calls, a public
   read-only MCP behind a shared secret. All systemd user units (below).
@@ -142,7 +136,7 @@ site/         the public site: quartz.config.yaml, custom.scss, landing.html, as
 scenes/       the archive; scenes/cast/ = speaker-tagged cast files for narration
 table/        fronts.yaml ledger.yaml npcs.yaml sessions.yaml (+ FRONTS.md LEDGER.md NPCS.md rendered);
               voices.yaml here = voice fingerprints for voice_check (narration presets are build/voices.yaml)
-build/        every tool, the shell scripts, build/systemd/ (the units), casting/, voices/
+build/        the Python not yet ported, the shell scripts, build/systemd/ (the units), casting/, voices/
 app/          the WOTR Workshop (app/server.py, static/, test_app.py): each player's own library
               of characters, techniques, items, lore, places, factions with images; Natalie runs
               on the player's own AI (key stays in their browser) with the MCP's read tools wired in
@@ -160,7 +154,7 @@ desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md �
               serves them all through skill() and as prompts); Workflow scripts (book-chapter.js, judger-assist.js)
               — the Workflow scripts run only in Claude Code; other agents use book_tools.py
 .mcp.json     registers WOTR MCP for Claude Code sessions here (the Rust binary)
-rust/         the Rust MCP: src/ (main, rules, verify, pages, util), tools.json, parity.py
+rust/         the WOTR MCP and all new code: src/, tests/, tools.json, *_parity.py
 CLAUDE.md CONTINUE.md ROADMAP.md CONFLICTS.md RULINGS.md PROGRESS.md BRIEF.md README.md
 ```
 
@@ -173,7 +167,7 @@ Host `Ultron`, user `oridon`, Arch Linux (Omarchy); repo at `~/wotr-rule-index`;
 what lived outside it on Windows is in the private `~/wotr-vault`
 (`true-canon/` = the base craft guides and their dated editions).
 
-- **One interpreter:** `~/.venvs/wotr/bin/python` (3.14). `python` in this
+- **One interpreter, for the Python not yet ported:** `~/.venvs/wotr/bin/python` (3.14). `python` in this
   file means that one; the system `python` has none of the packages (and
   `validate.py`'s own error would tell you to pip-install into it — don't).
   Safest form: `bash build/py.sh build/<tool>.py …` (sources the config, runs
@@ -232,14 +226,14 @@ python build/resolve.py                     # regenerates out/
 python build/query.py --applies-to combat adjudication --format full
 python build/query.py --id R15-2-ONE_TEST --format full
 
-# read-only tools without the MCP (bare = the list); plain text search is grep over rules/ or out/rules.live.full.md
-python build/book_tools.py
-python build/book_tools.py session_start "Sodoku Moto" duel Kharven    # loadout + docket + ledger + fronts
-python build/book_tools.py load_rules prose-law combat pov --brief
-python build/book_tools.py loadout duel                                # the tags for a scene type
-python build/book_tools.py character "Sodoku Moto"     due 1 Kharven     fronts Kharven
-python build/book_tools.py scene_context beat.md       # the lorebook for a draft or a beat — write it to a file first
-python build/verify.py draft.md --combat
+# any tool without an MCP client, JSON arguments; plain text search is grep over rules/ or out/rules.live.full.md
+rust/target/release/wotr-mcp call session_start '{"thread":"Sodoku Moto","scene_type":"duel","culture":"Kharven"}'
+rust/target/release/wotr-mcp call load_rules '{"tags":["prose-law","combat","pov"],"brief":true}'
+rust/target/release/wotr-mcp call character '{"name":"Amelia Greymane"}'
+rust/target/release/wotr-mcp call due '{"culture":"Kharven"}'
+rust/target/release/wotr-mcp call scene_context '{"draft":"the text of a draft or a beat"}'   # the lorebook
+rust/target/release/wotr-mcp verify draft.md --combat
+python build/book_tools.py loadout duel                # the tags for a scene type (no Rust tool for this yet)
 python build/book_next.py --json                      # where the book stands (read-only)
 
 # these do the real thing — sync commits and pushes the wiki, nightly runs headless
@@ -254,8 +248,8 @@ python build/judger_apply.py <scene-slug>          # list proposals; then P01 P0
 # the MCP itself
 (cd rust && cargo build --release)        # build the Rust MCP; .mcp.json runs rust/target/release/wotr-mcp --ops
 rust/target/release/wotr-mcp verify draft.md --combat   # verify.py's command line, in Rust
-bash build/py.sh rust/parity.py           # Rust vs Python over the whole archive; must exit 0
-python build/mcp_server.py                # stdio, all 45 tools (what .mcp.json registers)
+(cd rust && cargo test --release --bins --tests)   # the check after a change; must pass
+bash build/py.sh rust/parity.py           # Rust vs the old Python; a Rust-only fix shows as an expected difference
 rust/target/release/wotr-mcp http        # the public route + key dashboard, what the unit runs
 
 # operations — Isaac's, or on his word: they (re)install and restart the live units
@@ -288,12 +282,12 @@ each tag means is `schema/applies_to.md`.
    scene is decided at the table and the writing goes on (R79-2).
 3. `character` and `fow_line` for anyone named, once per scene; `scene_brief`
    for the fill-in template, set pieces only (R79-2); `scene_context <file>` (or `scene_recall "<moment>"`) for the
-   cards and the prior scenes on the same ground. `codex "<term>"` (or
-   `build/codex.py find`) for any glyph, spell, formula or Wellspring the
+   cards and the prior scenes on the same ground. `codex "<term>"` for any
+   glyph, spell, formula or Wellspring the
    scene will work: The Master Codex read from the xlsx (Pack Eighteen 4a).
-4. After drafting: one `verify_scene` / `build/verify.py` a turn, every FAIL
+4. After drafting: one `verify_scene` / `wotr-mcp verify` a turn, every FAIL
    fixed, WARNs read but not looped (R79-2); every finding carries a
-   rule id or a Table Rule number; `codex_check` / `build/codex.py check` for
+   rule id or a Table Rule number; `codex_check` for
    Pack Eighteen checks 37-39; `voice_check` for a line that must sound
    like its speaker.
 5. At the table, when a scene ends Natalie archives it with `archive_scene`

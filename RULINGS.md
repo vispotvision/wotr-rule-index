@@ -3647,3 +3647,9 @@ Context: Follows the same night's ruling on the Inner World.
 Isaac, 2026-11-05: "Sumgol being the name of Cozbi's Nation and the Mahuo Dynasty Kingdom." Also: "lets try to keep the names all structually the same or fit the culture of the house they were meant to repersent". Sum-gol names the kingdom as well as its seat. Natalie's draft names for the other Inner World kingdoms, for him to keep or cut, are in imports/drafts/inner-world-redo/KINGDOMS.md.
 
 Context: Inner World redo. The wiki's spelling Sum-gol is kept. Cozbi's card has him refuse the restored crown and hold Sum-gol as Head of House Mahuo.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "the north only has one True Kingdom which is Khavern however they built out the Empire or Muken did it is very much an empire". Kharven is the North's only true kingdom, and Muken built an empire out of it. The six Banner Houses hold lands inside that empire and are not kingdoms. AGENT RULING (Natalie, overturnable): the empire is styled the Ashen Empire of Kharven, and the banner lands keep their "The X of Y" names as its holdings.
+
+Context: Inner World redo. Read "Khavern" as Kharven. Imports/drafts/inner-world-redo/KINGDOMS.md carries the names.

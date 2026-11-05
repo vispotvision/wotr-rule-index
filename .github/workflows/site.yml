@@ -3,7 +3,7 @@ name: Publish the wiki site
 on:
   push:
     branches: [master]
-    paths: ["wiki/**", "site/**", "build/site_content.py", "build/site_art.py", "build/site_charts.py", ".github/workflows/site.yml"]
+    paths: ["wiki/**", "site/**", "rust/site/**", ".github/workflows/site.yml"]
   workflow_dispatch:
 
 permissions:
@@ -33,7 +33,8 @@ jobs:
         run: |
           cp site/quartz.config.yaml quartz-src/quartz.config.yaml
           cp site/custom.scss quartz-src/quartz/styles/custom.scss
-          python3 build/site_content.py quartz-src/content
+          cargo build --release --manifest-path rust/site/Cargo.toml
+          rust/site/target/release/wotr-site quartz-src/content
       - name: Build
         working-directory: quartz-src
         run: |

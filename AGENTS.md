@@ -87,7 +87,7 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   `nightly`, `book-next`, `hook`, and `tool NAME args`, the positional command line for the book
   pipeline's agents) run here too.
 - **Not ported yet, still Python: run it, don't extend it.** `build/sync.sh` with `embed_index.py`;
-  the site builders (`site_*.py`); the Discord bot (`bot/`)
+  the Discord bot (`bot/`)
   and the Workshop (`app/`), which import `build/mcp_server.py`, so that file stays in place for
   them; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
   Research also calls external CLIs (Agent Reach, agent-browser).
@@ -106,16 +106,19 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   `##`, a blank line before a table, no Notion-style one-paragraph-per-line blocks.
   Mermaid charts are fine in the vault; the site redraws them as its own art.
 - **The site** (https://vispotvision.github.io/wotr-rule-index/) is Quartz, built by
-  `.github/workflows/site.yml` on any push to `wiki/**`, `site/**` or the site scripts:
-  - `build/site_content.py` copies public pages only (manifest `private`, frontmatter
+  `.github/workflows/site.yml` on any push to `wiki/**`, `site/**` or `rust/site/**`. The
+  builder is its own crate, `rust/site/` (`wotr-site <out_dir>`), so CI skips the MCP's dependencies:
+  - `src/main.rs` copies public pages only (manifest `private`, frontmatter
     `private: true`, or an all-private folder; character cards, scenes, techniques and
     the Table never publish) and dresses them: a plate per page, a painted banner per
     section and shelf front page, card grids for link lists, glossary cards for runs
     of `**Term**: meaning`, paragraph breaks, long quotes set as prose;
-  - `build/site_art.py` holds the crests, plates, `FOLDER_ART` (painting per shelf,
-    from `wiki/Assets/Paintings/*.webp`, embedded at the top of each hub page) and the diagrams (`python build/site_art.py` rewrites
-    `wiki/Assets/Diagrams/*.svg`; embed one with `![[Assets/Diagrams/name.svg]]`);
-  - `build/site_charts.py` redraws mermaid: a chain becomes a gilt road, a timeline era
+  - `src/art.rs` draws the plates and banners, and `src/tables.rs` holds the crests,
+    section styles and `FOLDER_ART` (painting per shelf, from `wiki/Assets/Paintings/*.webp`,
+    embedded at the top of each hub page);
+  - the diagrams are hand-kept SVG: edit or add `wiki/Assets/Diagrams/*.svg` directly and
+    embed one with `![[Assets/Diagrams/name.svg]]`;
+  - `src/charts.rs` redraws mermaid: a chain becomes a gilt road, a timeline era
     bands, anything branching gilt plaques laid out by Graphviz;
   - the sidebar order is the `sortFn` list in `site/quartz.config.yaml`: add a new
     shelf's name there.

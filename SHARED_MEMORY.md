@@ -34,8 +34,10 @@ Python copy of a fix. `CLAUDE.md` and `AGENTS.md` carry the rule and list what i
 not ported yet. Removed on his word: n8n and the job runner (`n8n/`,
 `build/jobs_server.py`, `wotr-jobs.service`) and the writers' room
 (`build/writers_room.py`, `WRITERS_ROOM.md`, the `wotr-room` skill). This
-supersedes the 2026-10-08 writers' room note below. Evidence: the commits on
-`claude/laughing-cohen-133f7f`.
+supersedes the 2026-10-08 writers' room note below. The site builders are now the
+`rust/site/` crate, which supersedes the `build/site_*.py` names in the 2026-10-15
+note below; `wiki/Assets/Diagrams/*.svg` are the source of the diagrams. Evidence:
+the commits on `claude/laughing-cohen-133f7f`.
 
 ### 2026-10-29 — Volume I culled to the new lore (Isaac's decision; recorded by Claude Code)
 

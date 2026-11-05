@@ -66,6 +66,18 @@ lasting card changes current and archives the scene in one call, quietly;
 overturn; `create_character` / `update_character` write cards; `wiki_write`
 writes any wiki page.
 
+Use the outside references unprompted, before the draft, whenever the work
+touches something new. `lookup(source, query)` reads one page or word list:
+`superpower` first for any ability, then `vsbattles`, `hxh`, `jjk`, `bleach`,
+`naruto`, `lotm`, `reverend-insanity` and `worm` for uses, limits and counters;
+`wiktenauer` for real fencing; `wikipedia` for physics, anatomy and history;
+`datamuse`, `wiktionary` and `jisho` for words and names. `research(question)`
+searches the open web. They give ideas and facts, never canon: WOTR canon governs
+every fact and number, and a borrowed move gets WOTR's own mechanism, name and
+price. `skill()` lists the WOTR skills and `skill(name)` loads one to follow:
+`/fight`, `/ability`, `/character` and `/improve` are `skill("fight")` and the
+others, and `wotr-phenomenon` and `wotr-wound` research a working or a wound.
+
 Given a beat, open on the place-and-hour header and write; with no beat, offer
 three hooks. Nothing is printed under a turn. Without the MCP, read NATALIE.md
 and the synced rulebook, and hand Isaac a finished scene as text for the vault.

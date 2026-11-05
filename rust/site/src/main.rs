@@ -8,11 +8,14 @@
 mod art;
 mod charts;
 mod py;
+mod rng;
 mod tables;
+mod text;
 
 use art::{banner, plate};
 use charts::render as chart;
-use py::{caps, chars, escape, group, has, split, sub, title_case};
+use py::{chars, escape, title_case};
+use text::{caps, group, has, rx, split, sub};
 use serde_json::Value;
 use std::collections::{BTreeMap, HashMap, HashSet};
 use std::fs;
@@ -127,7 +130,7 @@ fn scrub(body: &str) -> String {
     // whole process sections
     while let Some(m) = caps(re!(PROCESS_HEADING), &body) {
         let (start, end, level) = (m.get(0).unwrap().start(), m.get(0).unwrap().end(), group(&m, 1).len());
-        let next = py::rx(&format!("(?m)^#{{1,{level}}} ")).find_from_pos(&body, end).expect("regex").map(|n| n.start());
+        let next = rx(&format!("(?m)^#{{1,{level}}} ")).find_from_pos(&body, end).expect("regex").map(|n| n.start());
         body = format!("{}{}", &body[..start], next.map_or("", |n| &body[n..]));
     }
     let body = sub(re!(r"\s*\((?:R\d{2}[A-Z]?-[\w-]+(?:,\s*|;\s*)?)+\)"), &body, |_| String::new()); // (R53-01, R63-2)

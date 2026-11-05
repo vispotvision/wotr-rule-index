@@ -1,5 +1,7 @@
 # WOTR Discord bot — plan
 
+*Written for the Python bot. Since 2026-11-04 the bot is Rust (`wotr-mcp bot`, `rust/src/bot/`, serenity); the commands and scope below still hold, the file layout and library do not.*
+
 Agreed shape (Isaac, 2026-09-13): a bot for a **multi-player roleplay server**,
 **fully deterministic** (the rule index and the wiki are the brain; no LLM),
 running **on Isaac's PC** beside WOTR MCP, with four surfaces in v1: rule and

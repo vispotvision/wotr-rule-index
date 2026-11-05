@@ -2,7 +2,8 @@
 //! it). A chain of steps becomes an illuminated road, a timeline era bands on the same spine, and
 //! anything branching SVG plaques and gilt connectors, laid out by Graphviz (dot).
 use crate::art::{crest, style_for, GOLD, INK};
-use crate::py::{caps, escape, group, sha8, split, sub, Random};
+use crate::py::{escape, from_str_seed, sha8};
+use crate::text::{caps, group, split, sub};
 use crate::re;
 use serde_json::Value;
 use std::collections::{HashMap, HashSet};
@@ -295,7 +296,7 @@ fn flow_svg(g: &Flow, uid: &str, crest_key: &str) -> Result<String, String> {
     let (w_all, h_all) = (x1 - x0 + 2.0 * pad, y1 - y0 + 2.0 * pad);
     let px = |x: f64| x - x0 + pad;
     let py = |y: f64| (y1 - y) + pad;
-    let mut r = Random::from_str_seed(uid);
+    let mut r = from_str_seed(uid);
     let mut o = String::new();
     let _ = write!(o, r#"<svg class="wotr-chart" viewBox="0 0 {w_all:.0} {h_all:.0}" style="--mw:{:.0}px" font-family="{SERIF}" role="img">"#, w_all.min(680.0));
     let _ = write!(o, r##"<defs><linearGradient id="pl{uid}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1f12"/><stop offset="1" stop-color="#140f0a"/></linearGradient><linearGradient id="ed{uid}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58c"/><stop offset="1" stop-color="#b07a24"/></linearGradient><radialGradient id="bg{uid}" cx=".5" cy="0" r="1.1"><stop offset="0" stop-color="#2c2010"/><stop offset="1" stop-color="{INK}"/></radialGradient><filter id="gl{uid}" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter><radialGradient id="halo{uid}"><stop offset="0" stop-color="{GOLD}" stop-opacity=".35"/><stop offset="1" stop-color="{GOLD}" stop-opacity="0"/></radialGradient></defs>"##);

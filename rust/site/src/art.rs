@@ -1,7 +1,7 @@
 //! The art set over each public page at build time: a plate for an ordinary page, a banner for a
 //! section's front page, and the crests. The vault stays plain markdown. The system diagrams are not
 //! made here: wiki/Assets/Diagrams/*.svg are the source, inlined by the page builder.
-use crate::py::{escape, sha8, Random};
+use crate::py::{escape, from_sha1, sha8};
 use crate::tables::{Style, CRESTS, DEFAULT, FOLDER_ART, SECTIONS};
 use std::f64::consts::PI;
 use std::fmt::Write;
@@ -27,7 +27,7 @@ pub fn crest(key: &str, size: f64, x: f64, y: f64, color: &str, width: f64, opac
 
 /// The art behind a page's title: a starfield, a rune wheel and the section crest.
 fn plate_svg(title: &str, key: &str, hue: &str, deep: &str, uid: &str) -> String {
-    let mut r = Random::from_sha1(title);
+    let mut r = from_sha1(title);
     let (cx, cy) = (980 + r.randint(-40, 40), 120i64);
     let (fx, fy) = (cx as f64, cy as f64);
     let mut o = String::new();

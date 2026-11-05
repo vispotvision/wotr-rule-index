@@ -42,4 +42,4 @@ if [ -z "${DISCORD_TOKEN:-}" ]; then
     exit 0
 fi
 printf '%s starting\n' "$(date +%FT%T)" >> "$log"
-exec "$WOTR_PYTHON" bot/main.py "$@" >> "$log" 2>&1
+exec "$WOTR_REPO/rust/target/release/wotr-mcp" bot "$@" >> "$log" 2>&1

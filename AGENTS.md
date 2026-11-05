@@ -86,9 +86,10 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   The rule index gate (`wotr-mcp validate`, `resolve`) and the machine's jobs (`wotr-mcp backup`,
   `nightly`, `book-next`, `hook`, and `tool NAME args`, the positional command line for the book
   pipeline's agents) run here too.
+  So does the Discord bot (`wotr-mcp bot [--sync]`, `rust/src/bot/`, on serenity); it reads
+  `bot/config.yaml` and `bot/namebank.yaml`, and `bot/run.sh` starts it.
 - **Not ported yet, still Python: run it, don't extend it.** `build/sync.sh` with `embed_index.py`;
-  the Discord bot (`bot/`), which imports `build/mcp_server.py`, so that file stays in place for
-  it; the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
+  the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
   Research also calls external CLIs (Agent Reach, agent-browser).
 - **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
   dispatcher, Sunday backup, the Discord bot, a public
@@ -201,7 +202,7 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   | `wotr-book.timer` | 02:00 | `build/book_dispatch.sh` — one chapter if no gate waits |
   | `wotr-backup.timer` | Sun 03:00 | `build/backup.sh` — zip to Drive or `~/wotr-backups` |
   | `wotr-mcp-public.service` | always | `rust/target/release/wotr-mcp http` on 8765 and 8767 (the Funnel's `/` and `/ro`), every request gated by a dashboard key; the dashboard on 127.0.0.1:8790 (enabled by `build/mcp_public_setup.sh`, not the installer; replaced wotr-mcp-readonly 2026-11-04) |
-  | `wotr-bot.service` | always | `bot/run.sh` → `bot/main.py` |
+  | `wotr-bot.service` | always | `bot/run.sh` → `wotr-mcp bot` |
   | `wotr-comfy.service` | always | ComfyUI (`~/comfy/ComfyUI`, venv `wotr-comfy`) on 127.0.0.1:8188, the 9070 XT only (`--cuda-device 0`); enabled by `build/comfy_setup.sh`, not the installer |
 
   Did something run? `systemctl --user list-timers 'wotr-*'` and

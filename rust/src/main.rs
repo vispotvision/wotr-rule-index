@@ -21,6 +21,11 @@
 //!   wotr-mcp dump                         regenerate rust/tools.json from the Python server
 mod analysis;
 mod audio;
+mod bot;
+#[path = "../site/src/rng.rs"]
+mod rng;
+#[path = "../site/src/text.rs"]
+mod text;
 mod gate;
 mod ops;
 mod codex;
@@ -412,6 +417,8 @@ async fn main() {
         Some("verify") => std::process::exit(verify_cli(&args[1..])),
         Some("audio") => std::process::exit(audio::main(&args[1..])),
         Some("audio-probe") => std::process::exit(audio::probe()),
+        Some("bot") if args.get(1).map(String::as_str) == Some("preview") => std::process::exit(bot::preview()),
+        Some("bot") => std::process::exit(bot::run::main(&args[1..]).await),
         Some("workshop") => std::process::exit(workshop::main(&args[1..]).await),
         Some("validate") => {
             let (code, out) = gate::validate();

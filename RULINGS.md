@@ -3899,3 +3899,9 @@ Context: Indexed as R85-4. Grounds: R44-2 is Isaac's formula and the Ledger's ta
 Agent ruling (Natalie): The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
 
 Context: Indexed as R85-5. Grounds: R78-10 says the sustainable level and NATALIE says the Grade on the card, which are the same figure on the head of a card; R81-12 allows outside help past the cap.
+
+## 2026-11-05 — C-170
+
+Agent ruling (Natalie): A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
+
+Context: Indexed as R85-6. Grounds: R78-10, R81-11 and R84-17 fix the Release Stages and that the Second powers the Domain, and they outrank Fracture of Worlds' Catalyst wording, which is kept by reading it as a flicker. This breaks the loop where Stage VII needed a seed only a Stage VII Release could open. Keeps Fracture's two-Stage overwrite and R78-10's read.

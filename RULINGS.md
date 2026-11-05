@@ -3857,3 +3857,9 @@ Context: Indexed as R84-33 to R84-39. Answers in imports/drafts/magic-system-que
 The sheet and the world (R84). Isaac's magic system questionnaire, 2026-11-05. (40) A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest. (41) Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue about it, and parents push their children from the first Grade. (42) Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight. (43) Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording. (44) War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel. (45) Faith: every faith has its own answer to what the window is, and real wars come of it. (46) Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone strong is in somebody's debt.
 
 Context: Indexed as R84-40 to R84-46. Answers in imports/drafts/magic-system-questionnaire/answers.json.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05, on The Uncounted, Chapter Eighteen, whose plot had Guild draw-masters cutting the draw to Kharven-Seat: "just get rid of that mention of that stuff". The draw and its machinery are removed from the chapter under R83-14. No Aether vein or wardens replace them.
+
+Context: Answers Natalie's question; her Aether vein pitch is declined. The chapter's events otherwise stand.

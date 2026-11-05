@@ -225,7 +225,7 @@ fn dress(wiki: &Path, rel: &str, text: &str) -> String {
         // the page lists its own contents; Quartz's folder list would repeat it
         body.push_str("\n<span class=\"wotr-curated\"></span>\n");
     }
-    let art = if is_hub { banner(rel, &title, BASE, painting) } else { plate(rel, &title) };
+    let art = if is_hub || painting.is_some() { banner(rel, &title, BASE, painting) } else { plate(rel, &title) };
     format!("{head}\n{art}{}", body.trim_start_matches('\n'))
 }
 

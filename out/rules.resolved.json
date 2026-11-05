@@ -37960,7 +37960,7 @@
     "pack_number": null,
     "section": "Q6",
     "title": "The paragraph is the whole page and the whole card entry",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.",
     "verbatim": "The paragraph IS the Notion page and the card entry: nothing else on it.",
@@ -37991,7 +37991,9 @@
       "lines": null
     },
     "notes": "Q6 (recommended). Supersedes R47-2-FIELD_FORMAT; the Design Chain and six-line card it retired stay retired. Author notes (the Phenomenon line, sources) stay in chat and never reach the page, as before. R75-25-ONE_CARD_SHAPE stands for the card head, which names each ability with its tell and counter. Amended 2026-10-17 by R79-9-CARDS_AND_TECHNIQUES: clean-up: the page is the wiki page (Notion is retired).",
-    "superseded_by": []
+    "superseded_by": [
+      "R82-20-ENTRY_SHAPE"
+    ]
   },
   {
     "id": "R76-5-CONVERT_WHEN_TOUCHED",
@@ -40112,7 +40114,7 @@
   {
     "pack": "Directions 2026-11-03 (combat and magic fix)",
     "pack_number": null,
-    "status": "live",
+    "status": "superseded",
     "ratified": "Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md",
     "source": {
       "file": "",
@@ -40140,7 +40142,9 @@
     "supersedes": [
       "R47-1-NO_APPLICATIONS"
     ],
-    "superseded_by": []
+    "superseded_by": [
+      "R82-20-ENTRY_SHAPE"
+    ]
   },
   {
     "pack": "Directions 2026-11-03 (combat and magic fix)",
@@ -40234,7 +40238,7 @@
   {
     "pack": "Directions 2026-11-03 (combat and magic fix)",
     "pack_number": null,
-    "status": "live",
+    "status": "superseded",
     "ratified": "Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md",
     "source": {
       "file": "",
@@ -40259,7 +40263,9 @@
       "prose-law"
     ],
     "notes": "Clause (2) of the RULINGS.md paragraph \"Combat and magic fix, round 1\" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json. Indexed as R81-2 on 2026-11-03.",
-    "superseded_by": []
+    "superseded_by": [
+      "R82-24-ORDER_AND_SCALE"
+    ]
   },
   {
     "pack": "Directions 2026-11-03 (combat and magic fix)",
@@ -40469,6 +40475,1372 @@
       "verification"
     ],
     "notes": "Clause (9) of the RULINGS.md paragraph \"Combat and magic fix, round 3\" under 2026-11-03; answers in imports/drafts/combat-magic-fix-questionnaire/answers.json. Indexed as R81-9 on 2026-11-03.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-1-SCENE_WINS",
+    "section": "ability-feel-questionnaire",
+    "title": "An archived scene's moves go on the card",
+    "kind": "procedure",
+    "summary": "Scene and card: a scene wins. Anything on the page in an archived scene is written back to the card at scene end.",
+    "verbatim": "(1) Scene and card: a scene wins. Anything on the page in an archived scene is written back to the card at scene end.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "character-sheet",
+      "session-protocol"
+    ],
+    "notes": "Clause (1) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-10-COMIC_NAMES",
+    "section": "ability-feel-questionnaire",
+    "title": "Goofy names can be lethal",
+    "kind": "mandate",
+    "summary": "Comic names: goofy technique names can be truly lethal at any Stage, on anyone whose card fits. Cold killers and carded Moto stay serious.",
+    "verbatim": "(10) Comic names: goofy technique names can be truly lethal at any Stage, on anyone whose card fits. Cold killers and carded Moto stay serious.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "naming",
+      "magic-design"
+    ],
+    "notes": "Clause (10) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-11-ONE_CONCEPT",
+    "section": "ability-feel-questionnaire",
+    "title": "One wild concept, many named moves",
+    "kind": "mandate",
+    "summary": "Kit shape: one wild concept you can explain in a breath, then a growing list of named things done with it.",
+    "verbatim": "(11) Kit shape: one wild concept you can explain in a breath, then a growing list of named things done with it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "notes": "Clause (11) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-12-MOVE_COUNT",
+    "section": "ability-feel-questionnaire",
+    "title": "A few moves, growing in play",
+    "kind": "mandate",
+    "summary": "Move count: a major character starts with three to five named moves and adds one whenever a fight or scene earns it, so the list records their story.",
+    "verbatim": "(12) Move count: a major character starts with three to five named moves and adds one whenever a fight or scene earns it, so the list records their story.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "notes": "Clause (12) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-13-HOOK_LINE",
+    "section": "ability-feel-questionnaire",
+    "title": "Every ability opens on a line a kid could repeat",
+    "kind": "mandate",
+    "summary": "Hook line: every ability opens on one sentence plain enough for a kid, with no system words. If it cannot be said simply, the idea is not ready.",
+    "verbatim": "(13) Hook line: every ability opens on one sentence plain enough for a kid, with no system words. If it cannot be said simply, the idea is not ready.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "notes": "Clause (13) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-14-WEIRDNESS",
+    "section": "ability-feel-questionnaire",
+    "title": "Any concept, if it is fully explored",
+    "kind": "mandate",
+    "summary": "Weirdness: any concept is allowed (soup, debt, doors, boredom) if the character pushes it to a terrifying place.",
+    "verbatim": "(14) Weirdness: any concept is allowed (soup, debt, doors, boredom) if the character pushes it to a terrifying place.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design"
+    ],
+    "notes": "Clause (14) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-15-CONCEPT_FIRST",
+    "section": "ability-feel-questionnaire",
+    "title": "Concept first, Wellspring after",
+    "kind": "procedure",
+    "summary": "Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.",
+    "verbatim": "(15) Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "codex"
+    ],
+    "notes": "Clause (15) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-16-POWER_SOURCES",
+    "section": "ability-feel-questionnaire",
+    "title": "Powers come from blood, trade, place and market",
+    "kind": "definition",
+    "summary": "Power sources: bloodline and inheritance, trade and daily work, places and Wells, and things bought, stolen or eaten.",
+    "verbatim": "(16) Power sources: bloodline and inheritance, trade and daily work, places and Wells, and things bought, stolen or eaten.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design"
+    ],
+    "notes": "Clause (16) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-17-POWER_MARKET",
+    "section": "ability-feel-questionnaire",
+    "title": "Arts can be bottled, cut out, signed over or carried",
+    "kind": "definition",
+    "summary": "Power market: an art can be bottled at the Wells, taken from the dead, signed over by contract, or grown or carved into gear.",
+    "verbatim": "(17) Power market: an art can be bottled at the Wells, taken from the dead, signed over by contract, or grown or carved into gear.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "items"
+    ],
+    "notes": "Clause (17) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-18-ONE_LADDER",
+    "section": "ability-feel-questionnaire",
+    "title": "Trait, Release and Domain are one concept escalating",
+    "kind": "mandate",
+    "summary": "Structure: Trait, Release and Domain stay and are one concept escalating: the Trait is the idea, a Release transforms the body, the Domain makes the world obey it.",
+    "verbatim": "(18) Structure: Trait, Release and Domain stay and are one concept escalating: the Trait is the idea, a Release transforms the body, the Domain makes the world obey it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "notes": "Clause (18) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-19-SHARED_ARTS",
+    "section": "ability-feel-questionnaire",
+    "title": "Shared arts are famous, with a name per culture",
+    "kind": "mandate",
+    "summary": "Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.",
+    "verbatim": "(19) Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "naming",
+      "combat"
+    ],
+    "notes": "Clause (19) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-2-NORTH_STAR",
+    "section": "ability-feel-questionnaire",
+    "title": "One Piece for most, mythic at the top",
+    "kind": "mandate",
+    "summary": "North star: One Piece, mythic at the top. Most fighters get one wild concept and loud named moves; the very top goes mythic.",
+    "verbatim": "(2) North star: One Piece, mythic at the top. Most fighters get one wild concept and loud named moves; the very top goes mythic.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "register"
+    ],
+    "notes": "Clause (2) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-20-ENTRY_SHAPE",
+    "section": "ability-feel-questionnaire",
+    "title": "Hook, moves, then how it really works",
+    "kind": "mandate",
+    "summary": "Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.",
+    "verbatim": "(20) Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "documents"
+    ],
+    "notes": "Clause (20) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "supersedes": [
+      "R81-16-ENTRY_LAYOUT_NO_APPLICATIONS",
+      "R76-4-PARAGRAPH_IS_PAGE"
+    ],
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-21-FIGURES_BLOCK",
+    "section": "ability-feel-questionnaire",
+    "title": "Figures go in a block at the bottom",
+    "kind": "mandate",
+    "summary": "Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.",
+    "verbatim": "(21) Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "notes": "Clause (21) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-22-COST_COUNTER_LINES",
+    "section": "ability-feel-questionnaire",
+    "title": "One line each of cost and counter per art",
+    "kind": "mandate",
+    "summary": "Cost and counter: one short line each on every art. Individual moves may skip them.",
+    "verbatim": "(22) Cost and counter: one short line each on every art. Individual moves may skip them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "notes": "Clause (22) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-23-CONCEPT_PRICE",
+    "section": "ability-feel-questionnaire",
+    "title": "A big art's price comes from its idea",
+    "kind": "mandate",
+    "summary": "Price: reserve and body tells stay, and a big art also carries a strange personal price that comes from its own idea.",
+    "verbatim": "(23) Price: reserve and body tells stay, and a big art also carries a strange personal price that comes from its own idea.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "magic-mechanism"
+    ],
+    "notes": "Clause (23) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-24-ORDER_AND_SCALE",
+    "section": "ability-feel-questionnaire",
+    "title": "Spectacle first, explanation scaled and complete",
+    "kind": "mandate",
+    "summary": "Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.",
+    "verbatim": "(24) Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "combat",
+      "prose-law"
+    ],
+    "notes": "Clause (24) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "supersedes": [
+      "R81-2-WORKING_CARD_ON_REPEAT"
+    ],
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-25-CALL_VOLUME",
+    "section": "ability-feel-questionnaire",
+    "title": "Volume is set by character",
+    "kind": "mandate",
+    "summary": "Calling: volume is set by character. Showmen shout in capitals on their own line; killers and legends may whisper.",
+    "verbatim": "(25) Calling: volume is set by character. Showmen shout in capitals on their own line; killers and legends may whisper.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "combat",
+      "dialogue"
+    ],
+    "notes": "Clause (25) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-26-WHO_EXPLAINS",
+    "section": "ability-feel-questionnaire",
+    "title": "Four voices explain, all in regular use",
+    "kind": "mandate",
+    "summary": "Who explains: the opponent working it out, bystanders and rivals, the wielder bragging, and narration, all in regular use.",
+    "verbatim": "(26) Who explains: the opponent working it out, bystanders and rivals, the wielder bragging, and narration, all in regular use.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "combat",
+      "pov"
+    ],
+    "notes": "Clause (26) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-27-ULTIMATES",
+    "section": "ability-feel-questionnaire",
+    "title": "Ultimates are rare and staged",
+    "kind": "mandate",
+    "summary": "Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.",
+    "verbatim": "(27) Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "combat",
+      "scene-structure"
+    ],
+    "notes": "Clause (27) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-28-NEW_MOVES",
+    "section": "ability-feel-questionnaire",
+    "title": "Natalie invents for NPCs; his PC's stay his",
+    "kind": "procedure",
+    "summary": "New moves: Natalie may create and name an NPC's new move mid-fight, canon on use. For Isaac's PC she offers names in the notes, and he keeps or cuts them.",
+    "verbatim": "(28) New moves: Natalie may create and name an NPC's new move mid-fight, canon on use. For Isaac's PC she offers names in the notes, and he keeps or cuts them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "session-protocol"
+    ],
+    "notes": "Clause (28) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-29-UPGRADES",
+    "section": "ability-feel-questionnaire",
+    "title": "A new name marks the jump",
+    "kind": "mandate",
+    "summary": "Upgrades: a move grows into a bigger name at each jump, and the old one stays in use.",
+    "verbatim": "(29) Upgrades: a move grows into a bigger name at each jump, and the old one stays in use.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "naming"
+    ],
+    "notes": "Clause (29) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-3-NAME_FORM",
+    "section": "ability-feel-questionnaire",
+    "title": "Loud names, Art: Move for signatures",
+    "kind": "mandate",
+    "summary": "Name form: ordinary fighters get one big phrase; a signature art gets a title with named moves under it (Art: Move).",
+    "verbatim": "(3) Name form: ordinary fighters get one big phrase; a signature art gets a title with named moves under it (Art: Move).",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "naming"
+    ],
+    "notes": "Clause (3) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-30-TEAM_MOVES",
+    "section": "ability-feel-questionnaire",
+    "title": "Named combos, once the bond is real",
+    "kind": "mandate",
+    "summary": "Team moves: crews and Resonant Pairs get named combos once a bond is real, and they bicker about what to call them.",
+    "verbatim": "(30) Team moves: crews and Resonant Pairs get named combos once a bond is real, and they bicker about what to call them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "combat",
+      "naming"
+    ],
+    "notes": "Clause (30) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-31-MAP_SCARS",
+    "section": "ability-feel-questionnaire",
+    "title": "Top-end fights scar the map",
+    "kind": "mandate",
+    "summary": "Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.",
+    "verbatim": "(31) Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "combat",
+      "worldbuilding"
+    ],
+    "notes": "Clause (31) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-32-PUBLIC_FAME",
+    "section": "ability-feel-questionnaire",
+    "title": "Broadsheets, bounties and betting",
+    "kind": "definition",
+    "summary": "Fame: broadsheets print rankings and wanted bills and bookies take odds. Fame changes prices, doors and who comes for you.",
+    "verbatim": "(32) Fame: broadsheets print rankings and wanted bills and bookies take odds. Fame changes prices, doors and who comes for you.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (32) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-33-LEGENDARY_ARTS",
+    "section": "ability-feel-questionnaire",
+    "title": "A known and feared list of legendary arts",
+    "kind": "definition",
+    "summary": "Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.",
+    "verbatim": "(33) Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design"
+    ],
+    "notes": "Clause (33) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-34-SCHOOLS",
+    "section": "ability-feel-questionnaire",
+    "title": "Schools are like football clubs",
+    "kind": "definition",
+    "summary": "Schools: loud names and famous rivalries, like football clubs, with colors, songs, grudges and a signature style you can recognize at fifty paces.",
+    "verbatim": "(34) Schools: loud names and famous rivalries, like football clubs, with colors, songs, grudges and a signature style you can recognize at fifty paces.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "combat"
+    ],
+    "notes": "Clause (34) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-35-NAMED_GEAR",
+    "section": "ability-feel-questionnaire",
+    "title": "Top gear is named and famous",
+    "kind": "definition",
+    "summary": "Gear: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder.",
+    "verbatim": "(35) Gear: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "items",
+      "worldbuilding"
+    ],
+    "notes": "Clause (35) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-36-DAILY_MAGIC",
+    "section": "ability-feel-questionnaire",
+    "title": "Small powers everywhere",
+    "kind": "definition",
+    "summary": "Daily magic: everywhere and petty. Streets are full of tiny, silly, useful arts, and big powers feel bigger by comparison.",
+    "verbatim": "(36) Daily magic: everywhere and petty. Streets are full of tiny, silly, useful arts, and big powers feel bigger by comparison.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (36) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-37-MAGITECH_SHOWMEN",
+    "section": "ability-feel-questionnaire",
+    "title": "Tinkerers show off",
+    "kind": "definition",
+    "summary": "Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.",
+    "verbatim": "(37) Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "items"
+    ],
+    "notes": "Clause (37) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-38-REGIONAL_STYLES",
+    "section": "ability-feel-questionnaire",
+    "title": "Each region's style is known at a glance",
+    "kind": "definition",
+    "summary": "Regions: each place has signature moves, naming habits, costumes and jokes about the others, known at a glance.",
+    "verbatim": "(38) Regions: each place has signature moves, naming habits, costumes and jokes about the others, known at a glance.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "combat"
+    ],
+    "notes": "Clause (38) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-39-SYSTEM_WORDS",
+    "section": "ability-feel-questionnaire",
+    "title": "Street words in most mouths, terms for scholars",
+    "kind": "mandate",
+    "summary": "System words: ordinary fighters use vivid local slang, and Measurewrights, Guild people and analysts use the real terms.",
+    "verbatim": "(39) System words: ordinary fighters use vivid local slang, and Measurewrights, Guild people and analysts use the real terms.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "dialogue",
+      "register"
+    ],
+    "notes": "Clause (39) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-4-CALL_LANGUAGE",
+    "section": "ability-feel-questionnaire",
+    "title": "Called in the fighter's own tongue, glossed once",
+    "kind": "mandate",
+    "summary": "Language: a fighter calls in their own culture's tongue, and the meaning lands in the same beat through narration or a witness.",
+    "verbatim": "(4) Language: a fighter calls in their own culture's tongue, and the meaning lands in the same beat through narration or a witness.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "naming",
+      "combat"
+    ],
+    "notes": "Clause (4) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-40-PLACE_HOOKS",
+    "section": "ability-feel-questionnaire",
+    "title": "Places get a big hook and stay lived-in",
+    "kind": "mandate",
+    "summary": "Places: every major place gets a premise you can say in one breath, with real rent, food and politics underneath.",
+    "verbatim": "(40) Places: every major place gets a premise you can say in one breath, with real rent, food and politics underneath.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (40) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-41-VILLAIN_SETS",
+    "section": "ability-feel-questionnaire",
+    "title": "Villain groups share a motif; each cruelty is personal",
+    "kind": "mandate",
+    "summary": "Villains: each group has a shared motif, and each member's concept shows what they believe and did.",
+    "verbatim": "(41) Villains: each group has a shared motif, and each member's concept shows what they believe and did.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design"
+    ],
+    "notes": "Clause (41) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-42-WIKI_VOICE",
+    "section": "ability-feel-questionnaire",
+    "title": "Magic pages open on spectacle",
+    "kind": "mandate",
+    "summary": "Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.",
+    "verbatim": "(42) Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "documents"
+    ],
+    "notes": "Clause (42) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-43-LOUD_AND_BLOODY",
+    "section": "ability-feel-questionnaire",
+    "title": "Loud fun, real blood",
+    "kind": "mandate",
+    "summary": "Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.",
+    "verbatim": "(43) Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "register",
+      "combat"
+    ],
+    "notes": "Clause (43) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-44-PROSE_STAYS",
+    "section": "ability-feel-questionnaire",
+    "title": "Literary prose, loud moves",
+    "kind": "mandate",
+    "summary": "Prose: narration stays rich and thoughtful, shouted names and spectacle crash through it, and The Weak Grade remains the model.",
+    "verbatim": "(44) Prose: narration stays rich and thoughtful, shouted names and spectacle crash through it, and The Weak Grade remains the model.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "prose-law"
+    ],
+    "notes": "Clause (44) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-45-ROLLOUT",
+    "section": "ability-feel-questionnaire",
+    "title": "Pilot three cards, then the rest",
+    "kind": "procedure",
+    "summary": "Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.",
+    "verbatim": "(45) Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "character-sheet",
+      "session-protocol"
+    ],
+    "notes": "Clause (45) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-46-REWRITE_FREEDOM",
+    "section": "ability-feel-questionnaire",
+    "title": "Keep what happened, rethink the rest",
+    "kind": "procedure",
+    "summary": "Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.",
+    "verbatim": "(46) Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "character-sheet",
+      "magic-design"
+    ],
+    "notes": "Clause (46) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-47-OLD_NAMES",
+    "section": "ability-feel-questionnaire",
+    "title": "Archived scenes are not edited for names",
+    "kind": "procedure",
+    "summary": "Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.",
+    "verbatim": "(47) Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "character-sheet",
+      "naming"
+    ],
+    "notes": "Clause (47) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-5-BIG_WORDS",
+    "section": "ability-feel-questionnaire",
+    "title": "Anyone may use a huge word; the world reacts",
+    "kind": "mandate",
+    "summary": "Big words: anyone may name a move with a word like World, God, Fate or Infinite. The room laughs until it works, and living up to the name becomes part of the story.",
+    "verbatim": "(5) Big words: anyone may name a move with a word like World, God, Fate or Infinite. The room laughs until it works, and living up to the name becomes part of the story.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "naming",
+      "magic-design"
+    ],
+    "notes": "Clause (5) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-6-WHO_NAMES",
+    "section": "ability-feel-questionnaire",
+    "title": "Names come from many mouths and can change",
+    "kind": "definition",
+    "summary": "Who names: fighters, schools and witnesses all name things, names can change, and the most famous name wins out.",
+    "verbatim": "(6) Who names: fighters, schools and witnesses all name things, names can change, and the most famous name wins out.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "naming"
+    ],
+    "notes": "Clause (6) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-7-NUMBERED_TIERS",
+    "section": "ability-feel-questionnaire",
+    "title": "An art picks its own count",
+    "kind": "mandate",
+    "summary": "Numbering: optional. An art uses its own word for its tiers (Acts, Entries, Verses, Knots), so the count itself becomes a threat.",
+    "verbatim": "(7) Numbering: optional. An art uses its own word for its tiers (Acts, Entries, Verses, Knots), so the count itself becomes a threat.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "naming"
+    ],
+    "notes": "Clause (7) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-8-EPITHETS",
+    "section": "ability-feel-questionnaire",
+    "title": "Major fighters carry public epithets",
+    "kind": "mandate",
+    "summary": "Epithets: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor. Some are wrong or unflattering.",
+    "verbatim": "(8) Epithets: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor. Some are wrong or unflattering.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "naming",
+      "worldbuilding"
+    ],
+    "notes": "Clause (8) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-04 (abilities and the world)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-04: abilities and the world questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R82-9-OLD_LIBRARY",
+    "section": "ability-feel-questionnaire",
+    "title": "Rename and rewrite the old technique library",
+    "kind": "procedure",
+    "summary": "Old library: rename and rewrite all of it. Each page keeps its idea, gains a name with swagger and a short new entry, and the old name survives as a scholar's term on the page.",
+    "verbatim": "(9) Old library: rename and rewrite all of it. Each page keeps its idea, gains a name with swagger and a short new entry, and the old name survives as a scholar's term on the page.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "codex"
+    ],
+    "notes": "Clause (9) of the RULINGS.md paragraph \"Abilities and the world\" under 2026-11-04; answers in imports/drafts/ability-feel-questionnaire/answers.json.",
     "superseded_by": []
   },
   {

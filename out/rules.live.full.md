@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1428 live of 1810 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1472 live of 1857 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (150)
 
@@ -904,7 +904,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (252)
+## character-sheet (261)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1127,12 +1127,6 @@ Write every ability, Trait, technique, signature, school art and bloodline facul
 Every paragraph states the ability's cost, limit and counter; the bearer's founding belief is left implied rather than quoted, and offices, Lattice property and nucleation appear only where they read naturally.
 
 > Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally.
-
-### R76-4-PARAGRAPH_IS_PAGE [Ability Format 2026-10-05 Q6]
-
-Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.
-
-> The paragraph IS the Notion page and the card entry: nothing else on it.
 
 ### R76-5-CONVERT_WHEN_TOUCHED [Ability Format 2026-10-05 Q8]
 
@@ -1674,11 +1668,71 @@ Wounds and their lasting effects go onto the PC's card at scene end; he strikes 
 
 > (15) PC wounds: wounds and their lasting effects go onto his card at scene end; he strikes or changes them. Level, Stage and techniques stay his.
 
-### R81-16-ENTRY_LAYOUT_NO_APPLICATIONS [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+### R82-1-SCENE_WINS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
 
-Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no Applications list.
+Scene and card: a scene wins. Anything on the page in an archived scene is written back to the card at scene end.
 
-> (16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet, then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.
+> (1) Scene and card: a scene wins. Anything on the page in an archived scene is written back to the card at scene end.
+
+### R82-11-ONE_CONCEPT [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Kit shape: one wild concept you can explain in a breath, then a growing list of named things done with it.
+
+> (11) Kit shape: one wild concept you can explain in a breath, then a growing list of named things done with it.
+
+### R82-12-MOVE_COUNT [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Move count: a major character starts with three to five named moves and adds one whenever a fight or scene earns it, so the list records their story.
+
+> (12) Move count: a major character starts with three to five named moves and adds one whenever a fight or scene earns it, so the list records their story.
+
+### R82-13-HOOK_LINE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Hook line: every ability opens on one sentence plain enough for a kid, with no system words. If it cannot be said simply, the idea is not ready.
+
+> (13) Hook line: every ability opens on one sentence plain enough for a kid, with no system words. If it cannot be said simply, the idea is not ready.
+
+### R82-18-ONE_LADDER [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Structure: Trait, Release and Domain stay and are one concept escalating: the Trait is the idea, a Release transforms the body, the Domain makes the world obey it.
+
+> (18) Structure: Trait, Release and Domain stay and are one concept escalating: the Trait is the idea, a Release transforms the body, the Domain makes the world obey it.
+
+### R82-20-ENTRY_SHAPE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.
+
+> (20) Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.
+
+### R82-21-FIGURES_BLOCK [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.
+
+> (21) Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.
+
+### R82-22-COST_COUNTER_LINES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Cost and counter: one short line each on every art. Individual moves may skip them.
+
+> (22) Cost and counter: one short line each on every art. Individual moves may skip them.
+
+### R82-45-ROLLOUT [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
+
+> (45) Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
+
+### R82-46-REWRITE_FREEDOM [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.
+
+> (46) Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.
+
+### R82-47-OLD_NAMES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.
+
+> (47) Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -2421,7 +2475,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (114)
+## codex (115)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2969,11 +3023,17 @@ Abilities are drawn from the Superpower Wiki and real physics, with research in 
 
 > Ability pipeline (Isaac, 2026-10-31). Abilities are written the way the Superpower Wiki writes them and drawn from its concepts and from real physics. The Superpower Wiki is a primary source for design, application, variation, association and limitation (WOTR canon governs every fact and number). A technique entry keeps the R76/R79-9 paragraph and adds Applications (8 to 15 discrete uses, one sentence each, inside the cost and limit), Variations, Associations and Limits; the entry stays in plain everyday words and its physics lives in the notes page. Full research goes to the notes page with a one-line chat summary. A signature technique or release gets a sample first display for approval before it is saved; small tricks go straight to the card. One best name is offered. Overlap or outclassing between abilities is surfaced to Isaac with a recommendation and he decides. The full path is desktop/ABILITY_PIPELINE.md. Applied to desktop/NATALIE.md (Technique entries, Superpower Wiki line) and .claude/skills/wotr-write/references/technique-design.md. The wotr-technique and wotr-phenomenon skills are mid-edit by another session and were not touched.
 
-### R81-16-ENTRY_LAYOUT_NO_APPLICATIONS [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+### R82-9-OLD_LIBRARY [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
 
-Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no Applications list.
+Old library: rename and rewrite all of it. Each page keeps its idea, gains a name with swagger and a short new entry, and the old name survives as a scholar's term on the page.
 
-> (16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet, then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.
+> (9) Old library: rename and rewrite all of it. Each page keeps its idea, gains a name with swagger and a short new entry, and the old name survives as a scholar's term on the page.
+
+### R82-15-CONCEPT_FIRST [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.
+
+> (15) Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.
 
 ### R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL [The Farrant Papers Ratification 2026-09-28 papers 5]
 
@@ -3107,7 +3167,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (217)
+## combat (227)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4063,12 +4123,6 @@ Quick trades keep every Blow Card part and compress the wording into long cumula
 
 > (1) Fast trades: every Blow Card part stays in every blow; quick trades compress the wording into long cumulative sentences instead of dropping parts.
 
-### R81-2-WORKING_CARD_ON_REPEAT [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
-
-A working takes the full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs.
-
-> (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time.
-
 ### R81-3-ETA_AS_PROPORTION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
 
 Narration names eta as an idea and gives loss and reserve as proportions and body tells; exact figures only in mouths and the notes.
@@ -4140,6 +4194,72 @@ A working riding a blow interleaves the two cards step by step; on a kill the Ki
 The POV's own fight in a battle takes full Blow Cards; the mass is told through specific bodies and wounds; a blow too fast to see is carded from what the POV saw after.
 
 > (19) Battles: the POV's own fight in a battle gets full Blow Cards; the mass around it is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage, the wound, the position), explained.
+
+### R82-4-CALL_LANGUAGE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Language: a fighter calls in their own culture's tongue, and the meaning lands in the same beat through narration or a witness.
+
+> (4) Language: a fighter calls in their own culture's tongue, and the meaning lands in the same beat through narration or a witness.
+
+### R82-19-SHARED_ARTS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.
+
+> (19) Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.
+
+### R82-24-ORDER_AND_SCALE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
+
+> (24) Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
+
+### R82-25-CALL_VOLUME [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Calling: volume is set by character. Showmen shout in capitals on their own line; killers and legends may whisper.
+
+> (25) Calling: volume is set by character. Showmen shout in capitals on their own line; killers and legends may whisper.
+
+### R82-26-WHO_EXPLAINS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Who explains: the opponent working it out, bystanders and rivals, the wielder bragging, and narration, all in regular use.
+
+> (26) Who explains: the opponent working it out, bystanders and rivals, the wielder bragging, and narration, all in regular use.
+
+### R82-27-ULTIMATES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.
+
+> (27) Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.
+
+### R82-30-TEAM_MOVES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Team moves: crews and Resonant Pairs get named combos once a bond is real, and they bicker about what to call them.
+
+> (30) Team moves: crews and Resonant Pairs get named combos once a bond is real, and they bicker about what to call them.
+
+### R82-31-MAP_SCARS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.
+
+> (31) Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.
+
+### R82-34-SCHOOLS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Schools: loud names and famous rivalries, like football clubs, with colors, songs, grudges and a signature style you can recognize at fifty paces.
+
+> (34) Schools: loud names and famous rivalries, like football clubs, with colors, songs, grudges and a signature style you can recognize at fifty paces.
+
+### R82-38-REGIONAL_STYLES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Regions: each place has signature moves, naming habits, costumes and jokes about the others, known at a glance.
+
+> (38) Regions: each place has signature moves, naming habits, costumes and jokes about the others, known at a glance.
+
+### R82-43-LOUD_AND_BLOODY [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
+
+> (43) Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
 
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -4411,7 +4531,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (190)
+## dialogue (192)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4730,6 +4850,18 @@ Fighters talk constantly; techniques called in English; big fights climb probe, 
 Voices built culture and rank first; emotion anime-big; villains by their nature; training as full scenes; creatures biology first; humor in each character's way; consequences by weight; flashbacks rare and marked. [Amended by R81-6: fight thought follows the card; the 'interior stays light' half is not applied.]
 
 > Craft law for the rest of the page (Isaac, 2026-10-30, writing-craft questionnaire). (1) Voices: a major NPC's voice is built culture and rank first, then want, then a verbal fingerprint; subtext follows culture (Moto and court layered, soldiers and commons blunt); lore comes through an NPC's pride, argument, signage and objects; a room of speakers takes the audible shape that room would have. (2) Feeling: emotion anime-big, said and shown; grief given full weight and room; warmth before loss as shared celebration; stories lean on rival-to-ally, mentor and student, found crew and slow-burn romance. (3) Villains: danger and entrance depend on the villain, no default; each ends by their nature and the arc; stakes mixed by arc. (4) Scenes: training as full scenes with a teacher; places through the POV's eye and body; mysteries play fair with clues planted early; time carried by a bridge paragraph; openings by the scene's weight. (5) Creatures introduced biology first. (6) Humour dry, crude, anime and gallows. (7) Table: consequences scale by weight, hooks at natural pauses, offstage actors as signs with cutaways at turns, turn proportions follow the beat. (8) Flashbacks are rare and run as their own marked set pieces; this narrows R79-4 'flashbacks run freely'. The 'interior stays light' half of the same answer is NOT applied, because it conflicts with The Weak Grade direction and the analyst/brawler fight-mind rule; Isaac to say if he meant it. Applied to desktop/NATALIE.md.
+
+### R82-25-CALL_VOLUME [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Calling: volume is set by character. Showmen shout in capitals on their own line; killers and legends may whisper.
+
+> (25) Calling: volume is set by character. Showmen shout in capitals on their own line; killers and legends may whisper.
+
+### R82-39-SYSTEM_WORDS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+System words: ordinary fighters use vivid local slang, and Measurewrights, Guild people and analysts use the real terms.
+
+> (39) System words: ordinary fighters use vivid local slang, and Measurewrights, Guild people and analysts use the real terms.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -5553,7 +5685,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (111)
+## documents (112)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -5590,12 +5722,6 @@ An in-world register entry, field manual, or codex line dropped in at a scene th
 Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as one simple name in capitals (with a short gloss after it where the character has a naming register), its kind in brackets, then a single paragraph of whatever length it needs.
 
 > EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.
-
-### R76-4-PARAGRAPH_IS_PAGE [Ability Format 2026-10-05 Q6]
-
-Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.
-
-> The paragraph IS the Notion page and the card entry: nothing else on it.
 
 ### R76-5-CONVERT_WHEN_TOUCHED [Ability Format 2026-10-05 Q8]
 
@@ -5999,6 +6125,18 @@ Wiki pages in the in-world scholar's voice with no designed art by default; audi
 
 > The wiki, audio, Discord threads and intimate scenes (Isaac, 2026-10-31). (1) Wiki reference pages are written in the in-world scholar's voice (a Guild archivist or Measurewright with epigraphs, asides and dry warnings). Art goes where Isaac provides it; pages carry no designed art by default (the build-time plates already in place stay), which reverses the 2026-10-15 'design every page' direction. (2) Audio narration is not a priority; text only. (3) Isaac organizes the Discord threads and Natalie writes the posts. (4) Intimate scenes, within the Intimacy Law: pacing follows the scene's purpose; a partner's refusal line and hinge are carried by the card, shown in word and body, and written as dubcon with its consequence where word and body disagree; the aftermath is a mix of consequence, tenderness and a hook; the POV is whoever the scene needs. Applied to desktop/NATALIE.md.
 
+### R82-20-ENTRY_SHAPE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.
+
+> (20) Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.
+
+### R82-42-WIKI_VOICE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.
+
+> (42) Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.
+
 ### R67-1-FARRANT_PAPERS_AUTHOR [The Farrant Papers Ratification 2026-09-28 papers 1]
 
 The Papers are Orin Farrant's field notes, 700 to 701 IC.
@@ -6221,7 +6359,7 @@ When a scene with other players is archived, the Judger marks each canon break s
 
 > The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
 
-## items (92)
+## items (95)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6577,6 +6715,24 @@ Characters, places, items, creatures and techniques are built art-first, inventi
 
 > Character and other pipelines (Isaac, 2026-10-31). (1) Art-first: Isaac gives art and Natalie builds characters, and likewise places, items, creatures and techniques, from it. From a character's art Natalie reads the full physical inventory, apparent age and culture, mood and voice, and power and aura hints, invents nothing the image does not show, and leaves the rest null and logged. Numbers (Level, Band, Stage, Path, Grades, Aether Class, harmonizations) are derived from the concept and stated plainly; Isaac overrules any figure. A voice is one description and one sample line, approved with the card. Lore is rich with sealed secrets. Where each image lives is Isaac's call per image. (2) Improve my post returns the rewrite alone with no commentary and fixes body and blows, magic on the blow, voice and heat, and continuity and rules. (3) Locations are written when a scene uses them. A faction card carries wants and splits, procedures and seals, money and reach, a face and a front. An item is driven by art if any, else one line. A creature is invented in the scene and filed when it recurs. A villain is built by the card. An arc plan holds the Fronts and clocks, anchor scenes and ending, cast and wants, and seeds and plants. Applied to desktop/NATALIE.md, desktop/CHARACTER_PIPELINE.md and the wotr-write character-sheet reference.
 
+### R82-17-POWER_MARKET [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Power market: an art can be bottled at the Wells, taken from the dead, signed over by contract, or grown or carved into gear.
+
+> (17) Power market: an art can be bottled at the Wells, taken from the dead, signed over by contract, or grown or carved into gear.
+
+### R82-35-NAMED_GEAR [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Gear: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder.
+
+> (35) Gear: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder.
+
+### R82-37-MAGITECH_SHOWMEN [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
+
+> (37) Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
+
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
@@ -6775,7 +6931,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (139)
+## magic-design (158)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7119,12 +7275,6 @@ Every paragraph states the ability's cost, limit and counter; the bearer's found
 
 > Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally.
 
-### R76-4-PARAGRAPH_IS_PAGE [Ability Format 2026-10-05 Q6]
-
-Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.
-
-> The paragraph IS the Notion page and the card entry: nothing else on it.
-
 ### R76-5-CONVERT_WHEN_TOUCHED [Ability Format 2026-10-05 Q8]
 
 Rewrite an ability entry still in the field format into the paragraph shape the next time it is edited or used, and leave the rest until then.
@@ -7359,11 +7509,131 @@ Supersedes R77-1 and R70-100; full Blow Card and Working Card replace R79-6's on
 
 > Agent ruling (Natalie), applying Isaac's 2026-11-03 directions to the index. Grounds: Isaac, 2026-11-03, "update the guides for writing abilities techniques hell even characters and making scenes combat scenes better based on these ideas the more descriptive the more explaination the better", and "commit and fix any of the rule issues" (canon hierarchy rung 1, newest wins). (1) R77-1-EUROPEAN_FENCING_ACTIONS and R70-100-MARTIAL_VOCABULARY_NAMES_MOVES are superseded: jargon of every kind is welcome when explained, beside the body. (2) R79-6's 'one causal line at first display' and 'misses summed' and R78-3's ban on the line, measure, tempo, vector, geometry and the read give way to the Working Card and the full Blow Card; the rest of R79-6 and R78-3 stands, the no-readout rule included. (3) The depth standard covers technique entries and character cards too: the 2026-10-31 ability-pipeline clause 'plain everyday words, its physics in the notes page' and the 2026-10-31 clause 'the page says an invented word and the wiki defines it' give way to full explanation on the page, every term explained on first use. (4) R79-1's and R79-8's 3,500-word targets were already reversed by Isaac on 2026-10-30, and R79-8's cross-read by the 2026-10-31 no-ChatGPT direction; their index rows are annotated so load_rules stops serving them. (5) The craft directions from 2026-10-24 to 2026-11-03, recorded in RULINGS.md but never indexed, are indexed as R80-1 onward in rules/doc-directions-2026-11-03.yaml. Isaac may overturn any of this.
 
-### R81-16-ENTRY_LAYOUT_NO_APPLICATIONS [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
+### R82-2-NORTH_STAR [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
 
-Technique entries follow the Reitori and Hiromi layout: native name, intro, bullets with metaphysics and physics as one account and the combat use inside each, then Nature, Cost and Tell, Counter, Failure; no Applications list.
+North star: One Piece, mythic at the top. Most fighters get one wild concept and loud named moves; the very top goes mythic.
 
-> (16) Technique entries: his layout (Reitori, Hiromi), a heading per Trait or Technique with the native name, an intro, bullets in which metaphysics and physics are one account with the combat use inside each bullet, then Nature, Cost and Tell, Counter and Failure bullets. No Applications list.
+> (2) North star: One Piece, mythic at the top. Most fighters get one wild concept and loud named moves; the very top goes mythic.
+
+### R82-3-NAME_FORM [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Name form: ordinary fighters get one big phrase; a signature art gets a title with named moves under it (Art: Move).
+
+> (3) Name form: ordinary fighters get one big phrase; a signature art gets a title with named moves under it (Art: Move).
+
+### R82-5-BIG_WORDS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Big words: anyone may name a move with a word like World, God, Fate or Infinite. The room laughs until it works, and living up to the name becomes part of the story.
+
+> (5) Big words: anyone may name a move with a word like World, God, Fate or Infinite. The room laughs until it works, and living up to the name becomes part of the story.
+
+### R82-7-NUMBERED_TIERS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Numbering: optional. An art uses its own word for its tiers (Acts, Entries, Verses, Knots), so the count itself becomes a threat.
+
+> (7) Numbering: optional. An art uses its own word for its tiers (Acts, Entries, Verses, Knots), so the count itself becomes a threat.
+
+### R82-9-OLD_LIBRARY [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Old library: rename and rewrite all of it. Each page keeps its idea, gains a name with swagger and a short new entry, and the old name survives as a scholar's term on the page.
+
+> (9) Old library: rename and rewrite all of it. Each page keeps its idea, gains a name with swagger and a short new entry, and the old name survives as a scholar's term on the page.
+
+### R82-10-COMIC_NAMES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Comic names: goofy technique names can be truly lethal at any Stage, on anyone whose card fits. Cold killers and carded Moto stay serious.
+
+> (10) Comic names: goofy technique names can be truly lethal at any Stage, on anyone whose card fits. Cold killers and carded Moto stay serious.
+
+### R82-11-ONE_CONCEPT [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Kit shape: one wild concept you can explain in a breath, then a growing list of named things done with it.
+
+> (11) Kit shape: one wild concept you can explain in a breath, then a growing list of named things done with it.
+
+### R82-12-MOVE_COUNT [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Move count: a major character starts with three to five named moves and adds one whenever a fight or scene earns it, so the list records their story.
+
+> (12) Move count: a major character starts with three to five named moves and adds one whenever a fight or scene earns it, so the list records their story.
+
+### R82-13-HOOK_LINE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Hook line: every ability opens on one sentence plain enough for a kid, with no system words. If it cannot be said simply, the idea is not ready.
+
+> (13) Hook line: every ability opens on one sentence plain enough for a kid, with no system words. If it cannot be said simply, the idea is not ready.
+
+### R82-14-WEIRDNESS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Weirdness: any concept is allowed (soup, debt, doors, boredom) if the character pushes it to a terrifying place.
+
+> (14) Weirdness: any concept is allowed (soup, debt, doors, boredom) if the character pushes it to a terrifying place.
+
+### R82-15-CONCEPT_FIRST [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.
+
+> (15) Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.
+
+### R82-16-POWER_SOURCES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Power sources: bloodline and inheritance, trade and daily work, places and Wells, and things bought, stolen or eaten.
+
+> (16) Power sources: bloodline and inheritance, trade and daily work, places and Wells, and things bought, stolen or eaten.
+
+### R82-18-ONE_LADDER [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Structure: Trait, Release and Domain stay and are one concept escalating: the Trait is the idea, a Release transforms the body, the Domain makes the world obey it.
+
+> (18) Structure: Trait, Release and Domain stay and are one concept escalating: the Trait is the idea, a Release transforms the body, the Domain makes the world obey it.
+
+### R82-20-ENTRY_SHAPE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.
+
+> (20) Entry shape: the hook, then the named moves, then how it really works. The fun reads first in seconds and the full mechanism lives below it.
+
+### R82-22-COST_COUNTER_LINES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Cost and counter: one short line each on every art. Individual moves may skip them.
+
+> (22) Cost and counter: one short line each on every art. Individual moves may skip them.
+
+### R82-23-CONCEPT_PRICE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Price: reserve and body tells stay, and a big art also carries a strange personal price that comes from its own idea.
+
+> (23) Price: reserve and body tells stay, and a big art also carries a strange personal price that comes from its own idea.
+
+### R82-28-NEW_MOVES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+New moves: Natalie may create and name an NPC's new move mid-fight, canon on use. For Isaac's PC she offers names in the notes, and he keeps or cuts them.
+
+> (28) New moves: Natalie may create and name an NPC's new move mid-fight, canon on use. For Isaac's PC she offers names in the notes, and he keeps or cuts them.
+
+### R82-29-UPGRADES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Upgrades: a move grows into a bigger name at each jump, and the old one stays in use.
+
+> (29) Upgrades: a move grows into a bigger name at each jump, and the old one stays in use.
+
+### R82-33-LEGENDARY_ARTS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.
+
+> (33) Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.
+
+### R82-41-VILLAIN_SETS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Villains: each group has a shared motif, and each member's concept shows what they believe and did.
+
+> (41) Villains: each group has a shared motif, and each member's concept shows what they believe and did.
+
+### R82-46-REWRITE_FREEDOM [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.
+
+> (46) Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.
 
 ### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
 
@@ -7611,7 +7881,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (277)
+## magic-mechanism (278)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8777,12 +9047,6 @@ Each moment of a fight or working is detailed and the world visibly reacts (the 
 
 > Every moment of a fight or working is detailed with vivid, kinetic, mystical language and the world visibly reacting: the air cracks and ripples, light bends, pressure shears frost off stone, the ground spiderwebs and groans, shockwaves roll out, heat-haze warps the distance. Elevated, archaic and verbose words are welcome wherever they make the moment larger and clearer. This sits on top of the 2026-11-03 depth ruling: explain fully and describe lavishly.
 
-### R81-2-WORKING_CARD_ON_REPEAT [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
-
-A working takes the full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs.
-
-> (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time.
-
 ### R81-3-ETA_AS_PROPORTION [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
 
 Narration names eta as an idea and gives loss and reserve as proportions and body tells; exact figures only in mouths and the notes.
@@ -8830,6 +9094,18 @@ All magic gets the Working Card at its first show in a scene, scaled; the always
 A working riding a blow interleaves the two cards step by step; on a kill the Kill Card extends the Blow Card.
 
 > (18) Card merge: when a working rides a blow, the cards interleave: the working's charge and draw ride the blow's set, its aura and room ride the read and contact, its mechanism and effect sit beside the tissue, its cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.
+
+### R82-23-CONCEPT_PRICE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Price: reserve and body tells stay, and a big art also carries a strange personal price that comes from its own idea.
+
+> (23) Price: reserve and body tells stay, and a big art also carries a strange personal price that comes from its own idea.
+
+### R82-24-ORDER_AND_SCALE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
+
+> (24) Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
 
 ### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
 
@@ -9538,7 +9814,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (195)
+## naming (206)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -9887,6 +10163,72 @@ Word-presence checks on explicit scenes retire; 'her core' leaves the euphemism 
 Canon order with Isaac's dated directions first; fixed system canon, everything else free and canon on archive; story beats a palette; crews in play; Malphas hidden only from who couldn't know; rare costly returns; world magic law in narration, physics in trained mouths; world musts and document forms optional; names as needed; one free archive-notes block; markdown documents; price table approved; no owed Inventory fields.
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/coverage-questionnaire/): canon, the world and its documents. The canon order is Isaac's word, including RULINGS and dated directions with the newest winning; then the canon source documents (Fracture of Worlds, the Master Codex, the Stat Sheet); then the rule index; then archived scenes for events; then cards; then other wiki pages; then internal logic. Fixed and never invented: the Sixty Wellsprings, the Glyph Index, the Stage, Band and Tier ladders, the Families, the Archons and Titans, cultures and bloodlines, and carded people's facts; everything else is free to invent, factions and NPC techniques included, canon once archived. Story beats (crews, rivals, mentors, warm bonds, arc kinds) are a palette Natalie draws on when the story earns them, never owed per thread; a crew forms in play, Isaac overturning what he dislikes. Malphas is hidden only from characters who could not know him; his circle's size floats. The dead stay dead save rare, costly returns by canon means; full resurrection stays forbidden on paper. Narration states the world's magic as law with its reasons kept, while trained characters and the notes may give the physics. World musts (weather in every outdoor scene, the bill on an indoor working, the sense order at sea, the rite that departs from its form, the document whose rule breaks, the tested epigraph) become tools used when they matter. Document forms are optional (the contract's limiting clause, the docket line, the Tier rung); a glossary is built at book assembly; numerals stand wherever an institution writes them; in-world documents keep their institution's house style. Names come as needed: doublets, true names, folk names and say-lines are added when used; the technique-name word cap and the never-translated rule retire. Archive notes are one free block (sources, inventions, canon conflicts, estimates), with a mystery's clue list and sealed solution kept. The house document is markdown in the repo; a .docx only on request, dark background and gold Garamond. The price table in imports/drafts/price-table.md is approved and published as reference. Standing Inventories owe no fields; a journey that matters has a clock the world fills, with no tick count; a character may talk power-scaling in his own voice while narration avoids forum terms.
+
+### R82-3-NAME_FORM [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Name form: ordinary fighters get one big phrase; a signature art gets a title with named moves under it (Art: Move).
+
+> (3) Name form: ordinary fighters get one big phrase; a signature art gets a title with named moves under it (Art: Move).
+
+### R82-4-CALL_LANGUAGE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Language: a fighter calls in their own culture's tongue, and the meaning lands in the same beat through narration or a witness.
+
+> (4) Language: a fighter calls in their own culture's tongue, and the meaning lands in the same beat through narration or a witness.
+
+### R82-5-BIG_WORDS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Big words: anyone may name a move with a word like World, God, Fate or Infinite. The room laughs until it works, and living up to the name becomes part of the story.
+
+> (5) Big words: anyone may name a move with a word like World, God, Fate or Infinite. The room laughs until it works, and living up to the name becomes part of the story.
+
+### R82-6-WHO_NAMES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Who names: fighters, schools and witnesses all name things, names can change, and the most famous name wins out.
+
+> (6) Who names: fighters, schools and witnesses all name things, names can change, and the most famous name wins out.
+
+### R82-7-NUMBERED_TIERS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Numbering: optional. An art uses its own word for its tiers (Acts, Entries, Verses, Knots), so the count itself becomes a threat.
+
+> (7) Numbering: optional. An art uses its own word for its tiers (Acts, Entries, Verses, Knots), so the count itself becomes a threat.
+
+### R82-8-EPITHETS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Epithets: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor. Some are wrong or unflattering.
+
+> (8) Epithets: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor. Some are wrong or unflattering.
+
+### R82-10-COMIC_NAMES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Comic names: goofy technique names can be truly lethal at any Stage, on anyone whose card fits. Cold killers and carded Moto stay serious.
+
+> (10) Comic names: goofy technique names can be truly lethal at any Stage, on anyone whose card fits. Cold killers and carded Moto stay serious.
+
+### R82-19-SHARED_ARTS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.
+
+> (19) Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.
+
+### R82-29-UPGRADES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Upgrades: a move grows into a bigger name at each jump, and the old one stays in use.
+
+> (29) Upgrades: a move grows into a bigger name at each jump, and the old one stays in use.
+
+### R82-30-TEAM_MOVES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Team moves: crews and Resonant Pairs get named combos once a bond is real, and they bicker about what to call them.
+
+> (30) Team moves: crews and Resonant Pairs get named combos once a bond is real, and they bicker about what to call them.
+
+### R82-47-OLD_NAMES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.
+
+> (47) Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
@@ -10710,7 +11052,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (169)
+## pov (170)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -11065,6 +11407,12 @@ Each blow's read is behavior plus a quick thought; extended reasoning follows th
 The POV's own fight in a battle takes full Blow Cards; the mass is told through specific bodies and wounds; a blow too fast to see is carded from what the POV saw after.
 
 > (19) Battles: the POV's own fight in a battle gets full Blow Cards; the mass around it is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage, the wound, the position), explained.
+
+### R82-26-WHO_EXPLAINS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Who explains: the opponent working it out, bystanders and rivals, the wielder bragging, and narration, all in regular use.
+
+> (26) Who explains: the opponent working it out, bystanders and rivals, the wielder bragging, and narration, all in regular use.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -11726,7 +12074,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (341)
+## prose-law (342)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12406,12 +12754,6 @@ Quick trades keep every Blow Card part and compress the wording into long cumula
 
 > (1) Fast trades: every Blow Card part stays in every blow; quick trades compress the wording into long cumulative sentences instead of dropping parts.
 
-### R81-2-WORKING_CARD_ON_REPEAT [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
-
-A working takes the full Working Card at first display, at the finisher and whenever something changes; an ordinary repeat writes charge, effect, cost and what differs.
-
-> (2) Repeat uses: a working takes the full Working Card at its first display, at the finisher, and whenever something changes (a new use, a counter, an overreach); an ordinary repeat writes its charge, effect and cost plus whatever is different this time.
-
 ### R81-4-EXPLAIN_IN_ANY_POV [Directions 2026-11-03 (combat and magic fix) combat-magic-fix-questionnaire]
 
 Narration explains the whole mechanism in every POV; an untrained POV in plainer, wondering words; dialogue still explains only what the speaker could know.
@@ -12453,6 +12795,18 @@ Technique and Wellspring signature sounds recur forever; the used-devices ledger
 A working riding a blow interleaves the two cards step by step; on a kill the Kill Card extends the Blow Card.
 
 > (18) Card merge: when a working rides a blow, the cards interleave: the working's charge and draw ride the blow's set, its aura and room ride the read and contact, its mechanism and effect sit beside the tissue, its cost beside the reaction. On a kill the Kill Card extends the Blow Card, it does not replace it.
+
+### R82-24-ORDER_AND_SCALE [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
+
+> (24) Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
+
+### R82-44-PROSE_STAYS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Prose: narration stays rich and thoughtful, shouted names and spectacle crash through it, and The Weak Grade remains the model.
+
+> (44) Prose: narration stays rich and thoughtful, shouted names and spectacle crash through it, and The Weak Grade remains the model.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -13774,7 +14128,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (183)
+## register (186)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -14243,6 +14597,24 @@ Supersedes R77-1 and R70-100; full Blow Card and Working Card replace R79-6's on
 Only exact stock phrases are banned; single words are free; canon Wellspring signatures are exempt; verify_scene matches.
 
 > (9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring signatures are exempt; verify_scene changes to match.
+
+### R82-2-NORTH_STAR [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+North star: One Piece, mythic at the top. Most fighters get one wild concept and loud named moves; the very top goes mythic.
+
+> (2) North star: One Piece, mythic at the top. Most fighters get one wild concept and loud named moves; the very top goes mythic.
+
+### R82-39-SYSTEM_WORDS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+System words: ordinary fighters use vivid local slang, and Measurewrights, Guild people and analysts use the real terms.
+
+> (39) System words: ordinary fighters use vivid local slang, and Measurewrights, Guild people and analysts use the real terms.
+
+### R82-43-LOUD_AND_BLOODY [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
+
+> (43) Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -14874,7 +15246,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (135)
+## scene-structure (136)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -15187,6 +15559,12 @@ Wiki pages in the in-world scholar's voice with no designed art by default; audi
 When a continue reaches a real PC decision, Natalie carries him through it by card and oath, flags it in the notes, and his rewrite overturns.
 
 > (13) PC choices: when a 'continue' runs into one of his PC's real decisions, Natalie carries him through it by his card and oath, says so in the author notes, and he overturns by rewrite.
+
+### R82-27-ULTIMATES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.
+
+> (27) Ultimates: rare and staged. A big moment can take its own section title, a slowed run-up and the whole world reacting, and it costs enough to stay rare.
 
 ### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
 
@@ -15686,7 +16064,7 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 
 > Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
 
-## session-protocol (105)
+## session-protocol (108)
 
 ### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
 
@@ -15873,6 +16251,24 @@ Natalie may invent what the scene needs of the PC's past, flagged in the notes; 
 Wounds and their lasting effects go onto the PC's card at scene end; he strikes or changes them; Level, Stage and techniques stay his.
 
 > (15) PC wounds: wounds and their lasting effects go onto his card at scene end; he strikes or changes them. Level, Stage and techniques stay his.
+
+### R82-1-SCENE_WINS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Scene and card: a scene wins. Anything on the page in an archived scene is written back to the card at scene end.
+
+> (1) Scene and card: a scene wins. Anything on the page in an archived scene is written back to the card at scene end.
+
+### R82-28-NEW_MOVES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+New moves: Natalie may create and name an NPC's new move mid-fight, canon on use. For Isaac's PC she offers names in the notes, and he keeps or cuts them.
+
+> (28) New moves: Natalie may create and name an NPC's new move mid-fight, canon on use. For Isaac's PC she offers names in the notes, and he keeps or cuts them.
+
+### R82-45-ROLLOUT [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
+
+> (45) Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -16830,7 +17226,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (199)
+## stats (200)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -17347,6 +17743,12 @@ Narration names eta as an idea and gives loss and reserve as proportions and bod
 The user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it; a Third Release fills the cap alone.
 
 > (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
+
+### R82-21-FIGURES_BLOCK [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.
+
+> (21) Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -18613,7 +19015,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (360)
+## worldbuilding (374)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -19706,6 +20108,90 @@ The Ledger tracks wounds, debts, renown and witnesses quietly; ignored bills fol
 Four pipelines as skills; Natalie grades her own drafts; Isaac curates exemplar banks; espionage, trials and economic plots by each tradition; the Four Quarters stay distinct.
 
 > Tooling, intelligence, law and the Quarters (Isaac, 2026-10-31). (1) Four pipelines are one-word commands, built as skills: /fight, /ability, /character, /improve. (2) Natalie grades her own draft silently and fixes it; the exemplar banks are curated by Isaac (Natalie nominates, he chooses); chat is adapted to the job (prose alone, systems work a summary, questions plain answers). (3) Espionage runs each faction's own way (files, people, workings); trials take the shape of their legal tradition (Moto hearing, Dawi tally, Kharven bargain); economic plots are told as people, numbers and an event; the Four Quarters stay distinct by palette, POV lens and culture inventory together. Applied to desktop/NATALIE.md and the four new skills under .claude/skills/.
+
+### R82-8-EPITHETS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Epithets: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor. Some are wrong or unflattering.
+
+> (8) Epithets: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor. Some are wrong or unflattering.
+
+### R82-16-POWER_SOURCES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Power sources: bloodline and inheritance, trade and daily work, places and Wells, and things bought, stolen or eaten.
+
+> (16) Power sources: bloodline and inheritance, trade and daily work, places and Wells, and things bought, stolen or eaten.
+
+### R82-17-POWER_MARKET [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Power market: an art can be bottled at the Wells, taken from the dead, signed over by contract, or grown or carved into gear.
+
+> (17) Power market: an art can be bottled at the Wells, taken from the dead, signed over by contract, or grown or carved into gear.
+
+### R82-19-SHARED_ARTS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.
+
+> (19) Shared arts: aura coat, Pressure and sensing become famous arts everybody knows and argues about, each culture with its own name for them.
+
+### R82-31-MAP_SCARS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.
+
+> (31) Scale: walls, then streets, then rivers and mountains. Top-tier fights leave scars on the map that the world names and remembers.
+
+### R82-32-PUBLIC_FAME [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Fame: broadsheets print rankings and wanted bills and bookies take odds. Fame changes prices, doors and who comes for you.
+
+> (32) Fame: broadsheets print rankings and wanted bills and bookies take odds. Fame changes prices, doors and who comes for you.
+
+### R82-33-LEGENDARY_ARTS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.
+
+> (33) Legendary arts: a known and feared list. Children know the names, scholars argue, people kill for them, some are banned or lost, and a few holders are alive.
+
+### R82-34-SCHOOLS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Schools: loud names and famous rivalries, like football clubs, with colors, songs, grudges and a signature style you can recognize at fifty paces.
+
+> (34) Schools: loud names and famous rivalries, like football clubs, with colors, songs, grudges and a signature style you can recognize at fifty paces.
+
+### R82-35-NAMED_GEAR [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Gear: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder.
+
+> (35) Gear: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder.
+
+### R82-36-DAILY_MAGIC [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Daily magic: everywhere and petty. Streets are full of tiny, silly, useful arts, and big powers feel bigger by comparison.
+
+> (36) Daily magic: everywhere and petty. Streets are full of tiny, silly, useful arts, and big powers feel bigger by comparison.
+
+### R82-37-MAGITECH_SHOWMEN [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
+
+> (37) Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
+
+### R82-38-REGIONAL_STYLES [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Regions: each place has signature moves, naming habits, costumes and jokes about the others, known at a glance.
+
+> (38) Regions: each place has signature moves, naming habits, costumes and jokes about the others, known at a glance.
+
+### R82-40-PLACE_HOOKS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Places: every major place gets a premise you can say in one breath, with real rent, food and politics underneath.
+
+> (40) Places: every major place gets a premise you can say in one breath, with real rent, food and politics underneath.
+
+### R82-41-VILLAIN_SETS [Directions 2026-11-04 (abilities and the world) ability-feel-questionnaire]
+
+Villains: each group has a shared motif, and each member's concept shows what they believe and did.
+
+> (41) Villains: each group has a shared motif, and each member's concept shows what they believe and did.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 

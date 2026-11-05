@@ -29,7 +29,7 @@ rules:
     Indexed as R81-1 on 2026-11-03.
 - pack: Directions 2026-11-03 (combat and magic fix)
   pack_number: null
-  status: live
+  status: superseded
   ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
   source:
     file: ''
@@ -379,7 +379,7 @@ rules:
     Indexed as R81-15 on 2026-11-03.
 - pack: Directions 2026-11-03 (combat and magic fix)
   pack_number: null
-  status: live
+  status: superseded
   ratified: 'Isaac, 2026-11-03: combat and magic fix questionnaire, recorded in RULINGS.md'
   source:
     file: ''

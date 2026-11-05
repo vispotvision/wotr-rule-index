@@ -1,0 +1,92 @@
+{
+  "context": "Isaac, 2026-11-04: abilities and techniques no longer reflect the writing or the worldbuilding. He wants them more like One Piece, with names like 'World Cutting Slice' and 'Unlimited Works of Fate'. Evidence: Muken's card omits Unlimited Works of Fate from The White Knot; card entries read as essays; 57 library techniques carry names like Coagula Dominium. Samples are invented for the questionnaire and are not canon.",
+  "sections": [
+    "diagnosis",
+    "names",
+    "shape of an ability",
+    "card format",
+    "on the page",
+    "the world",
+    "rollout"
+  ],
+  "batches": {
+    "batch1": [
+      "what_is_wrong",
+      "north_star",
+      "scene_vs_card",
+      "physics_place"
+    ],
+    "batch2": [
+      "name_form",
+      "language",
+      "big_words",
+      "who_names"
+    ],
+    "batch3": [
+      "numbered_forms",
+      "epithets",
+      "library_names",
+      "comic_names"
+    ],
+    "batch4": [
+      "kit_shape",
+      "move_count",
+      "one_line_hook",
+      "weirdness"
+    ],
+    "batch5": [
+      "system_link",
+      "power_sources",
+      "trait_domain_release",
+      "shared_arts"
+    ],
+    "batch6": [
+      "entry_shape",
+      "figures_place",
+      "cost_counter_lines",
+      "cost_feel"
+    ],
+    "batch7": [
+      "explanation_depth",
+      "calling_on_page",
+      "who_explains",
+      "ultimate_moment"
+    ],
+    "batch8": [
+      "new_moves",
+      "move_upgrades",
+      "team_combos",
+      "destruction_scale"
+    ],
+    "batch9": [
+      "public_fame",
+      "legendary_arts",
+      "schools",
+      "named_gear"
+    ],
+    "batch10": [
+      "power_market",
+      "everyday_powers",
+      "magitech_moves",
+      "regional_styles"
+    ],
+    "batch11": [
+      "system_words",
+      "wild_places",
+      "villain_arts",
+      "wiki_voice"
+    ],
+    "batch12": [
+      "pilot",
+      "rewrite_freedom",
+      "old_scenes",
+      "other_creators"
+    ],
+    "batch13": [
+      "darkness",
+      "prose_model",
+      "law_timing",
+      "reopen"
+    ]
+  }
+}

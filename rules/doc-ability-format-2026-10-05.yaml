@@ -113,7 +113,7 @@ rules:
   pack_number: null
   section: Q6
   title: The paragraph is the whole page and the whole card entry
-  status: live
+  status: superseded
   kind: mandate
   summary: Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing
     else on it; the field format is retired.

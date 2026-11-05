@@ -1,0 +1,100 @@
+{
+  "context": "Isaac, 2026-11-04: abilities and techniques no longer reflect the writing or the worldbuilding; he wants them more like One Piece, with names like 'World Cutting Slice' and 'Unlimited Works of Fate'.",
+  "batch1": {
+    "what_is_wrong": [
+      "Names have no swagger",
+      "Entries read like essays",
+      "Physics crowds out wonder"
+    ],
+    "north_star": "One Piece, mythic at top: most fighters get one wild concept and loud named moves; the very top goes mythic.",
+    "scene_vs_card": "Scene wins, card updates: anything on the page in an archived scene is written back to the card at scene end.",
+    "physics_place": "After the spectacle: name, hit, awe first; the explanation comes right after, from a mouth or narration, and stays complete."
+  },
+  "batch2": {
+    "name_form": "Loud for most, Art: Move on top: ordinary fighters get one big phrase; signature arts get a title with named moves under it.",
+    "language": "Their culture's, glossed once: the fighter calls in their own tongue and the meaning lands in the same beat through narration or a witness.",
+    "big_words": "Anyone, but the world reacts: a nobody can call his punch World-Ender; the room laughs until it works, and living up to it becomes part of the story.",
+    "who_names": "A mix, and names can change: fighters, schools and witnesses all name things, and the most famous name wins out."
+  },
+  "batch3": {
+    "numbered_forms": "Art picks its own count: numbering is optional, each art uses its own word for tiers (Acts, Entries, Verses, Knots), so the count becomes a threat.",
+    "epithets": "Yes, and the world uses them: every major fighter has a title that travels ahead of them through crowds, newspapers, bounties and rumor; some are wrong or unflattering.",
+    "library_names": "Rename and rewrite them all: keep each page's idea, give it a name with swagger and a short new entry; the old name survives as a scholar's term on the page.",
+    "comic_names": "Anywhere the character earns it: goofy names can be truly lethal at any Stage on anyone whose card fits; cold killers and carded Moto stay serious."
+  },
+  "batch4": {
+    "kit_shape": "One wild concept, many moves: one idea you can explain in a breath, then a growing list of named things done with it.",
+    "move_count": "A few, growing in play: start with 3 to 5 and add one whenever a fight or scene earns it; the list records their story.",
+    "one_line_hook": "Yes, plain enough for a kid: one sentence with no system words; if it can't be said simply the idea isn't ready.",
+    "weirdness": "Anything, if it's fully explored: soup, debt, doors, boredom; any idea works if the character pushes it to a terrifying place."
+  },
+  "batch5": {
+    "system_link": "Concept first, Wellspring after: dream up the idea first, then find the Wellspring and glyph that explain it; the system supports the idea without limiting it.",
+    "power_sources": [
+      "Bloodline and inheritance",
+      "Trade and daily work",
+      "Places and Wells",
+      "Bought, stolen or eaten"
+    ],
+    "trait_domain_release": "All one concept, escalating: keep all three; Trait is the idea, Release transforms the body, Domain makes the world obey it.",
+    "shared_arts": "Yes, loud names by culture: famous arts everybody knows and argues about, each culture with its own name."
+  },
+  "batch6": {
+    "entry_shape": "Hook, moves, then how it works: the fun reads first in seconds; the full mechanism lives below it for fights and anyone who wants it.",
+    "figures_place": "A stat block at the bottom: each ability's numbers sit together at the end of the entry or card.",
+    "cost_counter_lines": "One line each, on every art: they stay for fair fights but short and punchy; individual moves can skip them.",
+    "cost_feel": "A price that fits the concept: keep reserve and body tells; big arts also carry a strange personal price from their own idea."
+  },
+  "batch7": {
+    "explanation_depth": "Scale by size, always clear: a small move gets a line; a signature's first use or a finisher gets the full account after the hit; nobody is left confused.",
+    "calling_on_page": "Volume set by character: showmen shout in capitals on their own line; killers and legends may whisper it.",
+    "who_explains": [
+      "The opponent working it out",
+      "Bystanders and rivals",
+      "The wielder bragging",
+      "Narration"
+    ],
+    "ultimate_moment": "Rare and staged: a big moment can get its own section title, a slowed run-up and the whole world reacting; it costs enough to stay rare."
+  },
+  "batch8": {
+    "new_moves": "Natalie invents, your PC stays yours: NPCs can create and name new moves mid-fight, canon on use; for his PC she offers names and he keeps or cuts them.",
+    "move_upgrades": "New name marks the jump: the move grows into a bigger name while the old one stays in use.",
+    "team_combos": "Yes, and they're earned: crews and Resonant Pairs get named combos once a bond is real, and bicker about what to call them.",
+    "destruction_scale": "Geography changes at the top: walls, then streets, then rivers and mountains; top-tier fights leave scars on the map the world names and remembers."
+  },
+  "batch9": {
+    "public_fame": "Broadsheets, bounties, betting: papers print rankings and wanted bills, bookies take odds; fame changes prices, doors and who comes for you.",
+    "legendary_arts": "Yes, a known and feared list: children know the names, scholars argue, people kill for them; some banned or lost, a few holders alive.",
+    "schools": "Loud names, famous rivalries: schools are like football clubs, with colors, songs, grudges and a recognizable signature style.",
+    "named_gear": "Named, famous, with histories: top pieces have names, reputations and past owners the public knows, on the existing Tier ladder."
+  },
+  "batch10": {
+    "power_market": [
+      "Bottled at the Wells",
+      "Taken from the dead",
+      "Signed over by contract",
+      "Grown or carved as gear"
+    ],
+    "everyday_powers": "Everywhere and petty: streets are full of tiny, silly, useful arts; big powers feel bigger by comparison.",
+    "magitech_moves": "Yes, tinkerers show off: inventors and operators shout model names and brag about patents; machines misfire in funny and terrible ways.",
+    "regional_styles": "Yes, known at a glance: each place has signature moves, naming habits, costumes and jokes about the others."
+  },
+  "batch11": {
+    "system_words": "Street words, scholars use terms: ordinary fighters use vivid local slang; Measurewrights, Guild people and analysts use the real terms.",
+    "wild_places": "Big hook, still lived-in: major places get a premise you can say in one breath, with real rent, food and politics underneath.",
+    "villain_arts": "Themed sets, personal cruelty: each villain group has a shared motif; each member's concept shows what they believe and did.",
+    "wiki_voice": "Fun first, scholar's asides: keep the in-world narrator, open each page with spectacle and famous stories; technical detail follows."
+  },
+  "batch12": {
+    "pilot": "Pilot three cards first: Muken, Raizan and one lower-Stage fighter, plus a short sample fight, then the rest of Volume I, the 57 library pages and the wiki magic pages.",
+    "rewrite_freedom": "Keep what happened, rethink the rest: anything shown in an archived scene stays true; each kit gets one concept and new names; unused pieces can be merged or cut; he can strike any of it.",
+    "old_scenes": "Scenes stay, old names are history: archived scenes aren't edited; a renamed move's old name becomes what people once called it, and the card lists both.",
+    "other_creators": "Hands off, offer the format: their cards stay untouched and they may use the new format if they choose."
+  },
+  "batch13": {
+    "darkness": "Loud fun, real blood: the dark shonen rule stands; goofy names and color, while wounds, deaths and cruelty still land in full at turning points.",
+    "prose_model": "Literary prose, loud moves: narration stays rich and thoughtful; shouted names and spectacle crash through it; The Weak Grade remains the model.",
+    "law_timing": "Now, and adjust after the pilot: write the rules as R82 and update Natalie and the pipelines now; the pilot can still change them.",
+    "reopen": "No, those are my calls: all 52 answers stand."
+  }
+}

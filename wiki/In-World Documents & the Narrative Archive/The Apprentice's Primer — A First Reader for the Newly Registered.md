@@ -260,3 +260,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 > *The system does not lie, does not forget, and does not forgive.*
 >
 > ***What you do with its assessment is the only freedom it permits.***
+
+---
+
+**Read next:** [[The Magic System/First Steps/How Magic Works|How Magic Works]], for the whole of it in plain words; [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]], for the examiners' version.

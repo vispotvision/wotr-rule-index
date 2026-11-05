@@ -46,7 +46,7 @@ Each expression of Hataraki is called a **Work** because each one performs a nec
 
 ### Origin
 
-Before measured time, before chronology, and before the later unfolding of the epochs, **Bara** created the Works of the World within the Plane of Fate. These Works were made as primal functions and never as techniques or schools of sorcery: the first operative laws by which existence could act, divide, endure, unravel, and complete itself.
+Before measured time, before chronology, and before the later unfolding of the [[Cosmology & Metaphysics/The Making of the World/The Three Epochs|epochs]], **Bara** created the Works of the World within the Plane of Fate. These Works were made as primal functions and never as techniques or schools of sorcery: the first operative laws by which existence could act, divide, endure, unravel, and complete itself.
 
 For this reason the Works are older than history and older than sequence. Even time itself is not prior to them, because temporality is only one Work within the larger order of Hataraki. The Plane of Fate therefore stands as **the chamber of function before event**, the unseen order beneath becoming, where reality is not yet merely happening, but being assigned its labor.
 
@@ -313,3 +313,7 @@ Nobody who has done it has ever called it easy, and each Work is a separate hard
 **Numbers.** Seven Works, one grip apiece, gathered over the Sixty Wellsprings with the eight most often tempered on listed to each. Three levels of operation (Conceptual, Operational, Judicial). Fourteen Archons. The register of doctrines: seven names, two in common with the Works. No EU figures live here; the Works are priced at the art, and the arts are in the Sho.
 
 - [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]
+
+---
+
+**Read next:** [[The Disciplines/Named Arts/Matla|Matla]] and [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]], for the other two Epoch instruments; [[Cosmology & Metaphysics/The Making of the World/The Three Epochs|The Three Epochs]], for Bara; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for Fate as a road anyone can walk.

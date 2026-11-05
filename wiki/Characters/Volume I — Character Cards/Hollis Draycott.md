@@ -3,7 +3,7 @@
 # Hollis Draycott
 
 **Hollis Draycott** · Agent for the Vessant House · Halcrest, the Nalūn factor houses · as of the room above the tea-house at Halcrest, the morning he hired the Lanternless
-**Stat line** · Level 38 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit 60% / Fate 30% / Body 10% · Apprentice · η 0.35 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
+**Stat line** · Level 38 · Band I, Mortal Foundation · Stage II, Welling · Path Spirit II Mastered · Fate I Walked 30% · Body Studied 10% · Apprentice · η 0.35 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · none; he hires people for that
 **Aura and sound** · a faint bronze sheen, the color of a well-handled seal-token · sound: the hum of a sound contract, a steady note just under a lamp's hiss
 **Traits** · READS THE BELT (Primary) · tell: his eyes go quickly and openly to your belt before your face · counter: wear no token, or a token that tells him nothing / THE OLDEST CONTRACT (Secondary) · tell: his thumb runs once round the rim of his token · counter: ask him what the contract costs, not what it pays

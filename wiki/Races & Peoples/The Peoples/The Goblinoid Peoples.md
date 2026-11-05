@@ -330,3 +330,7 @@ When he broke the Vow to speak during Gorrum's confrontation with Vreth, the wor
 > *"The world has seen the mountain. It has not seen what makes it."*
 >
 > *Gorrum Ashentusk*
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what a lean means and never sets; [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System]], for how Axiomatic Traits sit among the rest; [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms|The Tongues of the Realms]], for Old Vaross.

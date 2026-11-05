@@ -3,7 +3,7 @@
 # Amelia Greymane
 
 **Amelia Greymane** · the Grey Wall · Kharven, House Greymane of the Ridgewall · as of the king's chambers at the top of the east tower, Kharven-Seat, spring, six months after the Great War of the North, the hour before the spar
-**Stat line** · Level 110 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
+**Stat line** · Level 110 · Band II, Awakened · Stage IV, Flourishing · Path Body III Walked 70% · Fate II Walked 30% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Shield and axe in the line; the longsword at court; she fights to take your head off and says so
 **Aura and sound** · rust and gold, a warm red-brown with a gold edge that rises off her shoulders when she sets her feet · sound: a struck shield-rim, ringing and fading out
 **Stack** · sustainable C in Anchoring · cap +2 Grades · layers: STONEFAST when called
@@ -36,7 +36,7 @@
 **Level** · 110
 **Band** · II, Awakened
 **Temperance Stage** · IV, Flourishing
-**Path** · Body 70%, Walked; Fate 30%, Walked. Body carries the shield and the axe; Fate carries the line, the man on her left and the man on her right
+**Path** · Body III Walked 70% · Fate II Walked 30%. Body carries the shield and the axe; Fate carries the line, the man on her left and the man on her right
 **Tier of Standing** · 3, Adept
 **η** · 0.45
 **Soul Crystal Tier** · Awakened
@@ -107,10 +107,10 @@ None. A seed is possible from Stage VII.
 
 ## X. Techniques
 
-**THE HOOK AND THE HEW (Signature Technique)** · mark: Drilled
+**THE HOOK AND THE HEW (Signature Technique)** · mark: Drilled · Source: Lived
 The bearded war-axe does two things, and she does them as one. The beard goes over the rim of a shield, or behind a knee, or round a lance-haft, and she pulls with her whole weight from the heels, and the man comes forward off his feet with his guard open; and the edge comes down on what the pull has opened, collarbone or neck or arm, before he has his feet back. It costs about three per cent of her reserve to set her Anchoring through the pull and the hew, near 2,000 EU, and the hooked spike at the top finishes what the edge did not. Its limit is that the hook needs a rim, a limb or a haft to catch, and a man who lets go of his shield when he feels the beard takes the pull out of it. Its counter is to let go, or carry a shield with no rim to catch.
 
-**THE GREY FILE (School Art, Greymane)** · mark: Drilled
+**THE GREY FILE (School Art, Greymane)** · mark: Drilled · Source: Taught
 Greymane shields locked rim to rim, the file taking each blow down through every shield into the ground at once, so that a line of Shieldwardens stands like the ridge it is named for. She held the Thornwall's north face with it. It costs the file, not her. Its limit is its ends. Its counter is to break the file's end and roll it up.
 
 **STONEFAST · Setting the Stone (First Release, Greymane)** · mark: Drilled

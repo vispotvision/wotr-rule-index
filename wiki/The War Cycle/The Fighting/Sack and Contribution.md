@@ -104,3 +104,7 @@ The men who do it are the men who did not do it the week before, **at the end of
 **Quarter as a property qualification** · Raised by the Arbitration Division itself **in a session whose minutes were sealed. The seal is the only public evidence that the question was asked.**
 
 **Reparation** · **No mechanism exists.** Contribution is receipted and never returned. Sacked towns have petitioned the Division **on ninety-one occasions in four centuries.** *The Division's response in every instance has been to acknowledge receipt.*
+
+---
+
+**Read next:** [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]], for what is taken; [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]], for what is left behind.

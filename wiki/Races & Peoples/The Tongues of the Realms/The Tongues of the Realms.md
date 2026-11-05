@@ -91,3 +91,7 @@ What remains is maintenance rather than construction: the Drow Shadow-Veil notat
 - [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Moto Element Inventory — Japonic Stratum]]
 - [[Races & Peoples/The Tongues of the Realms/Naming and Usage/The Celestial Host — Naming]]
 - [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults]]
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands|The Descent of Parun]], for the one script system here that does work on the world; [[The Magic System/Power in Use/The Working Trades|The Working Trades]], for why the guilds care how a working is said; [[Races & Peoples/Races & Peoples|Races & Peoples]], for the speakers.

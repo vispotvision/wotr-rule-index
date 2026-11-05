@@ -157,3 +157,7 @@ Six pages, grouped by Type. **Spirit Beasts** · **The Draconic Lineage** · **N
 *Most of the register lives on ground that is trying to kill you for its own reasons.*
 - [[The Bestiary/Dungeons]]
 - [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]]
+
+---
+
+**Read next:** [[The Bestiary/Dungeons|Dungeons]], where most of this register is met; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for who beats what and how a creature's lean plays; [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for what a dead one is worth.

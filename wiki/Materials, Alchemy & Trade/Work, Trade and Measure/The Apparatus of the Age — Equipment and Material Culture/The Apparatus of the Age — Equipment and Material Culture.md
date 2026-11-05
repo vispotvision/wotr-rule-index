@@ -413,3 +413,7 @@ The Division mentions the affair because it explains the order of this register.
 
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Bolt and the Enhanced Weapon]]
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]], for Grade and Rarity; [[The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts|Who Pays for the Lamp]], for who keeps the lamps; [[The Magic System/Power in Use/The Working Trades|The Working Trades]], for the crafts behind the kit.

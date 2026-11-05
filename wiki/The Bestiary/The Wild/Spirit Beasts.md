@@ -255,3 +255,7 @@ Noble, majestic, **fiercely protective.** It intervenes to purge corruption and 
 > **The Ashes of Renewal** chronicles the Phoenix's intervention during the Great Spirit War, **turning the tide by cleansing corrupted Wellspring sites.**
 >
 > Pilgrims journey to witness a rebirth. *It is a sacred event in many cultures and it is the only window in which the creature can be killed.*
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Wellsprings these formed from; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what can touch them; [[The Bestiary/The Bestiary|The Bestiary]], for the rest of the register.

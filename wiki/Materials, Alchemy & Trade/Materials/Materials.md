@@ -10,3 +10,7 @@ Every child in the four quarters skips rope to some version of the Stuff Rhyme: 
 
 - [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Master Material Ledger|The Master Material Ledger]]: Consolidated substrate register · T0 through T9 · all four quarters
 - [[Materials, Alchemy & Trade/Materials/Hide, Horn and Bone|Hide, Horn and Bone]]: The creature-material register · hide, horn, claw, bone, sinew, gut, blood, organ, scale, quill and shell, what a kill makes, and what a core is worth.
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for what a Resonance answers to; [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]], for how a finished piece is graded.

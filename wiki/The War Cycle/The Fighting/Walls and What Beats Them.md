@@ -113,3 +113,7 @@ The Division's own after-action record for stormed places contains **a consisten
 **Sealwright stripping and the ownership of inscription** · Whether stripping a fortification's accumulated inscription constitutes destruction of property has been argued twice and settled neither time. **The stakes are large: several of the places in question hold inscription older than the Accord.**
 
 **The storm discrepancy** · Nine reviews, no prosecutions. **Entered at the insistence of the Guild of Measurewrights, who have no standing in the matter and filed anyway.**
+
+---
+
+**Read next:** [[The Magic System/Power in Use/The Working Trades|The Working Trades]], for the wards cut into the stone; [[The Magic System/The Soul and the Climb/Domains|Domains]], for what a high Stage does to a wall; [[The War Cycle/The Army/The Order of Battle|The Order of Battle]], for who goes up the ladder.

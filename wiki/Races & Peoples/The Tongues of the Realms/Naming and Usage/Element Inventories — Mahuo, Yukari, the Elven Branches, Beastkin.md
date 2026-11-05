@@ -106,15 +106,3 @@ Three linked layers rather than a flat category list, because the amendment's ow
 | **Held-name and Name-Keeping ritual vocabulary** | *Ashe* ("I remain"), *Ndoto* (witness, the one who receives the name), *Fen* (the last thing, what cannot be taken), *Baru* (spoken aloud), *Tolo* (the return, a name given back to a survivor), *Chike* (kept, held safe) |
 
 **Worked example.** A Bearkin child born into safety (**Oda**) charged with steady endurance (**Dorn**): soul-name **Oda-dorn**, recorded but unused daily; an ordinary use-name serves in public life. Having later lost home, rank, and kin, she performs the Name-Keeping: *"Fen Oda-dorn, Baru"* ("the last thing, Oda-dorn, spoken aloud") before a witness, who answers *"Ashe"* ("I have heard; you remain").
-
-## Provenance
-
-**Mahuo.** Grounded in the Mahuo character cards (Kwon Mu-jin, Ara Min Mahuo, Cozbi Mahuo; all three carry a recurring Ledger motif: "the Ledger-Keeper," "The Ledger Nobody Kept," "the Ledger-Prince") and the Vermilion Dynasty page (clan seat Sum-gol, "Breath Hollow"; Anima Spirare soul-breath theology). The structural facts are settled: lineage name, two-syllable given name with a shared generational syllable, a "hollow-seat."
-
-**Yukari.** Grounded in The Yukari Bloodline (Senri, the Ketsumyōgan, "The Telling": the name is chosen at a coming-of-age rite; signature imagery of silver-threading-through-dark, still water before a stone hits it, the crow motif) and the Silver Cedars page's attested etymology: Ketsuen = Ketsu (thread-bound) + En (connection, bond). The amendment's own text glosses Jinmu = divine + dream. Full life-stage slots are attested: name-taboo on the living, renaming at promotion, vow or allegiance.
-
-**The Elven branches.** The best-documented of the four: the Vey-Elarin grammar is already a full set of real roots, particles and affixes, functionally most of an element inventory that had not been formatted as one. The Elven Peoples page confirms five branches, each theologically distinct, and calls for names "recognizably related but structurally different," exactly what shared roots plus branch-specific affixes deliver.
-
-**Beastkin.** The Five Beastkin Lineages documents Name-Keeping concretely, but specifically for the Fox-Spirit/Mishiro lineage ("the last thing that cannot be physically removed... speaking one's name aloud in the presence of a witness"), not the other four (Catkin, Lupine, Bearkin, Serpentkin); the amendment generalizes it to "Beastkin" broadly, and this inventory follows that lead.
-
-**Format.** Mahuo and Yukari match the amendment's Marrowkin (30 elements, two-element compounds) and Satulagi/Moto (25 elements, open-syllable) inventories. The elven and Beastkin inventories are restructured where the culture's own anchor does not fit that shape.

@@ -28,7 +28,7 @@ The blade proper reads no mass on any instrument, a documented property of Nihil
 
 ### Codex line
 
-Wellspring: Nihiloth (primary), Letheveil (secondary, memory-erasure). Kind: Wild. Physics Domain: Entropy, Void and Mind. Category: Silentia, for the Silence Field; Claustra, for the sealed threefold-vow gating. Glyphs, Master Glyph Index attested: *Uur* (Disruption), *Ur* (Balance, used inverted here), *Ie* (Perception, corrected from the card's "Insight").
+Wellspring: Nihiloth (primary), Letheveil (secondary, memory-erasure). Kind: Wild. Old register: Silentia, for the Silence Field; Claustra, for the sealed threefold-vow gating. Glyphs, Master Glyph Index attested: *Uur* (Disruption), *Ur* (Balance, used inverted here), *Ie* (Perception, corrected from the card's "Insight").
 
 ### Bond and cost
 

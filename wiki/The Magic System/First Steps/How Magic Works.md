@@ -207,4 +207,4 @@ A blessing grants a power out of a person's natural reach, even in Level. It nee
 
 A curse is often a blessing with terms you did not read, or from a giver who does not care what you want, and nobody can tell at first, and some are both. Those who hold Hataraki, the Moto's governing power, can take a blessing back or remove it, which is one of the reasons people are so afraid of them. It takes two Works or two Moto, since a Work is an inherited grip on one function. *Read next: [[The Magic System/Practice and Institution/Blessings and Curses|Blessings and Curses]], then [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]].*
 
-*That is the whole system in brief. Next on the road: [[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]].*
+*That is the whole system in brief. Next on the road: [[The Magic System/First Steps/The Measures at a Glance|The Measures at a Glance]]. For the same system told as one chain, from the first thing there was down to a toll collector's jaw, read [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]].*

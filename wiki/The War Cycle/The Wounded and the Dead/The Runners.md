@@ -111,3 +111,7 @@ The factor stands between the runner and the Bench and makes money **on four thi
 > **Runner mortality** · **Not counted.** No runners' guild exists to count it **and no Division holds the file.**
 >
 > *Which is the same finding recorded for maternal mortality, and by the same mechanism.*
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for the rendering trade beside this one; [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]], for the dead they race.

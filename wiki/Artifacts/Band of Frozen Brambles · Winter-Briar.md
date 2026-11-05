@@ -30,7 +30,7 @@ A wrist-cuff and chain weapon: plausible mass 1.8 kg at rest (the ice plating ad
 
 ### Codex line
 
-Wellspring: **Cinerion**, primary (Wild, Thermodynamics), the Ash Veil, carrying the frost and the heat-siphon that powers Winter Dividend, run as fire's own Aether worked backward since no Wellspring makes cold as a substance. Secondary: **Verdantia** (Wild, Biochemistry), the Green Pulse, carrying the bramble growth in Thornbind and Briar Gaol. Category: **Harmonia**, per the card's own alignment. Glyphs: `Ur` (Balance), woven as the bramble lattice's own load distribution; `Ma` (Memory), teaching the vines to seek joints and hinges; `Wy` (Motion), driving the chain-snap and pull; trace `Uur` (Disruption), carried in the thorns for Glass Petal Riposte. All four confirmed Root forms in the Master Glyph Index.
+Wellspring: **Cinerion**, primary (Wild, Thermodynamics), the Ash Veil, carrying the frost and the heat-siphon that powers Winter Dividend, run as fire's own Aether worked backward since no Wellspring makes cold as a substance. Secondary: **Verdantia** (Wild, Biochemistry), the Green Pulse, carrying the bramble growth in Thornbind and Briar Gaol. Old register: **Harmonia**, per the card's own alignment. Glyphs: `Ur` (Balance), woven as the bramble lattice's own load distribution; `Ma` (Memory), teaching the vines to seek joints and hinges; `Wy` (Motion), driving the chain-snap and pull; trace `Uur` (Disruption), carried in the thorns for Glass Petal Riposte. All four confirmed Root forms in the Master Glyph Index.
 
 ### Bond and cost
 

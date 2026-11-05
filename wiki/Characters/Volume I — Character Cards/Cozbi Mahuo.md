@@ -14,7 +14,7 @@ private: true
 # Cozbi Mahuo
 
 **Cozbi Mahuo** · Head of House Mahuo · Master of the Sum-gol Post · First Keeper of the Order of the Spiritual Reality · as of the season after the war
-**Stat line** · Level 450 · Band V, Absolute · Stage XIII, Principality · Tier 8, Archmaster · Grade cap X, ceiling 1,200 · Path Spirit 55% / Fate 30% / Body 15% *(derived)* · η 0.90 *(derived)* · Class unnamed · Aether II · Essence V · Thread IV *(derived)* · reserve 1.53 × 10⁹ EU *(derived)*
+**Stat line** · Level 450 · Band V, Absolute · Stage XIII, Principality · Tier 8, Archmaster · Grade cap X, ceiling 1,200 · Path Spirit XII Walked 55% · Fate XI Walked 30% · Body Studied 15% *(derived)* · η 0.90 *(derived)* · Class unnamed · Aether II · Essence V · Thread I *(derived)* · reserve 1.53 × 10⁹ EU *(derived)*
 **Combat grammar** · Host: he fights the way he gives a dinner, and his summons are his guests
 **Aura and sound** · near-white at Principality's clarity, washed through with arterial red at the fringe like red glass held up to the sun, a black-violet seam where Eidolyn runs under it; it reads as pressure before color · sound: a heartbeat from the wrong side of a door, *kung... kung...*, with a fine crystal ticking under it while his constructs form · smell: cold iron and grave soil, then copper
 **Ability** · ANTITHESIS (상극 · Sanggeuk) · tell: light bends toward a point beside him and away from it at once, and the air tastes of struck flint · counter: break his hold on the point, or stay beyond its reach
@@ -45,10 +45,10 @@ private: true
 **Band** · V, Absolute
 **Temperance Stage** · XIII, Principality. The Continuum has formally registered a law he embodies: **Antithesis**, a thing and its negation hold one point and neither yields.
 **Tier of Standing** · 8, Archmaster
-**Path** · Spirit 55%, Walked; Fate 30%, Walked; Body 15%, Studied *(derived from the three-plane crossing of the summoning arts)*
+**Path** · Spirit XII Walked 55% · Fate XI Walked 30% · Body Studied 15% *(derived from the three-plane crossing of the summoning arts)*
 **Aether Class** · II, Harmonic *(derived)*
 **Essence Class** · V, Ferryman *(derived)*
-**Thread Class** · IV, Knotwright *(derived)*
+**Thread Class** · I, Touched *(derived)*; no blood or blessing gives him a grip and he is twenty-five, so what he writes on the Plane of Fate spends his own share and pulls nothing down
 **EU reserve** · 1.53 × 10⁹ EU, from the law of reserves at Level 450 (log₁₀ EU = 3.4202 + 0.012812 × 450), inside the Principality band; derived, the Stat Sheet overrides on contact
 **Point pool** · 16,900 (7,800 from Levels, 9,100 from Thresholds I to XIII); allocated as the arts below set it
 
@@ -101,6 +101,7 @@ Cozbi Mahuo, Head of House Mahuo and First Keeper of the Order of the Spiritual 
 
 A Concordia-level summon is not a projection. It is a founding. He creates a small Realm, a micro-world with its own boundary, and in it a being that exists as a semi-independent presence with a core, a shell and an attraction layer of its own. It thinks, adapts, feels and persists beyond his immediate attention. It is the art behind eidolons that are people, and the most dangerous form, because a founded being with enough internal coherence begins to resist dissolution. Stage XII is the minimum, and Stage XIV is the usual gate for genuine autonomy. He founds autonomous beings at XIII because Antithesis gives the founding a core that holds without recognition from a Hollow Throne.
 
+* **Source:** Lived
 * **The Boundary (경계 · Gyeonggye):** The Realm is a cavity with a wall. A being needs somewhere to be real, so he builds the place first. Inside the wall his law holds; outside it the being is a stranger. A founded being cannot leave without him, which is both leash and shelter.
 * **The Core Analog (핵 · Haek):** He gives the being a core analog, shell analog and attraction analog of its own, drawn from his Soul Crystal. A founding costs about 5,000,000 EU and 40,000 EU a second *(derived: about forty times a 120,000 EU named-guest casting)*, a tenth of a percent of his reserve to found and about ten hours to keep. He founds one, or two with strain, and only when a fight deserves it.
 * **The Charter (칙령 · Chikryeong):** He writes the being's purpose into the founding, and the being obeys its charter, not his word of the moment. A warden holds a gate, a general holds a field, a scholar answers questions. In a fight it is his second self: a being that fights as the hero it was written to be, with judgment he does not have to supply.
@@ -112,6 +113,7 @@ A Concordia-level summon is not a projection. It is a founding. He creates a sma
 
 He binds living powers: beasts, Well-born creatures and the great creatures of the Bestiary's Summoned and Bound. Unlike his drafts, a sealed compact gets cheaper each time it answers, because recognition accumulates, so his oldest compacts cost him almost nothing and answer almost at once. He is the rare drafter who keeps a standing roster alongside an infinite catalog.
 
+* **Source:** Lived
 * **The Compact (계약 · Gyeyak):** A sealed compact is written on the Plane of Fate with the creature's own name as the address and a price both sides can read. Binding is a coupled system: the creature's state is locked to a control signal he holds, the way a servo is held to a command. A compact he has sealed is powered by the creature's own Essence, so he pays only the leash, about 60,000 EU a second *(derived)*, and the leash gets cheaper with every answering.
 * **The Roster (명부 · Myeongbu):** He keeps a living list of sealed compacts, each with a price and a clause. A fight can call a war-beast, a storm-creature or a ward-guardian by its seal and have it arrive already knowing how to be what it is.
 * **The Leash (고삐 · Gobi):** A bound will tests its leash. He holds the creature's will down with his own, so a second great binding at once strains his attention. A fighter who strikes at his resolve, and not the beast, is hitting the real weak point.
@@ -124,6 +126,7 @@ He binds living powers: beasts, Well-born creatures and the great creatures of t
 
 The art the Accord names without qualification, and the reason the Infinite Summoning Arts page calls him the reason the art is regulated: legion and Infinite practice combined, on a foundation of harvested soul-fragment rather than lawful draft. He fragments his Core output into threads, each thread anchoring one call, and the Essence he spends on the call is not all his own. Some of it is taken from people who were not asked.
 
+* **Source:** Lived
 * **The Harvest (수확 · Suhwak):** He draws soul-fragment, the small residue of Essence a living soul sheds, from willing and unwilling sources over years, and folds it until it stops being a draft and becomes a thread bent to the shape of his will. A hundred unwilling sources can give him a hundred threads.
 * **The Thread (실 · Sil):** Each thread is a separate load on his body. A drafter at his scale does not sleep normally, cannot digest properly in a campaign and is the thinnest man in the camp. A standing form on a thread is Tier II to III: an eidolon with tactical intelligence, an ancestral echo, a scout or a wall.
 * **Axis Binding (축 결박 · Chuk Gyeolbak):** A form's traits tied to one of his own Spirit Axes shift as his own state does: a form that hardens when he is resolute and falters when he is not. It is the most responsive technique in the art and the least deniable, because damage to the form reaches him as a change in himself.

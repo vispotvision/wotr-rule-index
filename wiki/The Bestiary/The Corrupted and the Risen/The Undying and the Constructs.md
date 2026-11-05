@@ -129,3 +129,7 @@ Obedient and unyielding, **following their last command or bound purpose with un
 **Vulnerable to Essence-dampening fields and anti-magic wards. Slow and cumbersome beside living combatants. And severing the binding runes or disrupting the Spirit Rune network disables them outright.**
 
 *The Siege of Verdant Bastion recounts Living Armor defending ancient Wellspring shrines against Abyssal invaders. Several Concord companies specialize in dismantling Living Armor contingents through coordinated Essence disruption.* Among artificers they are revered as pinnacle creations of Spirit Rune binding.
+
+---
+
+**Read next:** [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]], for what a death does when nothing interrupts it; [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica]], for the forbidden way to build one; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what each road can do about them.

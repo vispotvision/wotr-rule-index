@@ -30,7 +30,7 @@ A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff
 
 ### Codex line
 
-Wellspring: **Fixatio**, primary (Medium · Material Science). Secondary: **Petralon** (Wild · Mechanics) for the repulsion field, **Nyxial** (Spirit · Entropy, Void and Mind) for the reflection. Category: **Mechanica**, per Wilhelm's own sheet flag as an Accord-built apparatus. Glyphs: `Ci` (Order, corrected from the card's "Will"), attested. `Nar` and `Sh` are not found anywhere in the Master Glyph Index or the wider wiki mirror; kept and flagged unattested, since the card's barrier-structure and reflection effects are named around them.
+Wellspring: **Fixatio**, primary (Medium · Material Science). Secondary: **Petralon** (Wild · Mechanics) for the repulsion field, **Nyxial** (Spirit · Entropy, Void and Mind) for the reflection. Old register: **Mechanica**, per Wilhelm's own sheet flag as an Accord-built apparatus. Glyphs: `Ci` (Order, corrected from the card's "Will"), attested. `Nar` and `Sh` are not found anywhere in the Master Glyph Index or the wider wiki mirror; kept and flagged unattested, since the card's barrier-structure and reflection effects are named around them.
 
 ### Bond and cost
 

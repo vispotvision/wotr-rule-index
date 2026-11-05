@@ -56,3 +56,7 @@ A faster bolt hits harder on its own; the hit dial adds on top, within the outpu
 **An enhanced bolt or arrow is paid for per shot and consumed when fired,** from the reserve of whoever enhanced it: the wielder if channeled, the maker if prepared in advance. A bolt is three coppers of ash and iron and a working is not, so an enhanced volley is a practitioner's reserve spent in advance, and nobody upgrades a line of crossbowmen for free. A prepared enhancement also carries its maker's Duration, so a stockpile goes stale. Guard companies and bounty hunters buy them by the quiver of twenty, at the prices in [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost]], and a stale quiver is a loss nobody refunds.
 
 **Every enhancement is findable.** An enchanted weapon radiates its working's signature, a Harmonist reads its alignment, Duration, Boundary limits and integrity without touching it, and a decent Appraisal skill or a coil at the stall will catch most of what a seller left out. A speed-enhanced bolt is answered by Speed or by a Harmonist; a hit-enhanced bolt by proofed harness, Resilience or a ward.
+
+---
+
+**Read next:** [[The Magic System/Power in Use/Counterplay What Beats a Practitioner|Counterplay]], for the other ways a practitioner dies; [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]], for how a piece is graded.

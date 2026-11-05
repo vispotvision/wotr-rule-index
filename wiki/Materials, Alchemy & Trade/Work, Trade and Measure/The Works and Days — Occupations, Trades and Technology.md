@@ -536,3 +536,7 @@ A hall sells three things, shared title, enforceable contracts and passage, and 
 > *Every one of those is something the Third Floor does when it is not working. The Division surveys labor because labor is what the Division buys.* **A register compiled by a purchaser will describe what is for sale and will be silent on everything a person is when the day ends.**
 >
 > The Archives has proposed a companion survey on four occasions. **Each proposal has been referred to the Division that would have to fund it.**
+
+---
+
+**Read next:** [[The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts|Who Pays for the Lamp]], for the trade in small powers; [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]], for the prices; [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], for what a coil reading means.

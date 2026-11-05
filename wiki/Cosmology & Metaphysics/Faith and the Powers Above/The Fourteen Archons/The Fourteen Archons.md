@@ -201,3 +201,7 @@ Each Archon's Domain, Celestial Form, Glyphs, Divine Edict, magic, and web of re
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair IV — Insight Against Dream]]
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair V — Motion Against Stillness]]
 - [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair VI — Harmony and Renewal]]
+
+---
+
+**Read next:** [[Cosmology & Metaphysics/The Making of the World/The Three Epochs|The Three Epochs]], for the forging parties above them; [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans|The Fourteen Titans]], for the same principles bearing weight; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for why most of them are Sovereign on all three.

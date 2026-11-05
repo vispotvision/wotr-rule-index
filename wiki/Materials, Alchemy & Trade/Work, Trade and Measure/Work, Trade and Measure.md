@@ -12,3 +12,7 @@ When the Vintners and the Coopers of Rushford fell out over how much a tun shoul
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|Grade and Rarity]]: The two ratings on every worked piece, the old words that survive as the Accord's stamps, what a smith's and a merchant's titles cap, monster gear, bonded gear, Master Works, and the people who forge all of it.
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology|The Works and Days — Occupations, Trades and Technology]]: A Register of Occupations, Trades, and Technology Across the Four Quarters, from the people the coil never reads to the crews who go down for monster cores
 - [[Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard|Weight, Measure and the Standard]]: What a pound is, who decided, and who has never accepted it. The same political act as standardizing the tongue and the hour, performed by the same institution, resisted by the same people.
+
+---
+
+**Read next:** [[The Magic System/Practice and Institution/Who Pays for the Lamp The Living Crafts|Who Pays for the Lamp]], for what magic does on an ordinary street; [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]], for what it all costs.

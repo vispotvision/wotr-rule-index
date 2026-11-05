@@ -3,7 +3,7 @@
 # Yusif Stark
 
 **Yusif Stark** · the Quiet Man · Kharven, House Stark of Hollenmark · as of the last season he came down four galleries, the year the boy was thirteen
-**Stat line** · Level 160 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Fate 30% / Spirit 10% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
+**Stat line** · Level 160 · Band II, Awakened · Stage VI, Glory · Path Body VI Mastered · Fate V Walked 30% · Spirit Studied 10% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
 **Combat grammar** · Blade; edge, weight and the long clean line of the cut
 **Aura and sound** · the Stark cold, a hard white rime over gray, quieter than any Stark's before him · sound: an ash stick tapping once on a salt floor
 **Traits** · LET YOUR FEET DO IT (Primary) · tell: none; that is the point · counter: a fight you have to think through / STARK RIME (Inherited) · tell: his breath stops steaming · counter: heat / THE THING NOBODY WROTE DOWN (Secondary) · tell: he says nothing at all · counter: ask him in front of the one he is keeping it from
@@ -40,7 +40,7 @@ Formed the morning after the cellars, when he quit Gimbzo and never rode with hi
 
 ## Signature
 
-**THE LONG CLEAN LINE (Signature Technique)** · mark: Mastered
+**THE LONG CLEAN LINE (Signature Technique)** · mark: Mastered · Source: Lived
 One cut, edge and weight and the whole body behind it along one line, with nothing wasted and nothing shown before it. The boy used it, sixteen and a king, to execute two people in the Hall square, once each, cleanly, and did not use Hibi. It costs about two per cent of his reserve, near 5,900 EU, and is B-Grade on the edge. Its limit is that it is one cut, and a man who sees the line can step off it. Its counter is not to be where the line ends.
 
 ## Voice

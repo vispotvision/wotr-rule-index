@@ -14,7 +14,7 @@ Every child in the Arrow valleys can sing you *Ser Aldric and the Cart*. In the 
 
 The eleven documents in this cycle are the explanation of that song. The Divisions of the Guild Accord wrote them in the voice of people who have counted the wagons, and I, who keep these shelves, have left that voice alone and added windows only where a reader would otherwise suffocate. War is bodies, money and names. The minstrels look after the names.
 
-> **A practitioner converts Essence into effect. An army converts time into ground.**
+> **A practitioner converts [[The Magic System/First Steps/The Core Vocabulary|Essence]] into effect. An army converts time into ground.**
 >
 > Every document in this cycle is an elaboration of that distinction, **and every failure in the record is a commander who did not believe it.**
 
@@ -92,3 +92,7 @@ Its absence is load-bearing. **Every document in the cycle points at camp diseas
 - [[The War Cycle/The Wounded and the Dead/The Long Illness]]
 - [[The War Cycle/The Wounded and the Dead/The Runners]]
 - [[The War Cycle/The Army/The Fisc — Paying for a Siege]]
+
+---
+
+**Read next:** [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem|The Practitioner Problem]], for why armies are built around a few souls; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what each road does on a field; [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], for what a practitioner can spend.

@@ -30,7 +30,7 @@ Mass approximately 1.6 kg; overall length approximately 110 cm, of which the bla
 
 ### Codex line
 
-Wellspring: Verdantia (primary), Rebirthine (secondary, cycle). Kind: Wild. Physics Domain: Biochemistry. Category: Domain Weaving (the Cycle Severance rite), with a Wellsprings reading for the basic seasonal strikes. Glyphs, Master Glyph Index attested: *Ur* (Balance, Root, Urion), *Wy* (Motion, Root, Auren), *Yn* (Bloom), *Ka* (Cycle). *Fa* and *Sa* as originally written are not attested forms and do not appear in the final Codex line.
+Wellspring: Verdantia (primary), Rebirthine (secondary, cycle). Kind: Wild. Old register: Domain Weaving (the Cycle Severance rite), with a Wellsprings reading for the basic seasonal strikes. Glyphs, Master Glyph Index attested: *Ur* (Balance, Root, Urion), *Wy* (Motion, Root, Auren), *Yn* (Bloom), *Ka* (Cycle). *Fa* and *Sa* as originally written are not attested forms and do not appear in the final Codex line.
 
 ### Bond and cost
 

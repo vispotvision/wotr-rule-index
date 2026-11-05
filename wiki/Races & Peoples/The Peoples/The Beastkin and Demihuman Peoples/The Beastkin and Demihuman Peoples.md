@@ -167,3 +167,7 @@ External practitioners describe this as every conversation having an additional 
 >
 > *Yoko Mishiro*
 - [[Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages]]
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what a lean means and never sets; [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System]], for how a lineage's powers work; [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms|The Tongues of the Realms]], for how they sound.

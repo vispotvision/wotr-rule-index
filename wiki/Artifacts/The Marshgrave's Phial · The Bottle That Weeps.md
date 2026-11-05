@@ -26,7 +26,7 @@ Not a weapon; the armor-tier field the Item Guide requires for weapon entries do
 
 ### Codex line
 
-Wellspring: **Mortalis**, primary (Medium · Biochemistry). Secondary: **Verdantia**; tertiary **Anamnesis** (Medium · Entropy, Void and Mind) for the echo-reading effect. Category: **Drafts**, with the echo-reading effect touching Mnemata territory without a full second Category assignment. Glyphs: `Ci` (Order, corrected from the card's "Cycle"), attested; `Ie` (Insight), independently attested.
+Wellspring: **Mortalis**, primary (Medium · Biochemistry). Secondary: **Verdantia**; tertiary **Anamnesis** (Medium · Entropy, Void and Mind) for the echo-reading effect. Old register: **Drafts**, with the echo-reading effect touching Mnemata territory without a full second Category assignment. Glyphs: `Ci` (Order, corrected from the card's "Cycle"), attested; `Ie` (Insight), independently attested.
 
 ### Bond and cost
 

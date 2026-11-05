@@ -138,3 +138,7 @@ Across a campaign the figure is different and worse. Of a Legion that marches ou
 **Lattice Pilot establishment** · **Two hundred people, four quarters, no reserve, no school capable of replacing losses at campaign rate.** Raised in four consecutive assessments. **Funded in none.**
 
 **Vanguard withdrawal** · Enforcement may withdraw attached Orders without consulting the Legion commander they were attached to. **Three engagements in the last century turned on this.** No revision has been proposed by either Division.
+
+---
+
+**Read next:** [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem|The Practitioner Problem]], for what a practitioner does to all of this; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for the Fate user every side pins first.

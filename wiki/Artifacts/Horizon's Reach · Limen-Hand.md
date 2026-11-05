@@ -30,7 +30,7 @@ A forearm and hand prosthesis: plausible mass 2.4 kg (star-salt bronze runs ligh
 
 ### Codex line
 
-Wellspring: **Transference**, primary (Fate, Spatial Geometry), the Living Exchange, resonant energy transfer, carrying Aetherstep Reach, Horizon Draw, and Vector Anchor. Secondary: **Eclipseron** (Spirit, Spatial Geometry), the Shadowed Star, occultation and transit photometry, carrying the Orbitals. Category: **Vectra**, confirmed as the card gives it. Glyphs: `Wy` (Motion) as prime carrier, `Ur` (Balance) for orbit-keeping, `Ie` (Perception, corrected from the card's "Insight"), trace `Ma` (Memory) for trajectory recall. All four confirmed Root forms in the Master Glyph Index.
+Wellspring: **Transference**, primary (Fate, Spatial Geometry), the Living Exchange, resonant energy transfer, carrying Aetherstep Reach, Horizon Draw, and Vector Anchor. Secondary: **Eclipseron** (Spirit, Spatial Geometry), the Shadowed Star, occultation and transit photometry, carrying the Orbitals. Old register: **Vectra**, confirmed as the card gives it. Glyphs: `Wy` (Motion) as prime carrier, `Ur` (Balance) for orbit-keeping, `Ie` (Perception, corrected from the card's "Insight"), trace `Ma` (Memory) for trajectory recall. All four confirmed Root forms in the Master Glyph Index.
 
 ### Bond and cost
 

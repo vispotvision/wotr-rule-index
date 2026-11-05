@@ -150,3 +150,7 @@ Value, Coin and Trade
 ---
 
 **Read beside this.** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]] for what a material's Resonance and Kind mean, [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]] for the three layers a Draft feeds and a harness does or does not cover, and [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]] for what a bought [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stage]] does not buy.
+
+---
+
+**Read next:** [[The Magic System/Power in Use/The Working Trades|The Working Trades]], for the crafts these materials feed; [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], for what the Drafts are for.

@@ -26,7 +26,7 @@ The form below is what grew out of that funeral and a dozen like it. A called th
 | **Summon Tier** | I Ephemeral through V World-Tethered. Sets the Temperance Gate and the honest ceiling on duration |
 | **Crystal Provenance** | Donated · Analog · Native · Anchored. **This is the operative field.** Everything the thing can refuse, survive, or become follows from it |
 | **Soul Architecture** | The three layers as they exist in this construct: Essence Core, Aether Shell, Attraction Layer. **Record which are genuine and which are analog** |
-| **[[The Magic System/The Soul and the Climb/The Soul and the Climb\|Crystal]] Grade · State** | Developmental Tier reached, plus State: Fractured · Refined · Overgrown · Crystallized. Donated forms inherit the summoner's and carry none of their own |
+| **Crystal Grade · State** | Developmental Tier reached, plus State: Fractured · Refined · Overgrown · Crystallized. Donated forms inherit the summoner's and carry none of their own |
 | **Aether Class** | Ø through Ω. Its hold on the physical world, and how much of the donated Essence survives the crossing into form |
 | **Essence Class** | Ø through Ω. Its reach on souls and meanings: what it can read, carry and keep. Core work, Echo-keeping and anything a called thing does to the dead reads here |
 | **Thread Class** | Ø through Ω. How much of Fate it can pull down and hold. Most called things stand at Ø, and a bond to a route, an office or a promise shows here. The [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Three Ladders]] say what each rung means |

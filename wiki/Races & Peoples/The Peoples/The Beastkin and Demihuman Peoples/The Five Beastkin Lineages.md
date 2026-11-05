@@ -349,3 +349,7 @@ Second Eon, Dissolution Period. Formed near the Scorchline Wellsprings when memo
 | **Serpentkin** | **As Previously:** a coiled strike with the exact force that settled this same fight two hundred years ago, against someone who fought like you | Good coats over bare scale, a notary's seal, cold hands | "A Bearkin is the only person who is older than my grudge" |
 
 Each lineage also has a word for the aura coat (the visible coat of a fighter's own color), and the words start fights: Catkin call it *the lie*, since the skill is in not showing one; Lupine say *the pelt* and ask whose; Bearkin call it *the weather* and do not understand why you are worrying about yours.
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what the untrained lean means; [[The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge|The Trait System]], for how a lineage power is held.

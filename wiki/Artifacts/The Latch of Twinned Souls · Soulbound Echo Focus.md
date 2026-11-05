@@ -26,7 +26,7 @@ A silver ring, roughly 9 g, about 2 cm across the interlocked loops, worn consta
 
 ### Codex line
 
-Wellspring: **Anamnesis** (primary; the tether itself is an Attraction Layer bond, the same architecture that lets any Echo carry his Anamnesis read), **Fixatio** (secondary; the pre-anchoring of both loops). Kind: **Medium, Entropy, Void and Mind** (primary); **Medium, Material Science** (secondary). Category: **Animatria**; the Latch governs the identity-layer construct itself, the fielded Echo, more directly than it governs memory storage. Glyphs: `Wy`, Motion, confirmed attested (appears across multiple current character sheets as a legitimate Parun form); `Ma`, Memory, carried from the legacy card but **not verified** in the Master Glyph Index, the same open flag Karo's own sheet carries for this chain.
+Wellspring: **Anamnesis** (primary; the tether itself is an Attraction Layer bond, the same architecture that lets any Echo carry his Anamnesis read), **Fixatio** (secondary; the pre-anchoring of both loops). Kind: **Medium, Entropy, Void and Mind** (primary); **Medium, Material Science** (secondary). Old register: **Animatria**; the Latch governs the identity-layer construct itself, the fielded Echo, more directly than it governs memory storage. Glyphs: `Wy`, Motion, confirmed attested (appears across multiple current character sheets as a legitimate Parun form); `Ma`, Memory, carried from the legacy card but **not verified** in the Master Glyph Index, the same open flag Karo's own sheet carries for this chain.
 
 ### Bond and cost
 

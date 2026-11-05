@@ -115,3 +115,7 @@ It is fierce, relentless and highly territorial. **It hunts intruders without me
 > And **it is bound by infernal contracts, and breaking these can weaken or banish it outright.** *Which makes the Cerberus the only entry in the register with a legal counterplay.*
 
 *The Siege of the Black Maw details Concord forces struggling to breach Abyssal gates guarded by a Cerberus. Tales of hunters facing the Threefold Terror circulate among frontier camps, and every one of those hunters is somebody's cousin.*
+
+---
+
+**Read next:** [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons|The Fourteen Archons]] and [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans|The Fourteen Titans]], for what stands behind these; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the sites they guard.

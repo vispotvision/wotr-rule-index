@@ -3,7 +3,7 @@
 # Hisae Thornwall
 
 **Hisae Thornwall** · the Lady of Thornwall · House Thornwall of Thornhaven, a Banner House of the north; Byakuya-born · as of the ratification in the Hall of Verdicts, sworn for Thornhaven and the Thornwood and the corridors
-**Stat line** · Level 120 · Band II, Awakened · Stage V, Splintering · Path Fate 45% / Spirit 35% / Body 20% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Harmonic, Refined
+**Stat line** · Level 120 · Band II, Awakened · Stage V, Splintering · Path Fate V Mastered · Spirit IV Walked 35% · Body Studied 20% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Harmonic, Refined
 **Combat grammar** · Command; she does not fight, she sends twelve hundred pikes up a stair nobody knew was there
 **Aura and sound** · near-white with a deep red line under it, the Byakuya colors, banked so low for forty years that a Tenrai factor could sit across a table from her and never see them · sound: dry leaves moving on a forest floor
 **Traits** · THE RED BEFORE THE WHITE (Inherited) · tell: her lips moving over the oath, with the doors shut · counter: make the Kōkan the knife / SMILE AND PAY (Primary) · tell: the dry smile · counter: none the Tenrai found in forty years / THE BACK DOOR (Secondary) · tell: she looks at a map for the way nobody uses · counter: a man who already knows the corridors
@@ -41,7 +41,7 @@ Formed the night she married into the house, when her husband's grandfather told
 
 ## Signature
 
-**THE THORNWALL PIKE (House Art, Thornwall)** · mark: Mastered
+**THE THORNWALL PIKE (House Art, Thornwall)** · mark: Mastered · Source: Taught
 The Thornwall pikes come on at a walk, in step, to the slow beat of a drum, with the thorn-horn sounding behind them every hundred paces, and set a hedge of ash and iron that horse will not go into. She brought them down out of the north onto the Keld flank at the Skeldmere, and sent twelve hundred of them up the corridors thirty at a time to come over the Seat's east wall before the Tenrai knew there was a hole in it. It costs the house its pikemen and her nothing she would call a working; her Command keeps the step and her Forecast picks the ground. Its limit is the hedge: it holds ground and takes walls, and it is slow. Its counter is horse on open ground before the hedge is set.
 
 ## Voice

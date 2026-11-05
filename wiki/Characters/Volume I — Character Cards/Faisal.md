@@ -6,7 +6,7 @@
 # Faisal
 
 **Faisal** · the Grand Angel of Servitude · the Bound Flame · He Who Kneels at Creation's Edge · Celestial, the Midreach Choir, the Oath-Keepers · as of the Plane of Fate, the day he taught Muken the sixth Work and withheld the seventh
-**Stat line** · Level 396 · Band IV, Mythic · Stage XII, Emanation, the highest a Celestial can stand · Path Fate 65% / Spirit 25% / Body 10% · Grandmaster · η 0.85 · Class unnamed · Aether II · Essence II · Thread V · Crystal Sovereign, Strained under the Lawbell's weight
+**Stat line** · Level 396 · Band IV, Mythic · Stage XII, Emanation, the highest a Celestial can stand · Path Fate XII Mastered · Spirit Studied 25% · Body Studied 10% · Grandmaster · η 0.85 · Class unnamed · Aether II · Essence II · Thread V · Crystal Sovereign, Strained under the Lawbell's weight
 **Combat grammar** · Open hand; he catches, holds and presses, and he has never once closed a fist to strike first
 **Aura and sound** · Vow-Light, a warm heavy gold like late sun through honey, with a pale silver line under it where his wings meet his back · sound: a great bell heard from very far off, under water, and under that a held breath
 **Releases** · none; a Celestial's Crystal was anchored, not grown, and his Domain is the only thing in him that grew · bonded weapon: none; he carries no weapon and has not since the Bell cracked
@@ -53,7 +53,7 @@ The only Domain the Midreach Choir has ever grown, and the thing that made him a
 
 ## Signature
 
-**FAIETH · the Weight Kneeling · the Thousand Hands (Signature Technique)** · mark: Mastered
+**FAIETH · the Weight Kneeling · the Thousand Hands (Signature Technique)** · mark: Mastered · Source: Lived
 A Host-name, the kneeling and the weight; mortals who have seen it call it the Thousand Hands. Every oath he carries is a hand that was given, and he gives them back: the air around him fills with hands of solid gold Vow-Light, colossal, a man's height from wrist to fingertip, open-palmed and held out, hundreds of them at once, rushing out from him in a tide like a wave breaking sideways. They catch what falls and set it down. They take a blow on the palm and hold it there. Turned on an enemy, they come in from every side, open, and close, pressing the weight of every kept oath down onto one body from all directions at once until it cannot move, cannot breathe, and is held; the ground under the target cracks in a ring and the target goes to its knees, the way he has knelt for seven hundred years. Each hand carries what it catches into the ground the way his own knees do. It costs about two tenths of one per cent of his reserve per breath to keep them out, near 620,000 EU, and he has never used them to kill. Its limit is that the hands only hold, catch and press; there is no fist among them that strikes first. Its counter is the Choir's old wound: present him two oaths of equal weight that cannot both be kept, and every hand stops where it is.
 
 ![[Faisal — the Thousand Hands.jpg]]

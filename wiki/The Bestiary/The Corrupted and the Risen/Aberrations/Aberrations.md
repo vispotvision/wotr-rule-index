@@ -247,3 +247,7 @@ Relentless, **driven by endless hunger and madness.** They hunt anything that mo
 > **Northern tribes conduct rites to protect against their hunger, and to honor the spirits of those lost to the curse.**
 
 - [[The Bestiary/The Corrupted and the Risen/Aberrations/Lich]]
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Wellsprings these went wrong on; [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current]], for what the same ground does to a person; [[The Bestiary/The Bestiary|The Bestiary]], for the rest of the register.

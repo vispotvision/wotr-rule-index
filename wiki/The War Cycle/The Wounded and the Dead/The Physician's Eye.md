@@ -115,3 +115,7 @@ The sorting is **by salvageability rather than by severity**, and it produces fo
 **The quiet** · Whether the surgeon's flattening and the Distillation specialist's flattening are one condition. **Asked twice. Not answered.**
 
 **The fourth category** · No manual names it. Four surgeons have proposed naming it. **The Division's position is that naming it would not change what is done about it, which is correct.**
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Physical Account Two Sets of Books|The Physical Account]], for why the blood is only the report; [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], for reserve tells.

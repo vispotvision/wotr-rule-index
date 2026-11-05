@@ -144,15 +144,3 @@ So the same physical act carries three meanings at once and the actors are usual
 - **The Sohai** weighs to acknowledge Balance, expects no answer, and considers the other two to have confused a Labor with a transaction.
 - **Kharven** weighs the ration and inspects the scale in public at Ice-out, and would tell you it is doing none of the above and is simply making sure nobody starves.
 A scene in which a man weighs something in front of another man is never only about the weight.
-
-## X. Hooks
-
-**The dull note.** A searcher taps a weight in a market where he is outnumbered, and it does not ring.
-
-**The filed strike.** Every weight in a district carries a six-pointed mark filed halfway out. The district has been trading on struck weights for nine years. Somebody has just been sent to inspect it.
-
-**Falling density, same bill.** A quarter is billed for draughts it did not receive, because the keeper's book counts bore and hours. The arithmetic is correct. The Guild's position is that the arithmetic is correct.
-
-**Western grain.** A northern clerk can demonstrate that the Accord's grain is a Western seed and that every weight in the four quarters is therefore calibrated to one soil. He is right. He has no forum, and the demonstration takes two days and a set of scales nobody will lend him.
-
-**The strike-board.** A slow roller is hired for a season's buying. The difference across the harvest is a fortune. It is not illegal and cannot be made illegal without describing a hand movement in a statute.

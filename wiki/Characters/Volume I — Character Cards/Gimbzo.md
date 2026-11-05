@@ -3,7 +3,7 @@
 # Gimbzo Kōkan Moto
 
 **Gimbzo Kōkan Moto** · the Kōkan King · Kōkan, the red line of the Moto · as of the morning of Shimane, the last field of the forty-year war, the hour before he went into the mud
-**Stat line** · Level 296 · Band III, Sovereign · Stage X, Realization · Path Body 65% / Fate 35% · Master · η 0.70 · Class unnamed · Aether IV · Essence Ø · Thread III · Crystal Sovereign, Fractured
+**Stat line** · Level 296 · Band III, Sovereign · Stage X, Realization · Path Body X Mastered · Fate IX Walked 35% · Master · η 0.70 · Class unnamed · Aether IV · Essence Ø · Thread III · Crystal Sovereign, Fractured
 **Combat grammar** · Percussion
 **Aura and sound** · black, like his coat, with ember-red running through it the way fire runs under a burned field; at full push the black splits and the red comes up through every crack · sound: a forest fire, the roar and the crack of green wood going
 **Stack** · sustainable S in Penetration and Pressure, A across the body · cap +2 Grades · layers: ENJŌ, NOBI, the vow of the black, and whatever the Tenrai put in his ear that night
@@ -36,7 +36,7 @@
 **Level** · 296
 **Band** · III, Ascendant
 **Temperance Stage** · X, Realization
-**Path** · Body 65%, Mastered; Fate 35%, Walked. Body for the blow, with a heat in it that no Kōkan before him had carried; Fate for the oaths of the lines and the levies, which bound to him by fear more than faith, and for the Domain
+**Path** · Body X Mastered · Fate IX Walked 35%. Body for the blow, with a heat in it that no Kōkan before him had carried; Fate for the oaths of the lines and the levies, which bound to him by fear more than faith, and for the Domain
 **Tier of Standing** · 6, Master
 **η** · 0.70, the floor of the Master band; he never once in forty years spent quietly
 **Soul Crystal Tier** · Sovereign
@@ -44,6 +44,7 @@
 **Aether Class** · IV, Luminous; his Aether answered his moral alignment with unnerving precision, and his moral alignment was a burning field
 **Essence Class** · Ø, Silent
 **Thread Class** · III, Spinner
+**Fate Art** · Hametsu no Gō, the Work of Ruins, the Obsession face · grip: Kōkan blood and forty years at the war's head · Thread III
 
 ## III. Wellspring Harmonizations
 
@@ -115,13 +116,13 @@ A field set alight runs ahead of the wind, and nothing standing in it is spared 
 
 ## X. Techniques
 
-**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Mastered
+**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Mastered · Source: Inherited
 The Moto sight: where everything is carrying its weight. His was the Kōkan Shingan with the gold in it, wide and loud and always aimed outward. It cost him little until the last years, when THE GOLD AT THE EDGES held it open. It could not see intent, and it could not see itself.
 
-**HAMETSU NO GŌ · the Work of Ruins, the Obsession face (Bloodline Art, Hataraki)** · mark: Mastered
+**HAMETSU NO GŌ · the Work of Ruins, the Obsession face (Bloodline Art, Hataraki)** · mark: Mastered · Source: Inherited
 The Kōkan had Hataraki from the Head of Fate; Gimbzo had the Work of Ruins and nothing that tempered it. The Attraction face ends only what is already dead; the Obsession face ends what was rotten and then what was near the rot, and it does not stop. That was the face he worked in. He struck a fault with the full weight of AS HARD AS HE COULD and the ending ran on past it into whatever stood beside: a gate and the gatehouse, a wall and the street under it, a granary at Hiroe with the children still inside. It cost him about two per cent of his reserve a strike, near 330,000 EU, and the cost to the field was without limit. Its counter is to stand where nothing is rotten, or to have someone close the edges faster than it can run; its tell is the ground cracking around what he aimed at, not only under it.
 
-**TETSUTSUI · the Iron Hammer (Signature Technique)** · mark: Mastered
+**TETSUTSUI · the Iron Hammer (Signature Technique)** · mark: Mastered · Source: Lived
 The whole body set, every joint locked down from the heels to the striking hand, and Coagulatio drawing the force of the set into one instant at one point, which hit like a ram in a gate. A single TETSUTSUI cost him about five per cent of his reserve, some 816,000 EU, delivering S-Grade force, and he could throw one every turn until the reserve gave out. The set took a breath, and in that breath he was planted and could not turn; a fighter who read him, and anyone could, was out of the line before it landed. Before, read him; during, give way, roll, or carry it through you into the ground; after, there is a breath when everything he had is spent forward and nothing is left behind it.
 
 **Vows** · The black: not to wear the red line's color until he had made it worth wearing again, sworn after the Recension, kept to his death

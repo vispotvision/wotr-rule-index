@@ -268,7 +268,7 @@ The parasitic inversion. Where Attraction recognizes, Obsession imprisons. Where
 
 *"Twenty-six categories, one underlying grammar."*
 
-The stat system is the structural skeleton beneath every magic system in WOTR. When a character casts a Sage Art, activates a Spirit Summon, inscribes a Parunic Draft or expresses a Hataraki Work, the mechanical interaction passes through the stat framework. The stats are the physical, spiritual and metaphysical architecture that determines whether a technique succeeds, fails, or destroys the caster.
+The stat system is the structural skeleton beneath every magic system in the four quarters. When a character casts a Sage Art, activates a Spirit Summon, inscribes a Parunic Draft or expresses a Hataraki Work, the mechanical interaction passes through the stat framework. The stats are the physical, spiritual and metaphysical architecture that determines whether a technique succeeds, fails, or destroys the caster.
 
 ### Sage Arts
 

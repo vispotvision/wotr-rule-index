@@ -166,3 +166,7 @@ A body nobody claims inside the window passes to whoever holds it lawfully: an a
 **Institutional surplus in the release line** · Not itemized anywhere. **The Logistics Division has declined to require itemization on the stated ground that the sums are immaterial. The sums have never been aggregated.**
 
 **A rite for battles** · None exists in any tradition. Four have been attempted by the Legion. **The current field liturgy is two pages and was written by a quartermaster, and the Division has recorded that it is inadequate in every review since its adoption.**
+
+---
+
+**Read next:** [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]], for what the rites are managing; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for where the residue goes.

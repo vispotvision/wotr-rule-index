@@ -26,7 +26,7 @@ A bound leather tome, roughly 1.1 kg closed, 24 by 17 cm. Balance sits on the sp
 
 ### Codex line
 
-Wellspring: **Anamnesis** (primary; the entire tool is an external Anamnesis instrument). Kind: **Medium, Entropy, Void and Mind.** Physics Domain: **Abstract/Entropic**, matching Karo's own Codex line. Category: **Mnemata** (Memory Sigils, Echo Archives; this is a written example of exactly that category). Glyphs: `Ma`, Memory, carried from the legacy card but **not verified** in the Master Glyph Index, per Karo's own open ruling on the same chain; `Ie`, Insight, **no match found anywhere in the 136-form Index**, flagged as an unattested legacy gloss rather than a confirmed Parun form.
+Wellspring: **Anamnesis** (primary; the entire tool is an external Anamnesis instrument). Kind: **Medium.**, matching Karo's own Codex line. Old register: **Mnemata** (Memory Sigils, Echo Archives; this is a written example of exactly that category). Glyphs: `Ma`, Memory, carried from the legacy card but **not verified** in the Master Glyph Index, per Karo's own open ruling on the same chain; `Ie`, Insight, **no match found anywhere in the 136-form Index**, flagged as an unattested legacy gloss rather than a confirmed Parun form.
 
 ### Bond and cost
 

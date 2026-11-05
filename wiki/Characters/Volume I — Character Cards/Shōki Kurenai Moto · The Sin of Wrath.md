@@ -1,7 +1,7 @@
 ![[Shōki Kurenai Moto — portrait.jpg]]
 
 **Shōki Kurenai Moto** · The Sin of Wrath · Moto, Kurenai line · as of the present reckoning, three centuries after the Hall
-**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body 70% / Fate 30% · Grandmaster · η 0.71 · Class unnamed · Aether V, Rot-Born · Essence Ø · Thread IV · Crystal Sovereign, Overgrown over an open fracture
+**Stat line** · Level 398 · Band IV, Mythic · Stage XI, Dissonance, trapped two Levels under the gate · Path Body XI Mastered · Fate X Walked 30% · Grandmaster · η 0.71 · Class unnamed · Aether V, Rot-Born · Essence Ø · Thread IV · Crystal Sovereign, Overgrown over an open fracture
 **Combat grammar** · Percussion
 **Aura and sound** · Tarturon's hot amber-red at Dissonance clarity, running to ember-orange where Exuroth has tempered it, brilliant and grained like a filament overdriven, rimmed black-violet where Vantabriel keeps what it takes; sound: a blast-furnace roar under a ringing of iron
 **Stack** · sustainable SS · cap +2 Grades · layers: SHAKUNETSU always standing; ABI or ENMA-CHŌ when called; the grudge bank
@@ -35,7 +35,7 @@
 **Level** · 398
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance. Trapped in it: he entered at the block and never passed through
-**Path** · Body 70%, Mastered; Fate 30%, Walked. No Spirit, and none of the far end of Fate; the gates hold Alacrity, Clarity, Ward and Retention low, and Sovereignty under A
+**Path** · Body XI Mastered · Fate X Walked 30%. No Spirit, and none of the far end of Fate; the gates hold Alacrity, Clarity, Ward and Retention low, and Sovereignty under A
 **Tier of Standing** · 7, Grandmaster, on any Accord ledger that would still examine him
 **η** · 0.71. Below the Grandmaster band and standing as recorded. Twenty-nine parts in every hundred leave him as heat
 **Soul Crystal Tier** · Sovereign
@@ -43,6 +43,7 @@
 **Aether Class** · V, Radiant; of the Rot-Born variant: a corrupted Shell that amplifies and corrodes with every working
 **Essence Class** · Ø, Silent
 **Thread Class** · IV, Knotwright
+**Fate Art** · Hametsu no Gō, the Work of Ruins, alone since the block · grip: Kurenai blood and three centuries · Thread IV
 **Attraction / Obsession** · Obsession Force at full purchase. The gap the Unburied fills is the whole of him
 
 ## III. Wellspring Harmonizations
@@ -120,13 +121,13 @@ The deepest of the hells is the one without a pause, and his Domain is a closed 
 
 ## X. Techniques
 
-**GŌKA · Karmic Fire (Signature Technique)** · mark: Mastered · page: GŌKA
+**GŌKA · Karmic Fire (Signature Technique)** · mark: Mastered · Source: Lived · page: GŌKA
 He breathes in like a bellows, the Covenant Scar on his chest flares black-violet, the Hall Irons go white, and he puts a fist on the target; on contact Tarturon seeds a reaction in the struck body or kit that carries its own oxidiser, so it burns at thermite heat, two and a half thousand degrees, without air, under water, under sand, and cannot be smothered, since water only turns to steam and burst. The base cost is 12% of his reserve, 39,678,683 EU, which delivers 28.2 TJ, SS-Grade, about six and a half kilotons; against a target with a long record read by TSUMI-YOMI he may pour that target's whole ONNEN account into the same blow, and with a full bank it reaches 122,342,605 EU spent and 86.9 TJ delivered, SS, near twenty-one kilotons, as high as his Stage lets any working of his climb. Against a soul with no killing in it, it runs at base and nothing more. The cost past the EU is the rage itself: the bank spent is gone, and for one turn after he is cooler and slower than he can stand. It needs contact; the fire is placed, never thrown. Before: the breath and the scar flare are a full beat of tell, and stepping out of reach or interposing anything he will hit first spends the working on the wrong thing. During: the reaction lives in what was struck, so shedding the struck pauldron or cutting out the burning flesh ends it, ugly as that is. After: the cool turn that follows is the window, and every crew that has ever hurt him took it there.
 
-**YAKI-IRE · Quench (Signature Technique)** · mark: Drilled · page: YAKI-IRE
+**YAKI-IRE · Quench (Signature Technique)** · mark: Drilled · Source: Lived · page: YAKI-IRE
 The swordsmith's word for the moment the blade goes into the water. His first touch drives heat into one spot of steel, iron, stone or bone until steel glows cherry-red above its change point; his second touch on the same spot pulls the heat back out through his palm in an instant, ENSHŌ swallowing it, so steel freezes into brittle martensite and stone and bone crack from thermal shock, and the third blow shatters what the first two prepared. Each cycle costs 1.5% of his reserve, 4,959,835 EU, 3.52 TJ, A-Grade, and refunds a little heat to the bank. It does nothing to wood, leather, cloth, soft flesh or ductile metal: copper comes out of a quench softer, not harder, which the Akagane copper line has known for a thousand years. The tell is a cherry-red handprint that goes black with a hiss on the second touch. Never let him touch the same place twice; temper the struck piece by heating it gently before the second touch, which restores its toughness; or fight him in copper, bronze and leather.
 
-**SENTENCE OF SEVERANCE (House Art, Moto)** · mark: Mastered · page: The Moto Bloodline
+**SENTENCE OF SEVERANCE (House Art, Moto)** · mark: Mastered · Source: Taught · page: The Moto Bloodline
 The house's concluding principle, the strike that falls under the weight of a judgment already made. Every Moto uses it on a target already revealed; he uses it on everyone, because TSUMI-YOMI has already judged them. The stare is its tell, and a target his reading cannot see gives it nothing to fall under.
 
 **Vows** · none. He will not swear again, and Oath 5 could not hold one

@@ -219,8 +219,4 @@ Every character is a vertical stem with cuts to one or both sides. Consonants ar
 
 **Goblinoid speakers of Common** drop articles, since Vaross has none, and reach for compounds where Common wants an adjective, producing the flat noun-stacked speech Concord readers mistake for stupidity and that is in fact a speaker refusing to let a quality float free of the thing it describes.
 
-## Provenance
-
-Roots attested in *The Hobgoblin Expanse*: *grr-*, *vashuum*, *vorruk*, *khal*, *gorr*, *keth*, *vesh*, *undaar*, *vaross*, *dokk*, *vraal*, *thaal*, *thunn*, *gorrum*, and the compounds Grr-Vashuum, Vorruk-Khal, Dokk-Vraal, Keth-Gorrum, Gorr-Keth, Gorr-Veshaal, Vesh-Undaal, Gorr-Vaross, Thaal-Gorr, Kethaal, Undaar-Keth. The emphasis-by-vowel-length rule derives from the two attested pronunciations of Grr-Vashuum.
-
 **A note on Undaar-Keth and Undaar-Gorr.** Under the compounding rule the second element governs, so *Undaar-Keth* is a seal of the standing kind and *Undaar-Gorr* is a mantle-weight of the standing kind. They are two different places, or one place renamed by somebody making a claim, and never spelling variants of one name.

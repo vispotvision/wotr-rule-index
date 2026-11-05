@@ -28,7 +28,7 @@ A tome: plausible mass 4.1 kg fully clasped (the ink-flesh binding runs heavier 
 
 ### Codex line
 
-Wellspring: **Vantabriel**, primary (Wild, Abstract-Entropic), the Wellspring of Night, near-total absorption and hysteresis. Secondary: **Anamnesis** (Medium, Abstract-Entropic), the Wellspring of Remembrance, carries the Index of Unborn Names. Category: **Mnemata** primary, **Animatria** secondary. Glyphs: `Ma` (Memory), `Ie` (Perception, corrected from the card's gloss "Insight"), `Uur` (Disruption), `Wy` (Motion), all four confirmed Root forms in the Master Glyph Index.
+Wellspring: **Vantabriel**, primary (Wild, Abstract-Entropic), the Wellspring of Night, near-total absorption and hysteresis. Secondary: **Anamnesis** (Medium, Abstract-Entropic), the Wellspring of Remembrance, carries the Index of Unborn Names. Old register: **Mnemata** primary, **Animatria** secondary. Glyphs: `Ma` (Memory), `Ie` (Perception, corrected from the card's gloss "Insight"), `Uur` (Disruption), `Wy` (Motion), all four confirmed Root forms in the Master Glyph Index.
 
 ### Bond and cost
 

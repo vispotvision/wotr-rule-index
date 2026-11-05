@@ -110,26 +110,6 @@ An army sitting outside a wall eats every day and produces nothing. Its costs ar
 
 **So the defender has a lever nobody uses in fiction.** A besieging army four turns in arrears is an army whose commander needs a settlement more than the defender does. The Seat that knows how far behind the enemy's pay is knows more than the Seat that knows where his engines are.
 
-## V. Running It At The Table
+---
 
-**Do not compute a budget.** Track three things and let them tell you what happens.
-1. **Turns of pay in hand**, both sides. This is the clock.
-1. **Whether small coin exists.** Silver in the chest is not pay.
-1. **Whether the Seat has signed anything.**
-**Every fiscal decision is a scene.** The levy is a purveyor at a door. The forced loan is one room and eleven households. Debasement is an assay house finding the fineness and deciding what to do. Accord credit is a factor's clerk, polite, patient, with the instrument already drawn, waiting.
-
-**And the Front advances on money.** When you advance the Kharven Front, ask what was paid for and who has not been paid, before asking who moved.
-
-## VI. Hooks
-
-**The captain who has been paying his own company.** Six weeks. He has told nobody. He is about to run out, and the first person to find out will be a sutler.
-
-**The copper famine.** The Seat has silver and cannot pay. Somebody proposes melting the temple fittings, which are bronze, which is worth nothing, and the proposal reveals that the man making it does not understand money and is nonetheless in the room.
-
-**The mint rolls.** The mintage fees say aggressive. An assay house has the figures. Posting them on a door is treason and keeping quiet is complicity, and the assayer has a family in the city.
-
-**The presentation.** Fifth turn. The formation is in the yard, correct, silent, waiting. Nobody has drawn anything. The scene is entirely about who speaks first.
-
-**The instrument on the table.** The factor's clerk has waited three days and is in no hurry. The security named is the Wellspring beneath the Kharven-Seat itself. Everyone in the room understands that signing ends something and that not signing ends something else.
-
-**The exemption.** A household bought its way out of the levy. The household beside it did not, gave up its stack, and is now the household with the low stack, and the greeting has already changed.
+**Read next:** [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]], for the prices; [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for the cores and bought Stages that are war materiel.

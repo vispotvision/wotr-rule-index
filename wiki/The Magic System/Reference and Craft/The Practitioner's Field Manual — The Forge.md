@@ -163,7 +163,7 @@ A called Release or Domain fills the window with its name and what changed, and 
 | **Resource depletion** | **The weakest category available.** *Only a real cost if scarcity bites outside a fight* |
 | **Corruption** | **The usual default for anything Wellspring-adjacent, which is precisely why it should not be the default here** |
 | **Sanity** | A large lever. **Sparingly** |
-| **Memory** | Trading recall for capability. **Underused across the whole cast, and it fits the Anima Spirare register exactly** |
+| **Memory** | Trading recall for capability. **Underused across the whole trade, and it fits the Anima Spirare register exactly** |
 | **Time** | Cast duration, cooldown, or lifespan spent |
 | **Social and legal** | A hall that will not sign with you, Concord Seal, exile. ***Every guild on the Accord can refuse your coin and your contract, and that is doing almost no work*** |
 | **Escalating dependency** | The addiction structure. **The best long-arc dread engine available**, *because the reader can see the bill coming and cannot stop it* |
@@ -236,10 +236,10 @@ The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Att
 
 **Martin has an economy of denial where other books have a system.** Rare, foreign, unreliable, morally contaminating. **Its price is paid in blood and in life, directly, with no reserve to spend first.** *The maesters have an institutional interest in insisting the subject is superstition, which is itself a plot engine, because they are wrong and they are also not entirely wrong.*
 
-**Clarke gives the sharpest structural gift, and WOTR is already most of the way to it.** A scholarly tradition with a bibliography, a lost golden age, live controversies, and **a hard social distinction between the theoretical magician who reads and would never dream of performing, and the practical magician who performs and is therefore vulgar.**
+**Clarke gives the sharpest structural gift, and the trade is already most of the way to it.** A scholarly tradition with a bibliography, a lost golden age, live controversies, and **a hard social distinction between the theoretical magician who reads and would never dream of performing, and the practical magician who performs and is therefore vulgar.**
 > ***The academies and research halls under the Guild Accord are four-fifths of the way to being that institution and do not yet know it.***
 >
-> **And the deepest one: WOTR's own glyph system is already Western Renaissance occultism.**
+> **And the deepest one: the trade's own glyph system is already Western Renaissance occultism.**
 >
 > The Parun (the language of law every working is written in) lattice is **Agrippa's kamea method out of the Three Books, II.22, unaltered.** *That is the operative tradition of European ceremonial magic, lifted whole.*
 >
@@ -258,7 +258,7 @@ The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Att
 >
 > *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burned workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
 >
-> ***Nobody needs to import the Western frame into WOTR. It only needs digging out.***
+> ***Nobody needs to import the Western frame into the trade. It only needs digging out.***
 
 ### The Five Levers
 
@@ -307,7 +307,7 @@ The five-step pipeline (Intent, Pattern, Essence Donation, Aether Formation, Att
 | **III · The singing** | **It stands on its own terms**, the medium-home of Harmonia, and answers to no guild |
 | **IV · Whose trade is best** | **A feud, and the feud varies by culture, downstream of material conditions rather than taste.** The Concord baseline ranks cutting first. **The Marrowkin rank it first and hardest**, since a hold is a permanent substrate and everything they own is inscribed. **Kharven ranks pouring first**: nothing in a camp that moves is permanent, a Draft travels in a belt, and the standing runework in the death-houses is imported work that no living Kharven hand can read, *a fact the seat does not raise and the Accord does not stop mentioning.* The speaking ranks highest in Kharven of anywhere in the Concord's reach, because a soldier is not embarrassed by an art that works now |
 | **V · The lost golden age** | **The Accord is mistaken, and has become invested in the mistake**, which produces a worse institution than lying would. The recovery program is real, funded, sincere and structurally incapable of succeeding, because what was lost was a substrate condition that no longer obtains, and no quantity of technique gets it back. Four generations of honest men have failed at it and each has been promoted for the attempt. *Somebody in the research halls has worked this out. They have not published* |
-| **VI · Scope of the doublet** | **The wider scope.** Every trade term in WOTR carries an Accord register name and a common-tongue name, and which one a character reaches for places them before they finish the sentence |
+| **VI · Scope of the doublet** | **The wider scope.** Every trade term in the four quarters carries an Accord register name and a common-tongue name, and which one a character reaches for places them before they finish the sentence |
 | **VII · Standing Inventory** | **Entered for Kharven.** Household object: **the doorframe**, and whether it has been cut. Oath: *by the hand that cut it.* Proverb, fixed wording: **"A cut wall keeps a promise longer than the man who made it."** Contempt terms carry over intact, a mouth, a cutter, a potboy, and *potboy* is the one that starts fights, because Kharven pours |
 
 ---

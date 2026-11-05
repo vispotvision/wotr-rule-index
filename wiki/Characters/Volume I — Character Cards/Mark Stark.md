@@ -3,7 +3,7 @@
 # Mark Stark
 
 **Mark Stark** · the Boy Who Kept Hold · Kharven, House Stark of Hollenmark · as of the Tenrai keep at Kharven-Seat, the night he sat beside his brother's body under a Stark cloak
-**Stat line** · Level 55 · Band I, Mortal Foundation · Stage II, Welling · Path Body 70% / Fate 30% · Apprentice · η 0.35 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
+**Stat line** · Level 55 · Band I, Mortal Foundation · Stage II, Welling · Path Body II Mastered · Fate I Walked 30% · Apprentice · η 0.35 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade and shield; the short sword and the round limewood shield on the road, his brother's long northern sword since the Seat
 **Aura and sound** · the Stark cold, thin and bright, a pale gray with a coppery shimmer at its edge like frost on a rust-red leaf · sound: a man talking under his breath, steady and fast, and then stopping
 **Traits** · STARK RIME (Inherited) · tell: frost on the fur at his collar · counter: heat / KEPT HOLD (Primary) · tell: his knuckles white on the hilt · counter: take the hand, not the sword / THE MUTTER (Secondary) · tell: a steady stream of words under his breath · counter: make him stop talking
@@ -41,7 +41,7 @@ He talks when he is frightened, a steady stream of it under his breath, and the 
 
 ## Signature
 
-**THE PIN (Signature Technique)** · mark: Drilled
+**THE PIN (Signature Technique)** · mark: Drilled · Source: Lived
 Down on his knees inside the reach of whatever is on him, the blade driven up behind the foreleg or under the arm to the hilt, and then he holds it there, sobbing if he has to, while it dies. It costs about five per cent of his reserve to set the rime through the arm and hold, near 670 EU. Its limit is that he has to be under the thing to do it, and being under the thing is how he got his arm torn open. Its counter is not to let him get underneath you.
 
 ## Voice

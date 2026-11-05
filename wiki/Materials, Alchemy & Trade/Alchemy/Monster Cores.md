@@ -239,3 +239,7 @@ Everything arrives at once: every band the beast laid down in its life, all the 
 | **The lineage halls** | *Yāodān* (妖丹), the demon's pill | A family asset, and the great ones are named in the family register alongside the children |
 | **The Marrowkin** | A cut | They live inside a dead thing and sell pieces of it. They have no notion what the fuss is about |
 | **Faiths** | The beast's confession, the sin in the stone | It should be burned, and it has been noted that most of the bishops are in very good health |
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]], for what the stone becomes; [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], for what it does to a soul; [[The Bestiary/The Bestiary|The Bestiary]], for what it came out of.

@@ -11,3 +11,7 @@ At any autumn fair you can buy griffon feathers by the dozen, dragons' teeth by 
 - [[The Bestiary/The Wild/Natural Beasts/Natural Beasts|Natural Beasts]]: Eight entries · creatures that were born rather than made, however large they got
 - [[The Bestiary/The Wild/Spirit Beasts|Spirit Beasts]]: Eleven entries · creatures formed from Wellspring resonance rather than born of flesh
 - [[The Bestiary/The Wild/The Draconic Lineage|The Draconic Lineage]]: Four entries · the sky-serpent path, and the two branches that left it
+
+---
+
+**Read next:** [[The Bestiary/The Bestiary|The Bestiary]], for how the register reads; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Affinity each entry names; [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for what the stone is worth.

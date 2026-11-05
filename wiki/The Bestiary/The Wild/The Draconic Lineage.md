@@ -117,3 +117,7 @@ Highly predatory and elusive. **They hunt from shadow and strike in unpredictabl
 > Outer World records detail hunters **who tracked a solitary Voidwyrm for months before their minds fractured.**
 >
 > *Some sects worship them as agents of inevitable entropy. Others seek to banish them forever.*
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for what fractured them; [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for why anyone goes near one; [[The Bestiary/The Bestiary|The Bestiary]], for the rest of the register.

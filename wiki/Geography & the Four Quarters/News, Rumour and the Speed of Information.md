@@ -128,29 +128,3 @@ Use this to answer, on the spot, when a Front's news reaches a given place.
 | A minstrel's song | Walking pace; a season across a quarter | Names, numbers and winners, and it lasts longest |
 | A bounty bill | As the bag, then by every hunter who wants the competition behind him | Correct when posted, and still up after it stops being true |
 | A bookies' board | Within the hour where the line runs | The direction is usually right and the reason is never given |
-
-**Three standing rules for the table.**
-
-**One.** Ask whether the destination is on the line *before* asking how far it is. On the few roads with a line, distance is secondary now, and that is the age's whole quarrel. Everywhere else it is everything it ever was.
-
-**Two.** When a Front advances, decide the true version once, then decide separately what the line carried, what the herald cried, what the song says and what the tap-room says. They will differ, and a character's decisions should be made on whichever one reached him.
-
-**Three.** The Guild reads everything. Anything a person genuinely needs kept is sent by hand, which costs days, and the choice between speed and secrecy is one of the few clean decisions the age offers.
-
-## V. Hooks Sitting Here Unused
-
-**The deaf district.** A quarter's ground thins, or its tower wardens walk. The line goes with it. Nobody in the capital notices for eleven days because the absence of news reads as the absence of events.
-
-**The nine-word ambiguity.** A message arrives correct in every word and wrong in its meaning, because the stop was omitted to save a charge. Somebody acts on it. The pursuivant, the clerk and the copyist are all blameless and the man is still dead.
-
-**The boy who reads faces.** A beacon boy is the only person in a street who knows which houses have had bad news this week, and somebody has worked out that this is worth money.
-
-**Two hours in one ledger.** A hold clerk keeps Guild hour and hold hour in parallel columns, and a Tally entry falls on different sides of a boundary depending on the column, and a Cask-Oath's term turns on which one governs.
-
-**The herald's deposit.** A story the Guild dislikes is never refused. It is simply capped shorter this week, and the house that could have cried it in full cannot afford a second pursuivant.
-
-**The bill still on the door.** A bounty posted by a lord nine years dead is still paying out, in the sense that people keep trying to collect it, and the man it names has just come home.
-
-**The price that moved.** The odds on a siege shift hard at noon with no news in town. Somebody knows something, the bookie will not say who, and half the street is already selling up.
-
-**The song that will not die.** A minstrel's mistake has made a respectable family into murderers, in four hundred taverns, and the only person who can sing it right is the one who was paid to sing it wrong.

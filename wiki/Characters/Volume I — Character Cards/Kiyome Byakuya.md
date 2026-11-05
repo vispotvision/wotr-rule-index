@@ -3,7 +3,7 @@
 # Kiyome Byakuya
 
 **Kiyome Byakuya** · the White Line · the Owl · Byakuya, the near-white line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing beside the white chair and not sitting
-**Stat line** · Level 370 · Band IV, Mythic · Stage XI, Dissonance · Path Fate 50% / Spirit 30% / Body 20% · Grandmaster · η 0.92 · Class unnamed · Aether II · Essence III · Thread IV · Crystal Sovereign, Refined over a Dissonance fracture she keeps closed
+**Stat line** · Level 370 · Band IV, Mythic · Stage XI, Dissonance · Path Fate XI Mastered · Spirit X Walked 30% · Body Studied 20% · Grandmaster · η 0.92 · Class unnamed · Aether II · Essence III · Thread II · Crystal Sovereign, Refined over a Dissonance fracture she keeps closed
 **Shown** · Level 160 · Band II · Stage VI, Glory · Aether Class I, Muridic: what every Measurewright, Hall assessor and fate-reader has entered for her since she was fourteen, because GLASS shows only what she lets it
 **Combat grammar** · Blade, the Byakuya guard's school: the draw is the whole fight; she has not drawn on any field anyone lived to describe
 **Aura and sound** · near-white, clear as fresh glass, with a cold rainbow breaking at its edges the way light breaks in a hung bead; at full push the glass goes to a prism and the whole field rings pale gold, the line Muken hears as hers · sound: glass beads clicking, like rain starting on a slate roof; at full push, a struck crystal bowl held on one high note
@@ -38,14 +38,14 @@
 **Level** · 370
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance. She is in it, not trapped in it; the fracture is the four lines in her sister's hand, and she has held it closed for sixteen years the way she held the knot
-**Path** · Fate 50%, Mastered; Spirit 30%, Walked; Body 20%, Studied. Fate carries the oath and the knot; Spirit carries the reading of a room and the lamp; Body is the draw, one movement trained ten thousand times behind a closed door
+**Path** · Fate XI Mastered · Spirit X Walked 30% · Body Studied 20%. Fate carries the oath and the knot; Spirit carries the reading of a room and the lamp; Body is the draw, one movement trained ten thousand times behind a closed door
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.92
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined; it has broken and mended so often it has learned how, and at Dissonance that is the only reason it holds
 **Aether Class** · II, Harmonic; the lucid Shell, thin and clean as the glass it looks like, so that light and thought draw close and Luminalis answers almost before she asks. Every assessor has entered it as I, Muridic, newly emerged, because GLASS returns a Shell's reading as level as everything else. When she is struck the beads at her temples move before she does
 **Essence Class** · III, Confessor
-**Thread Class** · IV, Knotwright
+**Thread Class** · II, Drawn; Byakuya blood and the oath kept since she was nine, which is as far as keeping an oath goes
 
 ### The Veil
 
@@ -120,16 +120,16 @@ The Second Release opens it in one breath, out to about a hundred and fifty mete
 
 ## X. Techniques
 
-**HAKKŌ · White Light (Signature Technique)** · mark: Mastered
+**HAKKŌ · White Light (Signature Technique)** · mark: Mastered · Source: Taught
 The Byakuya draw. Her left thumb cuts the koiguchi, and Judicium lays a channel of ionized air from the scabbard mouth to the place the cut will end, the way the faint stepped leader of a lightning stroke feels its way down to the ground before the bolt; for that breath a hair-fine violet line hangs in the air, and anyone with the eye can see exactly where she is going to cut. Then the blade comes out along it at the speed of the return stroke, and the cut is over before the sound of the draw arrives, and the thunder comes after, because the air along the line has been heated faster than it can get out of the way. It costs about four per cent of her reserve, near 5,790,000 EU, which delivers 5.33 TJ, S-Grade, about a kiloton and a quarter along a line a few inches wide. Its limit is the channel: the leader must have a path, and wet ground, rain, a grounded conductor or a body of water near the line pulls the channel off true before the blade can follow it, and a cut that loses its channel arrives at the speed of a very fast woman, which is still very fast. Before, the violet line is a full breath of tell; during, a grounded piece of iron thrust across the line takes the stroke; after, the thunder is loud enough to stun anyone near it who did not see it coming, her allies included.
 
-**KAGAMI-WARI · the Mirror Split (Bloodline Art, Byakuya)** · mark: Mastered
+**KAGAMI-WARI · the Mirror Split (Bloodline Art, Byakuya)** · mark: Mastered · Source: Inherited
 The Byakuya Meigan sees hidden seams and the clean structural breach, and in her Luminalis turns that on workings as well as on steel and bone. She looks at a technique instead of at its owner, finds the seam where its boundary condition meets its law, and cuts there, and the working comes apart along its own join, like a mirror that falls in two clean halves. It costs about two per cent of her reserve, near 2,895,000 EU, and a heartbeat of looking that she cannot spend on anything else. Its limit is that a working must have a seam: a pure physical blow has none, a working that is all one law with no boundary has none, and a Trait, which is the soul's own law and not a boundary at all, gives her nothing to cut; she can split GŌKA at the seam where the fire is placed, and she can do nothing to ENSHŌ. Its counter is a working with no seam, or a fighter who never lets her stand still long enough to look.
 
-**MUSUBI · the Knot (Application of Fixatio)** · mark: Drilled
+**MUSUBI · the Knot (Application of Fixatio)** · mark: Drilled · Source: Lived
 What the white cord did to her own sword, done to anything she can see: three quick turns of white light round a thing, a raised blade, a fist in the air, a door, a fire's front, a working in the moment it fires, and Fixatio holds it where it was, in the state it was in, for as long as she keeps paying. It costs about three per cent of her reserve a turn of the breath, near 4,340,000 EU, and she can hold one thing at a time. Its limit is Sovereignty and sight: what she binds must be a thing she can see and name, and a practitioner whose Sovereignty outranks hers pulls out of the knot at a cost to both of them; she can hold a man's arm and not his will. Its counter is a will stronger than her Sovereignty, or a thing she cannot see; its tell is the three turns of light.
 
-**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Mastered
+**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Mastered · Source: Inherited
 The common Moto sight, in her held level and quiet, fine silver rings lying as still as the face of a deep well, so that the moment they turn is the moment everyone in the room learns something has struck her. With Luminalis it reads beneath a face to the mechanism under it as well as where a thing carries its weight. It costs about 4,000 EU a second held wide, about ten hours from full. It cannot read a man who is truly still inside, and it does not tell her what to do about what she sees.
 
 **Vows** · The Byakuya oath, over the lamp at nine: the red line before the white, until the end of the red line · At the woodpile, of the White Line: the white house in the Shiraki hills and its land, its forty riders, the granary under its floor that the Tenrai have never found, her sword, her name, and her oath, which was his before he was born · At the ratification, with Hisae Thornwall: the oath again, softly

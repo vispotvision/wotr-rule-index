@@ -54,7 +54,7 @@ With the seam open, the Soul Plane's recognition stutters, and the house holds t
 
 **Wellsprings** · Nihiloth (primary), Anamnesis, Mortalis, Fixatio
 
-**Kind** · Wild · **Physics Domain** · Abstract/Entropic Systems
+**Kind** · Wild
 
 **Category** · Claustra · **Craft** · none of the five; Epoch-made
 

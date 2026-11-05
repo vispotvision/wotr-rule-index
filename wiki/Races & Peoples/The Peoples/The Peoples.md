@@ -13,3 +13,7 @@ title: The Peoples
 - [[Races & Peoples/The Peoples/The Goblinoid Peoples|The Goblinoid Peoples]]: Races · Languages · Cultures · Spirituality · Za'tarch
 - [[Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples|The Beastkin and Demihuman Peoples]]: Races · Soul Architecture · Languages · Cultures · The Social Reality
 - [[Races & Peoples/The Peoples/The Ashkaru|The Ashkaru]]: "Bairos did not name them what they were. He named them what they were for. Ask what changed."
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for the layers every soul carries; [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines|The Archaic Bloodlines]], for the lines with an Epoch behind them.

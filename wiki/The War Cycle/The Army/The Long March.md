@@ -128,3 +128,7 @@ So the alchemical arm of a campaign is **a distribution problem rather than a pr
 > **Whether a practitioner can be refilled from a Crystal** · Not from a vessel, not from a barrel, and not from another living practitioner by any lawful means.
 >
 > **The qualifier in that sentence has been queried twice and struck twice.**
+
+---
+
+**Read next:** [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], for what a reserve can bear; [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]], for what is in the wagon.

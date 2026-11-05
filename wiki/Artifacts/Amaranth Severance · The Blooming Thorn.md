@@ -26,7 +26,7 @@ Mass approximately 1.1 kg; overall length approximately 115 cm, of which the bla
 
 ### Codex line
 
-Wellspring: Mortalis (primary), Anamnesis (secondary, kill-record). Kind: Medium, primary and secondary both. Physics Domain: Biochemistry. Category: Vectra, for the lattice-fracturing mechanism; Traitus for the stance-states. Glyphs, Master Glyph Index attested: *Ma* (Memory/Recall), *Wy* (Motion), *Uur* (Disruption), all matching the card as written.
+Wellspring: Mortalis (primary), Anamnesis (secondary, kill-record). Kind: Medium, primary and secondary both. Old register: Vectra, for the lattice-fracturing mechanism; Traitus for the stance-states. Glyphs, Master Glyph Index attested: *Ma* (Memory/Recall), *Wy* (Motion), *Uur* (Disruption), all matching the card as written.
 
 ### Bond and cost
 

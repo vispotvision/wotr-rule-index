@@ -3,7 +3,7 @@
 # Tetsugen Akagane
 
 **Tetsugen Akagane** · the Fox · Akagane, the copper line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing beside the copper chair
-**Stat line** · Level 365 · Band IV, Mythic · Stage XI, Dissonance · Path Body 50% / Spirit 30% / Fate 20% · Grandmaster · η 0.80 · Class unnamed · Aether II · Essence I · Thread I · Crystal Sovereign, Refined, held at the hour
+**Stat line** · Level 365 · Band IV, Mythic · Stage XI, Dissonance · Path Body XI Mastered · Spirit X Walked 30% · Fate Studied 20% · Grandmaster · η 0.80 · Class unnamed · Aether II · Essence I · Thread I · Crystal Sovereign, Refined, held at the hour
 **Shown** · Level 190 · Band II · Stage VII, Refraction: the face THE COPPER HEART has held over his Crystal since the year he took the copper chair, and the figure every Hall assessor has entered for forty years
 **Combat grammar** · Percussion: the open hand, the clinch and the heart under it; he has not fought in front of anyone living
 **Aura and sound** · copper and raw red-bronze, like a banked forge under the lamps, with a slow pulse in it that keeps time with his heart; released, the pulse becomes a drum and the copper goes red as fresh blood in a basin · sound: a heartbeat, low, felt in the floor; released, a war-drum under it
@@ -38,7 +38,7 @@
 **Level** · 365
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance; he can see his own Crystal, and has looked, and does not like it. The fracture runs along the Sennen road
-**Path** · Body 50%, Mastered; Spirit 30%, Walked; Fate 20%, Studied. Body holds the heart and the blood; Spirit holds the long read and the books; Fate holds very little, because he has never sworn to anything he could not walk away from, until the woodpile
+**Path** · Body XI Mastered · Spirit X Walked 30% · Fate Studied 20%. Body holds the heart and the blood; Spirit holds the long read and the books; Fate holds very little, because he has never sworn to anything he could not walk away from, until the woodpile
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.80
 **Soul Crystal Tier** · Sovereign
@@ -117,16 +117,16 @@ Released, the slow copper pulse in his aura becomes a drum, and the Second Relea
 
 ## X. Techniques
 
-**AKA-TE · the Red Hand (Signature Technique)** · mark: Mastered
+**AKA-TE · the Red Hand (Signature Technique)** · mark: Mastered · Source: Lived
 There is a window in every heartbeat, a few hundredths of a second as the heart's muscle resets itself for the next stroke, when a blow to the chest over the heart that would only have bruised it at any other moment throws its rhythm into a quivering fibrillation that does not pump, and the man drops where he stands; the real thing happens to boys struck in the chest by a ball, and kills some of them. The Akagane have known about the window for a thousand years. Tetsugen steps into the clinch, goes quiet, feels the other man's heart through his own with Anima Spirare, and puts his open palm on the breastbone in the window, every time, with the current behind it to hold the quiver once it starts. It costs about one per cent of his reserve, near 1,249,000 EU, which delivers about a terajoule, A-Grade, though the joules are almost beside the point; it is the timing that kills. Its limit is the rhythm: a heart he cannot catch, too fast, too irregular, or held still by its owner's own art, gives him no window, and a sternum armored in worked plate takes the blow and passes no shock to the heart. Before, he must be close and listening; during, the strike is a palm, and a palm can be caught; after, the man's own Hemostasis and his friends' hands can shock the heart back into time if they are quick and know how. Its counter is a heart he cannot read; its tell is the quiet before.
 
-**HEART-WARRANT · the Akagane warrant (School Art, the Blood and Heart Arts)** · mark: Mastered
+**HEART-WARRANT · the Akagane warrant (School Art, the Blood and Heart Arts)** · mark: Mastered · Source: Taught
 The Akagane can keep a heart, and they can stop one. With his open hand flat on a man's chest, Anima Spirare finds the heart's current and holds it still between one beat and the next, and holds it there; inside KODŌ he needs no hand. It costs about three per cent of his reserve to take hold, near 3,747,000 EU, and 25,000 EU a second to keep it, more than an hour from full; a man whose heart is held for six seconds falls, and for three minutes does not get up. The same hand, gentler, keeps a failing heart beating, and that was its first use and its oldest. It is fought by the target's own Hemostasis and heart-ward: a strong practitioner whose blood is his own can push the hand off his heart, at a cost. Its counter is never to let him touch you; its tell is the open hand, laid flat, the way he lays it on his own chest when he swears.
 
-**KETSURO · the Blood Road (Application of Anima Spirare)** · mark: Drilled
+**KETSURO · the Blood Road (Application of Anima Spirare)** · mark: Drilled · Source: Lived
 What the Copper Heart does with his own blood, done to a body he has his thumb on: he moves the blood. He can shut a bleed from the inside, push the blood away from a wound until it can be stitched, or keep a crushed limb's flesh alive for the hour it takes to reach a surgeon; or he can drive it, raising the pressure in every small vessel of a man's eyes and brain and lungs at once until they give. It costs about one per cent of his reserve to open, near 1,249,000 EU, and about 30,000 EU a second to hold. Its limit is contact and Hemostasis: his thumb must be on skin over a vein, and a man whose Hemostasis outranks his reach holds his own blood where it is. Its counter is to keep his hands off you; its tell is his thumb on a vein, at the wrist or the throat.
 
-**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Drilled
+**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Drilled · Source: Inherited
 The common Moto sight: where a thing carries its weight. In him it is the long weighing look, the look of a man looking at a horse he has been told is unbreakable. It costs about 3,000 EU a second held wide. It reads load, and men by their load; it does not read a man with nothing to weigh.
 
 **Vows** · At the woodpile, standing, hand flat on his chest the Stark way, before three hundred Starks: the Kurogane valley, its granaries, its levies, and his own neck if the king finds a use for it · At the ratification, for the copper line, standing: to follow, and not to obey

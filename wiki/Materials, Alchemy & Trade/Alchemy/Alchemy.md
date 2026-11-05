@@ -16,3 +16,7 @@ When a Riser (the tall earthen vessel of sublimation) let go at Pomfret Row in t
 - [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]]: Where the stone sits, what it fetches by Threat Tier, what the bench makes of it, what happens if you eat it, and the crime that looks exactly like it
 - [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Works]]: The piece at the end of a lifetime that does what its Grade and material should not be able to, the Fate Essence Draft among them
 - [[Materials, Alchemy & Trade/Alchemy/Prepared Tags|Prepared Tags]]: The common tags of the field kit, as cut by licensed hands, copied by unlicensed ones and guarded by the schools · prices in Accord marks
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], for what the bottle is meant to do to a soul; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Wellsprings a bench invokes; [[The Magic System/Power in Use/The Working Trades|The Working Trades]], for where a Draft sits among the crafts.

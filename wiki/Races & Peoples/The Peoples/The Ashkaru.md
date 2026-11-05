@@ -105,3 +105,5 @@ After the Separation, the world continued. The Ashkaru continued. Their purpose 
 **Kinjiki, The Inversion.** Level 500. Stage XIV, Zenith. Band V. The only Ashkaru confirmed present in the current narrative theater. See character entry.
 
 ---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what a lean means; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for what their harmonizations are.

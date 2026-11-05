@@ -3,7 +3,7 @@
 # Ulf Stark
 
 **Ulf Stark** · the Warlord of House Stark · Kharven, House Stark of Hollenmark · as of the gatehouse at Kharven's Foot, the morning he swore the house to the Tokenless and rode south
-**Stat line** · Level 185 · Band II, Awakened · Stage VI, Glory · Path Body 60% / Fate 35% / Spirit 5% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
+**Stat line** · Level 185 · Band II, Awakened · Stage VI, Glory · Path Body VI Mastered · Fate V Walked 35% · Spirit Studied 5% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
 **Combat grammar** · Blade, heavy; the great sword two-handed, point down when he is thinking
 **Aura and sound** · the Stark cold at Glory's clarity: dark gray under a hard white rime that frosts the fur of his hood and silvers the snow for yards round him · sound: a frozen lake taking weight, deeper than his son's
 **Traits** · STARK RIME (Inherited) · tell: his breath stops steaming and the wolf-fur goes white · counter: heat, and keeping him calm / THE MAKING OF A GENERAL (Primary) · tell: the long look, then "Ah. So there he is." · counter: a man who shows him nothing / WE GIVE (Secondary) · tell: "That's just the way this life is, lad" · counter: something he will not give, which nobody has found
@@ -41,7 +41,7 @@ Formed the day Torvald's head came back with a note. He gives: his brother, his 
 
 ## Signature
 
-**THE WINTER ROAD (House Art, Stark)** · mark: Mastered
+**THE WINTER ROAD (House Art, Stark)** · mark: Mastered · Source: Taught
 Light columns carrying their food on their backs and in caches along scouted routes, moving through the winter while the other side shelters, and arriving from somewhere nobody was watching; the Starks held the passes against the Zettari for forty years this way, and Old Harald Keld is the only man who ever did it better. It costs the riders, not the lord, and the Stark rime makes the cold an ally. Its limit is the thaw. Its counter is a fire, a thaw, and a scout who does not sleep.
 
 ## Voice

@@ -194,3 +194,7 @@ Two lesser feeders run into the same pool. **Extraction (output taken from a Cry
 | **Apex Residue** · T9 | **VI** | **Lifted from a site where something reached Apex and did not stay.** Effect unknown. **The lot has never been worked and the Bench has never authorized working it.** *Held in the Archives Eternal. Graded T9 because it had to be graded something and the Bench refused to grade it lower* |
 | **Null-Absolute Solvent** · T9 | **VI** · *entered under protest* | **Theoretical.** Described in a single Antediluvian fragment and in no other source, and **the fragment's account of the risk is the reason the entry exists.** *The Measurewrights hold that a thing which has never been assayed cannot be indexed and that indexing it makes the Index a document about belief. They were overruled* |
 | **The Unnamed Ninth** · T9 | — | **A placeholder.** The Bench maintains a ninth tier and has entered four things at it, **and the fourth is this** |
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]], for the discipline; [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica]], for what the Bench will not enter.

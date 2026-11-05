@@ -242,3 +242,7 @@ The bracket crowds of Altherion know the five branches on sight and bet accordin
 >
 > *Attributed to a Sunroot-era elegy, author lost to all five archives equally*
 - [[Races & Peoples/The Peoples/The Elven Peoples/The High Empire of Eresse]]
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what a lean means and never sets; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Wellsprings the branches keep; [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms|The Tongues of the Realms]], for how they sound.

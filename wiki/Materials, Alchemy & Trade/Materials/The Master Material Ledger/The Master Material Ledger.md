@@ -111,3 +111,7 @@ The Measurewrights' position is that the gap is a recording failure. It is a sup
 - [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T0–T4]]
 - [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T5–T9]]
 - [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Alchemical Index]]
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for what Resonance names; [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]], for what is made of all this.

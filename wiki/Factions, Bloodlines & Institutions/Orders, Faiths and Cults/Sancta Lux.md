@@ -238,7 +238,3 @@ Its relationship with the secular Accord guilds is *procedurally correct and per
 > **The Gravel of Judger**, in the mouths of the people it has ruled against. **The Hand That Casts Judgment**, in the mouths of the faithful, *who are numerous and who have almost all of the theology wrong.* Among the Ember Magistrates' circuit towns the order has a third name that appears in no filing and that its officers pretend not to have heard: **the Weighing Men.**
 >
 > **Nobody in four worlds has ever accused Sancta Lux of taking a bribe. Everyone in four worlds has an opinion about what it did instead.**
-
----
-
-*First appearance: WOTR Volume II, Chronicles of Exiles, Chapter 12, "Judgment Day."*

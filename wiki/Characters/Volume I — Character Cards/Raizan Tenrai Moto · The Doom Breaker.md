@@ -3,7 +3,7 @@
 # Raizan Tenrai Moto
 
 **Raizan Tenrai Moto** · The Doom Breaker · Moto, Tenrai line · as of the present reckoning, eleven years after the corridor
-**Stat line** · Level 276 · Band III, Sovereign · Stage IX, Invocation · Path Spirit 50% / Fate 30% / Body 20% · Master · η 0.96 · Class unnamed · Aether II · Essence V · Thread IV · Crystal Sovereign, Refined
+**Stat line** · Level 276 · Band III, Sovereign · Stage IX, Invocation · Path Spirit IX Mastered · Fate VIII Walked 30% · Body Studied 20% · Master · η 0.96 · Class unnamed · Aether II · Essence V · Thread II · Crystal Sovereign, Refined
 **Combat grammar** · Blade
 **Aura and sound** · Tenebra at Invocation's clarity, a bright black-violet so faint at rest that it reads as the shadow of something else, with Oneirion's dream-lavender at its edges when he reads; sound: none, which is the sound people remember
 **Stack** · sustainable S in Finesse, Forecast, Feint and Perception · cap +2 Grades · layers: KAMIKAKUSHI or HITSUZEN when called
@@ -37,14 +37,14 @@
 **Level** · 276
 **Band** · III, Sovereign
 **Temperance Stage** · IX, Invocation
-**Path** · Spirit 50%, Mastered; Fate 30%, Walked; Body 20%, Studied. Spirit opens his reading and his concealment; Fate opens Dominion Fate and the reach of his doom-sight; Body keeps the hand and the feet honest
+**Path** · Spirit IX Mastered · Fate VIII Walked 30% · Body Studied 20%. Spirit opens his reading and his concealment; Fate opens Dominion Fate and the reach of his doom-sight; Body keeps the hand and the feet honest
 **Tier of Standing** · 6, Master
 **η** · 0.96. Far above the Master band and standing as recorded. Waste is heat and noise and light, and he has spent fifty years teaching his Crystal to make none
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, and narrowing: the Tengan shows him his own futures fewer every year
 **Aether Class** · II, Harmonic
 **Essence Class** · V, Ferryman
-**Thread Class** · IV, Knotwright
+**Thread Class** · II, Drawn; Tenrai blood and fifty years of tipping small chances, with no Work behind it
 
 ## III. Wellspring Harmonizations
 
@@ -115,13 +115,13 @@ Inside his Domain the likeliest thing happens. Opened by the Second Release out 
 
 ## X. Techniques
 
-**ONE NEEDLE · Ippon-bari (Signature Technique)** · mark: Mastered · page: ONE NEEDLE
+**ONE NEEDLE · Ippon-bari (Signature Technique)** · mark: Mastered · Source: Lived · page: ONE NEEDLE
 A single thrust with the Last Thread, a needle-blade the length of a hand, up through the soft gap between the base of the skull and the first bone of the neck into the brainstem, where breathing and the heart are kept. Death is instant and almost bloodless. The force behind it is small and the point is so fine that the pressure at its tip goes through mail rings and leather and bone as if they were cloth; almost all of its cost, about 0.4% of his reserve, some 36,000 EU, is spent keeping the point perfectly true. It needs the nape bare or soft. A stiff high collar of boiled leather, a mail gorget at the back of the neck, or a back to a wall denies it; the north's lords have worn high collars for fifty years because of him. The tell is his breath: it stops for three heartbeats before the thrust. Before, guard the nape; during, a turn of the head a finger's breadth sends the needle off the gap and into bone, where it skids; after, he is an old man with an empty hand standing behind you, and he has never once been there long.
 
-**KINGSTEP OF THE WINNING THREAD (School Art, Tenrai)** · mark: Mastered · page: The Moto Bloodline
+**KINGSTEP OF THE WINNING THREAD (School Art, Tenrai)** · mark: Mastered · Source: Taught · page: The Moto Bloodline
 The Tenrai movement form: the Tengan shows where an opponent will step, and the Kingstep puts the foot there first. It is beaten by standing still, which leaves nowhere to step to.
 
-**RUINOUS COINFALL (School Art, Tenrai)** · mark: Drilled · page: The Moto Bloodline
+**RUINOUS COINFALL (School Art, Tenrai)** · mark: Drilled · Source: Taught · page: The Moto Bloodline
 The Tenrai art of tipping small chances: the lamp that falls, the coin that rolls, the latch that slips at the moment it most matters. It is beaten by owning nothing loose.
 
 **Vows** · none in force

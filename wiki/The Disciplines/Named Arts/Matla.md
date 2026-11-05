@@ -4,7 +4,7 @@ title: Matla
 
 # Matla
 
-**Matla is the Instrument of the Paths.** Aegor wrote it in the Second Epoch, the Zettari alone can carry it, and each descendant must still be recognized before a Practice is truly theirs. It has nine Practices: Form, Anti-Form, Time, Space, Dominion, Essence, Void, Reality and Totality, and all of it obeys one law, *to exist is to bear*. The full account is on [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari|the Zettari's own page]].
+**Matla is the Instrument of the Paths.** Aegor wrote it in the [[Cosmology & Metaphysics/The Making of the World/The Three Epochs|Second Epoch]], the Zettari alone can carry it, and each descendant must still be recognized before a Practice is truly theirs. It has nine Practices: Form, Anti-Form, Time, Space, Dominion, Essence, Void, Reality and Totality, and all of it obeys one law, *to exist is to bear*. The full account is on [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari|the Zettari's own page]].
 
 Everything below is the older reading. What the schools have long taught as the **Material Force**, with six branches and a learned ladder, is what careful outsiders worked out by watching it from the far side of a battlefield. Kusharan scholars call it incomplete, and they are right, and it has also kept a great many walls standing. It is open to anyone who can pay for it. Its ladder, from object through contact, recognition and law to the whole system, is how any soul climbs the [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|Body Path]], whether or not they have ever heard the word.
 
@@ -208,3 +208,7 @@ The primary failure mode. It occurs when too many contradictory commands are imp
 ---
 
 *First appearance: War of the Realms, Volume VII, "The Weight of Matter" (Chapter 41: The World Fights for Me).*
+
+---
+
+**Read next:** [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]] and [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]], for the other two Epoch instruments; [[Cosmology & Metaphysics/The Making of the World/The Three Epochs|The Three Epochs]], for Aegor; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for the Body ladder everyone else climbs.

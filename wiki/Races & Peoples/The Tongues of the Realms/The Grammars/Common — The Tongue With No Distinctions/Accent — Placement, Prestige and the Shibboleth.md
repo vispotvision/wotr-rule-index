@@ -20,7 +20,7 @@ Nobody ever wrote down how he sounded, and that is the first thing to know about
 
 Eye-dialect, rendering a speaker's vowels phonetically on the page, is barred outright. It slows the reader, it makes the speaker look stupid, and it is never applied evenly, because nobody ever spells the duke. A page that writes *'appen* for a Northern soldier and prints the Palatine's vowels in standard orthography has made an argument the author did not intend to make and cannot take back.
 
-Accent in WOTR is carried by **word choice, syntax, function words, silence, and what a speaker calls things.** All five are invisible as spelling and audible in dialogue.
+Accent here is carried by **word choice, syntax, function words, silence, and what a speaker calls things.** All five are invisible as spelling and audible in dialogue.
 
 The four grammars already do this for foreign speakers, and they do it by deriving the accent from the first language: a goblinoid drops articles because Vaross has none, a Marrowkin will not state an intention without swearing because there is no verb form for it, an Eressean names his witnesses because his own tongue will not let him possess anything silently. That method stands. This page extends it to the harder case, which is **Concord humans speaking Common to each other.**
 
@@ -54,7 +54,7 @@ This inverts the usual fantasy handling, where the foreign accent is the marked 
 
 The single most useful finding to steal, and it is the oldest one in the field. Labov's 1966 New York department-store study found that a speaker's use of prestige forms **rises with attention to his own speech**, so the same man produces one accent in careful speech and another when he is not monitoring.
 
-The WOTR use is direct and it is a characterization instrument rather than a linguistic note.
+The use here is direct, and it tells you who a speaker is more than it tells you any linguistics.
 
 **A man's origin surfaces when he stops attending to himself**: when he is tired, angry, frightened, drunk, wounded, or talking to someone he has decided does not matter. So the accent moves with the load, and **it reads like a tell**. A character whose vowels have been Western for four scenes and whose function words go Northern in a crisis has been shown to be under load without a line of narration saying so.
 
@@ -104,7 +104,7 @@ The pattern recurs across centuries. In 1282 the Sicilians reportedly asked susp
 
 **What makes this usable rather than decorative** is that the word is always ordinary. Nobody would take it for a password or a challenge, and no spy would think to prepare it. Chickpeas. A mill. **The horror is that a man dies over a food word.**
 
-The WOTR versions are already sitting in the grammars, unused.
+The local versions are already sitting in the grammars.
 - <strong>The syllabic</strong> <strong><em>r</em></strong><strong>.</strong> Concord speakers universally insert a vowel and produce <em>gurr</em> for <em>grr</em>, audible in the first word, and cannot be trained out of it under pressure. Anywhere the Mandate wants to sort goblinoid from Concord in the dark, one word does it.
 - **Vowel length.** A Vaross speaker holds vowels for emphasis and a Marrowkin treats length as phonemic, so a Concord man reading a formula aloud shortens a long vowel and has said a different word. A gate that requires the toll formula spoken rather than shown is a gate that filters.
 - **Grade.** A Marrowkin name in the weak grade is an oath-broken Marrowkin. A hold that asks a stranger to say his own name is not being polite.

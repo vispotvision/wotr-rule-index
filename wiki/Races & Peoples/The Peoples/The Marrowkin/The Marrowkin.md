@@ -280,3 +280,7 @@ Everyone else's opinion of the Marrowkin is a variation on one line, and it goes
 > *"Eight ways to still be standing, and Varūn has never once told any of us which one he actually meant."*
 >
 > *Attributed to a joint Kegshard–Qori Anka trade summit, exact speaker disputed*
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what a lean means and never sets; [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], for the climb; [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms|The Tongues of the Realms]], for the Tally-Tongue.

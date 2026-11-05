@@ -3,7 +3,7 @@
 # Edric Ashmore
 
 **Edric Ashmore** · Lord of the Ashmore Marches · House Ashmore, a Banner House of the north · as of the morning of the seven lines in the Hall of Verdicts, sworn with his hand on the black stone of the dais
-**Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body 50% / Fate 40% / Spirit 10% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Harmonic, Refined
+**Stat line** · Level 140 · Band II, Awakened · Stage V, Splintering · Path Body V Mastered · Fate IV Walked 40% · Spirit Studied 10% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Harmonic, Refined
 **Combat grammar** · Blade, from the saddle; a lancer's lord
 **Aura and sound** · brown and russet, the color of autumn bracken against snow · sound: hoofbeats a long way off, coming closer
 **Traits** · THE UNTOUCHED WINE (Primary) · tell: he looks at an offer for exactly as long as it takes a cup to go cold · counter: make him decide before the wine is poured / THE JUNCTION STONE (Secondary) · tell: his hand flat on stone when he swears · counter: put two oaths on the same stone
@@ -38,7 +38,7 @@ Ashmore oaths are sworn hand-on-stone at the crossroads below Ashbury, and the s
 
 ## Signature
 
-**THE ASHMORE LINE (House Art, Ashmore)** · mark: Mastered
+**THE ASHMORE LINE (House Art, Ashmore)** · mark: Mastered · Source: Taught
 Five or six hundred big southern horses with lances and long swords in a long ragged line, coming at the gallop out of the Kessen road; it hit the Keld south flank at the Skeldmere at full tilt and buckled it. It costs the house its horses and the lord nothing he would call a working; his Command holds the line together and his Pressure goes ahead of it. Its limit is ground: it needs a field the horses can take at speed, and on ice or in broken country it is a line of men on frightened animals. Its counter is pikes, set, as Thornwall knows; its tell is the russet coming over the rise.
 
 ## Voice

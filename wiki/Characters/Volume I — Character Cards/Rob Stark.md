@@ -3,7 +3,7 @@
 # Rob Stark
 
 **Rob Stark** · Sarge's Shadow · Kharven, House Stark of Hollenmark · as of the Hall square at Kharven-Seat, the hour he stepped across the boy with the red ears
-**Stat line** · Level 72 · Band I, Mortal Foundation · Stage III, Ascension · Path Body 75% / Fate 25% · Journeyman · η 0.40 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
+**Stat line** · Level 72 · Band I, Mortal Foundation · Stage III, Ascension · Path Body III Mastered · Fate Studied 25% · Journeyman · η 0.40 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade, heavy; the boar-spear on the road, the great sword and the axe in the north
 **Aura and sound** · the Stark cold, a gray with frost at its edges that whitens his beard when he is angry · sound: a man breathing hard through his nose and not complaining
 **Traits** · STARK RIME (Inherited) · tell: frost in his beard · counter: heat / HE'S ALL OF OURS (Primary) · tell: he is standing where the Sarge can't see behind himself · counter: get past the Sarge first / DIDN'T SCREAM (Secondary) · tell: the strap between his teeth · counter: none anybody found
@@ -41,7 +41,7 @@ The cub bit him above the knee on the Vessant road and he did not scream; Yukazu
 
 ## Signature
 
-**THE WALL OF ONE (Signature Technique)** · mark: Drilled
+**THE WALL OF ONE (Signature Technique)** · mark: Drilled · Source: Lived
 He steps across, not aside: the big body planted over whoever is down, axe up, limewood shield up, and nothing gets through him while he stands. It costs him about five per cent of his reserve to set the rime and hold the stance, near 1,100 EU, and it holds as long as he does. Its limit is that it holds one line against one blade at a time. Its counter is more than one blade; in the Hall square at the Seat, it took several.
 
 ## Voice

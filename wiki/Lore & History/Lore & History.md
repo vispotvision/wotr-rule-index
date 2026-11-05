@@ -36,7 +36,7 @@ The Alftian Codex is **what it looks like from inside a life.** A terrace-farmer
 |---|---|
 | **First person, retrospective, unreliable by construction** | Vis Trismegistus is writing about his own errors and **does not know he is in one until the third volume.** The Codex's most important finding is a correction to something it asserted with confidence two volumes earlier |
 | **Transcribed by the Silent Archivists of Naln** | All three volumes carry the same transcription line. **The Archivists are not otherwise described anywhere on these shelves** |
-| **Classified Restricted Access, High Wellspring Sensitivity** | Volume One is Hermetic Lore. Volume Two adds **Mortalis-Adjacent.** Volume Three is filed and sealed at the Urbis Archivum, cross-referencing a Level IV clearance case file |
+| **Classified Restricted Access, High [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings\|Wellspring]] Sensitivity** | Volume One is Hermetic Lore. Volume Two adds **Mortalis-Adjacent.** Volume Three is filed and sealed at the Urbis Archivum, cross-referencing a Level IV clearance case file |
 | **It names the Seven Cacodaemonic Corruptions before the Heresiology exists** | Vis writes the first three from his own experience and **flags the remaining four as work he has not yet done.** *The Heresiology of Alchemy is the completed version of a book a dead man left unfinished* |
 
 ---
@@ -48,3 +48,7 @@ The Alftian Codex is **what it looks like from inside a life.** A terrace-farmer
 >
 > Vis Trismegistus, recovered inscription, Herald's Archivum, Urbis
 - [[Lore & History/The Alftian Codex/The Alftian Codex]]
+
+---
+
+**Read next:** [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]], for the order of things as the Guild now teaches it; [[The Magic System/The Foundations/The Physical Account Two Sets of Books|The Physical Account]], for the two sets of books the trade now keeps.

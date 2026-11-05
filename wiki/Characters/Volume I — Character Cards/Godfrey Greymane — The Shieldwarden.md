@@ -3,7 +3,7 @@
 # Godfrey Greymane
 
 **Godfre[[Characters/Volume I — Character Cards/Godfrey Greymane — The Shieldwarden]]y Greymane** · The Shieldwarden · Kharven, House Greymane · as of the morning of the seven lines in the Hall of Verdicts
-**Stat line** · Level 142 · Band II, Awakened · Stage IV, Flourishing · Path Body 65% / Fate 35% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
+**Stat line** · Level 142 · Band II, Awakened · Stage IV, Flourishing · Path Body IV Mastered · Fate III Walked 35% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Expenditure
 **Aura and sound** · Petralon's heavy gray at Flourishing's clarity, warm and dark, with Basilithe's ochre only hinted, a fine grit of ridge-stone dust settling round his boots when he sets them; sound: a low grinding settle, like a stone sinking into its bed
 **Stack** · sustainable B in Anchoring and Fortitude · cap +2 Grades · layers: STONEFAST when called
@@ -37,7 +37,7 @@
 **Level** · 142
 **Band** · II, Awakened
 **Temperance Stage** · IV, Flourishing
-**Path** · Body 65%, Mastered; Fate 35%, Walked. The Body gate lets his Fortitude and Fortification climb; the Fate gate opens his Anchoring, Oath and Gravity. He has almost nothing in Spirit, and it shows only in what he does not try to read
+**Path** · Body IV Mastered · Fate III Walked 35%. The Body gate lets his Fortitude and Fortification climb; the Fate gate opens his Anchoring, Oath and Gravity. He has almost nothing in Spirit, and it shows only in what he does not try to read
 **Tier of Standing** · 4, Adept
 **η** · 0.45, the Adept band
 **Soul Crystal Tier** · Awakened
@@ -110,13 +110,13 @@ None yet. A Domain seed is possible from Stage VII; the house expects his, when 
 
 ## X. Techniques
 
-**LOAD PATH (Signature Technique, Greymane Shield Art)** · mark: Mastered
+**LOAD PATH (Signature Technique, Greymane Shield Art)** · mark: Mastered · Source: Taught
 The house's first lesson and his best. He squares the Greymane shield into the blow, sinks his knees, and sets every joint from the shield-boss down through the forearm, the shoulder, the spine, the hips and the knees to the heel into one straight column, so the blow's momentum goes down the column into the earth, and his body is only the road it travels. A catch costs about 1.5% of his reserve, some 2,600 EU, and the work Petralon does to lock the column delivers around a gigajoule into the ground: B-Grade, a building's worth, spent in cracking the stone round his feet instead of breaking him. Its limit is the footing, as for his Primary Trait, and a column has one line: a blow that comes from the side of it, or two that come at once, shears it. Its tell is the squared shield and the knees going down before the hit. Its counter, the one every Greymane is taught to fear, is the hook: catch the shield's rim with an axe-beard or a hand, and pull, and the column that holds any push parts in tension. Before, stay off his line and attack the flank; during, hook and pull; after, he must reset his feet, and that reset is a beat.
 
-**THE RIDGE GIVES BACK (Signature Technique)** · mark: Drilled
+**THE RIDGE GIVES BACK (Signature Technique)** · mark: Drilled · Source: Lived
 Stone squeezed hard enough holds the squeeze like a spring holds it, and gives it back when it is let go. Petralon keeps the last catch's load locked in the ground under his feet for a breath or two, and he can let it out all at once: the ground heaves up under the attacker in a cracked ring, and the shield comes forward with the earth's own rebound behind it in a bash that can throw a man in plate across a yard. It costs about 6% of his reserve, some 10,400 EU, and delivers up to 4.7 GJ: B-Grade, a ton of powder's worth. It can give back only what the ground took. With no catch before it, there is nothing to return. The tell is the ring of cracks running out from his boots a heartbeat before he moves. The counter is to give him nothing to give back: do not strike his shield, strike round it, or wait out the two breaths until the ground lets go of the load on its own.
 
-**THE GREY FILE (House Art, Greymane)** · mark: Mastered · page: House Greymane
+**THE GREY FILE (House Art, Greymane)** · mark: Mastered · Source: Taught · page: House Greymane
 The Greymane foot lock their shields rim to rim in a long gray line, and Petralon in each of them ties into the next, so a blow on any shield runs along the whole file and down through every set of boots in it. The file is as strong as its weakest pair of feet and as long as its ends, and it is broken from the end, where the load has only one man to go through.
 
 **Vows** · The oath his father swore him to on the ridge, kept. Spoken before a living witness, a vow lifts a technique's output to the top of its own Grade; he has never needed one in a fight and has never broken one

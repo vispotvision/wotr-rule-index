@@ -3,7 +3,7 @@
 # Hayato Amagiri
 
 **Hayato Amagiri** · the Keeper of the Roads · Amagiri, the indigo line of the Moto · as of the morning of the seven lines in the Hall of Verdicts, standing at the indigo chair in his uncle's place
-**Stat line** · Level 380 · Band IV, Mythic · Stage XI, Dissonance · Path Spirit 60% / Fate 30% / Body 10% · Grandmaster · η 0.90 · Class unnamed · Aether II · Essence III · Thread II · Crystal Sovereign, Refined under mist
+**Stat line** · Level 380 · Band IV, Mythic · Stage XI, Dissonance · Path Spirit XI Mastered · Fate X Walked 30% · Body Studied 10% · Grandmaster · η 0.90 · Class unnamed · Aether I · Essence III · Thread I · Crystal Sovereign, Refined under mist
 **Shown** · Level 95 · Band I · Stage IV, Flourishing · unclassed: the weather RAIN MIST lays over his Crystal, and the figure every assessor in the north has entered for him
 **Combat grammar** · Blade, the Amagiri draw: one cut, from a sword he carries for show, drawn once in front of witnesses, at the Skeldmere, and nobody there understood what they saw
 **Aura and sound** · a thin blue-gray haze, the color of rain coming off a lake at dusk, that thickens round him at night on a road and thins to nothing in a hall; released, it is indigo to the horizon, a whole valley gone to evening, with gold flecks moving in it like moths round a lamp · sound: rain on a cape; released, rain on a whole forest at once
@@ -38,14 +38,14 @@
 **Level** · 380
 **Band** · IV, Mythic
 **Temperance Stage** · XI, Dissonance. The fracture runs along the Verdict of Six: the strongest man in the Hall, voting for a good man's head because he was frightened of what it would cost to show what he was
-**Path** · Spirit 60%, Mastered; Fate 30%, Walked; Body 10%, Studied. Spirit carries the read, the memory and the mist; Fate carries his word, and the people he has given it to; Body is a horseman's seat and one movement of the sword-arm
+**Path** · Spirit XI Mastered · Fate X Walked 30% · Body Studied 10%. Spirit carries the read, the memory and the mist; Fate carries his word, and the people he has given it to; Body is a horseman's seat and one movement of the sword-arm
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.90
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined, under mist
-**Aether Class** · II, Harmonic
+**Aether Class** · I, Muridic
 **Essence Class** · III, Confessor; the conductor Core, where power moves even in silence; the Class came the year he rode the passes, and no coil has ever read it, since RAIN MIST shows him unclassed
-**Thread Class** · II, Drawn
+**Thread Class** · I, Touched; Amagiri blood and his word kept, and no more
 
 ### The Veil
 
@@ -117,13 +117,13 @@ The old Amagiri left masks at crossroads shrines for whatever walks the roads at
 
 ## X. Techniques
 
-**AMAGIRI-ASHI · the Rain-Mist Step (Bloodline Art, Amagiri)** · mark: Mastered
+**AMAGIRI-ASHI · the Rain-Mist Step (Bloodline Art, Amagiri)** · mark: Mastered · Source: Inherited
 On a road he has walked, at night or in wet air, he goes to mist. The edges first, the haze round him thickening and the man inside it going gray, and then all of him, body and coat and sword and whatever he holds, gone into a fine cold fog that moves along the road the way fog moves along a river valley at dusk, low and quick and following every bend, and comes back together at the far end as a slight young man in an indigo rain-cape, apologising. It costs about a fifth of a per cent of his reserve a league, near 389,000 EU, which is why he can cross the north in a night and does not, since a quartermaster who arrives before his message raises questions. Its limit is the mist's: it needs a road he knows, it needs air that will hold water, and it will not hold in heat, in a hard dry wind, or in strong sunlight, which burn it off the ground and leave him standing where the mist ran out. Its counter is heat, wind, daylight and strange ground; its tell is a little more gray at the edges of him than the weather explains.
 
-**MICHI-KIRI · the Road-Cut (Signature Technique)** · mark: Mastered
+**MICHI-KIRI · the Road-Cut (Signature Technique)** · mark: Mastered · Source: Taught
 The Amagiri draw, which his grandfather taught him in a barn with the doors shut. He draws the plain sword and cuts once, across the air, in one long flat line, and Transference closes the road along that line: whatever is traveling across it, a blade, an arrow, a man running, a charge of horse, a river's flow, a working's current, stops traveling. It does not strike anything. It arrives at the line and goes no further, and pools there, the way a river pools at a weir, until he lets the road open again. It costs about five per cent of his reserve to draw, near 9,721,000 EU, which, set loose on anything, would deliver 8.75 TJ, S-Grade, a couple of kilotons; it holds a minute from the draw. At the Skeldmere he cut it across the Keld's left wing at three hundred yards and four hundred riders stopped against nothing in the snow, and the survivors swear it was a squall. Its limit is that it closes only what travels: heat, light and sound do not travel along a road in the way he means and cross the cut untouched, a man standing still on the line is not moved off it, and the line is as long as one cut of a slight man's arm and the reach of his Radius, never a wall round a city. Its counter is to go round its ends, or to bring something that crosses without traveling; its tell is the sword out, which everyone at the Skeldmere saw and nobody understood.
 
-**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Mastered
+**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Mastered · Source: Inherited
 The common Moto sight: where a thing is carrying its weight. In Hayato it turned to the ground early and stayed there, and he reads a slope, a bank, a frozen ford or the mended seam in a wall for where it will bear a horse and where it will give, before he reads the faces in front of it. It costs him about 19,000 EU a second to hold open, nearly three hours from full, paid as a squint that never quite leaves the corners of his eyes. It resolves load in ground and stone; it reads men poorly, and the Torvald he read at the Verdict of Six he read with the other five. Its counter is soft ground with nothing in it carrying weight: bog, deep snow, open water.
 
 **Vows** · To Muken, at the woodpile, of the Indigo Mist Line: his twenty riders and every road north of the Seat that the Tenrai do not know is a road · At the ratification: two days and a road, always, whatever the king needs · To the Yukari: Yukari counters at both ends of every grain-train on his roads

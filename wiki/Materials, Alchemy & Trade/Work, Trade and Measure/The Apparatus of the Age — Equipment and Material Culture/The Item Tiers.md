@@ -194,3 +194,7 @@ The name sits on the same ladder as everything else. Grandmother's Patience has 
 ## On a Card
 
 **Name** · *Kind, stamp (Grade X), Rarity, material Tn.* One line of what it does. For example: **Slyvine's Scarf** · *Relic, Proofed (Grade D), Mythic, T2 or above.* Can stretch, tighten, or harden to act as a rope or a weak shield.
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Alchemy/Master Works|Master Works]], for the pieces outside the ladder; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for how each road reads your armor; [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands and the Aether Shell]], for the Grades the letters share.

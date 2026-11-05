@@ -213,21 +213,3 @@ The pattern is exact and worth knowing: an office is created to *do* something, 
 Every crown appoints its own: **Mage Royal**, **Alchemist Royal**, **Engraver Royal**, and in the Inner World a **Gauger Royal** in three kingdoms so far. These are salaried, resident, and expected to work.
 
 **Two honor systems, and they overlap badly.** The Grand Mage is the Accord's. The Mage Royal is a crown's. Neither outranks the other and no protocol has ever settled which enters a room first, so the compromise everywhere is that they enter together and are announced together, and the two men involved have usually loathed each other for years.
-
-## VIII. Hooks
-
-**The eighth and ninth places.** The Chandlers and the Saddlers, two of the Twelve Great, in a precedence dispute nobody can resolve, because the original ruling is ambiguous and both readings hold. It matters at every civic occasion and has cost lives twice.
-
-**Enforcement's ledger.** A Division funded by forfeiture. Somebody in Arbitration has the numbers and is deciding whether raising them ends the practice or ends them.
-
-**The three directions.** A Divisional Head wants a charter revoked. He does not ask. He arranges for the Concordant to hear about the problem from three sources over a season. Somebody notices the pattern.
-
-**Redemption.** A man bought his freedom of the company and has been elected to the Court, and the Court is deciding whether to let it stand, and the vote will be close, and everyone will pretend afterward it was about something else.
-
-**The tables.** The Adventurers' underwriting tables say what a Containment on a live Wellspring site actually costs in lives. A crew has just been shown them by a clerk who should not have.
-
-**The still line.** The beacons out of the Citadel go dark for two days.
-
-**The fee strike.** The Sitting of Halls has declined the hall-fee for a second quarter, and this time the Legion's pay is in it.
-
-**A silver problem.** Every token out of one small hall on the salt road has been reading a little light on the beam. Either the hall has been cutting its silver, or somebody very good has been striking copies and using its mark, and there is a crew at T5 right now who believe they are led by a Master.

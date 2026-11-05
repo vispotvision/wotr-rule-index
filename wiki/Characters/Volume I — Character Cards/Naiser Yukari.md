@@ -9,7 +9,7 @@ private: true
 # Naiser Yukari
 
 **Naiser Yukari** · The Bearer of Weight · Lord of House Yukari · son of Senri Yukari and a daughter of House Lambert, grandson of Ashura Yukari · as of the season after the war
-**Stat line** · Level 395 · Band IV, Mythic · Stage XII, Emanation · Tier 7, Grandmaster · Grade cap SSS, ceiling 950 · Path Spirit 40% / Body 35% / Fate 25% · η 0.89 · Class unnamed · Aether IV · Essence V · Thread I · Crystal Sovereign, Refined · reserve 3.03 × 10⁸ EU
+**Stat line** · Level 395 · Band IV, Mythic · Stage XII, Emanation · Tier 7, Grandmaster · Grade cap SSS, ceiling 950 · Path Spirit XII Mastered · Body XI Walked 35% · Fate Studied 25% · η 0.89 · Class unnamed · Aether IV · Essence V · Thread I · Crystal Sovereign, Refined · reserve 3.03 × 10⁸ EU
 **Combat grammar** · Verdict
 **Aura and sound** · Anamnesis at Emanation's clarity, a medium gray with faded violet deepening to black-violet living in it like black silk drawn over a blade edge, silver-violet flaring at the seams when the deeper lineage harmonics wake, and the air round him dimming like a corridor with the lamps turned low; sound: two low notes a hair apart that drift together until they are one, with a long hall's echo under them · smell: cedar smoke and cold stone
 **Stack** · sustainable A in Finesse, Economy and Penetration · cap +2 Grades · layers: RYŌKE NO KATA, the Twin Mantle when called, the Corridor when opened
@@ -29,7 +29,7 @@ private: true
 **Pronunciation** · NY-ser yoo-KAH-ree
 **Alias / Title** · Lord of House Yukari · Lord of the Cedar Enclave · Senri's eldest
 **Also Known As** · The Bearer of Weight · He Who Broke the Seikai on the Slope
-**Race / Lineage** · Yukari, son of Senri Yukari, grandson of Ashura Yukari; Lambert of Sallowgate by his mother
+**Race / Lineage** · Yukari, son of Senri Yukari, grandson of Ashura Yukari; Lambert of Sallowgate by his mother. The Ketsumyōgan's perceive types run on his Core at Essence V, and an edit would be a pull at Thread I. Null-Light, the house's instrument, climbs on the same Essence Class; no Regard is set down for him yet
 **Age** · Near thirty in the body; the Breath in his blood keeps him young longer than most
 **Realm / Faction** · House Yukari, the Cedar Enclave above the Yukari valleys, one of the Southern Warlords · loyal first to the house and the spiritual balance it keeps, and only after it to whatever surrounds it
 **School and sect rank** · The Yukari yard, taught by his father; took the name at his Telling before Senri's stone · head of the house
@@ -44,7 +44,7 @@ private: true
 **Level** · 395
 **Band** · IV, Mythic
 **Temperance Stage** · XII, Emanation. He did not reach it through fervor or spectacle. He reached it through synthesis, forcing two bloods into one count, and then six Stages laid over a long road, each one owed in full
-**Path** · Spirit 40%, Mastered; Body 35%, Walked; Fate 25%, Studied
+**Path** · Spirit XII Mastered · Body XI Walked 35% · Fate Studied 25%
 **Tier of Standing** · 7, Grandmaster
 **η** · 0.89. Top of the Grandmaster band, 0.85 to 0.90, and standing as recorded; almost all of what he commits lands where he meant it
 **Soul Crystal Tier** · Sovereign
@@ -153,6 +153,7 @@ At Emanation, Domains form naturally round a soul, and his formed without being 
 
 He lets a layered shadow-current run through the other man's Aether, and Anamnesis reads it as it goes, the way a scholar reads a record.
 
+* **Source:** Lived
 * **The Reading (読取 · Yomitori):** Anamnesis stores history in readable form, the way fired clay keeps its dose, and the shadow-current is the reading head. It pulls every dormant tension, contradiction and lineage fracture in that soul up to the surface at once.
 * **The Surfacing (浮上 · Fujō):** Against an unstable enemy it brings hesitation, backlash or a loss of form; against a disciplined one it still muddies the tempo, because they feel every unresolved inheritance in them together.
 * **Nature:** Active, contact-borne. It costs about 3.9 × 10⁷ EU, thirteen percent of his reserve *(derived)*. It needs contact through the Aether, a crossed blade or a held gaze.
@@ -163,6 +164,7 @@ He lets a layered shadow-current run through the other man's Aether, and Anamnes
 
 He sets a threshold across the field, a line of pressure that marks the territory of his will, and Fixatio cures it into the ground.
 
+* **Source:** Lived
 * **The Line (線 · Sen):** A thermoset cure laid along the ground: once cross-linked it holds without him. Those who cross without enough force of self feel resistance in body and spirit at once, and it is the seed of the Corridor's Threshold.
 * **The Declaration (宣言 · Sengen):** It is less a wall than a declaration, so it is beaten by crossing it with enough self, by a will that has already decided what it is, or by going round its ends.
 * **Nature:** Active, area-denial. It costs about 6.7 × 10⁷ EU, twenty-two percent of his reserve *(derived)*, and holds while he stands. Its limit is the length of a line he can walk.
@@ -173,6 +175,7 @@ He sets a threshold across the field, a line of pressure that marks the territor
 
 The two bloods brought into full synchronized expression: the Yukari sight and the Lambert count swinging as one clock.
 
+* **Source:** Lived
 * **The Form (型 · Kata):** His strikes become ruthlessly efficient, his steps hard to read, his defense almost complete. In a duel it is the answer to a stronger opponent: it removes waste, not force.
 * **The Reckoning (清算 · Seisan):** Because the count is exact, every exchange ends with an account struck: what he spent, what the other man spent, who is ahead. He leaves the fight the moment the sum turns.
 * **Nature:** Active, for the length of an exchange. It costs about 8.8 × 10⁷ EU, twenty-nine percent of his reserve *(derived)*. Held too long or too often, it is where the Equilibrium Tax comes due.
@@ -183,6 +186,7 @@ The two bloods brought into full synchronized expression: the Yukari sight and t
 
 He lights the rolled leaf from a coal, and what he says through the smoke is entered. The habit was his before the art: a pause in every argument. Fixatio took the habit and made it law.
 
+* **Source:** Lived
 * **The Skein (筋 · Suji):** An exhaled aerosol is a tracer: its pattern shows the air's flow. Fixatio cures it, so the smoke stands in a skein that does not drift. It records the sentence spoken through it, and the sentence binds those inside it until the smoke clears.
 * **The Bend (曲 · Magari):** The smoke bends once when a lie is told inside it, the same bend that tells him when he himself is lying. In an exchange it is a lie detector the other man can see, which is the point.
 * **The Cord (縄 · Nawa):** In a fight he can set a verdict as a cord round a target: "you will not cross this floor until you have answered me," and the skein holds him to it for as long as the leaf burns. It is a snare for a person, not a body, and it breaks if what he said becomes false.

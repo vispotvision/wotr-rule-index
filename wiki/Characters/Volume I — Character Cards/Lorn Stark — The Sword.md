@@ -3,7 +3,7 @@
 # Lorn Stark
 
 **Lorn Stark** · The Sword · Kharven, House Stark · as of the morning of the seven lines in the Hall of Verdicts
-**Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body 70% / Fate 30% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
+**Stat line** · Level 150 · Band II, Awakened · Stage IV, Flourishing · Path Body IV Mastered · Fate III Walked 30% · Adept · η 0.45 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread unclassed · Crystal Awakened, Refined
 **Combat grammar** · Blade
 **Aura and sound** · the Stark cold rather than a Wellspring's hue: a warm dark gray at Flourishing's clarity with a hard white rime over it that silvers timber and stiffens snow round his boots; sound: the creak of a frozen lake taking weight
 **Stack** · sustainable B in Penetration, Fortitude and Constitution · cap +2 Grades · layers: FROSTFALL when called, a sworn vow when spoken
@@ -37,7 +37,7 @@
 **Level** · 150
 **Band** · II, Awakened
 **Temperance Stage** · IV, Flourishing
-**Path** · Body 70%, Mastered; Fate 30%, Walked. Body opens his sword-arm and his footing; Fate opens the line he draws and the oaths he keeps
+**Path** · Body IV Mastered · Fate III Walked 30%. Body opens his sword-arm and his footing; Fate opens the line he draws and the oaths he keeps
 **Tier of Standing** · 4, Adept
 **η** · 0.45, the Adept band
 **Soul Crystal Tier** · Awakened
@@ -109,10 +109,10 @@ None yet; a seed is possible from Stage VII.
 
 ## X. Techniques
 
-**THE BREAKING COLD (Signature Technique)** · mark: Drilled
+**THE BREAKING COLD (Signature Technique)** · mark: Drilled · Source: Lived
 Steel has a temperature below which it stops bending and starts breaking, the way a horseshoe left out in the hard frost will snap where in summer it would only have bent. On the bind, blade to blade, he pours the Stark rime into the other man's steel through his own, and in a breath the enemy's sword or axe-head or mail drops below that point, frost-flowers blooming across it, and the next hard blow it takes shatters it like glass. It costs about 5% of his reserve, near 11,000 EU, delivering some five gigajoules of cold, B-Grade. It works only on iron and ordinary steel; bronze and copper and the few fine steels that never go brittle in the cold take no harm from it at all. Before, carry bronze or copper; during, the frost-flowers on the blade are the tell, and the answer is to disengage and let the steel warm before you strike with it again; after, a blade that survived its chill is as good as it was.
 
-**THE STARK WALK (House Art, Stark)** · mark: Mastered · page: House Stark
+**THE STARK WALK (House Art, Stark)** · mark: Mastered · Source: Taught · page: House Stark
 Heavy, even, unhurried, the weight going straight down through the heels into the ground and the hands still at the sides. It is how the Starks cross their own halls and how they cross a battlefield, and it is a fighting stance: a man walking it cannot be shouldered off his line or tripped, and he can draw from it without changing his feet. It is beaten by making him hurry, because a Stark who runs has stopped walking it.
 
 **Vows** · The oath his father swore him to on the wall-walk, by the sky that covers us: kept. His oath at the foot of the dais this morning, to the red chair and to the man in it: sworn

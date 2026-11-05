@@ -28,7 +28,7 @@ What a scene actually needs is the other layer. **What a lamp-warden calls a wic
 
 Every entry below moves through the same three steps, and the third is where the world gets built.
 
-**One. Take it whole.** The trade exists in WOTR, so the term exists unchanged. A wick is a wick. This costs nothing and buys texture immediately.
+**One. Take it whole.** The trade exists here, so the term exists unchanged. A wick is a wick. This costs nothing and buys texture immediately.
 
 **Two. Extend it.** The trade's word is applied to the metaphysical case by the people who work both, because that is how technical vocabulary actually spreads. Practitioners never coined a word for the moment a Crystal's grade declares itself, because the assayer's was lying there on the bench.
 
@@ -40,7 +40,7 @@ Every entry below moves through the same three steps, and the third is where the
 
 Nobody who does it for a living talks about refining Aether. A practitioner hauls it in off the ground around them the way a boat hauls a net, and then the Soul Crystal turns the catch into Essence and the Shell drives it out, and the vocabulary was borrowed from everyone who ever took something out of the world by hand: bargemen and fishers, smiths at the bellows, miners on a seam, farmers arguing about soil. The daily crafts that live off it, lamp-wardens on their rounds, ward-cutters at their doorframes, hedge-workers at their hedges, add words of their own, because they are paid by the job and every one of those words has been shouted across a bill.
 
-| Term | Trade sense | WOTR extension | Cant |
+| Term | Trade sense | Metaphysical extension | Cant |
 |---|---|---|---|
 | **the pull** | one heave on a line, the bargeman's and the net-hauler's unit of work | taking Aether in from the environment toward the Crystal; *a long pull* is a slow filling on poor ground | *a man's pull* is who will come when he sends for them |
 | **the haul** | what comes up in the net | the raw Aether of one pull, before the Crystal has refined it | *a short haul* is a job that paid less than it cost |
@@ -69,7 +69,7 @@ The fire assay is the trade that determines what a thing actually is by destroyi
 
 The real process: a sliver of the sample is wrapped in lead, sometimes pre-treated by **scorification** in lead foil, and heated in a porous **cupel** of bone ash inside a **muffle** furnace. The lead oxidizes to **litharge**, which the cupel absorbs, carrying the base metals with it. What is left is a **bead**, or **button**, of the precious metal. **Parting** in acid separates silver from gold, and comparing weights gives the **fineness**.
 
-| Term | Trade sense | WOTR extension | Cant |
+| Term | Trade sense | Metaphysical extension | Cant |
 |---|---|---|---|
 | **the assay** | destructive determination of true content | any procedure that establishes what a practitioner actually is, as against what they are registered as | *assayed* is found out |
 | **cupel** | the porous bone-ash dish that drinks the lead | the diagnostic bench, and by extension the examiner's room | *in the cupel* is under investigation |
@@ -99,7 +99,7 @@ It transfers directly and it transfers without explaining anything.
 
 Glasshouse vocabulary supplies the language of Draft vessels, lens work, and the physical condition of a Soul Crystal, and it supplies it better than any other trade because glass has the same three properties: it is worked hot, it holds stress invisibly, and it fails at the flaw you did not see.
 
-| Term | Trade sense | WOTR extension | Cant |
+| Term | Trade sense | Metaphysical extension | Cant |
 |---|---|---|---|
 | **the metal** | molten glass, as glassmen call it | a Crystal in a worked state | — |
 | **gather** | the mass of hot glass taken up on the rod | a pull taken and held before it is shaped | *a gather* is a crowd about to become a problem |

@@ -26,7 +26,7 @@ Bronze and glass, roughly 0.9 kg loaded, 22 cm tall including the carry-arm. Bal
 
 ### Codex line
 
-Wellspring: **Mortalis** (primary) with **Anamnesis** (secondary). Kind: **Medium, Biochemistry** (primary); **Medium, Entropy, Void and Mind** (secondary). Category: **Mnemata** (memorycraft and echo manipulation; the Lantern is functionally a portable Echo Archive), with a **Manifestus/Animatria** cast to the guardian-projection effect. Glyphs: `Vo`, Voice, confirmed attested (Auren, per the Master Glyph Index); `Ma`, Memory, carried from the legacy card but **not verified** in the Index and flagged accordingly.
+Wellspring: **Mortalis** (primary) with **Anamnesis** (secondary). Kind: **Medium, Biochemistry** (primary); **Medium, Entropy, Void and Mind** (secondary). Old register: **Mnemata** (memorycraft and echo manipulation; the Lantern is functionally a portable Echo Archive), with a **Manifestus/Animatria** cast to the guardian-projection effect. Glyphs: `Vo`, Voice, confirmed attested (Auren, per the Master Glyph Index); `Ma`, Memory, carried from the legacy card but **not verified** in the Index and flagged accordingly.
 
 ### Bond and cost
 

@@ -368,3 +368,7 @@ What stage did the practitioner believe they were in? **Which corruption best ex
 > **Better a wounded conscience than a stainless report built over the dead.**
 >
 > *For the lawful alchemist may fail and remain lawful.*
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]], for the lawful work; [[The Magic System/Practice and Institution/Mechanica Extraction Without Recognition|Mechanica]], for the worst of it; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for what the drift is drifting from.

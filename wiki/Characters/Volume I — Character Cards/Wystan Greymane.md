@@ -3,7 +3,7 @@
 # Wystan Greymane
 
 **Wystan Greymane** · the Shieldwarden · Lord of the Ridgewall · Kharven, House Greymane of the Stormfold · as of the gatehouse at Kharven's Foot, the morning he swore the house to the Tokenless and rode south beside Ulf Stark
-**Stat line** · Level 180 · Band II, Awakened · Stage VI, Glory · Path Body 65% / Fate 30% / Spirit 5% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
+**Stat line** · Level 180 · Band II, Awakened · Stage VI, Glory · Path Body VI Mastered · Fate V Walked 30% · Spirit Studied 5% · Expert · η 0.62 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
 **Combat grammar** · Shield and sword; the wall first, and then very fast
 **Aura and sound** · slate gray with a dull gold edge, like the ridge with the dawn behind it · sound: a hunting horn, one long note, from very close
 **Traits** · KEEPERS OF THE WALL (Primary) · tell: he looks west before he looks at you · counter: come at what he isn't guarding / STILL, THEN FAST (Secondary) · tell: he stops moving altogether · counter: never be the first to move / LATER, ULF (Secondary) · tell: "Later." · counter: ask him in front of the one he's keeping it from

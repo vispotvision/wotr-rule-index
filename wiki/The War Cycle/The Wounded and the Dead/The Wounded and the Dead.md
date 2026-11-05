@@ -13,3 +13,7 @@ On the morning after any battle worth a song the surgeons' awnings are the brigh
 - [[The War Cycle/The Wounded and the Dead/The Physician's Eye|The Physician's Eye]]: Reading a body, and what will not close
 - [[The War Cycle/The Wounded and the Dead/The Long Illness|The Long Illness]]: Disease, trade sickness, and time
 - [[The War Cycle/The Wounded and the Dead/The Runners|The Runners]]: How a kill becomes a reagent
+
+---
+
+**Read next:** [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]]; [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current]], for what a Wellspring does to the living.

@@ -179,3 +179,7 @@ An engagement produces several thousand bodies in one place inside one hour, **e
 **Whether the Law of Return was drafted as a rendering prohibition** · No record survives of the drafting. **The Division's position is that the question is unanswerable and that the provision should not be amended in either direction until it is.**
 
 **Old fields** · **Nine districts have petitioned. All nine petitions are held.** The Division's standing summary describes the complaints as *consistent with local tradition*, **which is true and is not a finding.**
+
+---
+
+**Read next:** [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]], for where the three layers came from; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what each road leaves heaviest.

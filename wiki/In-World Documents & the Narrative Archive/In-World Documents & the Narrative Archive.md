@@ -56,3 +56,5 @@ The institutional codices in this wiki are written by bodies that **expect to ou
 - [[In-World Documents & the Narrative Archive/The Scene Archive]]
 
 ---
+
+**Read next:** [[The Magic System/First Steps/How Magic Works|How Magic Works]], for the plain account these letters assume; [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]], for the whole chain.

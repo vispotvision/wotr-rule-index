@@ -191,3 +191,7 @@ Proud, intelligent, **fiercely loyal to chosen riders**, territorial and protect
 - [[The Bestiary/The Wild/Natural Beasts/Droval — The Frost-Howler]]
 - [[The Bestiary/The Wild/Natural Beasts/Neiman Lion]]
 - [[The Bestiary/The Wild/Natural Beasts/Greater Wolf]]
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for what a beast's stone is and does; [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], for the scale a beast shares with you; [[The Bestiary/The Bestiary|The Bestiary]], for the rest of the register.

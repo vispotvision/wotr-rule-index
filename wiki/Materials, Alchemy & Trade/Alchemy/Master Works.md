@@ -169,3 +169,7 @@ Almost nothing, and the assay rooms have been saying so for centuries, to no eff
 | **The lineage halls** | *Juézuò* (绝作), the work that ends | They add it to the family's title, even if the maker was the cook |
 | **The Marrowkin** | A true cut | Their forges have a list, and they do not discuss it. They will say that a master's last blade was one the body permitted |
 | **The Keld** | A thing that sat with its maker | The only respectable kind of object |
+
+---
+
+**Read next:** [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers|The Item Tiers]], for the Grade and Rarity ladders; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for what a piece can do on each road; [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]], for the bench.

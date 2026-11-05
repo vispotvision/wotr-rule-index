@@ -186,6 +186,3 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 > *The loop has not closed, and nobody designed it, and he is still walking around inside it.*
 
 *In a later hand, in the margin:* the great split proper came after him, about 740 IC, and he lived through it. See the [[Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages|Concordance of Ages]], Section VI, whose author had the decency to expect an argument.
-
----
-

@@ -119,3 +119,7 @@ Progresses in stages anyone who has seen it can name: hunger, wasting, **the swe
 **Post-famine Welling cohorts** · The Measurewrights hold the series and offer no explanation. **The series is now four generations long.**
 
 **The quiet, again** · **Two askings, no answer.**
+
+---
+
+**Read next:** [[The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery|On Walking Into the Current]], for Wellspring exposure; [[The War Cycle/The Wounded and the Dead/The Crossing|The Crossing]], for where the long illness ends.

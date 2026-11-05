@@ -257,3 +257,7 @@ Its strike is **the Recollection**: everything it has read and stored let go at 
 > A deep crew on an Anamnesis Well heard the roll called at shift change in a foreman's voice twelve years dead, the names in the order of the old pay-book, **and the last name on it was the youngest man in the basket.** The crew came up. The young man went back down that night on his own. The Gold Sigil who went after him came back with a gray mask, split clean across, and would not say what it had told her.
 >
 > On Anamnesis Wells the pay-book is kept above ground, the dead are never named below the lamp-line, and **"the Foreman's asking for you"** means a grief that has started to talk back.
+
+---
+
+**Read next:** [[The Bestiary/Dungeons|Dungeons]], for where they gather; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the ground that breeds them; [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for the stone.

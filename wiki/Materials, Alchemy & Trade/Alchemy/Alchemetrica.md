@@ -515,3 +515,5 @@ The Heresiology counts seven, the **Seven Cacodaemonic Corruptions**: each stage
 > **A corrupted operation is sustained by refusal.** The Continuum has neither recognized nor authorized it, and the practitioner is holding it open by fixation. The working will run, and it will cost more every time it is run, **and the practitioner will not stop, because by then the working has become a thing they are.**
 
 ---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], for what the Great Work is used for; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the operations by name; [[Materials, Alchemy & Trade/Alchemy/The Common Drafts|The Common Drafts]], for what comes off the bench and sells.

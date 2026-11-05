@@ -11,11 +11,11 @@ People have died of this page. In the spring of a bad year at Altherion, a surge
 
 They are still called the Duel of the Two Ruptures, and the dent is still in the table. Both of them lived, each with one collarbone fewer than they had started with, and the treaty they signed from adjoining beds is the entry you will find below under **Clouding · Rupture**. I would ask you to read the rest of this page with that in mind. Nobody here is being fussy.
 
-> **The central terminology hub for the Continuum.** Every magical term in WOTR is listed here or on a page linked from here.
+> **The central terminology hub for the Continuum.** Every magical term on these shelves is listed here or on a page linked from here.
 >
 > The Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output, and Traits, Refinement and the Seat live on [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]] and are not repeated here. **That page runs Sections I to VII by its own count, and this one takes up its own count from Section VI.**
 >
-> **Section XV is the one to read before writing prose.** It sorts every term on this page into what may appear on the page and what is workbook only.
+> **Section XV is the one to read before writing anything for a lay reader.** It sorts every term on this page into what may appear on such a page and what is workbook only.
 >
 > **Sections XVI to XIX are the newest ink on the shelf:** the sheet and the climb, monsters and dungeons, guilds and items, Fate and blessings. Where an older entry reads otherwise, those govern.
 
@@ -23,7 +23,7 @@ They are still called the Duel of the Two Ruptures, and the dent is still in the
 
 ## VI · Form, lens and discipline
 
-*The Wellspring is the what. The Form is the how. Every art states a Path, a Lens, a Form and its Gates, and the card of the person holding it states where they got it. The long account, with Big Maud in it, is [[The Magic System/Reference and Craft/Forms|Forms]].*
+*The [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellspring]] is the what. The Form is the how. Every art states a Path, a Lens, a Form and its Gates, and the card of the person holding it states where they got it. The long account, with Big Maud in it, is [[The Magic System/Reference and Craft/Forms|Forms]].*
 
 | Form | Home | What the hands do |
 |---|---|---|
@@ -88,7 +88,7 @@ A role left wholly empty does nothing: no seal, no working, no cost. Only a sent
 ## VIII · Alchemia, Drafts and the Work
 
 > **Aether + Essence + Vessel + Glyphica = Reaction**
-**Essence Draft** · A working stabilized into a substance. The product of Alchemia, and a skill anyone can level. A Draft can supply a Catalyst, which is why Stages are for sale and why the great houses hoard the top of the shelf (see **Catalyst** and **Bought Stage**, Section XVI).
+**Essence Draft** · A working stabilized into a substance. The product of Alchemia, and a skill anyone can level. A Draft can supply a Catalyst, which is why [[The Magic System/The Soul and the Climb/The Sixteen Stages|Stages]] are for sale and why the great houses hoard the top of the shelf (see **Catalyst** and **Bought Stage**, Section XVI).
 
 **Vessel** · The container in which a Draft is bound. Its material sets what the Draft can survive and how long it keeps.
 
@@ -297,7 +297,7 @@ A role left wholly empty does nothing: no seal, no working, no cost. Only a sent
 
 **Trait level** · Traits stay what they have always been, the Four Reflections and their laws, and they can be leveled and refined like skills: a Trait's level rises with use and grows with overall Level and skill.
 
-**Class** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves by how it is lived, each time the leading ladder rises, into forms some share with many and some hold alone. It has no ladder of its own. Stages I to V read no Class, so the first offer comes at Glory. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
+**[[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Class]]** · At thresholds the soul is offered a named class fitting how the person has lived. It gives abilities, shapes growth, and evolves by how it is lived, each time the leading ladder rises, into forms some share with many and some hold alone. It has no ladder of its own. Stages I to V read no Class, so the first offer comes at Glory. The Path is the road a soul's growth leans along, and the class is what the road has made of the walker. The one wild concept stays the person's own, and no class hands it out.
 
 **Aether Class** · The ladder of the Aether Shell, how strong a person's influence on the physical world is: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute, with all of its figures standing. From Glory it sets η for what goes out through the Shell, a read rung overriding the Tier of Standing table's field average and a card's own figure governing its holder.
 
@@ -374,3 +374,5 @@ A role left wholly empty does nothing: no seal, no working, no cost. Only a sent
 **Fate Essence Draft** · A Master Work of the alchemists: extremely hard to make, and very coveted.
 
 ---
+
+**Read next:** [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]], for the three ladders; [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Sixty; [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], for the climb; [[The Magic System/Reference and Craft/Forms|Forms]], for the twelve Forms.

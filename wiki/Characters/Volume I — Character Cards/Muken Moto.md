@@ -3,7 +3,7 @@
 # Muken Moto
 
 **Muken Moto** · The Tokenless · Kōkan, the red line of the Moto · as of the king's tower at Kharven-Seat, spring, six months after the Great War of the North
-**Stat line** · Level 128 · Band II, Awakened · Stage V, Splintering · Path Body 60% / Fate 25% / Spirit 15% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread I · Crystal Harmonic, Overgrown
+**Stat line** · Level 128 · Band II, Awakened · Stage V, Splintering · Path Body V Mastered · Fate Studied 25% · Spirit Studied 15% · Expert · η 0.60 · Class unclassed until Glory · Aether unclassed · Essence unclassed · Thread I · Crystal Harmonic, Overgrown
 **Combat grammar** · Verdict
 **Aura and sound** · slate gray shot through with fine gold seams, like old glaze crazed over a kiln-dark pot; when he pushes, the seams brighten to forge-gold and the gray goes nearly black · sound: a struck bell held on one note, felt in the back teeth before it is heard
 **Stack** · sustainable D across the body, B in Penetration, Perception, Fortitude and Constitution · cap +2 Grades · layers: HIBI when called, the sworn word when spoken, SHIGOTO NO KABE while he holds a load
@@ -36,7 +36,7 @@
 **Level** · 128
 **Band** · II, Awakened
 **Temperance Stage** · V, Splintering
-**Path** · Body 60%, Mastered; Fate 25%, Studied; Spirit 15%, Studied. Body carries the sword-arm and the frame that takes a load, the path weight takes through a thing and the place it leaves; Fate carries the oaths and the people who knelt; Spirit carries the Works, thinly, the way a boy carries a man's coat
+**Path** · Body V Mastered · Fate Studied 25% · Spirit Studied 15%. Body carries the sword-arm and the frame that takes a load, the path weight takes through a thing and the place it leaves; Fate carries the oaths and the people who knelt, and the Works, thinly, the way a boy carries a man's coat; Spirit is study and no more
 **Tier of Standing** · 5, Expert
 **η** · 0.60, the floor of the Expert band; he still spends loud
 **Soul Crystal Tier** · Harmonic
@@ -44,6 +44,7 @@
 **Aether Class** · Unclassed; the Class emerges at Glory
 **Essence Class** · Unclassed; the Class emerges at Glory
 **Thread Class** · I, Touched; by the Moto bloodline's grip on the Works, ahead of Glory and ahead of his share; the rest of the Class still emerges at Glory
+**Fate Art** · Hametsu no Gō, the Work of Ruins · grip: Kōkan blood, taught by Faisal, with five more Works held by rote · Thread I
 
 ## III. Wellspring Harmonizations
 
@@ -114,28 +115,28 @@ None. A seed is possible from Stage VII. Faisal has told him what his would beco
 
 ## X. Techniques
 
-**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Drilled
+**SHINGAN · the heart-eye (Bloodline Faculty, Moto)** · mark: Drilled · Source: Inherited
 The common Moto sight, woken on the Foot's stair: the eye reads where everything is carrying its weight. In Muken it came with something the other lines do not have, a hairline seam of gold running out from the amber fleck low in his left iris, and Shigure named it on the spot: any Moto brat can see where a wall wants to fall, and the gold in it is Kōkan. The seam is the first of the Kamigan, the crown eye that takes what all the other eyes see and ranks it; it has not opened, and Faisal ties its opening to the Work of Totality he has withheld. Holding the Shingan open costs about 150 EU a second, near five per cent of his reserve a minute, paid as heat behind the eye; each time he forces it past its depth the seam widens by a thread and does not close again. It resolves load and fault in matter, bodies and formations; it cannot resolve intent, a lie, or anything with no structure. Its counter is the same as the Eye's: give it nothing flawed, or nothing it can see.
 
-**HAMETSU NO GŌ · the Work of Ruins (Bloodline Art, Hataraki)** · mark: Drilled
+**HAMETSU NO GŌ · the Work of Ruins (Bloodline Art, Hataraki)** · mark: Drilled · Source: Taught
 The Work his blood leans to, taught by Faisal in the Plane of Fate: the power to make a thing end. Every made thing has a note, and a crack has a note of its own; a dead crack, rot already through, rings sour and wavering against the steady note of the sound stone around it. He finds the dead note with the Eye, takes it in the Kharven breath, and holds it, and the weight that has gathered in the crack carries the crack forward for him until the dead thing comes apart along its own fault and nothing else does. A rope's worth of rot costs him about two per cent of his reserve, some 2,300 EU, and a few hundred EU a second while he holds it; the lying ward-stone over the Seat's gatehouse, held from half a mile on the Marrow ice, cost him a fifth. Its limit is his oath and its own law: held to the dead crack only, it leaves every sound stone untouched, and he has sworn by his honor to crack nothing that is not already dead; driven by rage, it ends what was rotten and then what was near the rot, and it does not stop. Its counter is to break the note, with noise, damping, cold or a hand flat on the struck thing, or to bring him nothing already dead; its tell is the breath, in through the nose until the ribs ache and out through the mouth until nothing is left.
 
-**JUNKETSU NO GŌ · the Work of Purity (Bloodline Art, Hataraki)** · mark: Held
+**JUNKETSU NO GŌ · the Work of Purity (Bloodline Art, Hataraki)** · mark: Held · Source: Taught
 Purity establishes a thing in its proper shape and holds it there. He learned it by learning to look at the edges of a wound and never the wound, the way his sister did: he lays his palm flat over the hurt, listens for the living edges, and holds their note until they close. He knit his own broken ribs, the cut across his side, his forearm and his palm with it. A fresh wound costs about five per cent of his reserve and a quiet minute; old harm the body has already set crooked, the wrist from the stamping floor, the shin from the Veyrath ditch, his knuckles, it will not touch, because their proper shape is now the crooked one. It works only on what is living and willing; Faisal forbade him to do it to a man who has not asked. Its Obsession face purges whatever does not fit the shape, which is the Shirogane way. Its counter is to hurt him faster than he can listen; its tell is the flat palm and the silence.
 
-**SEIREI NO GŌ · the Work of Spirit (Bloodline Art, Hataraki)** · mark: Held
+**SEIREI NO GŌ · the Work of Spirit (Bloodline Art, Hataraki)** · mark: Held · Source: Taught
 The Work of what lies between life and death. He can feel a soul's thread where it runs, and hold it, or open his hand and let it pass. He held his sister's on the road out without knowing he was doing it, and let her go in the Plane of Fate, and wept for the first time since he was nine. It costs little in Essence and a great deal otherwise. It cannot call a thread back that has gone, nor keep one that will not stay. Its counter is distance and time; its tell is his closed hand.
 
-**JIKAN NO SHIGOTO · the Work of Temporality (Bloodline Art, Hataraki)** · mark: Held
+**JIKAN NO SHIGOTO · the Work of Temporality (Bloodline Art, Hataraki)** · mark: Held · Source: Taught
 The Work of cause and consequence. Holding one thread, he can follow it back along what made it, a knot at a time, as he followed his sister's death back to the Shirogane's thousand-year wound of standing second. It costs about one per cent of his reserve a knot and leaves him heavy-headed. It shows causes; it changes none, and a long thread takes long hours. Its counter is a thread too tangled to follow before the moment passes.
 
-**CHISHIKI NO SHIGOTO · the Work of Knowledge (Bloodline Art, Hataraki)** · mark: Held
+**CHISHIKI NO SHIGOTO · the Work of Knowledge (Bloodline Art, Hataraki)** · mark: Held · Source: Taught
 Knowledge reveals what a thing is. He hears what a man is humming under his face: fear, grief, appetite. It costs about one per cent of his reserve a reading. It reveals and does not act, and it will tell him Kagenori Tenrai is grieving without telling him what to do about it. Its counter is a man who has gone quiet inside; its tell is his head tipping as if listening.
 
-**BARANSU NO SHIGOTO · the Work of Balance (Bloodline Art, Hataraki)** · mark: Held
+**BARANSU NO SHIGOTO · the Work of Balance (Bloodline Art, Hataraki)** · mark: Held · Source: Taught
 He learned it kneeling beside Faisal under the Lawbell's weight: a load need not stop in him, it can pass through and go down into the ground. Petralon gives it footing. It costs about three per cent of his reserve to open and a slow bleed while he holds it. It needs ground under him; airborne, braced on ice or on a floor that will not take the load, it has nowhere to send the weight. Its counter is to take the ground away.
 
-**SHIGOTO NO KABE · the Work of Bearing Load (Application of Balance)** · mark: Held
+**SHIGOTO NO KABE · the Work of Bearing Load (Application of Balance)** · mark: Held · Source: Taught
 When he stands in front of something that means to come down on everyone behind him, he plants both feet and becomes the wall: Balance takes the blow through his bones and into the earth, and he does not move. It costs about four per cent of his reserve to set, near 4,600 EU, and 200 EU a second to hold, some eight and a half minutes from full; and it cracks his bones a little every time. It holds against a load the ground can take; against a load that comes from every side at once, or from below, it has no path. Its counter is to make him move, or to hit him from where the ground is not.
 
 **ZENTAI-SEI NO HATARAKI · the Work of Totality** · withheld

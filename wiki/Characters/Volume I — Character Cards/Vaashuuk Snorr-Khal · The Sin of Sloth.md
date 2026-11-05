@@ -3,7 +3,7 @@
 # Vaashuuk Snorr-Khal
 
 **Vaashuuk Snorr-Khal** · The Sin of Sloth · Goblin, the Hobgoblin Expanse · as of the bottom of the Pit, the hour the Wrath woke
-**Stat line** · Level 380 · Band IV, Mythic · Stage X, Realization · Path Fate 55% / Spirit 45% · Master · η 0.94 · Class unnamed · Aether II · Essence IV · Thread V · Crystal Sovereign, Refined
+**Stat line** · Level 380 · Band IV, Mythic · Stage X, Realization · Path Fate X Mastered · Spirit IX Walked 45% · Master · η 0.94 · Class unnamed · Aether II · Essence IV · Thread I · Crystal Sovereign, Refined
 **Combat grammar** · Expenditure
 **Aura and sound** · Hypnather at Realization's clarity, pale and clean, a glassy violet gone to drowsy lavender, a syrupy shimmer like heat-haze gone thick, droplets hanging in it; sound: a long jaw-cracking yawn, then a low hum like a pane of glass ringing very slowly
 **Stack** · sustainable SS in Projection and Longevity · cap +2 Grades · layers: FEATHERBED, the Snooze-Glass charge, TAR TIME or the Lie-In when called
@@ -38,14 +38,14 @@
 **Level** · 380
 **Band** · IV, Mythic
 **Temperance Stage** · X, Realization. He reached the Level where he should push for Dissonance decades ago and has been lying there since
-**Path** · Fate 55%, Mastered; Spirit 45%, Walked. No Body Path at all: the gates hold his Fortitude, Celerity, Grapple and Penetration in the low hundreds or below
+**Path** · Fate X Mastered · Spirit IX Walked 45%. No Body Path at all: the gates hold his Fortitude, Celerity, Grapple and Penetration in the low hundreds or below
 **Tier of Standing** · 6, Master
 **η** · 0.94. Far above the Master band and standing as recorded. He wastes nothing, because wasting would mean working
 **Soul Crystal Tier** · Sovereign
 **Crystal State** · Refined. The calmest Crystal in the Sins, and the most worrying for it
 **Aether Class** · II, Harmonic; there is no Body Path behind it and he does not hit people, but the yawn reaches the air, the flames and the dust all the same
 **Essence Class** · IV, Shepherd
-**Thread Class** · V, Weaver
+**Thread Class** · I, Touched; no blood and no blessing behind it, only the one grip a soul can win for itself, which he won lying in the coal-store, and which is DOK
 **Attraction / Obsession** · Obsession Force with nothing to grip on: he never commits, so there is no gap between what he is and what he thinks he must be. The cost of that is everything else on this card
 
 ## III. Wellspring Harmonizations
@@ -113,10 +113,10 @@ Every process that starts needs a push to get over its barrier, and the hotter a
 
 ## X. Techniques
 
-**TAR TIME (Signature Technique)** · mark: Mastered · page: TAR TIME
+**TAR TIME (Signature Technique)** · mark: Mastered · Source: Lived · page: TAR TIME
 He yawns, enormously, and the air around him starts toward the glass transition: the point where a liquid slows so far it stops flowing for any purpose that matters, like the pitch in the philosophers' funnel at Stannvaard that drops once every ten winters. Inside a sphere forty yards across, out to a hundred and twenty when he bothers, everything that moves through space slows: air, steam, fire's spread, a thrown weapon, the salts that carry a signal down a nerve, a working's travel. The thickened medium is shear-thickening as well, like cornflour stirred in water, so a slow push passes through almost freely while a fast one is fought harder the harder it comes; the faster the blow, the thicker the world it meets. It costs 0.3% of his reserve a second, about 583,000 EU, and holds 5 minutes 33 seconds from full. He moves through it at his ordinary amble because Abython equalises him to it; he carries no differential against the medium, so it does not drag on him. Its limit is the glass itself: it slows motion through space, never the shaking of the smallest pieces of a thing where they stand, so heat is untouched and keeps building, and glass softens as it heats. Before: the yawn is a long, loud, obvious tell, and anyone out of the forty yards when it ends is outside the field. During: move slowly, which the field barely resists, or run hot, because temperature thins it fast. After: when he drops it, everything held in it comes loose at once, and he is standing in the middle of it.
 
-**THE SNOOZE-GLASS DROP (Signature Technique)** · mark: Drilled · page: TAR TIME
+**THE SNOOZE-GLASS DROP (Signature Technique)** · mark: Drilled · Source: Lived · page: TAR TIME
 The one way he has found to skip the yawn. Overnight, while he sleeps, he lets a full TAR TIME's worth of glassed air settle into the brass-banded glass bubble that floats at his shoulder, 4% of his reserve, about 7,777,000 EU, held ready. He drops the bubble and the field opens around him with no yawn and no warning. It is one charge; after it he is back to yawning, and the bubble needs a full night's sleep to refill. The tell is the bubble dimming as it falls. Count it: if it has dropped once today, it will not drop again.
 
 **THE CHAISE (Technique)** · mark: Mastered

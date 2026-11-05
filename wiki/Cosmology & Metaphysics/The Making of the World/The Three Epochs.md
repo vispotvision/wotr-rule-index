@@ -126,3 +126,7 @@ Rebirth moves pattern and never a person. Bloodlines repeat, Traits resurface th
 ## Where They Are Now
 
 Nobody with a seal on their work will say. They walked in human form in the days of the Physical Epochs, and Ashura kept a house and raised children at it. A blessing is still sometimes traced to one of them, the [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus|Crevice]] is sealed by what the registers call a tri-epochal sacrifice, and Ashura is the Soul Plane in some sense careful people decline to define, since a seam has been forced in her and a man is holding it shut. The working answer is that they act very rarely, as the [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons|Archons]] do, and that it shakes the world when they do. [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]] shows where all of this lands.
+
+---
+
+**Read next:** [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons|The Fourteen Archons]], for the crowned Works; [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate|Hataraki]], [[The Disciplines/Named Arts/Matla|Matla]] and [[The Disciplines/Schools and Bloodline Arts/Null-Light|Null-Light]], for the three instruments; [[Cosmology & Metaphysics/From Omnara to a Blow|From Omnara to a Blow]], for the whole chain.

@@ -192,3 +192,7 @@ The price is about five hundred times the band for the Stage it carries you to, 
 - **The hunting towns** render where the crews come up. Any town with a dungeon on it has a rendering house by the hall, and an Essence Draft bought there costs a third less and has been nearer the beast.
 - **The north** trades in kind. A belt of Drafts travels where a wall cannot, so the north ranks the pouring above the cutting, and a vial is paid for in salt, meat, fuel or a season's labor owed.
 - **The East** buys through its sects (the schools and great houses). A disciple draws Drafts against rank and duty; an outsider buys through a sect's factor, at a sect's price, or not at all.
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts|The Ladder and the Draft]], for advancement and tempering; [[Materials, Alchemy & Trade/Alchemy/Monster Cores|Monster Cores]], for the stock; [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], for the crash and the cap.

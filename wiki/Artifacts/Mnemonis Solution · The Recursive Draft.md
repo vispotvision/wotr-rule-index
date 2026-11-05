@@ -22,7 +22,7 @@ Not a weapon; the armor-tier field the Item Guide requires for weapon entries do
 
 ### Codex line
 
-Wellspring: **Anamnesis**, primary. Kind: **Medium**. Physics Domain: **Entropy, Void and Mind**. Category: **Drafts** (Skill: bottling Drafts, bottled, cruder, buyer-triggerable, matching how the dose is prepared and administered). Glyphs: `Ma` (Memory) and `Ie` (Insight), both in documented use elsewhere in canon but not yet checked against the full 136-entry Master Glyph Index; `Ur` (Balance), independently confirmed, Root, Urion, primary Wellspring Judicium.
+Wellspring: **Anamnesis**, primary. Kind: **Medium**. Old register: **Drafts** (Skill: bottling Drafts, bottled, cruder, buyer-triggerable, matching how the dose is prepared and administered). Glyphs: `Ma` (Memory) and `Ie` (Insight), both in documented use elsewhere in canon but not yet checked against the full 136-entry Master Glyph Index; `Ur` (Balance), independently confirmed, Root, Urion, primary Wellspring Judicium.
 
 ### Bond and cost
 

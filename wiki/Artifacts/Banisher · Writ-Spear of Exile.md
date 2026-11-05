@@ -42,7 +42,7 @@ Street register calls it what the sigils promise. When Banisher points, the door
 
 ### Codex line
 
-**Primary Wellspring** Judicium: order, measure, consequence. Kind **Wild**, Physics Domain **Electromagnetism**. **Secondary Wellspring** Transference, The Living Exchange. Kind **Fate**, Physics Domain **Spatial Geometry**, carrying the Exile Mark's displacement specifically.
+**Primary Wellspring** Judicium: order, measure, consequence. Kind **Wild**. **Secondary Wellspring** Transference, The Living Exchange. Kind **Fate**, Physics Domain **Spatial Geometry**, carrying the Exile Mark's displacement specifically.
 
 **Category** Claustra (primary: the confinement and exclusion functions, Jurisdiction Chains, Gate-Nail, Articles of Exclusion). Transitus (secondary: the Exile Mark's translocation).
 

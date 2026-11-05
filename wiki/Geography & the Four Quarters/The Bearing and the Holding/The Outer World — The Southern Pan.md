@@ -159,7 +159,7 @@ Exports phosphate, nitre, chromite, fulgurite, hides, and labor. Imports well-di
 
 Clemence Rooke, Measurewright, petitioned the Dragon Sovereign's court for a survey permit six times between Year 631 and Year 640. The sixth answer came by Wyvern, which landed in her camp on the Dust Coast, ate the mules with every courtesy, and left under a rock a sealed refusal correct in every point of treaty form. She filed it, walked home, and wrote up what she had been able to see, which is the whole of the page above. What follows came from people who had wings to ask, or who did not ask.
 
-> ⚠️ **Unreconciled, but not in the way the Old World is.** See the reconciliation note at the foot of this page before writing from either account.
+> **Two accounts of this quarter, and they disagree, though not in the way the Old World's do.** The note at the foot of this page says why.
 >
 > Everything above is the Measurewrights' survey: an unglaciated craton, duricrust and gibber, flood basalt, ophiolite coast, nitre pans, bone-beds, the Crevice. Almost no water, almost no wood, no array work, and the polities are the Braqthian confederations, Dorrosfenn and Epprenea.
 >

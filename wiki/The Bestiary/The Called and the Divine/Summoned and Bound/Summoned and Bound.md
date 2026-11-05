@@ -48,3 +48,7 @@ The standard eleven questions still apply. Origin before appearance, Essence Aff
 - [[The Bestiary/The Called and the Divine/Summoned and Bound/Vaelmorn · The Standing Grave]]
 - [[The Bestiary/The Called and the Divine/Summoned and Bound/Obrenkael · The Mule]]
 - [[The Bestiary/The Called and the Divine/Summoned and Bound/Haelvorn · Housecat]]
+
+---
+
+**Read next:** [[The Magic System/The Soul and the Climb/Classes and the Three Ladders|Classes and the Three Ladders]], for what each rung of a called thing buys; [[The Magic System/The Soul and the Climb/The Three Paths Routing, Recognition and the Gate|The Three Paths]], for how its lean plays.

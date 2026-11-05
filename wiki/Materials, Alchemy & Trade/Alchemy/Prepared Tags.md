@@ -100,3 +100,7 @@ Orla Venn, a Stage III bounty hunter, walks into a warehouse after a forger. She
 - **The sects.** The schools and great houses of the East keep their best tag forms as secrets, taught by rank, and a school's tag-hand can be spotted at fifty paces by the way the sleeve is cut. A disciple who leaves with a Binding or an Anchor form in their hands is hunted for what they know.
 
 > In the north almost nobody cuts. What tags the north carries come from Accord quartermasters, and a northern soldier pays for them in kind.
+
+---
+
+**Read next:** [[The Magic System/Power in Use/The Working Trades|The Working Trades]], for the craft that cuts them; [[The Magic System/Power in Use/Stacking and Spending|Stacking and Spending]], for what they do to a fighter's budget.

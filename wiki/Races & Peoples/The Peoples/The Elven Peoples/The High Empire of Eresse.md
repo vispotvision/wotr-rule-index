@@ -169,3 +169,7 @@ It is during the war's most desperate stretch that the first strategic disagreem
 > *"We asked the mountain before we quarried it. We asked the river before we drank. We have not yet learned to ask each other, and that is the crack the Erebus found first."*
 >
 > *Marginal note, Sunroot Court archive, author unrecorded*
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the first communion and what it was; [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms|The Tongues of the Realms]], for what the tongue carries.

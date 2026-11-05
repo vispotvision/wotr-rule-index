@@ -89,3 +89,7 @@ flowchart TD
 - [[Lore & History/The Alftian Codex/Volume the Third]]
 - [[Lore & History/The Alftian Codex/The Farrant Papers]]
 - [[Lore & History/The Alftian Codex/The Necrocursica]]
+
+---
+
+**Read next:** [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|The Sixty Wellsprings]], for the Wellsprings as the trade now files them; [[Materials, Alchemy & Trade/Alchemy/Alchemetrica|Alchemetrica]], for the bench Vis was working at.

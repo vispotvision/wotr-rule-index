@@ -3,7 +3,7 @@
 # Léonard Lambert
 
 **Léonard Lambert** · the Warlord of the Lamberts · House Lambert of Sallowgate, the Holy Sea of Alabaster · as of the white shelf above Sallowgate, the morning of the first snow, under the house banner
-**Stat line** · Level 175 · Band II, Awakened · Stage VI, Glory · Path Body 55% / Spirit 30% / Fate 15% · Expert · η 0.65 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
+**Stat line** · Level 175 · Band II, Awakened · Stage VI, Glory · Path Body VI Mastered · Spirit V Walked 30% · Fate Studied 15% · Expert · η 0.65 · Class unnamed · Aether I · Essence Ø · Thread Ø · Crystal Harmonic, Refined
 **Combat grammar** · Blade; the counter-cut that has already started before your blow has
 **Aura and sound** · a clean pale gold with a thin line of white through it, like the edge of the shelf with the sun behind it · sound: a coin set down on stone, then another, counted
 **Traits** · ONE BEFORE (Inherited) · tell: he moves a hair before you do · counter: a blow with no intent behind it / COUNT TRUE (Primary) · tell: he says the number out loud · counter: a field he cannot see / THE STRUCK LIST (Secondary) · tell: he asks for the count twice · counter: a man who gives him a true one
@@ -43,7 +43,7 @@ A Lambert who gives a false count is struck from the house, and the house keeps 
 
 ## Signature
 
-**THE SALLOWGATE ANSWER (House Art, Lambert)** · mark: Mastered
+**THE SALLOWGATE ANSWER (House Art, Lambert)** · mark: Mastered · Source: Taught
 The Lambert counter-cut, taught at Sallowgate to every child of the house, woken or not: the blade turns in his hand before yours has left its line, takes it on the flat a hand from your guard, and rides down it into the wrist, the elbow or the throat, in one movement and with no flourish. In him, with ONE BEFORE and Glory's Reflex behind it, the answer arrives so early that men he has fought swear he struck first. It costs about one and a half per cent of his reserve each time, near 6,900 EU, and it is B-Grade on the edge. Its limit is that it is an answer; he has to be asked first, and a man who will not attack him gives him nothing to answer. Its counter is to feint with the whole body, so that the intent he reads is false, and then strike with no thought at all.
 
 ## Voice

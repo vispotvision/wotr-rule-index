@@ -32,6 +32,6 @@
   - doing now: at the Cedar Enclave, Hiromi's new training partner under her father
   - stands with him: Naiser Yukari
 **Saeju Mahuo** · wants: — · refuses: — · last seen: —
-  - doing now: dead: a roof came down on her in the war, one night before Cozbi reached her, about three years ago
+  - doing now: dead: a roof came down on her in the war, one night before Cozbi reached her, about three years ago; she was the rightful heir of the Vermilion Dynasty of Sum-gol
   - stands with him: Cozbi Mahuo, Hiromi
-  - role: Rightful heir of the Vermilion Dynasty of Sum-gol; Cozbi Mahuo's sister; Hiromi's mother (새주, SAY-joo)
+  - role: Cozbi Mahuo's sister; Hiromi's mother (새주, SAY-joo)

@@ -88,3 +88,17 @@
   doing_now: at the Cedar Enclave, Hiromi's new training partner under her father
   stands_with: Naiser Yukari
   last_updated: '2026-11-03'
+- name: Saeju Mahuo
+  thread: Kharven
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: 'dead: a roof came down on her in the war, one night before Cozbi reached her, about three
+    years ago'
+  stands_with: Cozbi Mahuo, Hiromi
+  role: Rightful heir of the Vermilion Dynasty of Sum-gol; Cozbi Mahuo's sister; Hiromi's mother (새주,
+    SAY-joo)
+  last_updated: '2026-11-05'

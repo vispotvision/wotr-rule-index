@@ -30,3 +30,7 @@
 **Senna Yukari** · wants: — · refuses: — · last seen: —
   - doing now: at the Cedar Enclave, Hiromi's new training partner under her father
   - stands with him: Naiser Yukari
+**Saeju Mahuo** · wants: — · refuses: — · last seen: —
+  - doing now: dead: a roof came down on her in the war, one night before Cozbi reached her, about three years ago
+  - stands with him: Cozbi Mahuo, Hiromi
+  - role: Rightful heir of the Vermilion Dynasty of Sum-gol; Cozbi Mahuo's sister; Hiromi's mother (새주, SAY-joo)

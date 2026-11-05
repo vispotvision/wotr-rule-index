@@ -17,7 +17,9 @@ description: "Design a War of the Realms technique, Trait, art or ability from a
    the real physics, the governing law, the boundary condition the glyph
    supplies, the failure mode, with the power's Superpower Wiki page
    (powerlisting.fandom.com, one of the primary sources for abilities) for
-   its applications, combinations and limitations.
+   its applications, combinations and limitations. `lookup` reads it (`superpower`)
+   and the rest: `vsbattles` for kits and counters, `hxh` and `jjk` for conditions
+   and vows, `worm` for strange limits, `lotm` and `reverend-insanity` for cost.
 4. **The mechanism and the price.** Cost in EU against the owner's reserve,
    written as how long it lasts from full; limit and tell; one fair counter
    within reach at the technique's own Stage on known law. A signature's

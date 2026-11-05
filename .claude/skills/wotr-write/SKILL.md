@@ -53,7 +53,8 @@ statement only at the start of a brand-new chat.
 FOW lines of the named practitioners (`character(name)`, `fow_line(name)`),
 `scene_context` on his prompt (a name with no page gets no number),
 `scene_recall` for prior scenes on the same ground, and research only of what
-is new (a working's phenomenon, an injury), reused after. A domain's full rule
+is new (a working's phenomenon, an injury, a blow's mechanics, a word that reads
+generic; `lookup` and `research`, `desktop/NATALIE.md`, Outside resources), reused after. A domain's full rule
 text the first time the scene touches it (`load_rules(tags)`); an open docket
 item is decided at the table and the writing goes on.
 
@@ -122,7 +123,7 @@ pipeline in `references/scene-pipeline.md`.
    anything worked (`wiki/The Magic System/`: The Master Glyph Index, The
    Eight Families & the Sixty Wellsprings, The Magical Categories, The Lexicon
    of Magic; `wiki/The Disciplines/Techniques/` for precedent), the culture's
-   Standing Inventory as reference, research of what is new.
+   Standing Inventory as reference, research of what is new (`lookup` and `research`, `desktop/NATALIE.md`, Outside resources).
 2. **Pre-write.** `scene_brief(beat)`, filled: POV and what he knows and
    wrongly believes; the value that turns; what it costs; each named
    practitioner's kit and the fresh use each reaches for; the scene's shape

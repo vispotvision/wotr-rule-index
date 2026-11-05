@@ -13,4 +13,6 @@ Fix four things, in this order of attention:
 3. **Voice and heat.** Distinct voices by culture and rank, anime-big feeling, color and sound words in the lexicon's palette, American spelling.
 4. **Continuity and rules.** Positions, limits, tense, canon; no new technique growth, Level points or card changes (those stay his).
 
+Where a word reads generic or a blow's mechanics are vague, use `lookup` silently before the rewrite (`datamuse` for the word, `wiktenauer` or `wikipedia` for the mechanics; `desktop/NATALIE.md`, Outside resources).
+
 Keep what is already strong. Do not shorten or tidy away complexity. Run `desktop/PROSE_REVIEW_PASS.md` silently, then `verify_scene`, and fix every FAIL before it goes back. Never call ChatGPT or Codex.

@@ -20,7 +20,7 @@ moving into or away from the blow.
 Research once per scene, only what is new, and reuse it after (R79-2).
 
 1. Read `references/injury-tables.md` for the matching weapon class.
-2. Search once (WebSearch, or the MCP's `research` through Agent Reach, which reads the pages too) for the real injury: the anatomy at that angle, the vessel
+2. Search once (WebSearch, the MCP's `research` through Agent Reach, which reads the pages too, or `lookup("wikipedia", "<structure>")` for one page) for the real injury: the anatomy at that angle, the vessel
    or organ, the bone. Trauma literature, not fiction. Name the source.
 3. Search once for the armor interaction at that tier (mail against thrust,
    plate against cut, gambeson against blunt). Pack Eleven: proof-marks are

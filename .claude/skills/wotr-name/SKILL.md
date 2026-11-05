@@ -17,6 +17,10 @@ end-of-scene name check. Naming register is not ethnicity.
    Standing Inventory comes with `session_start(thread, culture=...)`.
 3. `wiki(name)` or `character(name)` first: never name a second person what a
    carded one is already called.
+4. For raw material: `lookup("jisho", ...)` for Japonic words and readings,
+   `lookup("wiktionary", ...)` for etymology and old forms in any tongue,
+   `lookup("datamuse", ...)` for near meanings. A find is a seed; the culture's
+   sound rules still decide.
 
 ## The five strata
 

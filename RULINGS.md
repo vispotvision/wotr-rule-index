@@ -3611,3 +3611,9 @@ Context: wiki/The Magic System/Practice and Institution/.
 AGENT RULING (Natalie, wiki rewrite, overturnable). Fracture of Worlds wiki pages. "The draw" as a rate is now "the drain", "spent" is its verb, and "pull" is used for the environment. Grade D and Grade B carry the bolt wording. A heavy steel-bowed arbalest takes the revolver's slot on the Sidearm rung at the same 440 J, beside the ordinary bolt at 100 J. Strike, lifting and durability comparisons in Part III are medieval, and F-Grade Durability deliberately leaves out crossbow bolts. Residue streets sit on a "slow vein" and career "vein-men" work "the deep galleries of a worked vein". Kept unchanged: the rung names, Sidearm, Thundercrack Grenade, Crystal Draw and Metering Tonic. TNT, kiloton and Mach figures stay as modern measures (R83-11). Smaller calls: two Experts stand two Stages apart, not three, matching the row's own V to VII; Grades run F through EX+ with Hollow below; a Primary Trait is carried from birth and first shows in a deed; Part Twenty-Two gains a line that a Domain is called aloud and forms as named (R81-11).
 
 Context: The canon source is unedited. These pages now differ from it on the setting under R83, and on the Expert figure by this call.
+
+## 2026-11-05 — new
+
+Isaac, 2026-11-05: "dont use onomatopoeia ESPECIALLY Not these documents". Wiki and reference documents carry no onomatopoeia: no written sound effects, stretched noises or comic word-sounds. Applied to the magic pages and Ages pages at once and to every later section of the R83-13 rewrite.
+
+Context: Said about the rewritten magic pages. Whether it also retires sound words in scenes (NATALIE's Onomatopoeia section, R81-10) has been put to him and is not yet answered.

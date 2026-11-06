@@ -3,7 +3,6 @@ title: The Geography of the Outer World
 tags:
   - Geography
   - Peoples
-private: true
 ---
 
 # The Geography of the Outer World

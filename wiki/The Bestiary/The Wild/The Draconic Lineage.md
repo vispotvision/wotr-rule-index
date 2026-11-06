@@ -13,6 +13,8 @@ That is a wyrm being patient. The rest of this entry explains why you should pre
 > All four descend from Omnis' first sky-breath. **Two of them no longer do so honestly.**
 >
 > The Hydra is a wyrm bloodline **fractured by void-tainted [[The Magic System/The Foundations/The Sixty Wellsprings/The Sixty Wellsprings|Wellsprings]].** The Voidwyrm is draconic blood crossed with raw Crevice essence. *Draconic cultures regard both as tragic: reminders of what happens when a draconic soul fractures beyond repair.*
+>
+> **A word on the names.** This page enters the wild and corrupted lines. The peoples of Drakyssia who carry the same words, the Hydra Dragons of its sanctums, the Wyrms of the Wyrmdeep and the bred Wyverns of the Iron Roosts, are civilized branches with their own account in [[Races & Peoples/The Peoples/Draconic Kind — The Dragons of Drakyssia|Draconic Kind]], which also holds the Salamanders, the first flameborn of Omnis. They share descent with what follows and should not be mistaken for it, least of all by a hunter.
 
 ---
 
@@ -90,7 +92,7 @@ Highly aggressive, **driven by constant hunger due to unstable Essence metabolis
 
 The **Siege of Lornhaven** saw a six-headed storm hydra destroy three Concord watchtowers in a single night before massed trebuchets and a wing of griffon riders brought it down. **In the Abyssal Depths, the Nine-Maw of Zar'thuun remains an active and growing threat.**
 
-*Among draconic cultures hydras are tragic abominations. To abyssal warlords they are symbols of unstoppable consumption.*
+*Among draconic cultures these void-fractured hydras are tragic abominations, and the Hydra Dragons of Drakyssia, whose heads were joined by ritual, are quick to say so. To abyssal warlords they are symbols of unstoppable consumption.*
 
 ---
 

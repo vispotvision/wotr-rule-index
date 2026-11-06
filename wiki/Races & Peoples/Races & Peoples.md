@@ -55,6 +55,8 @@ The codices in this section are partisan, and I would distrust any that claimed 
 - [[Races & Peoples/The Peoples/The Marrowkin/The Marrowkin]]
 - [[Races & Peoples/The Peoples/The Goblinoid Peoples]]
 - [[Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples]]
+- [[Races & Peoples/The Peoples/Draconic Kind — The Dragons of Drakyssia]]
+- [[Races & Peoples/The Peoples/The Vampiric Peoples]]
 - [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms]]
 > **Tongues.** The constructed languages live here rather than under The Magic System, because a tongue belongs to a people before it belongs to a working. **The Tongues of the Realms** is the framework: what counts as a language against what is only a naming register, the seven conventions binding every grammar, and the family tree. Old Vaross, Eressean and Varrisak, the Tally-Tongue, Accord Latin with its two spoken registers, and Common. **Accent** sits under Common as a menu for placing a speaker without spelling a single vowel.
 >

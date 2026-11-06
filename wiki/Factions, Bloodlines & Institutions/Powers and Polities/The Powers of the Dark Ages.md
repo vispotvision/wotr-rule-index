@@ -43,7 +43,7 @@ Day-to-day rule in most of the four quarters comes from three authorities stacke
 | **The chartered company** (a sworn partnership of merchants, licensed by a crown, whose backers hold shares in its ventures) | The trade: the workshops, the warehouse, the route, the store and the scrip | The charter, the roll of partners and the company's own guards | Its charter can be revoked, and one lost venture can ruin its backers |
 | **The guilds** | The hunters, the license, and local policing of magic | The license, the guild court, the trace examiner and the hunting hall | It holds no land and keeps no standing army, and outside a signed circle it is only a guild |
 
-**Each layer fights the others over jurisdiction, and which one wins differs by place.** On the New World's arc the charter is the ground, so the company and the guilds win. In the Inner World heartland crown law and guild law have grown into each other until nobody can say which issued a given rule. In the Old World the great houses win, and a foreign company enters only through a house's port on a house's terms. In the Outer World the throne wins outright, and the Ten Houses are their own companies. In Kharven there is no working crown and no instrument that binds, so whoever arrives with the most men and the best grain wins that season.
+**Each layer fights the others over jurisdiction, and which one wins differs by place.** On the New World's arc the charter is the ground, so the company and the guilds win. In the Inner World heartland crown law and guild law have grown into each other until nobody can say which issued a given rule. In the Old World the great houses win, and a foreign company enters only through a house's port on a house's terms. In the Outer World's south the throne wins outright, and the Ten Houses are their own companies; in its north the Blood Throne does, and the Crimson Ledger Courts keep the books. In Kharven there is no working crown and no instrument that binds, so whoever arrives with the most men and the best grain wins that season.
 
 ### How the powers fight
 
@@ -62,21 +62,39 @@ Day-to-day rule in most of the four quarters comes from three authorities stacke
 
 ### The Dragon Throne of Drakyssia and the Ten Houses
 
-*Outer World · an empire claiming roughly eight parts in ten of its quarter of the world*
+*Outer World · an empire holding the southern half of its quarter of the world*
 
 **Wants.** Wells and rich ground above everything, because Drakyssia's own ground is Aether-depleted and it cannot produce what it needs on it. Reagents, Essence-bearing plants, catalysts and food in the lean years. Predictable roads through its tributaries.
 
 **Holds.** The largest Wyvern air force in the Outer World, the richest gold of its quarter, the Dragon Roads, the Dens, and a treaty court system that lets mortal kingdoms appeal against lesser dragon lords.
 
-**Fights by.** Economic war first, through House Avarax's commercial enclaves and Avarax-chartered merchants in nearly every major port. Rule over tributaries through House Akhazar's treaties and tributaries. Open war through House Dovaryn's wings, which can reach almost anywhere in the quarter faster than an army marches.
+**Fights by.** Economic war first, through House Avarax's commercial enclaves and Avarax-chartered merchants in nearly every major port. Rule over tributaries through House Akhazar's treaties and tributaries. Open war through House Dovaryn's wings, which can reach almost anywhere in the south faster than an army marches.
 
-**Set against.** Any power buying Wells it depends on. Foreign companies entering tributary kingdoms without Akhazar's permission. And itself: Zhaeryn and Avarax quarrel over export prices, Ishkar restricts Rhaegyr's forges when they pull too much, Eredan complains that Dovaryn's Wyverns eat the herds.
+**Set against.** Any power buying Wells it depends on. Foreign companies entering tributary kingdoms without Akhazar's permission. Dreadvalis across the Twilight March, which it buys grain and medicine from in bad years. And itself: Zhaeryn and Avarax quarrel over export prices, Ishkar restricts Rhaegyr's forges when they pull too much, Eredan complains that Dovaryn's Wyverns eat the herds.
 
 **Fears.** Depletion that no conservation can reverse. A House grown self-sufficient. The day the throne stops being predictable, because predictability is the whole of what it sells to the mortals beneath it.
 
 **At the door.** A baker in a tributary port buys her flour in an Avarax sack at an Avarax price, and when she appeals the price she pays a treaty clerk to write the appeal, also in Avarax's pay. A herder's child in the Eredan grass can name a Wyvern wing by its shadow before she can count the cows it ate.
 
 **The seam.** Every Imperial Charge depends on another. A party that can starve one House of what a second House supplies turns the second against the first, and the Council of Ten Wings exists precisely because that happens.
+
+### The Blood Throne of Dreadvalis and the Great Clans
+
+*Outer World · a young Vampire empire holding the northern half of its quarter of the world*
+
+**Wants.** Blood, lawfully and without end, and a race that does not eat itself to extinction. Mortal kingdoms fed, healthy and dependent. And now an answer to the only question its oldest rulers are asking: whether the thing that made them has come back for them.
+
+**Holds.** Bluvest and the Red Sea, Morvayne and the Crimson Ledger Courts, the Great Veils and the Veil Roads, the Frozen Wells, most of the continent's ordinary metals, and most of its stored food and medicine, which its rulers cannot eat and do not need.
+
+**Fights by.** Being the one who never runs out. Rations, physicians and protection for any realm that pays the blood tithe, treaty law out of Morvayne, Vein-Marshals and Turned garrisons on the Red Marches, and veils under which even Dovaryn's Wyverns fly half-blind.
+
+**Set against.** Drakyssia across the Twilight March, whose gold and steel it pays for and whose Wyverns watch its border. And itself: reformist clans seek voluntary donors, traditionalists keep mortals as managed resources, and Malakarian loyalists call every feeding restriction a betrayal.
+
+**Fears.** The sun. Its own hunger, and the feral collapse that comes of starving it. Above all its maker: Malakar walks the Material World again, every Vampire alive can feel him in the blood, and the Blood Throne has said nothing in public.
+
+**At the door.** A household under a veil gives its portion to a physician in a Tithe Hall, the young, old, sick and pregnant excused, and in a lean year eats grain out of the Cold Granaries. A northern child's first sight of the south often ends in tears at the brightness.
+
+**The seam.** The empire's law exists to prevent extinction and to regulate exploitation, and the clans have never agreed which comes first. The tributary kingdoms are shown the Tithe Halls and are not shown the Livestock Populations of the traditionalist estates; a party that shows them has split the empire's best face from its oldest law.
 
 ### The Kusharan Throne and the Seven Pillars
 

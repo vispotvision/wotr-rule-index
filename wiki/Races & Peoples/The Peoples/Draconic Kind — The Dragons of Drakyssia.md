@@ -718,3 +718,7 @@ They often surge right after bonding, then stall while integrating the shard. At
 **Famous figures:** the Drakyssian Aetherriders, bonded champions, the mortal-dragon heroes still to come.
 
 **Advantages:** shared power, dragon senses, rapid growth, an emotional Axis, aerial combat. **Limitations:** Bond grief, the shame of a dragon's death, incomplete forced Bonds, identity bleed.
+
+---
+
+**Read beside this.** [[Geography & the Four Quarters/The Geography of the Outer World|The Geography of the Outer World]], for the land; [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Ten Great Houses of Drakyssia]], for the House system; [[The Bestiary/The Wild/The Draconic Lineage|The Draconic Lineage]], for the wild lines that share these names.

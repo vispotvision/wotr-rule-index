@@ -12,13 +12,13 @@ title: The Ten Great Houses of Drakyssia
 
 **Foundational principle:** No House possesses the Empire. Every House possesses something the Empire cannot afford to lose.
 
-Bess Oakes of the Southern Grass Sea kept eleven red cattle and a bad temper, and in the dry summer of 604 a Dovaryn wing-lord named Sethrax the Long came down on her pasture, three hundred meters of crimson and tarnished gold, and ate the lot in the time it took her to swear. She cut the tails off what he had left, put them in a sack, and walked nine days to the Eredan assize at Ered-Vaelor, where a small green Dragonkin clerk read her complaint through twice and sent a summons. Half the Grass Sea came out to watch him laugh at it, and he obliged them, loudly, from the top of a hill. So Eredan billed him. Zhaeryn, on Eredan's paper, froze his gold. Rhaegyr found it could not mend his barding this season, and Ishkar discovered that the ground under his roost was approaching depletion and regretted the limit on his pulling, and Maelkar wrote a courteous letter asking after the health of his eggs. Before the first rain Sethrax the Long landed at Bess Oakes's fence, with the whole sky full of Wyverns come to see it, and set down eleven live cattle one by one out of his forefoot, and a chest. She counted them. She told him one was lame.
+Bess Oakes of the southern Grass Sea kept eleven red cattle and a bad temper, and in the dry summer of 604 a Dovaryn wing-lord named Sethrax the Long came down on her pasture, three hundred meters of crimson and tarnished gold, and ate the lot in the time it took her to swear. She cut the tails off what he had left, put them in a sack, and walked nine days to the Eredan assize at Ered-Vaelor, where a small green Dragonkin clerk read her complaint through twice and sent a summons. Half the Grass Sea came out to watch him laugh at it, and he obliged them, loudly, from the top of a hill. So Eredan billed him. Zhaeryn, on Eredan's paper, froze his gold. Rhaegyr found it could not mend his barding this season, and Ishkar discovered that the ground under his roost was approaching depletion and regretted the limit on his pulling, and Maelkar wrote a courteous letter asking after the health of his eggs. Before the first rain Sethrax the Long landed at Bess Oakes's fence, with the whole sky full of Wyverns come to see it, and set down eleven live cattle one by one out of his forefoot, and a chest. She counted them. She told him one was lame.
 
-Dragons will tell you that story to show how just the empire is. The mortals of the Grass Sea tell it to show how much a dragon can be made to hate a piece of parchment. A note on the word before we go in: Drakyssian chanceries say "the continent" and "continental" for their own Outer World quarter of the one great land, as though everything past the Five River Kingdoms were a rumor, and I leave the word as they wrote it because they sue.
+Dragons will tell you that story to show how just the empire is. The mortals of the Grass Sea tell it to show how much a dragon can be made to hate a piece of parchment. A note on the word before we go in: Drakyssian chanceries say "the continent" and "continental" for their own half of the Outer World, as though everything past the Twilight March were a rumor, and I leave the word as they wrote it because they sue.
 
 ## The Structure
 
-Drakyssia's dominance over the Outer World does not rest on the Dragon Sovereign alone. Beneath the imperial throne stand ten ancient draconic dynasties whose territories, bloodlines, armies, trades and institutions are the structural foundation of the empire. Each holds an **Imperial Charge**: a responsibility whose failure can endanger the whole Outer World.
+Drakyssia's half of the Outer World does not rest on the Dragon Sovereign alone. Beneath the imperial throne stand ten ancient draconic dynasties whose territories, bloodlines, armies, trades and institutions are the structural foundation of the empire. Each holds an **Imperial Charge**: a responsibility whose failure can endanger the whole of the south.
 
 The Houses deliberately overlap, and none is meant to become self-sufficient. The House with the greatest army does not hold the treasury. The House holding the treasury does not hold foreign trade. The House holding trade does not hold the Dragon Dens. The House with the greatest mines does not hold the forges. The House holding the forges does not command the Dragon Roads.
 
@@ -47,28 +47,28 @@ What Drakhalis authority gives the continent is exceptionally rare among dragons
 
 **Formal title:** House Dovaryn, Lords of the Ten Thousand Wings
 
-**Seat:** Vhar'Dova, the Sky Arsenal · **Heartland:** Northern Drakhal Spine and the Iron Roost corridor
+**Seat:** Vhar'Dova, the Sky Arsenal · **Heartland:** Northern Drakhal Spine and the Iron Roost corridor, facing the Twilight March
 
 **Charge:** Aerial warfare, Wyvern breeding, rapid deployment, sky patrol, continental interception
 
 Dovaryn possesses the largest Wyvern host in the Outer World, and no other House comes close. Its mountain territories hold nesting valleys, cliff hatcheries, aerial training grounds, military roosts, wind-gorges and breeding sanctuaries sustaining tens of thousands of Wyverns.
 
-Dovaryn doctrine treats the Wyvern not as a lesser dragon but as the ideal military organism for rapid aerial war. True Dragons hold greater individual power; Wyverns hold **numbers, speed, maneuverability, formation discipline and replaceability**. That distinction lets Dovaryn place wings almost anywhere in the Outer World faster than conventional armies can march.
+Dovaryn doctrine treats the Wyvern not as a lesser dragon but as the ideal military organism for rapid aerial war. True Dragons hold greater individual power; Wyverns hold **numbers, speed, maneuverability, formation discipline and replaceability**. That distinction lets Dovaryn place wings almost anywhere in the south faster than conventional armies can march.
 
 **Maintains:** the largest Wyvern military population · imperial aerial patrols · border interception wings · long-distance reconnaissance · Dragon Road security · relay courier flights · anti-piracy patrols · rescue wings · rider schools · military breeding · the watch on the upper air · rapid reinforcement. Its greatest formation is the **Grand Spearhost**, reserved for continental war.
 
-Dovaryn makes distance irrelevant: a rebellion thousands of miles from Kra'Vorrak can be seen within days and reinforced soon after, and no enemy can assume mountains, rivers, forests or broken roads will protect them. The same wings protect the common sky-roads, merchant caravans, isolated settlements and coastal shipping, and when flood or earthquake severs a region they are usually the first imperial force able to deliver medicine, food, messages or evacuation. They are feared as the first sign of invasion and respected as the first sign that help has arrived.
+Dovaryn makes distance irrelevant: a rebellion thousands of miles from Kra'Vorrak can be seen within days and reinforced soon after, and no enemy can assume mountains, rivers, forests or broken roads will protect them. The same wings protect the common sky-roads, merchant caravans, isolated settlements and coastal shipping, and when flood or earthquake severs a region they are usually the first imperial force able to deliver medicine, food, messages or evacuation. They are feared as the first sign of invasion and respected as the first sign that help has arrived. They also patrol the Red Marches border, where they fly half-blind under the northern veils.
 > Before the Enemy Sees the Mountain, We Have Seen the Enemy.
 
 ## 3. House Zhaeryn — The Golden Scale
 
 **Formal title:** House Zhaeryn, Keepers of the Auric Depths
 
-**Seat:** Zhaer-Khazad, the Golden Mountain · **Heartland:** Serrathan Highlands and Golden Escarpment
+**Seat:** Zhaer-Khazad, the Golden Mountain · **Heartland:** Golden Escarpment and southern Serrathan Highlands, across the March from Vel Sarith
 
 **Charge:** Gold, precious metals, gemstones, imperial reserves, mining law, monetary stability
 
-Zhaeryn controls the largest concentration of gold mines in the Outer World, extending beneath the Serrathan Highlands through surface mines, Wyrm-dug shafts, underground settlements, fortified vaults, ore-sledge galleries and ancient extraction chambers. Beyond gold: silver, platinum, diamonds, emeralds, cobalt, manganese, nickel and several rare magical ores.
+Zhaeryn controls the largest concentration of gold mines in the Outer World, extending beneath the southern Serrathan Highlands through surface mines, Wyrm-dug shafts, underground settlements, fortified vaults, ore-sledge galleries and ancient extraction chambers. Beyond gold: silver, platinum, diamonds, emeralds, cobalt, manganese, nickel and several rare magical ores.
 
 The House became enormously wealthy. Imperial law ensured it did not become enormously independent: the richest mines are **Crown Resources under Zhaeryn stewardship** rather than absolute private property.
 
@@ -89,7 +89,7 @@ The market-heart of the empire. Its dragons are stereotyped as negotiators, math
 
 **Oversees:** foreign trade · imperial customs · merchant licensing · port tariffs · continental trade standards · caravan protection agreements · maritime commerce · currency exchange · trade arbitration · merchant Dragon Roads · imperial warehouses · importation of Aether-rich resources.
 
-The House answers one of Drakyssia's great weaknesses: **the empire cannot produce everything it needs on depleted land.** Avarax imports Aether-rich reagents, healing materials, Essence-bearing plants, specialized timber, catalysts, food during shortage and foreign-made wonders and relics. It also created standardized weights, shipping protections, commercial arbitration, recognized caravan marks and cross-House merchant law, so a human trader can cross draconic territory without personally negotiating with every dragon whose mountain shadows the road.
+The House answers one of Drakyssia's great weaknesses: **the empire cannot produce everything it needs on depleted land.** Avarax imports Aether-rich reagents, healing materials, Essence-bearing plants, specialized timber, catalysts, food during shortage and foreign-made wonders and relics. It also created standardized weights, shipping protections, commercial arbitration, recognized caravan marks and cross-House merchant law, so a human trader can cross draconic territory without personally negotiating with every dragon whose mountain shadows the road. Most of the grain and medicine that crosses the March from Dreadvalis passes through Avarax contracts.
 > What War Cannot Reach, Trade Already Has.
 
 ## 5. House Maelkar — Keepers of the Dragon Dens
@@ -134,22 +134,22 @@ Rhaegyr makes the iron and scale of Drakyssian power. Its forge-cities surround 
 
 **Forges:** dragon-forged weapons · scale armor · Wyvern rider equipment · drake armor · siege weapons · fortress gates · Aether-resistant chains · military tools · Dragonfire glass · heat-tempered steel · war platforms · specialized dragon barding.
 
-The separation is deliberate and structural: **Zhaeryn owns the ore. Rhaegyr owns the furnace. Drakhalis owns the final war stockpile.** No single House holds the whole military production chain. The same forge network also produces farming tools, bridge components, waterworks, mining equipment, ship fittings, earthquake braces and ordinary civilian metal goods, indirectly supporting millions of non-dragons.
+The separation is deliberate and structural: **Zhaeryn owns the ore. Rhaegyr owns the furnace. Drakhalis owns the final war stockpile.** No single House holds the whole military production chain. The same forge network also produces farming tools, bridge components, waterworks, mining equipment, ship fittings, earthquake braces and ordinary civilian metal goods, indirectly supporting millions of non-dragons. Dreadvalis armies wear Rhaegyr steel.
 > Ore Becomes Empire in the Furnace.
 
 ## 8. House Eredan — The Harvest Scale
 
 **Formal title:** House Eredan, Keepers of Herd and Harvest
 
-**Seat:** Ered-Vaelor, the Granary Citadel · **Heartland:** Southern Grass Sea
+**Seat:** Ered-Vaelor, the Granary Citadel · **Heartland:** The southern half of the Great Grass Sea
 
 **Charge:** Food security, livestock, agriculture, dragon prey reserves, grain storage, ecological management, famine prevention
 
-The least glamorous necessity of empire and perhaps the most important. Dragons consume enormous quantities of biological matter, and feeding Drakyssia through uncontrolled hunting would devastate the Outer World. Eredan therefore manages immense livestock territories, breeding plains, grain reserves, fisheries, controlled hunting preserves and agricultural tributaries.
+The least glamorous necessity of empire and perhaps the most important. Dragons consume enormous quantities of biological matter, and feeding Drakyssia through uncontrolled hunting would devastate the south. Eredan therefore manages immense livestock territories, breeding plains, grain reserves, fisheries, controlled hunting preserves and agricultural tributaries.
 
 **Manages:** imperial grain reserves · dragon livestock herds · emergency food stores · agricultural treaties · ranch territories · hunting quotas · fishery protection · drought planning · famine relief · soil conservation · migration corridors · ecological carrying-capacity records.
 
-During mobilization it supplies mobile herds and preserved stores to dragon armies. Its agricultural law also protects mortal populations from predatory overhunting: imperial dragons cannot simply descend on protected livestock and eat what they please, compensation law applies even to nobles, and a farmer whose cattle are legally requisitioned by a dragon army must be paid. A dragon who eats them without authorization may discover that being three hundred meters long does not exempt one from imperial taxation.
+During mobilization it supplies mobile herds and preserved stores to dragon armies. Its agricultural law also protects mortal populations from predatory overhunting: imperial dragons cannot simply descend on protected livestock and eat what they please, compensation law applies even to nobles, and a farmer whose cattle are legally requisitioned by a dragon army must be paid. A dragon who eats them without authorization may discover that being three hundred meters long does not exempt one from imperial taxation. In drought years Eredan buys northern grain from the Cold Granaries, and hates that it must.
 > Even Fire Must Eat.
 
 ## 9. House Ishkar — The Wellspring Wardens
@@ -160,18 +160,18 @@ During mobilization it supplies mobile herds and preserved stores to dragon armi
 
 **Charge:** Aether conservation, Wellspring stewardship, Essence reservoirs (worked Wellspring sites, Cores in common speech, dragon-kept and let recharge), Dead Zone mapping, environmental recovery, magical rationing
 
-No House better represents the reality of the modern Outer World. Ishkar's whole responsibility is **what remains**. The House monitors surviving Aether Wells, volcanic recharge systems, exhausted Wellsprings, environmental Essence flow, atmospheric Aether, Soul-plane stability and regions approaching metaphysical collapse. Its scholars include some of Drakyssia's finest Wellspring specialists, environmental arcanists, Wyrm geomancers and Soul Crystal scholars.
+No House better represents the reality of the modern south. Ishkar's whole responsibility is **what remains**. The House monitors surviving Aether Wells, volcanic recharge systems, exhausted Wellsprings, environmental Essence flow, atmospheric Aether, Soul-plane stability and regions approaching metaphysical collapse. Its scholars include some of Drakyssia's finest Wellspring specialists, environmental arcanists, Wyrm geomancers and Soul Crystal scholars.
 
 **Controls:** The worked Cores and their keepers · how much may be pulled at each · rest for spent ground · Essence surveys · Dead Zone mapping · Hollow Wellspring records · stored Aether reserves · magical rationing during emergency · recovery projects · draconic population-impact assessment · licensing of Core keepers · continental depletion maps.
 
-Its authority is unusual: even Great Houses can be ordered to reduce magical consumption if Ishkar proves a territory is approaching irreversible depletion, with final enforcement belonging to the throne. It closes exhausted mines, restricts nesting near fragile Wellsprings, restores damaged river systems, rotates high-consumption populations, maintains emergency reservoirs and identifies regions where magic must temporarily cease. The House is sometimes hated because it tells powerful people no. It is respected because the alternative is eventually having nothing left to argue over.
+Its authority is unusual: even Great Houses can be ordered to reduce magical consumption if Ishkar proves a territory is approaching irreversible depletion, with final enforcement belonging to the throne. It closes exhausted mines, restricts nesting near fragile Wellsprings, restores damaged river systems, rotates high-consumption populations, maintains emergency reservoirs and identifies regions where magic must temporarily cease. The House is sometimes hated because it tells powerful people no. It is respected because the alternative is eventually having nothing left to argue over. It looks north at the Frozen Wells with an envy it never says aloud.
 > Spend Nothing the World Cannot Regrow.
 
 ## 10. House Akhazar — The Outer Wing
 
 **Formal title:** House Akhazar, Keepers of Roads and Foreign Crowns
 
-**Seat:** Akhazar Gate, the Continental Embassy-Fortress · **Heartland:** Eastern approaches between Drakyssia and the Five River Kingdoms
+**Seat:** Akhazar Gate, the Continental Embassy-Fortress · **Heartland:** The southern edge of the Twilight March, between Drakyssia and the old Five River country
 
 **Charge:** Tributary administration, diplomacy, frontier law, protectorates, Dragon Roads, intelligence, relations with non-draconic peoples
 
@@ -181,7 +181,7 @@ Where Avarax handles commerce, Akhazar handles sovereignty, and the distinction 
 
 **Oversees:** tributary kingdoms · protectorate agreements · human-draconic diplomacy · Elven treaties · imperial embassies · border law · Dragon Road permissions · foreign intelligence · territorial arbitration · refugee corridors · frontier forts · imperial census of subject territories.
 
-Akhazar lets the empire rule without occupying every mortal settlement, translating imperial authority into treaties, obligations, taxes, protections, borders and enforceable law. Its treaty courts give human and Elven states a formal mechanism to challenge territorial violations by lesser dragon lords. Drakyssia is no more egalitarian for it, only administratively functional. Fear can conquer a kingdom; it cannot efficiently govern one for seven thousand years.
+Akhazar lets the empire rule without occupying every mortal settlement, translating imperial authority into treaties, obligations, taxes, protections, borders and enforceable law. Its treaty courts give human and Elven states a formal mechanism to challenge territorial violations by lesser dragon lords. Drakyssia is no more egalitarian for it, only administratively functional. Fear can conquer a kingdom; it cannot efficiently govern one for seven thousand years. Since the Taken Winter the House has also handled the empire's most delicate relationship, with Morvayne's Ledger Courts across the March.
 > An Empire Ends Where Its Word Cannot Travel.
 
 ## The Imperial Charges
@@ -215,11 +215,11 @@ Beneath the War-Wing Synod sits a more political assembly. Each Great House hold
 
 On an Aether-depleted continent, this restraint is plain survival.
 
-## The Houses and the Eighty Percent
+## The Houses and Their Half
 
-Drakyssia's claim over roughly eighty percent of the Outer World is administered not as one continuous province but as overlapping systems of authority. Dovaryn holds much of the sky. Ormyr influences the depths. Akhazar maintains roads and political borders. Avarax connects markets and ports. Ishkar protects the remaining Aether geography. Eredan holds the food-producing landscapes. Zhaeryn manages mineral territories. Maelkar protects the future population of dragonkind. Rhaegyr turns continental resources into iron and works. Drakhalis gives all of it one sovereign direction.
+Drakyssia's claim over half of the Outer World is administered not as one continuous province but as overlapping systems of authority. Dovaryn holds much of the sky. Ormyr influences the depths. Akhazar maintains roads and political borders. Avarax connects markets and ports. Ishkar protects the remaining Aether geography. Eredan holds the food-producing landscapes. Zhaeryn manages mineral territories. Maelkar protects the future population of dragonkind. Rhaegyr turns continental resources into iron and works. Drakhalis gives all of it one sovereign direction.
 
-The empire is less a single color painted across a map than a web laid over the continent. A human farmer in the Southern Grass Sea might live beneath a Veyran king, sell livestock through an Avarax-chartered merchant, receive Eredan agricultural protection, travel an Akhazar-recognized road, watch Dovaryn Wyverns overhead, use Rhaegyr iron tools, and never meet a representative of House Drakhalis. Every one of those systems still leads back to Kra'Vorrak.
+The empire is less a single color painted across a map than a web laid over the continent. A human farmer in the southern Grass Sea might live beneath a Valecar king, sell livestock through an Avarax-chartered merchant, receive Eredan agricultural protection, travel an Akhazar-recognized road, watch Dovaryn Wyverns overhead, use Rhaegyr iron tools, and never meet a representative of House Drakhalis. Every one of those systems still leads back to Kra'Vorrak.
 
 ## The Balance of the Ten Wings
 
@@ -236,4 +236,4 @@ Among dragons the phrase is shorter:
 
 ---
 
-*See also: Avo'Kan · The Archonic Codex.*
+*See also: Avo'Kan · The Archonic Codex · [[Geography & the Four Quarters/The Geography of the Outer World|The Geography of the Outer World]] · [[Races & Peoples/The Peoples/Draconic Kind — The Dragons of Drakyssia|Draconic Kind]].*

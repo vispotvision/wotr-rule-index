@@ -539,3 +539,26 @@ rules:
   - combat
   verification: []
   notes: Source in imports/drafts/lineages-2026-11-05/.
+- pack: Directions 2026-11-05 (Paths and layers)
+  pack_number: null
+  status: live
+  ratified: 'Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md'
+  source:
+    file: ''
+    lines: null
+  id: R85-36-HOUSE_CODEXES
+  section: paths-and-layers
+  title: A codex for every House of the Inner World
+  kind: mandate
+  summary: Every House of the Inner World gets a detailed codex in the shape of the Zettari and Valorin documents, each with its own signature, and the Moto and Yukari are rebuilt with their new material.
+  verbatim: let's make information like they did for the Zettari Valorin for all the House's of the Inner World detailed etc with info + moto and Yukari and there new stuff. each house should get its own little thing
+  amends:
+  - guide: NATALIE.md
+    locus: THE WIKI
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-design
+  verification: []
+  notes: Brief in imports/drafts/house-codexes/.

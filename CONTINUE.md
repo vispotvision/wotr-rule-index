@@ -6,6 +6,10 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-05 (House codexes, R85-36)
+
+Every House of the Inner World has a codex in the Zettari and Valorin shape, each with its own signature; the hub is `The Houses of the Inner World/`, brief in `imports/drafts/house-codexes/`. All of them are public since his word on 2026-11-05. Conflicts found are C-181.
+
 ## State on 2026-11-05 (the flow fix, R85-31 to R85-35)
 
 Isaac asked for the whole magic system to flow from the new ideas. Five read-only reviews and the plan are in `imports/drafts/connections-audit/` (PLAN.md, FLOW_LAW.md, which governs, and answers.json); his answers are R85-31 and R85-33, and the agent rulings are R85-34. Done across the wiki: the metaphysics chain and `From Omnara to a Blow`; Families removed and the Sixty sorted by kind under `The Sixty Wellsprings/`; ladders, Path Stage and Release by Path; glyphs by layer; Forms replacing Categories and Methods; Derivation of Practice retired (old pages kept in `retired/`); bloodlines as eye, grip, stat lean and lens affinities; Null-Light as Ashura's instrument; creatures, Drafts, peoples and gear. Zettari and Valorin are in from his documents (`imports/drafts/lineages-2026-11-05/`). Links, plates and the card pass were running when this was written; check their reports. Owed after this, as one bundle he will call for: rebuild ability creation, character creation and the skills.

@@ -1981,3 +1981,12 @@ the author notes."
 **Consequence if unresolved:** Whether a Shell must pass through Luminous to reach Radiant.
 **Recommendation:** none.
 **Status:** agent ruling 2026-11-05 under the canon hierarchy, the newer rule governing: IV is in line. Isaac may overturn.
+
+## C-181: What the House codexes found against cards and scenes
+
+**Rules:** R85-36 vs character cards and archived scenes
+**The clash:** Older sources disagree, and the codexes changed none of them. Muken: Raizan's card has him dying in the corridor, while R83-2 has him surviving. Naiser: half-Zettari in The Meeting at the Cedar Enclave, Lambert on his card. Senri: a brother in The Courtyard, absent from Naiser's card, with a different death in the Yukari inventory. Seikai blood in The Bearer of Weight against the Yukari page. Amelia's hair gold on card and red in The Grey Wall; Hisae tall on card and small in Chapter Nineteen; Edric's nose straight on card and broken in Chapter Nineteen; Tetsugen bald in scenes and curly-haired on card; Sodoku's beads jade and iron or garnet. Kōkan broken at the shelf against a thousand years at the Seat; eleven hundred years since the crossing against 310 IC. Yuno nine-day exposure in The Rites against three nights on their page. Ryu's revenue stopping at the Mahuo's fall or this summer. Ara Min or Cozbi as the Mahuo's face.
+**Quotes:** See the House pages' Discrepancies of Record and the agents' reports.
+**Consequence if unresolved:** Small mismatches in print, one larger on Muken.
+**Recommendation:** none.
+**Status:** open for Isaac; scenes hold for events under the canon hierarchy.

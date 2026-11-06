@@ -90,11 +90,42 @@ Download only when a scene or card needs it (his direction, 2026-11-06): never a
 B=wotr-weapons; R=1-48; U=$(awk -v b="$B" '$1==b{print $2}' ~/wotr-art-drops/boards.txt); ~/.local/bin/gallery-dl --write-metadata --sleep 0.3-0.8 --range "$R" -D ~/wotr-art-drops/board-$B "$U"
 ```
 
-Images already saved are skipped. The command exits 0 even when a board stops short, as `wotr-landscapes` did at 27 of its 76 pins, so a thin result may be all there is. No sign-in and no cookies, and he does not want a logged-in run; a login wall or bot check is reported to him, never worked around.
+Images already saved are skipped. The command exits 0 even when a board stops short, as `wotr-landscapes` did at 27 of its 76 pins, so a thin result may be all there is. This command runs with no sign-in and no cookies, and a login wall or bot check is reported to him, never worked around.
 
 A board link he sends is added to `boards.txt` as `name url`. That alone starts no download.
 
 An image he picks from a board for a page is placed as in steps 3 and 4, copied rather than moved.
+
+## Searching Pinterest for abilities and techniques
+
+Pinterest is his main source for how an ability or technique looks and moves (his direction, 2026-11-06). Search it when designing or writing one, and see the motion without saving anything. Nothing here goes in `~/wotr-art-drops/`. The results are GIFs, video streams and stills:
+
+```bash
+Q='fire+magic+anime+gif'; T=$(mktemp -d); ~/.local/bin/gallery-dl -g --range 1-30 "https://www.pinterest.com/search/pins/?q=$Q" | sed 's/^ytdl://' > "$T/urls"; echo "$T"; wc -l < "$T/urls"
+```
+
+Turn result `N` into a strip of frames, then Read the strip, left to right and top to bottom. A clip that is slow or long reads better at `fps=2`:
+
+```bash
+N=1; ffmpeg -v error -y -i "$(sed -n ${N}p "$T/urls")" -vf "fps=4,scale=300:-1,tile=6x3" -frames:v 1 "$T/strip-$N.jpg"
+```
+
+A still (a jpg or png line) makes no strip. Fetch that one to read it, keeping its extension:
+
+```bash
+N=13; curl -s -o "$T/still-$N.jpg" "$(sed -n ${N}p "$T/urls")"
+```
+
+Read a strip for the charge, the release, the impact and how the world answers it. It feeds the Working Card and the Blow Card; the move's mechanism, name and price are WOTR's own, and no shot is described frame for frame.
+
+## Signed in: saving to his boards
+
+He signs in himself, in the browser pane; never type a password, and his session is not handed to the command-line tools. With that session, his word of 2026-11-06 lets you search in the pane and save pins to his boards while you work:
+
+- Save to the board in `boards.txt` that fits. A new board needs his yes first.
+- Save, and nothing else: no follows, comments, messages, deletions or settings changes. Saved pins on a public board can be seen by anyone.
+- Tell him what you saved and where.
+- A CAPTCHA or bot check goes to him. If the page does not show him signed in, ask him to sign in; do not work around it.
 
 ## Before you report
 

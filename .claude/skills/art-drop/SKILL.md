@@ -65,7 +65,7 @@ The autosave commits and pushes `wiki/` within 15 minutes, and that publishes it
 
 ## His boards
 
-`~/wotr-art-drops/board-*` are his own Pinterest boards, kept as a private reference library (his direction, 2026-11-06). They are not drops: nothing from them goes on a page unless he picks it, and nothing in them is deleted. While writing a scene or building a card, look through the fitting board, unprompted, for how a new person looks and dresses, what they carry and what the place or creature is like:
+His own Pinterest boards are a private reference library (his direction, 2026-11-06), linked in `~/wotr-art-drops/boards.txt` and saved to `~/wotr-art-drops/board-*` as they are needed. They are not drops: nothing from them goes on a page unless he picks it, and nothing in them is deleted. While writing a scene or building a card, look through the fitting board, unprompted, for how a new person looks and dresses, what they carry and what the place or creature is like:
 
 - `board-wotr-character-designs-1`, `board-wotr-characters-2`: people, faces, clothes
 - `board-wotr-landscapes`: places
@@ -84,14 +84,15 @@ B=wotr-landscapes; T=$(mktemp -d); find ~/wotr-art-drops/board-$B -maxdepth 1 -t
 
 Sheets count from 0 and read left to right, top to bottom, 24 to a sheet, so the image at position P (1 to 24) on sheet S is line `S*24+P` of `$T/list`. Read that one file for a closer look. A big board takes a while to sheet; keep the sheets for the session.
 
-A new or refreshed board comes from a link. His sending a public board link is the go-ahead to download it. No sign-in and no cookies, and he does not want a logged-in run; a login wall or bot check is reported to him, never worked around. Downloading again adds only what is missing.
+Download only when a scene or card needs it (his direction, 2026-11-06): never a whole board or several at once, and never ahead of time. Look at what is already saved first. If that is not enough, take one batch from the one board that fits, then the next batch (`49-96`) if the need is still there:
 
 ```bash
-command -v gallery-dl || uv tool install gallery-dl
-gallery-dl --write-metadata --sleep 0.3-0.8 -D ~/wotr-art-drops/board-NAME "https://www.pinterest.com/USER/BOARD/"
+B=wotr-weapons; R=1-48; U=$(awk -v b="$B" '$1==b{print $2}' ~/wotr-art-drops/boards.txt); ~/.local/bin/gallery-dl --write-metadata --sleep 0.3-0.8 --range "$R" -D ~/wotr-art-drops/board-$B "$U"
 ```
 
-Compare the count with `.board.pin_count` in any of the `.json` files: the command exits 0 even when it stops short.
+Images already saved are skipped. The command exits 0 even when a board stops short, as `wotr-landscapes` did at 27 of its 76 pins, so a thin result may be all there is. No sign-in and no cookies, and he does not want a logged-in run; a login wall or bot check is reported to him, never worked around.
+
+A board link he sends is added to `boards.txt` as `name url`. That alone starts no download.
 
 An image he picks from a board for a page is placed as in steps 3 and 4, copied rather than moved.
 

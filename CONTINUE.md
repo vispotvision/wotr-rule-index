@@ -8,7 +8,7 @@ at once — `git pull` before editing, and commit only your own files).
 
 ## State on 2026-11-06 (art drops; the repo exposes private pages)
 
-`/art-drop` (`.claude/skills/art-drop/`) places art Isaac saves to `~/wotr-art-drops/` on its page or card with a credit, under his 2026-11-05 ruling. Tested on sample images; no real image placed yet. His seven Pinterest boards are downloading to `~/wotr-art-drops/board-*` as references for scenes and cards (NATALIE.md, Outside resources); no logged-in run, on his word. Landscapes stopped at 27 of 76 for a reason not yet known, while character designs runs past 200 of 917.
+`/art-drop` (`.claude/skills/art-drop/`) places art Isaac saves to `~/wotr-art-drops/` on its page or card with a credit, under his 2026-11-05 ruling. Tested on sample images; no real image placed yet. His seven Pinterest boards are references for scenes and cards (NATALIE.md, Outside resources), linked in `~/wotr-art-drops/boards.txt`. On his word there is no logged-in run, and a board is downloaded only when the work needs it, in small batches; the bulk pull was stopped and what it saved was removed on his word, so nothing is saved yet. Landscapes had stopped at 27 of 76, reason unknown.
 
 Open with Isaac: the repo is public, so cards, portraits, scenes and `lore/v1/` are readable on GitHub with no login, though they stay off the site. Checked 2026-11-06 on a card and a portrait. The natural fix is a private source repo with the site published from a separate public one; he has not chosen.
 

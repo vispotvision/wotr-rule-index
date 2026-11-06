@@ -3,7 +3,6 @@ title: Draconic Kind — The Dragons of Drakyssia
 tags:
   - Peoples
   - Bloodlines
-private: true
 ---
 
 # Draconic Kind — The Dragons of Drakyssia
@@ -55,7 +54,7 @@ A Primary is the sum of its eight Sub-Stats, and its Grade is read off their mea
 
 ### Metaphysical Identity
 
-**Wellsprings** (all confirmed in the Codex):
+**Wellsprings:**
 
 | Wellspring | What it does for a dragon |
 |---|---|

@@ -6,6 +6,12 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-06 (art drops; the repo exposes private pages)
+
+`/art-drop` (`.claude/skills/art-drop/`) places art Isaac saves to `~/wotr-art-drops/` on its page or card with a credit, under his 2026-11-05 ruling. Tested on sample images; no real image placed yet. His seven Pinterest boards are downloading to `~/wotr-art-drops/board-*` as references for scenes and cards (NATALIE.md, Outside resources); no logged-in run, on his word. Landscapes stopped at 27 of 76 for a reason not yet known, while character designs runs past 200 of 917.
+
+Open with Isaac: the repo is public, so cards, portraits, scenes and `lore/v1/` are readable on GitHub with no login, though they stay off the site. Checked 2026-11-06 on a card and a portrait. The natural fix is a private source repo with the site published from a separate public one; he has not chosen.
+
 ## State on 2026-11-05 (House codexes, R85-36)
 
 Every House of the Inner World has a codex in the Zettari and Valorin shape, each with its own signature; the hub is `The Houses of the Inner World/`, brief in `imports/drafts/house-codexes/`. All of them are public since his word on 2026-11-05. Conflicts found are C-181.

@@ -326,7 +326,8 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
 - **What never leaves this machine.** Pages flagged `private` in
   `wiki/.manifest.json` stay off every export and shelf. The `/t/<secret>/…`
   URLs and the two token files are never printed, posted or committed.
-  Reference-only art is never embedded on the wiki; a voice modelled on a real
+  Art Isaac selects goes on the wiki as chosen, credited (RULINGS.md, 2026-11-05;
+  the `art-drop` skill and `~/wotr-art-drops/`); a voice modelled on a real
   person is for Isaac's own listening only (`ROADMAP.md`, the casting rule).
   The base craft guides in `~/wotr-vault/true-canon` are never overwritten:
   a change is a new dated edition beside the original, with a changelog.

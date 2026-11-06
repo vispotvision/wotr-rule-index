@@ -170,7 +170,9 @@ as Do next 7.
   of these builds on an engine that may not be the one. When one engine holds
   Gimbzo across three renders, take them up in that order.
 
-- Character reference art (Isaac, 2026-09-12). Goal: gather artwork for
+- Character reference art: replaced on 2026-11-06 by the `art-drop` skill and
+  `~/wotr-art-drops/`, after his 2026-11-05 ruling that art he selects goes on the
+  wiki as chosen; the design below is kept for the record. (Isaac, 2026-09-12.) Goal: gather artwork for
   characters from artists and boards, not only local AI output. Design
   agreed: gallery-dl fetches a Pinterest board (or an ArtStation/DeviantArt
   gallery — same tool) into a gitignored `refs/<board>/` folder; a scorer

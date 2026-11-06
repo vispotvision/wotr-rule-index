@@ -13,6 +13,8 @@ title: The Peoples
 - [[Races & Peoples/The Peoples/The Goblinoid Peoples|The Goblinoid Peoples]]: Races · Languages · Cultures · Spirituality · Za'tarch
 - [[Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples|The Beastkin and Demihuman Peoples]]: Races · Soul Architecture · Languages · Cultures · The Social Reality
 - [[Races & Peoples/The Peoples/The Ashkaru|The Ashkaru]]: "Bairos did not name them what they were. He named them what they were for. Ask what changed."
+- [[Races & Peoples/The Peoples/Draconic Kind — The Dragons of Drakyssia|Draconic Kind]]: The Dragons of Drakyssia · Salamanders to the Bonded Mortals
+- [[Races & Peoples/The Peoples/The Vampiric Peoples|The Vampiric Peoples]]: Races · Mechanics · Bloodlines · Languages · Cultures · Dreadvalis
 
 ---
 

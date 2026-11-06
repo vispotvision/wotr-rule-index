@@ -87,6 +87,7 @@ Read **The Bearing and the Holding** for what the ground is and what may be made
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Bearing and the Holding]]
 - [[Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade]]
 - [[Geography & the Four Quarters/News, Rumour and the Speed of Information]]
+- [[Geography & the Four Quarters/The Geography of the Outer World]]
 > **Distance measured in days.** **News, Rumor and the Speed of Information** sits under this section because what it actually documents is how far away anything is.
 >
 > Three channels. **The beacon line** is near-instant, priced by the word, read by the Guild, and runs from hilltop to hilltop, which means it reaches exactly as far as somebody will pay a warden to stand on a hill and no further. A district past the last tower is deaf, and a Withering-era quarter loses its towers at the same rate it loses density. **The post** is cheap, prepaid, and the only channel still serving a deaf district. **The mouth** (heralds, minstrels, bounty bills, bookies' boards and the tap-room) is free, faster over short distances, and wrong.

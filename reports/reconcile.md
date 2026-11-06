@@ -1,5 +1,5 @@
 # Reconcile — wiki vs scenes vs index
-_Run 2026-11-05_
+_Run 2026-11-06_
 
 
 Mechanical checks only; each finding is a place for a human read.
@@ -12,10 +12,6 @@ Mechanical checks only; each finding is a place for a human read.
 ## Card vs scene: Stage or Level stated differently
 
 - none found by pattern (Stage/Level within 80 characters of a first name)
-
-## Wellsprings named with a Family other than their own
-
-- none
 
 ## Stale-register residue
 

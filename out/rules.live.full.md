@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1460 live of 1872 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1531 live of 1954 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (145)
+## adjudication (154)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -478,6 +478,60 @@ The user's own Domain, releases, vows and Drafts all count toward the two-Grade 
 
 > (12) Stacking: the user's own Domain, releases, vows and Drafts all count toward the two-Grade cap; only allies' Domains, arrays and outside help stack past it. A Third Release fills the cap by itself.
 
+### R85-16-PATH_BALANCE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+A Path is Mastered, Walked (30 percent of practice or more) or Studied. One Path is on time at full modifier with a clean seat; two take about 2.5 times as long at three-quarter modifiers with a rough seat; three take about six times as long at half modifiers with the high Grades shut.
+
+> Agent ruling. One soul has one life's time to spend. A Path on a card is Mastered, Walked or Studied. Walked takes at least 30 percent of a person's practice. Anyone may study any Path, which gives knowledge and small uses and opens no gates. One Path: gates open at the Stage written, the full force modifier, a clean seat, mastery in the base time. Two Paths: mastery takes about two and a half times as long for the pair, the Path behind opens its gates a Stage late until it is mastered, the modifier is three-quarters on each for life, and the seat is rough, so the fighter has real holes at times and breaks an opponent's read of them. Time closes the gap in the gates and never in the modifier. Three Paths: about six times as long, which is beyond a mortal span, gates two Stages late, half modifiers, and the high Grades stay shut. It is rare and looked down on. Card percentages stay as the record of time spent, with Attraction added to Fate.
+
+### R85-23-FATE_FIGHTS_AT_A_PRICE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate fights and wages war by moving what things depend on, and is the hardest Path. Everyday Fate fighters use Range, Pressure, presence and bonds. A real pull is rare, ruinously costly and often fails. A field is a life's masterwork or a bloodline art. Each Work of Hataraki is a distinct way of gripping one function.
+
+> Agent ruling. This replaces R85-19. Fate sits above the two lower realities and is the law and construction of the world itself. People fight and wage wars with it, and they move what a blow, a wall, a march or a battle depends on. It is the hardest of the Paths. Understanding gets no purchase on it, because a mind's notions are made of the thing they would be used against, so it cannot be reasoned out or drilled in. A thread of Fate is pulled down from above, and warping physical or spiritual reality through one takes extreme effort at every Stage. Archons and the great principles are Sovereign on the Plane of Fate and the most powerful there, because they are those laws, so a thread may belong to something that notices. An ordinary Fate fighter's everyday weapons are Range, Aura Pressure, presence and bonds. A real pull in a fight is rare: low down it is one lean on the odds that can take a large share of the reserve, leaves the body bleeding, and often fails. Higher up it can remove or assign a prerequisite at a ruinous price. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. The Works of Hataraki exist because nobody grips Fate bare: each Work is a distinct inherited way of taking hold of one function, which is what makes the Moto so deadly. Fate can only move what already has a way of happening, has a visible charge and a tell, and is contested by Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits.
+
+### R85-27-NO_BETTER_PATH [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The wiki explains how each Path can beat each other. Each has clear limitations against the others, no Path is better, and that is why some Paths are combined.
+
+> we should ALSO explain how EACH path can beat each other. feel like fate and body and spirit all have limitations all pretty-clear all against each other there are no "Better" paths each path is good, and thats why some paths are combined
+
+### R85-28-HOW_EACH_PATH_BEATS_EACH [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Each Path's limits and how it beats each of the other two, with Stage, ground and preparation deciding on the day, and why Paths are combined. Being above the lower realities makes Fate harder, never better.
+
+> Agent ruling. No Path is better, and each beats each. Body's limits: it needs existing substance, must close until very high, pays in recoil, and has no purchase on a soul. Spirit's limits: it needs a soul or a meaning to work on, has a fragile body, and dies out of position. Fate's limits: it is ruinously hard, slow to set, moves only what already has a way of happening, and loses a straight exchange. Body beats Spirit by getting there: a spear does not care what you mean, a working takes time, and a dense Shell outlasts a thrown one. Spirit beats Body by going past the Shell: armor and Durability do not cover the soul, and the Spirit fighter reads the charge from range. Body beats Fate with force and soundness: nothing moves the odds on an avalanche, a well-kept fighter offers no strap to give, and a straight exchange ends before the pull can set. Fate beats Body through what closing depends on: the ground, the gear, the hour, so the blow never arrives. Spirit beats Fate by reaching the hand on the thread: every pull is made by a soul, it shows on the Core before it lands, and a wounded soul loses its grip. Fate beats Spirit because Spirit survives by being right: one wrong read or one spoiled stroke is enough, and the meanings Spirit works with come down from Fate in the first place. The Stage, the ground and the preparation decide which of these holds on the day. People combine Paths to cover their own weakness: Body and Spirit is a hitter who cannot be gone around, Body and Fate is a blow that always arrives, Spirit and Fate reads the thread and moves it. Being above the lower realities makes Fate harder, never better.
+
+### R84-4-EXPERIENCE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
+
+> (4) Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
+
+### R84-14-MONSTERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a name, an epithet and a bounty. Monster parts make gear.
+
+> (14) Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a name, an epithet and a bounty. Monster parts make gear.
+
+### R84-22-READING_PEOPLE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake it.
+
+> (22) Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake it.
+
+### R84-32-MIND_MAGIC_AND_WINDOWS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays a violation with a cost, and Gnosis gives a fair counter.
+
+> (32) Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays a violation with a cost, and Gnosis gives a fair counter.
+
+### R84-43-LAW_AND_THE_SHEET [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording.
+
+> (43) Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording.
+
 ### R83-12-POLITICAL_DEATHS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Deaths: betrayals, poison and assassinations can kill major NPCs with no warning, as long as the clues were on the page. Fights keep their findable way out.
@@ -874,7 +928,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (262)
+## character-sheet (274)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1704,6 +1758,78 @@ Old names: archived scenes are not edited. A renamed move's old name becomes wha
 
 > (47) Old names: archived scenes are not edited. A renamed move's old name becomes what people once called it, and the card lists both. Other creators' cards stay untouched, and they may use the new format if they choose.
 
+### R85-1-GEAR_IS_A_FLEX [Directions 2026-11-05 (gear is a flex) gear-direction]
+
+Characters' armor, outfits, gear and swords are described on the page and on their cards, piece by piece for a major person at first sight, and the Rarity of weapons and items is said aloud or shown on a window, because gear is how people show off. A flex brings trouble of its own. In a fight the full item window still waits for the aftermath.
+
+> I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito f wapon and items that is a flex
+
+### R85-14-PATHS_AND_WELLSPRINGS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.
+
+> I think were gonna get rid of Essence Typologies and have Path's + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it'll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren't your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they've been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn't have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what "Essence" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it's attraction-layer more lets do it like that
+
+### R85-15-THREE_PATHS_THREE_LAYERS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Body Path works the Physical World through the Aether Shell, Spirit Path the Soul Plane through the Essence Core, Fate Path the Plane of Fate through the Attraction Layer. Attraction folds into Fate. Essence is the soul's own substance. Typology's jobs pass to Wellspring and Path.
+
+> Agent ruling. There are three Paths, one to each plane and layer of the Soul Crystal. Body Path is the Physical World, worked through the Aether Shell. Spirit Path is the Soul Plane, worked through the Essence Core. Fate Path is the Plane of Fate, worked through the Attraction Layer, which is a soul's own share of fate. Attraction folds into Fate: Attraction Force and Obsession Force are what the Plane of Fate runs on, so Fate Path takes Attraction's Range, Aura Pressure and Domain authority, an Attraction gate reads as a Fate gate, and true Fate Arts stay the rare far end of the Path. Every soul has all three layers, and a Path is the layer the Crystal leans on. Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance and spending it is spending yourself. Essence Typology is retired: a blow's character comes from Wellspring and Path, Wellspring compatibility from how its qualifier sits with the Path, a Primary Trait from origin, first imprint and the lived Path, and class trajectory from how the person has lived.
+
+### R85-16-PATH_BALANCE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+A Path is Mastered, Walked (30 percent of practice or more) or Studied. One Path is on time at full modifier with a clean seat; two take about 2.5 times as long at three-quarter modifiers with a rough seat; three take about six times as long at half modifiers with the high Grades shut.
+
+> Agent ruling. One soul has one life's time to spend. A Path on a card is Mastered, Walked or Studied. Walked takes at least 30 percent of a person's practice. Anyone may study any Path, which gives knowledge and small uses and opens no gates. One Path: gates open at the Stage written, the full force modifier, a clean seat, mastery in the base time. Two Paths: mastery takes about two and a half times as long for the pair, the Path behind opens its gates a Stage late until it is mastered, the modifier is three-quarters on each for life, and the seat is rough, so the fighter has real holes at times and breaks an opponent's read of them. Time closes the gap in the gates and never in the modifier. Three Paths: about six times as long, which is beyond a mortal span, gates two Stages late, half modifiers, and the high Grades stay shut. It is rare and looked down on. Card percentages stay as the record of time spent, with Attraction added to Fate.
+
+### R85-25-CLASSES_BY_LAYER [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Aether Class is rewritten to fit the new system as a classifier of how strong a person's influence on the physical world is, and Fate and Spirit get classes of their own.
+
+> I think we should also re-write the aether class to fit inside of this new system instead of forcing it to become apart of it I think the class of aether should be more a classifier of how strong your influence and your classifier is when it comes to influence on the physical world. However if we are gonna do it that wasy we might need to give Fate and Spirit classes of there own as well?
+
+### R85-26-THREE_CLASS_LADDERS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Three ladders, Ø to Ω, one per Crystal layer, read from Glory, each setting η for its own layer. Thread is the steep one. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind, a Studied one stops at II, or I for Thread. The named calling is just a Class.
+
+> Agent ruling. There are three class ladders, one per layer of the Crystal, each running Ø to Ω and read from Glory. Aether Class is the Aether Shell and measures influence on the physical world: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute. Essence Class is the Essence Core and measures influence on spiritual reality: Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute. Thread Class is the Attraction Layer and measures how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. VI on each ladder is lateral, an inverted way of holding that power. Each ladder sets η for workings through its own layer. Thread Class is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral on the other ladders, and it opens no earlier than Glory unless a bloodline or blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A card's η and numeral move to the ladder of its lead Path unchanged. The named calling the soul offers at thresholds is now just a Class and has no ladder of its own; it evolves when the lead ladder rises. The Soul Crystal Tier stays as the reading of the whole soul.
+
+### R85-33-ORIGINS_LADDERS_SPIRIT_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.
+
+> Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept.
+
+### R85-34-THE_FLOW_LAW [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.
+
+> Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.
+
+### R84-8-SKILLS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named things done with them.
+
+> (8) Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named things done with them.
+
+### R84-9-THE_SHEET [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage. Race and lineage show on the sheet and shape base stats and what comes easily.
+
+> (9) Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage. Race and lineage show on the sheet and shape base stats and what comes easily.
+
+### R84-10-AETHER_CLASSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.
+
+> (10) Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.
+
+### R84-24-CARDS_CONVERT [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Cards convert with the R82 rollout: each gets concept, moves, class, Trait levels and skills in one pass; other creators' cards stay untouched.
+
+> (24) Cards convert with the R82 rollout: each gets concept, moves, class, Trait levels and skills in one pass; other creators' cards stay untouched.
+
 ### R83-15-LAW_NOW [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Rollout: this is law now and is adjusted as we go. The pilot cards and test fight are redone under it, and then the R82 rollout continues.
@@ -2451,13 +2577,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (114)
-
-### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
-
-Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
-
-> Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
+## codex (117)
 
 ### R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK [Pack Eighteen §2]
 
@@ -2590,12 +2710,6 @@ A Traitus shape is passive and permanent, not fired or summoned but a standing m
 Spellcraft holds only while attention holds; Runecraft is fixed and degrades like any inscription; Draftcraft is bottled, cruder, and buyer-triggerable; Chantcraft requires the sustaining choir and is pending Chantcraft's own ruling.
 
 > The delivering craft sets how much the shape can be trusted to hold:
-
-### R9-1-FOUR_CRAFTS_RATIFIED [Pack Nine PART ONE]
-
-Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as the naming scheme for how a working is performed; Chantcraft stays pending.
-
-> The four-media structure — Magicraft, Spellcraft, Runecraft, Draftcraft — is confirmed canon as the naming scheme for how a working gets performed. Chantcraft stays pending.
 
 ### R5-F-LIGHT_NOVEL_KEPT [Pack Five F]
 
@@ -3005,6 +3119,30 @@ Wellsprings: the concept comes first, then the Wellspring and glyph that explain
 
 > (15) Wellsprings: the concept comes first, then the Wellspring and glyph that explain it. The system supports the idea without limiting it, and the Sixty stay fixed.
 
+### R85-14-PATHS_AND_WELLSPRINGS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.
+
+> I think were gonna get rid of Essence Typologies and have Path's + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it'll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren't your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they've been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn't have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what "Essence" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it's attraction-layer more lets do it like that
+
+### R85-17-QUALIFIERS_AND_THE_LENS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+A Wellspring's kind names its home plane and never locks it. Any Path can use any Wellspring through its lens, reaching double at home and half again away. The sort is 33 Wild, 15 Spirit, 6 Fate and 6 Medium.
+
+> Agent ruling. A Wellspring's kind is a qualifier naming its home plane, never a lock. Any Path can use any Wellspring. A Wellspring is the lens a soul bases its tempering on, and it shapes Essence differently on each Path. On its home Path it harmonizes cleanly and can reach double the effect with years of mastery. Off its home Path it works in that layer's terms, at lower-quality resonance and higher Essence cost, and reaches half again at most. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear. Medium runs at home on all three. Wild (33): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Transmutatio, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine. Spirit (15): Catharsis, Penanceflare, Thaloré, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial, Eclipseron, Absolution, Penance, Redemption, Contrition. Fate (6): Somnalis, Oblation, Benediction, Oblivara, Transference, Tarturon. Medium (6): Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis.
+
+### R85-31-NO_MORE_FAMILIES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium, each Wellspring keeps its own hue, scholars' physics stays on each entry, and the Codex column stays untouched as a source.
+
+> also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source.
+
+### R84-11-GETTING_A_WELLSPRING [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect on a person's natural Essence Typology starts small and reaches double only with years of mastery.
+
+> (11) Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect on a person's natural Essence Typology starts small and reaches double only with years of mastery.
+
 ### R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL [The Farrant Papers Ratification 2026-09-28 papers 5]
 
 The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
@@ -3016,12 +3154,6 @@ The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
 An art that gives or draws Essence through the act is a technique, with a Codex line, a cost in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked is a Claim and makes the scene dubcon or non-con.
 
 > Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8).
-
-### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
-
-There are four Paths, Fate included.
-
-> There are four Paths: Body, Spirit, Attraction and Fate.
 
 ### R42-14-VIA_FATI [Magic System Rulings 2026-09-23 follow-up]
 
@@ -3113,6 +3245,18 @@ Collapsed-star residue is Class VI, Archonic Residue.
 
 > Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin, priced at the top of the scale.
 
+### R85-7-VOHRIN_OUTSIDE_THE_SIXTY [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.
+
+> Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.
+
+### R85-8-SPIRIT_LINES [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Every Wellspring's Spirit line carries Fracture of Worlds' "Temperance through" name, with the confessors' reading kept beside it.
+
+> Every Wellspring's Spirit line carries Fracture of Worlds' "Temperance through" name, with the confessors' reading kept beside it.
+
 ### R55-5-HYPNATHER_CORE_LAW [System Accounts Questionnaire 2026-09-26 Oblivion-Step (and every Hypnather working)]
 
 Hypnather's Core Law reads 'cannot be forced by ordinary means'.
@@ -3137,7 +3281,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (218)
+## combat (230)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4171,17 +4315,77 @@ Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deat
 
 > (43) Darkness: the dark shonen rule stands. Goofy names and color, while wounds, deaths and cruelty still land in full at turning points.
 
+### R85-18-WHAT_EACH_PATH_MANIPULATES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate is much more than vows and blessings. People fight and wage wars with it, and the Moto are the prime example. Fate manipulates the outer parts of reality, what reality presupposes. Body is the literal understanding and manipulation of physical reality. Spirit is everything to do with spiritual reality.
+
+> l feel like FATRE should be MUCH more than just vows and blessings and whatnot people should be able to fight and actually wage wars with FATE since the MOTO are prime EXAMPLE of how deadly a lineage with fate manipulation and those type of abilities should be. I need you to UNDERSTAND FATE is the MANIPULATION of the outer-parts of reality something that prequisite reality. WHILST BODY is the LITERAL understanding and MANIPULATION of the PHYSICAL "Reality" Mean hile SPIRIT is the opposite its the "SPIRITUAL" reality everything to do with spirit reality.
+
+### R85-21-MATLA_AND_THE_BODY_LADDER [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Aegor is Physical Reality and Body, Ashura Spiritual Reality and Spirit, Bara over Fate, which is no reality. Body climbs Matla's ladder from object through contact, recognition and law to complete system, so its reach grows with Stage while it still needs existing substance and pays in recoil.
+
+> Agent ruling. The three Epochs stand over the three Paths. Aegor is Physical Reality and the Body Path. Ashura is Spiritual Reality and the Spirit Path. Those two are the lower realities. Bara stands over Fate, which is not a reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities, and the name Plane of Fate is a courtesy. Matla is the model of the Body Path as Hataraki is of Fate. Body climbs by its ladder: the novice commands matter as an object, the adept through contact, the master through recognition, the sovereign through law, and the rare Totality Architect as a complete system. So a Body fighter closes and hits low down, and high up their reach grows as far as there is matter to read, while still needing existing substance and paying in recoil through the body and Crystal. Matla stays a learned art with its own branches and limits; a Body fighter need not study it to climb the ladder.
+
+### R85-22-FATE_IS_HARD [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate is above the two realities and is the law and construction of the world. Archons and principles are Sovereign there. Pulling and warping threads takes extreme effort, which is why Hataraki has different workings, and it cannot be rationalized.
+
+> fate is above the other two realities when you pull ideas concepts down from fate you also have to understand the archons and principles are "Soveriegn" on the plain of fate they are the most powerful there, yet there reach is made even more so by the idea that they are the laws but what is fate itself but the very law and construction of the WORLD itself. Though this is ALL to say that just because you can pull-down and manipulate threads of FATE doesn't mean it is EASY you shouldn't be capable manipulating warping the physical and spiritual realities without EXTREME effort thats why there is different workings of Hataraki. Fate is hard because the notions you undersstand and concieve cannot be rationalized to be used against it.
+
+### R85-23-FATE_FIGHTS_AT_A_PRICE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate fights and wages war by moving what things depend on, and is the hardest Path. Everyday Fate fighters use Range, Pressure, presence and bonds. A real pull is rare, ruinously costly and often fails. A field is a life's masterwork or a bloodline art. Each Work of Hataraki is a distinct way of gripping one function.
+
+> Agent ruling. This replaces R85-19. Fate sits above the two lower realities and is the law and construction of the world itself. People fight and wage wars with it, and they move what a blow, a wall, a march or a battle depends on. It is the hardest of the Paths. Understanding gets no purchase on it, because a mind's notions are made of the thing they would be used against, so it cannot be reasoned out or drilled in. A thread of Fate is pulled down from above, and warping physical or spiritual reality through one takes extreme effort at every Stage. Archons and the great principles are Sovereign on the Plane of Fate and the most powerful there, because they are those laws, so a thread may belong to something that notices. An ordinary Fate fighter's everyday weapons are Range, Aura Pressure, presence and bonds. A real pull in a fight is rare: low down it is one lean on the odds that can take a large share of the reserve, leaves the body bleeding, and often fails. Higher up it can remove or assign a prerequisite at a ruinous price. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. The Works of Hataraki exist because nobody grips Fate bare: each Work is a distinct inherited way of taking hold of one function, which is what makes the Moto so deadly. Fate can only move what already has a way of happening, has a visible charge and a tell, and is contested by Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits.
+
+### R85-27-NO_BETTER_PATH [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The wiki explains how each Path can beat each other. Each has clear limitations against the others, no Path is better, and that is why some Paths are combined.
+
+> we should ALSO explain how EACH path can beat each other. feel like fate and body and spirit all have limitations all pretty-clear all against each other there are no "Better" paths each path is good, and thats why some paths are combined
+
+### R85-28-HOW_EACH_PATH_BEATS_EACH [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Each Path's limits and how it beats each of the other two, with Stage, ground and preparation deciding on the day, and why Paths are combined. Being above the lower realities makes Fate harder, never better.
+
+> Agent ruling. No Path is better, and each beats each. Body's limits: it needs existing substance, must close until very high, pays in recoil, and has no purchase on a soul. Spirit's limits: it needs a soul or a meaning to work on, has a fragile body, and dies out of position. Fate's limits: it is ruinously hard, slow to set, moves only what already has a way of happening, and loses a straight exchange. Body beats Spirit by getting there: a spear does not care what you mean, a working takes time, and a dense Shell outlasts a thrown one. Spirit beats Body by going past the Shell: armor and Durability do not cover the soul, and the Spirit fighter reads the charge from range. Body beats Fate with force and soundness: nothing moves the odds on an avalanche, a well-kept fighter offers no strap to give, and a straight exchange ends before the pull can set. Fate beats Body through what closing depends on: the ground, the gear, the hour, so the blow never arrives. Spirit beats Fate by reaching the hand on the thread: every pull is made by a soul, it shows on the Core before it lands, and a wounded soul loses its grip. Fate beats Spirit because Spirit survives by being right: one wrong read or one spoiled stroke is enough, and the meanings Spirit works with come down from Fate in the first place. The Stage, the ground and the preparation decide which of these holds on the day. People combine Paths to cover their own weakness: Body and Spirit is a hitter who cannot be gone around, Body and Fate is a blow that always arrives, Spirit and Fate reads the thread and moves it. Being above the lower realities makes Fate harder, never better.
+
+### R85-35-ZETTARI_SPRING_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+His updated Zettari document adds the Wellspring Sovereignty trait and the Spring Arts, which shut off, seize and turn a Wellspring; a Family in it reads as a kind.
+
+> this is the update for zettari
+
+### R84-2-WINDOW_NUMBERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.
+
+> (2) Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.
+
+### R84-17-DOMAINS_AND_RELEASES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.
+
+> (17) Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.
+
+### R84-29-WOUNDS_ON_THE_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one for life.
+
+> (29) Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one for life.
+
+### R84-39-TOURNAMENTS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Tournaments are huge and the world's sport: realms send champions, schools play for colors and Cores, a win can be worth a bought Stage, and fixing fights is a major crime and a major business.
+
+> (39) Tournaments are huge and the world's sport: realms send champions, schools play for colors and Cores, a win can be worth a bought Stage, and fixing fights is a major crime and a major business.
+
 ### R83-5-NO_GUNS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
 
 > (5) Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
-
-### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
-
-> Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
 ### R46-3-ARMOUR_TIER_IS_ITS_PROOF [The Item Tiers 2026-09-25 What the Tier Caps, by Kind]
 
@@ -4224,6 +4428,18 @@ Stone-Blood run about three-quarters of a beat late in deep cold, in every such 
 Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
+
+### R85-5-CAP_BASELINE [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+> The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+### R85-6-DOMAIN_ROAD [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
+
+> A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
 
 ### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
 
@@ -4447,7 +4663,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (192)
+## dialogue (189)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4628,12 +4844,6 @@ A practitioner explains exactly what he is doing to his target while doing it, b
 A Measurewright, a Kharven hunter and an Accord officer explain the same phenomenon in three different vocabularies; which words a mouth reaches for remains class-marking per Pack Nine.
 
 > Voice discipline. The explanation is characterised. A Measurewright, a Kharven hunter, and an Accord officer explain the same phenomenon in three different vocabularies, and which words a mouth reaches for remains class-marking, per Pack Nine.
-
-### R9-2-CLASS_MARKED_CRAFT_WORDS [Pack Nine PART TWO]
-
-Which word a character uses for a craft is characterisation: an Engraver says "the cutting," a Kharven soldier says "a man who can do the writing," and nobody says "Runecraft" aloud except an Accord examiner filling in a form.
-
-> Which word a mouth reaches for is characterisation: an Engraver says the cutting. A Kharven soldier wanting help says he needs a man who can do the writing. Nobody says "Runecraft" aloud except an Accord examiner filling in a form.
 
 ### R8-23-NAME_HIERARCHY [Pack Eight 2.3]
 
@@ -5241,12 +5451,6 @@ Seconds and minutes are plain English and free everywhere in narration; in-world
 
 > Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
 
-### R51-08-CALENDAR [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
-
-> Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
-
 ### R51-09-SPEECH_CAP [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 How modern a character's speech runs is set on their card; the default is casual, not current.
@@ -5288,12 +5492,6 @@ All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
 The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
 
 > The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
-
-### R51-18-DOUBLET [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
-
-> Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
 
 ### R51-19-ACCORD_LATIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -5601,7 +5799,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (110)
+## documents (111)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -6029,6 +6227,12 @@ Wiki magic pages: keep the in-world narrator, open on spectacle and famous stori
 
 > (42) Wiki magic pages: keep the in-world narrator, open on spectacle and famous stories, and let the technical detail follow with its dry asides.
 
+### R85-32-FAMILIAR_WORDS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Documents may use terms from the Superpower Wiki and VS Battles, since familiar words are easier. Aether is mana and Essence is spiritual energy. The world keeps its own style, inspired and never copied. Ability creation, character and other tools and skills are rebuilt after this as one bundle.
+
+> we can also utilize terms from the superpower wiki api and the vs wiki thing for documents just you know, but we can use that for the next bit and fixing the flow just think its easier to utilize words people are familiar with aether is just mana we've established that essence = spiritual energy. fate we established that as well but you get my point we want the system and the world to have its own style but to be inspo'd and the abilities techinques etc and after this you'll need to rebuild ability creation character etc many other thing as well skills will need to rebuilt but I'll have u bundle into one thing
+
 ### R83-13-WIKI_REWRITE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 The wiki: most of it is out of date on this, and it is rewritten whole, now.
@@ -6263,7 +6467,7 @@ When a scene with other players is archived, the Judger marks each canon break s
 
 > The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
 
-## items (85)
+## items (90)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6577,6 +6781,30 @@ Magitech: inventors and operators shout model names and brag about patents, and 
 
 > (37) Magitech: inventors and operators shout model names and brag about patents, and machines misfire in funny and terrible ways.
 
+### R85-1-GEAR_IS_A_FLEX [Directions 2026-11-05 (gear is a flex) gear-direction]
+
+Characters' armor, outfits, gear and swords are described on the page and on their cards, piece by piece for a major person at first sight, and the Rarity of weapons and items is said aloud or shown on a window, because gear is how people show off. A flex brings trouble of its own. In a fight the full item window still waits for the aftermath.
+
+> I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito f wapon and items that is a flex
+
+### R84-19-MASTER_WORKS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Master Works: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own.
+
+> (19) Master Works: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own.
+
+### R84-20-ITEMS_AND_APPRAISAL [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Items are rated by Grade and Rarity; bonded gear grows with its owner, and everyone else's stays what it is. An Appraisal skill and an assay instrument read an item, and a good forger can beat a weak appraiser.
+
+> (20) Items are rated by Grade and Rarity; bonded gear grows with its owner, and everyone else's stays what it is. An Appraisal skill and an assay instrument read an item, and a good forger can beat a weak appraiser.
+
+### R84-35-RELICS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a Grade and Mythic Rarity.
+
+> (35) Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a Grade and Mythic Rarity.
+
 ### R83-5-NO_GUNS [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Guns: none, in any era. A crossbow bolt is the cheap weapon that can kill a high-Stage fighter in a room.
@@ -6691,6 +6919,12 @@ Collapsed-star residue is Class VI, Archonic Residue.
 
 > Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin, priced at the top of the scale.
 
+### R85-9-STONE_BY_THE_BEAST [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
+> A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
 ### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
 
 A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
@@ -6775,7 +7009,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (159)
+## magic-design (179)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -6789,12 +7023,6 @@ Section One superseded. Its sheet-versus-page split was written under Pack Seven
 
 > Section One superseded. Its sheet-versus-page split was written under Pack Seven. Pack Seventeen's six-line card governs, mechanism first. Surviving: "overuse strains him" always fails, and drawback numbers are physical, never metaphysical.
 
-### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
-
-Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
-
-> Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
-
 ### R20C-42-LAW_V_STAGE_GATE_REFRACTION [Pack Twenty R20C-42]
 
 Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood.
@@ -6806,12 +7034,6 @@ Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand,
 Law III is dead and replaced. Progression follows the sixteen Temperance Stages.
 
 > Law III is dead and replaced. Progression follows the sixteen Temperance Stages. The sixty Wellsprings are what a practitioner draws from, not what they climb. The fourteen in the old text were Archons; someone conflated the lists.
-
-### R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE [Pack Twenty R20C-44]
-
-Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.
-
-> Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.
 
 ### R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK [Pack Eighteen §2]
 
@@ -7479,6 +7701,144 @@ Rewrite freedom: anything shown in an archived scene stays true. Each kit gets o
 
 > (46) Rewrite freedom: anything shown in an archived scene stays true. Each kit gets one concept and new names, unused pieces may be merged or cut, and Isaac can strike any of it.
 
+### R85-14-PATHS_AND_WELLSPRINGS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.
+
+> I think were gonna get rid of Essence Typologies and have Path's + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it'll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren't your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they've been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn't have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what "Essence" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it's attraction-layer more lets do it like that
+
+### R85-17-QUALIFIERS_AND_THE_LENS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+A Wellspring's kind names its home plane and never locks it. Any Path can use any Wellspring through its lens, reaching double at home and half again away. The sort is 33 Wild, 15 Spirit, 6 Fate and 6 Medium.
+
+> Agent ruling. A Wellspring's kind is a qualifier naming its home plane, never a lock. Any Path can use any Wellspring. A Wellspring is the lens a soul bases its tempering on, and it shapes Essence differently on each Path. On its home Path it harmonizes cleanly and can reach double the effect with years of mastery. Off its home Path it works in that layer's terms, at lower-quality resonance and higher Essence cost, and reaches half again at most. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear. Medium runs at home on all three. Wild (33): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Transmutatio, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine. Spirit (15): Catharsis, Penanceflare, Thaloré, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial, Eclipseron, Absolution, Penance, Redemption, Contrition. Fate (6): Somnalis, Oblation, Benediction, Oblivara, Transference, Tarturon. Medium (6): Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis.
+
+### R85-18-WHAT_EACH_PATH_MANIPULATES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate is much more than vows and blessings. People fight and wage wars with it, and the Moto are the prime example. Fate manipulates the outer parts of reality, what reality presupposes. Body is the literal understanding and manipulation of physical reality. Spirit is everything to do with spiritual reality.
+
+> l feel like FATRE should be MUCH more than just vows and blessings and whatnot people should be able to fight and actually wage wars with FATE since the MOTO are prime EXAMPLE of how deadly a lineage with fate manipulation and those type of abilities should be. I need you to UNDERSTAND FATE is the MANIPULATION of the outer-parts of reality something that prequisite reality. WHILST BODY is the LITERAL understanding and MANIPULATION of the PHYSICAL "Reality" Mean hile SPIRIT is the opposite its the "SPIRITUAL" reality everything to do with spirit reality.
+
+### R85-20-THE_REALITIES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Body pulls from Matla. The Epochs stand as the three Realities, but Fate cannot be considered a reality, since it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities.
+
+> pull from malta for body you just need to understand the epochs as the 3 "Realities" however fate cannot even be considered a reality if you know what I mean cause its everything that flows every possibility every idea every concept anything and everything that can happen in the lower realities.
+
+### R85-21-MATLA_AND_THE_BODY_LADDER [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Aegor is Physical Reality and Body, Ashura Spiritual Reality and Spirit, Bara over Fate, which is no reality. Body climbs Matla's ladder from object through contact, recognition and law to complete system, so its reach grows with Stage while it still needs existing substance and pays in recoil.
+
+> Agent ruling. The three Epochs stand over the three Paths. Aegor is Physical Reality and the Body Path. Ashura is Spiritual Reality and the Spirit Path. Those two are the lower realities. Bara stands over Fate, which is not a reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities, and the name Plane of Fate is a courtesy. Matla is the model of the Body Path as Hataraki is of Fate. Body climbs by its ladder: the novice commands matter as an object, the adept through contact, the master through recognition, the sovereign through law, and the rare Totality Architect as a complete system. So a Body fighter closes and hits low down, and high up their reach grows as far as there is matter to read, while still needing existing substance and paying in recoil through the body and Crystal. Matla stays a learned art with its own branches and limits; a Body fighter need not study it to climb the ladder.
+
+### R85-22-FATE_IS_HARD [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate is above the two realities and is the law and construction of the world. Archons and principles are Sovereign there. Pulling and warping threads takes extreme effort, which is why Hataraki has different workings, and it cannot be rationalized.
+
+> fate is above the other two realities when you pull ideas concepts down from fate you also have to understand the archons and principles are "Soveriegn" on the plain of fate they are the most powerful there, yet there reach is made even more so by the idea that they are the laws but what is fate itself but the very law and construction of the WORLD itself. Though this is ALL to say that just because you can pull-down and manipulate threads of FATE doesn't mean it is EASY you shouldn't be capable manipulating warping the physical and spiritual realities without EXTREME effort thats why there is different workings of Hataraki. Fate is hard because the notions you undersstand and concieve cannot be rationalized to be used against it.
+
+### R85-29-ZETTARI_AND_VALORIN [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The Zettari page takes his new document, the Valorin Family are added from his, and both are fitted to the three Paths and the rest of this pack.
+
+> update the zettari and add the valorin on thsi stuff.
+
+### R85-30-MATLA_LATTICE_AND_THE_PATHS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Matla is the Zettari's nine-Practice instrument; Material Force is its learned incomplete reading; the Body ladder is open to all. The Paths are a place, not the roads. A Valorin lattice has the same three faces as a Crystal, Valorin lean Spirit then Fate, and they cannot read Fate.
+
+> Agent ruling. This corrects R85-21 on Matla. Matla is the Instrument of the Paths, written by Aegor, with nine Practices, and only the Zettari can carry it. What the schools teach as Material Force, with its six branches, is the learned and incomplete reading of it. The Body Path's ladder of object, contact, recognition, law and whole system stays open to everyone, and Matla is its highest form. The Paths with a capital, the Zettari's plane of sands, are a place and not the three roads. A Valorin's Scripted Soul Lattice is a soul that never crystallized, so it has the same three faces as a Crystal, and the Paths and class ladders read on it the same way; ηₗ, like the Zettari's Matla conversion, is a lineage measure beside η. Valorin lean Spirit first and Fate second. Writing on Fate stays Fate: their understanding gets no purchase on it, so they cannot read it and can only write a sentence and wait to see whether it is recognized, which takes generations and is the lineage's great humility. A royal Zettari who truly walks Body and Fate pays the two-Path price.
+
+### R85-31-NO_MORE_FAMILIES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium, each Wellspring keeps its own hue, scholars' physics stays on each entry, and the Codex column stays untouched as a source.
+
+> also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source.
+
+### R85-32-FAMILIAR_WORDS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Documents may use terms from the Superpower Wiki and VS Battles, since familiar words are easier. Aether is mana and Essence is spiritual energy. The world keeps its own style, inspired and never copied. Ability creation, character and other tools and skills are rebuilt after this as one bundle.
+
+> we can also utilize terms from the superpower wiki api and the vs wiki thing for documents just you know, but we can use that for the next bit and fixing the flow just think its easier to utilize words people are familiar with aether is just mana we've established that essence = spiritual energy. fate we established that as well but you get my point we want the system and the world to have its own style but to be inspo'd and the abilities techinques etc and after this you'll need to rebuild ability creation character etc many other thing as well skills will need to rebuilt but I'll have u bundle into one thing
+
+### R85-33-ORIGINS_LADDERS_SPIRIT_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.
+
+> Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept.
+
+### R85-34-THE_FLOW_LAW [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.
+
+> Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.
+
+### R85-35-ZETTARI_SPRING_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+His updated Zettari document adds the Wellspring Sovereignty trait and the Spring Arts, which shut off, seize and turn a Wellspring; a Family in it reads as a kind.
+
+> this is the update for zettari
+
+### R85-36-HOUSE_CODEXES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Every House of the Inner World gets a detailed codex in the shape of the Zettari and Valorin documents, each with its own signature, and the Moto and Yukari are rebuilt with their new material.
+
+> let's make information like they did for the Zettari Valorin for all the House's of the Inner World detailed etc with info + moto and Yukari and there new stuff. each house should get its own little thing
+
+### R84-6-WHAT_MONEY_CANNOT_BUY [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+
+> (6) A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+
+### R84-7-TRAIT_AND_TECHNIQUE_GROWTH [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level and take a bigger name when they jump.
+
+> (7) Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level and take a bigger name when they jump.
+
+### R84-10-AETHER_CLASSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.
+
+> (10) Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.
+
+### R84-12-WHO_USES_FATE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and otherwise touched through a blessing or a Master Work Draft.
+
+> (12) Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and otherwise touched through a blessing or a Master Work Draft.
+
+### R84-18-CRAFTS_REMOVED [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes, tags and chants stay as skills and trades anyone can level.
+
+> (18) Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes, tags and chants stay as skills and trades anyone can level.
+
+### R84-26-VOWS_ARE_SMALL_FATE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms, and breaking it lands at once. Anyone can make one.
+
+> (26) Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms, and breaking it lands at once. Anyone can make one.
+
+### R84-28-SUMMONS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.
+
+> (28) Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.
+
+### R84-34-PEOPLES_AND_CLASSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Peoples tend toward classes and Traits of their own, as tendencies and never locks.
+
+> (34) Peoples tend toward classes and Traits of their own, as tendencies and never locks.
+
+### R85-12-WILD_AND_SPIRITUAL [Directions 2026-11-05 (Wellspring kinds) wellspring-kinds]
+
+Wild Wellsprings are mostly physical, appearing as alchemical transformations and physical phenomena a practitioner shapes their inner Essence around. Spiritual Wellsprings are purely spiritual, work spiritual transformations and usually have little or no effect on the physical world.
+
+> The idea of wild wellsprings still exist but those are mostly PHYSICAL wellsprings and appear as alchemical transformations and physical phenomena that you shape your inner-essence around. Whilst SPIRITUAL wellsprings are PURELY spiritual and usually have no effect or a lot of influence on the physical world, but have more of spiritual transformations.
+
 ### R83-9-CULTIVATION [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
@@ -7514,12 +7874,6 @@ An Obsession or Attraction working, a charm or a Draft may make someone want, an
 An art that gives or draws Essence through the act is a technique, with a Codex line, a cost in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked is a Claim and makes the scene dubcon or non-con.
 
 > Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8).
-
-### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
-
-There are four Paths, Fate included.
-
-> There are four Paths: Body, Spirit, Attraction and Fate.
 
 ### R43-4-LETTERED_BAND_SWEPT [Magic System Rulings 2026-09-24 C-033]
 
@@ -7731,7 +8085,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (277)
+## magic-mechanism (311)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8116,12 +8470,6 @@ Ability Effect fields may render a working as an externalised shape (animal, ele
 A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page. [Amended by R81-7 and R80-22: the working's mechanism, physics and metaphysics are explained on the page; only why the Wellspring chose that particular shape may stand as law.]
 
 > Effect is physical only. What the shape looks like, what it does, what the room and the target feel. Never why the Wellspring resolved as a tiger and not a wolf — if that answer exists at all, it is workbook, one line at the foot, never on the page.
-
-### R9-1-FOUR_CRAFTS_RATIFIED [Pack Nine PART ONE]
-
-Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as the naming scheme for how a working is performed; Chantcraft stays pending.
-
-> The four-media structure — Magicraft, Spellcraft, Runecraft, Draftcraft — is confirmed canon as the naming scheme for how a working gets performed. Chantcraft stays pending.
 
 ### R9-3-SCOPE [Pack Nine PART THREE]
 
@@ -8939,6 +9287,180 @@ Explanation: name, hit and awe come first; the explanation comes right after, fr
 
 > (24) Explanation: name, hit and awe come first; the explanation comes right after, from a mouth or narration, and stays complete. It scales by size: a small move gets a line, and a signature's first use or a finisher gets the full account. Nobody is left confused.
 
+### R85-14-PATHS_AND_WELLSPRINGS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.
+
+> I think were gonna get rid of Essence Typologies and have Path's + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it'll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren't your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they've been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn't have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what "Essence" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it's attraction-layer more lets do it like that
+
+### R85-15-THREE_PATHS_THREE_LAYERS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Body Path works the Physical World through the Aether Shell, Spirit Path the Soul Plane through the Essence Core, Fate Path the Plane of Fate through the Attraction Layer. Attraction folds into Fate. Essence is the soul's own substance. Typology's jobs pass to Wellspring and Path.
+
+> Agent ruling. There are three Paths, one to each plane and layer of the Soul Crystal. Body Path is the Physical World, worked through the Aether Shell. Spirit Path is the Soul Plane, worked through the Essence Core. Fate Path is the Plane of Fate, worked through the Attraction Layer, which is a soul's own share of fate. Attraction folds into Fate: Attraction Force and Obsession Force are what the Plane of Fate runs on, so Fate Path takes Attraction's Range, Aura Pressure and Domain authority, an Attraction gate reads as a Fate gate, and true Fate Arts stay the rare far end of the Path. Every soul has all three layers, and a Path is the layer the Crystal leans on. Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance and spending it is spending yourself. Essence Typology is retired: a blow's character comes from Wellspring and Path, Wellspring compatibility from how its qualifier sits with the Path, a Primary Trait from origin, first imprint and the lived Path, and class trajectory from how the person has lived.
+
+### R85-17-QUALIFIERS_AND_THE_LENS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+A Wellspring's kind names its home plane and never locks it. Any Path can use any Wellspring through its lens, reaching double at home and half again away. The sort is 33 Wild, 15 Spirit, 6 Fate and 6 Medium.
+
+> Agent ruling. A Wellspring's kind is a qualifier naming its home plane, never a lock. Any Path can use any Wellspring. A Wellspring is the lens a soul bases its tempering on, and it shapes Essence differently on each Path. On its home Path it harmonizes cleanly and can reach double the effect with years of mastery. Off its home Path it works in that layer's terms, at lower-quality resonance and higher Essence cost, and reaches half again at most. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear. Medium runs at home on all three. Wild (33): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Transmutatio, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine. Spirit (15): Catharsis, Penanceflare, Thaloré, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial, Eclipseron, Absolution, Penance, Redemption, Contrition. Fate (6): Somnalis, Oblation, Benediction, Oblivara, Transference, Tarturon. Medium (6): Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis.
+
+### R85-18-WHAT_EACH_PATH_MANIPULATES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate is much more than vows and blessings. People fight and wage wars with it, and the Moto are the prime example. Fate manipulates the outer parts of reality, what reality presupposes. Body is the literal understanding and manipulation of physical reality. Spirit is everything to do with spiritual reality.
+
+> l feel like FATRE should be MUCH more than just vows and blessings and whatnot people should be able to fight and actually wage wars with FATE since the MOTO are prime EXAMPLE of how deadly a lineage with fate manipulation and those type of abilities should be. I need you to UNDERSTAND FATE is the MANIPULATION of the outer-parts of reality something that prequisite reality. WHILST BODY is the LITERAL understanding and MANIPULATION of the PHYSICAL "Reality" Mean hile SPIRIT is the opposite its the "SPIRITUAL" reality everything to do with spirit reality.
+
+### R85-20-THE_REALITIES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Body pulls from Matla. The Epochs stand as the three Realities, but Fate cannot be considered a reality, since it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities.
+
+> pull from malta for body you just need to understand the epochs as the 3 "Realities" however fate cannot even be considered a reality if you know what I mean cause its everything that flows every possibility every idea every concept anything and everything that can happen in the lower realities.
+
+### R85-21-MATLA_AND_THE_BODY_LADDER [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Aegor is Physical Reality and Body, Ashura Spiritual Reality and Spirit, Bara over Fate, which is no reality. Body climbs Matla's ladder from object through contact, recognition and law to complete system, so its reach grows with Stage while it still needs existing substance and pays in recoil.
+
+> Agent ruling. The three Epochs stand over the three Paths. Aegor is Physical Reality and the Body Path. Ashura is Spiritual Reality and the Spirit Path. Those two are the lower realities. Bara stands over Fate, which is not a reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities, and the name Plane of Fate is a courtesy. Matla is the model of the Body Path as Hataraki is of Fate. Body climbs by its ladder: the novice commands matter as an object, the adept through contact, the master through recognition, the sovereign through law, and the rare Totality Architect as a complete system. So a Body fighter closes and hits low down, and high up their reach grows as far as there is matter to read, while still needing existing substance and paying in recoil through the body and Crystal. Matla stays a learned art with its own branches and limits; a Body fighter need not study it to climb the ladder.
+
+### R85-22-FATE_IS_HARD [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate is above the two realities and is the law and construction of the world. Archons and principles are Sovereign there. Pulling and warping threads takes extreme effort, which is why Hataraki has different workings, and it cannot be rationalized.
+
+> fate is above the other two realities when you pull ideas concepts down from fate you also have to understand the archons and principles are "Soveriegn" on the plain of fate they are the most powerful there, yet there reach is made even more so by the idea that they are the laws but what is fate itself but the very law and construction of the WORLD itself. Though this is ALL to say that just because you can pull-down and manipulate threads of FATE doesn't mean it is EASY you shouldn't be capable manipulating warping the physical and spiritual realities without EXTREME effort thats why there is different workings of Hataraki. Fate is hard because the notions you undersstand and concieve cannot be rationalized to be used against it.
+
+### R85-23-FATE_FIGHTS_AT_A_PRICE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate fights and wages war by moving what things depend on, and is the hardest Path. Everyday Fate fighters use Range, Pressure, presence and bonds. A real pull is rare, ruinously costly and often fails. A field is a life's masterwork or a bloodline art. Each Work of Hataraki is a distinct way of gripping one function.
+
+> Agent ruling. This replaces R85-19. Fate sits above the two lower realities and is the law and construction of the world itself. People fight and wage wars with it, and they move what a blow, a wall, a march or a battle depends on. It is the hardest of the Paths. Understanding gets no purchase on it, because a mind's notions are made of the thing they would be used against, so it cannot be reasoned out or drilled in. A thread of Fate is pulled down from above, and warping physical or spiritual reality through one takes extreme effort at every Stage. Archons and the great principles are Sovereign on the Plane of Fate and the most powerful there, because they are those laws, so a thread may belong to something that notices. An ordinary Fate fighter's everyday weapons are Range, Aura Pressure, presence and bonds. A real pull in a fight is rare: low down it is one lean on the odds that can take a large share of the reserve, leaves the body bleeding, and often fails. Higher up it can remove or assign a prerequisite at a ruinous price. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. The Works of Hataraki exist because nobody grips Fate bare: each Work is a distinct inherited way of taking hold of one function, which is what makes the Moto so deadly. Fate can only move what already has a way of happening, has a visible charge and a tell, and is contested by Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits.
+
+### R85-24-ARCHONS_ACROSS_THE_PLANES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Most if not all Archons are sovereign across all three planes, and some are deemed more powerful than others. Uurgath and Urion are unparalleled in Fate because their ideas are inconceivable.
+
+> tbh most if not all archons are soveriegn across all 3 planes. However some are deemed more powerful that others. Like Uurgath and Urion are unparalleled in fate compared to the other archons since there ideas are inconcievable if you get the idea and the point.
+
+### R85-25-CLASSES_BY_LAYER [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Aether Class is rewritten to fit the new system as a classifier of how strong a person's influence on the physical world is, and Fate and Spirit get classes of their own.
+
+> I think we should also re-write the aether class to fit inside of this new system instead of forcing it to become apart of it I think the class of aether should be more a classifier of how strong your influence and your classifier is when it comes to influence on the physical world. However if we are gonna do it that wasy we might need to give Fate and Spirit classes of there own as well?
+
+### R85-26-THREE_CLASS_LADDERS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Three ladders, Ø to Ω, one per Crystal layer, read from Glory, each setting η for its own layer. Thread is the steep one. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind, a Studied one stops at II, or I for Thread. The named calling is just a Class.
+
+> Agent ruling. There are three class ladders, one per layer of the Crystal, each running Ø to Ω and read from Glory. Aether Class is the Aether Shell and measures influence on the physical world: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute. Essence Class is the Essence Core and measures influence on spiritual reality: Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute. Thread Class is the Attraction Layer and measures how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. VI on each ladder is lateral, an inverted way of holding that power. Each ladder sets η for workings through its own layer. Thread Class is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral on the other ladders, and it opens no earlier than Glory unless a bloodline or blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A card's η and numeral move to the ladder of its lead Path unchanged. The named calling the soul offers at thresholds is now just a Class and has no ladder of its own; it evolves when the lead ladder rises. The Soul Crystal Tier stays as the reading of the whole soul.
+
+### R85-27-NO_BETTER_PATH [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The wiki explains how each Path can beat each other. Each has clear limitations against the others, no Path is better, and that is why some Paths are combined.
+
+> we should ALSO explain how EACH path can beat each other. feel like fate and body and spirit all have limitations all pretty-clear all against each other there are no "Better" paths each path is good, and thats why some paths are combined
+
+### R85-28-HOW_EACH_PATH_BEATS_EACH [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Each Path's limits and how it beats each of the other two, with Stage, ground and preparation deciding on the day, and why Paths are combined. Being above the lower realities makes Fate harder, never better.
+
+> Agent ruling. No Path is better, and each beats each. Body's limits: it needs existing substance, must close until very high, pays in recoil, and has no purchase on a soul. Spirit's limits: it needs a soul or a meaning to work on, has a fragile body, and dies out of position. Fate's limits: it is ruinously hard, slow to set, moves only what already has a way of happening, and loses a straight exchange. Body beats Spirit by getting there: a spear does not care what you mean, a working takes time, and a dense Shell outlasts a thrown one. Spirit beats Body by going past the Shell: armor and Durability do not cover the soul, and the Spirit fighter reads the charge from range. Body beats Fate with force and soundness: nothing moves the odds on an avalanche, a well-kept fighter offers no strap to give, and a straight exchange ends before the pull can set. Fate beats Body through what closing depends on: the ground, the gear, the hour, so the blow never arrives. Spirit beats Fate by reaching the hand on the thread: every pull is made by a soul, it shows on the Core before it lands, and a wounded soul loses its grip. Fate beats Spirit because Spirit survives by being right: one wrong read or one spoiled stroke is enough, and the meanings Spirit works with come down from Fate in the first place. The Stage, the ground and the preparation decide which of these holds on the day. People combine Paths to cover their own weakness: Body and Spirit is a hitter who cannot be gone around, Body and Fate is a blow that always arrives, Spirit and Fate reads the thread and moves it. Being above the lower realities makes Fate harder, never better.
+
+### R85-30-MATLA_LATTICE_AND_THE_PATHS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Matla is the Zettari's nine-Practice instrument; Material Force is its learned incomplete reading; the Body ladder is open to all. The Paths are a place, not the roads. A Valorin lattice has the same three faces as a Crystal, Valorin lean Spirit then Fate, and they cannot read Fate.
+
+> Agent ruling. This corrects R85-21 on Matla. Matla is the Instrument of the Paths, written by Aegor, with nine Practices, and only the Zettari can carry it. What the schools teach as Material Force, with its six branches, is the learned and incomplete reading of it. The Body Path's ladder of object, contact, recognition, law and whole system stays open to everyone, and Matla is its highest form. The Paths with a capital, the Zettari's plane of sands, are a place and not the three roads. A Valorin's Scripted Soul Lattice is a soul that never crystallized, so it has the same three faces as a Crystal, and the Paths and class ladders read on it the same way; ηₗ, like the Zettari's Matla conversion, is a lineage measure beside η. Valorin lean Spirit first and Fate second. Writing on Fate stays Fate: their understanding gets no purchase on it, so they cannot read it and can only write a sentence and wait to see whether it is recognized, which takes generations and is the lineage's great humility. A royal Zettari who truly walks Body and Fate pays the two-Path price.
+
+### R85-31-NO_MORE_FAMILIES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium, each Wellspring keeps its own hue, scholars' physics stays on each entry, and the Codex column stays untouched as a source.
+
+> also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source.
+
+### R85-33-ORIGINS_LADDERS_SPIRIT_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.
+
+> Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept.
+
+### R85-34-THE_FLOW_LAW [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.
+
+> Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.
+
+### R84-11-GETTING_A_WELLSPRING [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect on a person's natural Essence Typology starts small and reaches double only with years of mastery.
+
+> (11) Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect on a person's natural Essence Typology starts small and reaches double only with years of mastery.
+
+### R84-12-WHO_USES_FATE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and otherwise touched through a blessing or a Master Work Draft.
+
+> (12) Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and otherwise touched through a blessing or a Master Work Draft.
+
+### R84-13-BLESSINGS_AND_CURSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.
+
+> (13) Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.
+
+### R84-17-DOMAINS_AND_RELEASES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.
+
+> (17) Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.
+
+### R84-21-AURA_AND_PRESSURE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape. Pressure is felt in the room first, and then the window reports it.
+
+> (21) Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape. Pressure is felt in the room first, and then the window reports it.
+
+### R84-26-VOWS_ARE_SMALL_FATE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms, and breaking it lands at once. Anyone can make one.
+
+> (26) Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms, and breaking it lands at once. Anyone can make one.
+
+### R84-27-RESURRECTION [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.
+
+> (27) Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.
+
+### R84-30-BREAKTHROUGHS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows the same Stage.
+
+> (30) Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows the same Stage.
+
+### R84-32-MIND_MAGIC_AND_WINDOWS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays a violation with a cost, and Gnosis gives a fair counter.
+
+> (32) Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays a violation with a cost, and Gnosis gives a fair counter.
+
+### R84-33-THE_PLANES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage arts, rarely and at a high price.
+
+> (33) The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage arts, rarely and at a high price.
+
+### R84-37-BUYING_WAKING [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich buy one for their children, while commoners sell themselves into guild debt for it.
+
+> (37) Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich buy one for their children, while commoners sell themselves into guild debt for it.
+
+### R85-12-WILD_AND_SPIRITUAL [Directions 2026-11-05 (Wellspring kinds) wellspring-kinds]
+
+Wild Wellsprings are mostly physical, appearing as alchemical transformations and physical phenomena a practitioner shapes their inner Essence around. Spiritual Wellsprings are purely spiritual, work spiritual transformations and usually have little or no effect on the physical world.
+
+> The idea of wild wellsprings still exist but those are mostly PHYSICAL wellsprings and appear as alchemical transformations and physical phenomena that you shape your inner-essence around. Whilst SPIRITUAL wellsprings are PURELY spiritual and usually have no effect or a lot of influence on the physical world, but have more of spiritual transformations.
+
 ### R83-9-CULTIVATION [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Cultivation: the idea of the draw is gone. Practitioners pull magic that exists in the environment. Most Aether is pulled from the environment, Aethers come in different types that affect the Soul Crystal differently, and those are the Wellsprings: sources of power that also represent alchemical principles and spiritual transformations.
@@ -9167,6 +9689,48 @@ The Sacrament's third Wellspring stays out of the prose until decided.
 
 > Conjunction stays unnamed: the Sacrament's third Wellspring stays out of the prose until decided.
 
+### R85-3-ETA_BY_CLASS [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.
+
+> From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.
+
+### R85-4-AU_SPENT_AND_DELIVERED [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.
+
+> AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.
+
+### R85-5-CAP_BASELINE [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+> The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+### R85-6-DOMAIN_ROAD [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
+
+> A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
+
+### R85-7-VOHRIN_OUTSIDE_THE_SIXTY [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.
+
+> Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.
+
+### R85-10-AURA_HUE_FROM_THE_FIRST [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.
+
+> Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.
+
+### R85-11-MUNAHI_VOWS_THE_PURSE [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
+
+> Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
+
 ### R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION [Sacrament Anchor Ruling Standing Ruling]
 
 A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
@@ -9253,12 +9817,6 @@ Set a rite on the page as a numbered in-world form in the Guild's house style, t
 State the world's independent magic as law with reasons kept; people's workings keep full mechanism except in combat roleplay, whose page shows effects and tells and whose mechanism and figures stay in notes (R77-2). Written set pieces and books keep the full floor.
 
 > Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
-
-### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
-
-A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
-
-> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
 
 ### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
 
@@ -9398,7 +9956,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (42)
+## mass-combat (44)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -9628,11 +10186,23 @@ The POV's own fight in a battle takes full Blow Cards; the mass is told through 
 
 > (19) Battles: the POV's own fight in a battle gets full Blow Cards; the mass around it is told through specific bodies and wounds. A blow too fast to see gets the card from what the POV saw after (the afterimage, the wound, the position), explained.
 
-### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R85-18-WHAT_EACH_PATH_MANIPULATES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
 
-Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+Fate is much more than vows and blessings. People fight and wage wars with it, and the Moto are the prime example. Fate manipulates the outer parts of reality, what reality presupposes. Body is the literal understanding and manipulation of physical reality. Spirit is everything to do with spiritual reality.
 
-> Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+> l feel like FATRE should be MUCH more than just vows and blessings and whatnot people should be able to fight and actually wage wars with FATE since the MOTO are prime EXAMPLE of how deadly a lineage with fate manipulation and those type of abilities should be. I need you to UNDERSTAND FATE is the MANIPULATION of the outer-parts of reality something that prequisite reality. WHILST BODY is the LITERAL understanding and MANIPULATION of the PHYSICAL "Reality" Mean hile SPIRIT is the opposite its the "SPIRITUAL" reality everything to do with spirit reality.
+
+### R85-23-FATE_FIGHTS_AT_A_PRICE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Fate fights and wages war by moving what things depend on, and is the hardest Path. Everyday Fate fighters use Range, Pressure, presence and bonds. A real pull is rare, ruinously costly and often fails. A field is a life's masterwork or a bloodline art. Each Work of Hataraki is a distinct way of gripping one function.
+
+> Agent ruling. This replaces R85-19. Fate sits above the two lower realities and is the law and construction of the world itself. People fight and wage wars with it, and they move what a blow, a wall, a march or a battle depends on. It is the hardest of the Paths. Understanding gets no purchase on it, because a mind's notions are made of the thing they would be used against, so it cannot be reasoned out or drilled in. A thread of Fate is pulled down from above, and warping physical or spiritual reality through one takes extreme effort at every Stage. Archons and the great principles are Sovereign on the Plane of Fate and the most powerful there, because they are those laws, so a thread may belong to something that notices. An ordinary Fate fighter's everyday weapons are Range, Aura Pressure, presence and bonds. A real pull in a fight is rare: low down it is one lean on the odds that can take a large share of the reserve, leaves the body bleeding, and often fails. Higher up it can remove or assign a prerequisite at a ruinous price. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. The Works of Hataraki exist because nobody grips Fate bare: each Work is a distinct inherited way of taking hold of one function, which is what makes the Moto so deadly. Fate can only move what already has a way of happening, has a visible charge and a tell, and is contested by Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits.
+
+### R84-44-WAR [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel.
+
+> (44) War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel.
 
 ### R54-20-MASS_WOUND_ANATOMY [Queue Questionnaire 2026-09-26 WAR-92]
 
@@ -10884,7 +11454,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavor, and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (169)
+## pov (168)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -11564,12 +12134,6 @@ At a power reveal let the watching crowd speak in waves inside the POV's hearing
 
 > Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
 
-### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
-
-A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
-
-> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
-
 ### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
 
 Every practitioner feels his own Grades and Stage and senses another's Band and rough Stage as closely as his Gnosis allows, but another's exact figures need an instrument, and commoners keep their folk words and their awe.
@@ -11900,7 +12464,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (342)
+## prose-law (347)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12634,6 +13198,42 @@ Prose: narration stays rich and thoughtful, shouted names and spectacle crash th
 
 > (44) Prose: narration stays rich and thoughtful, shouted names and spectacle crash through it, and The Weak Grade remains the model.
 
+### R85-2-THE_REAL_CALENDAR [Directions 2026-11-05 (the real calendar) calendar-direction]
+
+The world uses the real calendar, January to December and Monday to Sunday, with real month lengths, leap years and a 24-hour day, in every culture's mouth and in narration. The year counts stay as they are. It is not tied to today's date. Archived scenes stay as written.
+
+> prob just gonna haveyou switch to irl days and use real life calender to make shit more simple
+
+### R85-1-GEAR_IS_A_FLEX [Directions 2026-11-05 (gear is a flex) gear-direction]
+
+Characters' armor, outfits, gear and swords are described on the page and on their cards, piece by piece for a major person at first sight, and the Rarity of weapons and items is said aloud or shown on a window, because gear is how people show off. A flex brings trouble of its own. In a fight the full item window still waits for the aftermath.
+
+> I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito f wapon and items that is a flex
+
+### R84-1-WINDOWS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in detail, fights included, for damage, skill gains and reserve.
+
+> (1) Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in detail, fights included, for damage, skill gains and reserve.
+
+### R84-2-WINDOW_NUMBERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.
+
+> (2) Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.
+
+### R84-21-AURA_AND_PRESSURE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape. Pressure is felt in the room first, and then the window reports it.
+
+> (21) Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape. Pressure is felt in the room first, and then the window reports it.
+
+### R84-30-BREAKTHROUGHS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows the same Stage.
+
+> (30) Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows the same Stage.
+
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
 R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
@@ -13113,6 +13713,12 @@ Prose must render at least two of three simultaneous channels in any exchange of
 Never write an Eladrin line of dialogue without a distance or stillness beat attached; a bare Eladrin line is an incomplete sentence in their language.
 
 > Never write an Eladrin line of dialogue without a distance or stillness beat attached. A bare Eladrin line is an incomplete sentence in their language, and the reader should be able to follow an entire Eladrin conversation with the dialogue removed.
+
+### R85-10-AURA_HUE_FROM_THE_FIRST [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.
+
+> Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.
 
 ### R70-1-BLEND_MODEL [Style Law 2026-10-03 K1]
 
@@ -13660,12 +14266,6 @@ Seconds and minutes are plain English and free everywhere in narration; in-world
 
 > Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
 
-### R51-08-CALENDAR [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
-
-> Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
-
 ### R51-09-SPEECH_CAP [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 How modern a character's speech runs is set on their card; the default is casual, not current.
@@ -13707,12 +14307,6 @@ All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
 The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
 
 > The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
-
-### R51-18-DOUBLET [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
-
-> Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
 
 ### R51-19-ACCORD_LATIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -13954,7 +14548,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (187)
+## register (184)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -14219,12 +14813,6 @@ A Measurewright, a Kharven hunter and an Accord officer explain the same phenome
 Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
 
 > Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.
-
-### R9-2-CLASS_MARKED_CRAFT_WORDS [Pack Nine PART TWO]
-
-Which word a character uses for a craft is characterisation: an Engraver says "the cutting," a Kharven soldier says "a man who can do the writing," and nobody says "Runecraft" aloud except an Accord examiner filling in a form.
-
-> Which word a mouth reaches for is characterisation: an Engraver says the cutting. A Kharven soldier wanting help says he needs a man who can do the writing. Nobody says "Runecraft" aloud except an Accord examiner filling in a form.
 
 ### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
 
@@ -14874,12 +15462,6 @@ Seconds and minutes are plain English and free everywhere in narration; in-world
 
 > Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
 
-### R51-08-CALENDAR [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
-
-> Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
-
 ### R51-09-SPEECH_CAP [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 How modern a character's speech runs is set on their card; the default is casual, not current.
@@ -14921,12 +15503,6 @@ All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
 The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
 
 > The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
-
-### R51-18-DOUBLET [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
-
-> Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
 
 ### R51-19-ACCORD_LATIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -15896,7 +16472,7 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 
 > Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
 
-## session-protocol (110)
+## session-protocol (112)
 
 ### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
 
@@ -16101,6 +16677,18 @@ New moves: Natalie may create and name an NPC's new move mid-fight, canon on use
 Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
 
 > (45) Rollout: pilot three cards (Muken, Raizan and one lower-Stage fighter) and a short sample fight, then the rest of Volume I, the library and the wiki magic pages. This law stands now and the pilot can amend it.
+
+### R84-3-OLD_SCENES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Old scenes: archived scenes stay as written; windows are for new writing.
+
+> (3) Old scenes: archived scenes stay as written; windows are for new writing.
+
+### R84-23-WINDOWS_AT_THE_TABLE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Roleplay and Discord: windows appear as plain text blocks; his PC's gains are offered as window lines he keeps or changes.
+
+> (23) Roleplay and Discord: windows appear as plain text blocks; his PC's gains are offered as window lines he keeps or changes.
 
 ### R83-14-SCENES_REVISED [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
@@ -16558,7 +17146,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (78)
+## standing-inventory (79)
 
 ### R20C-48-ZETTARI_THIN_GROUND [Pack Twenty R20C-48]
 
@@ -16691,6 +17279,12 @@ Succession follows each culture's own law, set on its Inventory.
 Every rhythm, sentence-length and count rule retires; a revelation may take a short line and its consequence gets room; developed paragraphs; vocabulary rich with no count; Kharven recurrence gone; description a toolbox; Inventories reference only; no epithet count.
 
 > Isaac's direction 2026-10-17, by questionnaire (imports/drafts/prose-rp-questionnaire/): prose carries no statistics. Every sentence-length, rhythm and count rule retires: the run rule, the long-sentence chain ceiling, the short-sentence floor, the variation target, the payoff word cap, the clause and conjunction caps, the landing rule and the approach ladder, the paragraph-shape rules and their checks, the filter-verb rate, the opener cap, the fragment cap and the simile-pair check. A revelation may take a short line; its consequence gets room. A one-line paragraph stands wherever the movement around it earns it. Paragraphs are developed, following the mind's movement as The Weak Grade shows. Vocabulary is rich, with no count and no saturation or stacking rule; the word chosen still carries more than its plain substitute. The Kharven recurrence minimum is gone entirely, its check and its book-pipeline FAIL with it; the items stay as Inventory texture. Description is a toolbox with no per-beat or per-scene minimums. Standing Inventory entries are reference, with no sizes and no draw-first order. Narration names people the way the POV sees them, with no epithet count.
+
+### R85-2-THE_REAL_CALENDAR [Directions 2026-11-05 (the real calendar) calendar-direction]
+
+The world uses the real calendar, January to December and Monday to Sunday, with real month lengths, leap years and a 24-hour day, in every culture's mouth and in narration. The year counts stay as they are. It is not tied to today's date. Archived scenes stay as written.
+
+> prob just gonna haveyou switch to irl days and use real life calender to make shit more simple
 
 ### R59-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -17028,7 +17622,7 @@ Each culture's Standing Inventory gets a 'Gone' list of three to five named lost
 
 > Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
 
-## stats (199)
+## stats (224)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -17546,6 +18140,138 @@ Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of 
 
 > (21) Figures: exact figures (EU, AU/s, eta) sit together in a block at the bottom of the entry or card.
 
+### R85-14-PATHS_AND_WELLSPRINGS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.
+
+> I think were gonna get rid of Essence Typologies and have Path's + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it'll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren't your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they've been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn't have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what "Essence" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it's attraction-layer more lets do it like that
+
+### R85-15-THREE_PATHS_THREE_LAYERS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Body Path works the Physical World through the Aether Shell, Spirit Path the Soul Plane through the Essence Core, Fate Path the Plane of Fate through the Attraction Layer. Attraction folds into Fate. Essence is the soul's own substance. Typology's jobs pass to Wellspring and Path.
+
+> Agent ruling. There are three Paths, one to each plane and layer of the Soul Crystal. Body Path is the Physical World, worked through the Aether Shell. Spirit Path is the Soul Plane, worked through the Essence Core. Fate Path is the Plane of Fate, worked through the Attraction Layer, which is a soul's own share of fate. Attraction folds into Fate: Attraction Force and Obsession Force are what the Plane of Fate runs on, so Fate Path takes Attraction's Range, Aura Pressure and Domain authority, an Attraction gate reads as a Fate gate, and true Fate Arts stay the rare far end of the Path. Every soul has all three layers, and a Path is the layer the Crystal leans on. Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance and spending it is spending yourself. Essence Typology is retired: a blow's character comes from Wellspring and Path, Wellspring compatibility from how its qualifier sits with the Path, a Primary Trait from origin, first imprint and the lived Path, and class trajectory from how the person has lived.
+
+### R85-16-PATH_BALANCE [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+A Path is Mastered, Walked (30 percent of practice or more) or Studied. One Path is on time at full modifier with a clean seat; two take about 2.5 times as long at three-quarter modifiers with a rough seat; three take about six times as long at half modifiers with the high Grades shut.
+
+> Agent ruling. One soul has one life's time to spend. A Path on a card is Mastered, Walked or Studied. Walked takes at least 30 percent of a person's practice. Anyone may study any Path, which gives knowledge and small uses and opens no gates. One Path: gates open at the Stage written, the full force modifier, a clean seat, mastery in the base time. Two Paths: mastery takes about two and a half times as long for the pair, the Path behind opens its gates a Stage late until it is mastered, the modifier is three-quarters on each for life, and the seat is rough, so the fighter has real holes at times and breaks an opponent's read of them. Time closes the gap in the gates and never in the modifier. Three Paths: about six times as long, which is beyond a mortal span, gates two Stages late, half modifiers, and the high Grades stay shut. It is rare and looked down on. Card percentages stay as the record of time spent, with Attraction added to Fate.
+
+### R85-25-CLASSES_BY_LAYER [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Aether Class is rewritten to fit the new system as a classifier of how strong a person's influence on the physical world is, and Fate and Spirit get classes of their own.
+
+> I think we should also re-write the aether class to fit inside of this new system instead of forcing it to become apart of it I think the class of aether should be more a classifier of how strong your influence and your classifier is when it comes to influence on the physical world. However if we are gonna do it that wasy we might need to give Fate and Spirit classes of there own as well?
+
+### R85-26-THREE_CLASS_LADDERS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Three ladders, Ø to Ω, one per Crystal layer, read from Glory, each setting η for its own layer. Thread is the steep one. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind, a Studied one stops at II, or I for Thread. The named calling is just a Class.
+
+> Agent ruling. There are three class ladders, one per layer of the Crystal, each running Ø to Ω and read from Glory. Aether Class is the Aether Shell and measures influence on the physical world: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute. Essence Class is the Essence Core and measures influence on spiritual reality: Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute. Thread Class is the Attraction Layer and measures how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. VI on each ladder is lateral, an inverted way of holding that power. Each ladder sets η for workings through its own layer. Thread Class is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral on the other ladders, and it opens no earlier than Glory unless a bloodline or blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A card's η and numeral move to the ladder of its lead Path unchanged. The named calling the soul offers at thresholds is now just a Class and has no ladder of its own; it evolves when the lead ladder rises. The Soul Crystal Tier stays as the reading of the whole soul.
+
+### R85-33-ORIGINS_LADDERS_SPIRIT_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.
+
+> Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept.
+
+### R85-34-THE_FLOW_LAW [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.
+
+> Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.
+
+### R84-1-WINDOWS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in detail, fights included, for damage, skill gains and reserve.
+
+> (1) Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in detail, fights included, for damage, skill gains and reserve.
+
+### R84-2-WINDOW_NUMBERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.
+
+> (2) Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.
+
+### R84-4-EXPERIENCE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
+
+> (4) Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.
+
+### R84-5-BUYING_THE_CLIMB [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings.
+
+> (5) Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings.
+
+### R84-7-TRAIT_AND_TECHNIQUE_GROWTH [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level and take a bigger name when they jump.
+
+> (7) Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level and take a bigger name when they jump.
+
+### R84-8-SKILLS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named things done with them.
+
+> (8) Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named things done with them.
+
+### R84-9-THE_SHEET [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage. Race and lineage show on the sheet and shape base stats and what comes easily.
+
+> (9) Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage. Race and lineage show on the sheet and shape base stats and what comes easily.
+
+### R84-10-AETHER_CLASSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.
+
+> (10) Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.
+
+### R84-22-READING_PEOPLE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake it.
+
+> (22) Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake it.
+
+### R84-25-CREW_BONDS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.
+
+> (25) Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.
+
+### R84-28-SUMMONS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.
+
+> (28) Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.
+
+### R84-29-WOUNDS_ON_THE_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one for life.
+
+> (29) Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one for life.
+
+### R84-36-EVERYONE_HAS_A_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.
+
+> (36) Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.
+
+### R84-40-COMMONERS_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest.
+
+> (40) A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest.
+
+### R84-42-MUNDANE_MASTERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight.
+
+> (42) Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -17732,12 +18458,6 @@ The Ascension Ration buys Flourishing's floor (III to IV).
 
 > The Ascension Ration serves the III to IV Threshold: it is held at Ascension and buys Flourishing's quantitative floor.
 
-### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
-
-There are four Paths, Fate included.
-
-> There are four Paths: Body, Spirit, Attraction and Fate.
-
 ### R42-8-PARAGON_LEVEL_UNCOUNTED [Magic System Rulings 2026-09-23 C-026]
 
 Past Level 500 at Stages XV–XVI, uncounted, no sixth Band.
@@ -17876,6 +18596,36 @@ A card's stated Strike Force that sits outside its Stage's Max Grade band stands
 
 > Card figure governs: each of the twelve Strike Force figures stands as that character's own outlier; no card changes.
 
+### R85-3-ETA_BY_CLASS [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.
+
+> From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.
+
+### R85-4-AU_SPENT_AND_DELIVERED [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.
+
+> AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.
+
+### R85-5-CAP_BASELINE [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+> The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.
+
+### R85-6-DOMAIN_ROAD [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
+
+> A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.
+
+### R85-9-STONE_BY_THE_BEAST [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
+> A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
 ### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
 
 Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
@@ -17998,12 +18748,6 @@ Killing intent is Pressure narrowed onto one man through Dominion, felt as cold,
 Assay coils may stamp their figures on a paper tape or punch them on a card, like a ticker or tabulator, and any set-off readout block on the page is written as that tape in the instrument's own type.
 
 > Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type.
-
-### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
-
-A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
-
-> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
 
 ### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
 
@@ -18227,7 +18971,7 @@ Every card carries a line naming its bearer's next Stage, that Stage's Fracture 
 
 > Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
 
-## verification (97)
+## verification (98)
 
 ### R20C-55-COST_AUDIT_ON_CONTACT [Pack Twenty R20C-55]
 
@@ -18631,6 +19375,12 @@ Only exact stock phrases are banned; single words are free; canon Wellspring sig
 
 > (9) Word bans: only exact stock phrases are banned; single words are unbanned; the canon Wellspring signatures are exempt; verify_scene changes to match.
 
+### R85-2-THE_REAL_CALENDAR [Directions 2026-11-05 (the real calendar) calendar-direction]
+
+The world uses the real calendar, January to December and Monday to Sunday, with real month lengths, leap years and a 24-hour day, in every culture's mouth and in narration. The year counts stay as they are. It is not tied to today's date. Archived scenes stay as written.
+
+> prob just gonna haveyou switch to irl days and use real life calender to make shit more simple
+
 ### R58-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
@@ -18811,7 +19561,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (365)
+## worldbuilding (397)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -18860,12 +19610,6 @@ Origin stays mythic. Mechanism is fully explicable; where it came from is not.
 The Percussion master-strike table is Dawi-authored in-world.
 
 > The Percussion master-strike table is Dawi-authored in-world.
-
-### R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE [Pack Twenty R20C-44]
-
-Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.
-
-> Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.
 
 ### R20C-45-GOLDEN_AGE_ACCORD_MISTAKEN [Pack Twenty R20C-45]
 
@@ -19917,6 +20661,204 @@ Villains: each group has a shared motif, and each member's concept shows what th
 
 > (41) Villains: each group has a shared motif, and each member's concept shows what they believe and did.
 
+### R85-2-THE_REAL_CALENDAR [Directions 2026-11-05 (the real calendar) calendar-direction]
+
+The world uses the real calendar, January to December and Monday to Sunday, with real month lengths, leap years and a 24-hour day, in every culture's mouth and in narration. The year counts stay as they are. It is not tied to today's date. Archived scenes stay as written.
+
+> prob just gonna haveyou switch to irl days and use real life calender to make shit more simple
+
+### R85-20-THE_REALITIES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Body pulls from Matla. The Epochs stand as the three Realities, but Fate cannot be considered a reality, since it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities.
+
+> pull from malta for body you just need to understand the epochs as the 3 "Realities" however fate cannot even be considered a reality if you know what I mean cause its everything that flows every possibility every idea every concept anything and everything that can happen in the lower realities.
+
+### R85-24-ARCHONS_ACROSS_THE_PLANES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Most if not all Archons are sovereign across all three planes, and some are deemed more powerful than others. Uurgath and Urion are unparalleled in Fate because their ideas are inconceivable.
+
+> tbh most if not all archons are soveriegn across all 3 planes. However some are deemed more powerful that others. Like Uurgath and Urion are unparalleled in fate compared to the other archons since there ideas are inconcievable if you get the idea and the point.
+
+### R85-29-ZETTARI_AND_VALORIN [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The Zettari page takes his new document, the Valorin Family are added from his, and both are fitted to the three Paths and the rest of this pack.
+
+> update the zettari and add the valorin on thsi stuff.
+
+### R85-33-ORIGINS_LADDERS_SPIRIT_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.
+
+> Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept.
+
+### R85-34-THE_FLOW_LAW [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.
+
+> Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.
+
+### R85-35-ZETTARI_SPRING_ARTS [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+His updated Zettari document adds the Wellspring Sovereignty trait and the Spring Arts, which shut off, seize and turn a Wellspring; a Family in it reads as a kind.
+
+> this is the update for zettari
+
+### R85-36-HOUSE_CODEXES [Directions 2026-11-05 (Paths and layers) paths-and-layers]
+
+Every House of the Inner World gets a detailed codex in the shape of the Zettari and Valorin documents, each with its own signature, and the Moto and Yukari are rebuilt with their new material.
+
+> let's make information like they did for the Zettari Valorin for all the House's of the Inner World detailed etc with info + moto and Yukari and there new stuff. each house should get its own little thing
+
+### R84-5-BUYING_THE_CLIMB [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings.
+
+> (5) Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings.
+
+### R84-6-WHAT_MONEY_CANNOT_BUY [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+
+> (6) A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.
+
+### R84-13-BLESSINGS_AND_CURSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.
+
+> (13) Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.
+
+### R84-14-MONSTERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a name, an epithet and a bounty. Monster parts make gear.
+
+> (14) Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a name, an epithet and a bounty. Monster parts make gear.
+
+### R84-15-CRYSTALS_OF_THE_DEAD [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Dead practitioners: a Crystal can be cut from the dead and rendered into the strongest Drafts of all, the worst crime in every realm and the most profitable.
+
+> (15) Dead practitioners: a Crystal can be cut from the dead and rendered into the strongest Drafts of all, the worst crime in every realm and the most profitable.
+
+### R84-16-DUNGEONS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Dungeons grow down in floors around a Core with something guarding the heart; kill it and clear the place, or leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars argue whether it thinks.
+
+> (16) Dungeons grow down in floors around a Core with something guarding the heart; kill it and clear the place, or leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars argue whether it thinks.
+
+### R84-18-CRAFTS_REMOVED [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes, tags and chants stay as skills and trades anyone can level.
+
+> (18) Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes, tags and chants stay as skills and trades anyone can level.
+
+### R84-25-CREW_BONDS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.
+
+> (25) Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.
+
+### R84-27-RESURRECTION [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.
+
+> (27) Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.
+
+### R84-31-RANKINGS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Rankings: the Accord keeps a roll, heralds cry their own, bookies keep odds, and each realm and sect has its own list. They all disagree, and getting on a list makes you a target.
+
+> (31) Rankings: the Accord keeps a roll, heralds cry their own, bookies keep odds, and each realm and sect has its own list. They all disagree, and getting on a list makes you a target.
+
+### R84-33-THE_PLANES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage arts, rarely and at a high price.
+
+> (33) The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage arts, rarely and at a high price.
+
+### R84-34-PEOPLES_AND_CLASSES [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Peoples tend toward classes and Traits of their own, as tendencies and never locks.
+
+> (34) Peoples tend toward classes and Traits of their own, as tendencies and never locks.
+
+### R84-35-RELICS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a Grade and Mythic Rarity.
+
+> (35) Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a Grade and Mythic Rarity.
+
+### R84-36-EVERYONE_HAS_A_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.
+
+> (36) Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.
+
+### R84-37-BUYING_WAKING [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich buy one for their children, while commoners sell themselves into guild debt for it.
+
+> (37) Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich buy one for their children, while commoners sell themselves into guild debt for it.
+
+### R84-38-SECT_RANK_AND_TITLE [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Sect rank and Accord title are separate and both matter: a sect rank says where you stand in that school, and a title says what you are trusted with.
+
+> (38) Sect rank and Accord title are separate and both matter: a sect rank says where you stand in that school, and a title says what you are trusted with.
+
+### R84-39-TOURNAMENTS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Tournaments are huge and the world's sport: realms send champions, schools play for colors and Cores, a win can be worth a bought Stage, and fixing fights is a major crime and a major business.
+
+> (39) Tournaments are huge and the world's sport: realms send champions, schools play for colors and Cores, a win can be worth a bought Stage, and fixing fights is a major crime and a major business.
+
+### R84-40-COMMONERS_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest.
+
+> (40) A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest.
+
+### R84-41-SHEET_AND_SOCIETY [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue about it, and parents push their children from the first Grade.
+
+> (41) Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue about it, and parents push their children from the first Grade.
+
+### R84-42-MUNDANE_MASTERS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight.
+
+> (42) Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight.
+
+### R84-43-LAW_AND_THE_SHEET [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording.
+
+> (43) Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording.
+
+### R84-44-WAR [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel.
+
+> (44) War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel.
+
+### R84-45-FAITH_AND_THE_WINDOW [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Faith: every faith has its own answer to what the window is, and real wars come of it.
+
+> (45) Faith: every faith has its own answer to what the window is, and real wars come of it.
+
+### R84-46-POWER_DEBT_AND_DRAFTS [Directions 2026-11-05 (the sheet and the climb) magic-system-questionnaire]
+
+Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone strong is in somebody's debt.
+
+> (46) Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone strong is in somebody's debt.
+
+### R85-12-WILD_AND_SPIRITUAL [Directions 2026-11-05 (Wellspring kinds) wellspring-kinds]
+
+Wild Wellsprings are mostly physical, appearing as alchemical transformations and physical phenomena a practitioner shapes their inner Essence around. Spiritual Wellsprings are purely spiritual, work spiritual transformations and usually have little or no effect on the physical world.
+
+> The idea of wild wellsprings still exist but those are mostly PHYSICAL wellsprings and appear as alchemical transformations and physical phenomena that you shape your inner-essence around. Whilst SPIRITUAL wellsprings are PURELY spiritual and usually have no effect or a lot of influence on the physical world, but have more of spiritual transformations.
+
 ### R83-1-HEADLINE [Directions 2026-11-05 (the Dark Ages) medieval-setting-questionnaire]
 
 Headline: a medieval world that runs on old magic: lethal courts, deep and frightening powers, and fighters who shout their techniques across the battlefield. For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat.
@@ -20060,12 +21002,6 @@ Making: clean, humming Essence works and mills; mass production exists, and the 
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
 
 > Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
-
-### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
-
-Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
-
-> Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
 ### R59-13-TIMEKEEPING [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -20673,6 +21609,18 @@ All three registers are originations contradicting no existing lore (none existe
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
 
+### R85-9-STONE_BY_THE_BEAST [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
+> A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.
+
+### R85-11-MUNAHI_VOWS_THE_PURSE [Agent rulings 2026-11-05 (magic audit) magic-audit]
+
+Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
+
+> Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.
+
 ### R70-29-UNITS_MEASURE [Style Law 2026-10-03 VB6]
 
 Narration measures distance, weight and time in the POV's own units (bowshots and a pot's boil for a Kharven guard; yards, pounds and joules for a Measurewright), and the exact figure stays with trained eyes.
@@ -20756,12 +21704,6 @@ State the world's independent magic as law with reasons kept; people's workings 
 Assay coils may stamp their figures on a paper tape or punch them on a card, like a ticker or tabulator, and any set-off readout block on the page is written as that tape in the instrument's own type.
 
 > Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type.
-
-### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
-
-A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
-
-> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
 
 ### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
 

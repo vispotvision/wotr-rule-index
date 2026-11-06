@@ -4259,7 +4259,7 @@
     "pack_number": null,
     "section": "C-025",
     "title": "There are four Paths, Fate included",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "There are four Paths, Fate included.",
     "verbatim": "There are four Paths: Body, Spirit, Attraction and Fate.",
@@ -4283,7 +4283,9 @@
       "lines": null
     },
     "notes": "Closes CONFLICTS.md C-025.",
-    "superseded_by": []
+    "superseded_by": [
+      "R85-14-PATHS_AND_WELLSPRINGS"
+    ]
   },
   {
     "id": "R42-8-PARAGON_LEVEL_UNCOUNTED",
@@ -9925,7 +9927,7 @@
     "pack_number": null,
     "section": "Vocabulary and diction",
     "title": "Calendar",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.",
     "verbatim": "Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.",
@@ -9949,7 +9951,9 @@
       "lines": null
     },
     "notes": "Noted by R70-61-SEASON_WORD_DOES (style law 2026-10-03): each culture's logged season words may stand in narration and speech and carry a settled feeling; Earth day and month names stay out.",
-    "superseded_by": []
+    "superseded_by": [
+      "R85-2-THE_REAL_CALENDAR"
+    ]
   },
   {
     "id": "R51-09-SPEECH_CAP",
@@ -10255,7 +10259,7 @@
     "pack_number": null,
     "section": "Vocabulary and diction",
     "title": "Doublet",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.",
     "verbatim": "Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.",
@@ -16493,7 +16497,7 @@
     "pack_number": null,
     "section": "Era and apparatus",
     "title": "Transitional Military",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.",
     "verbatim": "Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.",
@@ -26284,7 +26288,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Extends R53-07-PRICE_TABLE (quoted whenever coin moves); R53-17-THE_BILL stands. The lineage clause keeps R46-2 Tiers out of the prose unless asked; the set-off item card is R70-95 and appraisal is R70-85. Appraisal by a trained eye was not taken here. Extended by R71-84-TRADE_PAPER_SCENE (combat law 2026-10-04): beyond the price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money; lawful vessels carry a registered mark that handlers check, and a bad lot may turn a scene. This row stands. Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04): mid-fight a trained eye names a weapon's or round's Tier inline, by name alone, so 'Tier and price stay off unless asked' no longer holds the Tier back there, though this row did not take 'Appraisal by a trained eye'; the rest of the item card, price included, waits for the counter or the aftermath. The price clause and the lineage clause otherwise stand. Partly amended by R71-91-ARMOUR_SUMS_PAGE (combat law 2026-10-04): a trained POV names both Tiers, the strike's and the armour's, in her read before an exchange, so the Tier is on the page there without being asked. Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: money that changes hands is named; an item's Tier and price appear once, when the POV would see them.",
+    "notes": "Extends R53-07-PRICE_TABLE (quoted whenever coin moves); R53-17-THE_BILL stands. The lineage clause keeps R46-2 Tiers out of the prose unless asked; the set-off item card is R70-95 and appraisal is R70-85. Appraisal by a trained eye was not taken here. Extended by R71-84-TRADE_PAPER_SCENE (combat law 2026-10-04): beyond the price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money; lawful vessels carry a registered mark that handlers check, and a bad lot may turn a scene. This row stands. Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04): mid-fight a trained eye names a weapon's or round's Tier inline, by name alone, so 'Tier and price stay off unless asked' no longer holds the Tier back there, though this row did not take 'Appraisal by a trained eye'; the rest of the item card, price included, waits for the counter or the aftermath. The price clause and the lineage clause otherwise stand. Partly amended by R71-91-ARMOUR_SUMS_PAGE (combat law 2026-10-04): a trained POV names both Tiers, the strike's and the armour's, in her read before an exchange, so the Tier is on the page there without being asked. Amended 2026-11-05 by R85-1-GEAR_IS_A_FLEX: 'Tier and price stay off unless asked' is lifted; the lineage clause and the price clause stand. Amended 2026-10-17 by R79-10-NUMBERS_AND_SYSTEMS: money that changes hands is named; an item's Tier and price appear once, when the POV would see them.",
     "superseded_by": []
   },
   {
@@ -27352,7 +27356,7 @@
     "pack_number": null,
     "section": "LR22",
     "title": "The bearer reads his own Crystal",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.",
     "verbatim": "Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.",
@@ -42352,6 +42356,2502 @@
     "superseded_by": []
   },
   {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-1-WINDOWS",
+    "section": "magic-system-questionnaire",
+    "title": "Windows",
+    "kind": "definition",
+    "summary": "Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in detail, fights included, for damage, skill gains and reserve.",
+    "verbatim": "(1) Windows: the Soul Crystal is the soul and the Continuum measures it, so a window is the soul reporting its numbers to its owner in their own tongue, and no one else can see it. Windows appear on the page as text blocks, often and in detail, fights included, for damage, skill gains and reserve.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "prose-law"
+    ],
+    "notes": "Clause (1) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-10-AETHER_CLASSES",
+    "section": "magic-system-questionnaire",
+    "title": "Aether classes",
+    "kind": "definition",
+    "summary": "Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.",
+    "verbatim": "(10) Aether Class: at thresholds the soul is offered a named class that fits how the person has lived; it gives abilities and shapes growth, and it evolves at each tier by how it is lived. The old ladder stays as its tier. The one wild concept stays the person's own.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "magic-design",
+      "character-sheet"
+    ],
+    "notes": "Clause (10) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-11-GETTING_A_WELLSPRING",
+    "section": "magic-system-questionnaire",
+    "title": "Getting a wellspring",
+    "kind": "definition",
+    "summary": "Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect on a person's natural Essence Typology starts small and reaches double only with years of mastery.",
+    "verbatim": "(11) Wellsprings: they are got at a Core in a dungeon, from a school, from a Draft or blessing, or by birth. The effect on a person's natural Essence Typology starts small and reaches double only with years of mastery.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "codex",
+      "magic-mechanism"
+    ],
+    "notes": "Clause (11) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json. Amended 2026-11-05 by R85-14 and R85-17, Essence Typology being retired; the ways of getting a Wellspring stand, and the slow road to double now applies to the lens at its home Path.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-12-WHO_USES_FATE",
+    "section": "magic-system-questionnaire",
+    "title": "Who uses fate",
+    "kind": "definition",
+    "summary": "Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and otherwise touched through a blessing or a Master Work Draft.",
+    "verbatim": "(12) Fate: real Fate Arts are rare and mostly by bloodline, reached late by some high-Stage masters along the Fate Path, and otherwise touched through a blessing or a Master Work Draft.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design"
+    ],
+    "notes": "Clause (12) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-13-BLESSINGS_AND_CURSES",
+    "section": "magic-system-questionnaire",
+    "title": "Blessings and curses",
+    "kind": "definition",
+    "summary": "Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.",
+    "verbatim": "(13) Blessings: a blessing is listed on the sheet as its own line, and because the giver wrote the line it can lie. A curse is often a blessing with terms you did not read or a giver who does not care what you want. Epochs and Archons act rarely and it shakes the world; lesser spirits and high-Stage people give most blessings.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "notes": "Clause (13) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-14-MONSTERS",
+    "section": "magic-system-questionnaire",
+    "title": "Monsters",
+    "kind": "definition",
+    "summary": "Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a name, an epithet and a bounty. Monster parts make gear.",
+    "verbatim": "(14) Monsters: a core can be swallowed raw, taking everything at once, and most who try die or come out wrong. Monsters gain Levels by killing and change form at their own thresholds, and share the same Level and Grade scale as people, read by Gnosis, with question marks for a weak reader. They are graded T1 to T9 like commissions, and a famous one earns a name, an epithet and a bounty. Monster parts make gear.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "adjudication"
+    ],
+    "notes": "Clause (14) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-15-CRYSTALS_OF_THE_DEAD",
+    "section": "magic-system-questionnaire",
+    "title": "Crystals of the dead",
+    "kind": "definition",
+    "summary": "Dead practitioners: a Crystal can be cut from the dead and rendered into the strongest Drafts of all, the worst crime in every realm and the most profitable.",
+    "verbatim": "(15) Dead practitioners: a Crystal can be cut from the dead and rendered into the strongest Drafts of all, the worst crime in every realm and the most profitable.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (15) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-16-DUNGEONS",
+    "section": "magic-system-questionnaire",
+    "title": "Dungeons",
+    "kind": "definition",
+    "summary": "Dungeons grow down in floors around a Core with something guarding the heart; kill it and clear the place, or leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars argue whether it thinks.",
+    "verbatim": "(16) Dungeons grow down in floors around a Core with something guarding the heart; kill it and clear the place, or leave it and it grows. A dungeon is alive and learning: it moves galleries and breeds what kills crews best, and scholars argue whether it thinks.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (16) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-17-DOMAINS_AND_RELEASES",
+    "section": "magic-system-questionnaire",
+    "title": "Domains and releases",
+    "kind": "definition",
+    "summary": "Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.",
+    "verbatim": "(17) Domains: anyone at Stage VIII can have one, their own concept made real. A Release or Domain fills the window with its name and what changed, and a timer bar drains. The two-Grade boost cap stays; only outside help goes past it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "combat"
+    ],
+    "notes": "Clause (17) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-18-CRAFTS_REMOVED",
+    "section": "magic-system-questionnaire",
+    "title": "Crafts removed",
+    "kind": "definition",
+    "summary": "Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes, tags and chants stay as skills and trades anyone can level.",
+    "verbatim": "(18) Crafts: the named crafts Spellcraft, Runecraft, Draftcraft, Chantcraft and Magicraft are removed. Drafts, runes, tags and chants stay as skills and trades anyone can level.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "worldbuilding"
+    ],
+    "notes": "Clause (18) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-19-MASTER_WORKS",
+    "section": "magic-system-questionnaire",
+    "title": "Master works",
+    "kind": "definition",
+    "summary": "Master Works: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own.",
+    "verbatim": "(19) Master Works: a piece that does what its Grade and material should not be able to, made once at the end of a lifetime, always Unique or Mythic, and named. Each area has its own.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "items"
+    ],
+    "notes": "Clause (19) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-2-WINDOW_NUMBERS",
+    "section": "magic-system-questionnaire",
+    "title": "Window numbers",
+    "kind": "definition",
+    "summary": "Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.",
+    "verbatim": "(2) Window numbers: windows show Grades, percentages, bars and levels; EU, AU/s and eta stay in the notes. Narration stays body first.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "prose-law",
+      "combat"
+    ],
+    "notes": "Clause (2) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-20-ITEMS_AND_APPRAISAL",
+    "section": "magic-system-questionnaire",
+    "title": "Items and appraisal",
+    "kind": "definition",
+    "summary": "Items are rated by Grade and Rarity; bonded gear grows with its owner, and everyone else's stays what it is. An Appraisal skill and an assay instrument read an item, and a good forger can beat a weak appraiser.",
+    "verbatim": "(20) Items are rated by Grade and Rarity; bonded gear grows with its owner, and everyone else's stays what it is. An Appraisal skill and an assay instrument read an item, and a good forger can beat a weak appraiser.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "items"
+    ],
+    "notes": "Clause (20) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-21-AURA_AND_PRESSURE",
+    "section": "magic-system-questionnaire",
+    "title": "Aura and pressure",
+    "kind": "definition",
+    "summary": "Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape. Pressure is felt in the room first, and then the window reports it.",
+    "verbatim": "(21) Aura: Family sets the base color, a Wellspring adds texture and sound, and a class or big Trait adds a shape. Pressure is felt in the room first, and then the window reports it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "prose-law"
+    ],
+    "notes": "Clause (21) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-22-READING_PEOPLE",
+    "section": "magic-system-questionnaire",
+    "title": "Reading people",
+    "kind": "definition",
+    "summary": "Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake it.",
+    "verbatim": "(22) Reading people: a stronger Gnosis Perception reads a weaker Resilience Ward; everything else is an estimate said aloud, and people can hide or fake it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "adjudication",
+      "stats"
+    ],
+    "notes": "Clause (22) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-23-WINDOWS_AT_THE_TABLE",
+    "section": "magic-system-questionnaire",
+    "title": "Windows at the table",
+    "kind": "definition",
+    "summary": "Roleplay and Discord: windows appear as plain text blocks; his PC's gains are offered as window lines he keeps or changes.",
+    "verbatim": "(23) Roleplay and Discord: windows appear as plain text blocks; his PC's gains are offered as window lines he keeps or changes.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "session-protocol"
+    ],
+    "notes": "Clause (23) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-24-CARDS_CONVERT",
+    "section": "magic-system-questionnaire",
+    "title": "Cards convert",
+    "kind": "definition",
+    "summary": "Cards convert with the R82 rollout: each gets concept, moves, class, Trait levels and skills in one pass; other creators' cards stay untouched.",
+    "verbatim": "(24) Cards convert with the R82 rollout: each gets concept, moves, class, Trait levels and skills in one pass; other creators' cards stay untouched.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "notes": "Clause (24) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-25-CREW_BONDS",
+    "section": "magic-system-questionnaire",
+    "title": "Crew bonds",
+    "kind": "definition",
+    "summary": "Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.",
+    "verbatim": "(25) Crews: a real bond shows as a line on the window, shares a little Level gain and shows the crew's bars in a fight; it has to be earned, and betrayal breaks it visibly.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "worldbuilding"
+    ],
+    "notes": "Clause (25) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-26-VOWS_ARE_SMALL_FATE",
+    "section": "magic-system-questionnaire",
+    "title": "Vows are small fate",
+    "kind": "definition",
+    "summary": "Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms, and breaking it lands at once. Anyone can make one.",
+    "verbatim": "(26) Vows are small Fate: a person binding their own probability. Spoken, the window shows the bargain and its terms, and breaking it lands at once. Anyone can make one.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design"
+    ],
+    "notes": "Clause (26) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-27-RESURRECTION",
+    "section": "magic-system-questionnaire",
+    "title": "Resurrection",
+    "kind": "definition",
+    "summary": "Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.",
+    "verbatim": "(27) Resurrection: deaths stay permanent. A blessing from a very great giver could in theory undo one, a world-shaking event with a terrible price that comes back as a curse more often than not.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "notes": "Clause (27) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-28-SUMMONS",
+    "section": "magic-system-questionnaire",
+    "title": "Summons",
+    "kind": "definition",
+    "summary": "Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.",
+    "verbatim": "(28) Summons: a bound spirit or beast is a contract with its own window, read by its holder; its Level grows, its terms show, and it can evolve or be stolen by contract. Some summoners can summon without limit through Fate itself.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "stats"
+    ],
+    "notes": "Clause (28) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-29-WOUNDS_ON_THE_WINDOW",
+    "section": "magic-system-questionnaire",
+    "title": "Wounds on the window",
+    "kind": "definition",
+    "summary": "Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one for life.",
+    "verbatim": "(29) Wounds: a wound shows as a status line with what it stops you doing and stays until treated. Healers and healing Drafts fix it for a price, slowly at low Grade and fast at high, so a rich fighter walks off what cripples a poor one for life.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "combat",
+      "stats"
+    ],
+    "notes": "Clause (29) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-3-OLD_SCENES",
+    "section": "magic-system-questionnaire",
+    "title": "Old scenes",
+    "kind": "definition",
+    "summary": "Old scenes: archived scenes stay as written; windows are for new writing.",
+    "verbatim": "(3) Old scenes: archived scenes stay as written; windows are for new writing.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "session-protocol"
+    ],
+    "notes": "Clause (3) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-30-BREAKTHROUGHS",
+    "section": "magic-system-questionnaire",
+    "title": "Breakthroughs",
+    "kind": "definition",
+    "summary": "Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows the same Stage.",
+    "verbatim": "(30) Breakthroughs: a lived one is loud and transforms you with the window lighting up, and a bought one is a Draft in a quiet room with a physician standing by. Crisis, seclusion and tribulation all still happen, and the sheet shows the same Stage.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "prose-law"
+    ],
+    "notes": "Clause (30) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-31-RANKINGS",
+    "section": "magic-system-questionnaire",
+    "title": "Rankings",
+    "kind": "definition",
+    "summary": "Rankings: the Accord keeps a roll, heralds cry their own, bookies keep odds, and each realm and sect has its own list. They all disagree, and getting on a list makes you a target.",
+    "verbatim": "(31) Rankings: the Accord keeps a roll, heralds cry their own, bookies keep odds, and each realm and sect has its own list. They all disagree, and getting on a list makes you a target.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (31) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-32-MIND_MAGIC_AND_WINDOWS",
+    "section": "magic-system-questionnaire",
+    "title": "Mind magic and windows",
+    "kind": "definition",
+    "summary": "Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays a violation with a cost, and Gnosis gives a fair counter.",
+    "verbatim": "(32) Mind magic can touch the window: a strong Limina user can make it lie, show false numbers or hide a line. It stays a violation with a cost, and Gnosis gives a fair counter.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "adjudication"
+    ],
+    "notes": "Clause (32) of the RULINGS.md paragraph \"The sheet and the climb, continued (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-33-THE_PLANES",
+    "section": "magic-system-questionnaire",
+    "title": "The planes",
+    "kind": "definition",
+    "summary": "The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage arts, rarely and at a high price.",
+    "verbatim": "(33) The planes: a living person can go to the Soul Plane and the others, by thin places, deep dungeons and high-Stage arts, rarely and at a high price.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "notes": "Clause (33) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-34-PEOPLES_AND_CLASSES",
+    "section": "magic-system-questionnaire",
+    "title": "Peoples and classes",
+    "kind": "definition",
+    "summary": "Peoples tend toward classes and Traits of their own, as tendencies and never locks.",
+    "verbatim": "(34) Peoples tend toward classes and Traits of their own, as tendencies and never locks.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "worldbuilding"
+    ],
+    "notes": "Clause (34) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-35-RELICS",
+    "section": "magic-system-questionnaire",
+    "title": "Relics",
+    "kind": "definition",
+    "summary": "Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a Grade and Mythic Rarity.",
+    "verbatim": "(35) Relics: true relics of the Great Spirit War and the Physical Epochs are off the ladder. They read as question marks to any appraiser, cannot be repaired or copied, and may have opinions about who holds them. Lesser relics have a Grade and Mythic Rarity.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "items",
+      "worldbuilding"
+    ],
+    "notes": "Clause (35) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-36-EVERYONE_HAS_A_WINDOW",
+    "section": "magic-system-questionnaire",
+    "title": "Everyone has a window",
+    "kind": "definition",
+    "summary": "Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.",
+    "verbatim": "(36) Everyone has a window, the unwoken included: a baker has a Baking skill and a little sheet.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "worldbuilding"
+    ],
+    "notes": "Clause (36) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-37-BUYING_WAKING",
+    "section": "magic-system-questionnaire",
+    "title": "Buying waking",
+    "kind": "definition",
+    "summary": "Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich buy one for their children, while commoners sell themselves into guild debt for it.",
+    "verbatim": "(37) Waking can be bought: a Waking Draft is very dear and risky, often kills or warps a child, and most of the rich buy one for their children, while commoners sell themselves into guild debt for it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "notes": "Clause (37) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-38-SECT_RANK_AND_TITLE",
+    "section": "magic-system-questionnaire",
+    "title": "Sect rank and title",
+    "kind": "definition",
+    "summary": "Sect rank and Accord title are separate and both matter: a sect rank says where you stand in that school, and a title says what you are trusted with.",
+    "verbatim": "(38) Sect rank and Accord title are separate and both matter: a sect rank says where you stand in that school, and a title says what you are trusted with.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (38) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-39-TOURNAMENTS",
+    "section": "magic-system-questionnaire",
+    "title": "Tournaments",
+    "kind": "definition",
+    "summary": "Tournaments are huge and the world's sport: realms send champions, schools play for colors and Cores, a win can be worth a bought Stage, and fixing fights is a major crime and a major business.",
+    "verbatim": "(39) Tournaments are huge and the world's sport: realms send champions, schools play for colors and Cores, a win can be worth a bought Stage, and fixing fights is a major crime and a major business.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "combat"
+    ],
+    "notes": "Clause (39) of the RULINGS.md paragraph \"The sheet and the climb, continued further (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-4-EXPERIENCE",
+    "section": "magic-system-questionnaire",
+    "title": "Experience",
+    "kind": "definition",
+    "summary": "Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.",
+    "verbatim": "(4) Experience: Level moves by danger overcome, so killing something stronger moves it more than a hundred weak kills, and crews argue over who got the kill.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "adjudication"
+    ],
+    "notes": "Clause (4) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-40-COMMONERS_WINDOW",
+    "section": "magic-system-questionnaire",
+    "title": "Commoners window",
+    "kind": "definition",
+    "summary": "A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest.",
+    "verbatim": "(40) A commoner's window is small and useful: Level, a few trade skills and health, with no Essence and no class until waking opens the rest.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "worldbuilding"
+    ],
+    "notes": "Clause (40) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-41-SHEET_AND_SOCIETY",
+    "section": "magic-system-questionnaire",
+    "title": "Sheet and society",
+    "kind": "definition",
+    "summary": "Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue about it, and parents push their children from the first Grade.",
+    "verbatim": "(41) Everyone reading their own sheet shapes society: hiring asks for proof, courts swear on it, churches argue about it, and parents push their children from the first Grade.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (41) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-42-MUNDANE_MASTERS",
+    "section": "magic-system-questionnaire",
+    "title": "Mundane masters",
+    "kind": "definition",
+    "summary": "Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight.",
+    "verbatim": "(42) Mundane masters: fifty years at one thing can give an EX-Grade trade skill with no Stage to speak of, and such a master is frightening. They usually still lose a fight.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "worldbuilding"
+    ],
+    "notes": "Clause (42) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-43-LAW_AND_THE_SHEET",
+    "section": "magic-system-questionnaire",
+    "title": "Law and the sheet",
+    "kind": "definition",
+    "summary": "Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording.",
+    "verbatim": "(43) Law: a court makes you swear to what your sheet shows, lying under a proper oath costs you because an oath is small Fate, and only an assay can check it. Lawyers fight over exact wording.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "adjudication"
+    ],
+    "notes": "Clause (43) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-44-WAR",
+    "section": "magic-system-questionnaire",
+    "title": "War",
+    "kind": "definition",
+    "summary": "War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel.",
+    "verbatim": "(44) War: armies are levies and sworn companies around a few high-Stage champions, and each side's first job is to pin or kill the other's. Crossbows and massed spears kill practitioners in bulk. Monster cores and bought Stages are war materiel.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "mass-combat",
+      "worldbuilding"
+    ],
+    "notes": "Clause (44) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-45-FAITH_AND_THE_WINDOW",
+    "section": "magic-system-questionnaire",
+    "title": "Faith and the window",
+    "kind": "definition",
+    "summary": "Faith: every faith has its own answer to what the window is, and real wars come of it.",
+    "verbatim": "(45) Faith: every faith has its own answer to what the window is, and real wars come of it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (45) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-46-POWER_DEBT_AND_DRAFTS",
+    "section": "magic-system-questionnaire",
+    "title": "Power debt and drafts",
+    "kind": "definition",
+    "summary": "Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone strong is in somebody's debt.",
+    "verbatim": "(46) Power: lords hold people they cannot out-fight through grain, land, debt and the Draft supply. Everyone strong is in somebody's debt.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "notes": "Clause (46) of the RULINGS.md paragraph \"The sheet and the world (R84)\" under 2026-11-05.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-5-BUYING_THE_CLIMB",
+    "section": "magic-system-questionnaire",
+    "title": "Buying the climb",
+    "kind": "definition",
+    "summary": "Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings.",
+    "verbatim": "(5) Buying the climb: Drafts and blessings can supply a Catalyst, and Stages can simply be bought, so the wealthy are stronger because they are wealthy. The great houses hoard the top Drafts; the poor rise by dungeon luck, guild patronage and blessings.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "worldbuilding"
+    ],
+    "notes": "Clause (5) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-6-WHAT_MONEY_CANNOT_BUY",
+    "section": "magic-system-questionnaire",
+    "title": "What money cannot buy",
+    "kind": "definition",
+    "summary": "A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.",
+    "verbatim": "(6) A bought Stage opens the door and no more: a Release must still be found and mastered by fighting, and sects teach what money cannot buy, Releases, Domains, techniques, skills and the rites for their Wellspring.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-design",
+      "worldbuilding"
+    ],
+    "notes": "Clause (6) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-7-TRAIT_AND_TECHNIQUE_GROWTH",
+    "section": "magic-system-questionnaire",
+    "title": "Trait and technique growth",
+    "kind": "definition",
+    "summary": "Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level and take a bigger name when they jump.",
+    "verbatim": "(7) Traits have their own levels that rise with use and grow with overall Level and skill. Techniques show no level and take a bigger name when they jump.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "magic-design"
+    ],
+    "notes": "Clause (7) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-8-SKILLS",
+    "section": "magic-system-questionnaire",
+    "title": "Skills",
+    "kind": "definition",
+    "summary": "Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named things done with them.",
+    "verbatim": "(8) Skills: every practitioner has skills that rise with use and show as Grades on the sheet; techniques are named things done with them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "notes": "Clause (8) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (the sheet and the climb)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: magic system questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R84-9-THE_SHEET",
+    "section": "magic-system-questionnaire",
+    "title": "The sheet",
+    "kind": "definition",
+    "summary": "Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage. Race and lineage show on the sheet and shape base stats and what comes easily.",
+    "verbatim": "(9) Sheet: a normal look shows the Eight Primaries with Grades; a Sub-Stat appears when used or when it moves; the full set remains to study. Your life spends most stat points by what you do, and a few are yours to place at each Stage. Race and lineage show on the sheet and shape base stats and what comes easily.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "notes": "Clause (9) of the RULINGS.md paragraph \"The sheet and the climb (R84)\" under 2026-11-05; answers in imports/drafts/magic-system-questionnaire/answers.json.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (gear is a flex)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: direction recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-1-GEAR_IS_A_FLEX",
+    "section": "gear-direction",
+    "title": "Gear is a flex",
+    "kind": "mandate",
+    "summary": "Characters' armor, outfits, gear and swords are described on the page and on their cards, piece by piece for a major person at first sight, and the Rarity of weapons and items is said aloud or shown on a window, because gear is how people show off. A flex brings trouble of its own. In a fight the full item window still waits for the aftermath.",
+    "verbatim": "I want you to write characters describing there armor etc since armor and nice outfit armor gear swords etc rarito f wapon and items that is a flex",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      },
+      {
+        "guide": "CHARACTER_CARD_TEMPLATE.md",
+        "locus": "The head and XV. Equipment",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "prose-law",
+      "items",
+      "character-sheet"
+    ],
+    "verification": [],
+    "notes": "Lifts the clause of R70-48-MONEY_PRICE_PROVENANCE that keeps Tier and price off the page unless asked; the rest of that row stands. R71-89-ITEM_CARD_FIGHT stands. How far the direction runs (the whole kit at first sight, the card fields, a flex bringing trouble) is Natalie's reading, logged with it in RULINGS.md and overturnable.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-10-AURA_HUE_FROM_THE_FIRST",
+    "section": "magic-audit",
+    "title": "Aura hue from the first Stage",
+    "kind": "mandate",
+    "summary": "Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.",
+    "verbatim": "Every woken aura shows its own hue from the first Stage, clouded and smoky low down and clearing as the Stage rises.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "Power on the page",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "prose-law",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "notes": "C-174.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-11-MUNAHI_VOWS_THE_PURSE",
+    "section": "magic-audit",
+    "title": "Munahi, vows and the purse",
+    "kind": "mandate",
+    "summary": "Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.",
+    "verbatim": "Munahi is the day the law sleeps and Fate does not: no instrument binds on it, and a vow spoken on it still holds. A broken vow lands at once by its own terms, it needs no witness, and repeated denial of the truth behind it is what makes a Shear Break. A purse can buy the Catalyst for any Stage, and at Zenith a Hollow Throne must still recognize the buyer, so money buys the attempt and not the seat.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "R84-5 and R84-26 stand.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Wellspring kinds)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-12-WILD_AND_SPIRITUAL",
+    "section": "wellspring-kinds",
+    "title": "Wild Wellsprings are physical, spiritual Wellsprings are spiritual",
+    "kind": "definition",
+    "summary": "Wild Wellsprings are mostly physical, appearing as alchemical transformations and physical phenomena a practitioner shapes their inner Essence around. Spiritual Wellsprings are purely spiritual, work spiritual transformations and usually have little or no effect on the physical world.",
+    "verbatim": "The idea of wild wellsprings still exist but those are mostly PHYSICAL wellsprings and appear as alchemical transformations and physical phenomena that you shape your inner-essence around. Whilst SPIRITUAL wellsprings are PURELY spiritual and usually have no effect or a lot of influence on the physical world, but have more of spiritual transformations.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "Read \"no effect or a lot of influence\" as no effect or not a lot of influence, since he calls them purely spiritual. Amends R11-4-DIRECTION_AXIS on which Families fall under which type.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Wellspring kinds)",
+    "pack_number": null,
+    "status": "superseded",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-13-THE_SORT_OF_THE_SIXTY",
+    "section": "wellspring-kinds",
+    "title": "The sort of the Sixty",
+    "kind": "mandate",
+    "summary": "37 Wild, 19 spiritual and 4 Medium. A bench operation or a phenomenon you can point at is Wild; a state of the soul with nothing to point at is spiritual. Spirit-type ground adds no fire of its own, so a discharge there is the person's own Essence.",
+    "verbatim": "Agent ruling. The Sixty sort by kind. Wild (37): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Fixatio, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Tarturon, Transmutatio, Transference, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine, Mortalis. Spiritual (19): Catharsis, Penanceflare, Somnalis, Thaloré, Oblation, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Oblivara, Nyxial, Eclipseron, Absolution, Penance, Benediction, Redemption, Contrition. Medium stays for the Veil-crossing four: Phreatis, Aurevane, Luminalis, Anamnesis. The test: a bench operation or a phenomenon you can point at is Wild; a state of the soul with nothing to point at is spiritual. A spiritual Wellspring pools as Spirit-type ground and adds no fire of its own, so a discharge there is the person's own Essence.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "Sorts under R85-12. The Sixty, their Families and their canon analogues do not change; the analogue of a spiritual Wellspring stays the scholars' account of what happens in the soul (R83-11).",
+    "superseded_by": [
+      "R85-17-QUALIFIERS_AND_THE_LENS"
+    ]
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-14-PATHS_AND_WELLSPRINGS",
+    "section": "paths-and-layers",
+    "title": "Paths and Wellsprings replace Essence Typology",
+    "kind": "mandate",
+    "summary": "Essence Typology goes. Paths and Wellsprings are the main thing. One Path masters fastest, two cost more time and leave gaps, three are rare, looked down on and nearly impossible in a mortal life. Paths tie to the Physical World, the Soul Plane and the Plane of Fate, and each Crystal layer is how a soul on that Path meets the world. Wellspring kinds are qualifiers, some run on all three, and a Wellspring is a lens that shapes Essence differently by Path.",
+    "verbatim": "I think were gonna get rid of Essence Typologies and have Path's + wellsprings bethe main thing people can be apart of multiple paths. Here is how it works If you are mastered in one path it'll take you less time to master that path, you can still learn and gain knowledge about the other paths, but those paths aren't your main-goal. If you master two paths you have take more time and invest more in learning in-two different things which means your skill set may or make not lack at certain-times it just depends on the character and how long they've been training but you get my point. Someone with 3 Paths is rare and almost never sdeen as is looked down upon due to the fact that it IS WIDELY accepted that it would be almost IMPOSSIBLE to master all 3 paths in a single-mortal life span you simply wouldn't have enough time to perfect all 3 crafts. This also means that these PATHs themselves need to tie directly into the wellsprings themselves Fate, Spirit, and the Physical World. The Wild Wellsprings = Physical World. The Spirit Wellsprings = Spiritual World aka Soul Plane. The Wellsprings of Fate = The Plane of Fate. YOU Can rewrite some of these wellsprings and how they work, ALSO some wellsprings can be utilized in all 3 these are just QUALIFIERS there are 60 wellsprings and actually it might be more SMART to say that wellsprings can shape your essence differently on the path you chose to take as it acts a lense something you base your tempering your soul on. We also need to define what \"Essence\" is in the soul crystal its the center of all idenity but its also literally the soul itself so we also have to discuss that attraction layer = fate itself. Aether Shell is the interaction with the physical world. we hould more so that each layer of the soul crystal is how it interacts with the world based on your path if your Path is Fate your soul crystal tends to utilize it's attraction-layer more lets do it like that",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R42-7-FOUR_PATHS"
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "stats",
+      "character-sheet",
+      "codex"
+    ],
+    "verification": [],
+    "notes": "C-176. Overrides Fracture of Worlds Part Eighteen by the canon hierarchy; the source file is not edited.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-15-THREE_PATHS_THREE_LAYERS",
+    "section": "paths-and-layers",
+    "title": "Three Paths, three layers, and what Essence is",
+    "kind": "definition",
+    "summary": "Body Path works the Physical World through the Aether Shell, Spirit Path the Soul Plane through the Essence Core, Fate Path the Plane of Fate through the Attraction Layer. Attraction folds into Fate. Essence is the soul's own substance. Typology's jobs pass to Wellspring and Path.",
+    "verbatim": "Agent ruling. There are three Paths, one to each plane and layer of the Soul Crystal. Body Path is the Physical World, worked through the Aether Shell. Spirit Path is the Soul Plane, worked through the Essence Core. Fate Path is the Plane of Fate, worked through the Attraction Layer, which is a soul's own share of fate. Attraction folds into Fate: Attraction Force and Obsession Force are what the Plane of Fate runs on, so Fate Path takes Attraction's Range, Aura Pressure and Domain authority, an Attraction gate reads as a Fate gate, and true Fate Arts stay the rare far end of the Path. Every soul has all three layers, and a Path is the layer the Crystal leans on. Essence is Aether refined in the Crystal and stamped with identity. The Essence Core is the center of identity and the Crystal is the soul, so Essence is the soul's own substance and spending it is spending yourself. Essence Typology is retired: a blow's character comes from Wellspring and Path, Wellspring compatibility from how its qualifier sits with the Path, a Primary Trait from origin, first imprint and the lived Path, and class trajectory from how the person has lived.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "notes": "R84-12 stands (real Fate Arts rare and mostly by bloodline). R57-27 and R57-29 and the gate tables read Attraction as Fate.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-16-PATH_BALANCE",
+    "section": "paths-and-layers",
+    "title": "One, two or three Paths",
+    "kind": "mandate",
+    "summary": "A Path is Mastered, Walked (30 percent of practice or more) or Studied. One Path is on time at full modifier with a clean seat; two take about 2.5 times as long at three-quarter modifiers with a rough seat; three take about six times as long at half modifiers with the high Grades shut.",
+    "verbatim": "Agent ruling. One soul has one life's time to spend. A Path on a card is Mastered, Walked or Studied. Walked takes at least 30 percent of a person's practice. Anyone may study any Path, which gives knowledge and small uses and opens no gates. One Path: gates open at the Stage written, the full force modifier, a clean seat, mastery in the base time. Two Paths: mastery takes about two and a half times as long for the pair, the Path behind opens its gates a Stage late until it is mastered, the modifier is three-quarters on each for life, and the seat is rough, so the fighter has real holes at times and breaks an opponent's read of them. Time closes the gap in the gates and never in the modifier. Three Paths: about six times as long, which is beyond a mortal span, gates two Stages late, half modifiers, and the high Grades stay shut. It is rare and looked down on. Card percentages stay as the record of time spent, with Attraction added to Fate.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "adjudication"
+    ],
+    "verification": [],
+    "notes": "The multipliers are invented. A long-lived being is not a mortal span; whether that opens a third Path is left to the card.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-17-QUALIFIERS_AND_THE_LENS",
+    "section": "paths-and-layers",
+    "title": "Qualifiers, the lens and the new sort of the Sixty",
+    "kind": "mandate",
+    "summary": "A Wellspring's kind names its home plane and never locks it. Any Path can use any Wellspring through its lens, reaching double at home and half again away. The sort is 33 Wild, 15 Spirit, 6 Fate and 6 Medium.",
+    "verbatim": "Agent ruling. A Wellspring's kind is a qualifier naming its home plane, never a lock. Any Path can use any Wellspring. A Wellspring is the lens a soul bases its tempering on, and it shapes Essence differently on each Path. On its home Path it harmonizes cleanly and can reach double the effect with years of mastery. Off its home Path it works in that layer's terms, at lower-quality resonance and higher Essence cost, and reaches half again at most. A Spirit Wellspring on the Body Path still gives no fire: it changes what the body can bear. Medium runs at home on all three. Wild (33): Pyreveil, Exuroth, Ignivale, Cinerion, Solfatara, Manganthra, Cataclysm, Pyraeon, Judicium, Cymorath, Orrenthal, Dissolution, Tenebra, Eidolyn, Nihiloth, Vantabriel, Coagula, Coagulatio, Materia Primordia, Basilithe, Monolithion, Terranova, Chthonica, Transmutatio, Fractura, Petralon, Ascensio, Sublimatio, Sublimare, Abython, Anima Spirare, Verdantia, Rebirthine. Spirit (15): Catharsis, Penanceflare, Thaloré, Abyntheus, Letheveil, Lethegraal, Hypnather, Mirithane, Oneirion, Nyxial, Eclipseron, Absolution, Penance, Redemption, Contrition. Fate (6): Somnalis, Oblation, Benediction, Oblivara, Transference, Tarturon. Medium (6): Phreatis, Aurevane, Luminalis, Anamnesis, Fixatio, Mortalis.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [
+      "R85-13-THE_SORT_OF_THE_SIXTY"
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "codex"
+    ],
+    "verification": [],
+    "notes": "Amends R84-11 on what the double applies to. The Sixty's names and Families do not change.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-18-WHAT_EACH_PATH_MANIPULATES",
+    "section": "paths-and-layers",
+    "title": "Fate is the outer parts of reality, and people wage war with it",
+    "kind": "mandate",
+    "summary": "Fate is much more than vows and blessings. People fight and wage wars with it, and the Moto are the prime example. Fate manipulates the outer parts of reality, what reality presupposes. Body is the literal understanding and manipulation of physical reality. Spirit is everything to do with spiritual reality.",
+    "verbatim": "l feel like FATRE should be MUCH more than just vows and blessings and whatnot people should be able to fight and actually wage wars with FATE since the MOTO are prime EXAMPLE of how deadly a lineage with fate manipulation and those type of abilities should be. I need you to UNDERSTAND FATE is the MANIPULATION of the outer-parts of reality something that prequisite reality. WHILST BODY is the LITERAL understanding and MANIPULATION of the PHYSICAL \"Reality\" Mean hile SPIRIT is the opposite its the \"SPIRITUAL\" reality everything to do with spirit reality.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat",
+      "mass-combat"
+    ],
+    "verification": [],
+    "notes": "Corrects how R85-15 described Fate; the layer and plane mapping in R85-15 stands.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "superseded",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-19-FATE_FIGHTS",
+    "section": "paths-and-layers",
+    "title": "How Fate fights, and what stops it",
+    "kind": "mandate",
+    "summary": "A Fate fighter moves what a blow, wall, march or battle depends on. Low down it leans on the odds, higher up it removes or assigns a prerequisite, and in war it works the whole field. It moves only what already has a way of happening, costs reserve, has a charge and a tell, and is contested by Dominion Fate against Resilience Persistence and Continuity.",
+    "verbatim": "Agent ruling. Fate fights. The Plane of Fate is the outer part of reality, what has to be so before anything can happen, and a Fate Path fighter works there: they move what a blow, a wall, a march or a battle depends on, so the result arrives without having to be forced. Every Fate fighter can do this at their own Stage. Low down it is leaning on the odds: a guard that slips, a strap that gives, the one arrow that finds the gap. Higher up it removes or assigns a prerequisite: this cut was always going to land, this wall was always going to fall, this man was never going to reach the ford. In war a Fate commander works the whole field: weather, supply, panic, who arrives when and which line breaks first. The Moto are the model, and true Fate Arts such as Hataraki remain the deadliest and mostly by bloodline. Limits: Fate can only move what already has a way of happening, so a sound thing with nothing to exploit stands; it costs reserve like any working, scaled to how far it pushes against likelihood; it has a visible charge and a tell; and the contest is Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE FIGHT",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "combat",
+      "mass-combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "notes": "R84-12 stands. Limits, contest and counters are invented so Fate stays fair at the table.",
+    "superseded_by": [
+      "R85-23-FATE_FIGHTS_AT_A_PRICE"
+    ]
+  },
+  {
+    "pack": "Directions 2026-11-05 (the real calendar)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05: direction recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-2-THE_REAL_CALENDAR",
+    "section": "calendar-direction",
+    "title": "The real calendar",
+    "kind": "mandate",
+    "summary": "The world uses the real calendar, January to December and Monday to Sunday, with real month lengths, leap years and a 24-hour day, in every culture's mouth and in narration. The year counts stay as they are. It is not tied to today's date. Archived scenes stay as written.",
+    "verbatim": "prob just gonna haveyou switch to irl days and use real life calender to make shit more simple",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE DARK AGES",
+        "operation": "extends"
+      },
+      {
+        "guide": "The Sky, the Hour and the Year",
+        "locus": "the day, the week, the month and the year",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R51-08-CALENDAR"
+    ],
+    "applies_to": [
+      "prose-law",
+      "worldbuilding",
+      "standing-inventory",
+      "verification"
+    ],
+    "verification": [],
+    "notes": "\"only think that won't change is the years\" (same direction): IC, the Moto nengo and the Ages keep their counts. Natalie's reading, in RULINGS.md and overturnable: the fourteen-day turn, the thirteen months and the fourteen-part day retire. Their lore folds into the real calendar: Munahi is February 29, Auren's day is the twelfth of each month, and the sixty-count runs on as an almanac count. Shiro keeps its 28-day cycle.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-20-THE_REALITIES",
+    "section": "paths-and-layers",
+    "title": "The Epochs as the Realities, and Fate as no reality",
+    "kind": "definition",
+    "summary": "Body pulls from Matla. The Epochs stand as the three Realities, but Fate cannot be considered a reality, since it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities.",
+    "verbatim": "pull from malta for body you just need to understand the epochs as the 3 \"Realities\" however fate cannot even be considered a reality if you know what I mean cause its everything that flows every possibility every idea every concept anything and everything that can happen in the lower realities.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "\"Malta\" is read as Matla, the Named Art.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-21-MATLA_AND_THE_BODY_LADDER",
+    "section": "paths-and-layers",
+    "title": "The Epochs over the Paths, and Matla as the model of Body",
+    "kind": "mandate",
+    "summary": "Aegor is Physical Reality and Body, Ashura Spiritual Reality and Spirit, Bara over Fate, which is no reality. Body climbs Matla's ladder from object through contact, recognition and law to complete system, so its reach grows with Stage while it still needs existing substance and pays in recoil.",
+    "verbatim": "Agent ruling. The three Epochs stand over the three Paths. Aegor is Physical Reality and the Body Path. Ashura is Spiritual Reality and the Spirit Path. Those two are the lower realities. Bara stands over Fate, which is not a reality at all: it is everything that flows, every possibility, idea and concept, anything that can happen in the lower realities, and the name Plane of Fate is a courtesy. Matla is the model of the Body Path as Hataraki is of Fate. Body climbs by its ladder: the novice commands matter as an object, the adept through contact, the master through recognition, the sovereign through law, and the rare Totality Architect as a complete system. So a Body fighter closes and hits low down, and high up their reach grows as far as there is matter to read, while still needing existing substance and paying in recoil through the body and Crystal. Matla stays a learned art with its own branches and limits; a Body fighter need not study it to climb the ladder.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat"
+    ],
+    "verification": [],
+    "notes": "Fracture's force modifiers and Body's Range trade stand as numbers; R85-21 says what a high-Stage Body fighter can reach with, not what their bonus is.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-22-FATE_IS_HARD",
+    "section": "paths-and-layers",
+    "title": "Fate is above, sovereign and extremely hard",
+    "kind": "mandate",
+    "summary": "Fate is above the two realities and is the law and construction of the world. Archons and principles are Sovereign there. Pulling and warping threads takes extreme effort, which is why Hataraki has different workings, and it cannot be rationalized.",
+    "verbatim": "fate is above the other two realities when you pull ideas concepts down from fate you also have to understand the archons and principles are \"Soveriegn\" on the plain of fate they are the most powerful there, yet there reach is made even more so by the idea that they are the laws but what is fate itself but the very law and construction of the WORLD itself. Though this is ALL to say that just because you can pull-down and manipulate threads of FATE doesn't mean it is EASY you shouldn't be capable manipulating warping the physical and spiritual realities without EXTREME effort thats why there is different workings of Hataraki. Fate is hard because the notions you undersstand and concieve cannot be rationalized to be used against it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat"
+    ],
+    "verification": [],
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-23-FATE_FIGHTS_AT_A_PRICE",
+    "section": "paths-and-layers",
+    "title": "How Fate fights, what it costs and what stops it",
+    "kind": "mandate",
+    "summary": "Fate fights and wages war by moving what things depend on, and is the hardest Path. Everyday Fate fighters use Range, Pressure, presence and bonds. A real pull is rare, ruinously costly and often fails. A field is a life's masterwork or a bloodline art. Each Work of Hataraki is a distinct way of gripping one function.",
+    "verbatim": "Agent ruling. This replaces R85-19. Fate sits above the two lower realities and is the law and construction of the world itself. People fight and wage wars with it, and they move what a blow, a wall, a march or a battle depends on. It is the hardest of the Paths. Understanding gets no purchase on it, because a mind's notions are made of the thing they would be used against, so it cannot be reasoned out or drilled in. A thread of Fate is pulled down from above, and warping physical or spiritual reality through one takes extreme effort at every Stage. Archons and the great principles are Sovereign on the Plane of Fate and the most powerful there, because they are those laws, so a thread may belong to something that notices. An ordinary Fate fighter's everyday weapons are Range, Aura Pressure, presence and bonds. A real pull in a fight is rare: low down it is one lean on the odds that can take a large share of the reserve, leaves the body bleeding, and often fails. Higher up it can remove or assign a prerequisite at a ruinous price. Moving a whole field is a life's masterwork at high Stage or a bloodline's art. The Works of Hataraki exist because nobody grips Fate bare: each Work is a distinct inherited way of taking hold of one function, which is what makes the Moto so deadly. Fate can only move what already has a way of happening, has a visible charge and a tell, and is contested by Dominion Fate against the target's Resilience Persistence and Continuity. Counters: another Fate user, a target too sound or too well bound to move, and reaching the fighter before the result arrives. Body Path is the literal understanding and manipulation of physical reality. Spirit Path is the same for spiritual reality, everything to do with souls and spirits.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE FIGHT",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [
+      "R85-19-FATE_FIGHTS"
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "combat",
+      "mass-combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "notes": "R84-12 stands. The price wording and limits are invented so Fate stays fair at the table.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-24-ARCHONS_ACROSS_THE_PLANES",
+    "section": "paths-and-layers",
+    "title": "Archons are sovereign on all three planes, and Uurgath and Urion are unparalleled in Fate",
+    "kind": "definition",
+    "summary": "Most if not all Archons are sovereign across all three planes, and some are deemed more powerful than others. Uurgath and Urion are unparalleled in Fate because their ideas are inconceivable.",
+    "verbatim": "tbh most if not all archons are soveriegn across all 3 planes. However some are deemed more powerful that others. Like Uurgath and Urion are unparalleled in fate compared to the other archons since there ideas are inconcievable if you get the idea and the point.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "Corrects R85-22 and R85-23 where they read as Archons being Sovereign only on the Plane of Fate.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-25-CLASSES_BY_LAYER",
+    "section": "paths-and-layers",
+    "title": "Aether Class is influence on the physical world, and Fate and Spirit get classes",
+    "kind": "mandate",
+    "summary": "Aether Class is rewritten to fit the new system as a classifier of how strong a person's influence on the physical world is, and Fate and Spirit get classes of their own.",
+    "verbatim": "I think we should also re-write the aether class to fit inside of this new system instead of forcing it to become apart of it I think the class of aether should be more a classifier of how strong your influence and your classifier is when it comes to influence on the physical world. However if we are gonna do it that wasy we might need to give Fate and Spirit classes of there own as well?",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "notes": "He approved the three-ladder proposal with \"Yes, build them\".",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-26-THREE_CLASS_LADDERS",
+    "section": "paths-and-layers",
+    "title": "Aether, Essence and Thread Class",
+    "kind": "mandate",
+    "summary": "Three ladders, Ø to Ω, one per Crystal layer, read from Glory, each setting η for its own layer. Thread is the steep one. The lead Path's ladder climbs with Stage, a Walked second runs a rung behind, a Studied one stops at II, or I for Thread. The named calling is just a Class.",
+    "verbatim": "Agent ruling. There are three class ladders, one per layer of the Crystal, each running Ø to Ω and read from Glory. Aether Class is the Aether Shell and measures influence on the physical world: Ø Dormant, I Muridic, II Harmonic, III Resonant, IV Luminous, V Radiant, VI Voidic, Ω Absolute. Essence Class is the Essence Core and measures influence on spiritual reality: Ø Silent, I Listener, II Answerer, III Confessor, IV Shepherd, V Ferryman, VI Hollow, Ω Absolute. Thread Class is the Attraction Layer and measures how much of Fate a soul can pull down and hold: Ø Unthreaded, I Touched, II Drawn, III Spinner, IV Knotwright, V Weaver, VI Severer, Ω Absolute. VI on each ladder is lateral, an inverted way of holding that power. Each ladder sets η for workings through its own layer. Thread Class is the steep one: most souls stay Ø for life, its numeral gives η as two rungs below the same numeral on the other ladders, and it opens no earlier than Glory unless a bloodline or blessing gives a grip. The ladder of a person's leading Path climbs with their Stage, a Walked second Path's ladder runs a rung behind until mastered, and a Studied ladder stops at II, or at I for Thread. A card's η and numeral move to the ladder of its lead Path unchanged. The named calling the soul offers at thresholds is now just a Class and has no ladder of its own; it evolves when the lead ladder rises. The Soul Crystal Tier stays as the reading of the whole soul.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "notes": "Replaces the ladder-as-tier clause of R84-10 and extends R85-3. Rung names for Essence and Thread are invented.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-27-NO_BETTER_PATH",
+    "section": "paths-and-layers",
+    "title": "No better Path, and each beats each",
+    "kind": "mandate",
+    "summary": "The wiki explains how each Path can beat each other. Each has clear limitations against the others, no Path is better, and that is why some Paths are combined.",
+    "verbatim": "we should ALSO explain how EACH path can beat each other. feel like fate and body and spirit all have limitations all pretty-clear all against each other there are no \"Better\" paths each path is good, and thats why some paths are combined",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-28-HOW_EACH_PATH_BEATS_EACH",
+    "section": "paths-and-layers",
+    "title": "How each Path beats each",
+    "kind": "mandate",
+    "summary": "Each Path's limits and how it beats each of the other two, with Stage, ground and preparation deciding on the day, and why Paths are combined. Being above the lower realities makes Fate harder, never better.",
+    "verbatim": "Agent ruling. No Path is better, and each beats each. Body's limits: it needs existing substance, must close until very high, pays in recoil, and has no purchase on a soul. Spirit's limits: it needs a soul or a meaning to work on, has a fragile body, and dies out of position. Fate's limits: it is ruinously hard, slow to set, moves only what already has a way of happening, and loses a straight exchange. Body beats Spirit by getting there: a spear does not care what you mean, a working takes time, and a dense Shell outlasts a thrown one. Spirit beats Body by going past the Shell: armor and Durability do not cover the soul, and the Spirit fighter reads the charge from range. Body beats Fate with force and soundness: nothing moves the odds on an avalanche, a well-kept fighter offers no strap to give, and a straight exchange ends before the pull can set. Fate beats Body through what closing depends on: the ground, the gear, the hour, so the blow never arrives. Spirit beats Fate by reaching the hand on the thread: every pull is made by a soul, it shows on the Core before it lands, and a wounded soul loses its grip. Fate beats Spirit because Spirit survives by being right: one wrong read or one spoiled stroke is enough, and the meanings Spirit works with come down from Fate in the first place. The Stage, the ground and the preparation decide which of these holds on the day. People combine Paths to cover their own weakness: Body and Spirit is a hitter who cannot be gone around, Body and Fate is a blow that always arrives, Spirit and Fate reads the thread and moves it. Being above the lower realities makes Fate harder, never better.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "notes": "The pairings are invented.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction with two documents, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-29-ZETTARI_AND_VALORIN",
+    "section": "paths-and-layers",
+    "title": "The Zettari updated and the Valorin added",
+    "kind": "mandate",
+    "summary": "The Zettari page takes his new document, the Valorin Family are added from his, and both are fitted to the three Paths and the rest of this pack.",
+    "verbatim": "update the zettari and add the valorin on thsi stuff.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design"
+    ],
+    "verification": [],
+    "notes": "Source documents are in imports/drafts/lineages-2026-11-05/.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-3-ETA_BY_CLASS",
+    "section": "magic-audit",
+    "title": "Eta by class",
+    "kind": "mandate",
+    "summary": "From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.",
+    "verbatim": "From the first class at Glory, the Aether Class tier sets η. The Tier of Standing table is the figure for the unclassed at Stages I to V and a field average above them; a read Class overrides it, and a card's own figure governs its holder.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "notes": "C-167. Reads R42-2 and R44-4 together; R44-5 stands.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-30-MATLA_LATTICE_AND_THE_PATHS",
+    "section": "paths-and-layers",
+    "title": "Matla, the Valorin lattice and the Paths",
+    "kind": "mandate",
+    "summary": "Matla is the Zettari's nine-Practice instrument; Material Force is its learned incomplete reading; the Body ladder is open to all. The Paths are a place, not the roads. A Valorin lattice has the same three faces as a Crystal, Valorin lean Spirit then Fate, and they cannot read Fate.",
+    "verbatim": "Agent ruling. This corrects R85-21 on Matla. Matla is the Instrument of the Paths, written by Aegor, with nine Practices, and only the Zettari can carry it. What the schools teach as Material Force, with its six branches, is the learned and incomplete reading of it. The Body Path's ladder of object, contact, recognition, law and whole system stays open to everyone, and Matla is its highest form. The Paths with a capital, the Zettari's plane of sands, are a place and not the three roads. A Valorin's Scripted Soul Lattice is a soul that never crystallized, so it has the same three faces as a Crystal, and the Paths and class ladders read on it the same way; ηₗ, like the Zettari's Matla conversion, is a lineage measure beside η. Valorin lean Spirit first and Fate second. Writing on Fate stays Fate: their understanding gets no purchase on it, so they cannot read it and can only write a sentence and wait to see whether it is recognized, which takes generations and is the lineage's great humility. A royal Zettari who truly walks Body and Fate pays the two-Path price.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design"
+    ],
+    "verification": [],
+    "notes": "The wording on Material Force, the three faces and how Valorin write on Fate is invented to make the documents fit.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat and questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-31-NO_MORE_FAMILIES",
+    "section": "paths-and-layers",
+    "title": "The Eight Families are removed, and the Sixty sort by kind",
+    "kind": "mandate",
+    "summary": "No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium, each Wellspring keeps its own hue, scholars' physics stays on each entry, and the Codex column stays untouched as a source.",
+    "verbatim": "also the eight-families still exist on the PUBLIC wiki. we need to handle all of these issues. Asked what should happen to them, he chose: Remove, sort by kind. No more Families anywhere in play. The Sixty are sorted and paged as Wild, Spirit, Fate and Medium. Each Wellspring keeps its own hue, and scholars' physics stays on each entry. The Codex column stays untouched as a source.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SESSION",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "codex"
+    ],
+    "verification": [],
+    "notes": "Takes the Families out of R79-11's fixed list.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-32-FAMILIAR_WORDS",
+    "section": "paths-and-layers",
+    "title": "Familiar power words in documents, and the rebuild to follow",
+    "kind": "mandate",
+    "summary": "Documents may use terms from the Superpower Wiki and VS Battles, since familiar words are easier. Aether is mana and Essence is spiritual energy. The world keeps its own style, inspired and never copied. Ability creation, character and other tools and skills are rebuilt after this as one bundle.",
+    "verbatim": "we can also utilize terms from the superpower wiki api and the vs wiki thing for documents just you know, but we can use that for the next bit and fixing the flow just think its easier to utilize words people are familiar with aether is just mana we've established that essence = spiritual energy. fate we established that as well but you get my point we want the system and the world to have its own style but to be inspo'd and the abilities techinques etc and after this you'll need to rebuild ability creation character etc many other thing as well skills will need to rebuilt but I'll have u bundle into one thing",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE WIKI",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-design"
+    ],
+    "verification": [],
+    "notes": "WOTR canon still governs every fact and number; no name, move or character is taken from a touchstone.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, flow-fix questionnaire, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-33-ORIGINS_LADDERS_SPIRIT_ARTS",
+    "section": "paths-and-layers",
+    "title": "Origins, how a ladder rises, Null-Light, and one scheme for arts",
+    "kind": "mandate",
+    "summary": "Ashura is Soul, Bara is Fate, Aegor is Wild; Wellsprings come from the Archons by way of the Titans, who are the Wellsprings and make up all three planes. Stage sets a ladder's ceiling, and Thread has no Stage climb. Null-Light is made far stronger. Arts take Path, Lens, Form and Gates, with Source on the card.",
+    "verbatim": "Ashura = Soul. Bara = Fate. Aegor = Wild. all 3 can be considered inside the veil, aside from perhaps fate so its really wild and soul need to look at what the veil actually is. The wellsprings themselves come from the Archons, however wellsprings are manifestations of the titans since the titans are the wellsprings themselves and Titans Descend from Archons, but also Wellsprings make up all 3 different planes. On the ladders he chose: Stage sets ceiling, a bought Stage opens the ceiling and not the rung; Thread has no Stage climb, only grip (blood, blessing) plus decades, and a sworn hitter who keeps vows is Thread I or II at most; Studied runs two rungs behind the lead, capped at II. On Spirit's far end: Make null-light better improve it add more it seems very weaker in comparsion. On classifying arts he chose: One scheme, five lines: Path, Lens, Form, Gates, with Source on the card; one Forms page replaces Categories and Methods; the Derivation axis, alignment tags and Methods' planes are cut; Hesper Lowe, Magister, Natural and the -mancy suffixes are kept.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "stats",
+      "character-sheet",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "Replaces the ladder climb clause of R85-26. Reviews and plan in imports/drafts/connections-audit/.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-34-THE_FLOW_LAW",
+    "section": "paths-and-layers",
+    "title": "The flow law",
+    "kind": "mandate",
+    "summary": "The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md, including the Veil as the skin of the lower realities, Titans as the Wellsprings, the origin of Aether and the soul, Null-Light's seven Regards, and everything from there down.",
+    "verbatim": "Agent ruling. The flow fix follows imports/drafts/connections-audit/FLOW_LAW.md. The Veil is the skin of the lower realities: Physical and Soul lie inside it, its inner fold runs between them, and its outer face meets Fate. Titans descend from Archons and are the Wellsprings; each of the Sixty is one way a Titan's law shows up, carried by Aether, and each entry names its Titan. Aether is what remains of Omnara undivided, and only a body can pull it. The soul's Shell comes from Aegor's ground, its Core from Ashura's breath, its Layer from Bara's thread. A Titan walks no Path. A World Spirit is a soul whose Domain claim has grown into a place. Death, the two books, Path Stage, which ladder reads what, Release by Path, glyphs by layer, the four things a bloodline gives, and the world's creatures and Drafts all follow that file. Null-Light is Ashura's instrument with seven Regards under the law to be known is to be held, priced by the Long Look.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "worldbuilding",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "notes": "Replaces how R85-26 says a ladder climbs, with R85-33.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction with a document, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-35-ZETTARI_SPRING_ARTS",
+    "section": "paths-and-layers",
+    "title": "The Zettari update and the Spring Arts",
+    "kind": "mandate",
+    "summary": "His updated Zettari document adds the Wellspring Sovereignty trait and the Spring Arts, which shut off, seize and turn a Wellspring; a Family in it reads as a kind.",
+    "verbatim": "this is the update for zettari",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design",
+      "combat"
+    ],
+    "verification": [],
+    "notes": "Source in imports/drafts/lineages-2026-11-05/.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-11-05 (Paths and layers)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Isaac, 2026-11-05, Claude Code chat: direction, recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-36-HOUSE_CODEXES",
+    "section": "paths-and-layers",
+    "title": "A codex for every House of the Inner World",
+    "kind": "mandate",
+    "summary": "Every House of the Inner World gets a detailed codex in the shape of the Zettari and Valorin documents, each with its own signature, and the Moto and Yukari are rebuilt with their new material.",
+    "verbatim": "let's make information like they did for the Zettari Valorin for all the House's of the Inner World detailed etc with info + moto and Yukari and there new stuff. each house should get its own little thing",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE WIKI",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design"
+    ],
+    "verification": [],
+    "notes": "Brief in imports/drafts/house-codexes/.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-4-AU_SPENT_AND_DELIVERED",
+    "section": "magic-audit",
+    "title": "AU/s spent and delivered",
+    "kind": "mandate",
+    "summary": "AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.",
+    "verbatim": "AU/s is Flux Density times η, the rate a practitioner spends at full output, and delivered power is AU/s times η. So η counts twice on purpose: once for how much the Shell can move and once for what survives the trip. At full output a higher η empties the reserve faster; for the same delivered effect it lasts longer.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE TABLE",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "notes": "C-168. R44-2 stands; published figures do not change.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-5-CAP_BASELINE",
+    "section": "magic-audit",
+    "title": "The cap's baseline",
+    "kind": "mandate",
+    "summary": "The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.",
+    "verbatim": "The two-Grade cap is read from the sustainable Grade on the card. A transient boost passes the Stage's ceiling lawfully inside the cap, and only a lasting forced stat takes the fracture rate of Part Five. Outside help adds no risk to the one receiving it unless it is forced on them, and a blessing counts as outside help.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "How the systems connect",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "combat",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "notes": "C-169. R78-10 and R81-12 stand.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-6-DOMAIN_ROAD",
+    "section": "magic-audit",
+    "title": "The Domain road",
+    "kind": "mandate",
+    "summary": "A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.",
+    "verbatim": "A Domain seed as the Catalyst into Stage VII is a one-time flicker of the person's own Trait at the Threshold and needs no Release; the Second Release is what later lets a seed be called and held, and from Stage VIII it is a true Domain, grown by living and called aloud. The Catalyst into Stage IX is a first flicker of a Realm on the same terms, and the Third Release makes one. The Stage grants a Domain and a Grade never does. Fields clash by Stage first, a field two Stages up overwriting the lower, and otherwise Dominion holds the ground and a read can flip it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "Power on the page",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism",
+      "combat"
+    ],
+    "verification": [],
+    "notes": "C-170. R78-10, R81-11 and R84-17 stand.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-7-VOHRIN_OUTSIDE_THE_SIXTY",
+    "section": "magic-audit",
+    "title": "Vohrin outside the Sixty",
+    "kind": "mandate",
+    "summary": "Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.",
+    "verbatim": "Vohrin stays outside the Sixty, which stay fixed. It is a Titan's power that can be worked at Wellspring level, and it gets a marked note on the Caloria page with its analogue, failure and signature as the register's one exception.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "ABILITIES AND THE WORLD",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "notes": "C-171. R27-1 and R82-15 stand.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-8-SPIRIT_LINES",
+    "section": "magic-audit",
+    "title": "Spirit lines",
+    "kind": "mandate",
+    "summary": "Every Wellspring's Spirit line carries Fracture of Worlds' \"Temperance through\" name, with the confessors' reading kept beside it.",
+    "verbatim": "Every Wellspring's Spirit line carries Fracture of Worlds' \"Temperance through\" name, with the confessors' reading kept beside it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE MAGIC FRAME",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex"
+    ],
+    "verification": [],
+    "notes": "C-172.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Agent rulings 2026-11-05 (magic audit)",
+    "pack_number": null,
+    "status": "live",
+    "ratified": "Natalie, agent ruling, 2026-11-05, recorded in RULINGS.md; Isaac may overturn",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R85-9-STONE_BY_THE_BEAST",
+    "section": "magic-audit",
+    "title": "A stone reads the beast",
+    "kind": "mandate",
+    "summary": "A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.",
+    "verbatim": "A monster's stone and parts are read from the beast's own Grade and Level on the coil. T stays the shorthand for danger and price, and most beasts line up with it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md",
+        "locus": "THE SHEET AND THE CLIMB",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "stats",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "C-173. R84-14 stands.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,
@@ -49519,7 +52019,7 @@
     "pack_number": 9,
     "section": "PART ONE",
     "title": "The four-media Craft structure is confirmed canon",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as the naming scheme for how a working is performed; Chantcraft stays pending.",
     "verbatim": "The four-media structure — Magicraft, Spellcraft, Runecraft, Draftcraft — is confirmed canon as the naming scheme for how a working gets performed. Chantcraft stays pending.",
@@ -49575,7 +52075,7 @@
     "pack_number": 9,
     "section": "PART TWO",
     "title": "Which craft word a mouth reaches for is class-marking",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Which word a character uses for a craft is characterisation: an Engraver says \"the cutting,\" a Kharven soldier says \"a man who can do the writing,\" and nobody says \"Runecraft\" aloud except an Accord examiner filling in a form.",
     "verbatim": "Which word a mouth reaches for is characterisation: an Engraver says the cutting. A Kharven soldier wanting help says he needs a man who can do the writing. Nobody says \"Runecraft\" aloud except an Accord examiner filling in a form.",
@@ -50885,7 +53385,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "90"
     },
-    "notes": null,
+    "notes": "Amended 2026-11-05 by R85-12-WILD_AND_SPIRITUAL and R85-13-THE_SORT_OF_THE_SIXTY: the axis stands, the Families named under each type do not; Wild is physical and Spirit is purely spiritual.",
     "superseded_by": []
   },
   {
@@ -58005,7 +60505,7 @@
     "pack_number": 20,
     "section": "R20C-41",
     "title": "Chantcraft is the fifth craft, Ars Cantus its medium-home",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.",
     "verbatim": "Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.",
@@ -58080,7 +60580,7 @@
     "pack_number": 20,
     "section": "R20C-44",
     "title": "Runecraft versus Spellcraft varies by culture",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.",
     "verbatim": "Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.",

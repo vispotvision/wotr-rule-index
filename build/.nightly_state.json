@@ -1,5 +1,5 @@
 {
-"run": "2026-11-05T03:30:01",
+"run": "2026-11-06T03:30:00",
 "findings": {
 "828071c78f05": {
 "file": "Duplicate wiki pages (same title twice)",
@@ -20,13 +20,6 @@
 "check": "reconcile",
 "text": "none found by pattern (Stage/Level within 80 characters of a first name)",
 "key": "db3c1e629adf",
-"first_seen": "2026-10-17"
-},
-"d682499da636": {
-"file": "Wellsprings named with a Family other than their own",
-"check": "reconcile",
-"text": "none",
-"key": "d682499da636",
 "first_seen": "2026-10-17"
 }
 }

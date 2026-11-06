@@ -3,7 +3,6 @@ title: The Vampiric Peoples
 tags:
   - Peoples
   - Bloodlines
-private: true
 ---
 
 # The Vampiric Peoples
@@ -176,7 +175,7 @@ A Primary is the sum of its eight Sub-Stats. The curse shapes which come easily.
 
 ### Metaphysical Identity
 
-**Wellspring compatibility** (all names confirmed in the Codex):
+**Wellspring compatibility:**
 
 | Standing | Wellsprings |
 |---|---|
@@ -647,7 +646,7 @@ Nearly nine feet tall in humanoid form. Pale bronze skin broken by crimson-black
 
 *Bastard of the Royal Vein · Future-Born*
 
-His adult appearance belongs to future canon. He will combine mortal coloring with unmistakable royal Vampire traits: no born-Vampire pallor, eyes of royal crimson under a living human brightness that shifts with blood, sunlight and exertion. His fangs will retract completely. His body will stay warm. The sun will not burn him.
+His adult appearance belongs to a future age. He will combine mortal coloring with unmistakable royal Vampire traits: no born-Vampire pallor, eyes of royal crimson under a living human brightness that shifts with blood, sunlight and exertion. His fangs will retract completely. His body will stay warm. The sun will not burn him.
 
 Too Vampiric for mortals to trust. Too alive for Dreadvalis to classify safely. Royal by blood, illegitimate by law, heir to a power his own dynasty cannot publicly recognize without undermining its succession. He will not be the last of a lost people. He will stand alone, and that solitude will be both his greatest weakness and the root of his independence.
 

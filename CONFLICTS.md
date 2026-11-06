@@ -1990,3 +1990,12 @@ the author notes."
 **Consequence if unresolved:** Small mismatches in print, one larger on Muken.
 **Recommendation:** none.
 **Status:** open for Isaac; scenes hold for events under the canon hierarchy.
+
+## C-182: The Outer World as the new documents have it against the older pages
+
+**Rules:** The Geography of the Outer World, The Vampiric Peoples and Draconic Kind (filed 2026-11-05) vs The Outer World — The Southern Pan, The Ten Great Houses of Drakyssia, The Draconic Lineage, The Powers of the Dark Ages and Factions at a Glance
+**The clash:** The new Geography splits the Outer World evenly between a cold Vampire north and a hot dragon south. The older pages give dragons about eighty percent, tropical country in the north and the Frostfang and Last Archipelago at the far south, and place the Elyran Green Crowns, Veyran, Therosan, Calverne and Saren elsewhere. The Draconic Lineage has the Hydra as a void-fractured abomination; Draconic Kind has Hydra Dragons as ritual guardians.
+**Quotes:** "Even. Drakyssia holds 50% of recognized territory and Dreadvalis the other 50%, directly or through tributaries" (The Geography of the Outer World). "dragons and draconic bloodlines hold roughly **eighty percent** of recognized territory in the quarter" (The Southern Pan). "Highly respected as ritual guardians and living weapons" (Draconic Kind). "Among draconic cultures hydras are tragic abominations." (The Draconic Lineage)
+**Consequence if unresolved:** The public wiki contradicts itself on who holds the Outer World and where its peoples live.
+**Recommendation:** none.
+**Status:** ruled by Natalie as an agent ruling, logged in RULINGS.md 2026-11-05 and applied to the older pages; open to Isaac's overturn. The Measurewrights' ledger half of The Southern Pan stands. The world atlas image still shows the older shape.

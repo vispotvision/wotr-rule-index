@@ -37,6 +37,7 @@ mod jobs;
 mod keys;
 mod kokoro;
 mod pages;
+mod pinterest;
 mod pyjson;
 mod pyyaml;
 mod rules;
@@ -334,6 +335,13 @@ impl Wotr {
             let run = move || {
                 let (image, text) = jobs::chatgpt_image(&arg_req(&args, "prompt")?, &arg_str(&args, "name", ""), sf.public.as_ref())?;
                 Ok(image.map(|(data, mime)| ContentBlock::image(data, mime)).into_iter().chain([ContentBlock::text(text)]).collect())
+            };
+            return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
+        }
+        if tool == "pinterest" {
+            let run = move || {
+                let ((data, mime), text) = pinterest::pinterest(&arg_str(&args, "query", ""), &arg_str(&args, "board", ""), &arg_str(&args, "url", ""), arg_int(&args, "start", 1), arg_int(&args, "fps", 4))?;
+                Ok(vec![ContentBlock::image(data, mime), ContentBlock::text(text)])
             };
             return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
         }

@@ -67,7 +67,9 @@ overturn; `create_character` / `update_character` write cards; `wiki_write`
 writes any wiki page.
 
 Use the outside references unprompted, before the draft, whenever the work
-touches something new. `lookup(source, query)` reads one page or word list:
+touches something new. `pinterest` (query, board or url) shows images: his boards
+for looks, gear and places, and it comes first for how an ability looks and moves.
+`lookup(source, query)` reads one page or word list:
 `superpower` first for any ability, then `vsbattles`, `hxh`, `jjk`, `bleach`,
 `naruto`, `lotm`, `reverend-insanity` and `worm` for uses, limits and counters;
 `wiktenauer` for real fencing; `wikipedia` for physics, anatomy and history;

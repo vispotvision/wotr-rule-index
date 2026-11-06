@@ -1689,6 +1689,41 @@
     "title": "skill_toolArguments",
     "type": "object"
    }
+  },
+  {
+   "name": "pinterest",
+   "description": "Pinterest as images, Isaac's main source for how an ability or technique looks and moves, and his saved boards for looks, gear, places, beasts, summons and glyphs. Ideas only: a borrowed look gets WOTR's own mechanism, name and price. Give one of: query (search; add words like gif or animation) or board (one of his boards, by name; a wrong name lists them), each returning up to 24 results as one numbered contact sheet plus their urls, with start to page on; or url (a result from this tool), returning a gif or video as a strip of frames, or a still at reading size. fps sets frames per second in a strip (default 4). Saves nothing.",
+   "inputSchema": {
+    "properties": {
+     "query": {
+      "default": "",
+      "title": "Query",
+      "type": "string"
+     },
+     "board": {
+      "default": "",
+      "title": "Board",
+      "type": "string"
+     },
+     "url": {
+      "default": "",
+      "title": "Url",
+      "type": "string"
+     },
+     "start": {
+      "default": 1,
+      "title": "Start",
+      "type": "integer"
+     },
+     "fps": {
+      "default": 4,
+      "title": "Fps",
+      "type": "integer"
+     }
+    },
+    "title": "pinterestArguments",
+    "type": "object"
+   }
   }
  ],
  "core": [
@@ -1712,6 +1747,7 @@
   "natalie_gpt",
   "npc_set",
   "pass_time",
+  "pinterest",
   "propose_rule",
   "research",
   "roster",

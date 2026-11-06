@@ -63,60 +63,24 @@ mv -n -- "$IN" ~/wotr-art-drops/done/
 
 The autosave commits and pushes `wiki/` within 15 minutes, and that publishes it. Do not commit it yourself.
 
-## His boards
+## Pinterest as references
 
-His own Pinterest boards are a private reference library (his direction, 2026-11-06), linked in `~/wotr-art-drops/boards.txt` and saved to `~/wotr-art-drops/board-*` as they are needed. They are not drops: nothing from them goes on a page unless he picks it, and nothing in them is deleted. While writing a scene or building a card, look through the fitting board, unprompted, for how a new person looks and dresses, what they carry and what the place or creature is like:
+Pinterest is his main source for how an ability or technique looks and moves, and his own boards are his reference library for scenes and cards (his directions, 2026-11-06). Use both unprompted before the draft, through the WOTR MCP's `pinterest` tool, which every client with his key can call and which saves nothing:
 
-- `board-wotr-character-designs-1`, `board-wotr-characters-2`: people, faces, clothes
-- `board-wotr-landscapes`: places
-- `board-wotr-weapons`: gear
-- `board-wotr-animals-beast`: creatures
-- `board-summons-beast`: summons and bound things
-- `board-glyphs-magic-circles`: workings, seals, glyphs
+- `pinterest(query="lightning sword technique anime gif")` searches. Add words like gif or animation for motion.
+- `pinterest(board="wotr-weapons")` shows one of his boards. `start=25` pages on through either.
+- Each returns up to 24 results as one contact sheet, numbered by position in the text beside it.
+- `pinterest(url=<a result>)` looks closer: a gif or video comes back as a strip of frames, a still at reading size. `fps=2` suits a slow or long clip.
 
-A carded person's card still governs their look. A look or idea may be borrowed and made WOTR's own; no character comes across. Name the board image in the author notes, never under a turn.
+The boards: `wotr-character-designs-1` and `wotr-characters-2` for people, faces and clothes; `wotr-landscapes` for places; `wotr-weapons` for gear; `wotr-animals-beast` for creatures; `summons-beast` for summons and bound things; `glyphs-magic-circles` for workings, seals and glyphs. A board link he sends is added to `~/wotr-art-drops/boards.txt` as `name url`.
 
-See a board as contact sheets rather than image by image, then Read the sheets:
+Read a strip for the charge, the release, the impact and how the world answers it. It feeds the Working Card and the Blow Card; the move's mechanism, name and price are WOTR's own, and no shot is described frame for frame. A carded person's card still governs their look. A look or idea may be borrowed; no character comes across. Name the image in the author notes, never under a turn.
 
-```bash
-B=wotr-landscapes; T=$(mktemp -d); find ~/wotr-art-drops/board-$B -maxdepth 1 -type f -not -name '*.json' | sort > "$T/list"; magick montage "@$T/list" -tile 6x4 -geometry 300x380+4+4 "$T/sheet-%d.jpg"; echo "$T"; ls "$T"
-```
-
-Sheets count from 0 and read left to right, top to bottom, 24 to a sheet, so the image at position P (1 to 24) on sheet S is line `S*24+P` of `$T/list`. Read that one file for a closer look. A big board takes a while to sheet; keep the sheets for the session.
-
-Download only when a scene or card needs it (his direction, 2026-11-06): never a whole board or several at once, and never ahead of time. Look at what is already saved first. If that is not enough, take one batch from the one board that fits, then the next batch (`49-96`) if the need is still there:
+Look at what you need and no more: he does not want images pulled ahead of time. The tool reads Pinterest signed out, a board may stop short of its pin count, and a login wall or bot check goes to him. Nothing from Pinterest reaches a page unless he picks it. To place one he picks, save it into the drop folder and run steps 3 and 4:
 
 ```bash
-B=wotr-weapons; R=1-48; U=$(awk -v b="$B" '$1==b{print $2}' ~/wotr-art-drops/boards.txt); ~/.local/bin/gallery-dl --write-metadata --sleep 0.3-0.8 --range "$R" -D ~/wotr-art-drops/board-$B "$U"
+curl -s -o ~/wotr-art-drops/"Page Title -- Artist Name.jpg" "URL"
 ```
-
-Images already saved are skipped. The command exits 0 even when a board stops short, as `wotr-landscapes` did at 27 of its 76 pins, so a thin result may be all there is. This command runs with no sign-in and no cookies, and a login wall or bot check is reported to him, never worked around.
-
-A board link he sends is added to `boards.txt` as `name url`. That alone starts no download.
-
-An image he picks from a board for a page is placed as in steps 3 and 4, copied rather than moved.
-
-## Searching Pinterest for abilities and techniques
-
-Pinterest is his main source for how an ability or technique looks and moves (his direction, 2026-11-06). Search it when designing or writing one, and see the motion without saving anything. Nothing here goes in `~/wotr-art-drops/`. The results are GIFs, video streams and stills:
-
-```bash
-Q='fire+magic+anime+gif'; T=$(mktemp -d); ~/.local/bin/gallery-dl -g --range 1-30 "https://www.pinterest.com/search/pins/?q=$Q" | sed 's/^ytdl://' > "$T/urls"; echo "$T"; wc -l < "$T/urls"
-```
-
-Turn result `N` into a strip of frames, then Read the strip, left to right and top to bottom. A clip that is slow or long reads better at `fps=2`:
-
-```bash
-N=1; ffmpeg -v error -y -i "$(sed -n ${N}p "$T/urls")" -vf "fps=4,scale=300:-1,tile=6x3" -frames:v 1 "$T/strip-$N.jpg"
-```
-
-A still (a jpg or png line) makes no strip. Fetch that one to read it, keeping its extension:
-
-```bash
-N=13; curl -s -o "$T/still-$N.jpg" "$(sed -n ${N}p "$T/urls")"
-```
-
-Read a strip for the charge, the release, the impact and how the world answers it. It feeds the Working Card and the Blow Card; the move's mechanism, name and price are WOTR's own, and no shot is described frame for frame.
 
 ## Signed in: saving to his boards
 

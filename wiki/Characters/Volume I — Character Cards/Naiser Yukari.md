@@ -56,7 +56,7 @@ private: true
 ## III. Wellspring Harmonizations
 
 **Anamnesis** · the Wellspring of Remembrance · Medium · Depth: deep · objects and souls store their history in readable form, the way fired clay keeps its dose; he reads lineage the way a smith reads temper colors
-**Fixatio** · the Binding Flame · Medium · Depth: deep · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes. Failure: over-cure, a rigidity that cannot bend even to save him
+**Fixatio** · the Binding Flame · Medium · Depth: deep · the cure of a thermoset: once cross-linked, the other shape no longer exists to go back to; what he binds stays bound, including mistakes. Failure: over-cure, a rigidity tha t cannot bend even to save him
 **Ascensio** · the Ladder of Ascent · Wild · Depth: held · the inclined plane: the same climb made over a longer road so the structure never sees the peak strain; why his Stages came quietly, and why he still owes the difference
 
 ## IV. Primary Stats

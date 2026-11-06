@@ -661,3 +661,7 @@ The radical reading follows from it: **if blood carries the record of a life, wh
 Malakar's return has sharpened every side of the argument. Malrik Fang's blood will one day add the hardest question of all: if blood can carry Vampire power without carrying Malakar's punishment, how much of Vampirism belongs to the race, and how much still belongs to the demon who made it?
 
 *"The Sun was made our enemy. Hunger was placed inside us. Neither fact determines what we choose when the doors close and night begins." — Inscription beneath the western gate of Bluvest*
+
+---
+
+**Read beside this.** [[Geography & the Four Quarters/The Geography of the Outer World|The Geography of the Outer World]], for the land under the veils and the balance across the March.

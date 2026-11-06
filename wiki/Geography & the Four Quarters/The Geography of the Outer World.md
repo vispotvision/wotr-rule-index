@@ -430,3 +430,7 @@ Distance in the Outer World is measured twice: once in miles, and once in how mu
 ### Closing Geographical Phrase
 
 *"The north keeps the dark, the cold and the grain. The south keeps the fire, the gold and the steel. Between them the March keeps the peace, for as long as both are hungry. Above the north hangs the veil; above the south, ten wings and one throne. In the volcano's heart the Ember Crown burns for a continent that has almost spent itself, and in the snow the Dreadvalis wait, patient as only the undying can be, for the rest of the world to need them."*
+
+---
+
+**Read beside this.** [[Geography & the Four Quarters/The Bearing and the Holding/The Outer World — The Southern Pan|The Southern Pan]], for what the Accord could survey of this quarter; [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Ten Great Houses of Drakyssia]], for the Houses in full; [[Races & Peoples/The Peoples/Draconic Kind — The Dragons of Drakyssia|Draconic Kind]] and [[Races & Peoples/The Peoples/The Vampiric Peoples|The Vampiric Peoples]], for the two empires' peoples.

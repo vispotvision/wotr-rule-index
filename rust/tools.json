@@ -3,7 +3,7 @@
  "tools": [
   {
    "name": "load_rules",
-   "description": "Load the rules in force for a task. tags: applies_to tags (see instructions).\nstatus defaults to [\"live\"]. brief=True returns one line per rule, id: summary.\ntags=[] with brief=True is the whole live rulebook: read it once a session.\npart=N (from 1) returns it in batches of ~25k tokens for clients that truncate\nlong results; the header names the part count. Read every part.",
+   "description": "Load the rules in force for a task. tags: applies_to tags (see instructions).\nstatus defaults to [\"live\"]. brief=True returns one line per rule, id: summary.\ntags=[] with brief=True is the whole live rulebook: read it once a session.\nA long load comes in parts of about 20k tokens: with no part it returns part 1,\nand the header names the part count and the next call. part=N (from 1) returns\nthat part. Read every part.",
    "inputSchema": {
     "properties": {
      "tags": {
@@ -65,13 +65,18 @@
   },
   {
    "name": "natalie",
-   "description": "desktop/NATALIE.md, Natalie's standing instructions: who Natalie is, the\ntable rules, the culture inventories. Read it at the start of\nany WOTR session. section = a heading's words to return just that part.\nWith no section, desktop/NATALIE.gpt.md (the ChatGPT overlay) is appended at the end\nunder a header that Claude skips; section = \"ChatGPT\" returns the overlay alone.",
+   "description": "desktop/NATALIE.md, Natalie's standing instructions: who Natalie is, the\ntable rules, the culture inventories. Read it at the start of\nany WOTR session. section = a heading's words to return just that part.\nWith no section, desktop/NATALIE.gpt.md (the ChatGPT overlay) is appended at the end\nunder a header that Claude skips; section = \"ChatGPT\" returns the overlay alone.\nThe whole file comes in parts of about 20k tokens: with no part it returns part 1,\nand the header names the part count and the next call. Read every part.",
    "inputSchema": {
     "properties": {
      "section": {
       "default": "",
       "title": "Section",
       "type": "string"
+     },
+     "part": {
+      "default": 0,
+      "title": "Part",
+      "type": "integer"
      }
     },
     "title": "natalieArguments",
@@ -109,9 +114,15 @@
   },
   {
    "name": "list_conflicts",
-   "description": "CONFLICTS.md: live rules that contradict each other, awaiting Isaac's ruling.",
+   "description": "CONFLICTS.md: live rules that contradict each other, awaiting Isaac's ruling.\nIt comes in parts of about 20k tokens: with no part it returns part 1, and the header\nnames the part count and the next call.",
    "inputSchema": {
-    "properties": {},
+    "properties": {
+     "part": {
+      "default": 0,
+      "title": "Part",
+      "type": "integer"
+     }
+    },
     "title": "list_conflictsArguments",
     "type": "object"
    }

@@ -7,9 +7,9 @@ description: "Start a War of the Realms session on the WOTR MCP from any client 
 
 The order, once a chat. Nothing of it is printed back.
 
-1. **Natalie.** Call `natalie()` once and follow it for the whole chat (a
-   Claude Code session in the repo already has it through CLAUDE.md and
-   skips this).
+1. **Natalie.** Call `natalie()` once, read every part it names, and follow it
+   for the whole chat (a Claude Code session in the repo already has it through
+   CLAUDE.md and skips this).
 2. **The brief rulebook.** `load_rules(tags=[], brief=True)`: every live rule
    as one line. If it says it comes in parts, read every part. Do not reload
    after compaction.

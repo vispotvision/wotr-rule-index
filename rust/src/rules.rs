@@ -1,6 +1,6 @@
 //! The rule index: load_rules, rule, check_docket (mcp_server.py's _fmt, _select, _pack_rank).
 //! Read from rules/*.yaml on every call, as the Python did, so an edit is live at once.
-use crate::util::{chars, py_list, read_lossy, root};
+use crate::util::{paged, py_list, read_lossy, root};
 use fancy_regex::Regex;
 use serde::Deserialize;
 use std::collections::BTreeSet;
@@ -112,31 +112,28 @@ pub(crate) fn select(tags: &[String], status: &[String]) -> Result<(Vec<Rule>, V
 
 pub fn load_rules(tags: &[String], status: Option<Vec<String>>, brief: bool, part: i64) -> Result<String, String> {
     let (rules, bad, known) = select(tags, &status.unwrap_or_else(|| vec!["live".into()]))?;
-    let mut out: Vec<String> = rules.iter().map(|r| fmt(r, !brief)).collect();
+    let out: Vec<String> = rules.iter().map(|r| fmt(r, !brief)).collect();
     let sep = if brief { "\n" } else { "\n\n" };
     let mut head = format!("-- {} rules for tags {}", rules.len(), py_list(&known));
     if !bad.is_empty() {
         head += &format!("  (ignored unknown tags: {})", py_list(&bad));
     }
-    if part != 0 {
-        let mut pages: Vec<Vec<String>> = vec![vec![]];
-        let mut size = 0;
-        for o in out {
-            if !pages.last().unwrap().is_empty() && size + chars(&o) > 100_000 {
-                pages.push(vec![]);
-                size = 0;
-            }
-            size += chars(&o) + sep.len();
-            pages.last_mut().unwrap().push(o);
-        }
-        if part < 1 || part as usize > pages.len() {
-            return Ok(format!("part {part} out of range: 1 to {}", pages.len()));
-        }
-        let p = part as usize;
-        let first: usize = pages[..p - 1].iter().map(Vec::len).sum();
-        head += &format!("\n-- part {p} of {}: rules {} to {}", pages.len(), first + 1, first + pages[p - 1].len());
-        out = pages.swap_remove(p - 1);
+    let mut pages = paged(out, sep.len());
+    if part == 0 && pages.len() == 1 {
+        return Ok(head + "\n\n" + &pages.swap_remove(0).join(sep));
     }
+    // a load with no part asked starts at part 1, so a client's size limit never silently eats the rulebook
+    let p = if part == 0 { 1 } else { part };
+    if p < 1 || p as usize > pages.len() {
+        return Ok(format!("part {p} out of range: 1 to {}", pages.len()));
+    }
+    let (p, total) = (p as usize, pages.len());
+    let first: usize = pages[..p - 1].iter().map(Vec::len).sum();
+    head += &format!("\n-- part {p} of {total}: rules {} to {}", first + 1, first + pages[p - 1].len());
+    if p < total {
+        head += &format!(". Call load_rules again with the same arguments and part={} and read every part.", p + 1);
+    }
+    let out = pages.swap_remove(p - 1);
     Ok(head + "\n\n" + &out.join(sep))
 }
 
@@ -148,4 +145,54 @@ pub fn check_docket(tags: &[String]) -> Result<String, String> {
     let (rules, _, known) = select(tags, &["pending".into(), "proposed".into()])?;
     let out: Vec<String> = rules.iter().map(|r| fmt(r, false)).collect();
     Ok(format!("-- {} pending/proposed for {}\n\n", rules.len(), py_list(&known)) + &out.join("\n\n"))
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::util::{PAGE_CHARS, chars, page_text};
+
+    #[test]
+    fn a_long_text_pages_between_lines_and_loses_nothing() {
+        let text: String = (0..400).map(|i| format!("Line {i}: {}\n", "y".repeat(500))).collect();
+        assert_eq!(page_text("short\n".into(), 0, "t"), "short\n");
+        let first = page_text(text.clone(), 0, "natalie");
+        assert_eq!(first, page_text(text.clone(), 1, "natalie"));
+        assert!(first.starts_with("-- part 1 of 3. Call natalie again with the same arguments and part=2"), "{}", &first[..120]);
+        let mut joined = String::new();
+        for p in 1..=3 {
+            let page = page_text(text.clone(), p, "natalie");
+            assert!(chars(&page) < PAGE_CHARS + 200);
+            joined += page.split_once("\n\n").unwrap().1;
+        }
+        assert_eq!(joined, text);
+        assert!(page_text(text.clone(), 3, "natalie").starts_with("-- part 3 of 3.\n\n"));
+        assert!(page_text(text, 9, "natalie").contains("out of range"));
+    }
+
+    #[test]
+    fn pages_stay_under_the_limit_and_lose_nothing() {
+        let rules: Vec<String> = (0..500).map(|i| format!("R{i}: {}", "x".repeat(600))).collect();
+        let pages = paged(rules.clone(), 1);
+        assert!(pages.len() > 1);
+        for page in &pages {
+            assert!(page.iter().map(|r| chars(r) + 1).sum::<usize>() <= PAGE_CHARS);
+        }
+        assert_eq!(pages.concat(), rules);
+    }
+
+    #[test]
+    fn a_small_load_is_one_page() {
+        assert_eq!(paged(vec!["R1: a", "R2: b"], 1).len(), 1);
+        assert_eq!(paged(Vec::<String>::new(), 1).len(), 1);
+    }
+
+    #[test]
+    fn the_real_rulebook_pages_fit_and_name_the_next_part() {
+        let first = load_rules(&[], None, true, 0).unwrap();
+        assert_eq!(first, load_rules(&[], None, true, 1).unwrap());
+        assert!(first.contains("part=2 and read every part"), "{}", &first[..200]);
+        assert!(chars(&first) < PAGE_CHARS + 500);
+        assert!(load_rules(&[], None, true, 99).unwrap().contains("out of range"));
+    }
 }

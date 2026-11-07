@@ -184,8 +184,8 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str, publi
         }
         "rule" => rules::rule(&arg_req(a, "id")?)?,
         "check_docket" => rules::check_docket(&arg_list(a, "tags").ok_or("missing argument 'tags'")?)?,
-        "list_conflicts" => pages::list_conflicts(),
-        "natalie" => pages::natalie(&arg_str(a, "section", "")),
+        "list_conflicts" => util::page_text(pages::list_conflicts(), arg_int(a, "part", 0), "list_conflicts"),
+        "natalie" => util::page_text(pages::natalie(&arg_str(a, "section", "")), arg_int(a, "part", 0), "natalie"),
         "natalie_gpt" => pages::natalie_gpt(),
         "skill" => pages::skill(&arg_str(a, "name", ""), &arg_str(a, "file", ""), hide, note),
         "character" => pages::character(&arg_req(a, "name")?),

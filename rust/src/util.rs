@@ -62,6 +62,43 @@ pub fn site_packages(name: &str) -> Option<PathBuf> {
     fs::read_dir(venv(name).join("lib")).ok()?.flatten().map(|e| e.path().join("site-packages")).find(|p| p.is_dir())
 }
 
+/// Long tool results are cut into pages under MCP clients' 25,000-token limit. WOTR text runs about 3.5
+/// characters a token (measured: 100,000 characters came to 28,610 tokens), so a page stays near 20,000.
+pub const PAGE_CHARS: usize = 70_000;
+
+pub fn paged<T: AsRef<str>>(items: Vec<T>, sep: usize) -> Vec<Vec<T>> {
+    let mut pages: Vec<Vec<T>> = vec![vec![]];
+    let mut size = 0;
+    for item in items {
+        let len = chars(item.as_ref());
+        if !pages.last().is_none_or(Vec::is_empty) && size + len > PAGE_CHARS {
+            pages.push(vec![]);
+            size = 0;
+        }
+        size += len + sep;
+        if let Some(page) = pages.last_mut() {
+            page.push(item);
+        }
+    }
+    pages
+}
+
+/// A long text one page at a time, cut between lines. With no part asked it starts at part 1 and says what
+/// comes next, so a client's size limit never silently eats the end; a short text comes back as it is.
+pub fn page_text(text: String, part: i64, tool: &str) -> String {
+    if part == 0 && chars(&text) <= PAGE_CHARS {
+        return text;
+    }
+    let pages = paged(text.split_inclusive('\n').collect(), 0);
+    let p = if part == 0 { 1 } else { part };
+    if p < 1 || p as usize > pages.len() {
+        return format!("part {p} out of range: 1 to {}", pages.len());
+    }
+    let (p, total) = (p as usize, pages.len());
+    let next = if p < total { format!(" Call {tool} again with the same arguments and part={} and read every part.", p + 1) } else { String::new() };
+    format!("-- part {p} of {total}.{next}\n\n{}", pages[p - 1].concat())
+}
+
 /// A child as mcp_server._env() starts it: this environment, the env file and PYTHONIOENCODING, in the repo.
 pub fn command(prog: impl AsRef<std::ffi::OsStr>) -> std::process::Command {
     let mut c = std::process::Command::new(prog);

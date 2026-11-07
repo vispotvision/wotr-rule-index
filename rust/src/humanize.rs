@@ -12,28 +12,32 @@ use std::sync::atomic::{AtomicBool, AtomicUsize, Ordering};
 use std::sync::{LazyLock, Mutex, mpsc};
 use std::time::Duration;
 
-const DEFAULT_MODEL: &str = "hf.co/abacusai/Smaug-Humanizer-GGUF:Q8_0";
+/// Isaac's pick, 2026-11-07, over Smaug-Humanizer (still supported through WOTR_HUMANIZER_MODEL).
+const DEFAULT_MODEL: &str = "hf.co/jialinyyzz/humanizer-GGUF:Q8_0";
 const PROMPT: &str = "Rewrite the AI-written text below so that it reads as if a person wrote it, in a person's own voice, wording and rhythm.\n\nKeep every fact, number, name and quote. Keep the structure and the language of the text. Output only the rewritten text.\n\nText:\n";
-/// The model card's limit is about 500 words a call.
+const COMPLETION_INSTRUCTION: &str = "Rewrite the text below so it reads like a person wrote it, not a language model.\n\nReorganize it as you see fit. Vary sentence length on purpose. Cut hedging,\nthroat-clearing, and any sentence that only announces what comes next.\nPrefer the concrete word over the abstract one. It is fine to sound uneven.\n\nEvery fact, number, unit, date, name and quotation must survive unchanged.";
+/// Words a call: Smaug's card puts its limit at about 500; jialinyyzz's own long-document tool cuts at about 350.
 const CHUNK_WORDS: usize = 450;
+const COMPLETION_CHUNK_WORDS: usize = 350;
 /// Chunks at once; the humanizer's Ollama has one slot for each (OLLAMA_NUM_PARALLEL).
 const SLOTS: usize = 4;
-/// Tokens per slot, the model card's figure. Measured on the 9070 XT: Q8_0 at 4 slots does 104 tokens a
-/// second in all against 33 at one, in 13.7 GiB; 6 slots did not finish and filled the card.
+/// Tokens per slot, the model card's figure. Measured on the 9070 XT with Smaug Q8_0: 4 slots do 104 tokens
+/// a second in all against 33 at one, in 13.7 GiB; 6 slots did not finish and filled the card.
 const CONTEXT: u32 = 8192;
-/// The law says do not shorten, and the fights lose Blow Card parts first.
-const MIN_LENGTH: f64 = 0.9;
+/// Loose on Isaac's word (2026-11-07): the pass may cut, and the restore step puts back a lost Blow Card part.
+const MIN_LENGTH: f64 = 0.75;
 const MAX_LENGTH: f64 = 1.4;
 /// A rewrite keeping more of the draft's words than this changed nothing worth the risk.
 const NEAR_COPY: f64 = 0.9;
 /// A line this short is a beat the draft placed on purpose (a sound, a turn); it stays as written.
-const PINNED_WORDS: usize = 4;
+const PINNED_WORDS: usize = 2;
 
 static PROPER: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\b\p{Lu}[\p{L}'’-]+").unwrap());
 static QUOTE: LazyLock<Regex> = LazyLock::new(|| Regex::new(r#"["“][^"“”\n]*["”]"#).unwrap());
 static ITALIC: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\*+[^*\n]+\*+").unwrap());
 static NUMBER: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\d[\d,.]*\d|\d").unwrap());
 static WORD: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"[\p{L}\p{N}'’-]+").unwrap());
+static FIRST_PERSON: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\b(?:I|I['’](?:d|m|ll|ve)|me|my|mine|myself)\b").unwrap());
 static BREAK: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\n[ \t]*\n\s*").unwrap());
 /// Plain romanized state words (gogogogo, zawa zawa, doki-doki, shiin), which carry no italics to protect them.
 static STATE_WORD: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"(?i)\b(?:shiin|zawa zawa|doki-doki|go(?:go)+|gogogo)\b").unwrap());
@@ -73,8 +77,10 @@ fn flaw(old: &str, new: &str, scene_names: &HashSet<String>) -> Option<String> {
     if new_words > old_words * MAX_LENGTH {
         return Some("too long".into());
     }
-    lost("dialogue", found(old, &QUOTE))
-        .or_else(|| lost("italics", found(old, &ITALIC)))
+    let dropped_speech = (QUOTE.find_iter(&flat).count() < QUOTE.find_iter(&plain_quotes(old)).count()).then(|| "dropped speech".to_string());
+    // a single italic word is a sound word; an italic thought may be reworded like the rest
+    dropped_speech
+        .or_else(|| lost("italics", found(old, &ITALIC).into_iter().filter(|i| !i.contains(char::is_whitespace)).collect()))
         .or_else(|| lost("number", found(old, &NUMBER)))
         .or_else(|| lost("sound", found(old, &STATE_WORD)))
         .or_else(|| {
@@ -84,10 +90,21 @@ fn flaw(old: &str, new: &str, scene_names: &HashSet<String>) -> Option<String> {
             let old_flat = plain_quotes(old);
             PROPER.find_iter(new).find(|m| !sentence_start(new, m.start()) && !scene_names.contains(&plain_quotes(m.as_str())) && !old_flat.contains(&plain_quotes(m.as_str()))).map(|m| format!("invented name {}", m.as_str()))
         })
+        .or_else(|| (narrates_first_person(new) && !narrates_first_person(old)).then(|| "first person".to_string()))
         .or_else(|| match verify::run(new, &verify::Opts::default()) {
             Ok(r) if !r.fails.is_empty() => Some(format!("verify: {}", util_head(&r.fails[0]))),
+            Ok(r) if has_hypophora(&r) && !verify::run(old, &verify::Opts::default()).is_ok_and(|o| has_hypophora(&o)) => Some("hypophora".to_string()),
             _ => None,
         })
+}
+
+/// Narration only: a quote or an italic thought may say I.
+fn narrates_first_person(text: &str) -> bool {
+    FIRST_PERSON.is_match(&ITALIC.replace_all(&QUOTE.replace_all(text, ""), ""))
+}
+
+fn has_hypophora(r: &verify::Res) -> bool {
+    r.warns.iter().any(|w| w.contains("hypophora"))
 }
 
 fn util_head(s: &str) -> String {
@@ -112,7 +129,7 @@ enum Kind {
     Prose,
     /// Goes to the model for context; the draft's own line stands.
     Pinned,
-    /// Never leaves the draft: windows, headers, rules, tables, whole-italic lines, mostly-dialogue paragraphs.
+    /// Never leaves the draft: windows, headers, rules, tables, whole-italic lines.
     Fixed,
 }
 
@@ -127,10 +144,6 @@ fn kind(p: &str) -> Kind {
     }
     if t.starts_with('*') && t.ends_with('*') && ITALIC.find(t).is_some_and(|m| m.len() == t.len()) {
         return Kind::Fixed; // a place-and-hour header or a capital sound line
-    }
-    let spoken: usize = QUOTE.find_iter(t).map(|m| word_count(m.as_str())).sum();
-    if spoken as f64 > word_count(t) as f64 * 0.7 {
-        return Kind::Fixed; // a voice is built from its card; nothing here reads a card
     }
     if word_count(t) <= PINNED_WORDS { Kind::Pinned } else { Kind::Prose }
 }
@@ -148,12 +161,12 @@ fn split_body(text: &str) -> (&str, &str, &str) {
 }
 
 /// Consecutive paragraphs a call can take together, as indexes.
-fn chunks(paras: &[(String, Kind)]) -> Vec<Vec<usize>> {
+fn chunks(paras: &[(String, Kind)], limit: usize) -> Vec<Vec<usize>> {
     let mut out: Vec<Vec<usize>> = Vec::new();
     let mut cur = Vec::new();
     let mut words = 0;
     for (i, (p, k)) in paras.iter().enumerate() {
-        if *k == Kind::Fixed || (words > 0 && words + word_count(p) > CHUNK_WORDS) {
+        if *k == Kind::Fixed || (words > 0 && words + word_count(p) > limit) {
             if cur.iter().any(|&j: &usize| paras[j].1 == Kind::Prose) {
                 out.push(std::mem::take(&mut cur));
             }
@@ -242,7 +255,7 @@ fn run(text: &str, tries: usize, generate: Generate, progress: &(dyn Fn(usize, u
     }
     let prose = paras.iter().filter(|p| p.1 != Kind::Fixed || !p.0.trim_start().starts_with(['#', '[', '|', '`', '-'])).map(|p| p.0.as_str()).collect::<Vec<_>>().join("\n\n");
     let scene_names = names(&prose);
-    let work = chunks(&paras);
+    let work = chunks(&paras, if is_completion(&model()) { COMPLETION_CHUNK_WORDS } else { CHUNK_WORDS });
     let total = paras.iter().filter(|p| p.1 == Kind::Prose).count();
     let (next, finished, stop) = (AtomicUsize::new(0), AtomicUsize::new(0), AtomicBool::new(false));
     let outcomes: Vec<Outcome> = std::thread::scope(|s| {
@@ -288,6 +301,33 @@ fn run(text: &str, tries: usize, generate: Generate, progress: &(dyn Fn(usize, u
     Pass { text: format!("{head}{joined}{sep}{tail}"), report }
 }
 
+fn model() -> String {
+    util::env("WOTR_HUMANIZER_MODEL").unwrap_or_else(|| DEFAULT_MODEL.to_string())
+}
+
+/// jialinyyzz/humanizer is a text completion with its own byte-exact prompt (its prompt_format.json), not a chat.
+fn is_completion(model: &str) -> bool {
+    model.contains("jialinyyzz")
+}
+
+/// The request for this model: the endpoint and its JSON body.
+fn request(model: &str, input: &str) -> (&'static str, Value) {
+    if is_completion(model) {
+        let prompt = format!("{COMPLETION_INSTRUCTION}\n\n{}\n\n### Rewritten:\n\n", input.trim());
+        return ("api/generate", json!({
+            "model": model, "prompt": prompt, "raw": true, "stream": false, "keep_alive": "3m",
+            "options": {"temperature": 1.0, "top_p": 0.95, "top_k": 0, "min_p": 0.0, "repeat_penalty": 1.0, "num_ctx": CONTEXT, "num_gpu": 99},
+        }));
+    }
+    ("api/chat", json!({
+        "model": model,
+        "messages": [{"role": "user", "content": format!("{PROMPT}{input}")}],
+        "stream": false,
+        "keep_alive": "3m",
+        "options": {"temperature": 1.0, "top_p": 0.95, "top_k": 64, "num_ctx": CONTEXT, "num_gpu": 99, "stop": ["<end_of_turn>"]},
+    }))
+}
+
 /// One call to the model, on the humanizer's own Ollama or, with that one down, the system one.
 /// keep_alive stays short so the card goes back to ComfyUI and narration.
 fn ollama(input: &str) -> Result<String, String> {
@@ -295,16 +335,9 @@ fn ollama(input: &str) -> Result<String, String> {
 }
 
 fn ollama_at(base: &str, input: &str) -> Result<String, String> {
-    let model = util::env("WOTR_HUMANIZER_MODEL").unwrap_or_else(|| DEFAULT_MODEL.to_string());
-    let body = json!({
-        "model": model,
-        "messages": [{"role": "user", "content": format!("{PROMPT}{input}")}],
-        "stream": false,
-        "keep_alive": "3m",
-        "options": {"temperature": 1.0, "top_p": 0.95, "top_k": 64, "num_ctx": CONTEXT, "num_gpu": 99, "stop": ["<end_of_turn>"]},
-    });
+    let (endpoint, body) = request(&model(), input);
     let mut child = util::command("curl")
-        .args(["-sS", "--max-time", "300", &format!("{base}/api/chat"), "-d", "@-"])
+        .args(["-sS", "--max-time", "300", &format!("{base}/{endpoint}"), "-d", "@-"])
         .stdin(Stdio::piped())
         .stdout(Stdio::piped())
         .stderr(Stdio::piped())
@@ -319,7 +352,7 @@ fn ollama_at(base: &str, input: &str) -> Result<String, String> {
     if let Some(e) = v.get("error").and_then(Value::as_str) {
         return Err(e.to_string());
     }
-    v.pointer("/message/content").and_then(Value::as_str).map(|s| s.trim().to_string()).filter(|s| !s.is_empty()).ok_or_else(|| "an empty reply".to_string())
+    v.pointer("/message/content").or_else(|| v.get("response")).and_then(Value::as_str).map(|s| s.trim().to_string()).filter(|s| !s.is_empty()).ok_or_else(|| "an empty reply".to_string())
 }
 
 fn finish(p: Pass) -> String {
@@ -410,12 +443,14 @@ mod tests {
     #[test]
     fn damage_keeps_the_draft() {
         let cases: &[(&str, &str, &str)] = &[
-            ("A long enough line where Sodoku said \"hold the gate\" and he meant every word of it, plainly.", "A long enough line where someone said something like hold your gate and he meant every word of it, plainly.", "dialogue"),
+            ("A long enough line where Sodoku said \"hold the gate\" and he meant every word of it, plainly.", "A long enough line where Sodoku said something like hold your gate and he meant every word of it, plainly.", "dropped speech"),
             ("The blade rang, *chiki*, and the collar left the mouth of the scabbard without any hurry at all.", "The blade rang out small and dry and the collar left the mouth of the scabbard without any hurry at all.", "italics"),
             ("He had counted forty-one men and 12 horses along the river road before the bell rang that night.", "He had counted some men and a few horses along that river road before the bell rang that night, again.", "number"),
             ("They walked past Kage no Keifu and the long hill above the water, talking about nothing much.", "They walked past the shadow school and the long hill above the water, talking about nothing much.", "lost name"),
             ("They walked past the long hill above the water, talking about nothing much at all that evening.", "They walked past Halvard Rook and the long hill above that water, talking about nothing much that evening.", "invented"),
             ("They walked past the long hill above the water, talking about nothing much at all that evening.", "They walked past the hill.", "too short"),
+            ("He wondered what would happen if he opened the door, and every thread ran out within twenty paces.", "What would happen if I opened that door now, when every thread ran out within twenty paces, he wondered.", "first person"),
+            ("He wondered what would happen if he opened the door, and every thread ran out within twenty paces.", "He stood very still in the cold air and thought it through. What would happen if he opened that door? Nothing good.", "hypophora"),
         ];
         for (old, bad, reason) in cases {
             let p = pass(old, &|_| Ok(bad.to_string()));
@@ -432,17 +467,27 @@ mod tests {
     }
 
     #[test]
-    fn short_beats_and_mostly_spoken_paragraphs_stay() {
-        let draft = format!("{LONG}\n\nThere was one left.\n\n\"Get off my bridge,\" she said, \"or I will put you in the river myself.\"");
-        let seen = Mutex::new(0);
-        let p = pass(&draft, &|i| {
-            *seen.lock().unwrap() += 1;
-            assert!(!i.contains("my bridge"));
-            Ok(format!("{REWORD}\n\nOne was left, anyway."))
-        });
-        assert!(p.text.contains("There was one left."));
-        assert!(!p.text.contains("One was left"));
+    fn the_shortest_beats_stay() {
+        let draft = format!("{LONG}\n\nHe drew.");
+        let p = pass(&draft, &|_| Ok(format!("{REWORD}\n\nHe pulled it.")));
+        assert!(p.text.contains("He drew."));
+        assert!(!p.text.contains("He pulled it"));
         assert!(p.text.contains(REWORD));
+    }
+
+    #[test]
+    fn speech_and_italic_thoughts_may_be_reworded() {
+        let draft = "\"Get off my bridge,\" she said, \"or I will put you in the river myself.\" *No reason to hold back.* The river ran on.";
+        let new = "\"Off my bridge,\" she told him, \"or you are going in that water, and I mean it.\" *He had no reason to wait.* On went the water.";
+        let p = pass(draft, &|_| Ok(new.to_string()));
+        assert!(p.text.contains("Off my bridge"), "{}", p.report);
+    }
+
+    #[test]
+    fn a_sound_word_still_has_to_survive() {
+        let draft = "He eased the blade forward, *chiki*, and the collar left the mouth of the scabbard without any hurry.";
+        let p = pass(draft, &|_| Ok("He eased it forward with a small dry click and the collar left the mouth of the scabbard, unhurried.".to_string()));
+        assert!(p.text.contains("*chiki*"));
     }
 
     #[test]
@@ -469,7 +514,16 @@ mod tests {
     fn long_scenes_are_cut_at_paragraphs() {
         let para = "word ".repeat(200);
         let paras: Vec<(String, Kind)> = (0..5).map(|_| (para.trim().to_string(), Kind::Prose)).collect();
-        let c = chunks(&paras);
+        let c = chunks(&paras, CHUNK_WORDS);
         assert_eq!(c, vec![vec![0, 1], vec![2, 3], vec![4]]);
+    }
+
+    #[test]
+    fn the_completion_model_gets_its_exact_prompt() {
+        let (endpoint, body) = request(DEFAULT_MODEL, " X \n");
+        assert_eq!(endpoint, "api/generate");
+        assert_eq!(body["raw"], true);
+        assert_eq!(body["prompt"].as_str().unwrap(), format!("{COMPLETION_INSTRUCTION}\n\nX\n\n### Rewritten:\n\n"));
+        assert_eq!(request("hf.co/abacusai/Smaug-Humanizer-GGUF:Q8_0", "X").0, "api/chat");
     }
 }

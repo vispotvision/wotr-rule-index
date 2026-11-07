@@ -330,6 +330,9 @@ impl Wotr {
         if !sf.tools.iter().any(|t| t.name == tool) {
             return Err(format!("Unknown tool: {tool}"));
         }
+        if matches!(tool, "lookup" | "research" | "pinterest") {
+            jobs::note_research(&arg_str(&args, "source", ""));
+        }
         if tool == "chatgpt_image" {
             // [Image, text] in Python: the JPEG preview (or the file) as an image block, then the text
             let run = move || {
@@ -346,8 +349,11 @@ impl Wotr {
             return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
         }
         if NATIVE.contains(&tool) {
+            // a client that cannot call lookup, or a quick line (the Stop hook's measure), is not held to research
+            let holds = tool == "verify_scene" && sf.tools.iter().any(|t| t.name == "lookup") && arg_str(&args, "markdown", "").split_whitespace().count() >= 120;
+            let gap = if holds { jobs::research_gap().unwrap_or_default() } else { String::new() };
             let (tool, note) = (tool.to_string(), self.spec.skill_note.clone());
-            let run = move || native(&tool, &args, &sf.hide, &note, sf.public.as_ref()).map(|t| vec![ContentBlock::text(t)]);
+            let run = move || native(&tool, &args, &sf.hide, &note, sf.public.as_ref()).map(|t| vec![ContentBlock::text(gap + &t)]);
             return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
         }
         self.worker.call(tool, &args, sf.public.as_ref()).await.map(|t| vec![ContentBlock::text(t)])

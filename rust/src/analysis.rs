@@ -163,7 +163,7 @@ pub(crate) fn research_kinds(text: &str) -> Vec<&'static str> {
 
 /// The prompts block for these kinds, each line once; an unknown or empty list reads as standard.
 pub(crate) fn research_prompts(kinds: &[&str]) -> Vec<String> {
-    let mut lines = vec!["## Research prompts (only what is new this scene; ideas and fact-checking, canon governs; findings go in the author notes)".to_string()];
+    let mut lines = vec!["## Required research (call every line that fits before the draft, verify_scene FAILs a draft without it; ideas and fact-checking, canon governs; findings go in the author notes)".to_string()];
     let known: Vec<&[&str]> = kinds.iter().filter_map(|k| RESEARCH.iter().find(|(n, _)| n == k).map(|(_, l)| *l)).collect();
     let picked = if known.is_empty() { vec![RESEARCH[6].1] } else { known };
     for l in picked.into_iter().flatten() {
@@ -172,7 +172,7 @@ pub(crate) fn research_prompts(kinds: &[&str]) -> Vec<String> {
             lines.push(line);
         }
     }
-    lines.push("- `lookup(\"datamuse\", \"rel_jjb=<noun>\")` or `\"sl=<sound>\"`: when a word reads generic or was already used".into());
+    lines.push("- `lookup(\"datamuse\", \"rel_jjb=<noun>\")` or `\"sl=<sound>\"`: on the key words, and whenever a word reads generic or was already used".into());
     lines.push("- `lookup(\"jisho\", \"<meaning>\")` or `lookup(\"wiktionary\", \"<word>\")`: names, sound words, old forms".into());
     lines
 }

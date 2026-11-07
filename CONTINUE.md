@@ -6,6 +6,10 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-11-07 (research is mandatory; long tool results come in parts)
+
+Isaac made outside research mandatory for vocabulary and every source (`NATALIE.md`, Outside resources; `/fight`, `/improve`, `wotr-write`). His "all sources" is read as every source that fits the work. `verify_scene` over MCP puts a FAIL first when a draft past 120 words has no vocabulary lookup or no other source in the last three hours (`jobs::research_gap`), and a client that cannot call `lookup` is not held to it. The record is per server process, so sessions on the public server share it, and `wotr-mcp verify` from the command line and the Stop hook are not gated. `load_rules`, `natalie` and `list_conflicts` now page at 70,000 characters, about 20,000 tokens (`util::page_text`), after a client's 25,000-token limit broke `load_rules`.
+
 ## State on 2026-11-07 (humanizer removed; finished work as Markdown files stays)
 
 Isaac had the local humanizer taken out the same night ("lowkey not worried about it"): the `humanize` tool, `wotr-humanizer.service`, both models and every rule that called it are gone, so the pipelines are back to draft, review, `verify_scene`. The block below is the history; commit 09718db8 and its two successors hold the code if he ever wants it back. His direction that finished work in Claude Desktop comes back as a downloadable Markdown file stands (`NATALIE.md`, Chat style).

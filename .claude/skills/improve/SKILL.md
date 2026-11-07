@@ -13,6 +13,6 @@ Fix four things, in this order of attention:
 3. **Voice and heat.** Distinct voices by culture and rank, anime-big feeling, color and sound words in the lexicon's palette, American spelling.
 4. **Continuity and rules.** Positions, limits, tense, canon; no new technique growth, Level points or card changes (those stay his, and a gain is offered as a window line he keeps or changes, R84-23).
 
-Where a word reads generic or a blow's mechanics are vague, use `lookup` silently before the rewrite (`datamuse` for the word, `wiktenauer` or `wikipedia` for the mechanics; `desktop/NATALIE.md`, Outside resources).
+Research is mandatory and silent, before the rewrite: `lookup` with `datamuse` on the key words and any that read generic, `wiktenauer` or `wikipedia` for the mechanics of the blows, and every other source that fits (`desktop/NATALIE.md`, Outside resources). `verify_scene` FAILs a rewrite without it.
 
 Keep what is already strong. Do not shorten or tidy away complexity. Run `desktop/PROSE_REVIEW_PASS.md` silently, then `verify_scene`, and fix every FAIL before it goes back. Never call ChatGPT or Codex.

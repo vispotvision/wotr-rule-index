@@ -606,6 +606,38 @@ fn lookup_in(source: &str, label: &str, site: &str, query: &str) -> Result<Strin
 }
 
 /// One source's best match for `query` as text; a failure is reported, never raised.
+/// When research last ran: (a vocabulary source, any other source). Research is mandatory (Isaac,
+/// 2026-11-07) and verify_scene holds a draft to it. shortcut: one record per server process, so sessions
+/// sharing the public server share it; keep it per session if a false pass ever matters.
+static RESEARCHED: std::sync::Mutex<(Option<std::time::Instant>, Option<std::time::Instant>)> = std::sync::Mutex::new((None, None));
+/// A scene's findings are reused for its later turns, so research stays good for about a sitting.
+const RESEARCH_LASTS: std::time::Duration = std::time::Duration::from_secs(3 * 3600);
+const VOCABULARY: [&str; 3] = ["datamuse", "wiktionary", "jisho"];
+
+pub fn note_research(source: &str) {
+    if let Ok(mut r) = RESEARCHED.lock() {
+        let now = Some(std::time::Instant::now());
+        if VOCABULARY.contains(&source) { r.0 = now } else { r.1 = now }
+    }
+}
+
+fn research_missing(vocabulary: bool, other: bool) -> Option<String> {
+    let missing = match (vocabulary, other) {
+        (true, true) => return None,
+        (false, true) => "vocabulary lookup (`datamuse`, `wiktionary` or `jisho`)",
+        (true, false) => "source that fits the work (`lookup`, `research` or `pinterest`)",
+        (false, false) => "vocabulary lookup or any other source",
+    };
+    Some(format!("FAIL: research is mandatory and this draft has no {missing} behind it (desktop/NATALIE.md, Outside resources). Call what is missing, use it, and verify again.\n\n"))
+}
+
+/// The line verify_scene puts first when a draft has no research behind it.
+pub fn research_gap() -> Option<String> {
+    let fresh = |t: Option<std::time::Instant>| t.is_some_and(|t| t.elapsed() < RESEARCH_LASTS);
+    let (vocabulary, other) = RESEARCHED.lock().map(|r| (fresh(r.0), fresh(r.1))).unwrap_or((true, true));
+    research_missing(vocabulary, other)
+}
+
 pub fn lookup(source: &str, query: &str) -> String {
     let (source, query) = (source.trim().to_lowercase(), query.trim());
     let Some(&(_, label, site)) = SOURCES.iter().find(|x| x.0 == source) else {
@@ -770,6 +802,13 @@ pub fn chatgpt_image(prompt: &str, name: &str, public: Public) -> Result<(Option
 #[cfg(test)]
 mod tests {
     use super::*;
+    #[test]
+    fn research_is_held_to_both_halves() {
+        assert_eq!(research_missing(true, true), None);
+        assert!(research_missing(false, true).unwrap().contains("vocabulary lookup (`datamuse`"));
+        assert!(research_missing(true, false).unwrap().contains("source that fits the work"));
+        assert!(research_missing(false, false).unwrap().starts_with("FAIL: research is mandatory"));
+    }
     #[test]
     fn helpers() {
         assert_eq!(b64(b""), "");

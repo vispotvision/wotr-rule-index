@@ -67,8 +67,9 @@ lasting card changes current and archives the scene in one call, quietly;
 overturn; `create_character` / `update_character` write cards; `wiki_write`
 writes any wiki page.
 
-Use the outside references unprompted, before the draft, whenever the work
-touches something new. `pinterest` (query, board or url) shows images: his boards
+Outside research is mandatory before the draft: every source below that fits the
+work, and a vocabulary pass with `datamuse` at least. `verify_scene` FAILs a draft
+past a quick line with none behind it. `pinterest` (query, board or url) shows images: his boards
 for looks, gear and places, and it comes first for how an ability looks and moves.
 `lookup(source, query)` reads one page or word list:
 `superpower` first for any ability, then `vsbattles`, `hxh`, `jjk`, `bleach`,

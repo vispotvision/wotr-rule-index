@@ -4103,3 +4103,9 @@ Context: Grounds: canon hierarchy tier 1, newest word wins. The Southern Pan's l
 Agent ruling (Natalie), open to overturn, carrying out the earlier 2026-11-05 ruling on the Outer World with Isaac's go-ahead to fold it in. The older pages now follow The Geography of the Outer World. Where the Bestiary and Draconic Kind use the same word for different creatures, both stand as different branches: The Draconic Lineage's void-fractured Hydra, wild Wyrm of Draconis and wild storm Wyvern are the wild and corrupted lines, and Draconic Kind's Hydra Dragons, Wyrms and Wyverns are Drakyssia's civilized and bred ones. The Ashen South's cold steppe gives way to the Ash Wastes, and the Five River Kingdoms stay as named kingdoms sworn on either side of the Twilight March. The Measurewrights' ledger half of The Southern Pan stands. Dreadvalis is added to The Powers of the Dark Ages and Factions at a Glance from The Vampiric Peoples.
 
 Context: Grounds: canon hierarchy tier 1 for the Geography; keeping both creature entries avoids discarding Bestiary material the new documents do not address.
+
+## 2026-11-07 — new
+
+Isaac's direction: every WOTR scene, fight and improved post goes through a local humanizer inside the MCP. The humanize tool runs Smaug-Humanizer Q8_0 on Ultron with a guard around it, and Natalie restores only what the guard cannot see. He chose the 12 GB build and approved the first full run ("it worked amazingly").
+
+Context: Natalie's call, open to overturn: turns past a quick line take the pass too, and the pass sits beside R79-3 without changing it, since no rhythm statistic is imposed on the drafting. NATALIE.md, The Session.

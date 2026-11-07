@@ -4109,3 +4109,9 @@ Context: Grounds: canon hierarchy tier 1 for the Geography; keeping both creatur
 Isaac's direction: every WOTR scene, fight and improved post goes through a local humanizer inside the MCP. The humanize tool runs Smaug-Humanizer Q8_0 on Ultron with a guard around it, and Natalie restores only what the guard cannot see. He chose the 12 GB build and approved the first full run ("it worked amazingly").
 
 Context: Natalie's call, open to overturn: turns past a quick line take the pass too, and the pass sits beside R79-3 without changing it, since no rhythm statistic is imposed on the drafting. NATALIE.md, The Session.
+
+## 2026-11-07 — new
+
+Isaac's direction: in Claude Desktop, finished work always comes back to him as a downloadable Markdown file. Natalie's reading of it, open to overturn: plain answers, rulings and systems summaries stay in chat, and with no way to make a file the piece comes back as one fenced Markdown block.
+
+Context: NATALIE.md, Chat style. Newer than and adds to "prose gets nothing but the prose".

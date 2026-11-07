@@ -1702,6 +1702,56 @@
    }
   },
   {
+   "name": "comfy",
+   "description": "Render on Isaac's own GPU through local ComfyUI (the 9070 XT, wotr-comfy.service) in WOTR's one house style, colored manga and comic, beautiful and mystical (desktop/ART_GUIDE.md; the wotr-render skill is the how-to). Shows the result inline (a clip as a strip of frames) and saves it to ~/wotr-drafts/images/ with a link. Call with no workflow to list them. House workflows (wotr_card_full, wotr_card_bust, wotr_turnaround, wotr_release, wotr_technique, wotr_panel, wotr_location: ~20 s; wotr_clip: ~2 min) carry the house tag block, so prompt is only the subject as Danbooru tags: count and age (always adult plus an age band), body, gear piece by piece, the moment, the place. negative adds to the house negative. image is a png/jpg/webp path for workflows that start from one (wotr_clip, upscale_4x, background_remove). width/height resize (multiples of 32), seed repeats a take (random otherwise). Local and uncensored: Isaac's floor still holds, no real person's likeness, no living artist's name. name: a short file name.",
+   "inputSchema": {
+    "properties": {
+     "workflow": {
+      "title": "Workflow",
+      "type": "string",
+      "default": ""
+     },
+     "prompt": {
+      "title": "Prompt",
+      "type": "string",
+      "default": ""
+     },
+     "negative": {
+      "title": "Negative",
+      "type": "string",
+      "default": ""
+     },
+     "image": {
+      "title": "Image",
+      "type": "string",
+      "default": ""
+     },
+     "width": {
+      "default": 0,
+      "title": "Width",
+      "type": "integer"
+     },
+     "height": {
+      "default": 0,
+      "title": "Height",
+      "type": "integer"
+     },
+     "seed": {
+      "default": -1,
+      "title": "Seed",
+      "type": "integer"
+     },
+     "name": {
+      "title": "Name",
+      "type": "string",
+      "default": ""
+     }
+    },
+    "title": "comfyArguments",
+    "type": "object"
+   }
+  },
+  {
    "name": "pinterest",
    "description": "Pinterest as images, Isaac's main source for how an ability or technique looks and moves, and his saved boards for looks, gear, places, beasts, summons and glyphs. Ideas only: a borrowed look gets WOTR's own mechanism, name and price. Give one of: query (search; add words like gif or animation) or board (one of his boards, by name; a wrong name lists them), each returning up to 24 results as one numbered contact sheet plus their urls, with start to page on; or url (a result from this tool), returning a gif or video as a strip of frames, or a still at reading size. fps sets frames per second in a strip (default 4). Saves nothing.",
    "inputSchema": {
@@ -1817,7 +1867,8 @@
   "wotr-cast",
   "wotr-continuity",
   "wotr-ledger",
-  "wotr-ops"
+  "wotr-ops",
+  "wotr-render"
  ],
  "skill_note": "(Served by the WOTR MCP. Where this names a repo path, a shell command or Claude Code, use the matching WOTR MCP tool; a file under references/ loads with skill(name, file).)\n\n"
 }

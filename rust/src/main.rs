@@ -33,6 +33,7 @@ mod text;
 mod gate;
 mod ops;
 mod codex;
+mod comfy;
 mod embed;
 mod http;
 mod index;
@@ -340,6 +341,23 @@ impl Wotr {
             // [Image, text] in Python: the JPEG preview (or the file) as an image block, then the text
             let run = move || {
                 let (image, text) = jobs::chatgpt_image(&arg_req(&args, "prompt")?, &arg_str(&args, "name", ""), sf.public.as_ref())?;
+                Ok(image.map(|(data, mime)| ContentBlock::image(data, mime)).into_iter().chain([ContentBlock::text(text)]).collect())
+            };
+            return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;
+        }
+        if tool == "comfy" {
+            let run = move || {
+                let (image, text) = comfy::comfy(
+                    &arg_str(&args, "workflow", ""),
+                    &arg_str(&args, "prompt", ""),
+                    &arg_str(&args, "negative", ""),
+                    &arg_str(&args, "image", ""),
+                    arg_int(&args, "width", 0),
+                    arg_int(&args, "height", 0),
+                    arg_int(&args, "seed", -1),
+                    &arg_str(&args, "name", ""),
+                    sf.public.as_ref(),
+                )?;
                 Ok(image.map(|(data, mime)| ContentBlock::image(data, mime)).into_iter().chain([ContentBlock::text(text)]).collect())
             };
             return tokio::task::spawn_blocking(run).await.map_err(|e| e.to_string())?;

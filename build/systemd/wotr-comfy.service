@@ -13,7 +13,8 @@
 #
 # ROCm notes (comfyanonymous/ComfyUI README, AMD section): no --use-pytorch-cross-attention
 # flag is needed on torch 2.13; HSA_OVERRIDE_GFX_VERSION is not set because gfx1201 is a
-# supported target of these wheels. If a model renders black, try --fp32-vae first.
+# supported target of these wheels. --fp32-vae: SDXL (NoobAI/Illustrious) decoded to NaN, a black frame,
+# in fp16 on this card (2026-11-07).
 #
 # Logs: journalctl --user -u wotr-comfy (ComfyUI logs to stderr; user/comfyui.log too).
 
@@ -26,7 +27,7 @@ Type=simple
 WorkingDirectory=%h/comfy/ComfyUI
 EnvironmentFile=-%h/.config/wotr/env
 Environment=PYTHONIOENCODING=utf-8 PYTHONUNBUFFERED=1
-ExecStart=%h/.venvs/wotr-comfy/bin/python main.py --listen 127.0.0.1 --port 8188 --disable-auto-launch --cuda-device 0
+ExecStart=%h/.venvs/wotr-comfy/bin/python main.py --listen 127.0.0.1 --port 8188 --disable-auto-launch --cuda-device 0 --fp32-vae
 Restart=on-failure
 RestartSec=15
 # a stuck render gets 20 s to stop before SIGKILL

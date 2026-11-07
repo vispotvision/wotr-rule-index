@@ -74,6 +74,39 @@ if [ -d "$vault_wf" ]; then
     echo "workflows: $n copied from the vault into $dst"
 fi
 
+# 3b. the custom node packs (the local Higgsfield-alternative stacks, 2026-11-07): clone or pull each,
+# then its requirements with torch and comfy-kitchen held. MiniMax H3 packs are left out: H3's license
+# excludes the US.
+comfy_nodes() {   # repo  [requirements file, default requirements.txt]
+    cat <<'LIST'
+https://github.com/Comfy-Org/ComfyUI-Manager
+https://github.com/neuregex/ComfyUI-freefield
+https://github.com/jtydhr88/ComfyArt
+https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
+https://github.com/kijai/ComfyUI-KJNodes
+https://github.com/Lightricks/ComfyUI-LTXVideo
+https://github.com/city96/ComfyUI-GGUF
+https://github.com/Fannovel16/comfyui_controlnet_aux
+https://github.com/Fannovel16/ComfyUI-Frame-Interpolation   requirements-no-cupy.txt
+https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
+https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything
+https://github.com/cseti007/ComfyUI-CrossViewWarp
+https://github.com/AInVFX/ainvfx-paintaplate
+https://github.com/Acly/comfyui-inpaint-nodes
+https://github.com/lbouaraba/comfyui-krea2edit
+LIST
+}
+"$py" -m pip freeze | grep -E '^(torch|torchaudio|torchvision|comfy-kitchen)==' > "$constraints"
+while read -r url req; do
+    [ -n "$url" ] || continue
+    d="$comfy/custom_nodes/$(basename "$url")"
+    if [ -d "$d/.git" ]; then git -C "$d" pull --ff-only --quiet || echo "WARN: $d did not fast-forward"
+    else git clone --quiet --depth 1 "$url" "$d" || { echo "WARN: could not clone $url"; continue; }; fi
+    r="$d/${req:-requirements.txt}"
+    [ -f "$r" ] && { "$py" -m pip install -r "$r" -c "$constraints" --quiet || echo "WARN: requirements failed for $(basename "$d")"; }
+done < <(comfy_nodes)
+echo "nodes: $(ls "$comfy/custom_nodes" | wc -l) entries in $comfy/custom_nodes"
+
 # 4. the unit
 mkdir -p "$HOME/.config/systemd/user"
 cp -f "$WOTR_REPO/build/systemd/wotr-comfy.service" "$HOME/.config/systemd/user/"
@@ -89,6 +122,11 @@ Comfy-Org/z_image_turbo               split_files/text_encoders/qwen_3_4b.safete
 Comfy-Org/z_image_turbo               split_files/vae/ae.safetensors                                vae
 Comfy-Org/Real-ESRGAN_repackaged      RealESRGAN_x4plus.safetensors                                 upscale_models
 Comfy-Org/BiRefNet                    background_removal/birefnet.safetensors                       background_removal
+Comfy-Org/Wan_2.2_ComfyUI_Repackaged  split_files/diffusion_models/wan2.2_ti2v_5B_fp16.safetensors  diffusion_models
+Comfy-Org/Wan_2.2_ComfyUI_Repackaged  split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors text_encoders
+Comfy-Org/Wan_2.2_ComfyUI_Repackaged  split_files/vae/wan2.2_vae.safetensors                       vae
+OnomaAIResearch/Illustrious-XL-v2.0   Illustrious-XL-v2.0.safetensors                               checkpoints
+Laxhar/noobai-XL-1.1                  NoobAI-XL-v1.1.safetensors                                    checkpoints
 LIST
 }
 if [ "${1:-}" = "--models" ]; then

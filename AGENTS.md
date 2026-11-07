@@ -203,7 +203,7 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   | `wotr-backup.timer` | Sun 03:00 | `build/backup.sh` — zip to Drive or `~/wotr-backups` |
   | `wotr-mcp-public.service` | always | `rust/target/release/wotr-mcp http` on 8765 and 8767 (the Funnel's `/` and `/ro`), every request gated by a dashboard key; the dashboard on 127.0.0.1:8790 (enabled by `build/mcp_public_setup.sh`, not the installer; replaced wotr-mcp-readonly 2026-11-04) |
   | `wotr-bot.service` | always | `bot/run.sh` → `wotr-mcp bot` |
-  | `wotr-comfy.service` | always | ComfyUI (`~/comfy/ComfyUI`, venv `wotr-comfy`) on 127.0.0.1:8188, the 9070 XT only (`--cuda-device 0`); enabled by `build/comfy_setup.sh`, not the installer |
+  | `wotr-comfy.service` | always | ComfyUI (`~/comfy/ComfyUI`, venv `wotr-comfy`) on 127.0.0.1:8188, the 9070 XT only (`--cuda-device 0`, `--fp32-vae` or SDXL decodes black); enabled by `build/comfy_setup.sh`, not the installer, which also installs the node packs (Manager, Freefield, ComfyArt, LTXVideo and the rest). The MCP's `comfy` tool runs its workflows; the house style and the `wotr_*` workflows are in `desktop/ART_GUIDE.md` |
 
   Did something run? `systemctl --user list-timers 'wotr-*'` and
   `journalctl --user -u wotr-<name>.service -u wotr-<name>.timer --since -3h`,

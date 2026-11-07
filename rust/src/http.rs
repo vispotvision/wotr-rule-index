@@ -158,13 +158,13 @@ async fn audio(req: Request, tail: &str) -> Response {
     }
 }
 
-/// /images/<file>: one image chatgpt_image saved; only plain names inside ~/wotr-drafts/images.
+/// /images/<file>: one image chatgpt_image or comfy saved (a comfy video too); only plain names inside ~/wotr-drafts/images.
 async fn image(req: Request, name: &str) -> Response {
     let base = PathBuf::from(std::env::var("HOME").unwrap_or_default()).join("wotr-drafts/images");
     let name = pct_decode(name);
     let Some(n) = Path::new(&name).file_name() else { return text(StatusCode::NOT_FOUND, "not found\n") };
     let t = base.join(n);
-    let ok = t.extension().map(|x| x.to_string_lossy().to_lowercase()).is_some_and(|x| ["png", "jpg", "jpeg", "webp"].contains(&x.as_str()));
+    let ok = t.extension().map(|x| x.to_string_lossy().to_lowercase()).is_some_and(|x| ["png", "jpg", "jpeg", "webp", "webm", "mp4", "gif"].contains(&x.as_str()));
     if ok && t.is_file() { file(req, &t).await } else { text(StatusCode::NOT_FOUND, "not found\n") }
 }
 

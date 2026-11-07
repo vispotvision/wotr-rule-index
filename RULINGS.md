@@ -4157,3 +4157,9 @@ Context: Found by the book pipeline refit, 2026-11-07. scene_brief's first blank
 Agent ruling, open to overturn: Martin is a named model again, for the politics only (lethal courts, many wants under one flag, consequence that follows a deed), as R83-1 and NATALIE.md's touchstones say; R70-4's Western prose models (Tolkien, Dickens and the Victorians, Guy Gavriel Kay) stand for the prose, and the narrator still passes no moral verdicts. Grounds: the canon hierarchy, Isaac's newer word (2026-11-05) governing.
 
 Context: Found by the book pipeline refit, 2026-11-07; the end-of-book audit lens reads R83-1 alongside R70-1 and R70-3. CONFLICTS.md C-184.
+
+## 2026-11-07 — C-185
+
+Agent ruling, open to overturn: R78-4's tone stands (dark shonen, not grimdark, beautiful and loud), and its "magitech everywhere in the cities" is read through the Dark Ages law as the living crafts: city lamps, heat and water are paid trades done by people and their worked gear, never mains, the draw or machinery; what is built and carried stays medieval. Grounds: the canon hierarchy, the newer rule (R83-9 and NATALIE.md The Dark Ages, 2026-11-05) governing.
+
+Context: Found by the book pipeline refit, 2026-11-07: a chapter brief loading R78-4 could put district mains back into a city. CONFLICTS.md C-185.

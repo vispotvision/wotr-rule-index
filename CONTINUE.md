@@ -6,7 +6,11 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
-## State on 2026-11-07 (local humanizer; finished work as Markdown files)
+## State on 2026-11-07 (humanizer removed; finished work as Markdown files stays)
+
+Isaac had the local humanizer taken out the same night ("lowkey not worried about it"): the `humanize` tool, `wotr-humanizer.service`, both models and every rule that called it are gone, so the pipelines are back to draft, review, `verify_scene`. The block below is the history; commit 09718db8 and its two successors hold the code if he ever wants it back. His direction that finished work in Claude Desktop comes back as a downloadable Markdown file stands (`NATALIE.md`, Chat style).
+
+## State on 2026-11-07 (local humanizer, later removed; finished work as Markdown files)
 
 Isaac wanted a local humanizer inside the MCP for every scene and improve, and chose the 12 GB build. `humanize` (`rust/src/humanize.rs`, on the core and full surfaces, not read-only) runs its model on `wotr-humanizer.service`, its own Ollama on :11435 with four slots (104 tokens a second in 13.7 GiB, a 3,900-word scene in 112 s). A guard keeps the draft's paragraph on a dropped speech, lost sound words, numbers or names, an invented name, or a `verify_scene` FAIL, and windows, headers and author notes never reach it. Calls over 40 seconds return a job id. `NATALIE.md` (The Session; Chat style), `/fight`, `/improve`, `wotr-write`, `PROJECT_INSTRUCTIONS.md` and the MCP's instructions field carry it, along with his second direction: in Claude Desktop finished work comes back as a downloadable Markdown file. Both are in RULINGS.md.
 

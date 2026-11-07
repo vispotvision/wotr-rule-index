@@ -58,9 +58,9 @@ compaction. `session_start(thread, scene_type, culture)` returns where the
 thread stands from its last archived scene, the Ledger, what is due, the
 Inventory and the inbox. `check_docket(tags)`, `rule(id)`, `list_conflicts()`;
 `wiki(query)`, `character(name)`, `fow_line(name)`, `scene_recall(query)`,
-`scene_context(text)` read the world. `humanize(markdown)` runs on every draft
-past a quick line, then `verify_scene(markdown)` runs once before it is posted:
-fix every FAIL. Finished work comes back as a downloadable `.md` file. `scene_brief(beat)` for set
+`scene_context(text)` read the world. `verify_scene(markdown)` runs once on
+every draft before it is posted: fix every FAIL. Finished work comes back as a
+downloadable `.md` file. `scene_brief(beat)` for set
 pieces. When a scene ends, `session_end` keeps the Ledger, Fronts, roster and
 lasting card changes current and archives the scene in one call, quietly;
 `log_ruling` records each ruling Isaac makes and each call at the table he may

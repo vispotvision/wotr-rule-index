@@ -91,6 +91,9 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
 - **Not ported yet, still Python: run it, don't extend it.** `build/sync.sh` with `embed_index.py`;
   the Chatterbox and Qwen GPU workers, the Whisper read-back check and `--qwen` runs.
   Research also calls external CLIs (Agent Reach, agent-browser).
+- **The humanizer:** `humanize` (`rust/src/humanize.rs`) calls Smaug-Humanizer Q8_0 on
+  `wotr-humanizer.service`, its own Ollama on :11435 with four slots, and falls back to the system
+  Ollama. Keep `OLLAMA_NUM_PARALLEL` off the system service: it multiplies context on the big models.
 - **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
   dispatcher, Sunday backup, the Discord bot, a public
   read-only MCP behind a shared secret. All systemd user units (below).

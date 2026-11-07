@@ -37,6 +37,7 @@ mod jobs;
 mod keys;
 mod kokoro;
 mod pages;
+mod humanize;
 mod pinterest;
 mod pyjson;
 mod pyyaml;
@@ -70,7 +71,7 @@ const NATIVE: &[&str] = &[
     "ledger_add", "ledger_mark", "fire_trigger", "ledger_collect", "npc_set", "session_end",
     "codex", "codex_check", "stale_names", "scene_brief", "gap_fill", "trello_cards", "scene_text", "timeline", "reconcile", "pack_impact",
     "cast_index", "convert_character", "cast_scene", "narrate_scene", "narration_status", "research", "lookup",
-    "ask_chatgpt", "ask_claude", "research_chatgpt", "chatgpt_image",
+    "ask_chatgpt", "ask_claude", "research_chatgpt", "chatgpt_image", "humanize",
 ];
 
 #[derive(Deserialize, Clone)]
@@ -246,6 +247,7 @@ fn native(tool: &str, a: &Map<String, Value>, hide: &[String], note: &str, publi
         "narration_status" => jobs::narration_status(&arg_str(a, "job", ""), public)?,
         "research" => jobs::research(&arg_req(a, "question")?, arg_int(a, "read", 2), &arg_list(a, "urls").unwrap_or_default(), &arg_str(a, "power", ""))?,
         "lookup" => jobs::lookup(&arg_req(a, "source")?, &arg_req(a, "query")?),
+        "humanize" => humanize::humanize(&arg_str(a, "markdown", ""), &arg_str(a, "job", ""), arg_int(a, "tries", 3), arg_int(a, "wait", 40))?,
         "ask_chatgpt" => jobs::ask_chatgpt(&arg_req(a, "prompt")?),
         "ask_claude" => jobs::ask_claude(&arg_req(a, "prompt")?),
         "research_chatgpt" => jobs::research_chatgpt(&arg_req(a, "question")?, &arg_str(a, "thread", "")),

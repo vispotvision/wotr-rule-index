@@ -416,7 +416,7 @@ pub struct Opts<'a> {
     pub explicit: bool,
 }
 
-fn before_notes(text: &str) -> &str {
+pub(crate) fn before_notes(text: &str) -> &str {
     first(notes(), text).map(|m| &text[..m.start()]).unwrap_or(text)
 }
 

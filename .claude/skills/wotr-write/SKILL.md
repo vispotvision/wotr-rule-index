@@ -105,7 +105,9 @@ false positive; note it and keep playing.
 **Improve my post** is a free rewrite toward his intent, in the tense and
 person he wrote in unless he asks for a conversion (R79-4, R79-8).
 
-**Verify, then post.** Draft to `/tmp/wotr-drafts/<slug>.md`, run
+**Humanize, verify, then post.** Draft to `/tmp/wotr-drafts/<slug>.md`, run
+`humanize(markdown)` on anything past a quick line and restore only what its
+guard could not see, then run
 `verify_scene(markdown, combat, culture, turn=True)` once (`explicit=True` for
 a bed scene), fix every FAIL, read the WARNs
 without looping on them, post (R79-2). Nothing is printed under a turn: no OOC
@@ -141,7 +143,8 @@ pipeline in `references/scene-pipeline.md`.
 3. **Draft** to `/tmp/wotr-drafts/<slug>.md` (`scenes/` is the archive and
    only `archive_scene` or `session_end` writes there). Windows go in as they
    do in a turn, each after the blow or event it reports (R84-1).
-4. **Verify.** `verify_scene(markdown, combat)`, or
+4. **Humanize, then verify.** `humanize(markdown)`, restoring only what its
+   guard could not see; then `verify_scene(markdown, combat)`, or
    `rust/target/release/wotr-mcp verify /tmp/wotr-drafts/<slug>.md
    --combat --culture <Culture>`. Fix every FAIL; a set piece may take a
    second pass. Then the reading pass in `references/prose-law-quickcheck.md`.

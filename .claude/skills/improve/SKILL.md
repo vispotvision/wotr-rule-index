@@ -15,4 +15,4 @@ Fix four things, in this order of attention:
 
 Where a word reads generic or a blow's mechanics are vague, use `lookup` silently before the rewrite (`datamuse` for the word, `wiktenauer` or `wikipedia` for the mechanics; `desktop/NATALIE.md`, Outside resources).
 
-Keep what is already strong. Do not shorten or tidy away complexity. Run `desktop/PROSE_REVIEW_PASS.md` silently, then `verify_scene`, and fix every FAIL before it goes back. Never call ChatGPT or Codex.
+Keep what is already strong. Do not shorten or tidy away complexity. Run `desktop/PROSE_REVIEW_PASS.md` silently, then `humanize` (restore only what its guard could not see), then `verify_scene`, and fix every FAIL before it goes back. Never call ChatGPT or Codex.

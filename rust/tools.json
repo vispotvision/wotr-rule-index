@@ -1,5 +1,5 @@
 {
- "instructions": "Tools over the War of the Realms rule index at /home/oridon/wotr-rule-index. Claude Code sessions in the repo skip the natalie call: CLAUDE.md already imports NATALIE.md. Every other client calls natalie once at the start of a session (it is on the ops surface; a client without it reads NATALIE.md from its project knowledge). Rule loading is lean: once a session, before the first writing, load_rules(tags=[], brief=True), every live rule as one line; load a domain in full (load_rules with its applies_to tags: prose-law for any prose; combat, adjudication, magic-mechanism, pov, dialogue, register, naming, items, scene-structure, mass-combat, stats, magic-design, codex, worldbuilding, standing-inventory, character-sheet, documents, verification, session-protocol) the first time the work touches it, and do not re-read after compaction. Rules print newest pack first; the newer governs where two overlap. The WOTR skills are on this server: skill() lists them, skill(name) loads one to follow; start with wotr-start.",
+ "instructions": "Tools over the War of the Realms rule index at /home/oridon/wotr-rule-index. Claude Code sessions in the repo skip the natalie call: CLAUDE.md already imports NATALIE.md. Every other client calls natalie once at the start of a session (it is on the ops surface; a client without it reads NATALIE.md from its project knowledge). Rule loading is lean: once a session, before the first writing, load_rules(tags=[], brief=True), every live rule as one line; load a domain in full (load_rules with its applies_to tags: prose-law for any prose; combat, adjudication, magic-mechanism, pov, dialogue, register, naming, items, scene-structure, mass-combat, stats, magic-design, codex, worldbuilding, standing-inventory, character-sheet, documents, verification, session-protocol) the first time the work touches it, and do not re-read after compaction. Rules print newest pack first; the newer governs where two overlap. The WOTR skills are on this server: skill() lists them, skill(name) loads one to follow; start with wotr-start. Every scene, fight, improved post or turn past a quick line goes through humanize, then verify_scene, before it reaches Isaac (a client whose key lacks humanize skips only that step). In Claude Desktop finished work comes back as a downloadable Markdown file, with nothing past a line of what it is; with no way to make a file, as one fenced Markdown block.",
  "tools": [
   {
    "name": "load_rules",
@@ -1724,6 +1724,36 @@
     "title": "pinterestArguments",
     "type": "object"
    }
+  },
+  {
+   "name": "humanize",
+   "description": "The local humanizer pass over a finished draft (a scene, an improved post or a substantial turn), run after the prose review and before the last verify_scene. A fine-tuned model on Ultron rewrites the narration paragraph by paragraph. A guard keeps the draft's own paragraph wherever a rewrite loses dialogue, italics, a sound word, a number or a name, invents a name, shortens it or fails verify_scene; windows, headers, whole-italic lines, mostly spoken paragraphs, short beats and the author notes never change. Returns a one-line report, then the scene after ===== THE SCENE =====. Read it against the draft, restore only what the guard could not see, and post it; do not rewrite it back. Give markdown; tries (default 3) is the attempts per chunk. A long scene outlasts wait (default 40 seconds) and returns a job id: call again with job to collect it. If the model is down the draft comes back unchanged and the report says so.",
+   "inputSchema": {
+    "properties": {
+     "markdown": {
+      "default": "",
+      "title": "Markdown",
+      "type": "string"
+     },
+     "job": {
+      "default": "",
+      "title": "Job",
+      "type": "string"
+     },
+     "tries": {
+      "default": 3,
+      "title": "Tries",
+      "type": "integer"
+     },
+     "wait": {
+      "default": 40,
+      "title": "Wait",
+      "type": "integer"
+     }
+    },
+    "title": "humanizeArguments",
+    "type": "object"
+   }
   }
  ],
  "core": [
@@ -1738,6 +1768,7 @@
   "due",
   "fow_line",
   "fronts",
+  "humanize",
   "ledger_add",
   "list_conflicts",
   "load_rules",

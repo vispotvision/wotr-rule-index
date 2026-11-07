@@ -46,10 +46,10 @@ src="$WOTR_REPO/build/systemd"
 dst="$HOME/.config/systemd/user"
 # what --now enables; wotr-mcp-public.service is deliberately not here (see above)
 enable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
-        wotr-bot.service)
+        wotr-bot.service wotr-humanizer.service)
 # what a changed file restarts (see the header); never a oneshot service
 restartable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
-             wotr-bot.service wotr-mcp-public.service wotr-comfy.service wotr-workshop.service)
+             wotr-bot.service wotr-mcp-public.service wotr-comfy.service wotr-workshop.service wotr-humanizer.service)
 
 # every unit build/systemd/ ships, by name
 units=()

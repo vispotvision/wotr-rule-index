@@ -4145,3 +4145,9 @@ Context: The pipelines return to draft, review, verify_scene. His words: "lowkey
 Isaac's direction: research is mandatory for vocabulary and for all the sources and resources WOTR has, before the draft. Natalie's reading, open to overturn: every source on the Outside resources list that fits the work gets called, findings are reused across a scene's later turns, a quick line needs nothing new, and verify_scene FAILs a longer draft with no vocabulary lookup or no other source behind it.
 
 Context: Replaces "whenever the work touches something new" in NATALIE.md, Outside resources. Natalie's reading of "all" as "all that fit" avoids calling fencing manuals for a court scene.
+
+## 2026-11-07 — C-183
+
+Agent ruling, open to overturn: a scene's POV is whoever is most affected and can see the right thing (R80-13, Isaac 2026-10-31); between two equally affected, whoever knows least about what is coming (R5-C1-WRITE_FROM_LEAST_KNOWING, read as the tiebreak). Grounds: the canon hierarchy, Isaac's newer word governing; Pack Five's default calls itself breakable with reason.
+
+Context: Found by the book pipeline refit, 2026-11-07. scene_brief's first blank printed only the older default; it now names both. CONFLICTS.md C-183.

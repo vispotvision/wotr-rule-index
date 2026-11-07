@@ -4151,3 +4151,9 @@ Context: Replaces "whenever the work touches something new" in NATALIE.md, Outsi
 Agent ruling, open to overturn: a scene's POV is whoever is most affected and can see the right thing (R80-13, Isaac 2026-10-31); between two equally affected, whoever knows least about what is coming (R5-C1-WRITE_FROM_LEAST_KNOWING, read as the tiebreak). Grounds: the canon hierarchy, Isaac's newer word governing; Pack Five's default calls itself breakable with reason.
 
 Context: Found by the book pipeline refit, 2026-11-07. scene_brief's first blank printed only the older default; it now names both. CONFLICTS.md C-183.
+
+## 2026-11-07 — C-184
+
+Agent ruling, open to overturn: Martin is a named model again, for the politics only (lethal courts, many wants under one flag, consequence that follows a deed), as R83-1 and NATALIE.md's touchstones say; R70-4's Western prose models (Tolkien, Dickens and the Victorians, Guy Gavriel Kay) stand for the prose, and the narrator still passes no moral verdicts. Grounds: the canon hierarchy, Isaac's newer word (2026-11-05) governing.
+
+Context: Found by the book pipeline refit, 2026-11-07; the end-of-book audit lens reads R83-1 alongside R70-1 and R70-3. CONFLICTS.md C-184.

@@ -4115,3 +4115,9 @@ Context: Natalie's call, open to overturn: turns past a quick line take the pass
 Isaac's direction: in Claude Desktop, finished work always comes back to him as a downloadable Markdown file. Natalie's reading of it, open to overturn: plain answers, rulings and systems summaries stay in chat, and with no way to make a file the piece comes back as one fenced Markdown block.
 
 Context: NATALIE.md, Chat style. Newer than and adds to "prose gets nothing but the prose".
+
+## 2026-11-07 — new
+
+Isaac's direction, replacing the earlier model choice: the humanize tool's model is jialinyyzz/humanizer Q8_0 instead of Smaug-Humanizer. He chose it after reading both on The Line Written, with Natalie recommending Smaug. Everything else about the pass stands.
+
+Context: Natalie's guard addition, open to overturn: a rewrite that puts narration in first person or adds hypophora keeps the draft, since this model showed both and hypophora is a standing ban.

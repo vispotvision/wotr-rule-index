@@ -1,0 +1,29 @@
+{
+ "batch_1": {
+  "answered": "2026-11-07",
+  "Q1_length": "14 chapters, ~50k words: room for side characters to get their own turns, a dungeon delve for cores, a second deal that goes wrong, a longer climb to the ending",
+  "Q2_gates": "Write it all through: every chapter written and checked without stopping; gates become review points Isaac goes through at the end (approve, note or re-brief any chapter); the whole novella delivered as one Markdown file",
+  "Q3_age": "Twenty at the open: an adult from page one",
+  "Q4_dream": "A debt to a warrior: a fighter saved him once and would take no payment; a merchant cannot stand an unpaid account, so he means to become what she was"
+ },
+ "batch_2": {
+  "answered": "2026-11-07",
+  "Q5_start": "The Hundred Crowns (the Midmarch): petty kings along both roads, a toll every mile, war supply sold to both sides, comic names; nearly every crown owes Nalūn, so the road up leads to the salt cities in later books",
+  "Q6_power": "Provenance: everything remembers who held it. Body Path walked with Anamnesis (Medium lens, faded violet): a blade he handles gives back its past owners' blows for his shoulders to repeat; he learns to fight from the dead men's swords he buys and sells. Cost: every past he reads stays in him. Counter: new or wiped gear; a fighter who closes before he reads",
+  "Q7_waking": "A Waking Draft bought on debt: he sells his future to a guild for a Waking Draft (60-120 gold) that often kills or warps; a bought door opens and no more, the fights have to fill it; mid-book turning point",
+  "Q8_jibe": "A hall rule forbids both: the merchant halls bar a sworn fighter from holding a trust title, because a man who is both is buyer and seller of the same blood; 'one has to sell to the other' is the plain-speech gloss of the rule; he means to be the first exception"
+ },
+ "batch_3": {
+  "answered": "2026-11-07",
+  "Q9_debt": "Lost; her sword turns up: he never learned her name, only her sword's mark; mid-book her blade comes across his counter in a dead man's lot and Provenance lets him read her through it; is she alive, why did she let it go; paying the debt in kind becomes book one's ending",
+  "Q10_name": "Ned Chapman: chapman is the old word for a peddler; people laugh that he was named for his job, and the ones who know the old word laugh harder ('Chapman the chapman')",
+  "Q11_endgame": "Paragon of the halls: the merchant other markets check their own weights against; trusted to sell Unique pieces; for a Paragon the halls come to you",
+  "Q12_book_one": "Stage II, Journeyman: woken by the Draft, two Stages in (Welling), trusted with Uncommon goods; he has taken a fighting hall's yard test and had the hall rule read against him"
+ },
+ "batch_4": {
+  "answered": "2026-11-07",
+  "Q13_claude_md": "Restore the committed CLAUDE.md; the replaced text saved to a scratch file first",
+  "Q14_old_books": "Move kharven-year and night-watch-zombification to lore/v1/book/ (pure renames)",
+  "Q15_title": "Paid in Kind (The Warrior Merchant, Book One)"
+ }
+}

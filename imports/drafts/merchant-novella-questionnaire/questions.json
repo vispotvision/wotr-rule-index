@@ -1,0 +1,182 @@
+{
+ "title": "The merchant novella and the book pipeline: Isaac's calls",
+ "asked": "2026-11-07",
+ "batches": [
+  {
+   "batch": 1,
+   "questions": [
+    {
+     "id": "Q1",
+     "header": "Length",
+     "question": "How long is the first novella?",
+     "options": [
+      "10 chapters, ~35k words (Recommended)",
+      "14 chapters, ~50k words",
+      "8 chapters, ~25k words"
+     ]
+    },
+    {
+     "id": "Q2",
+     "header": "Gates",
+     "question": "How do you want to read it as it is written?",
+     "options": [
+      "Write it all through (Recommended)",
+      "Stop after chapter 1",
+      "Stop after the outline"
+     ]
+    },
+    {
+     "id": "Q3",
+     "header": "Age",
+     "question": "How old is the merchant when the novella opens?",
+     "options": [
+      "Twenty, an adult from page one (Recommended)",
+      "Seventeen, aging into adulthood",
+      "Thirty, a late bloomer",
+      "Fifteen, then a time skip"
+     ]
+    },
+    {
+     "id": "Q4",
+     "header": "The dream",
+     "question": "Why does a merchant want to be a warrior?",
+     "options": [
+      "A debt to a warrior (Recommended)",
+      "He sold the blade that killed",
+      "His hired swords robbed him",
+      "He wants both crowns"
+     ]
+    }
+   ]
+  },
+  {
+   "batch": 2,
+   "questions": [
+    {
+     "id": "Q5",
+     "header": "Start",
+     "question": "Where does he start trading?",
+     "options": [
+      "The Hundred Crowns (Recommended)",
+      "Halcrest's tokenless",
+      "Threeways in the North"
+     ]
+    },
+    {
+     "id": "Q6",
+     "header": "Power",
+     "question": "What is his one wild concept?",
+     "options": [
+      "Provenance: the blade remembers (Recommended)",
+      "The Fair Price: paid in full",
+      "The Go-Between: two in one hand"
+     ]
+    },
+    {
+     "id": "Q7",
+     "header": "Waking",
+     "question": "How does his sealed Crystal wake?",
+     "options": [
+      "A Waking Draft bought on debt (Recommended)",
+      "A crisis on the road",
+      "Already woken, never trained",
+      "A blessing with terms"
+     ]
+    },
+    {
+     "id": "Q8",
+     "header": "The jibe",
+     "question": "Does the Warrior Merchant jibe have a legal root?",
+     "options": [
+      "A hall rule forbids both (Recommended)",
+      "Allowed, never done",
+      "Allowed, and despised"
+     ]
+    }
+   ]
+  },
+  {
+   "batch": 3,
+   "questions": [
+    {
+     "id": "Q9",
+     "header": "His debt",
+     "question": "The warrior who saved him nine years ago: where is she now?",
+     "options": [
+      "Lost; her sword turns up (Recommended)",
+      "Famous, and won't take his coin",
+      "Dead; he pays her family",
+      "On the wrong side now"
+     ]
+    },
+    {
+     "id": "Q10",
+     "header": "Name",
+     "question": "What is the merchant called?",
+     "options": [
+      "Hal Coster (Recommended)",
+      "Wynn Barrow",
+      "Ned Chapman",
+      "Tobin Penhallow"
+     ]
+    },
+    {
+     "id": "Q11",
+     "header": "Endgame",
+     "question": "What does 'greatest merchant of the Inner World' mean by the end of the series?",
+     "options": [
+      "Paragon of the halls (Recommended)",
+      "High Chainlord of Nalun",
+      "His own house and road",
+      "All three, a book each"
+     ]
+    },
+    {
+     "id": "Q12",
+     "header": "Book one",
+     "question": "Where does novella one leave him?",
+     "options": [
+      "Stage II, Journeyman token (Recommended)",
+      "Stage I, Apprentice token",
+      "Stage III, Adept token"
+     ]
+    }
+   ]
+  },
+  {
+   "batch": 4,
+   "questions": [
+    {
+     "id": "Q13",
+     "header": "CLAUDE.md",
+     "question": "The working CLAUDE.md was replaced at 05:19 with an 'ENI' persona guide (not by this session). What should happen to it?",
+     "options": [
+      "Restore the committed one (Recommended)",
+      "Keep the new file",
+      "Let me look first"
+     ]
+    },
+    {
+     "id": "Q14",
+     "header": "Old books",
+     "question": "kharven-year and night-watch-zombification are pre-reset books stuck at gate 1. Move them to lore/v1?",
+     "options": [
+      "Move both to lore/v1 (Recommended)",
+      "Leave them in book/"
+     ]
+    },
+    {
+     "id": "Q15",
+     "header": "Title",
+     "question": "What is novella one called?",
+     "options": [
+      "Paid in Kind (Recommended)",
+      "Chapman the Chapman",
+      "One Has to Sell to the Other",
+      "Second Hand"
+     ]
+    }
+   ]
+  }
+ ]
+}

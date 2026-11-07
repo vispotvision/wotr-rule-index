@@ -1,0 +1,759 @@
+{
+ "facts": [],
+ "hooks": [
+  {
+   "hook_id": "H01-unpaid-purse",
+   "text": "Ned carries his dead father's purse of eleven silver, the payment the woman in the ditch refused in 706, unspent for nine years in the lining of his coat; his day purse is the one half full of washers. Paid when he spends the eleven silver on Ninian's keep, the one account he never could pay.",
+   "keywords": [
+    "purse",
+    "eleven",
+    "silver",
+    "father"
+   ],
+   "planted_ch": 1,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H02-hayward-horn",
+   "text": "The sword that saved him bore a maker's mark of a hayward's horn on the guard and a notch where a wolf bit it; Ned has looked for that mark on every blade for nine years. Paid when the sword turns up in Osmund Stray's lot and is read.",
+   "keywords": [
+    "horn",
+    "notch",
+    "guard",
+    "wolf"
+   ],
+   "planted_ch": 1,
+   "due_ch": 8,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H03-half-hand",
+   "text": "At dawn after the waking, the empty Draft bottle's seal gives Ned a left hand short of two and a half fingers. The same hand pried the sword from the dying Osmund and tied Ellwand's core lot. Paid when Ned sees Ottor Halfhand's hand on a crossbow stock at the pinfold and names the ring.",
+   "keywords": [
+    "half",
+    "hand",
+    "left",
+    "fingers"
+   ],
+   "planted_ch": 6,
+   "due_ch": 12,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H04-kemp-and-chapman",
+   "text": "Kemp tells Ned that kemp and chapman are the old words for the fighter and the dealer, sitting at one table. Paid at the yard test, when Kemp strikes the fighting token for a chapman and Ned refuses it.",
+   "keywords": [
+    "kemp",
+    "chapman",
+    "old words"
+   ],
+   "planted_ch": 4,
+   "due_ch": 13,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H05-blank-irons",
+   "text": "Kemp's Yard puts its yard-irons back in the fire every quarter-day so no candidate carries another man's luck into the yard, so they read blank to Provenance; the one thing never reforged is Bett Bodkin's own old buckler. Paid at the yard test, which Ned passes on blows he owns and wins with his palm on that buckler.",
+   "keywords": [
+    "irons",
+    "fire",
+    "luck",
+    "buckler"
+   ],
+   "planted_ch": 4,
+   "due_ch": 13,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H06-ninian-ditch",
+   "text": "Ninian Ditchling, the Short Measure Company's camp foundling, was named for the ditch he was found in; Ned shields him from the wolves. Paid when Ned pulls him out of a ditch for nothing with NO CHARGE.",
+   "keywords": [
+    "Ninian",
+    "ditch",
+    "nothing"
+   ],
+   "planted_ch": 5,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H07-short-measure",
+   "text": "The Short Measure Company's name, Kit's too-loud laugh and Amabel's gentleness about 706 hide what the company did: under its old captain it sold the convoy's road to the other side, and Ned's father died on that sale. Paid when Gisla tells him on the barley road and he confronts Amabel.",
+   "keywords": [
+    "Short Measure",
+    "road",
+    "sold",
+    "706"
+   ],
+   "planted_ch": 2,
+   "due_ch": 12,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H08-the-vow",
+   "text": "Gisla's window has shown her vow every morning since 706: her sword is not for sale; no pay for a blade's work, ever, and no blade carried that was paid for its work; strays come home to me. Paid when Ned lays the emptied sword in the road as a stray and it comes home to her, a blade that remembers only one blow given for nothing.",
+   "keywords": [
+    "vow",
+    "stray",
+    "home",
+    "sword"
+   ],
+   "planted_ch": 9,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H09-ellwands-fake",
+   "text": "Bartram Ellwand, who wants Marion Thurlow's seat, plants a famous dead captain on a sword's paper on the Apprentice tray; Ned's knack catches the false past owner in front of the Court, makes an enemy, and shows Ellwand what he can read.",
+   "keywords": [
+    "Ellwand",
+    "captain",
+    "paper"
+   ],
+   "planted_ch": 4,
+   "due_ch": 6,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H10-floor-of-the-bond",
+   "text": "The Bond of the Fifth never takes less than fifteen silver a quarter, whatever he takes. Paid at Michaelmas, when the first fifth falls due and he pays it with the core he can sell only as a Journeyman.",
+   "keywords": [
+    "fifteen",
+    "silver",
+    "quarter",
+    "fifth"
+   ],
+   "planted_ch": 6,
+   "due_ch": 13,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H11-warrior-merchant",
+   "text": "The Warrior Merchant begins as Hodge Toller's joke and by the next dawn is Ned's best cry, WARRIOR MERCHANT ribbons, two a copper: he answers to the name for a copper and to Ned for free. Gill undercuts him on it, Lettice sings it wrong, the tap-room pays a copper a verse, the criers cry it at the Coat-Turning, and his belt at the Journeyman sitting shows one of the ribbons and no fighting token. On the bridge at dawn in ch 14 he answers to it for nothing, the same price as NO CHARGE.",
+   "keywords": [
+    "Warrior Merchant",
+    "copper",
+    "nothing"
+   ],
+   "planted_ch": 1,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H12-queens-deed",
+   "text": "Queen Tizz Copperwick pays Ned for the urine-aged bucklers with a Pennycrown deed, a promise everyone laughs at. Paid when her seal stands as the irregular third surety at his Journeyman sitting.",
+   "keywords": [
+    "deed",
+    "seal",
+    "surety"
+   ],
+   "planted_ch": 3,
+   "due_ch": 13,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H13-the-hard-read",
+   "text": "Reading Larkin's sword for Parkin, Ned says why he will not read it hard: a hard read takes a man out of his steel and into the reader. Paid when NO CHARGE empties Gisla's sword of Osmund's witness and her own past, by Ned's choice.",
+   "keywords": [
+    "hard",
+    "read",
+    "steel",
+    "empty"
+   ],
+   "planted_ch": 10,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H14-gills-pitch",
+   "text": "Gill Huxter wants a pitch on the bridge that does not move; she will not be pitied and will not be given anything. Paid when Ned sponsors her onto the Mercers' pack roll and she insists on paying the first quarter in kind.",
+   "keywords": [
+    "pitch",
+    "roll",
+    "kind"
+   ],
+   "planted_ch": 1,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  },
+  {
+   "hook_id": "H15-drafts-stock",
+   "text": "Petronel Gall says she never asks where her stock was born, and the half hand pressed the seal on Ned's own Waking Draft: did he wake on a murdered man's Crystal? Paid when her seized book shows his Draft entered as true Greater Wolf, carried in by O.H.",
+   "keywords": [
+    "Greater Wolf",
+    "book",
+    "O.H."
+   ],
+   "planted_ch": 6,
+   "due_ch": 14,
+   "status": "planned",
+   "events": []
+  }
+ ],
+ "summaries": [],
+ "cast": [
+  {
+   "name": "Ned Chapman",
+   "aliases": [
+    "Ned",
+    "Chapman",
+    "the Warrior Merchant"
+   ],
+   "tier": "lead",
+   "profession": "chapman (peddler) of the Kessen road; Initiate of the Mercers' hall at Kingsbridge, on its pack roll",
+   "age": 20,
+   "role": "the lead: a peddler who means to be the greatest merchant of the Inner World and a warrior too",
+   "culture": "Midmarch commons, born on the Kessen road (Northern English stratum)",
+   "first_ch": 1,
+   "look": "Middling height and wiry, shoulders broad from the pack frame and calves bowed from the road; straw-yellow hair the color of old thatch, cut short with his own knife so it stands up at the crown; a sun-browned face with a wide crier's mouth, gray-green eyes and a chipped front tooth; a white scar through the left eyebrow where a wolf's claw opened it in 706; rope calluses across both palms and an old sealing-wax burn on the right thumb. A secondhand russet working coat faded to dry brick at the shoulders where the straps rub, leather patches at the elbows, the hem let down once, mismatched horn buttons from his worst stock and coin sewn into the lining; nailed boots gone gray at the creases, resoled twice, one heel built up; a drooping felt hat banded with a sample ribbon; every color he sells tied somewhere on him as a sample, so he reads as a walking stall. His measuring-staff: a quartered ash staff his own height and a hand, notched at the ell and the half-ell, the Accord's lead measure-stamp at the iron-ferruled butt, a split near the head bound in brass wire (Plain, Common). A Bauernwehr household knife, one edge honed to a hollow smile, a cracked beech grip plate bound in waxed red thread (Plain, Common). A hazel-and-ash pack frame under oiled canvas gone brown, a square of red wool patched in; a scored, ink-ringed tray lid; an Accord-stamped brass pocket beam bright where the fingers go and green in the crevices; and the long stick, a notched hazel tally of every debt he owes.",
+   "voice": "A chapman's patter: quick, rhythmic, funny and warm, counting aloud, calling everyone friend or by their trade, closing every deal with 'done'; moved, he goes quiet and exact. 'Pins, laces, the best thread south of the Brine and a good word for free: buy the thread, friend, the word's worth nothing and I'll prove it.'",
+   "want": "To pay the woman who pulled him out of the ditch; to be the greatest merchant of the Inner World, a Paragon of the halls; and to be a warrior too, the first man to hold both silvers.",
+   "refusal": "He will not cheat a customer and will not leave an account unpaid; the hinge is someone who cannot pay, to whom he gives.",
+   "lie": "He tells everyone he is doing well; the tell is his day purse, half of it washers, which he jingles while he says it. His father's purse of eleven silver never leaves the coat lining.",
+   "kit": "PROVENANCE (Trait: Everything Remembers Who Held It), Body Path, the Anamnesis lens from ch 10: whatever he holds tells his hands what its last owners did with it, and his hands can do it again, at his own force. Moves: BILL OF SALE! (the read, named ch 8), SECONDHAND! (one borrowed action, ch 8), MIXED LOT! (two owners back to back, ch 12), THE HAGGLE! (the read through the bind, ch 13), NO CHARGE! (the finisher with her sword, ch 14). His named moves are the Trait's own law called aloud, not techniques of his own; his first technique, and Stage III's Catalyst, is book two's FIRSTHAND. Colors: a worn-penny brown at waking; dark char with faded violet on the hands after the lens (ch 10); in a read, a woken owner's own hue shows through the faded violet of their afterimage. Sound word: thriff. Cost: every past he reads stays in him (dreams, aches, habits), a hard read moves the record out of the steel into him, a fast one scorches the grip. Counter: new or fire-wiped steel, a gauntlet, a fighter who closes inside the breath a read takes, crowded or Aether-rich ground.",
+   "sheet": "At the open: [Ned Chapman · Human · Level 8] [Health: good · Feet: blistered] [Skills: Haggling B · Guessing Whose It Was B · Sums C] [Carrying a Pack B · Laughing It Off C · Swordwork F]; unwoken (Capped): no Essence, no class; the Initiate's silver token of the Mercers' hall (Common goods).",
+   "bonds": "Alison Brewster (took him in after 706); Thimble (his runner); Gill Huxter (rival, the slow burn); Marion Thurlow (sponsor); the woman in the ditch (owed, unnamed until ch 8).",
+   "arc": []
+  },
+  {
+   "name": "Gisla Ravensworth",
+   "aliases": [
+    "Gisla",
+    "the hayward",
+    "Strays-Home"
+   ],
+   "tier": "major",
+   "profession": "hayward (keeper of the pinfold and the barley) for Queen Idony Bushel; once a sergeant of the Short Measure Company",
+   "age": 41,
+   "role": "the woman who pulled Ned out of the ditch in 706 and would take no payment; a sergeant of the company that sold the convoy's road that night",
+   "culture": "Northern commons (Northern English stratum), a hayward's daughter",
+   "first_ch": 9,
+   "look": "Six foot and rawboned; gray-streaked black hair in a soldier's braid pinned up under a hayward's felt hood; a weathered face, the nose broken and set crooked, pale blue eyes that look past a man to what he is carrying; a white burn down the left forearm; the right knee swollen and strapped in a stiff leather brace so she walks with a swing. An undyed brown wool kirtle hitched for mud and a cracked leather jerkin over it; a hayward's horn of cow horn bound in brass on a cord; the pinfold keys on her belt; an ash staff shod in iron, worn black where her hands go; nailed boots. Her sword, pledged in 709 because she could neither sell it nor carry it: a plain arming sword, Proofed (D), Uncommon by its known mark, the maker's mark a hayward's horn stamped on the guard, a notch in the guard where a wolf bit it in 706.",
+   "voice": "Few words, dry, flat northern vowels; she never explains herself and never raises her voice. 'I don't take pay for that. Nobody should.'",
+   "want": "To be left alone with the pinfold and the barley, and under that to have done one thing in 706 that was not for sale.",
+   "refusal": "She will not take pay for a sword's work (her vow); the hinge is a thing given that is not a payment.",
+   "lie": "She says she does not remember the boy in the ditch; she has thought of him every winter.",
+   "kit": "Stage IV, Flourishing, Body Path; epithet Strays-Home (whatever strays from her comes home); colors the gray-blue of slate in rain, dim from disuse until ch 12. Calls low, at her card's volume: PINFOLD (the staff penning a weapon or a hand) and HEADLAND (her old name for the rising cut that took the wolf off a boy in a ditch in 706; it lives in her sword until NO CHARGE moves it into Ned). She fights now with the hayward's staff and will not be paid for it.",
+   "sheet": "[Gisla Ravensworth · Level 96 · Stage IV, Flourishing · Path: Body] [Ardency B · Vitality C · Gnosis C · Dexterity B] [Right knee: the cap cracked and badly knit. No running, no kneeling.] [Vow: My sword is not for sale.] [Terms: no pay for a blade's work, ever; no blade carried that was paid for its work.] [Bargain: strays come home to me.] [Breach: lands at once.]",
+   "bonds": "Ned Chapman (the boy in the ditch, owed and unpaid); Amabel Breakspear (the corporal who stayed when she left); Queen Idony Bushel (her employer, who pays in barley).",
+   "arc": []
+  },
+  {
+   "name": "Wolstan Kemp",
+   "aliases": [
+    "Kemp",
+    "the Hall-Master",
+    "the Auctioneer"
+   ],
+   "tier": "major",
+   "profession": "Hall-Master of Kemp's Yard, a fighting and hiring hall at Kingsbridge",
+   "age": 52,
+   "role": "the fighter's side of the table: he stakes Ned's Waking Draft on a bond and wants him in the yard",
+   "culture": "Midmarch, a champion of a dead king's tourney ring",
+   "first_ch": 4,
+   "look": "Huge and bald, the scalp sunburned, a white beard cut square at the jaw, hands like spades and a laugh like a dropped anvil; a green doublet edged in gilt cord, strained at the buttons, over a linen shirt with the sleeves rolled; the Expert's silver fighting token of his own hall at his belt; a pollaxe with a blackened head hung over the yard's green door, which he takes down only for the spring muster.",
+   "voice": "Booming, delighted with puns, calls Ned 'my chapman'; he makes a bargain sound like a joke and a joke sound like a bargain. 'The rule says one has to sell to the other. Fine. I'll buy.'",
+   "want": "A fighter who can learn from any blade, hired out at a good price; and to beat the Mercers' snobbery at their own table.",
+   "refusal": "No dead man's luck in his yard: the yard-irons go back in the fire every quarter-day.",
+   "lie": "He tells Ned the bond is a kindness; it is the best investment he has made in ten years.",
+   "kit": "Stage V, Splintering, Body Path; epithet the Auctioneer (every blow raises the bid); colors a beaten copper-orange; GOING ONCE! GOING TWICE! GONE!, bare-handed (he splits the yard post with it); the pollaxe over the door.",
+   "sheet": "[Wolstan Kemp · Stage V, Splintering · Path: Body]",
+   "bonds": "Ned Chapman (his bond, his chapman); Bett Bodkin (his sergeant); Marion Thurlow (an old opponent across the square).",
+   "arc": []
+  },
+  {
+   "name": "Marion Thurlow",
+   "aliases": [
+    "Marion",
+    "Mistress Thurlow"
+   ],
+   "tier": "major",
+   "profession": "Mercer factor at Master standing (Very Rare goods), on the Court of Assistants of the Mercers' hall at Kingsbridge",
+   "age": 58,
+   "role": "Ned's sponsor on the pack roll and the merchant side of the table",
+   "culture": "Midmarch, a tokenless girl of the wharves once",
+   "first_ch": 1,
+   "look": "Small and upright; silver hair under a black velvet coif; the first two fingers of her right hand stained with ink to the second knuckle; spectacles on a silver chain; a plain black gown of good wool with lawn cuffs; the Master's silver token of the Mercers at her throat, its wax worn to a smear by twenty years of her thumb.",
+   "voice": "Like a ledger closing: precise, dry, short sentences, kind under it. 'A title is what lets a stranger hand you the goods. Don't make them hand you a sword.'",
+   "want": "To keep the Midmarch Mercers honest, and to see a tokenless chapman rise as she once did.",
+   "refusal": "She will not countersign for a sworn fighter.",
+   "lie": "She says she does not bet; she keeps a book with Clarice Nock on Ned.",
+   "kit": "Unwoken; a Master's eye: Appraisal A.",
+   "sheet": "[Marion Thurlow · Level 14] [Skills: Appraisal A · Book-keeping S · Not Being Hurried A]",
+   "bonds": "Ned Chapman (her sponsored chapman); Jasper Sealey (the Clerk she has outlasted); Bartram Ellwand (her rival in office); Wolstan Kemp (the old enemy across the square).",
+   "arc": []
+  },
+  {
+   "name": "Amabel Breakspear",
+   "aliases": [
+    "Amabel",
+    "the Captain",
+    "Captain Breakspear",
+    "the Long Tab"
+   ],
+   "tier": "major",
+   "profession": "captain of the Short Measure Company, a free company of forty lances",
+   "age": 34,
+   "role": "the captain whose company Ned sutlers for; a corporal of it on the night in 706 when it sold the convoy's road",
+   "culture": "Midmarch, a Kingsbridge cooper's daughter",
+   "first_ch": 5,
+   "look": "Big-boned and broad in the hip, cropped red hair, a burn scar down the left side of the jaw; painted half-plate repainted in the company's black and yellow checks, the paint flaking at the elbow cops; a long-hafted axe slung across the back; a sash stuffed with other people's IOUs.",
+   "voice": "Loud, generous, profane, laughs at herself first. 'Everybody's owed. Get in line, chapman, it's a long one and it moves slow.'",
+   "want": "To wash the company's name clean of 706.",
+   "refusal": "She will never sell a road: the company's rule since 706.",
+   "lie": "She tells everyone the company's name is a joke about pay; at Nether Marl she says she never heard the name Gisla Ravensworth.",
+   "kit": "Stage IV, Flourishing, Body Path; epithet the Long Tab; colors a hot fox-orange; RUNNING TAB! (every swing she does not finish is banked in the haft of her long axe) and SETTLE UP! (it all pays out in one cleave).",
+   "sheet": "[Amabel Breakspear · Stage IV, Flourishing · Path: Body]",
+   "bonds": "Kit Quarrel, Larkin and Parkin Gedge, Ninian Ditchling (her company); Gisla Hayward (the sergeant who left); Ned Chapman (her sutler).",
+   "arc": []
+  },
+  {
+   "name": "Gill Huxter",
+   "aliases": [
+    "Gill"
+   ],
+   "tier": "major",
+   "profession": "huckster (peddler of ribbons, pins and gossip) on the great bridge at Kingsbridge",
+   "age": 22,
+   "role": "Ned's rival on the bridge, and the slow burn",
+   "culture": "Midmarch commons",
+   "first_ch": 1,
+   "look": "Black curls under a yellow kerchief, freckles across a sharp nose, a gap between her front teeth; a ribbon tray on a neck strap; patched red skirts hitched up for the mud; a thumb that sits on the scale.",
+   "voice": "Fast, mocking, sing-song, the last word always hers. 'Sell me a sword, Warrior, and I'll sell you the bandage. Two coppers.'",
+   "want": "A fixed pitch on the bridge, a stall that doesn't move.",
+   "refusal": "She will not be pitied.",
+   "lie": "She says she does not care what happens to Ned.",
+   "kit": "Unwoken; Weighing Light B.",
+   "sheet": "[Gill Huxter · Level 7] [Skills: Crying Wares A · Weighing Light B · Knowing Who's Lying C]",
+   "bonds": "Ned Chapman (rival); Thimble (runs for them both).",
+   "arc": []
+  },
+  {
+   "name": "Avelina Stray",
+   "aliases": [
+    "Avelina",
+    "the widow Stray"
+   ],
+   "tier": "major",
+   "profession": "lacemaker of the south wharves; widow of Osmund Stray",
+   "age": 36,
+   "role": "the widow who sells Ned the lot with the horn-marked sword so that he will read who killed her husband",
+   "culture": "Kingsbridge wharves",
+   "first_ch": 7,
+   "look": "Tall and very thin, dark hair pulled back hard under a widow's black linen, gray eyes red at the rims and dry; lacemaker's fingers, quick and pricked; a gray wool gown let out and taken in again, a lace collar of her own making, Osmund's red Standing Army sash folded in her sleeve.",
+   "voice": "Quiet and exact, a lacemaker's patience; she counts stitches when she is frightened. 'He was home for dinner every day for eleven years. Then he wasn't.'",
+   "want": "To have Osmund's killers named before the market closes.",
+   "refusal": "She will not sell Osmund's things to anyone who asked for him by name.",
+   "lie": "She tells the bailiff she believes it was beasts.",
+   "kit": "Unwoken.",
+   "sheet": "[Avelina Stray · Level 6] [Skills: Lacework A · Counting B]",
+   "bonds": "Osmund Stray (her dead husband); Ned Chapman (the chapman who owes her nine gold).",
+   "arc": []
+  },
+  {
+   "name": "Ottor Halfhand",
+   "aliases": [
+    "Ottor",
+    "Halfhand"
+   ],
+   "tier": "major",
+   "profession": "night-cutter: an ex-cutter of the Thresh who kills practitioners for their Crystals (he calls himself a cordial-man)",
+   "age": 46,
+   "role": "the killer in the cordial ring",
+   "culture": "the Thresh cutters' camps; born Midmarch",
+   "first_ch": 7,
+   "look": "Lean and long-armed in gray wraps, a string of lucky teeth (monster teeth, some not) at his throat, a soft weathered face; his left hand short of two and a half fingers, the stumps polished smooth; a war crossbow of horn and steel with a windlass, a quiver of proofed bolts, a messer and a buckler, and an oiled leather roll holding a bone saw, a mallet and a cold chisel.",
+   "voice": "Soft, polite, patient as a hunter in a blind. 'Nobody sits up with a man like that. He's nobody's. That makes him ours.'",
+   "want": "Enough money for a bought Stage, and never to be poor again.",
+   "refusal": "He never fights fair: he kills only the sleeping, the drugged and the surprised.",
+   "lie": "He tells buyers the stones are monster cores.",
+   "kit": "Stage III, Ascension, Body Path; colors a dirty yellow-gray; the crossbow and the chisel; he whispers one word with the proofed bolt, 'Nobody's', and never fights fair. The ring's motif is his line: the dead nobody sits up with belong to them.",
+   "sheet": "[Ottor Halfhand · Stage III, Ascension · Path: Body]",
+   "bonds": "Petronel Gall (renders for him); Bartram Ellwand (sells for him).",
+   "arc": []
+  },
+  {
+   "name": "Ninian Ditchling",
+   "aliases": [
+    "Ninian"
+   ],
+   "tier": "major",
+   "profession": "camp boy of the Short Measure Company (errands, water, the horse lines)",
+   "age": 10,
+   "role": "the foundling Ned shields from the wolves and pulls out of a ditch for nothing",
+   "culture": "the Short Measure Company's camps; a foundling",
+   "first_ch": 5,
+   "look": "Small and sharp-elbowed, hair the color of wet straw, a company coat in black and yellow checks cut down to his size, one boot too big and stuffed with rag.",
+   "voice": "Question after question, with no pause for the answers. 'If nobody paid her, how did she eat?'",
+   "want": "To belong to somebody.",
+   "refusal": "He will not cry where anyone can see.",
+   "lie": "He says he remembers his mother.",
+   "kit": "Unwoken; a child. Never in any sexual context.",
+   "sheet": "[Ninian Ditchling · Level 2] [Skills: Running Errands B · Asking C]",
+   "bonds": "Amabel Breakspear and the company (who found him); Ned Chapman.",
+   "arc": []
+  },
+  {
+   "name": "Kit Quarrel",
+   "aliases": [
+    "Kit"
+   ],
+   "tier": "recurring",
+   "profession": "crossbow sellsword of the Short Measure Company",
+   "age": 28,
+   "role": "the deadpan crossbow who saves Ned twice",
+   "culture": "Midmarch",
+   "first_ch": 2,
+   "look": "One exact stroke: a crossbow with a quarrel-notched stock and a face that never moves.",
+   "want": "To be paid on time.",
+   "bonds": "Ned Chapman (stitched him for a copper).",
+   "arc": [],
+   "kit": "Stage III, Ascension; Journeyman's fighting token; calls every bolt by its price, deadpan: Three copper."
+  },
+  {
+   "name": "Larkin Gedge",
+   "aliases": [
+    "Larkin"
+   ],
+   "tier": "recurring",
+   "profession": "sellsword of the Short Measure Company, a twin",
+   "age": 25,
+   "role": "the twin who finishes his brother's boasts",
+   "culture": "Midmarch",
+   "first_ch": 5,
+   "look": "One exact stroke: the twin in the green hat, who claims the good half of every boast.",
+   "want": "A song about himself.",
+   "bonds": "Parkin Gedge (his twin).",
+   "arc": [],
+   "kit": "Stage III, Ascension; Journeyman's fighting token; starts every boast."
+  },
+  {
+   "name": "Parkin Gedge",
+   "aliases": [
+    "Parkin"
+   ],
+   "tier": "recurring",
+   "profession": "sellsword of the Short Measure Company, a twin",
+   "age": 25,
+   "role": "the twin who is left",
+   "culture": "Midmarch",
+   "first_ch": 5,
+   "look": "One exact stroke: the twin in the brown hat, named for a ginger oatcake.",
+   "want": "For Larkin to stop telling the oatcake joke.",
+   "bonds": "Larkin Gedge (his twin).",
+   "arc": [],
+   "kit": "Stage III, Ascension; Journeyman's fighting token; finishes every boast."
+  },
+  {
+   "name": "Bett Bodkin",
+   "aliases": [
+    "Bett",
+    "Sergeant Bodkin",
+    "Needle Bett"
+   ],
+   "tier": "recurring",
+   "profession": "yard sergeant of Kemp's Yard; examiner at the yard test",
+   "age": 39,
+   "role": "the woken sergeant who shows Ned what Capped means",
+   "culture": "Midmarch",
+   "first_ch": 4,
+   "look": "One exact stroke: thin as her name, a Journeyman's fighting token, a rebated yard-iron in a hand that never shakes, and an old steel buckler older than the yard and hers, the one thing Kemp never puts back in the fire.",
+   "want": "Candidates who stop on the terms.",
+   "bonds": "Wolstan Kemp (her master).",
+   "arc": [],
+   "kit": "Stage III, Ascension; epithet Needle Bett; NEEDLEWORK!, called flat; colors a thin bright pewter."
+  },
+  {
+   "name": "Jasper Sealey",
+   "aliases": [
+    "Jasper",
+    "the Clerk"
+   ],
+   "tier": "recurring",
+   "profession": "Clerk of the Mercers' hall at Kingsbridge",
+   "age": 61,
+   "role": "the clerk who intones the hall rule",
+   "culture": "Midmarch",
+   "first_ch": 1,
+   "look": "One exact stroke: a voice for a choir and a quill behind each ear.",
+   "want": "Everything entered, in order.",
+   "bonds": "Marion Thurlow (who has outlasted three Masters with him).",
+   "arc": []
+  },
+  {
+   "name": "Bartram Ellwand",
+   "aliases": [
+    "Ellwand",
+    "Bartram"
+   ],
+   "tier": "recurring",
+   "profession": "journeyman Mercer factor at Kingsbridge; secretly the fence who sells the Cordial as core lots",
+   "age": 38,
+   "role": "the merchant who sells the dead without ever touching a sword",
+   "culture": "Midmarch",
+   "first_ch": 4,
+   "look": "One exact stroke: a coat of plum broadcloth far too good for his silver, very clean hands, and the loudest patter in Kingsbridge after Ned's.",
+   "want": "Marion Thurlow's seat on the Court of Assistants; he prices anything, the dead included, in a warm patter that is Ned's voice turned inside out.",
+   "bonds": "Ottor Halfhand and Petronel Gall (the ring).",
+   "arc": []
+  },
+  {
+   "name": "Petronel Gall",
+   "aliases": [
+    "Petronel",
+    "Mistress Gall"
+   ],
+   "tier": "recurring",
+   "profession": "Drafter: pourer at a licensed house in Kingsbridge; secretly renders the Cordial for the night-cutters",
+   "age": 50,
+   "role": "the Drafter who pours Ned's Waking Draft",
+   "culture": "Midmarch",
+   "first_ch": 6,
+   "look": "One exact stroke: oak-gall ink on her cuffs and a leech's calm.",
+   "want": "The finest stock in the Midmarch, from wherever it comes: every soul renders down to a clear stock, and she is proud of how clear hers runs.",
+   "bonds": "Ottor Halfhand and Bartram Ellwand (the ring).",
+   "arc": []
+  },
+  {
+   "name": "Barnaby Pledger",
+   "aliases": [
+    "Barnaby",
+    "Pledger"
+   ],
+   "tier": "recurring",
+   "profession": "pledge-broker (pawnbroker) of Kingsbridge",
+   "age": 63,
+   "role": "the broker whose book holds Gisla's name",
+   "culture": "Kingsbridge",
+   "first_ch": 7,
+   "look": "One exact stroke: a magnifying lens screwed into one eye and a house rule painted over the counter: no provenance, no pledge.",
+   "want": "Every pledge redeemed, or sold at twice.",
+   "bonds": "Gisla Hayward (her pledge, 709).",
+   "arc": []
+  },
+  {
+   "name": "Alison Brewster",
+   "aliases": [
+    "Alison",
+    "Mother Brewster"
+   ],
+   "tier": "recurring",
+   "profession": "alewife of the Rolling Strike, Kingsbridge",
+   "age": 49,
+   "role": "the alewife who took Ned in after 706; his barrow lives in her yard",
+   "culture": "Kingsbridge",
+   "first_ch": 1,
+   "look": "One exact stroke: forearms like hams and an apple-beer smell that never leaves her.",
+   "want": "Ned fed and alive.",
+   "bonds": "Ned Chapman (like a son, not one).",
+   "arc": []
+  },
+  {
+   "name": "Thimble",
+   "aliases": [
+    "Dowsabel Starling",
+    "Dowsabel"
+   ],
+   "tier": "recurring",
+   "profession": "runner and lookout on the great bridge",
+   "age": 9,
+   "role": "the little runner who wants every thimble on Ned's tray",
+   "culture": "Kingsbridge",
+   "first_ch": 1,
+   "look": "One exact stroke: so small the market named her for a thimble. A child, never in any sexual context.",
+   "want": "Every thimble on Ned's tray.",
+   "bonds": "Ned Chapman and Gill Huxter (she runs for both).",
+   "arc": []
+  },
+  {
+   "name": "Lettice Rimer",
+   "aliases": [
+    "Lettice"
+   ],
+   "tier": "recurring",
+   "profession": "minstrel of the Kessen road",
+   "age": 30,
+   "role": "the minstrel who makes the Warrior Merchant song and gets it wrong",
+   "culture": "Midmarch",
+   "first_ch": 3,
+   "look": "One exact stroke: a lute with a crack mended in gold wax.",
+   "want": "A song that outlives a king.",
+   "bonds": "Ned Chapman (her best material).",
+   "arc": []
+  },
+  {
+   "name": "Halloo Hal Horner",
+   "aliases": [
+    "Hal Horner",
+    "Halloo Hal"
+   ],
+   "tier": "recurring",
+   "profession": "market crier",
+   "age": 44,
+   "role": "the crier who cries the epithet",
+   "culture": "Midmarch",
+   "first_ch": 3,
+   "look": "One exact stroke: a voice that carries across a fish market and a horn he doesn't need.",
+   "want": "A copper a bill.",
+   "bonds": "",
+   "arc": []
+  },
+  {
+   "name": "Clarice Nock",
+   "aliases": [
+    "Clarice"
+   ],
+   "tier": "recurring",
+   "profession": "bookie of the Kingsbridge yards",
+   "age": 41,
+   "role": "the bookie who takes odds on the Warrior Merchant",
+   "culture": "Midmarch",
+   "first_ch": 11,
+   "look": "One exact stroke: a slate on a barrel and a notched tally for every bet.",
+   "want": "A price that moves with no news to explain it.",
+   "bonds": "Marion Thurlow (a quiet customer).",
+   "arc": []
+  },
+  {
+   "name": "Queen Tizz Copperwick the Fourth",
+   "aliases": [
+    "Queen Tizz",
+    "Tizz"
+   ],
+   "tier": "recurring",
+   "profession": "Tinker Goblin queen of Tollgarth (canon)",
+   "age": 33,
+   "role": "the toll-queen who pays Ned in a Pennycrown deed",
+   "culture": "Tinker Goblin, Tollgarth",
+   "first_ch": 3,
+   "look": "One exact stroke (canon): three foot five in her boots, one arm of her own and one of her own design, her second-best crown, and the smell of burned vitriol and solder.",
+   "want": "A good show, and the toll.",
+   "bonds": "Ned Chapman (her deed).",
+   "arc": [],
+   "kit": "Tinker Goblin; she shouts the names and marks of her contraptions as they misfire."
+  },
+  {
+   "name": "Queen Idony Bushel the Second",
+   "aliases": [
+    "Queen Idony"
+   ],
+   "tier": "recurring",
+   "profession": "the barley queen: a petty crown on a granary",
+   "age": 47,
+   "role": "Gisla's employer, who buys heaped and sells level",
+   "culture": "Midmarch",
+   "first_ch": 9,
+   "look": "One exact stroke: a crown of good middling price set on a granary roof, and a bushel measure she sits on.",
+   "want": "The barley in before the iron wind.",
+   "bonds": "Gisla Hayward (her hayward).",
+   "arc": []
+  },
+  {
+   "name": "Hodge Toller",
+   "aliases": [
+    "Toller"
+   ],
+   "tier": "walk-on",
+   "profession": "toll-reeve at the Kingsbridge end of the great bridge",
+   "age": 50,
+   "role": "the reeve who makes the joke the market keeps",
+   "culture": "Kingsbridge",
+   "first_ch": 1,
+   "look": "One exact stroke: Toller the toller, a toll-board and a bad pun every single time.",
+   "want": "Two copper a pack.",
+   "arc": []
+  },
+  {
+   "name": "King Baldwin Furlong the Long",
+   "aliases": [
+    "King Baldwin"
+   ],
+   "tier": "walk-on",
+   "profession": "toll-king of a kingdom one furrow of the Kessen road long",
+   "age": 45,
+   "role": "a short king who walks his border every morning with a rod",
+   "culture": "Midmarch",
+   "first_ch": 2,
+   "look": "One exact stroke: a short man with a measuring rod and a copper crown.",
+   "want": "Every traveler's copper, once.",
+   "arc": []
+  },
+  {
+   "name": "King Hamo the Undefeated",
+   "aliases": [
+    "Hamo",
+    "King Hamo"
+   ],
+   "tier": "walk-on",
+   "profession": "king of Nether Marl, the kingdom that is a dungeon (canon)",
+   "age": 58,
+   "role": "the king who sells licenses at the door and has never gone below the Mouth",
+   "culture": "Midmarch",
+   "first_ch": 10,
+   "look": "One exact stroke (canon): a stamped copper crown bought at Pennycrown, and a table at the Mouth where he takes the toll in and a much larger one out.",
+   "want": "The toll coming out.",
+   "arc": []
+  },
+  {
+   "name": "Osmund Stray",
+   "aliases": [
+    "Osmund"
+   ],
+   "tier": "walk-on",
+   "profession": "soldier of the Kingsbridge Standing Army (dead)",
+   "age": 41,
+   "role": "the dead man whose lot carries Gisla's sword",
+   "culture": "Kingsbridge",
+   "first_ch": 7,
+   "look": "One exact stroke: the red sash of the Standing Army, home for dinner every day for eleven years.",
+   "want": "(dead) home for dinner.",
+   "arc": []
+  },
+  {
+   "name": "Dunnet No-Ears",
+   "aliases": [
+    "Dunnet"
+   ],
+   "tier": "recurring",
+   "profession": "night-cutter, Ottor Halfhand's second",
+   "age": 38,
+   "role": "the Stage III killer Ned fights with MIXED LOT at the pinfold",
+   "culture": "the Thresh cutters' camps",
+   "first_ch": 12,
+   "look": "One exact stroke: no ears at all, a Scourge thing took both, and lucky teeth strung across the holes.",
+   "want": "His share of the Cordial.",
+   "kit": "Stage III, Ascension; a messer and a buckler.",
+   "arc": []
+  },
+  {
+   "name": "Benedict Graine",
+   "aliases": [
+    "the Measurewright"
+   ],
+   "tier": "walk-on",
+   "profession": "Measurewright on circuit",
+   "age": 55,
+   "role": "reads the coil aloud at the yard test",
+   "culture": "the Accord",
+   "first_ch": 13,
+   "look": "One exact stroke: a fork, a coil and a bad temper, as every Measurewright has.",
+   "want": "True weights.",
+   "arc": []
+  }
+ ]
+}

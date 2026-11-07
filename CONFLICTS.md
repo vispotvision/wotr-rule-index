@@ -1999,3 +1999,30 @@ the author notes."
 **Consequence if unresolved:** The public wiki contradicts itself on who holds the Outer World and where its peoples live.
 **Recommendation:** none.
 **Status:** ruled by Natalie as an agent ruling, logged in RULINGS.md 2026-11-05 and applied to the older pages; open to Isaac's overturn. The Measurewrights' ledger half of The Southern Pan stands. The world atlas image still shows the older shape.
+
+## C-183: Which POV a scene picks
+
+**Rules:** R5-C1-WRITE_FROM_LEAST_KNOWING vs R80-13-WRITING_CRAFT_16_TO_18 (6) and NATALIE.md Interiority
+**The clash:** Pack Five's default writes a scene from whoever knows least about what is coming; Isaac's 2026-10-31 direction picks the POV by who is most affected and can see the right thing. scene_brief printed only the older default as its first blank.
+**Quotes:** R5-C1: "Where a scene could be written from two POVs, write it from whoever knows least about what is coming. This is a default, breakable with reason." R80-13: "a scene picks its POV by who is most affected and can see the right thing".
+**Consequence if unresolved:** Two briefs for the same beat can name different POVs, and a critic can fail a chapter for following Isaac's newer rule.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-07 under the canon hierarchy (Isaac's newer word governs): the POV is whoever is most affected and can see the right thing; between two equally affected, the one who knows least about what is coming. scene_brief's first blank now says so. Isaac may overturn.
+
+## C-184: Whether Martin is a named model
+
+**Rules:** R70-4-WESTERN_MODELS vs R83-1-HEADLINE and NATALIE.md Touchstones
+**The clash:** The Style Law dropped Martin and Abercrombie as named models; the Dark Ages headline and Natalie's touchstones name Martin for the politics.
+**Quotes:** R70-4: "Not taken: Martin and Abercrombie." R83-1: "For feel: Final Fantasy's world, Martin's politics, Tolkien's sense of age, anime's heat." NATALIE.md: "Martin for the politics".
+**Consequence if unresolved:** An audit lens or a critic can count a Martin-shaped court as off-model.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-07 under the canon hierarchy (Isaac's newer word governs): Martin is named again for the politics only (lethal courts, wants under one flag, consequence); R70-4's prose models stand for the prose, and the narrator still passes no moral verdicts. Isaac may overturn.
+
+## C-185: Magitech in the cities against the medieval Dark Ages
+
+**Rules:** R78-4-WOTR_IDENTITY_TONE and R80-1-DARK_SHONEN_TONE vs R83-9-CULTIVATION and NATALIE.md The Dark Ages
+**The clash:** The 2026-10-14 identity row calls WOTR a magitech, magipunk world with magitech everywhere in the cities and, in its notes, licensed district mains, and R80-1 (2026-10-24, served in every prose-law loadout) asks for cities bright and loud with magitech and the draw-light; the Dark Ages law retires the draw and its mains and keeps what is built and carried medieval, with magic done by living people and their crafts.
+**Quotes:** R78-4: "Magitech is everywhere in the cities (lights, heat, water, transport)". NATALIE.md: "What is built and carried stays medieval." and "Magic is everywhere, done by living people and their crafts."
+**Consequence if unresolved:** A chapter can be briefed with city mains and magitech transport that the Dark Ages law has retired.
+**Recommendation:** none.
+**Status:** agent ruling 2026-11-07 under the canon hierarchy (the newer rule governs): R78-4's and R80-1's tone stands (dark shonen, not grimdark, bright and loud), and their magitech and draw-light are read as the living crafts: city lamps, heat and water are paid trades done by people and their worked gear, never mains or machinery. Isaac may overturn.

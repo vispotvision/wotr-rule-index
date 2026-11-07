@@ -191,7 +191,7 @@ pub fn scene_brief(beat: &str, thread: &str, scene_type: &str, characters: &[Str
         format!("Beat: {}", beat.trim()),
         String::new(),
         "## Fill before drafting (author notes)".into(),
-        "1. POV: ____  (write from whoever knows least about what is coming, R5-C1-WRITE_FROM_LEAST_KNOWING; a default, breakable with reason)".into(),
+        "1. POV: ____  (whoever is most affected and can see the right thing, R80-13; between two equally affected, whoever knows least about what is coming, R5-C1-WRITE_FROM_LEAST_KNOWING; C-183)".into(),
         "2. This POV knows: ____ | wrongly believes: ____ | the reader knows that they do not: ____  (R5-C1-INFO_TRACKED_PER_POV)".into(),
         "3. What it costs, specific and visible (reserve, body, debt, renown, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)".into(),
         "4. Closes on: ____  (a chapter or arc on a hook; a scene on any concrete close, a pressing question included; a turn at his next real decision: a risk, a bargain, a fight, a line that matters. R79-1, R79-4)".into(),
@@ -202,8 +202,8 @@ pub fn scene_brief(beat: &str, thread: &str, scene_type: &str, characters: &[Str
         lines.extend([
             "7. Each fighter's combat vocabulary, assigned before the technique (Blade / Verdict / Percussion / Expenditure): ____  (R1-1-THREE_VOCABULARIES_RULING)",
             "8. The read: what evidence the POV gets, over which exchanges, shown as behaviour, before anything kills; the fight has a findable way out (R12-3-COMBAT_EXCHANGE_OWES, R71-8, R79-6): ____",
-            "9. The working's one clear causal line at first display, in a mouth or narration; the full mechanism is on the page in roleplay and set piece alike (R79-6): ____",
-            "10. Stat that decides each contested action, by row (R14-3-STATS_DECIDE_TABLE, R14-3-TRACEABILITY): ____",
+            "9. The Working Card for each working at its size: a signature's first use, a finisher or a change gets the whole card (charge, pull, aura, room, senses, mechanism, effect, cost); a small move gets a line that still says what it did and cost (DEPTH AND EXPLANATION, R80-22, R82-24): ____",
+            "10. Stat that decides each contested action (R14-3-STATS_DECIDE_TABLE); the stats decide out of sight, and the notes name a row only for a contested or turning outcome (R79-10): ____",
         ].map(String::from));
     }
     if scene_type == "battle" {
@@ -236,8 +236,8 @@ pub fn scene_brief(beat: &str, thread: &str, scene_type: &str, characters: &[Str
 // ---------------------------------------------------------------- gap_fill
 pub fn gap_fill(md: &str) -> Result<String, String> {
     let sci = rx!(r"(?i)\b(?:pressure differential|gradient|latent heat|phase transition|dielectric|resonance|cavitation|nucleation|entropy|boundary condition|conduction|impedance|friction|momentum|torque|shear|tensile|viscosity|oxidation|combustion|frequency|amplitude|wavelength|density|saturation|diffusion|sintering|spectroscopy|refraction|inertia|kinetic|potential energy|joule|newton|pascal|kelvin|hertz)\b");
-    let aether = rx!(r"\b(?:Aether(?:ic)?|Aetheric Density|Residue|Saturation|standpipe|district main|draw)\b");
-    let wellspring = rx!(r"\b(?:Wellspring|Family|Physics Domain|glyph|Core Law|Category)\b");
+    let aether = rx!(r"\b(?:Aether(?:ic)?|Aetheric Density|Residue|Saturation)\b");
+    let wellspring = rx!(r"\b(?:Wellspring|Titan|Path|Physics Domain|glyph|Core Law)\b");
     let essence = rx!(r"\b(?:Essence|Soul Crystal|Essence Core|Aether Shell|Attraction Layer|EU|eta|η|Flux Density|Crystal State|reserve)\b");
     let causal = rx!(r"(?i)\b(?:because|so that|which meant|which is why|therefore|since|as a result|so the|so it|hence)\b");
     let mech = rx!(r"\b(?:coupling|phase-lock|phase lock|resonan\w+|harmonis\w+|harmoniz\w+|conduit|lattice|Attraction|Obsession|Sovereignty|Penetration|Coherence)\b");
@@ -252,11 +252,11 @@ pub fn gap_fill(md: &str) -> Result<String, String> {
         "# Gap-fill pass (Thirteen \u{a7}5)".to_string(),
         String::new(),
         format!("1. BEAT INVENTORY \u{2014} {} paragraphs, {exchanges} carry a physical exchange. List each exchange as read \u{2192} fault \u{2192} counter \u{2192} cost; any exchange missing one of the four is a gap (R12-3-COMBAT_EXCHANGE_OWES).", paras.len()),
-        format!("2. LOGIC AUDIT \u{2014} {} causal connectives in the text (check 24 fails a fight passage with none). For every outcome: which stat row decided it (R14-3-TRACEABILITY)? Name the row in the author notes.", count(causal, md)),
-        format!("3. STRATUM AUDIT \u{2014} mentions: Aether {}, Wellspring {}, Essence {}. The page owes one clear causal line at first display; the full three-strata account lives on the card and in the notes (R79-6, superseding R13-2-THREE_STRATA_MANDATE).", count(aether, md), count(wellspring, md), count(essence, md)),
+        format!("2. LOGIC AUDIT \u{2014} {} causal connectives in the text (check 24 fails a fight passage with none). For every contested or turning outcome: which stat decided it? Name the row in the author notes (R79-10, superseding R14-3-TRACEABILITY).", count(causal, md)),
+        format!("3. STRATUM AUDIT \u{2014} mentions: Aether {}, Wellspring {}, Essence {}. The page carries the full Working Card at a signature's first use, a finisher or a change, and a line for a small move (DEPTH AND EXPLANATION, R80-22, R82-24); the exact math lives in the notes.", count(aether, md), count(wellspring, md), count(essence, md)),
         format!("4. PHYSICS AUDIT \u{2014} real-science terms present: {sci}. Each Wellspring law is stated as the real law with a directional operator (R13-2-STRATUM_TWO_WELLSPRING)."),
-        format!("5. BODY AUDIT \u{2014} {anat} anatomy/injury terms, {blade} blade body/action terms (R80-4). Every blow is body, path, target, result and cost; wounds plain and anime on the page, clinical names and ATLS class in the notes and a medic's mouth; the POV's own body on the page. Roleplay fights show the full mechanism like a set piece; figures live in mouths, never narration (R79-6)."),
-        "6. PHENOMENON AUDIT \u{2014} for each working: the real phenomenon it runs on, its Physics Domain and Wellspring, Category and alignment tag, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE). Write the line in the author notes if the text does not carry it.".into(),
+        format!("5. BODY AUDIT \u{2014} {anat} anatomy/injury terms, {blade} blade body/action terms (R80-4). Every blow is body, path, target, result and cost; wounds plain and anime on the page, clinical names and ATLS class in the notes and a medic's mouth; the POV's own body on the page. Roleplay fights show the full mechanism like a set piece; figures live in mouths and windows, never in narration (R84-1, R84-2)."),
+        "6. PHENOMENON AUDIT \u{2014} for each working: the real phenomenon it runs on, its Wellspring (kind and Titan), Path and Form, the glyph's limit at the layer it lands through, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE, read through R85-31 and R85-33: no Families, Forms for Categories). The page carries it; the exact math goes in the notes.".into(),
         format!("7. VOCABULARY PASS \u{2014} Mechanism Vocabulary present: {mech}. Show the effect first, then name it; system and science terms are free in narration (R78-3, amending R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB)."),
         "8. PROSE PASS (last) \u{2014}".into(),
         verify::report(&prose),

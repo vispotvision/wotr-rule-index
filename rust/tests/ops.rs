@@ -150,6 +150,142 @@ fn book_next_blocks_on_an_undecided_gate() {
     fs::remove_dir_all(&root).unwrap();
 }
 
+#[test]
+fn book_next_review_mode_writes_through_and_names_the_waiting_gates() {
+    let root = scratch("book-review");
+    let b = root.join("book/r");
+    fs::create_dir_all(b.join("ch01")).unwrap();
+    fs::create_dir_all(b.join("ch02")).unwrap();
+    fs::write(b.join("outline.json"), r#"{"thread":"T","gate_mode":"review","gates":[1,3,9],"chapters":[{"number":1,"title":"One"},{"number":2,"title":"Two"},{"number":3,"title":"Three"}]}"#).unwrap();
+    fs::write(b.join("ch01/final.md"), "x").unwrap();
+    // one book under book/: no --slug needed, and the undecided gate 1 does not block chapter 2
+    let (code, out) = run(&root, &["book-next", "--json"]);
+    assert_eq!(code, Some(0), "{out}");
+    assert!(out.contains(r#""action": "write", "chapter": 2"#) && out.contains(r#""gate_mode": "review""#), "{out}");
+    fs::write(b.join("ch02/final.md"), "x").unwrap();
+    fs::create_dir_all(b.join("ch03")).unwrap();
+    fs::write(b.join("ch03/final.md"), "x").unwrap();
+    let (_, out) = run(&root, &["book-next", "--json"]);
+    assert!(out.contains(r#""action": "review""#) && out.contains("gate chapters 1, 3 wait"), "{out}");
+    assert!(fs::read_to_string(b.join("GATES.md")).unwrap().contains("Gate chapters: 1, 3 (review mode"));
+    assert!(out.contains("outline gates that are not chapter numbers, ignored: 9"), "{out}");
+    // two rejections: the first is served once its chapter is rewritten, then the second comes up
+    run(&root, &["book-next", "--reject", "1", "--note", "redo"]);
+    run(&root, &["book-next", "--reject", "3", "--note", "redo too"]);
+    let (_, out) = run(&root, &["book-next", "--json"]);
+    assert!(out.contains(r#""action": "rewrite", "chapter": 1"#), "{out}");
+    std::thread::sleep(std::time::Duration::from_millis(1100));
+    fs::write(b.join("ch01/final.md"), "rewritten").unwrap();
+    let (_, out) = run(&root, &["book-next", "--json"]);
+    assert!(out.contains(r#""action": "rewrite", "chapter": 3"#), "{out}");
+    assert!(fs::read_to_string(b.join("GATES.md")).unwrap().contains("| 1 | One | yes | yes | rewritten |"));
+    // a second book means the caller must name one
+    fs::create_dir_all(root.join("book/other")).unwrap();
+    fs::write(root.join("book/other/outline.json"), r#"{"chapters":[{"number":1,"title":"A"}]}"#).unwrap();
+    let (code, out) = run(&root, &["book-next"]);
+    assert_eq!(code, Some(1));
+    assert!(out.starts_with("name the book with --slug:"), "{out}");
+    fs::remove_dir_all(&root).unwrap();
+}
+
+#[test]
+fn book_memory_checks_the_facts_reads_a_person_and_writes_the_cast() {
+    let root = scratch("book-memory");
+    let b = root.join("book/m");
+    fs::create_dir_all(b.join("ch01")).unwrap();
+    fs::create_dir_all(b.join("ch02")).unwrap();
+    fs::write(b.join("outline.json"), r#"{"title":"The Stall","chapters":[{"number":1,"title":"One","cast":["Ned Chapman","Tizz Copperwick","a toll-reeve"]},{"number":2,"title":"Two","cast":["Ned Chapman"]}]}"#).unwrap();
+    fs::write(b.join("ch01/final.md"), "# One\n\nNed sold the *sword*, he said,\nfor eleven silver. Old Wat died on the bridge.\n").unwrap();
+    fs::write(b.join("ch02/final.md"), "# Two\n\nThe wolf's notch was on the guard.\n").unwrap();
+    let state = r#"{"cast":[
+      {"name":"Ned Chapman","aliases":["Ned"],"tier":"lead","profession":"peddler","look":"tall","voice":"loud","want":"to pay the debt"},
+      {"name":"Old Wat","tier":"walk-on","profession":"toll-reeve"},
+      {"name":"Nobody","tier":"cameo","profession":""}],
+     "facts":[
+      {"ch":1,"subject":"Ned","kind":"money","fact":"sold the sword for 11s","quote":"Ned sold the sword, he said, for eleven silver."},
+      {"ch":1,"subject":"Old Wat","kind":"death","fact":"died on the bridge","quote":"Old Wat died on the bridge."},
+      {"ch":2,"subject":"Old Wat","kind":"knows","fact":"knows the notch","quote":"The wolf's notch was on the guard."},
+      {"ch":2,"subject":"Ned","kind":"vibes","fact":"x","quote":"The wolf's notch"},
+      {"ch":2,"subject":"Stranger","kind":"wound","fact":"cut","quote":"not in the chapter"}],
+     "hooks":[{"hook_id":"H1","keywords":["notch","guard"],"planted_ch":1,"due_ch":1,"status":"planted"}],
+     "summaries":[{"ch":1,"title":"One","summary":"s"}]}"#;
+    fs::write(b.join("state.json"), state).unwrap();
+    let (code, out) = run(&root, &["book-memory"]);
+    assert_eq!(code, Some(1), "{out}");
+    for want in ["Old Wat died in ch 1 but has a 'knows' fact in ch 2", "kind 'vibes' is not one of", "'Stranger' is not in the cast register",
+        "quote not in ch02/final.md", "ch 2 has a final.md and no summary", "tier 'cameo'", "cast 'Nobody' has no profession",
+        "hook H1 was due by ch 1", "hook H1: all its keywords appear in ch 2", "lead 'Ned Chapman' has no refusal, kit, sheet, bonds",
+        "ch 1 lists 'Tizz Copperwick' in its cast and the register has no entry"] {
+        assert!(out.contains(want), "missing {want:?} in\n{out}");
+    }
+    assert!(!out.contains("fact 1 "), "the italic-marked quote should be found:\n{out}");
+    assert!(!out.contains("'a toll-reeve'"), "a generic walk-on is not a register name:\n{out}");
+    let (code, out) = run(&root, &["book-memory", "--slug", "m", "--name", "ned"]);
+    assert_eq!(code, Some(0));
+    assert!(out.starts_with("# Ned Chapman") && out.contains("- profession: peddler") && out.contains("ch 1 money: sold the sword"), "{out}");
+    let (code, out) = run(&root, &["book-memory", "--render"]);
+    assert_eq!(code, Some(0), "{out}");
+    let cast = fs::read_to_string(b.join("CAST.md")).unwrap();
+    assert!(cast.contains("### Ned Chapman, peddler") && cast.contains("| Old Wat | toll-reeve | ch 1 to 2 |"), "{cast}");
+    fs::remove_dir_all(&root).unwrap();
+}
+
+#[test]
+fn book_memory_bounds_heals_drops_floors_and_purges() {
+    let root = scratch("book-memory-2");
+    let b = root.join("book/w");
+    for n in 1..=3 {
+        fs::create_dir_all(b.join(format!("ch0{n}"))).unwrap();
+    }
+    fs::write(b.join("outline.json"), r#"{"chapters":[{"number":1,"title":"A","cast":["Ned"]},{"number":2,"title":"B","cast":["Ned","Brann"]},{"number":3,"title":"C","cast":["Ned","a girl"]}]}"#).unwrap();
+    fs::write(b.join("ch01/final.md"), "Ned cut his hand. Ned cracked a rib.\n").unwrap();
+    fs::write(b.join("ch02/final.md"), "The rib knit. Brann fell dead. Brann rose at dusk.\n").unwrap();
+    fs::write(b.join("ch03/final.md"), "Brann knew the road.\n").unwrap();
+    fs::write(b.join("gates.json"), r#"{"3":{"decision":"dropped","when":"2026-11-07","note":""}}"#).unwrap();
+    let state = r#"{"cast":[
+      {"name":"Ned Chapman","aliases":["Ned","the Captain"],"tier":"lead","profession":"peddler","age":20,"kit":{"concept":"Provenance","moves":["Second Hand"]},"sheet":["Level 4","Haggling C"]},
+      {"name":"Brann","aliases":["the Captain"],"tier":"recurring","profession":"sellsword","age":"about 40"}],
+     "facts":[
+      {"ch":1,"subject":"Ned","kind":"wound","fact":"cut right hand","quote":"Ned cut his hand."},
+      {"ch":1,"subject":"Ned","kind":"wound","fact":"cracked rib","quote":"Ned cracked a rib."},
+      {"ch":2,"subject":"Ned","kind":"healed","heals":"cracked rib","fact":"the rib knit","quote":"The rib knit."},
+      {"ch":2,"subject":"Brann","kind":"death","fact":"fell","quote":"Brann fell dead."},
+      {"ch":2,"subject":"Brann","kind":"returned","fact":"rose","quote":"Brann rose at dusk."},
+      {"ch":3,"subject":"Brann","kind":"knows","fact":"the road","quote":"Brann knew the road."}],
+     "hooks":[{"hook_id":"H9","keywords":["rib","knit"],"planted_ch":3,"status":"planned"}],
+     "summaries":[{"ch":1,"title":"A","summary":"s"},{"ch":2,"title":"B","summary":"s"}]}"#;
+    fs::write(b.join("state.json"), state).unwrap();
+    let (code, out) = run(&root, &["book-memory"]);
+    assert_eq!(code, Some(1), "{out}");
+    assert!(out.contains("FAIL register: alias 'the Captain' of 'Brann' is already 'Ned Chapman'"), "{out}");
+    assert!(out.contains("chapter 3 was dropped; remove its facts"), "{out}");
+    assert!(!out.contains("ch 3 has a final.md and no summary") && !out.contains("died in ch 2"), "dropped ch 3 and the return:\n{out}");
+    assert!(!out.contains("hook H9"), "a planned hook is not scanned:\n{out}");
+    assert!(!out.contains("has no kit") && !out.contains("has no sheet"), "structured fields count:\n{out}");
+    let (_, out) = run(&root, &["book-memory", "--name", "Ned"]);
+    assert!(out.contains("open wounds: cut right hand (ch 1)") && !out.contains("cracked rib (ch 1)"), "{out}");
+    assert!(out.contains("- kit: {\"concept\":\"Provenance\"") && out.contains("- sheet: Level 4; Haggling C"), "{out}");
+    let (_, out) = run(&root, &["book-memory", "--before", "2", "--name", "Ned"]);
+    assert!(out.contains("as of the start of chapter 2") && out.contains("cut right hand (ch 1); cracked rib (ch 1)") && !out.contains("ch 2 healed"), "{out}");
+    let (_, out) = run(&root, &["book-memory", "--name", "Brann"]);
+    assert!(out.contains("died in ch 2, returned in ch 2"), "{out}");
+    let (code, out) = run(&root, &["book-memory", "--floor", "3"]);
+    assert_eq!(code, Some(1));
+    assert!(out.contains("'a girl' in explicit chapter 3 has no register entry"), "{out}");
+    let (code, _) = run(&root, &["book-memory", "--floor", "2"]);
+    assert_eq!(code, Some(0));
+    let (code, out) = run(&root, &["book-memory", "--purge", "2"]);
+    assert_eq!(code, Some(0), "{out}");
+    assert!(out.starts_with("purged ch 2: 3 facts, 1 summaries"), "{out}");
+    let after = fs::read_to_string(b.join("state.json")).unwrap();
+    assert!(!after.contains("The rib knit.") && after.contains("Ned cracked a rib."), "{after}");
+    fs::write(b.join("state.json"), "{\"facts\": [").unwrap();
+    let (code, out) = run(&root, &["book-memory"]);
+    assert_eq!(code, Some(1));
+    assert!(out.starts_with("FAIL book/w/state.json:"), "a load error is a FAIL line:\n{out}");
+    fs::remove_dir_all(&root).unwrap();
+}
+
 fn hook(root: &Path, input: &str) -> (Option<i32>, String) {
     let mut c = cmd(root, &["hook"]).stdin(Stdio::piped()).stdout(Stdio::piped()).spawn().unwrap();
     c.stdin.take().unwrap().write_all(input.as_bytes()).unwrap();

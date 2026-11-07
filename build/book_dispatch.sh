@@ -4,7 +4,7 @@
 # wotr-mcp book-next says what the book needs (write the next chapter, or stop because a
 # gate chapter is written and undecided). If a chapter is due, Claude Code runs headless
 # on the subscription (build/book_dispatch_prompt.md) and invokes the book-chapter
-# workflow, which does the real work: brief -> draft -> ten check passes -> bounded
+# workflow, which does the real work: brief -> draft -> a deterministic check and six critics -> bounded
 # revise -> gate digest, all under book/<slug>/ch<NN>/. Then this script commits what
 # landed — and, before it decides anything, whatever an earlier run left under book/
 # uncommitted (a run killed at the limit, a commit the sync's index.lock refused), so a
@@ -17,7 +17,7 @@
 # Runs as the systemd user unit wotr-book.service, fired by wotr-book.timer (daily
 # 02:00). The unit files live in build/systemd/; build/systemd_setup.sh installs them
 # under ~/.config/systemd/user/.
-#   bash build/book_dispatch.sh                      # by hand, from anywhere
+#   bash build/book_dispatch.sh --slug <name>        # by hand, from anywhere
 #   systemctl --user start wotr-book.service         # the same, under systemd
 #   journalctl --user -u wotr-book.service           # what systemd saw; build/book_dispatch.log has the rest
 # Remove with: systemctl --user disable --now wotr-book.timer
@@ -25,14 +25,14 @@
 #
 # Off switch: WOTR_BOOK_OFF=1 (in ~/.config/wotr/env, or the environment); empty, 0,
 # no and false all mean on. One chapter per run, always.
-#   --slug <name>   another book under book/ (default kharven-year)
+#   --slug <name>   the book under book/ (required: there is no default book since 2026-11-07)
 #   --dry-run       decide and report; never call Claude
 
 set -uo pipefail   # no -e: the original carried on past every failure and logged it
 . "$(dirname "$0")/env.sh"   # cd to the repo; ~/.config/wotr/env; WOTR_PYTHON, WOTR_CLAUDE, wotr_log
 WOTR_LOG=build/book_dispatch.log
 
-slug="kharven-year"
+slug=""
 dry_run=""
 while [ $# -gt 0 ]; do
     case "$1" in
@@ -54,6 +54,7 @@ case "${WOTR_BOOK_OFF:-}" in
     *) wotr_log "WOTR_BOOK_OFF is set; nothing dispatched"; exit 0 ;;
 esac
 
+if [ -z "$slug" ]; then wotr_log "book_dispatch.sh: --slug <name> is required (no default book)"; echo "book_dispatch.sh: --slug <name> is required" >&2; exit 2; fi
 wotr_log "dispatch start ($slug)"
 git pull -q --rebase --autostash origin master >/dev/null 2>&1   # a tracked log churns; autostash keeps the rebase from refusing
 code=$?
@@ -116,8 +117,8 @@ t0=$(date +%s)
 # start the wotr server (45 tools, unapproved) on every run.
 res="$(timeout 5h "$WOTR_CLAUDE" -p --max-turns 120 --permission-mode acceptEdits \
     --strict-mcp-config --mcp-config '{"mcpServers":{}}' \
-    --allowedTools "Workflow" "Read" "Write" "Edit" "Glob" "Grep" "TaskOutput" "Bash(rust/target/release/wotr-mcp tool:*)" "Bash(rust/target/release/wotr-mcp book-next:*)" \
-    < build/book_dispatch_prompt.md 2>&1 9>&-)"
+    --allowedTools "Workflow" "Read" "Write" "Edit" "Glob" "Grep" "TaskOutput" "Bash(rust/target/release/wotr-mcp tool:*)" "Bash(rust/target/release/wotr-mcp book-next:*)" "Bash(rust/target/release/wotr-mcp book-memory:*)" \
+    < <(printf 'Slug: %s. Pass --slug %s to every book-next and book-memory call.\n\n' "$slug" "$slug"; cat build/book_dispatch_prompt.md) 2>&1 9>&-)"
 code=$?
 mins=$(( ($(date +%s) - t0) / 60 ))
 if [ "$code" -eq 124 ]; then wotr_log "  claude: killed at the 5 h limit"; fi

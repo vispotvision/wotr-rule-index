@@ -187,19 +187,38 @@ pub fn book_state(slug: &str) -> Result<Value, String> {
     let gates = if gates_path.exists() { read(gates_path)? } else { json!({}) };
     let chapters = outline.get("chapters").and_then(Value::as_array).ok_or("outline.json has no chapters")?;
     let total = chapters.len() as i64;
-    let gated = gates_for(total);
+    let numbers: BTreeSet<i64> = chapters.iter().filter_map(|c| c.get("number").and_then(Value::as_i64)).collect();
+    // an outline may name its own gate chapters (each must be one of its chapter numbers); empty or absent is the default cadence
+    let (gated, bad_gates): (BTreeSet<i64>, Vec<String>) = match outline.get("gates").and_then(Value::as_array).filter(|l| !l.is_empty()) {
+        Some(list) => (
+            list.iter().filter_map(Value::as_i64).filter(|n| numbers.contains(n)).collect(),
+            list.iter().filter(|g| !g.as_i64().is_some_and(|n| numbers.contains(&n))).map(Value::to_string).collect(),
+        ),
+        None => (gates_for(total), Vec::new()),
+    };
+    // review mode: the book is written straight through and the gates wait for Isaac's read after (2026-11-07)
+    let review = s(&outline, "gate_mode") == "review";
     let mut rows = Vec::new();
     for c in chapters {
         let n = c.get("number").and_then(Value::as_i64).ok_or("a chapter has no number")?;
         let dec = gates.get(n.to_string()).cloned().unwrap_or(json!({}));
-        rows.push(json!({"n": n, "title": s(c, "title"), "written": d.join(format!("ch{n:02}/final.md")).exists(), "gate": gated.contains(&n),
-            "decision": dec.get("decision").cloned().unwrap_or(Value::Null), "when": dec.get("when").cloned().unwrap_or(Value::Null), "note": s(&dec, "note")}));
+        let final_md = d.join(format!("ch{n:02}/final.md"));
+        let mut decision = dec.get("decision").cloned().unwrap_or(Value::Null);
+        // a rejection is served once final.md is rewritten after it; the gate then waits again
+        let rewritten_after = |at: i64| fs::metadata(&final_md).and_then(|m| m.modified()).ok().and_then(|t| t.duration_since(std::time::UNIX_EPOCH).ok()).is_some_and(|t| t.as_secs() as i64 > at);
+        if decision.as_str() == Some("rejected") && dec.get("at").and_then(Value::as_i64).is_some_and(rewritten_after) {
+            decision = json!("rewritten");
+        }
+        rows.push(json!({"n": n, "title": s(c, "title"), "written": final_md.exists(), "gate": gated.contains(&n),
+            "decision": decision, "when": dec.get("when").cloned().unwrap_or(Value::Null), "note": s(&dec, "note")}));
     }
     let flag = |r: &Value, k: &str| r[k].as_bool().unwrap_or(false);
-    let blocked = rows.iter().find(|r| flag(r, "gate") && flag(r, "written") && !matches!(r["decision"].as_str(), Some("approved" | "dropped")));
+    let open = |r: &&Value| flag(r, "gate") && flag(r, "written") && !matches!(r["decision"].as_str(), Some("approved" | "dropped"));
+    let blocked = if review { None } else { rows.iter().find(open) };
     let rejected = rows.iter().find(|r| r["decision"].as_str() == Some("rejected"));
     let next = rows.iter().find(|r| !flag(r, "written"));
-    let (action, chapter, why) = if let Some(r) = rejected {
+    let waiting: Vec<String> = rows.iter().filter(open).map(|r| r["n"].to_string()).collect();
+    let (action, chapter, mut why) = if let Some(r) = rejected {
         let note = if s(r, "note").is_empty() { "no note" } else { s(r, "note") };
         ("rewrite", r["n"].clone(), format!("chapter {} was rejected: {note}", r["n"]))
     } else if let Some(r) = blocked {
@@ -207,14 +226,20 @@ pub fn book_state(slug: &str) -> Result<Value, String> {
     } else if let Some(r) = next {
         let tail = if flag(r, "gate") { " (a gate chapter)" } else { "" };
         ("write", r["n"].clone(), format!("chapter {} \u{2014} {}{tail}", r["n"], s(r, "title")))
+    } else if !waiting.is_empty() {
+        ("review", Value::Null, format!("all {total} chapters are written; gate chapters {} wait for Isaac's read", waiting.join(", ")))
     } else {
         ("done", Value::Null, format!("all {total} chapters are written and every gate is answered"))
     };
-    let target = chapter.as_i64().and_then(|c| chapters.get((c - 1) as usize)).and_then(|c| c.get("target_words").cloned()).unwrap_or(json!(3500));
+    if !bad_gates.is_empty() {
+        why = format!("{why} (outline gates that are not chapter numbers, ignored: {})", bad_gates.join(", "));
+    }
+    let target = chapter.as_i64().and_then(|c| chapters.iter().find(|x| x.get("number").and_then(Value::as_i64) == Some(c))).and_then(|c| c.get("target_words").cloned()).unwrap_or(json!(3500));
     let written = rows.iter().filter(|r| flag(r, "written")).count();
-    let culture = outline.get("culture").cloned().unwrap_or(json!("Kharven"));
+    let culture = outline.get("culture").cloned().unwrap_or(Value::Null);
     Ok(json!({"slug": slug, "action": action, "chapter": chapter, "why": why, "total": total, "written": written, "thread": s(&outline, "thread"),
-        "culture": culture, "target_words": target, "rows": rows, "gated": gated.iter().collect::<Vec<_>>()}))
+        "front_thread": s(&outline, "front_thread"), "culture": culture, "target_words": target, "rows": rows, "gated": gated.iter().collect::<Vec<_>>(),
+        "gate_mode": if review { "review" } else { "block" }}))
 }
 
 fn write_gates_md(slug: &str) -> Result<(), String> {
@@ -223,7 +248,8 @@ fn write_gates_md(slug: &str) -> Result<(), String> {
     let mut lines = vec![
         format!("# Gates \u{2014} {slug}"),
         String::new(),
-        format!("Chapters {}/{} written. Gate chapters: {} (the first {FIRST_GATES}, then every {EVERY}th, and the last).", st["written"], st["total"], gated.join(", ")),
+        format!("Chapters {}/{} written. Gate chapters: {}{}.", st["written"], st["total"], gated.join(", "),
+            if s(&st, "gate_mode") == "review" { " (review mode: written straight through, each gate read after)" } else { "" }),
         String::new(),
         format!("**Next:** {} \u{2014} {}", s(&st, "action"), s(&st, "why")),
         String::new(),
@@ -241,7 +267,7 @@ fn write_gates_md(slug: &str) -> Result<(), String> {
     }
     lines.extend([
         String::new(),
-        "Decide with `wotr-mcp book-next --approve N` or `--reject N --note \"...\"`. Approving does not archive the chapter: `archive_scene` is a separate call Isaac makes.".into(),
+        format!("Decide with `wotr-mcp book-next --slug {slug} --approve N` or `--reject N --note \"...\"`. Approving does not archive the chapter: `archive_scene` is a separate call Isaac makes."),
         String::new(),
     ]);
     fs::write(root("book").join(slug).join("GATES.md"), lines.join("\n")).map_err(|e| e.to_string())
@@ -250,17 +276,35 @@ fn write_gates_md(slug: &str) -> Result<(), String> {
 fn decide(slug: &str, n: i64, decision: &str, note: &str) -> Result<(), String> {
     let p = root("book").join(slug).join("gates.json");
     let mut g: Map<String, Value> = if p.exists() { serde_json::from_str(&read_lossy(&p)).map_err(|e| e.to_string())? } else { Map::new() };
-    g.insert(n.to_string(), json!({"decision": decision, "when": Local::now().format("%Y-%m-%d").to_string(), "note": note}));
+    g.insert(n.to_string(), json!({"decision": decision, "when": Local::now().format("%Y-%m-%d").to_string(), "at": Local::now().timestamp(), "note": note}));
     fs::write(&p, dumps_unicode(&Value::Object(g), Some(1))).map_err(|e| e.to_string())?;
     write_gates_md(slug)?;
     println!("chapter {n}: {decision}{}", if note.is_empty() { String::new() } else { format!(" \u{2014} {note}") });
     Ok(())
 }
 
+/// No default book: with one outline under book/ it is that one, with several the caller names it.
+pub fn book_slug(given: Option<&str>) -> Result<String, String> {
+    let mut books: Vec<String> = fs::read_dir(root("book")).into_iter().flatten().flatten().filter(|e| e.path().join("outline.json").is_file()).map(|e| e.file_name().to_string_lossy().into_owned()).collect();
+    books.sort();
+    match (given, books.as_slice()) {
+        (Some(s), _) => Ok(s.to_string()),
+        (None, [one]) => Ok(one.clone()),
+        (None, _) => Err(format!("name the book with --slug: {}", if books.is_empty() { "none has an outline".into() } else { books.join(", ") })),
+    }
+}
+
 pub fn book_next(args: &[String]) -> i32 {
     let opt = |f: &str| args.iter().position(|a| a == f).and_then(|i| args.get(i + 1)).map(String::as_str);
     let num = |f: &str| opt(f).and_then(|v| v.parse::<i64>().ok()).filter(|n| *n != 0);
-    let slug = opt("--slug").unwrap_or("kharven-year");
+    let slug = match book_slug(opt("--slug")) {
+        Ok(s) => s,
+        Err(e) => {
+            println!("{e}");
+            return 1;
+        }
+    };
+    let slug = slug.as_str();
     if !root("book").join(slug).join("outline.json").exists() {
         println!("no outline for '{slug}': run the book-chapter workflow with do_foundation first");
         return 1;
@@ -279,7 +323,7 @@ pub fn book_next(args: &[String]) -> i32 {
             println!("{}\n{chapter}\n{}", s(&st, "action"), s(&st, "why").replace('\n', " "));
         } else if args.iter().any(|a| a == "--json") {
             let mut m = Map::new();
-            for k in ["slug", "action", "chapter", "why", "total", "written", "thread", "culture", "target_words"] {
+            for k in ["slug", "action", "chapter", "why", "total", "written", "thread", "front_thread", "culture", "target_words", "gate_mode"] {
                 m.insert(k.into(), st[k].clone());
             }
             println!("{}", dumps_unicode(&Value::Object(m), None));
@@ -475,7 +519,7 @@ pub fn nightly(args: &[String]) -> i32 {
                     digest.push(format!("- **{slug}**: {}/{} chapters written. Next: {} \u{2014} {}", st["written"], st["total"], s(&st, "action"), s(&st, "why")));
                     if s(&st, "action") == "blocked" {
                         let c = st["chapter"].as_i64().unwrap_or(0);
-                        digest.push(format!("  - nothing more is written until you answer: `wotr-mcp book-next --approve {c}` or `--reject {c} --note \"...\"` (book/{slug}/ch{c:02}/GATE.md)"));
+                        digest.push(format!("  - nothing more is written until you answer: `wotr-mcp book-next --slug {slug} --approve {c}` or `--reject {c} --note \"...\"` (book/{slug}/ch{c:02}/GATE.md)"));
                     }
                 }
                 Err(e) => digest.push(format!("- **{slug}**: book-next failed: {e}")),
@@ -587,12 +631,17 @@ pub fn hook() -> i32 {
 /// `wotr-mcp tool NAME [args] [--flags]`: the positional command line the book pipeline's agents use,
 /// as (MCP tool name, its arguments). None for `loadout`, which `tool_main` answers itself.
 pub fn tool_args(args: &[String]) -> Result<Option<(String, Map<String, Value>)>, String> {
-    const VALUED: [&str; 5] = ["--thread", "--type", "--culture", "--band", "--cast"];
+    const VALUED: [&str; 6] = ["--thread", "--type", "--culture", "--band", "--cast", "--part"];
     let (mut x, mut cast, mut i): (Vec<&str>, Vec<&str>, usize) = (Vec::new(), Vec::new(), 1);
-    let (mut brief, mut combat, mut thread, mut kind, mut culture) = (false, false, "", "standard", "Kharven");
+    let (mut brief, mut combat, mut thread, mut kind, mut culture, mut part) = (false, false, "", "standard", "Kharven", 0i64);
     while i < args.len() {
         match args[i].as_str() {
             "--brief" => brief = true,
+            "--part" => {
+                // load_rules pages at about 20k tokens; a caller reads part 2, 3... by number
+                i += 1;
+                part = args.get(i).and_then(|p| p.parse().ok()).unwrap_or(0);
+            }
             "--combat" => combat = true,
             "--band" => i += 1, // length is not checked any more (R79-1); accepted for old callers
             "--thread" => {
@@ -623,7 +672,7 @@ pub fn tool_args(args: &[String]) -> Result<Option<(String, Map<String, Value>)>
     let v = match tool {
         "loadout" => return Ok(None),
         "session_start" => json!({"thread": first()?, "scene_type": x.get(1).copied().unwrap_or("standard"), "culture": x.get(2).copied().unwrap_or("Kharven")}),
-        "load_rules" => json!({"tags": x, "brief": brief}),
+        "load_rules" => json!({"tags": x, "brief": brief, "part": part}),
         "check_docket" => json!({"tags": x}),
         "scene_brief" => json!({"beat": first()?, "thread": thread, "scene_type": kind, "culture": culture, "characters": if cast.is_empty() { Value::Null } else { json!(cast) }}),
         "character" | "fow_line" => json!({"name": first()?}),
@@ -631,12 +680,16 @@ pub fn tool_args(args: &[String]) -> Result<Option<(String, Map<String, Value>)>
         "rule" => json!({"id": first()?}),
         "fronts" | "roster" => json!({"thread": x.first().copied().unwrap_or("")}),
         "due" => json!({"sessions_old": x.first().and_then(|n| n.parse::<i64>().ok()).unwrap_or(2), "thread": x.get(1).copied().unwrap_or("")}),
-        "list_conflicts" | "timeline" => json!({}),
+        "list_conflicts" => json!({"part": part}),
+        "timeline" => json!({}),
         "scene_menu" => json!({"thread": first()?, "culture": culture}),
         "verify" => json!({"markdown": file()?, "combat": combat, "culture": culture}),
         "gap_fill" => json!({"markdown": file()?}),
         "scene_context" => json!({"draft": file()?}),
-        "" | "help" | "list" => return Err("tools: session_start load_rules check_docket scene_brief character fow_line scene_recall wiki rule fronts due list_conflicts scene_menu verify gap_fill loadout scene_context roster timeline".into()),
+        // outside references, so a chapter's mandatory research runs on the same command line (2026-11-07)
+        "lookup" => json!({"source": first()?, "query": x.get(1..).unwrap_or_default().join(" ")}),
+        "research" => json!({"question": x.join(" ")}),
+        "" | "help" | "list" => return Err("tools: session_start load_rules check_docket scene_brief character fow_line scene_recall wiki rule fronts due list_conflicts scene_menu verify gap_fill loadout scene_context roster timeline lookup research".into()),
         t => return Err(format!("unknown tool {t}")),
     };
     let name = if tool == "verify" { "verify_scene" } else { tool };
@@ -690,6 +743,10 @@ not json
         assert_eq!((n.as_str(), m["tags"].as_array().unwrap().len(), m["brief"].as_bool()), ("load_rules", 2, Some(true)));
         let (_, m) = a(&["scene_brief", "the beat", "--thread", "T", "--cast", "A", "B", "--culture", "Moto"]);
         assert_eq!((m["beat"].as_str(), m["characters"].as_array().unwrap().len(), m["culture"].as_str()), (Some("the beat"), 2, Some("Moto")));
+        assert_eq!(a(&["load_rules", "combat", "--brief", "--part", "2"]).1["part"].as_i64(), Some(2));
+        let (n, m) = a(&["lookup", "datamuse", "rel_jjb=coin"]);
+        assert_eq!((n.as_str(), m["source"].as_str(), m["query"].as_str()), ("lookup", Some("datamuse"), Some("rel_jjb=coin")));
+        assert_eq!(a(&["research", "medieval", "toll", "roads"]).1["question"].as_str(), Some("medieval toll roads"));
         assert!(tool_args(&["archive_scene".to_string()]).is_err());
         assert!(tool_args(&["loadout".to_string(), "duel".to_string()]).unwrap().is_none());
     }

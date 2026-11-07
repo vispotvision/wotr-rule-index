@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Install the WOTR systemd user units: the four timers (wiki sync hourly, nightly 03:30,
-# book 02:00, weekly backup Sunday 03:00) and the Discord bot. Was seven Windows scheduled tasks — "WOTR wiki sync",
+# Install the WOTR systemd user units: the timers (wiki sync hourly, nightly 03:30,
+# weekly backup Sunday 03:00; the book timer is installed and left disabled, R79-12) and the Discord bot. Was seven Windows scheduled tasks — "WOTR wiki sync",
 # "WOTR nightly", "WOTR book", "WOTR weekly backup", "WOTR jobs", "WOTR bot",
 # "WOTR MCP public" — each registered from its own script; on Linux they are the files
 # in build/systemd/, and this is the one script that puts them in place.
@@ -13,7 +13,8 @@
 #   1. copies build/systemd/*.service and *.timer to ~/.config/systemd/user/, noting
 #      which copies actually changed
 #   2. systemctl --user daemon-reload
-#   3. enable --now the four timers and wotr-bot.service.
+#   3. enable --now the three timers and wotr-bot.service (wotr-book.timer stays disabled:
+#      chapters run when Isaac asks, R79-12).
 #      NOT wotr-mcp-public.service: build/mcp_public_setup.sh enables that one after it
 #      has written the shared secret (build/.mcp_token) and opened the funnel, so the
 #      public server never comes up without a token. The file is copied here with the
@@ -45,10 +46,10 @@ set -uo pipefail
 src="$WOTR_REPO/build/systemd"
 dst="$HOME/.config/systemd/user"
 # what --now enables; wotr-mcp-public.service is deliberately not here (see above)
-enable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
+enable=(wotr-sync.timer wotr-nightly.timer wotr-backup.timer
         wotr-bot.service)
 # what a changed file restarts (see the header); never a oneshot service
-restartable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
+restartable=(wotr-sync.timer wotr-nightly.timer wotr-backup.timer
              wotr-bot.service wotr-mcp-public.service wotr-comfy.service wotr-workshop.service)
 
 # every unit build/systemd/ ships, by name

@@ -230,7 +230,7 @@ rust/target/release/wotr-mcp call due '{"culture":"Kharven"}'
 rust/target/release/wotr-mcp call scene_context '{"draft":"the text of a draft or a beat"}'   # the lorebook
 rust/target/release/wotr-mcp verify draft.md --combat
 rust/target/release/wotr-mcp tool loadout duel                # the tags for a scene type
-rust/target/release/wotr-mcp book-next --json                      # where the book stands (read-only)
+rust/target/release/wotr-mcp book-next --slug <slug> --json        # where the book stands (writes GATES.md); book-memory --slug <slug> checks its memory
 
 # these do the real thing — sync commits and pushes the wiki, nightly runs headless
 # Claude and commits, book_dispatch pulls --rebase --autostash even with --dry-run,
@@ -238,7 +238,7 @@ rust/target/release/wotr-mcp book-next --json                      # where the b
 bash build/sync.sh   bash build/nightly.sh   bash build/book_dispatch.sh [--dry-run]   bash build/backup.sh
 
 # Isaac's decisions — run only on his word
-rust/target/release/wotr-mcp book-next --approve 1              # or --reject 1 --note "..."
+rust/target/release/wotr-mcp book-next --slug <slug> --approve 1  # or --reject 1 --note "..."
 python build/judger_apply.py <scene-slug>          # list proposals; then P01 P03 ... to apply the ids he names
 
 # the MCP itself

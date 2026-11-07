@@ -632,7 +632,7 @@
   },
   {
    "name": "scene_brief",
-   "description": "The short pre-write for a set piece (R79-2: scene_brief and the full pipeline are\nfor set pieces only; a turn goes straight to the draft). Give the beat Isaac handed\nyou; get back the brief to fill before drafting: POV choice (write from whoever knows\nleast, R5-C1), what the POV knows / wrongly believes / the reader knows, the cost,\nthe close, each named practitioner's kit; plus FOW lines for the named characters\nthe research prompts for the kind of scene, and the rule loadout for the scene type. The brief lives in the author notes at\narchive; nothing of it is printed under the scene. culture is kept for callers and\nno longer used.",
+   "description": "The short pre-write for a set piece (R79-2: scene_brief and the full pipeline are\nfor set pieces only; a turn goes straight to the draft). Give the beat Isaac handed\nyou; get back the brief to fill before drafting: POV choice (whoever is most affected\nand can see the right thing, R80-13; least-knowing breaks a tie, C-183), what the POV knows / wrongly believes / the reader knows, the cost,\nthe close, each named practitioner's kit; plus FOW lines for the named characters\nthe research prompts for the kind of scene, and the rule loadout for the scene type. The brief lives in the author notes at\narchive; nothing of it is printed under the scene. culture is kept for callers and\nno longer used.",
    "inputSchema": {
     "properties": {
      "beat": {
@@ -1814,6 +1814,8 @@
  ],
  "ops_skills": [
   "wotr-book",
+  "wotr-cast",
+  "wotr-continuity",
   "wotr-ledger",
   "wotr-ops"
  ],

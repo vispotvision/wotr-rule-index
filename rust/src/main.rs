@@ -16,12 +16,15 @@
 //!   wotr-mcp validate | resolve          the rule index gate and out/ (gate.rs)
 //!   wotr-mcp backup | nightly | book-next | hook | tool NAME ...
 //!                                         the machine's own jobs (ops.rs)
+//!   wotr-mcp book-memory [--slug S] [--name NAME | --render]
+//!                                         a book's memory checked, one person's state, CAST.md (book.rs)
 //!   wotr-mcp workshop [--port N] | workshop invite [note]
 //!                                         the players' library and Natalie on their own AI
 //!   wotr-mcp index [-q]                   build/embed_index.py's build(): build/index/ (index.rs)
 //!   wotr-mcp sync                         build/sync.sh: the 15-minute wiki autosave (sync.rs)
 mod analysis;
 mod audio;
+mod book;
 mod bot;
 #[path = "../site/src/rng.rs"]
 mod rng;
@@ -457,6 +460,7 @@ async fn main() {
         },
         Some("backup") => std::process::exit(ops::backup()),
         Some("book-next") => std::process::exit(ops::book_next(&args[1..])),
+        Some("book-memory") => std::process::exit(book::memory(&args[1..])),
         Some("nightly") => std::process::exit(ops::nightly(&args[1..])),
         Some("hook") => std::process::exit(ops::hook()),
         Some("tool") => {

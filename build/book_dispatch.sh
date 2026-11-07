@@ -99,6 +99,11 @@ case "$action" in
     *) wotr_log "nothing to write tonight"; exit 0 ;;
 esac
 if [ -n "$dry_run" ]; then wotr_log "dry run: would write chapter $chapter"; exit 0; fi
+# every agent this run spawns loads CLAUDE.md and NATALIE.md from disk: an uncommitted change to
+# either rewrites the law of the chapter (2026-11-07, the working CLAUDE.md was found replaced)
+if [ -n "$(git status --porcelain -- CLAUDE.md desktop/NATALIE.md)" ]; then
+    wotr_log "  CLAUDE.md or desktop/NATALIE.md has uncommitted changes; restore or commit them first"; exit 1
+fi
 
 if [ ! -x "$WOTR_CLAUDE" ]; then wotr_log "claude CLI not found at $WOTR_CLAUDE"; exit 1; fi
 

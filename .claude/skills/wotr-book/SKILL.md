@@ -113,7 +113,11 @@ Then chapter 1 runs as §2 with `do_foundation: false`.
 
 On demand only (R79-12). Values come from `book-next --json` (slug, thread,
 front_thread, culture, target_words) and `outline.json`; do not start a second
-run while one is going.
+run while one is going. Before any run, `git status --short CLAUDE.md
+desktop/NATALIE.md` must print nothing: every agent the run spawns loads those
+two files from disk, so an uncommitted change to either rewrites the law of
+every chapter (on 2026-11-07 the working CLAUDE.md was found replaced by an
+unrelated persona file). Restore or commit first.
 
 - **One chapter** (block mode, or a rewrite): when `book_next --json` says
   `write` or `rewrite`, invoke

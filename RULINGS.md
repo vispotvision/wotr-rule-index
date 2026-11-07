@@ -4139,3 +4139,9 @@ Context: Replaces the narrower restore step in NATALIE.md, The humanizer.
 Isaac's direction, replacing the three humanizer rulings logged 2026-11-07: the local humanizer is removed altogether, so no scene, fight or improved post goes through it. His direction that finished work in Claude Desktop comes back as a downloadable Markdown file stands.
 
 Context: The pipelines return to draft, review, verify_scene. His words: "lowkey not worried about it".
+
+## 2026-11-07 — new
+
+Isaac's direction: research is mandatory for vocabulary and for all the sources and resources WOTR has, before the draft. Natalie's reading, open to overturn: every source on the Outside resources list that fits the work gets called, findings are reused across a scene's later turns, a quick line needs nothing new, and verify_scene FAILs a longer draft with no vocabulary lookup or no other source behind it.
+
+Context: Replaces "whenever the work touches something new" in NATALIE.md, Outside resources. Natalie's reading of "all" as "all that fit" avoids calling fencing manuals for a court scene.

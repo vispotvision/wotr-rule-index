@@ -4163,3 +4163,9 @@ Context: Found by the book pipeline refit, 2026-11-07; the end-of-book audit len
 Agent ruling, open to overturn: R78-4's tone stands (dark shonen, not grimdark, beautiful and loud), and its "magitech everywhere in the cities" is read through the Dark Ages law as the living crafts: city lamps, heat and water are paid trades done by people and their worked gear, never mains, the draw or machinery; what is built and carried stays medieval. Grounds: the canon hierarchy, the newer rule (R83-9 and NATALIE.md The Dark Ages, 2026-11-05) governing.
 
 Context: Found by the book pipeline refit, 2026-11-07: a chapter brief loading R78-4 could put district mains back into a city. CONFLICTS.md C-185.
+
+## 2026-11-07 — new
+
+Isaac's direction (questionnaire, 2026-11-07): the merchant halls of the Guild Accord bar a sworn fighter from holding a trust title, because a man who is both is buyer and seller of the same blood; "one has to sell to the other" is the plain-speech gloss of the rule, and the root of the jibe "Warrior Merchant". Natalie's reading, open to overturn: it is a hall rule kept by every merchant hall, not a numbered Article, and it binds sworn fighting-guild members (a fighting token or a sworn company); a merchant who fights unsworn breaks no rule, and the halls may grant an exception by a hall's vote.
+
+Context: Answers in imports/drafts/merchant-novella-questionnaire/answers.json (Q8). Canon had nothing on holding two halls' tokens (What Things Cost, The Tiered Path). It is the engine of the merchant novella, whose lead means to be the first exception.

@@ -7,6 +7,7 @@ frozen, and is **not canon for events** in the new lore (canon hierarchy rung 4 
 - `scenes/` — every archived scene, its indexes (ARCS, CAST, MANIFEST, TIMELINE,
   CONTINUITY) and the audio cast files.
 - `table/` — the Ledger, Fronts, NPC roster, sessions and thread dates as they stood.
+- `book/` — the two books built on the old lore (kharven-year, night-watch-zombification), moved here 2026-11-07 on Isaac's word: they leave `book-next` and the nightly and never seed a sequel.
 - `wiki/` — the vault's Scene Archive (the scene mirror, continuity maps, Notion-era
   scene pages) and the retired Table pages (State of Play, Fronts, Ledger, roster).
 

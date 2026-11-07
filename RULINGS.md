@@ -4133,3 +4133,9 @@ Context: The pass may now shorten and reword speech, which the DEPTH and voice l
 Isaac's direction: after the humanize pass Natalie makes minor fixes so it does not break the flow of the scene. She repairs what is at fault, such as punctuation, grammar, a wrong sense, a jarring join or a lost Blow Card part, and leaves the rest of the model's wording standing.
 
 Context: Replaces the narrower restore step in NATALIE.md, The humanizer.
+
+## 2026-11-07 — new
+
+Isaac's direction, replacing the three humanizer rulings logged 2026-11-07: the local humanizer is removed altogether, so no scene, fight or improved post goes through it. His direction that finished work in Claude Desktop comes back as a downloadable Markdown file stands.
+
+Context: The pipelines return to draft, review, verify_scene. His words: "lowkey not worried about it".

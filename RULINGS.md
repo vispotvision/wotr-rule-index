@@ -4121,3 +4121,9 @@ Context: NATALIE.md, Chat style. Newer than and adds to "prose gets nothing but 
 Isaac's direction, replacing the earlier model choice: the humanize tool's model is jialinyyzz/humanizer Q8_0 instead of Smaug-Humanizer. He chose it after reading both on The Line Written, with Natalie recommending Smaug. Everything else about the pass stands.
 
 Context: Natalie's guard addition, open to overturn: a rewrite that puts narration in first person or adds hypophora keeps the draft, since this model showed both and hypophora is a standing ban.
+
+## 2026-11-07 — new
+
+Isaac's direction: the humanize guard is to be lighter so it does not get in the way of removing the AI. Natalie's reading, open to overturn: speech and italic thoughts may be reworded, a rewrite may fall to three-quarters of its length, and only one- and two-word beats are pinned, while names, numbers, sound words, windows, headers and author notes stay protected.
+
+Context: The pass may now shorten and reword speech, which the DEPTH and voice laws otherwise forbid; the restore step carries a lost Blow Card part or a card's voice. NATALIE.md, The humanizer.

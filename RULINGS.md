@@ -4127,3 +4127,9 @@ Context: Natalie's guard addition, open to overturn: a rewrite that puts narrati
 Isaac's direction: the humanize guard is to be lighter so it does not get in the way of removing the AI. Natalie's reading, open to overturn: speech and italic thoughts may be reworded, a rewrite may fall to three-quarters of its length, and only one- and two-word beats are pinned, while names, numbers, sound words, windows, headers and author notes stay protected.
 
 Context: The pass may now shorten and reword speech, which the DEPTH and voice laws otherwise forbid; the restore step carries a lost Blow Card part or a card's voice. NATALIE.md, The humanizer.
+
+## 2026-11-07 — new
+
+Isaac's direction: after the humanize pass Natalie makes minor fixes so it does not break the flow of the scene. She repairs what is at fault, such as punctuation, grammar, a wrong sense, a jarring join or a lost Blow Card part, and leaves the rest of the model's wording standing.
+
+Context: Replaces the narrower restore step in NATALIE.md, The humanizer.
